@@ -1,0 +1,114 @@
+{
+  "meme_id": "meme_00043",
+  "queries": [
+    "\"Man\" \"the room\" \"cant\" \"thinking\" \"staring\"",
+    "\"thinking\" \"staring\" \"random\" \"spot\""
+  ],
+  "primary_terms": [
+    "cant",
+    "the room",
+    "thinking",
+    "staring",
+    "random",
+    "spot",
+    "room",
+    "trick",
+    "ghost",
+    "can",
+    "see",
+    "naa",
+    "lod"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Staring#0001",
+      "doc_id": "wikipedia:Staring",
+      "title": "Staring",
+      "url": "https://en.wikipedia.org/?curid=4409451",
+      "source_type": "wikipedia",
+      "score": 1.4102652549743653,
+      "text": "would be simply staring into a space for awareness, or could be lost in thought (sometimes known as daydreaming), stupefied, or be unable to see. As such, the meaning of a person's staring behavior depends upon the attributions made by the observer. When caught staring, the moment can be a source of embarrassment depending on the reason for staring. For example..."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 1.0703079223632812,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.8859178781509399,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0000",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.7285708487033844,
+      "text": "Attention is the concentration of awareness directed at some phenomenon while excluding others. Across disciplines, the nature of this directedness is conceptualized in different ways. In cognitive psychology, attention is often described as the allocation of limited cognitive processing resources to a subset of information, thoughts, or tasks. In neuropsychology, attention is understood as a set of mechanisms by which sensory cues and internal goals modulate neuronal tuning and orient behavioral and cognitive processes. Attention is not a unitary phenomenon but an umbrella term for multiple related processes, including selective attention (prioritizing some stimuli over others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time)."
+    },
+    {
+      "chunk_id": "wikipedia:In His Image#0000",
+      "doc_id": "wikipedia:In His Image",
+      "title": "In His Image",
+      "url": "https://en.wikipedia.org/?curid=4401031",
+      "source_type": "wikipedia",
+      "score": 0.7094503402709961,
+      "text": "\"In His Image\" is an episode of the American television anthology series The Twilight Zone aired on January 3, 1963. This was the first episode of the fourth season. Each episode was expanded to an hour (with commercials) from \"In His Image\" until \"The Bard\". The fourth season is the only season of The Twilight Zone to have each episode one hour long. In this episode, a man finds his hometown is suddenly inconsistent with his memories of it and begins experiencing irrational urges to commit murder, two mysteries which together lead him to an unpleasant discovery about his identity. Opening narration What you have just witnessed could be the end of a particularly terrifying nightmare. It isn't – it's the beginning. Although Alan Talbot doesn't know it, he's about to enter a strange new world, too incredible to be real, too real to be a dream. It's called The Twilight Zone. Plot While waiting in a subway station, Alan Talbot is approached by an evangelist."
+    },
+    {
+      "chunk_id": "wikipedia:Confusion#0000",
+      "doc_id": "wikipedia:Confusion",
+      "title": "Confusion",
+      "url": "https://en.wikipedia.org/?curid=2079352",
+      "source_type": "wikipedia",
+      "score": 0.668719282746315,
+      "text": "In psychology, confusion is the quality or emotional state of being bewildered or unclear. The term \"acute mental confusion\" is often used interchangeably with delirium in the International Statistical Classification of Diseases and Related Health Problems and the Medical Subject Headings publications to describe the pathology. These refer to the loss of orientation, or the ability to place oneself correctly in the world by time, location and personal identity. Mental confusion is sometimes accompanied by disordered consciousness (the loss of linear thinking) and memory loss (the inability to correctly recall previous events or learn new material). Etymology The word confusion derives from the Latin word, confundo, which means \"confuse, mix, blend, pour together, disorder, embroil.\" Causes Confusion may result from drug side effects or from a relatively sudden brain dysfunction."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0000",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.6321544528007508,
+      "text": "In philosophy and in common usage, an idea (from the Greek word: ἰδέα (idea), meaning 'a form, or a pattern') is the result of thought. Also in philosophy, ideas can also be mental representational images of some object. Many philosophers have considered ideas to be a fundamental ontological category of being. The capacity to create and understand the meaning of ideas is considered to be an essential and defining feature of human beings. An idea arises in a reflexive, spontaneous manner, even without thinking or serious reflection, for example, when we talk about the idea of a person or a place. A new or an original idea can often lead to innovation. Our actions are based upon beliefs, beliefs are patterns or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0001",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.6145147681236267,
+      "text": "others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time). These processes are supported by distributed neural networks in frontal, parietal, and subcortical regions and are closely linked to working memory, executive functions, and consciousness. Patterns of attention also vary across cultures, especially in how individuals attend to context versus focal objects and how children are guided to manage attention in everyday activities..."
+    },
+    {
+      "chunk_id": "wikipedia:Fear#0000",
+      "doc_id": "wikipedia:Fear",
+      "title": "Fear",
+      "url": "https://en.wikipedia.org/?curid=10828",
+      "source_type": "wikipedia",
+      "score": 0.5746213406324386,
+      "text": "Fear is an unpleasant subjective emotional state arising in response to perceived dangers or threats and which, when experienced, is typically associated with physiological and psychological changes. These changes frequently lead to behavioral reactions such as fight-or-flight responses or, in extreme cases, immobilization (freeze response). Unlike most (perhaps all) other animals, humans can experience fear in response to a present or anticipated stimulus and to imagined events. Most internalizing psychopathologies (depression, anxiety, suicidal thoughts and behaviors, and so forth) are associated with and maintained by dysfunctional, anxious, or fearful feelings and thoughts. Phobias, or exaggerated and often disabling fears, are usually similarly dysfunctional. Fear is often framed as a distinct product of evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Silence#0000",
+      "doc_id": "wikipedia:Silence",
+      "title": "Silence",
+      "url": "https://en.wikipedia.org/?curid=440579",
+      "source_type": "wikipedia",
+      "score": 0.5704826325178146,
+      "text": "Silence is the absence of ambient audible sound, the emission of sounds of such low intensity that they do not draw attention to themselves, or the state of having ceased to produce sounds; this latter sense can be extended to apply to the cessation or absence of any form of communication, whether through speech or other medium. Remaining mute can be a symptom of mental illness. Sometimes speakers fall silent when they hesitate in searching for a word, or interrupt themselves before correcting themselves. Discourse analysis shows that people use brief silences to mark the boundaries of prosodic units, in turn-taking, or as reactive tokens, for example, as a sign of displeasure, disagreement, embarrassment, desire to think, confusion, and the like. Relatively prolonged intervals of silence can be used in rituals; in some religious disciplines, people maintain silence for protracted periods, or even for the rest of their lives, as an ascetic means of spiritual transformation."
+    }
+  ]
+}

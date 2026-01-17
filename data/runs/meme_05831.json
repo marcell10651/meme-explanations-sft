@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_05831",
+  "queries": [
+    "\"FBI\" \"Baas\" \"Pee\" \"online classes\" \"think\"",
+    "\"Michael Jordan\" \"the FBI\" \"Real sadness\" \"Baas\"",
+    "\"Real sadness\" \"Baas\" \"Pee\" \"online classes\""
+  ],
+  "primary_terms": [
+    "think",
+    "sad",
+    "Baas",
+    "online classes",
+    "Pee"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.8602382987737656,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.7099063247442245,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0000",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.6869348883628845,
+      "text": "Class, Classes, or The Class may refer to: Common uses not otherwise categorized Class (biology), a taxonomic rank Class (knowledge representation), a collection of individuals or objects Class (philosophy), an analytical concept used differently from such group phenomena as \"types\" or \"kinds\" Class (set theory), a collection of sets that can be unambiguously defined by a property that all its members share Hazard class, a dangerous goods classification Social class, the hierarchical arrangement of individuals in society, usually defined by wealth and occupation Working class, can be defined by rank, income or collar Arts, entertainment, and media \"The Class\" (song), 1959 Chubby Checker song Character class, in role-playing games and other genres Class 95 (radio station), a Singaporean radio channel Films Class (film), 1983 American film The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff"
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0001",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.6840305477380753,
+      "text": "by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\". Angered by the suicide of a student who is mocked and refused a loan for her studies, they eventually kill the corrupt bank manager who abetted it. Soon enough, more corrupt individuals are killed, and Rajan Mathew is reinstated as S.P. to nab the group. The team learn..."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0001",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.6737298429012298,
+      "text": "2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a Singaporean film directed by Tzu Nyen Ho Here (2011 film), an American drama directed by Braden King Here (2023 film), a Belgian film directed by Bas Devos Here (2024 film), an American drama directed..."
+    },
+    {
+      "chunk_id": "wikipedia:Jake Paul#0000",
+      "doc_id": "wikipedia:Jake Paul",
+      "title": "Jake Paul",
+      "url": "https://en.wikipedia.org/?curid=51021695",
+      "source_type": "wikipedia",
+      "score": 0.6090689152479172,
+      "text": "Jake Joseph Paul (born January 17, 1997) is an American professional boxer, influencer and actor. He began his career posting videos on Vine in September 2013 and had amassed 5.3 million followers and 2 billion views before the app was discontinued. He launched his YouTube channel, Jake Paul, in May 2014, and was ranked by Forbes as one of the highest-paid YouTube creators of the 2010s and 2020s. As an actor, Paul's first role in a feature film was in the 2016 film Dance Camp. He went on to star as Dirk Mann on the Disney Channel series Bizaardvark (2016–2018) and appear in the films Airplane Mode (2019), Mainstream (2020), and A Genie's Tail (2022). He has also made guest appearances in the television series Walk the Prank (2016), The Price Is Right (2017), and Ridiculousness (2020). Paul's boxing career began in August 2018 with a white-collar boxing match against Deji Olatunji, which he won via technical knockout. His professional boxing debut was against AnEsonGib in January 2020."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0001",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.5899855494499207,
+      "text": "The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff from Doctor Who The Class (TV series), a CBS sitcom Class (2023 TV series), a 2023 Indian Netflix teen drama Literature Class: A Guide Through the American Status System,..."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0001",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.5175065994262695,
+      "text": "officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great! TV, British TV channel group The Great (TV series), an American comedy-drama See also All pages with titles containing great All pages with titles beginning with Great All pages with titles beginning with The Great All pages with titles beginning with The great The Great (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.5021063983440399,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0001",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.49764035642147064,
+      "text": "by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites. The Internet has enabled and accelerated new forms of personal interaction through instant messaging, Internet forums, and social networking services. Online shopping has also grown to occupy a significant market across industries, enabling firms to extend brick and mortar presences..."
+    }
+  ]
+}

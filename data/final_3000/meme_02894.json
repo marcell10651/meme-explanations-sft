@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_02894",
+  "queries": [
+    "\"Arabic\" \"longer\" \"time\" \"genders\"",
+    "\"different facial expressions\" \"the cartoon monkey\" \"Arabic\" \"French\"",
+    "\"Arabic\" \"French\" \"gender pronouns\" \"longer\""
+  ],
+  "primary_terms": [
+    "longer",
+    "time",
+    "genders",
+    "objects",
+    "Arabic"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Aladdin#0000",
+      "doc_id": "wikipedia:Aladdin",
+      "title": "Aladdin",
+      "url": "https://en.wikipedia.org/?curid=166604",
+      "source_type": "wikipedia",
+      "score": 0.8771512866020202,
+      "text": "Aladdin ( ə-LAD-in; Arabic: علاء الدين, romanized: ʻAlāʼu d-Dīn/ʻAlāʼ ad-Dīn, IPA: [ʕalaːʔ adˈdiːn], ATU 561, 'Aladdin') is a Middle-Eastern folk tale. It is one of the best-known tales associated with One Thousand and One Nights (often known in English as The Arabian Nights), despite not being part of the original text; it was added by the Frenchman Antoine Galland, based on a folk tale that he heard from the Syrian storyteller Hanna Diyab. Sources Known along with Ali Baba as one of the \"orphan tales\", the story was not part of the original Nights collection and has no authentic Arabic textual source, but was incorporated into the book Les mille et une nuits by its French translator, Antoine Galland. John Payne quotes passages from Galland's unpublished diary recording Galland's encounter with a Maronite storyteller from Aleppo, Hanna Diyab."
+    },
+    {
+      "chunk_id": "wikipedia:Switzerland#0001",
+      "doc_id": "wikipedia:Switzerland",
+      "title": "Switzerland",
+      "url": "https://en.wikipedia.org/?curid=26748",
+      "source_type": "wikipedia",
+      "score": 0.7047969102859497,
+      "text": "linguistic and cultural regions—German, French, Italian, and Romansh—reflecting a long-standing tradition of multilingualism and cultural pluralism. Swiss national identity nonetheless remains fairly cohesive, rooted in a shared historical background, common values such as federalism and direct democracy, and Alpine symbolism. Swiss nationhood transcends language, ethnicity, and religion, leading..."
+    },
+    {
+      "chunk_id": "wikipedia:Year#0000",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 0.7002593696117401,
+      "text": "A year is a unit of time based on how long it takes the Earth to orbit the Sun. In scientific use, the tropical year (approximately 365 solar days, 5 hours, 48 minutes, 45 seconds) and the sidereal year (about 20 minutes longer) are more exact. The modern calendar year, as reckoned according to the Gregorian calendar, approximates the tropical year by using a system of leap years. The term 'year' is also used to indicate other periods of roughly similar duration, such as the lunar year (a roughly 354-day cycle of twelve of the Moon's phases – see lunar calendar), as well as periods loosely associated with the calendar or astronomical year, such as the seasonal year, the fiscal year, the academic year, etc. Due to the Earth's axial tilt, the course of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility."
+    },
+    {
+      "chunk_id": "wikipedia:Lady#0000",
+      "doc_id": "wikipedia:Lady",
+      "title": "Lady",
+      "url": "https://en.wikipedia.org/?curid=555643",
+      "source_type": "wikipedia",
+      "score": 0.680509090423584,
+      "text": "A lady is a woman who behaves in a polite way. Once used to describe only women of a high social class or status, the female counterpart of lord, now it may refer to any adult woman, as gentleman can be used for men. \"Lady\" is also a formal title in the United Kingdom. \"Lady\" is used before the family name or peerage of a woman with a title of nobility or honorary title suo jure (in her own right), such as female members of the Order of the Garter and Order of the Thistle, or the wife of a lord, a baronet, Scottish feudal baron, laird, or a knight, and also before the first name of the daughter of a duke, marquess, or earl. Etymology The word comes from Old English hlǣfdige; the first part of the word is a mutated form of hlāf, \"loaf, bread\", also seen in the corresponding hlāford, \"lord\"."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.6484777182340622,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Mask#0001",
+      "doc_id": "wikipedia:Mask",
+      "title": "Mask",
+      "url": "https://en.wikipedia.org/?curid=247083",
+      "source_type": "wikipedia",
+      "score": 0.6169120728969574,
+      "text": "\"mask, specter, nightmare\". This word is of uncertain origin, perhaps from Arabic maskharah مَسْخَرَۃٌ \"buffoon\", from the verb sakhira \"to ridicule\". However, it may also come from Provençal mascarar \"to black (the face)\" (or the related Catalan mascarar, Old French mascurer). This in turn is of uncertain origin – perhaps from a Germanic source akin to English \"mesh\", but perhaps from mask- \"black\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:Miss#0000",
+      "doc_id": "wikipedia:Miss",
+      "title": "Miss",
+      "url": "https://en.wikipedia.org/?curid=23807088",
+      "source_type": "wikipedia",
+      "score": 0.6070824325084686,
+      "text": "Miss (pronounced ) is an English-language honorific typically used for a girl, for an unmarried woman (when not using another title such as \"Doctor\" or \"Dame\"), or for a married woman retaining her maiden name. Originating in the 17th century, it is a contraction of mistress. The plural of Miss is Misses or occasionally Mses. History Origins Like Ms and Mrs, Miss has its roots in the title Mistress. Miss was originally a title given primarily to children rather than adults. During the 1700s, its usage broadened to encompass adult women. The title emerged as a polite way to address women, reflecting changing societal norms and class distinctions. Prior to this, referring to an adult woman as a Miss might have carried connotations of prostitution. Evolution of meanings and usage The meanings of both Miss and Mrs underwent transformations over time. Historically, these titles did not solely indicate marital status."
+    },
+    {
+      "chunk_id": "wikipedia:Decade#0000",
+      "doc_id": "wikipedia:Decade",
+      "title": "Decade",
+      "url": "https://en.wikipedia.org/?curid=695530",
+      "source_type": "wikipedia",
+      "score": 0.5426226168870926,
+      "text": "A decade (from Ancient Greek: δεκάς, dekas, lit. 'group of 10') is a period of 10 years. It may also be called a decennium (from Latin: decennium, lit. 'ten-year'). Decades may describe any ten-year period, such as those of a person's life, or refer to specific groupings of calendar years. Usage Any period of ten years is a 'decade' or 'decennium'. For example, the statement that \"during his last decade, Mozart explored chromatic harmony to a degree rare at the time\" refers to the last 10 years of Wolfgang Amadeus Mozart's life without regard to which calendar years are encompassed. Also, 'the first decade' of a person's life begins on the day of their birth and ends at the end of their 10th year of life when they have their 10th birthday; the second decade of life starts with their 11th year of life (during which one is typically still referred to as being \"10\") and ends at the end of their 20th year of life, on their 20th birthday; similarly, the third decade of life, when one is in"
+    },
+    {
+      "chunk_id": "wikipedia:Morning#0001",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.5424338936805725,
+      "text": "despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\". Significance Cultural implications Morning prayer is a common practice in several religions. The morning period includes specific phases of the Liturgy of the Hours of Christianity. Some languages that use the time of day in greeting have a special greeting for morning..."
+    },
+    {
+      "chunk_id": "wikipedia:Widow#0000",
+      "doc_id": "wikipedia:Widow",
+      "title": "Widow",
+      "url": "https://en.wikipedia.org/?curid=254879",
+      "source_type": "wikipedia",
+      "score": 0.5414411187171936,
+      "text": "A widow (female) or widower (male) is a person whose spouse has died and who has not remarried. The male form, \"widower\", is first attested in the 14th century, by the 19th century supplanting \"widow\" with reference to men. The adjective for either sex is widowed. These terms are not applied to a divorcé(e) following the death of an ex-spouse. The state of having lost one's spouse to death is termed widowhood. The term widowhood can be used for either sex, at least according to some dictionaries, but the word widowerhood is also listed in some dictionaries. An archaic term for a widow is \"relict\", literally \"someone left over\"; this word can sometimes be found on older gravestones. Occasionally, the word viduity is used. Effects on health The increased mortality rate after the death of a spouse is called the widowhood effect. It is \"strongest during the first three months after a spouse's death, when they had a 66-percent increased chance of dying\"."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "different facial expressions of the cartoon monkey",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "different facial expressions",
+          "the cartoon monkey"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster mocks Arabic by comparing it with French for giving gender pronouns to objects.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Arabic",
+          "French",
+          "gender pronouns",
+          "objects"
+        ]
+      },
+      "title": {
+        "text": "And for a longer time",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "longer",
+          "time"
+        ]
+      },
+      "text": {
+        "text": "The world: French is so complicated, they give genders to objects! Arabic: - TONS | } oN 2. 0) ! _ Qj a ~ A —— >",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "genders",
+          "objects",
+          "Arabic"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "longer",
+      "time",
+      "genders",
+      "objects",
+      "Arabic"
+    ],
+    "secondary_terms": [
+      "different facial expressions",
+      "the cartoon monkey",
+      "Arabic",
+      "French",
+      "gender pronouns",
+      "objects"
+    ],
+    "queries": [
+      "\"Arabic\" \"longer\" \"time\" \"genders\"",
+      "\"different facial expressions\" \"the cartoon monkey\" \"Arabic\" \"French\"",
+      "\"Arabic\" \"French\" \"gender pronouns\" \"longer\""
+    ]
+  },
+  "source_jsonl_id": null
+}

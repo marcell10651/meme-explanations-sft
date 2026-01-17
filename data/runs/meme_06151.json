@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_06151",
+  "queries": [
+    "\"Orion shares images\" \"NASAs moon\" \"Earth\" \"space\"",
+    "\"Earth\" \"space\" \"fae\" \"ane\""
+  ],
+  "primary_terms": [
+    "NASAs moon",
+    "Orion shares images",
+    "Earth",
+    "space",
+    "fae",
+    "ane",
+    "weer",
+    "vik",
+    "still",
+    "herey"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Universe#0001",
+      "doc_id": "wikipedia:Universe",
+      "title": "Universe",
+      "url": "https://en.wikipedia.org/?curid=31880",
+      "source_type": "wikipedia",
+      "score": 0.7763354897499084,
+      "text": "were geocentric, placing Earth at the center. During the European Scientific Revolution, astronomical observations led to a heliocentric model. Further observational improvements led to the realization that the Sun is one of a few hundred billion stars in the Milky Way, which is one of a few hundred billion galaxies in the observable universe. Many of the stars in a galaxy have planets. At the largest scale, galaxies are distributed uniformly and the same in all directions, meaning..."
+    },
+    {
+      "chunk_id": "wikipedia:Earth#0000",
+      "doc_id": "wikipedia:Earth",
+      "title": "Earth",
+      "url": "https://en.wikipedia.org/?curid=9228",
+      "source_type": "wikipedia",
+      "score": 0.7366643667221069,
+      "text": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an ocean world, the only one in the Solar System sustaining liquid surface water. Almost all of Earth's water is contained in its global ocean, covering 70.8% of Earth's crust. The remaining 29.2% of Earth's crust is land, most of which is located in the form of continental landmasses within Earth's land hemisphere. Most of Earth's land is at least somewhat humid and covered by vegetation, while large ice sheets at Earth's polar deserts retain more water than Earth's groundwater, lakes, rivers, and atmospheric water combined. Earth's crust consists of slowly moving tectonic plates, which interact to produce mountain ranges, volcanoes, and earthquakes. Earth has a liquid outer core that generates a magnetosphere capable of deflecting most of the destructive solar winds and cosmic radiation."
+    },
+    {
+      "chunk_id": "wikipedia:Space#0001",
+      "doc_id": "wikipedia:Space",
+      "title": "Space",
+      "url": "https://en.wikipedia.org/?curid=27667",
+      "source_type": "wikipedia",
+      "score": 0.6283416509628296,
+      "text": "Euclidean space. Experimental tests of general relativity have confirmed that non-Euclidean geometries provide a better model for the shape of space. Philosophy of space Debates concerning the nature, essence and the mode of existence of space date back to antiquity; namely, to treatises like the Timaeus of Plato, or Socrates in his reflections on..."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.5443590193986892,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Tanna#0000",
+      "doc_id": "wikipedia:Tanna",
+      "title": "Tanna",
+      "url": "https://en.wikipedia.org/?curid=4651537",
+      "source_type": "wikipedia",
+      "score": 0.4996337115764618,
+      "text": "Tanna may refer to: Places Tanna (island), an island in Vanuatu Tanna, Germany, a city in Thuringia Tanna, former name of city of Thane in India People Tanna, singular form of tannaim, a Rabbinic sage recorded in the Mishna Tanna, a last name common among Lohanas Christian Tanna, a member of the rock band I Mother Earth Dan Tanna, fictional character, in the TV series Vega$ (1978–1981) Jagori Tanna, a member of the rock band I Mother Earth, brother of Christian Karishma Tanna, Indian actress Tanna Frederick, American actress Science Tanna (cicada), a genus of cicadas Tanna fruit dove, a bird endemic to Vanuatu Tanna ground dove, an extinct bird endemic to Vanuatu Tanna ornatipes, a genus of jumping spiders, synonym of Araneotanna Other Tanna, an Old High German word meaning oak from which the word tannin is derived Tanna (film), a 2015 film set on the island of Tanna, Vanuatu Tanna languages, a subgroup of the South Vanuatu languages See also Tana (disambiguation) All pages with"
+    },
+    {
+      "chunk_id": "wikipedia:Life#0001",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.48147018253803253,
+      "text": "forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota. Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species..."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0001",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.4503552734851837,
+      "text": "astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest. Measurable time is believed to have effectively begun with the Big Bang 13.8 billion years ago, encompassed by the chronology of the universe. Modern physics understands time to be inextricable from space within the concept of spacetime described by general relativity..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0000",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.42909143567085267,
+      "text": "A home, or domicile, is a space used as a permanent or semi-permanent residence for one or more human occupants, and sometimes various companion animals. Homes provide sheltered spaces, for instance rooms, where domestic activity can be performed such as sleeping, preparing food, eating and hygiene as well as providing spaces for work and leisure such as remote working, studying and playing. Physical forms of homes can be static such as a house or an apartment, mobile such as a houseboat, trailer or yurt or digital such as virtual space. The aspect of 'home' can be considered across scales; from the micro scale showcasing the most intimate spaces of the individual dwelling and direct surrounding area to the macro scale of the geographic area such as town, village, city, country or planet. The concept of 'home' has been researched and theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics."
+    },
+    {
+      "chunk_id": "wikipedia:Second#0001",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.4286389768123627,
+      "text": "current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks. As the speed of Earth's rotation varies and is slowing ever so slightly, a leap second is added at irregular intervals to civil time to keep clocks in sync with Earth's rotation. The definition that is based on 1⁄86400 of a rotation of the earth is still used by the Universal Time 1 (UT1) system..."
+    },
+    {
+      "chunk_id": "wikipedia:Everything#0000",
+      "doc_id": "wikipedia:Everything",
+      "title": "Everything",
+      "url": "https://en.wikipedia.org/?curid=17181902",
+      "source_type": "wikipedia",
+      "score": 0.4238750487565994,
+      "text": "Everything, every-thing, or every thing, is all that exists; it is an antithesis (opposite) of nothing, and its complement. It is the totality of things relevant to some subject matter. The universe is everything that exists theoretically, though a multiverse may exist according to theoretical cosmology predictions. It may refer to an anthropocentric worldview, or the sum of human experience, history, and the human condition in general. Every object and entity is a part of everything, including all physical bodies and in some cases all abstract objects. To describe or know of everything as a spatial consideration in a local environment, such as the world in which humans mostly live, is possible. The detemination of all things in the universe is unknown because of the physics beyond the observed universe and the problem of knowing physics at the range infinite."
+    }
+  ]
+}

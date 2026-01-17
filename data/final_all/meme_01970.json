@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_01970",
+  "queries": [
+    "\"the Ohio Bad Memes\" \"Michiganders\" \"seeing\" \"ohio\"",
+    "\"the Ohio Bad Memes\" \"Walter White\" \"Michiganders\" \"his nose\"",
+    "\"Michiganders\" \"his nose\" \"hard things\" \"seeing\""
+  ],
+  "primary_terms": [
+    "Michiganders",
+    "the Ohio Bad Memes",
+    "seeing",
+    "ohio",
+    "bad"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0000",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 1.0654497116804122,
+      "text": "Kyle Edward Craven (born August 10, 1989), commonly known by his Internet nickname \"Bad Luck Brian\", is an American Internet celebrity known for his photo which was posted on Reddit in 2012, which quickly became a popular Internet meme. Bad Luck Brian is an image macro style of meme. His captions describe a variety of unlucky, embarrassing and tragic events. Meme Origin On January 23, 2012, at 2:15 UTC, Ian Davies uploaded a photo to Reddit of his friend Kyle Craven. Craven and Davies both attended Archbishop Hoban High School in Akron, Ohio. The photo which became Bad Luck Brian was originally taken for the high school's 2005–06 yearbook. Craven stated that he rubbed his face with a sweater to redden it and donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture."
+    },
+    {
+      "chunk_id": "wikipedia:Hard#0001",
+      "doc_id": "wikipedia:Hard",
+      "title": "Hard",
+      "url": "https://en.wikipedia.org/?curid=732244",
+      "source_type": "wikipedia",
+      "score": 0.7041341811418533,
+      "text": "(surname) Hard architecture, impersonal windowless buildings with graffiti-resistant walls usually associated with prisons and other secure structures Nickname of Masaki Sumitani ( HardGay / HardoGay ) Hard (nautical), a beach or slope convenient for hauling out vessels hard, slang for an erection Hayward Area Recreation..."
+    },
+    {
+      "chunk_id": "wikipedia:Timon#0001",
+      "doc_id": "wikipedia:Timon",
+      "title": "Timon",
+      "url": "https://en.wikipedia.org/?curid=358706",
+      "source_type": "wikipedia",
+      "score": 0.6842498630285263,
+      "text": "the title character of The History of Timon of Athens the Man-hater, a rewrite of Shakespeare's original play by Thomas Shadwell Timon, a film and television character, originally from the film The Lion King Timon (Rome character), in the 2005 television series Rome Timon, one of the minor characters in the 2017 Netflix series, Big Mouth (American..."
+    },
+    {
+      "chunk_id": "wikipedia:Walter White (Breaking Bad)#0000",
+      "doc_id": "wikipedia:Walter White (Breaking Bad)",
+      "title": "Walter White (Breaking Bad)",
+      "url": "https://en.wikipedia.org/?curid=22530352",
+      "source_type": "wikipedia",
+      "score": 0.6745080411434173,
+      "text": "Walter Hartwell White Sr., also known by his alias Heisenberg, is a fictional character and the main protagonist of the American crime drama television series Breaking Bad. He is portrayed by Bryan Cranston. Walter is a skilled chemist who co-founded a technology firm before he accepted a buy-out from his partners. While his partners became wealthy, Walter became a high school chemistry teacher in Albuquerque, New Mexico, barely making ends meet with his family: his wife, Skyler (Anna Gunn), and their son, Walter Jr. (RJ Mitte). At the start of the series, the day after his 50th birthday, he is diagnosed with Stage III lung cancer. After this discovery, Walter decides to manufacture and sell methamphetamine with his former student Jesse Pinkman (Aaron Paul) to ensure his family's financial security after his death. Due to his expertise, Walter's \"blue meth\" is purer than any other on the market, and he is pulled deeper into the illicit drug trade."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0000",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.6589563548564911,
+      "text": "Very Bad Things is a 1998 American black comedy film written and directed by Peter Berg in his feature film directorial debut and starring Cameron Diaz, Jon Favreau, Daniel Stern, Jeremy Piven, Christian Slater, Leland Orser, Kobe Tai and Jeanne Tripplehorn. The plot follows a group of men who become embroiled in crime and betrayal after they attempt to conceal an accidental death. Very Bad Things was not well received and grossed $21 million against a $30 million budget. Plot Kyle Fisher and Laura Garrety are a young suburbanite couple days away from their wedding. While Laura finalizes last-minute wedding details, Kyle is away in Las Vegas celebrating his bachelor party with four friends—real estate agent Robert Boyd, mechanic Charles Moore, and brothers Adam and Michael Berkow. As part of the festivities, Robert hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom."
+    },
+    {
+      "chunk_id": "wikipedia:Working Class Party#0001",
+      "doc_id": "wikipedia:Working Class Party",
+      "title": "Working Class Party",
+      "url": "https://en.wikipedia.org/?curid=52980766",
+      "source_type": "wikipedia",
+      "score": 0.6448424011468887,
+      "text": "turned in more than 50,000 signatures, above the required 31,566, which enabled WCP candidates to appear as party candidates on Michigan ballots. In 2016, Mary Anne Hering won enough votes for Board of Education for WCP to keep ballot access in the 2018 Michigan elections. Ideology The WCP argues that no working class party exists, because both the Democrats and the Republicans are controlled by..."
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0001",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.6428335458040237,
+      "text": "USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the 2014 album Sweet Talker \"Loud\", a 2006 single by Masters at Work with Beto Cuevas \"Loud\", a song by Matt Nathanson from the 1999 album Still Waiting for Spring \"Loud\", an additional..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.6331525444984436,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.5967170894145966,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    },
+    {
+      "chunk_id": "wikipedia:His Family#0001",
+      "doc_id": "wikipedia:His Family",
+      "title": "His Family",
+      "url": "https://en.wikipedia.org/?curid=3241257",
+      "source_type": "wikipedia",
+      "score": 0.5825020670890808,
+      "text": "changes that have come to New York since his arrival in the city as a young man from a New Hampshire farm somewhere near the time of the Civil War. He is driven by his wife's dying request to remain close to their three daughters, yet he feels very distant from them—this despite the fact that the younger two (Deborah, a school principal, and Laura) live in the family home with him, and Edith, who is..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Walter White is talking on a phone with a bandaid on his nose.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Walter White",
+          "his nose"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is expose that hard things take time but it finally wins.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "hard things",
+          "time"
+        ]
+      },
+      "title": {
+        "text": "Michiganders seeing the Ohio Bad Memes",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Michiganders",
+          "the Ohio Bad Memes",
+          "seeing",
+          "ohio",
+          "bad"
+        ]
+      },
+      "text": {
+        "text": "Michiganders seeing the “Ohio Bad” Memes { - {7 oh “FM \\ \\, 7 ‘",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Michiganders",
+          "seeing",
+          "ohio",
+          "bad"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Michiganders",
+      "the Ohio Bad Memes",
+      "seeing",
+      "ohio",
+      "bad"
+    ],
+    "secondary_terms": [
+      "Walter White",
+      "his nose",
+      "hard things",
+      "time"
+    ],
+    "queries": [
+      "\"the Ohio Bad Memes\" \"Michiganders\" \"seeing\" \"ohio\"",
+      "\"the Ohio Bad Memes\" \"Walter White\" \"Michiganders\" \"his nose\"",
+      "\"Michiganders\" \"his nose\" \"hard things\" \"seeing\""
+    ]
+  },
+  "source_jsonl_id": null
+}

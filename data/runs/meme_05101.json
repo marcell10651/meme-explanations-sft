@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_05101",
+  "queries": [
+    "\"Science class\" \"the popular girl\" \"high school\" \"the park\"",
+    "\"high school\" \"the park\" \"science\" \"class\""
+  ],
+  "primary_terms": [
+    "Science class",
+    "science",
+    "class",
+    "together",
+    "remember",
+    "That moment",
+    "the popular girl",
+    "high school",
+    "the park"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Class#0001",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.8814884185791015,
+      "text": "The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff from Doctor Who The Class (TV series), a CBS sitcom Class (2023 TV series), a 2023 Indian Netflix teen drama Literature Class: A Guide Through the American Status System,..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.7577180087566375,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Grade#0000",
+      "doc_id": "wikipedia:Grade",
+      "title": "Grade",
+      "url": "https://en.wikipedia.org/?curid=91313",
+      "source_type": "wikipedia",
+      "score": 0.6824876487255096,
+      "text": "Grade often refers to: Grading in education, a student's performance as determined by an educational assessment (e.g. A, pass, etc.) A designation for students, classes and curricula indicating the amount of years a student has completed in an educational stage (e.g. first grade, second grade, K–12, etc.) Grade (slope), the steepness of a slope Graded voting Grade or grading may also refer to: Music Grade (music), a formally assessed level of proficiency in a musical instrument Grade (band), punk rock band Grades (producer), British electronic dance music producer and DJ Science and technology Biology and medicine Grading (tumors), a measure of the aggressiveness of a tumor in medicine The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach Evolutionary grade, a paraphyletic group of organisms Geology Graded bedding, a description of the variation in grain size through a bed in a sedimentary rock Metamorphic grade, an indication of the degree of"
+    },
+    {
+      "chunk_id": "wikipedia:Science#0001",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.6520555287599563,
+      "text": "historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE). Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity and later medieval scholarship, whereby formal attempts were made to provide explanations of events in the physical world based on natural causes; while further..."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0000",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.6493117272853851,
+      "text": "Science is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe. Modern science is typically divided into two – or three – major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies. While referred to as the formal sciences, the study of logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology. Meanwhile, applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine. The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE)."
+    },
+    {
+      "chunk_id": "wikipedia:Culinary Class Wars#0000",
+      "doc_id": "wikipedia:Culinary Class Wars",
+      "title": "Culinary Class Wars",
+      "url": "https://en.wikipedia.org/?curid=77970789",
+      "source_type": "wikipedia",
+      "score": 0.6366456508636474,
+      "text": "Culinary Class Wars (Korean: 흑백요리사: 요리 계급 전쟁) is a South Korean cooking competition/comedy in the dramatic style of Physical: 100. The first season was released on Netflix in 2024 and featured one hundred elite chefs divided into two classes: white spoons (veterans) and black spoons (newcomers), competing for the prize of ₩300 million. The first three episodes of season two aired on December 16, 2025, with the last episode of the season scheduled to be released on January 13, 2026. In January 2026, Netflix announced the series was renewed for a team-based third season. Judges The two judges were veteran restaurateur and celebrity chef, Paik Jong-won, and the only Michelin three-star chef in Korea, Anh Sung-jae. They became full from tasting so much food during the contest but Paik still ate his packed lunch too. Care was taken to ensure impartial judging."
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0000",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.627902603149414,
+      "text": "Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist. Physics is one of the oldest academic disciplines. Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy."
+    },
+    {
+      "chunk_id": "wikipedia:Friendly#0001",
+      "doc_id": "wikipedia:Friendly",
+      "title": "Friendly",
+      "url": "https://en.wikipedia.org/?curid=466246",
+      "source_type": "wikipedia",
+      "score": 0.625572270154953,
+      "text": "Hall, a building on the University of Oregon campus Friendly High School, a public high school in Fort Washington, Maryland, United States Henry J. Friendly Medal, awarded by the American Law Institute for contributions to the field of law Friendly TV, a British TV station from 2003 to 2010 \"Friendly\", a song by J Hus from Common Sense (2017) \"Friendly\", a song by Sakanaction from Adapt (2022) See also Henry the Friendly (1299–1327), son of King Albert I of Germany Friendly number, in mathematics, shares a property concerning..."
+    },
+    {
+      "chunk_id": "wikipedia:Jenna Marbles#0000",
+      "doc_id": "wikipedia:Jenna Marbles",
+      "title": "Jenna Marbles",
+      "url": "https://en.wikipedia.org/?curid=33101554",
+      "source_type": "wikipedia",
+      "score": 0.6224082380533218,
+      "text": "Jenna Nicole Mourey (born September 15, 1986), better known as Jenna Marbles, is an American former YouTuber. Over the span of ten years, her YouTube channel has accumulated approximately 1.8 billion video views and, at its peak, over 20 million subscribers. After apologizing for a series of accusations involving content in her older videos, Marbles announced her indefinite hiatus from the platform in 2020. Early life and career Jenna Nicole Mourey was born on September 15, 1986 in Rochester, New York, where she was also raised. Marbles attended Brighton High School in the Rochester suburb of Brighton, New York, and graduated in 2004. She then moved to Boston, Massachusetts, where she earned a Bachelor of Science in psychology at Suffolk University and a Master of Education in sport psychology and counseling at Boston University. In the summer of 2010, Marbles was sharing a three-bedroom apartment in Cambridge, Massachusetts."
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0000",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.5982551842927932,
+      "text": "A scientist is an expert who conducts scientific research to advance knowledge in science. In classical antiquity, there was no real ancient analog of a modern scientist. Instead, philosophers engaged in the philosophical study of nature called natural philosophy. Though Thales (c. 624–545 BC) was arguably the first scientist for describing how cosmic events may be seen as natural, not necessarily caused by gods, it was not until the 19th century that the term scientist came into regular use: it was coined by the theologian, philosopher, and historian of science William Whewell in 1833 to describe Mary Somerville. History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time."
+    }
+  ]
+}

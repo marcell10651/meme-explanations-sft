@@ -1,0 +1,112 @@
+{
+  "meme_id": "meme_03098",
+  "queries": [
+    "\"Monkeys\" \"maybe\" \"million\" \"socialize\" \"better\"",
+    "\"socialize\" \"better\" \"chance\" \"vic\""
+  ],
+  "primary_terms": [
+    "maybe",
+    "million",
+    "socialize",
+    "better",
+    "chance",
+    "vic",
+    "laters",
+    "surviving",
+    "bee",
+    "auld",
+    "aay"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Better#0000",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.6641124248504638,
+      "text": "Better may refer to: \"to better\" as a verb, meaning to undergo betterment better, an alternate spelling of bettor, someone who bets (gambles) Music Albums Better (Chrisette Michele album), 2013 Better (Brian McKnight album), 2016 Better (Haley Reinhart album), 2016 Better (BoA album), 2020 Songs \"Better\" (The Screaming Jets song), 1991 \"Better\" (Brooke Fraser song), 2003 \"Better\" (Tom Baxter song)\", 2007, covered by Boyzone in 2008 \"Better\" (Guns N' Roses song), 2008 \"Better\" (Maggie Rose song), 2012 \"Better\" (Kim Hyung-jun song), 2014 \"Better\" (Banks song), 2015 \"Better\" (Haley Reinhart song), 2016 \"Better\" (Meghan Trainor song), 2016 \"Better\" (Mallrat song), 2017 \"Better\" (Khalid song), 2018 \"Better\" (Lena Meyer-Landrut and Nico Santos song), 2019 \"Better\" (Twice song), 2020 \"Better\" (Zayn song), 2020 \"Better\" (MK and Burns song), 2022 \"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000"
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0001",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.593828558921814,
+      "text": "to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively. Social: the ability to interact with the world through playing with others, taking turns and fantasy play. Although it is useful to chart defined periods of development, development exists on a continuum, with considerable differences between individual children. There..."
+    },
+    {
+      "chunk_id": "wikipedia:Society#0000",
+      "doc_id": "wikipedia:Society",
+      "title": "Society",
+      "url": "https://en.wikipedia.org/?curid=37235",
+      "source_type": "wikipedia",
+      "score": 0.5598500669002533,
+      "text": "A society () is a group of individuals involved in persistent social interaction or a large social group sharing the same spatial or social territory, typically subject to the same political authority and dominant cultural expectations. Societies are characterized by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions; a given society may be described as the sum total of such relationships among its constituent members. Human social structures are complex and highly cooperative, featuring the specialization of labor via social roles. Societies construct roles and other patterns of behavior by deeming certain actions or concepts acceptable or unacceptable—these expectations around behavior within a given society are known as societal norms. So far as it is collaborative, a society can enable its members to benefit in ways that would otherwise be difficult on an individual basis."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0000",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.5302548617124557,
+      "text": "Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth. The game allows for cross-platform play; it was released on iOS and Android devices in June 2018 and on Windows later that year in November. It was ported to the Nintendo Switch in December 2020 and on the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in December 2021. A virtual reality adaptation, Among Us VR, was released on November 10, 2022. Among Us takes place in space-themed settings where players are colorful, armless cartoon astronauts. Each player takes on one of two roles: most are Crewmates, but a small number are Impostors. Crewmates work to complete assigned tasks in the game while identifying and voting out suspected Impostors (who appear identical to Crewmates) using social deduction, while Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.5294564962387085,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.5164545476436615,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:Better#0001",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.5153549075126648,
+      "text": "\"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000 single for the Erasure song, \"Freedom\" \"Better\", a 2001 song by Hoobastank from the album, Hoobastank \"Better\", a 2005 song by Plumb from the album, Chaotic Resolve \"Better\", a 2005..."
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0001",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.48087333142757416,
+      "text": "or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover (theater), a walkway across the stage hidden from the audience Crossover thrash, a musical genre combining thrash and punk Crossover (video games) The Crossover..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.475783035159111,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Society#0001",
+      "doc_id": "wikipedia:Society",
+      "title": "Society",
+      "url": "https://en.wikipedia.org/?curid=37235",
+      "source_type": "wikipedia",
+      "score": 0.47148387134075165,
+      "text": "norms. So far as it is collaborative, a society can enable its members to benefit in ways that would otherwise be difficult on an individual basis. Societies vary based on level of technology and type of economic activity. Larger societies with larger food surpluses often exhibit stratification or dominance patterns. Societies can have many different forms of government, various ways of understanding..."
+    }
+  ]
+}

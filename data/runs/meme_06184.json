@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_06184",
+  "queries": [
+    "\"Children thoughts\" \"Awe\" \"Sor\" \"aoe tae\"",
+    "\"Sor\" \"aoe tae\" \"children\" \"thoughts\""
+  ],
+  "primary_terms": [
+    "Children thoughts",
+    "children",
+    "thoughts",
+    "Awe",
+    "wort",
+    "Sor",
+    "yal",
+    "ara",
+    "aoe tae"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Toddler#0001",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.846181845664978,
+      "text": "to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively. Social: the ability to interact with the world through playing with others, taking turns and fantasy play. Although it is useful to chart defined periods of development, development exists on a continuum, with considerable differences between individual children. There..."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0000",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.7433793067932128,
+      "text": "Attention is the concentration of awareness directed at some phenomenon while excluding others. Across disciplines, the nature of this directedness is conceptualized in different ways. In cognitive psychology, attention is often described as the allocation of limited cognitive processing resources to a subset of information, thoughts, or tasks. In neuropsychology, attention is understood as a set of mechanisms by which sensory cues and internal goals modulate neuronal tuning and orient behavioral and cognitive processes. Attention is not a unitary phenomenon but an umbrella term for multiple related processes, including selective attention (prioritizing some stimuli over others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time)."
+    },
+    {
+      "chunk_id": "wikipedia:Hope#0000",
+      "doc_id": "wikipedia:Hope",
+      "title": "Hope",
+      "url": "https://en.wikipedia.org/?curid=50020",
+      "source_type": "wikipedia",
+      "score": 0.699021366238594,
+      "text": "Hope is an optimistic state of mind that is based on an expectation of positive outcomes with respect to events and circumstances in one's own life, or the world at large. As a verb, Merriam-Webster defines hope as \"to expect with confidence\" or \"to cherish a desire with anticipation\". Among its opposites are dejection, hopelessness, and despair. Hope finds expression through many dimensions of human life, including practical reasoning, the religious virtue of hope, legal doctrine, and literature, alongside cultural and mythological aspects. In psychology American professor of psychology Barbara Fredrickson argues that hope comes into its own when crisis looms, opening us to new creative possibilities. Frederickson argues that with great need comes an unusually wide range of ideas, as well as such positive emotions as happiness and joy, courage, and empowerment, drawn from four different areas of one's self: from a cognitive, psychological, social, or physical perspective."
+    },
+    {
+      "chunk_id": "wikipedia:Praise#0000",
+      "doc_id": "wikipedia:Praise",
+      "title": "Praise",
+      "url": "https://en.wikipedia.org/?curid=44749915",
+      "source_type": "wikipedia",
+      "score": 0.669890171289444,
+      "text": "Praise as a form of social interaction expresses recognition, reassurance or admiration. Praise is expressed verbally as well as by body language (facial expression and gestures). Verbal praise consists of a positive evaluations of another's attributes or actions, where the evaluator presumes the validity of the standards on which the evaluation is based. As a form of social manipulation, praise becomes a form of reward and furthers behavioral reinforcement by conditioning. The influence of praise on an individual can depend on many factors, including the context, the meanings the praise may convey, and the characteristics and interpretations of the recipient. While praise may share some predictive relationships (both positive and negative) with tangible (material) rewards, praise tends to be less salient and expected, conveys more information about competence, and is typically given more immediately after the desired behavior."
+    },
+    {
+      "chunk_id": "wikipedia:Information#0001",
+      "doc_id": "wikipedia:Information",
+      "title": "Information",
+      "url": "https://en.wikipedia.org/?curid=18985062",
+      "source_type": "wikipedia",
+      "score": 0.6342673897743225,
+      "text": "control, data, form, education, knowledge, meaning, understanding, mental stimuli, pattern, perception, proposition, representation, and entropy. Information is often processed iteratively: Data available at one step are processed into information to be interpreted and processed at the next step. For example, in written text each symbol or letter conveys information..."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.618399178981781,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:WITS#0001",
+      "doc_id": "wikipedia:WITS",
+      "title": "WITS",
+      "url": "https://en.wikipedia.org/?curid=3083596",
+      "source_type": "wikipedia",
+      "score": 0.6171859502792358,
+      "text": "a 2015 teen sitcom on Nickelodeon Other uses Herman Wits (1636–1708), Dutch theologian Bidvest Wits F.C., a South African football club University of the Witwatersrand, Johannesburg, South Africa WITS (AM), an AM radio station in Sebring, Florida See also Wit (disambiguation) Witts, a surname Witz (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0001",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.6096081048250198,
+      "text": "state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son. The principal, worried for his school's reputation, tries to contain the situation and hides the letter in his office, while the four parents instructs their children to keep quiet. Ho-chang, curious to..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.6015746593475342,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.5840581566095352,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    }
+  ]
+}

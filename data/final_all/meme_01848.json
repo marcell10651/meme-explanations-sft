@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_01848",
+  "queries": [
+    "\"Both\" \"giggle\" \"tring\" \"theeitt\"",
+    "\"the bottom image\" \"Both\" \"the top\" \"two teens\"",
+    "\"the top\" \"two teens\" \"the things\" \"both pictures\""
+  ],
+  "primary_terms": [
+    "Both",
+    "giggle",
+    "tring",
+    "theeitt",
+    "levee"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Other#0001",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.8663147985935211,
+      "text": "Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A. Applegate The Other (Tryon novel), a 1971 horror novel by Tom Tryon \"The Other\" (short story), a 1972 short story by Jorge Luis Borges The Other, a 2008 novel by David Guterson Spider-Man: \"The Other\", a 2005–2006..."
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.844900369644165,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:Two-Face#0000",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 0.7907380014657974,
+      "text": "Two-Face is a supervillain appearing in American comic books published by DC Comics. The character was created by Bob Kane, and first appeared in Detective Comics #66 (August 1942). He has become one of the superhero Batman's most enduring enemies belonging to the collective of adversaries that make up his rogues gallery. In his comic book appearances, Two-Face is the alter ego of Harvey Dent, Gotham City's former district attorney who becomes a criminal mastermind obsessed with duality and the number two. Half of his face is hideously scarred after mob boss Sal Maroni throws acid at him. The resulting disfigurement drives him insane and causes him to make decisions based on the flip of a coin. The Modern Age of Comic Books portrays the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse."
+    },
+    {
+      "chunk_id": "wikipedia:Middle#0001",
+      "doc_id": "wikipedia:Middle",
+      "title": "Middle",
+      "url": "https://en.wikipedia.org/?curid=854025",
+      "source_type": "wikipedia",
+      "score": 0.6504157185554504,
+      "text": "2001 \"The Middle\" (Zedd, Maren Morris and Grey song), 2018 \"Middle\", a song by Rocket from the Crypt from their 1995 album Scream, Dracula, Scream! \"The Middle\", a song by Demi Lovato from their debut album Don't Forget \"The Middle\", a song by The Doubleclicks from their album President Snakes \"The Middle\", a song by Lauren Alaina from her album Wildflower \"The Middle\", a song by Trampled by Turtles from their album Life Is Good on the Open Road Other uses The Middle (TV series..."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.6253737807273865,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.5536869466304779,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Others#0001",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.5335154086351395,
+      "text": "The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001 film), a 2001 film by Alejandro Amenábar, starring Nicole Kidman Literature Others, a 1999 novel by James Herbert Others: A Magazine of the New Verse, a literary magazine edited by Alfred..."
+    },
+    {
+      "chunk_id": "wikipedia:Young#0000",
+      "doc_id": "wikipedia:Young",
+      "title": "Young",
+      "url": "https://en.wikipedia.org/?curid=302029",
+      "source_type": "wikipedia",
+      "score": 0.531536728143692,
+      "text": "Young may refer to: Offspring, the product of reproduction of a new organism produced by one or more parents Youth, the time of life when one's age is low, often meaning the time between childhood and adulthood Music The Young, an American rock band Young, an EP by Charlotte Lawrence, 2018 Songs \"Young\" (Baekhyun and Loco song), 2018 \"Young\" (The Chainsmokers song), 2017 \"Young\" (Hollywood Undead song), 2009 \"Young\" (Kenny Chesney song), 2002 \"Young\" (Place on Earth song), 2018 \"Young\" (Tulisa song), 2012 \"Young\", by Ella Henderson, 2019 \"Young\", by Lil Wayne from Dedication 6, 2017 \"Young\", by Nickel Creek from This Side, 2002 \"Young\", by Sam Smith from Love Goes, 2020 \"Young\", by Silkworm from Italian Platinum, 2002 \"Young\", by Vacations (band), 2016 \"Young\", by Vallis Alps, 2015 \"Young\", by Pixey, 2016 People Surname Young (surname) Given name Young (Korean name), Korean unisex given name and name element Young Boozer (born 1948), American banker and Alabama State Treasurer Young"
+    },
+    {
+      "chunk_id": "wikipedia:In His Image#0000",
+      "doc_id": "wikipedia:In His Image",
+      "title": "In His Image",
+      "url": "https://en.wikipedia.org/?curid=4401031",
+      "source_type": "wikipedia",
+      "score": 0.5090245753526688,
+      "text": "\"In His Image\" is an episode of the American television anthology series The Twilight Zone aired on January 3, 1963. This was the first episode of the fourth season. Each episode was expanded to an hour (with commercials) from \"In His Image\" until \"The Bard\". The fourth season is the only season of The Twilight Zone to have each episode one hour long. In this episode, a man finds his hometown is suddenly inconsistent with his memories of it and begins experiencing irrational urges to commit murder, two mysteries which together lead him to an unpleasant discovery about his identity. Opening narration What you have just witnessed could be the end of a particularly terrifying nightmare. It isn't – it's the beginning. Although Alan Talbot doesn't know it, he's about to enter a strange new world, too incredible to be real, too real to be a dream. It's called The Twilight Zone. Plot While waiting in a subway station, Alan Talbot is approached by an evangelist."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0001",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.5010479837656021,
+      "text": "an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even (band), an Australian alternative rock band \"Even\", a song by Chris Brown from his 2017 album Heartbreak on a Full Moon Even Hotels, one of brands of IHG Hotels & Resorts See also Evens..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "On the top left two teens walk away and next to it a blue pickup on hydraulics, in the bottom image a woman is smiling.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the top",
+          "two teens",
+          "hydraulics",
+          "the bottom image"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they view the things in both pictures as stupid.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the things",
+          "both pictures"
+        ]
+      },
+      "title": {
+        "text": "Both make me giggle",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Both",
+          "giggle"
+        ]
+      },
+      "text": {
+        "text": "wm i a ra j [ . ; oF > _ @ 1 ee tring theeitt — | ==} == levee a",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "tring",
+          "theeitt",
+          "levee"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Both",
+      "giggle",
+      "tring",
+      "theeitt",
+      "levee"
+    ],
+    "secondary_terms": [
+      "the top",
+      "two teens",
+      "hydraulics",
+      "the bottom image",
+      "the things",
+      "both pictures"
+    ],
+    "queries": [
+      "\"Both\" \"giggle\" \"tring\" \"theeitt\"",
+      "\"the bottom image\" \"Both\" \"the top\" \"two teens\"",
+      "\"the top\" \"two teens\" \"the things\" \"both pictures\""
+    ]
+  },
+  "source_jsonl_id": null
+}

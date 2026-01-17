@@ -1,0 +1,112 @@
+{
+  "meme_id": "meme_05853",
+  "queries": [
+    "\"She\" \"the amount\" \"time\" \"has\" \"made\"",
+    "\"has\" \"made\" \"amount\" \"took\""
+  ],
+  "primary_terms": [
+    "the amount",
+    "time",
+    "has",
+    "made",
+    "amount",
+    "took",
+    "emergency",
+    "brain",
+    "surgery",
+    "tie",
+    "ima"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Quantity#0000",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.8031243175268173,
+      "text": "Quantity or amount is a property that includes numbers and quantifiable phenomena such as mass, time, distance, heat, angle, and information. Quantities can commonly be compared in terms of \"more\", \"less\", or \"equal\", or by assigning a numerical value multiple of a unit of measurement. Quantity is among the basic classes of things along with quality, substance, change, and relation. Some quantities are such by their inner nature (as number), while others function as states (properties, dimensions, attributes) of things such as heavy and light, long and short, broad and narrow, small and great, or much and little. Under the name of multitude comes what is discontinuous and discrete and divisible ultimately into indivisibles, such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns."
+    },
+    {
+      "chunk_id": "wikipedia:Made#0000",
+      "doc_id": "wikipedia:Made",
+      "title": "Made",
+      "url": "https://en.wikipedia.org/?curid=666961",
+      "source_type": "wikipedia",
+      "score": 0.7891874074935913,
+      "text": "Made or MADE may refer to: Entertainment Film Made (1972 film), United Kingdom Made (2001 film), United States Music Made (Big Bang album), 2016 Made (Hawk Nelson album), 2013 Made (Scarface album), 2007 M.A.D.E., 2003 album by Memphis Bleek \"Made\" (Scuba Dice song), 2006 \"Made\" (The Wanted song), 2010 Made (band), a Toronto lo-fi band Television Made (TV series), United States, 2002 to 2014 Companies Made.com, an online furniture retailer in London, United Kingdom MADE Clothing, an American clothing line around 2005 The MADE or The Museum of Art and Digital Entertainment Geography Made (Netherlands), a town in the Netherlands People van der Made - Dutch family name Dalem Di Made (fl."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0000",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.6515038490295411,
+      "text": "Time is the continuous progression of existence that occurs in an apparently irreversible succession from the past, through the present, and into the future. Time dictates all forms of action, age, and causality, being a component quantity of various measurements used to sequence events, to compare the duration of events (or the intervals between them), and to quantify rates of change of quantities in material reality or in the conscious experience. Time is often referred to as a fourth dimension, along with three spatial dimensions. Time is primarily measured in linear spans or periods, ordered from shortest to longest. Practical, human-scale measurements of time are performed using clocks and calendars, reflecting a 24-hour day collected into a 365-day year linked to the astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest."
+    },
+    {
+      "chunk_id": "wikipedia:Money#0000",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.6090238213539123,
+      "text": "Money is any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts, such as taxes, in a particular country or socio-economic context. The primary functions which distinguish money are: medium of exchange, a unit of account, a store of value and sometimes, a standard of deferred payment. Money was historically an emergent market phenomenon that possessed intrinsic value as a commodity; nearly all contemporary money systems are based on unbacked fiat money without use value. Its value is consequently derived by social convention, having been declared by a government or regulatory entity to be legal tender; that is, it must be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.6050670683383942,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube#0000",
+      "doc_id": "wikipedia:YouTube",
+      "title": "YouTube",
+      "url": "https://en.wikipedia.org/?curid=3524766",
+      "source_type": "wikipedia",
+      "score": 0.5911335617303848,
+      "text": "YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen, who were former employees of PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google. In January 2024, YouTube had more than 2.7 billion monthly active users, who collectively watched more than one billion hours of videos every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of content per minute, and as of mid-2024, there were approximately 14.8 billion videos in total. On November 13, 2006, YouTube was purchased by Google for US$1.65 billion (equivalent to $2.39 billion in 2024). Google expanded YouTube's business model from generating revenue through advertisements alone to offering paid content such as movies and exclusive content explicitly produced for YouTube."
+    },
+    {
+      "chunk_id": "wikipedia:Floating Figure#0000",
+      "doc_id": "wikipedia:Floating Figure",
+      "title": "Floating Figure",
+      "url": "https://en.wikipedia.org/?curid=56677540",
+      "source_type": "wikipedia",
+      "score": 0.5150412797927857,
+      "text": "Floating Figure is a 1927 sculpture by Gaston Lachaise. Gaston Lachaise’s Floating Figure is a modernist allegorical statue of the artist’s muse as an enlightened, ‘floating’ nude woman. It is ultimately based on a portrait statuette of the artist’s wife, Isabel Dutaud Nagle (1872–1957), made in about 1919, that was broken sometime after the spring of 1921 and reworked by Lachaise in about 1924 to create a new statuette of a schematized, fragmentary figure. The damage to the initial statuette had fortuitously freed his imagination from a more literal representation of Isabel at home with a book, and enabled him to envisage a soaring, semiabstract work that explicitly conveys a universal meaning. Lachaise created the larger-than-life plaster model of Floating Figure at his country home in Georgetown, Maine, in three weeks’ time."
+    },
+    {
+      "chunk_id": "wikipedia:First Time#0001",
+      "doc_id": "wikipedia:First Time",
+      "title": "First Time",
+      "url": "https://en.wikipedia.org/?curid=2039755",
+      "source_type": "wikipedia",
+      "score": 0.49134029150009156,
+      "text": "Day at a Time) \"The First Time\" (That '70s Show) Literature The First Time (memoir), a 1998 book by Cher and Jeff Coplon First Time, a 2008 novel by Meg Tilly First-Time: The Historical Vision of an Afro-American People, a 1983 book by Richard Price Music Albums First Time (Maya Simantov album) or the title song..."
+    },
+    {
+      "chunk_id": "wikipedia:Take That#0000",
+      "doc_id": "wikipedia:Take That",
+      "title": "Take That",
+      "url": "https://en.wikipedia.org/?curid=371370",
+      "source_type": "wikipedia",
+      "score": 0.49133594036102296,
+      "text": "Take That are an English pop group formed in Manchester in 1990. The group currently consists of Gary Barlow, Howard Donald and Mark Owen. The original line-up also featured Jason Orange and Robbie Williams. Barlow is the group's lead singer and primary songwriter, with Owen and Williams initially providing backing vocals, and Donald and Orange serving primarily as dancers. The group have had 28 top-40 singles, 20 top-10 and 17 top-5 singles on the UK Singles Chart, 12 of which have reached number one. They have also had nine number-one albums on the UK Albums Chart. Internationally, the band have had 56 number-one singles and 42 number-one albums. They have received eight Brit Awards, including Best British Group and Best British Live Act. In 2012 they received an Ivor Novello Award for Outstanding Contribution to British Music. According to the British Phonographic Industry (BPI), Take That has been certified for sales of 14.4 million albums and 14 million singles in the UK."
+    },
+    {
+      "chunk_id": "wikipedia:Year#0000",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 0.49032891094684605,
+      "text": "A year is a unit of time based on how long it takes the Earth to orbit the Sun. In scientific use, the tropical year (approximately 365 solar days, 5 hours, 48 minutes, 45 seconds) and the sidereal year (about 20 minutes longer) are more exact. The modern calendar year, as reckoned according to the Gregorian calendar, approximates the tropical year by using a system of leap years. The term 'year' is also used to indicate other periods of roughly similar duration, such as the lunar year (a roughly 354-day cycle of twelve of the Moon's phases – see lunar calendar), as well as periods loosely associated with the calendar or astronomical year, such as the seasonal year, the fiscal year, the academic year, etc. Due to the Earth's axial tilt, the course of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility."
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "meme_id": "meme_05091",
+  "queries": [
+    "\"check\" \"every\" \"morning\" \"checking\"",
+    "\"morning\" \"checking\" \"still\" \"blue\""
+  ],
+  "primary_terms": [
+    "check",
+    "every",
+    "morning",
+    "checking",
+    "still",
+    "blue",
+    "oye",
+    "see"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 1.0581575453281402,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    },
+    {
+      "chunk_id": "wikipedia:Morning#0000",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.9741992115974426,
+      "text": "Morning is either the period from sunrise to noon, or the period from midnight to noon. In the first definition it is preceded by the twilight period of dawn, and there are no exact times for when morning begins (also true of evening and night) because it can vary according to one's latitude, and the hours of daylight at each time of year. However, morning strictly ends at noon, when afternoon starts. Morning precedes afternoon, evening, and night in the sequence of a day. Originally, the term referred to sunrise. Etymology The Modern English words \"morning\" and \"tomorrow\" began in Middle English as morwening, developing into morwen, then morwe, and eventually morrow. English, unlike some other languages, has separate terms for \"morning\" and \"tomorrow\", despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\"."
+    },
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.5571237862110138,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0001",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.5108167827129364,
+      "text": "sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep. Synonyms In boarding schools and on trips or holidays that involve young people, the equivalent of bedtime is lights out or lights-out - this term is also used in prisons, hospitals, in the military, and in sleep research..."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0000",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.5017256438732147,
+      "text": "Bedtime (also called putting to bed or tucking in) is a ritual part of parenting to help children feel more secure and become accustomed to a more rigid schedule of sleep than they might prefer. The ritual of bedtime is aimed at facilitating the transition from wakefulness to sleep. It may involve bedtime stories, children's songs, nursery rhymes, bed-making and getting children to change into nightwear. In some religious households, prayers are said shortly before going to bed. Sleep training may be part of the bedtime ritual for babies and toddlers. In adult use, the term means simply \"time for bed\", similar to curfew, as in \"It's past my bedtime\". Some people are accustomed to drinking a nightcap or herbal tea at bedtime. Sleeping coaches are also used to help individuals reach their bedtime goals. Researchers studying sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.4690644800662994,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Open#0000",
+      "doc_id": "wikipedia:Open",
+      "title": "Open",
+      "url": "https://en.wikipedia.org/?curid=514174",
+      "source_type": "wikipedia",
+      "score": 0.43270323276519773,
+      "text": "Open or OPEN may refer to: Music Open (band), Australian pop/rock band The Open (band), English indie rock band Open (Blues Image album), 1970 Open (Gerd Dudek, Buschi Niebergall, and Edward Vesala album), 1979 Open (Gotthard album), 1999 Open (Cowboy Junkies album), 2001 Open (YFriday album), 2001 Open (Shaznay Lewis album), 2004 Open (Jon Anderson EP), 2011 Open (Stick Men album), 2012 Open (The Necks album), 2013 Open (Kwon Eun-bi EP), 2021 Open, a 1967 album by Julie Driscoll, Brian Auger and the Trinity Open, a 1979 album by Steve Hillage \"Open\" (Queensrÿche song) \"Open\" (Mýa song) \"Open\", the first song on The Cure album Wish Literature Open (Mexican magazine), a lifestyle Mexican publication Open (Indian magazine), an Indian weekly English language magazine featuring current affairs OPEN (North Dakota magazine), an out-of-print magazine that was printed in the Fargo, North Dakota area of the U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0001",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.4203122079372406,
+      "text": "(T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A. from AIM \"Finally\", a song by Yes from The Ladder \"Finally\", a 2019 single by Thabsie \"Finally\", a 2023 single by Jonas Blue and Rani Other uses Finally (company), an American light bulb company Finally (film), a 1991 documentary about Eric Burdon Finally, a keyword in exception handling syntax See also Final (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0000",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.41329277753829957,
+      "text": "A retail cashier or simply a cashier is a person who handles the cash register at various locations such as the point of sale in a retail store. The most common use of the title is in the retail industry, but this job title is also used in the context of accountancy for the person responsible for receiving and disbursing money or within branch banking in the United Kingdom for the job known in the United States as a bank teller. Retail In a shop, a cashier (or checkout operator) is an employee who scans the goods that the customer wishes to purchase through a cash register. In most modern stores, the items are scanned by a barcode positioned on the item with the use of a laser scanner. After all of the items have been scanned, the cashier then collects the payment (in cash, check, and/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0000",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.37453573644161225,
+      "text": "Over may refer to: Places Over, Cambridgeshire, England Over, Cheshire, England Over Bridge Over, South Gloucestershire, Gloucestershire, England Over, Tewkesbury, Gloucestershire, England Over, Seevetal, Germany Music Albums Over (album), by Peter Hammill, 1977 Over (EP), by Jarboe and Telecognac, 2000 Songs \"Over\" (Blake Shelton song) \"Over\" (Drake song) \"Over\" (Evans Blue song) \"Over\" (Fayray song) \"OVER\" (Hey! Say! JUMP song) \"Over\" (High and Mighty Color song) \"Over\" (Lindsay Lohan song) \"Over\" (Lucky Daye song) \"Over\" (Portishead song) \"Over\", by A Perfect Circle from Mer de Noms \"Over\", by Ashanti from Ashanti \"Over\", by Embrace from If You've Never Been \"Over\", by Ivy from Realistic \"Over\", by James Blunt from The Afterlove \"Over\", by Jimmy Eat World from Stay on My Side Tonight \"Over\", by Kings of Leon from Walls \"Over\", by Lykke Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is looking at himself in the mirror and pointing at his reflection.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "himself",
+          "the mirror",
+          "pointing",
+          "his reflection"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they feel blue/depressed every day.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "title": {
+        "text": "I check every morning",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "check",
+          "every",
+          "morning"
+        ]
+      },
+      "text": {
+        "text": "Me checking if I'm still blue: ° oye see s | am still bl Y | al",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "checking",
+          "still",
+          "blue",
+          "oye",
+          "see"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "check",
+      "every",
+      "morning",
+      "checking",
+      "still",
+      "blue",
+      "oye",
+      "see"
+    ],
+    "secondary_terms": [
+      "himself",
+      "the mirror",
+      "pointing",
+      "his reflection"
+    ],
+    "queries": [
+      "\"check\" \"every\" \"morning\" \"checking\"",
+      "\"morning\" \"checking\" \"still\" \"blue\""
+    ]
+  },
+  "source_jsonl_id": null
+}

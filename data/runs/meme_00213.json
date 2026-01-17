@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_00213",
+  "queries": [
+    "\"college tuition US military recruiters\" \"wait\" \"didn\" \"high\"",
+    "\"didn\" \"high\" \"schooler\" \"kill\""
+  ],
+  "primary_terms": [
+    "wait",
+    "didn",
+    "college tuition US military recruiters",
+    "high",
+    "schooler",
+    "kill",
+    "college",
+    "tuition",
+    "military",
+    "recruiters",
+    "iar",
+    "tube"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0001",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.5774433374404907,
+      "text": "Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends. During this time, Craig starts high school and becomes close to Ms. Hart, a teacher who comes to his aid when Kenny Yankovich, a school bully, attempts to intimidate him. After winning $3,000 from a lottery ticket that Harrigan..."
+    },
+    {
+      "chunk_id": "wikipedia:Student#0000",
+      "doc_id": "wikipedia:Student",
+      "title": "Student",
+      "url": "https://en.wikipedia.org/?curid=155526",
+      "source_type": "wikipedia",
+      "score": 0.432680082321167,
+      "text": "A student is a person enrolled in a school or other educational institution, or more generally, a person who takes a special interest in a subject. In the United Kingdom and most commonwealth countries, a \"student\" attends a secondary school or higher (e.g., college or university); those in primary or elementary schools are \"pupils\". Africa Nigeria In Nigeria, education is classified into four systems known as a 6-3-3-4 system of education. It implies six years in primary school, three years in junior secondary, three years in senior secondary and four years in the university. However, the number of years to be spent in university is mostly determined by the course of study. Some courses have longer study lengths than others. Those in primary school are often referred to as pupils. Those in university, as well as those in secondary school, are referred to as students. The Nigerian system of education also has other recognized categories like the polytechnics and colleges of education."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0001",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.4113051563501358,
+      "text": "Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing. While the game was initially released in 2018 to little mainstream attention, it received a massive rise in popularity in 2020 due to many Twitch streamers and YouTubers playing it during the COVID-19 pandemic..."
+    },
+    {
+      "chunk_id": "wikipedia:Quentin Tarantino#0001",
+      "doc_id": "wikipedia:Quentin Tarantino",
+      "title": "Quentin Tarantino",
+      "url": "https://en.wikipedia.org/?curid=25169",
+      "source_type": "wikipedia",
+      "score": 0.4099046945571899,
+      "text": "'s Palme d'Or and the Academy Award for Best Original Screenplay. He next wrote and starred in the action horror film From Dusk till Dawn (1996). His third film as director, Jackie Brown (1997), paid homage to blaxploitation films. Tarantino wrote and directed the martial arts films Kill Bill: Volume 1 (2003) and Kill Bill: Volume 2 (2004), with both volumes combined regarded as a single film..."
+    },
+    {
+      "chunk_id": "wikipedia:Walter White (Breaking Bad)#0000",
+      "doc_id": "wikipedia:Walter White (Breaking Bad)",
+      "title": "Walter White (Breaking Bad)",
+      "url": "https://en.wikipedia.org/?curid=22530352",
+      "source_type": "wikipedia",
+      "score": 0.4053099721670151,
+      "text": "Walter Hartwell White Sr., also known by his alias Heisenberg, is a fictional character and the main protagonist of the American crime drama television series Breaking Bad. He is portrayed by Bryan Cranston. Walter is a skilled chemist who co-founded a technology firm before he accepted a buy-out from his partners. While his partners became wealthy, Walter became a high school chemistry teacher in Albuquerque, New Mexico, barely making ends meet with his family: his wife, Skyler (Anna Gunn), and their son, Walter Jr. (RJ Mitte). At the start of the series, the day after his 50th birthday, he is diagnosed with Stage III lung cancer. After this discovery, Walter decides to manufacture and sell methamphetamine with his former student Jesse Pinkman (Aaron Paul) to ensure his family's financial security after his death. Due to his expertise, Walter's \"blue meth\" is purer than any other on the market, and he is pulled deeper into the illicit drug trade."
+    },
+    {
+      "chunk_id": "wikipedia:Jimbo Fisher#0000",
+      "doc_id": "wikipedia:Jimbo Fisher",
+      "title": "Jimbo Fisher",
+      "url": "https://en.wikipedia.org/?curid=7404462",
+      "source_type": "wikipedia",
+      "score": 0.3996438503265381,
+      "text": "John James \"Jimbo\" Fisher Jr. (born October 9, 1965) is an American college football coach. He most recently served as the head football coach at Texas A&M from 2018 until 2023. Prior to that, he led Florida State to a BCS National Championship victory in 2014. Life and career Early life and playing career Born in Clarksburg, West Virginia, Fisher attended Liberty High School. He initially attended Clemson University to play baseball before going to Salem College (now Salem University) in Salem, West Virginia, where he played quarterback under head coach Terry Bowden from 1985 to 1986. When Bowden left for Samford University in Homewood, Alabama, Fisher transferred with him to play his final season for the Bulldogs. Fisher still holds multiple school records at Samford. As a senior at Samford University, Fisher was the 1987 NCAA Division III National Player of the Year. Fisher played a season in the Arena Football League in 1988 for the Chicago Bruisers."
+    },
+    {
+      "chunk_id": "wikipedia:American#0000",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.392834997177124,
+      "text": "American(s) may refer to: American, something of, from, or related to the United States of America, commonly known as the \"United States\" or \"America\" Americans, citizens and nationals of the United States of America American ancestry, people who self-identify their ancestry as \"American\" American English, the set of varieties of the English language native to the United States Native Americans in the United States, indigenous peoples of the United States American, something of, from, or related to the Americas, also known as \"America\" Indigenous peoples of the Americas American (word), for analysis and history of the meanings in various contexts Organizations American Airlines, U.S.-based airline headquartered in Fort Worth, Texas American Athletic Conference, an American college athletic conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.39118844270706177,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0001",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.3663027107715607,
+      "text": "\"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV from Oshin, 2012 \"Wait\", by Doechii from Alligator Bites Never Heal, 2024 \"Wait\", by Earth, Wind & Fire from I Am, 1979 \"Wait\", by Everyday Sunday from Sleeper, 2001 \"Wait\", by The Kills..."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0001",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.36359113454818726,
+      "text": "The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff from Doctor Who The Class (TV series), a CBS sitcom Class (2023 TV series), a 2023 Indian Netflix teen drama Literature Class: A Guide Through the American Status System,..."
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "meme_id": "meme_05133",
+  "queries": [
+    "\"“AJarjto Gass i NUE\" \"time\" \"help\" \"moving\"",
+    "\"help\" \"moving\" \"too\" \"fast\""
+  ],
+  "primary_terms": [
+    "time",
+    "help",
+    "moving",
+    "too",
+    "fast",
+    "“AJarjto Gass i NUE",
+    "ajarjto",
+    "gass",
+    "nue",
+    "zamtime"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Fast#0000",
+      "doc_id": "wikipedia:Fast",
+      "title": "Fast",
+      "url": "https://en.wikipedia.org/?curid=1899768",
+      "source_type": "wikipedia",
+      "score": 0.9131345570087432,
+      "text": "Fast or FAST may refer to: Arts and entertainment \"Fast\" (Juice Wrld song), 2019 \"Fast\" (Luke Bryan song), 2016 \"Fast\" (Sueco song), 2019 \"Fast\" (GloToven song), 2019 Fast, an album by Custom, 2002 Fast, a 2010 short film starring Charlyne Yi \"Fast (Motion)\", 2021 song by Saweetie Fast & Furious, an action franchise \"Fast\" (Demi Lovato song), 2025 Computing and software FAST protocol, an adaptation of the FIX protocol, optimized for streaming FAST TCP, a TCP congestion avoidance algorithm Facilitated Application Specification Techniques, a team-oriented approach for requirement gathering Fatigue Avoidance Scheduling Tool, software to develop work schedules Features from accelerated segment test, computer vision method for corner detection Feedback arc set in Tournaments, a computational problem in graph theory Government Faʻatuatua i le Atua Samoa ua Tasi (FAST), a political party in Samoa Fixing America's Surface Transportation Act, passed by the United States Congress"
+    },
+    {
+      "chunk_id": "wikipedia:Help#0001",
+      "doc_id": "wikipedia:Help",
+      "title": "Help",
+      "url": "https://en.wikipedia.org/?curid=17344601",
+      "source_type": "wikipedia",
+      "score": 0.6632999837398529,
+      "text": "Slayer) \"Help\" (The Gentle Touch) \"Help\", an episode of The Protector \"Help\" (Spaced) \"The Help\" (Modern Family) Literature Help! (magazine) Help!! (manga) The Help, a historical novel by Kathryn Stockett Music Help (band), an American rock band Albums The Help Album, a musical compilation album to benefit the War Child charity Help (Blackbear album) Help (Thee Oh Sees album) Help!, the 1965..."
+    },
+    {
+      "chunk_id": "wikipedia:Rescue#0000",
+      "doc_id": "wikipedia:Rescue",
+      "title": "Rescue",
+      "url": "https://en.wikipedia.org/?curid=363258",
+      "source_type": "wikipedia",
+      "score": 0.6401591420173645,
+      "text": "Rescue comprises responsive operations that usually involve the saving of life, removal from danger, liberation from restraint, or the urgent treatment of injuries after an incident. It may be facilitated by a range of tools and equipment necessary to deal with the specific circumstances. Rescues may be necessary in a wide range of circumstances and environments, and specialised procedures have been developed for many of these. A rescue may also be performed on an ad hoc basis by the people who are available on site, using equipment available on site or assembled from available materials, particularly when the rescue is urgent or it is unlikely that specialist assistance will be available within a reasonable time. First aid medical attention is often closely associated with rescue, and may be a necessary part of a rescue."
+    },
+    {
+      "chunk_id": "wikipedia:Walkin#0000",
+      "doc_id": "wikipedia:Walkin",
+      "title": "Walkin",
+      "url": "https://en.wikipedia.org/?curid=33627004",
+      "source_type": "wikipedia",
+      "score": 0.634475153684616,
+      "text": "\"Walkin\" is a song by American rapper Denzel Curry, released on January 24, 2022 as the lead single from his fifth studio album Melt My Eyez See Your Future (2022). It was produced by Kal Banx. Composition The production in the song changes from the style of boom bap to that of southern rap, juxtaposed with vocals. Lyrically, Denzel Curry raps about the struggles and changing of everyday life as the state of the world is regressing, such as racial and wealth inequality, and striving for success through difficult times, switching his flows as well. Music video A music video for the song was directed by Adrian Villagomez and released alongside the single. Taking on a sci-fi western theme, it finds Denzel Curry trekking across a desert planet alone, first walking through a village and moving past barren sand dunes, children playing on a swing set, and villains trying to kill him. He collapses on his knees several times throughout the journey."
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0000",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.6095922946929931,
+      "text": "Feel may refer to: Feeling Music Bands Feel (New York band), a 1980s dance and R&B band Feel (Polish band), a pop rock band Albums Feel (Feel album), 2007 Feel (George Duke album) or the title song, 1974 Feel (Glenn Hughes album), 1995 Feel (Human Drama album), 1989 Feel (Namie Amuro album), 2013 Feel (Roachford album), 1997 Feel (Sleeping with Sirens album) or the title song, 2013 Feel, by Nagisa ni te, 2002 Feel (A-Mei EP), 1999 Feel (Junho EP), 2014 Songs \"Feel\" (Kendrick Lamar song), 2017 \"Feel\" (Koda Kumi song), 2006 \"Feel\" (Robbie Williams song), 2002 \"Feel\" (Chicago song), 2006 \"Feel\", by Asking Alexandria from Where Do We Go from Here?, 2023 \"Feel\", by Big Star from #1 Record, 1972 \"Feel\", by Bombay Bicycle Club from So Long, See You Tomorrow, 2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol."
+    },
+    {
+      "chunk_id": "wikipedia:Time travel#0000",
+      "doc_id": "wikipedia:Time travel",
+      "title": "Time travel",
+      "url": "https://en.wikipedia.org/?curid=31591",
+      "source_type": "wikipedia",
+      "score": 0.598027941584587,
+      "text": "Time travel is the hypothetical activity of traveling into the past or future. Time travel is a concept in philosophy, space, time and fiction, particularly science fiction. In fiction, time travel is typically achieved through the use of a device known as a time machine. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine. It is uncertain whether time travel to the past would be physically possible. Such travel, if at all feasible, may give rise to questions of causality. Forward time travel, outside the usual sense of the perception of time, is an extensively observed phenomenon and is well understood within the framework of special relativity and general relativity. However, making one body advance or delay more than a few milliseconds compared to another body is not feasible with current technology. As for backward time travel, it is possible to find solutions in general relativity that allow for it, such as a rotating black hole."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0000",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.5718660771846771,
+      "text": "Attention is the concentration of awareness directed at some phenomenon while excluding others. Across disciplines, the nature of this directedness is conceptualized in different ways. In cognitive psychology, attention is often described as the allocation of limited cognitive processing resources to a subset of information, thoughts, or tasks. In neuropsychology, attention is understood as a set of mechanisms by which sensory cues and internal goals modulate neuronal tuning and orient behavioral and cognitive processes. Attention is not a unitary phenomenon but an umbrella term for multiple related processes, including selective attention (prioritizing some stimuli over others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time)."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0001",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.48796520233154295,
+      "text": "others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time). These processes are supported by distributed neural networks in frontal, parietal, and subcortical regions and are closely linked to working memory, executive functions, and consciousness. Patterns of attention also vary across cultures, especially in how individuals attend to context versus focal objects and how children are guided to manage attention in everyday activities..."
+    },
+    {
+      "chunk_id": "wikipedia:Velocity#0000",
+      "doc_id": "wikipedia:Velocity",
+      "title": "Velocity",
+      "url": "https://en.wikipedia.org/?curid=20491903",
+      "source_type": "wikipedia",
+      "score": 0.4782972991466522,
+      "text": "Velocity is a measurement of speed in a certain direction of motion. It is a fundamental concept in kinematics, the branch of classical mechanics that describes the motion of physical objects. Velocity is a vector quantity, meaning that both magnitude and direction are needed to define it (velocity vector). The scalar absolute value (magnitude) of velocity is called speed, a quantity that is measured in metres per second (m/s or m⋅s−1) in the SI (metric) system. For example, \"5 metres per second\" is a scalar, whereas \"5 metres per second east\" is a vector. If there is a change in speed, direction or both, then the object is said to be undergoing an acceleration. Definition Average velocity The average velocity of an object over a period of time is its change in position, Δ s {\\displaystyle \\Delta s} , divided by the duration of the period, Δ t {\\displaystyle \\Delta t} , given mathematically as v ¯ = Δ..."
+    },
+    {
+      "chunk_id": "wikipedia:Working#0000",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.4461527466773987,
+      "text": "Working may refer to: Work (human activity), intentional activity people perform to support themselves, others, or the community Arts and media Working (musical), a 1978 musical Working (TV series), an American sitcom Working (Caro book), a 2019 book by Robert Caro Working (Terkel book), a 1974 book by Studs Terkel Working!!, a manga by Karino Takatsu \"Working\" (song), by Tate McRae and Khalid, 2021 Engineering and technology Cold working or cold forming, the shaping of metal below its recrystallization temperature Hot working, the shaping of metal above its recrystallization temperature Multiple working, having more than one locomotive under the control of one driver Live-line working, the maintenance of electrical equipment while it is energised Single-line working, using one train track out of two Other uses Holbrook Working (1895–1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "An old man confronting another man with his hands protecting his face",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "another man",
+          "his hands",
+          "his face"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster feels time is moving too fast that they need to shield themselves from empires hundreds of years ago.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "time",
+          "themselves",
+          "empires",
+          "hundreds",
+          "years"
+        ]
+      },
+      "title": {
+        "text": "Somebody help time is moving too fast",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "time",
+          "help",
+          "moving",
+          "too",
+          "fast"
+        ]
+      },
+      "text": {
+        "text": "a O77 a, “AJarjto Gass i NUE | HS Zamtime",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "“AJarjto Gass i NUE",
+          "ajarjto",
+          "gass",
+          "nue",
+          "zamtime"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "time",
+      "help",
+      "moving",
+      "too",
+      "fast",
+      "“AJarjto Gass i NUE",
+      "ajarjto",
+      "gass",
+      "nue",
+      "zamtime"
+    ],
+    "secondary_terms": [
+      "another man",
+      "his hands",
+      "his face",
+      "time",
+      "themselves",
+      "empires",
+      "hundreds",
+      "years"
+    ],
+    "queries": [
+      "\"“AJarjto Gass i NUE\" \"time\" \"help\" \"moving\"",
+      "\"help\" \"moving\" \"too\" \"fast\""
+    ]
+  },
+  "source_jsonl_id": null
+}

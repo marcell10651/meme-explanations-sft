@@ -1,0 +1,174 @@
+{
+  "meme_id": "meme_05368",
+  "queries": [
+    "\"Wikipedia\" \"the site\" \"sorry\" \"donation\"",
+    "\"Wikipedia\" \"the site\" \"any money\" \"sorry\""
+  ],
+  "primary_terms": [
+    "sorry",
+    "Wikipedia",
+    "donation",
+    "the site"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.5600757658481598,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Profit#0001",
+      "doc_id": "wikipedia:Profit",
+      "title": "Profit",
+      "url": "https://en.wikipedia.org/?curid=18487619",
+      "source_type": "wikipedia",
+      "score": 0.5297321379184723,
+      "text": "player Places Profit, United States Virgin Islands See also All pages with titles beginning with Profit All pages with titles containing Profit Proffit (disambiguation) Proffitt (disambiguation) Prophet (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Sorry#0000",
+      "doc_id": "wikipedia:Sorry",
+      "title": "Sorry",
+      "url": "https://en.wikipedia.org/?curid=343641",
+      "source_type": "wikipedia",
+      "score": 0.5197989106178283,
+      "text": "Sorry is a word commonly used in apologizing. Sorry may also refer to: Film and television Sorry (2002 film), a 2002 Japanese film Sorry (2021 film), a 2021 comedy film Sorry: A Love Story, an upcoming Pakistani film Sorry, a 2002 skateboarding video by Flip Skateboards Sorry! (TV series), a 1980s British sitcom Games Sorry! (game), a board game Sorry! (video game), a 1998 game based on the board game Literature Sorry (novel), a 2007 novel by Gail Jones Sorry, a novel by Zoran Drvenkar Music Performers Sorry (band), an English indie band Scott Sorry (1978–2025), American singer-songwriter Albums Sorry!"
+    },
+    {
+      "chunk_id": "wikipedia:YouTube#0000",
+      "doc_id": "wikipedia:YouTube",
+      "title": "YouTube",
+      "url": "https://en.wikipedia.org/?curid=3524766",
+      "source_type": "wikipedia",
+      "score": 0.5025897771120071,
+      "text": "YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen, who were former employees of PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google. In January 2024, YouTube had more than 2.7 billion monthly active users, who collectively watched more than one billion hours of videos every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of content per minute, and as of mid-2024, there were approximately 14.8 billion videos in total. On November 13, 2006, YouTube was purchased by Google for US$1.65 billion (equivalent to $2.39 billion in 2024). Google expanded YouTube's business model from generating revenue through advertisements alone to offering paid content such as movies and exclusive content explicitly produced for YouTube."
+    },
+    {
+      "chunk_id": "wikipedia:Money#0000",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.4964250922203064,
+      "text": "Money is any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts, such as taxes, in a particular country or socio-economic context. The primary functions which distinguish money are: medium of exchange, a unit of account, a store of value and sometimes, a standard of deferred payment. Money was historically an emergent market phenomenon that possessed intrinsic value as a commodity; nearly all contemporary money systems are based on unbacked fiat money without use value. Its value is consequently derived by social convention, having been declared by a government or regulatory entity to be legal tender; that is, it must be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar."
+    },
+    {
+      "chunk_id": "wikipedia:Sorry#0001",
+      "doc_id": "wikipedia:Sorry",
+      "title": "Sorry",
+      "url": "https://en.wikipedia.org/?curid=343641",
+      "source_type": "wikipedia",
+      "score": 0.455668693780899,
+      "text": "a novel by Zoran Drvenkar Music Performers Sorry (band), an English indie band Scott Sorry (1978–2025), American singer-songwriter Albums Sorry! (album) or the title song, by Catherine, 1994 Sorry (Meg Myers album) or the title song, 2015 Sorry (White Lung album), 2012 Sorry, by Mai Yamane, 1981 Sorry, by Severina, 2023 Songs \"Sorry\" (Beyoncé song), 2016 \"Sorry\" (Bic Runga song), 1999 \"Sorry\" (Buckcherry song), 2007 \"Sorry\" (Ciara song), 2012 \"Sorry\" (Doris Day song), 1967 \"Sorry\" (Easybeats song), 1966 \"Sorry\" (Grace Jones song), 1976 \"Sorry\" (Halsey song), 2017 \"Sorry\" (IDER song), 2016 \"Sorry\" (Justin Bieber song), 2015 \"Sorry\" (Madness song), 2007 \"Sorry\" (Madonna song), 2006 \"Sorry..."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0000",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.440670445561409,
+      "text": "The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies. The Internet carries a vast range of information services and resources, such as the interlinked hypertext documents and applications of the World Wide Web (WWW), electronic mail, discussion groups, internet telephony, streaming media and file sharing. Most traditional communication media, including telephone, radio, television, paper mail, newspapers, and print publishing, have been transformed by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites."
+    },
+    {
+      "chunk_id": "wikipedia:Contribution#0000",
+      "doc_id": "wikipedia:Contribution",
+      "title": "Contribution",
+      "url": "https://en.wikipedia.org/?curid=1522920",
+      "source_type": "wikipedia",
+      "score": 0.4376758635044098,
+      "text": "Contribution may refer to: Music Contribution (album), by Mica Paris (1990) \"Contribution\" (song), title song from the album Contribution, a 1976 album by Shawn Phillips A contribution concert is where a band plays in the songs of or in the style of a separate band Finance and law Contribution (law), an agreement between defendants in a suit to apportion liability Contributions, a vital goal of fundraising Contribution margin, the selling price per unit minus the variable cost per unit Contribution, a principle of insurance Sport Goal contribution, a player statistic in association football See also Adobe Contribute, former web-editing software"
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0001",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.43764859437942505,
+      "text": "by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites. The Internet has enabled and accelerated new forms of personal interaction through instant messaging, Internet forums, and social networking services. Online shopping has also grown to occupy a significant market across industries, enabling firms to extend brick and mortar presences..."
+    },
+    {
+      "chunk_id": "wikipedia:Content#0000",
+      "doc_id": "wikipedia:Content",
+      "title": "Content",
+      "url": "https://en.wikipedia.org/?curid=426094",
+      "source_type": "wikipedia",
+      "score": 0.4226367175579071,
+      "text": "Content or contents may refer to: Media Content (media), information or experience provided to audience or end-users by publishers or media producers Content industry, an umbrella term that encompasses companies owning and providing mass media and media metadata Content provider, a provider of non-core services in the telecommunications industry Free content, published material that can be used, copied, and modified without significant legal restriction Open content, published material licensed to authorize copying and modification by anyone Web content, information published on the World Wide Web Content analysis, a methodology used in the social sciences and humanities for studying the content of communication Content format, an encoded format for converting a specific type of data to displayable information Digital content, content that exists in the form of digital data Table of contents, a list of chapters or sections in a document Places Content (Centreville, Maryland) also"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A cat looks like it's about to cry.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is sad because they don't have any money to donate to Wikipedia.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "any money",
+          "Wikipedia"
+        ]
+      },
+      "title": {
+        "text": "I'm sorry",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "sorry"
+        ]
+      },
+      "text": {
+        "text": "Wikipedia: Asking for donation to keep the site running Me, a teenager, with no bank account unable to donate: oy Le m~ = : > | yt ‘ LGC =. 7 , 4 2 }",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Wikipedia",
+          "donation",
+          "the site"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "sorry",
+      "Wikipedia",
+      "donation",
+      "the site"
+    ],
+    "secondary_terms": [
+      "any money",
+      "Wikipedia"
+    ],
+    "queries": [
+      "\"Wikipedia\" \"the site\" \"sorry\" \"donation\"",
+      "\"Wikipedia\" \"the site\" \"any money\" \"sorry\""
+    ]
+  },
+  "source_jsonl_id": null
+}

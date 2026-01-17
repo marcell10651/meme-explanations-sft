@@ -1,0 +1,115 @@
+{
+  "meme_id": "meme_01307",
+  "queries": [
+    "\"Fine dining\" \"the glue sticks\" \"whole class\" \"fine\"",
+    "\"whole class\" \"fine\" \"dining\" \"ihe\""
+  ],
+  "primary_terms": [
+    "Fine dining",
+    "fine",
+    "dining",
+    "whole class",
+    "the glue sticks",
+    "ihe",
+    "whole",
+    "class",
+    "glue",
+    "ened",
+    "cris",
+    "aait",
+    "cre",
+    "meare"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Class#0000",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.9691308259963989,
+      "text": "Class, Classes, or The Class may refer to: Common uses not otherwise categorized Class (biology), a taxonomic rank Class (knowledge representation), a collection of individuals or objects Class (philosophy), an analytical concept used differently from such group phenomena as \"types\" or \"kinds\" Class (set theory), a collection of sets that can be unambiguously defined by a property that all its members share Hazard class, a dangerous goods classification Social class, the hierarchical arrangement of individuals in society, usually defined by wealth and occupation Working class, can be defined by rank, income or collar Arts, entertainment, and media \"The Class\" (song), 1959 Chubby Checker song Character class, in role-playing games and other genres Class 95 (radio station), a Singaporean radio channel Films Class (film), 1983 American film The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff"
+    },
+    {
+      "chunk_id": "wikipedia:Whole#0000",
+      "doc_id": "wikipedia:Whole",
+      "title": "Whole",
+      "url": "https://en.wikipedia.org/?curid=7197317",
+      "source_type": "wikipedia",
+      "score": 0.7677644848823547,
+      "text": "Whole may refer to: Music Whole note, or semibreve Whole step, or major second Whole (Jessa Anderson album) or the title song, 2014 Whole (Soil album), 2013 Whole, an EP by Pedro the Lion, 1997 \"Whole\", a song by Basement from Colourmeinkindness, 2012 \"Whole\", a song by Flaw from Through the Eyes, 2001 \"Whole\", a song by Jacob Whitesides, 2019 Other uses Whole (campaign), a British anti-stigma mental health campaign. WHOLE – United Queer Festival, a music festival held at Ferropolis, Gräfenhainichen, Germany. Whole (film), a 2003 American documentary by Melody Gilbert. Whole milk, milk which has not had fat removed. See also Holism, a philosophical and social theory Hole (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Culinary Class Wars#0000",
+      "doc_id": "wikipedia:Culinary Class Wars",
+      "title": "Culinary Class Wars",
+      "url": "https://en.wikipedia.org/?curid=77970789",
+      "source_type": "wikipedia",
+      "score": 0.7436286866664886,
+      "text": "Culinary Class Wars (Korean: 흑백요리사: 요리 계급 전쟁) is a South Korean cooking competition/comedy in the dramatic style of Physical: 100. The first season was released on Netflix in 2024 and featured one hundred elite chefs divided into two classes: white spoons (veterans) and black spoons (newcomers), competing for the prize of ₩300 million. The first three episodes of season two aired on December 16, 2025, with the last episode of the season scheduled to be released on January 13, 2026. In January 2026, Netflix announced the series was renewed for a team-based third season. Judges The two judges were veteran restaurateur and celebrity chef, Paik Jong-won, and the only Michelin three-star chef in Korea, Anh Sung-jae. They became full from tasting so much food during the contest but Paik still ate his packed lunch too. Care was taken to ensure impartial judging."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0001",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.6269021928310394,
+      "text": "a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt. It served only one dish, a plate of cereal, wildfowl, and onions. A forerunner for the modern restaurant is the thermopolium, an establishment in Ancient Greece or Ancient Rome that sold and served ready-to-eat food and beverages. These establishments..."
+    },
+    {
+      "chunk_id": "wikipedia:Diligence#0000",
+      "doc_id": "wikipedia:Diligence",
+      "title": "Diligence",
+      "url": "https://en.wikipedia.org/?curid=18483349",
+      "source_type": "wikipedia",
+      "score": 0.5898504823446273,
+      "text": "Diligence—carefulness and persistent effort or work—is listed as one of the seven capital virtues. It can be indicative of a work ethic, the belief that work is good in itself. \"There is a perennial nobleness, and even sacredness, in work. Were he never so benighted, forgetful of his high calling, there is always hope in a man that actually and earnestly works: in idleness alone there is perpetual despair.\" —Thomas Carlyle In students Bernard et al. define diligence in students as the effort they put toward balanced and holistic development in mental, physical, social, and spiritual dimensions. They find that it correlates with academic performance, especially with younger students, and that the support of parents and educators encourages students to be diligent. Other factors that encourage student diligence include motivation, discipline, concentration, responsibility, and devotedness."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0000",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.5671434104442596,
+      "text": "A restaurant is a business that prepares and serves food and beverages to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, featuring a wide variety of cuisines and service models — ranging from inexpensive fast-food restaurants and cafeterias to mid-priced family restaurants to high-priced luxury establishments. Etymology The word derives from the early 19th century, taken from the French word restaurer 'provide meat for', literally 'restore to a former state' and, being the present participle of the verb, the term restaurant may have been used in 1507 as a \"restorative beverage\", and in correspondence in 1521 to mean 'that which restores the strength, a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt."
+    },
+    {
+      "chunk_id": "wikipedia:Party#0000",
+      "doc_id": "wikipedia:Party",
+      "title": "Party",
+      "url": "https://en.wikipedia.org/?curid=23995",
+      "source_type": "wikipedia",
+      "score": 0.5449713379144668,
+      "text": "A party is a gathering of people who have been invited by a host for the purposes of socializing, conversation, recreation, or as part of a festival or other commemoration or celebration of a special occasion. A party will often feature food and beverages, and generally conversation, music, dancing, or other forms of entertainment. Some parties are held in honor of a specific person, day, or event, such as a birthday party, a Super Bowl party, or a St. Patrick's Day party. Parties of this kind are often called celebrations. A party is not necessarily a private occasion. Public parties are sometimes held in parks, restaurants, pubs, beer gardens, nightclubs, or bars, and people attending such parties may be charged an admission fee by the host. Large parties in public streets may celebrate events such as Mardi Gras or the signing of a peace treaty ending a long war."
+    },
+    {
+      "chunk_id": "wikipedia:Culinary Class Wars#0001",
+      "doc_id": "wikipedia:Culinary Class Wars",
+      "title": "Culinary Class Wars",
+      "url": "https://en.wikipedia.org/?curid=77970789",
+      "source_type": "wikipedia",
+      "score": 0.5166431128978729,
+      "text": ". They became full from tasting so much food during the contest but Paik still ate his packed lunch too. Care was taken to ensure impartial judging. In the first black versus white round, the judges were blind-folded so that they would not be influenced by the status of the contestants. All the food was discarded after judging so that the crew and contestants could not taste it and then challenge or influence the judges' decisions. Contestants The contestants were..."
+    },
+    {
+      "chunk_id": "wikipedia:Normal People#0000",
+      "doc_id": "wikipedia:Normal People",
+      "title": "Normal People",
+      "url": "https://en.wikipedia.org/?curid=59041422",
+      "source_type": "wikipedia",
+      "score": 0.511668598651886,
+      "text": "Normal People is a 2018 novel by the Irish author Sally Rooney. Normal People is Rooney's second novel, published after Conversations with Friends (2017). It was first published by Faber & Faber on 30 August 2018. The book became a bestseller in the United States, selling almost 64,000 copies in hardcover in its first four months of release. It was also a bestseller in China, where its coming of age theme was popular with younger readers. A critically acclaimed and Emmy nominated television adaptation of the same name aired from April 2020 on BBC Three and Hulu. A number of publications ranked it one of the best books of the 2010s. Synopsis The novel follows the complex friendship and relationship between two teenagers from different social classes, Connell and Marianne, who both attend the same secondary school in County Sligo, Ireland, and, later, Trinity College Dublin (TCD). It is set during the post-2008 Irish economic downturn, from 2011 through 2015."
+    },
+    {
+      "chunk_id": "wikipedia:Cake#0001",
+      "doc_id": "wikipedia:Cake",
+      "title": "Cake",
+      "url": "https://en.wikipedia.org/?curid=57572",
+      "source_type": "wikipedia",
+      "score": 0.4762649744749069,
+      "text": "jelly, cooked fruit, whipped cream, or syrups), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit. Cake is often served as a celebratory dish on ceremonial occasions, such as weddings, anniversaries, and birthdays. There are countless cake recipes; some are bread-like, some are rich and elaborate, and many are centuries old. Cake making is no longer a complicated procedure; while at one time..."
+    }
+  ]
+}

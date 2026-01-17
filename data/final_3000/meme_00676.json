@@ -1,0 +1,170 @@
+{
+  "meme_id": "meme_00676",
+  "queries": [
+    "\"Spiderman\" \"climate change\" \"himself\"",
+    "\"that climate change protesters\" \"Spiderman\" \"climate change\" \"himself\""
+  ],
+  "primary_terms": [
+    "Spiderman",
+    "himself",
+    "climate change"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Spider-Man#0000",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.9924466609954834,
+      "text": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Considered one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays. Spider-Man is the secret identity of Peter Benjamin Parker, who was raised by his Aunt May and Uncle Ben in Queens, New York City, after the death of his parents. Lee, Ditko, and later writers had the character deal with the struggles of adolescence and young adulthood. Readers identified with his self-doubt and loneliness. Unlike previous teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J."
+    },
+    {
+      "chunk_id": "wikipedia:Disaster#0001",
+      "doc_id": "wikipedia:Disaster",
+      "title": "Disaster",
+      "url": "https://en.wikipedia.org/?curid=8137",
+      "source_type": "wikipedia",
+      "score": 0.6753165781497955,
+      "text": "because human actions can make natural disasters worse. Climate change also affects how often disasters due to extreme weather hazards happen. Disasters usually affect people in developing countries more than people in wealthy countries. Over 95% of deaths from disasters happen in low-income countries, and those countries have higher economic losses compared to higher-income countries. For example, the damage from natural..."
+    },
+    {
+      "chunk_id": "wikipedia:Hulk#0000",
+      "doc_id": "wikipedia:Hulk",
+      "title": "Hulk",
+      "url": "https://en.wikipedia.org/?curid=31509",
+      "source_type": "wikipedia",
+      "score": 0.6289581060409546,
+      "text": "The Hulk is a superhero appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962). In his comic book appearances, the character, who has dissociative identity disorder (DID), is primarily represented by the alter ego Hulk, an immense, green-skinned, hulking brute, possessing a limitless degree of physical strength, and the alter ego Dr. Robert Bruce Banner, a physically weak, socially withdrawn, and emotionally reserved physicist, both of whom typically resent each other. Lee stated that the Hulk's creation was inspired by a combination of Frankenstein and Dr. Jekyll and Mr. Hyde. Following his accidental exposure to gamma rays while saving the life of Rick Jones during the detonation of an experimental bomb, Banner is physically transformed into the Hulk when subjected to emotional stress, at or against his will."
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0000",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.5937997549772263,
+      "text": "Thanos () is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man #55 (cover date February 1973). An Eternal–Deviant warlord from the moon Titan, Thanos is regarded as one of the most powerful beings in the Marvel Universe. Due to his genocidal tendencies, he has clashed with many heroes including the Avengers and the Guardians of the Galaxy. In creating Thanos, Starlin drew inspiration from Jack Kirby's New Gods series for DC Comics, particularly the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified."
+    },
+    {
+      "chunk_id": "wikipedia:Disaster#0000",
+      "doc_id": "wikipedia:Disaster",
+      "title": "Disaster",
+      "url": "https://en.wikipedia.org/?curid=8137",
+      "source_type": "wikipedia",
+      "score": 0.5879295527935028,
+      "text": "A disaster is an event that causes such serious harm to people, buildings, economies, or the environment that the affected community cannot handle it alone. The United Nations Office for Disaster Risk Reduction defines a disaster as \"a serious disruption of the functioning of a community or a society at any scale due to hazardous events interacting with conditions of exposure, vulnerability and capacity, leading to one or more of the following: human, material, economic and environmental losses and impacts\". Natural disasters like avalanches, floods, earthquakes, and wildfires are caused by natural hazards. Human-made disasters like oil spills, terrorist attacks and power outages are caused by people. It may be difficult to separate natural and human-made disasters because human actions can make natural disasters worse. Climate change also affects how often disasters due to extreme weather hazards happen."
+    },
+    {
+      "chunk_id": "wikipedia:Food#0001",
+      "doc_id": "wikipedia:Food",
+      "title": "Food",
+      "url": "https://en.wikipedia.org/?curid=10646",
+      "source_type": "wikipedia",
+      "score": 0.5731376618146896,
+      "text": "food industry, which produces food through intensive agriculture and distributes it through complex food processing and food distribution systems. This system of conventional agriculture relies heavily on fossil fuels, which means that the food and agricultural systems are one of the major contributors to climate change, accounting for as much as 37% of total greenhouse gas emissions. The food system has a..."
+    },
+    {
+      "chunk_id": "wikipedia:Walter White (Breaking Bad)#0001",
+      "doc_id": "wikipedia:Walter White (Breaking Bad)",
+      "title": "Walter White (Breaking Bad)",
+      "url": "https://en.wikipedia.org/?curid=22530352",
+      "source_type": "wikipedia",
+      "score": 0.5613048523664474,
+      "text": "his death. Due to his expertise, Walter's \"blue meth\" is purer than any other on the market, and he is pulled deeper into the illicit drug trade. An antihero turned villain protagonist as the series progresses, Walter becomes increasingly ruthless and unsympathetic, as the series' creator, Vince Gilligan, wanted him to turn from \"Mr. Chips into Scarface\". He adopts the alias \"Heisenberg..."
+    },
+    {
+      "chunk_id": "wikipedia:Superhero#0001",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 0.5439715385437012,
+      "text": "media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins. Most superheroes (for example, Superman and Spider-Man) usually possess non-human or superhuman biology, while others (such as Batman and Iron Man) derive their status from advanced technology they create and use; others may use or possess objects that have superhuman, mystical, or alien powers (such as Green Lantern and He-Man), or study and practice magic to achieve their abilities (such as Doctor Fate and Doctor Strange). The Dictionary.com definition of \"superhero\" is \"a..."
+    },
+    {
+      "chunk_id": "wikipedia:Superhero#0000",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 0.5430712699890137,
+      "text": "A superhero or superheroine, is a character who typically possesses superpowers or abilities beyond those of ordinary people; is frequently costumed, concealing their identity; and fits the role of the hero, typically using their powers to help the world become a better place, or dedicating themselves to protecting the public and fighting crime. Superhero fiction is the genre of fiction that is centered on such characters, especially, since the 1930s, in American comic books (and later in Hollywood films, film serials, television and video games), as well as in Japanese media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins."
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0001",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.5414808988571167,
+      "text": "a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The Terror (1917 film), an American silent film The Terror (1920 film), an American western film starring Tom Mix Terror (1924 film), a French film starring Pearl White The Terror..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Spiderman climbs a tall buliding.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that climate change protesters don't always protest in a way that makes sense.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "that climate change protesters",
+          "sense"
+        ]
+      },
+      "title": {
+        "text": "Had to do it.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "text": {
+        "text": "Spiderman glues himself to a building to protest climate change. a, NTE: i! Wy ae | en ' . A '",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Spiderman",
+          "himself",
+          "climate change"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Spiderman",
+      "himself",
+      "climate change"
+    ],
+    "secondary_terms": [
+      "that climate change protesters",
+      "sense"
+    ],
+    "queries": [
+      "\"Spiderman\" \"climate change\" \"himself\"",
+      "\"that climate change protesters\" \"Spiderman\" \"climate change\" \"himself\""
+    ]
+  },
+  "source_jsonl_id": null
+}

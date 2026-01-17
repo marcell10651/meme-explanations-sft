@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_02933",
+  "queries": [
+    "\"Elon Musk\" \"Twitter\" \"the Power\" \"Son\" \"Science\"",
+    "\"Son\" \"Science\" \"conflagrations\" \"squared\""
+  ],
+  "primary_terms": [
+    "conflagrations",
+    "squared",
+    "Twitter",
+    "Son",
+    "the Power",
+    "Science"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Scientist#0001",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.7676795780658722,
+      "text": "History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time. Scientists of different eras (and before them, natural philosophers, mathematicians, natural historians, natural theologians, engineers, and others who contributed to the development of science) have had widely different places in society, and the social norms, ethical values, and epistemic virtues associated with scientists—and expected of them—have changed over time as well. Accordingly, many different historical figures..."
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0001",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.6230811238288879,
+      "text": "mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy. Advances in physics often enable new technologies. For example, advances in the understanding of electromagnetism, solid-state physics, and nuclear physics led directly to the development of technologies that have transformed..."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0000",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.5829576969146728,
+      "text": "Science is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe. Modern science is typically divided into two – or three – major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies. While referred to as the formal sciences, the study of logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology. Meanwhile, applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine. The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE)."
+    },
+    {
+      "chunk_id": "wikipedia:Politics#0000",
+      "doc_id": "wikipedia:Politics",
+      "title": "Politics",
+      "url": "https://en.wikipedia.org/?curid=22986",
+      "source_type": "wikipedia",
+      "score": 0.5725683331489563,
+      "text": "Politics is the set of activities that are associated with making decisions in groups, or other forms of power relations among individuals, such as the distribution of status or resources. The branch of social science that studies politics and government is referred to as political science. Politics may be used positively in the context of a \"political solution\" which is compromising and non-violent, or descriptively as \"the art or science of government\", but the word often also carries a negative connotation. The concept has been defined in various ways, and different approaches have fundamentally differing views on whether it should be used extensively or in a limited way, empirically or normatively, and on whether conflict or co-operation is more essential to it."
+    },
+    {
+      "chunk_id": "wikipedia:Sone#0000",
+      "doc_id": "wikipedia:Sone",
+      "title": "Sone",
+      "url": "https://en.wikipedia.org/?curid=215436",
+      "source_type": "wikipedia",
+      "score": 0.5628080427646637,
+      "text": "The sone () is a unit of loudness, the subjective perception of sound pressure. The study of perceived loudness is included in the topic of psychoacoustics and employs methods of psychophysics. Doubling the perceived loudness doubles the sone value. Proposed by Stanley Smith Stevens in 1936, it is not an SI unit. Definition and conversions According to Stevens' definition, a loudness of 1 sone is equivalent to 40 phons (a 1 kHz tone at 40 dB SPL). The phons scale aligns with dB, not with loudness, so the sone and phon scales are not proportional. Rather, the loudness in sones is, at least very nearly, a power law function of the signal intensity, with an exponent of 0.3. With this exponent, each 10 phon increase (or 10 dB at 1 kHz) produces almost exactly a doubling of the loudness in sones."
+    },
+    {
+      "chunk_id": "wikipedia:Sone#0001",
+      "doc_id": "wikipedia:Sone",
+      "title": "Sone",
+      "url": "https://en.wikipedia.org/?curid=215436",
+      "source_type": "wikipedia",
+      "score": 0.5524469226598739,
+      "text": "with an exponent of 0.3. With this exponent, each 10 phon increase (or 10 dB at 1 kHz) produces almost exactly a doubling of the loudness in sones. At frequencies other than 1 kHz, the loudness level in phons is calibrated according to the frequency response of human hearing, via a set of equal-loudness contours, and then the loudness level in phons is mapped to loudness in sones via the same power law. Loudness N in sones (for LN > 40 phon): N = (..."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0001",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.46689350008964536,
+      "text": "historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE). Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity and later medieval scholarship, whereby formal attempts were made to provide explanations of events in the physical world based on natural causes; while further..."
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0000",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.4233275711536407,
+      "text": "Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist. Physics is one of the oldest academic disciplines. Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy."
+    },
+    {
+      "chunk_id": "wikipedia:Energy#0000",
+      "doc_id": "wikipedia:Energy",
+      "title": "Energy",
+      "url": "https://en.wikipedia.org/?curid=9649",
+      "source_type": "wikipedia",
+      "score": 0.4131232351064682,
+      "text": "Energy (from Ancient Greek ἐνέργεια (enérgeia) 'activity') is the quantitative property that is transferred to a body or to a physical system, recognizable in the performance of work and in the form of heat and light. Energy is a conserved quantity—the law of conservation of energy states that energy can be converted in form, but not created or destroyed. The unit of measurement for energy in the International System of Units (SI) is the joule (J). Forms of energy include the kinetic energy of a moving object, the potential energy stored by an object (for instance due to its position in a field), the elastic energy stored in a solid object, chemical energy associated with chemical reactions, the radiant energy carried by electromagnetic radiation, the internal energy contained within a thermodynamic system, and rest energy associated with an object's rest mass. These are not mutually exclusive. All living organisms constantly take in and release energy."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0000",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.4019271403551102,
+      "text": "Muteness is a speech disorder in which a person lacks the ability to speak. Mute, Mutes or the Mute may also refer to: Arts and entertainment Film and television Mute (2005 film), a short film by Melissa Joan Hart Mute (2018 film), a science-fiction thriller directed by Duncan Jones \"Mute\" (The Twilight Zone), a 1963 episode of The Twilight Zone Muted (TV series), a 2023 Spanish Netflix series Mutes, anthropomorphic animals in the American animated television series Kipo and the Age of Wonderbeasts Music Mute (music), a device used to alter the sound of a musical instrument Left-hand muting or palm mute, guitar muting techniques Mute Records, a record label in the United Kingdom Mute (album), a 2000 indie rock compilation album from Hush Records Muted (album), a 2003 album from hip hop artist Alias In print Mute (novel), a 1981 novel by Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture"
+    }
+  ]
+}

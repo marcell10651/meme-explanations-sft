@@ -1,0 +1,120 @@
+{
+  "meme_id": "meme_05169",
+  "queries": [
+    "\"Speaking\" \"the annoyingly loud family\" \"their misbehaving kids\" \"personal experience\" \"course\"",
+    "\"personal experience\" \"course\" \"speaking\" \"personal\""
+  ],
+  "primary_terms": [
+    "personal experience",
+    "course",
+    "speaking",
+    "personal",
+    "experience",
+    "the annoyingly loud family",
+    "their misbehaving kids",
+    "annoyingly",
+    "loud",
+    "family",
+    "sitting",
+    "next",
+    "threatens",
+    "misbehaving",
+    "kids",
+    "will",
+    "home",
+    "wit",
+    "son"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.7469216108322143,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.7417351871728897,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:User experience#0000",
+      "doc_id": "wikipedia:User experience",
+      "title": "User experience",
+      "url": "https://en.wikipedia.org/?curid=1462876",
+      "source_type": "wikipedia",
+      "score": 0.656207013130188,
+      "text": "User experience (UX) is how a user interacts with and experiences a product, system, or service. It includes a person's perceptions of utility, ease of use, and efficiency. Improving user experience is important to most companies, designers, and creators when creating and refining products because negative user experience can diminish the use of the product and, therefore, any desired positive impacts. Conversely, designing toward profitability as a main objective often conflicts with ethical user experience objectives and even causes harm. User experience is subjective. However, the attributes that make up the user experience are objective. Definitions According to Nielsen Norman Group, 'user experience' includes all the aspects of the interaction between the end-user with the company, its services, and its products."
+    },
+    {
+      "chunk_id": "wikipedia:Teacher#0000",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.6025575041770935,
+      "text": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence, or virtue, via the practice of teaching. Informally the role of teacher may be taken on by anyone (e.g. when showing a colleague how to perform a specific task). In some countries, teaching young people of school age may be carried out in an informal setting, such as within the family (homeschooling), rather than in a formal setting such as a school or college. Some other professions may involve a significant amount of teaching (e.g. youth worker, pastor). In most countries, formal teaching of students is usually carried out by paid professional teachers. This article focuses on those who are employed, as their main role, to teach others in a formal education context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures."
+    },
+    {
+      "chunk_id": "wikipedia:Silence#0001",
+      "doc_id": "wikipedia:Silence",
+      "title": "Silence",
+      "url": "https://en.wikipedia.org/?curid=440579",
+      "source_type": "wikipedia",
+      "score": 0.5723784625530243,
+      "text": "disciplines, people maintain silence for protracted periods, or even for the rest of their lives, as an ascetic means of spiritual transformation. Perception In the philosophy of perception and the science of perception, there has been a longstanding controversy as to how humans experience silence: \"the perceptual view (we literally hear silence), and..."
+    },
+    {
+      "chunk_id": "wikipedia:User experience#0001",
+      "doc_id": "wikipedia:User experience",
+      "title": "User experience",
+      "url": "https://en.wikipedia.org/?curid=1462876",
+      "source_type": "wikipedia",
+      "score": 0.5707664608955383,
+      "text": "Norman Group, 'user experience' includes all the aspects of the interaction between the end-user with the company, its services, and its products. The international standard on ergonomics of human-system interaction, ISO 9241, defines user experience as a \"user's perceptions and responses that result from the use and/or anticipated use of a system, product or service\". According to the ISO definition, user experience includes all the users' emotions, beliefs, preferences, perceptions, physical and psychological..."
+    },
+    {
+      "chunk_id": "wikipedia:Sone#0001",
+      "doc_id": "wikipedia:Sone",
+      "title": "Sone",
+      "url": "https://en.wikipedia.org/?curid=215436",
+      "source_type": "wikipedia",
+      "score": 0.5634416222572327,
+      "text": "with an exponent of 0.3. With this exponent, each 10 phon increase (or 10 dB at 1 kHz) produces almost exactly a doubling of the loudness in sones. At frequencies other than 1 kHz, the loudness level in phons is calibrated according to the frequency response of human hearing, via a set of equal-loudness contours, and then the loudness level in phons is mapped to loudness in sones via the same power law. Loudness N in sones (for LN > 40 phon): N = (..."
+    },
+    {
+      "chunk_id": "wikipedia:Sone#0000",
+      "doc_id": "wikipedia:Sone",
+      "title": "Sone",
+      "url": "https://en.wikipedia.org/?curid=215436",
+      "source_type": "wikipedia",
+      "score": 0.5630657851696015,
+      "text": "The sone () is a unit of loudness, the subjective perception of sound pressure. The study of perceived loudness is included in the topic of psychoacoustics and employs methods of psychophysics. Doubling the perceived loudness doubles the sone value. Proposed by Stanley Smith Stevens in 1936, it is not an SI unit. Definition and conversions According to Stevens' definition, a loudness of 1 sone is equivalent to 40 phons (a 1 kHz tone at 40 dB SPL). The phons scale aligns with dB, not with loudness, so the sone and phon scales are not proportional. Rather, the loudness in sones is, at least very nearly, a power law function of the signal intensity, with an exponent of 0.3. With this exponent, each 10 phon increase (or 10 dB at 1 kHz) produces almost exactly a doubling of the loudness in sones."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.5254914820194244,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0001",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.522848641872406,
+      "text": "to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively. Social: the ability to interact with the world through playing with others, taking turns and fantasy play. Although it is useful to chart defined periods of development, development exists on a continuum, with considerable differences between individual children. There..."
+    }
+  ]
+}

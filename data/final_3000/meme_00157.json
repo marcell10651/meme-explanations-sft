@@ -1,0 +1,189 @@
+{
+  "meme_id": "meme_00157",
+  "queries": [
+    "\"The entire internet\" \"youtube\" \"bedtime\" \"friendly\"",
+    "\"bedtime\" \"friendly\" \"goes\" \"down\""
+  ],
+  "primary_terms": [
+    "bedtime",
+    "friendly",
+    "The entire internet",
+    "youtube",
+    "goes",
+    "down",
+    "entire",
+    "internet"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Bedtime#0000",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 1.0055259227752686,
+      "text": "Bedtime (also called putting to bed or tucking in) is a ritual part of parenting to help children feel more secure and become accustomed to a more rigid schedule of sleep than they might prefer. The ritual of bedtime is aimed at facilitating the transition from wakefulness to sleep. It may involve bedtime stories, children's songs, nursery rhymes, bed-making and getting children to change into nightwear. In some religious households, prayers are said shortly before going to bed. Sleep training may be part of the bedtime ritual for babies and toddlers. In adult use, the term means simply \"time for bed\", similar to curfew, as in \"It's past my bedtime\". Some people are accustomed to drinking a nightcap or herbal tea at bedtime. Sleeping coaches are also used to help individuals reach their bedtime goals. Researchers studying sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube#0000",
+      "doc_id": "wikipedia:YouTube",
+      "title": "YouTube",
+      "url": "https://en.wikipedia.org/?curid=3524766",
+      "source_type": "wikipedia",
+      "score": 0.5734577536582947,
+      "text": "YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen, who were former employees of PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google. In January 2024, YouTube had more than 2.7 billion monthly active users, who collectively watched more than one billion hours of videos every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of content per minute, and as of mid-2024, there were approximately 14.8 billion videos in total. On November 13, 2006, YouTube was purchased by Google for US$1.65 billion (equivalent to $2.39 billion in 2024). Google expanded YouTube's business model from generating revenue through advertisements alone to offering paid content such as movies and exclusive content explicitly produced for YouTube."
+    },
+    {
+      "chunk_id": "wikipedia:Sleeping with Other People#0000",
+      "doc_id": "wikipedia:Sleeping with Other People",
+      "title": "Sleeping with Other People",
+      "url": "https://en.wikipedia.org/?curid=43263164",
+      "source_type": "wikipedia",
+      "score": 0.5660033822059631,
+      "text": "Sleeping with Other People is a 2015 American romantic comedy film written and directed by Leslye Headland. The film stars Jason Sudeikis, Alison Brie, Natasha Lyonne, Amanda Peet, and Adam Scott. Premiering at the Sundance Film Festival on January 24, 2015, the film was released theatrically on September 11, 2015, by IFC Films. Sleeping with Other People received generally positive reviews from critics. Plot In 2002, Lainey causes a scene in a dorm at Columbia University. Taking pity on her as she is about to be kicked out by security, Jake claims her as his guest. He learns Lainey was there to lose her virginity to her teaching assistant Matthew, who Jake thinks is the most boring guy in the world. Lainey eventually realizes Jake is also a virgin, so they lose their virginity to each other. Years later, Lainey breaks up with her long-term boyfriend Sam after telling him she has been cheating on him with Matthew."
+    },
+    {
+      "chunk_id": "wikipedia:Friendly#0000",
+      "doc_id": "wikipedia:Friendly",
+      "title": "Friendly",
+      "url": "https://en.wikipedia.org/?curid=466246",
+      "source_type": "wikipedia",
+      "score": 0.5658779203891754,
+      "text": "Friendly may refer to: Places Friendly, West Yorkshire, England, a settlement Friendly, Maryland, United States, an unincorporated community and census-designated place Friendly, Eugene, Oregon, United States, a neighborhood Friendly, West Virginia, United States, a town Friendly Islands or Tonga People Friendly (surname) Friendly (musician), Australian-born musician Andrew Kornweibel (fl. 1998–?) Other uses Friendly (sport), a game of association football or bandy that has no consequence in a wider competition Friendly's, an American restaurant chain Friendly Center, a shopping mall in Greensboro, North Carolina, United States Friendly Hall, a building on the University of Oregon campus Friendly High School, a public high school in Fort Washington, Maryland, United States Henry J."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube Premium#0000",
+      "doc_id": "wikipedia:YouTube Premium",
+      "title": "YouTube Premium",
+      "url": "https://en.wikipedia.org/?curid=44382466",
+      "source_type": "wikipedia",
+      "score": 0.5589029908180236,
+      "text": "YouTube Premium (formerly Music Key and YouTube Red) is a subscription service offered by the American video platform YouTube. The service provides ad-free access to content across the service, as well as access to exclusive YouTube Originals programming produced in collaboration with the site's creators, ability to download videos and listen background playback of videos on mobile devices, and access to the music streaming service, YouTube Music, along with other benefits. It has over 125 million subscribers. The service was launched on November 14, 2014, as Music Key, offering advertisement-free streaming of music videos from participating labels on YouTube and Google Play Music. The service was then revised and relaunched as YouTube Red on October 21, 2015, expanding its scope to offer advertisement-free access to all YouTube videos, as opposed to just music."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0001",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.5364952743053436,
+      "text": "by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites. The Internet has enabled and accelerated new forms of personal interaction through instant messaging, Internet forums, and social networking services. Online shopping has also grown to occupy a significant market across industries, enabling firms to extend brick and mortar presences..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.5304470062255859,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0000",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.5285750985145569,
+      "text": "The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies. The Internet carries a vast range of information services and resources, such as the interlinked hypertext documents and applications of the World Wide Web (WWW), electronic mail, discussion groups, internet telephony, streaming media and file sharing. Most traditional communication media, including telephone, radio, television, paper mail, newspapers, and print publishing, have been transformed by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.5280502736568451,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Normal People#0000",
+      "doc_id": "wikipedia:Normal People",
+      "title": "Normal People",
+      "url": "https://en.wikipedia.org/?curid=59041422",
+      "source_type": "wikipedia",
+      "score": 0.5248480498790741,
+      "text": "Normal People is a 2018 novel by the Irish author Sally Rooney. Normal People is Rooney's second novel, published after Conversations with Friends (2017). It was first published by Faber & Faber on 30 August 2018. The book became a bestseller in the United States, selling almost 64,000 copies in hardcover in its first four months of release. It was also a bestseller in China, where its coming of age theme was popular with younger readers. A critically acclaimed and Emmy nominated television adaptation of the same name aired from April 2020 on BBC Three and Hulu. A number of publications ranked it one of the best books of the 2010s. Synopsis The novel follows the complex friendship and relationship between two teenagers from different social classes, Connell and Marianne, who both attend the same secondary school in County Sligo, Ireland, and, later, Trinity College Dublin (TCD). It is set during the post-2008 Irish economic downturn, from 2011 through 2015."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a picture of a boy shouting while trying to pull back his hands",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "his hands"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that internet users are angry YouTube went down.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "internet users",
+          "angry YouTube"
+        ]
+      },
+      "title": {
+        "text": "bedtime friendly",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "bedtime",
+          "friendly"
+        ]
+      },
+      "text": {
+        "text": "Youtube: goes down The entire internet:",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The entire internet",
+          "youtube",
+          "goes",
+          "down",
+          "entire",
+          "internet"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "bedtime",
+      "friendly",
+      "The entire internet",
+      "youtube",
+      "goes",
+      "down",
+      "entire",
+      "internet"
+    ],
+    "secondary_terms": [
+      "his hands",
+      "internet users",
+      "angry YouTube"
+    ],
+    "queries": [
+      "\"The entire internet\" \"youtube\" \"bedtime\" \"friendly\"",
+      "\"bedtime\" \"friendly\" \"goes\" \"down\""
+    ]
+  },
+  "source_jsonl_id": null
+}

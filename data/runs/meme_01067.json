@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_01067",
+  "queries": [
+    "\"the next two days\" \"Tele\" \"training\" \"expect\"",
+    "\"training\" \"expect\" \"next\" \"two\""
+  ],
+  "primary_terms": [
+    "the next two days",
+    "training",
+    "expect",
+    "next",
+    "two",
+    "days",
+    "will",
+    "Tele",
+    "econ"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Another Man, Another Chance#0000",
+      "doc_id": "wikipedia:Another Man, Another Chance",
+      "title": "Another Man, Another Chance",
+      "url": "https://en.wikipedia.org/?curid=17874058",
+      "source_type": "wikipedia",
+      "score": 0.6423517435789108,
+      "text": "Another Man, Another Chance (Un autre homme, une autre chance, UK title: Another Man, Another Woman) is a 1977 French western film directed by Claude Lelouch. Plot France in 1870: Napoleon III has just lost the war against Prussia and left the country in poverty. Young Jeanne (Geneviève Bujold) falls in love with photographer Francis (Francis Huster), who soon takes her with him when he emigrates to The United States. In a small town in the still Wild West, they build up a small photo shop. Meanwhile, animal doctor David (James Caan) lives on his lonesome farm with his wife. It takes two years and two tragic accidents until Jeanne and David meet. Alone with a child, Jeanne has decided to return to France and is about to leave but then she and David silently and carefully fall in love for the second time in their lives and hope returns."
+    },
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.6158280104398728,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.5916794955730438,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:Final#0000",
+      "doc_id": "wikipedia:Final",
+      "title": "Final",
+      "url": "https://en.wikipedia.org/?curid=759020",
+      "source_type": "wikipedia",
+      "score": 0.5604127913713455,
+      "text": "Final, Finals or The Final may refer to: Final examination or finals, a test given at the end of a course of study or training Final (competition), the last or championship round of a sporting competition, match, game, or other contest which decides a winner for an event Another term for playoffs, describing a sequence of contests taking place after a regular season or round-robin tournament, culminating in a final by the first definition. Art and entertainment Finals (comics), a four-issue comic book mini-series The Finals, a first-person shooter game Film and television Final (film), a science fiction film The Final (film), a thriller film Finals (film), a 2019 Malayalam sports drama film \"Finals\" (Doctor in the House), a 1970 television episode Music Final, a tone of the Gregorian mode Final (band), an English electronic musical group Final (Vol. 1), 2021 album by Enrique Iglesias Final (Vol. 2), 2024 album by Enrique Iglesias The Final (album), by Wham!"
+    },
+    {
+      "chunk_id": "wikipedia:Working#0000",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.5557845056056976,
+      "text": "Working may refer to: Work (human activity), intentional activity people perform to support themselves, others, or the community Arts and media Working (musical), a 1978 musical Working (TV series), an American sitcom Working (Caro book), a 2019 book by Robert Caro Working (Terkel book), a 1974 book by Studs Terkel Working!!, a manga by Karino Takatsu \"Working\" (song), by Tate McRae and Khalid, 2021 Engineering and technology Cold working or cold forming, the shaping of metal below its recrystallization temperature Hot working, the shaping of metal above its recrystallization temperature Multiple working, having more than one locomotive under the control of one driver Live-line working, the maintenance of electrical equipment while it is energised Single-line working, using one train track out of two Other uses Holbrook Working (1895–1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of"
+    },
+    {
+      "chunk_id": "wikipedia:Hope#0000",
+      "doc_id": "wikipedia:Hope",
+      "title": "Hope",
+      "url": "https://en.wikipedia.org/?curid=50020",
+      "source_type": "wikipedia",
+      "score": 0.49627739787101743,
+      "text": "Hope is an optimistic state of mind that is based on an expectation of positive outcomes with respect to events and circumstances in one's own life, or the world at large. As a verb, Merriam-Webster defines hope as \"to expect with confidence\" or \"to cherish a desire with anticipation\". Among its opposites are dejection, hopelessness, and despair. Hope finds expression through many dimensions of human life, including practical reasoning, the religious virtue of hope, legal doctrine, and literature, alongside cultural and mythological aspects. In psychology American professor of psychology Barbara Fredrickson argues that hope comes into its own when crisis looms, opening us to new creative possibilities. Frederickson argues that with great need comes an unusually wide range of ideas, as well as such positive emotions as happiness and joy, courage, and empowerment, drawn from four different areas of one's self: from a cognitive, psychological, social, or physical perspective."
+    },
+    {
+      "chunk_id": "wikipedia:Rescue#0000",
+      "doc_id": "wikipedia:Rescue",
+      "title": "Rescue",
+      "url": "https://en.wikipedia.org/?curid=363258",
+      "source_type": "wikipedia",
+      "score": 0.49215554296970365,
+      "text": "Rescue comprises responsive operations that usually involve the saving of life, removal from danger, liberation from restraint, or the urgent treatment of injuries after an incident. It may be facilitated by a range of tools and equipment necessary to deal with the specific circumstances. Rescues may be necessary in a wide range of circumstances and environments, and specialised procedures have been developed for many of these. A rescue may also be performed on an ad hoc basis by the people who are available on site, using equipment available on site or assembled from available materials, particularly when the rescue is urgent or it is unlikely that specialist assistance will be available within a reasonable time. First aid medical attention is often closely associated with rescue, and may be a necessary part of a rescue."
+    },
+    {
+      "chunk_id": "wikipedia:Ready#0000",
+      "doc_id": "wikipedia:Ready",
+      "title": "Ready",
+      "url": "https://en.wikipedia.org/?curid=9285499",
+      "source_type": "wikipedia",
+      "score": 0.4865949958562851,
+      "text": "Ready may refer to: Film and television Ready, a 2002 British short starring Imelda Staunton Ready (2008 film), an Indian Telugu-language film by Srinu Vaitla Uthamaputhiran (2010 film), working title Ready, an Indian Tamil-language remake Ready (2011 film), an Indian Hindi-language remake \"Ready\" (New Girl), a television episode Music Ready Records, a Canadian record label Albums Ready! (Nami Tamaki album), 2011 Ready (Sandy Lam album), 1988 Ready (Trey Songz album), 2009 Ready, by Reni Lane, 2010 EPs Ready (Ella Mai EP), 2017 Ready (Victon EP), 2017 Ready (Ruel EP), 2018 Songs \"Ready\" (Alessia Cara song), 2019 \"Ready\" (B.o.B song), 2013 \"Ready\" (Fabolous song), 2013 \"Ready\" (Kodaline song), 2015 \"Ready?\", by Tomoko Kawase, 2005 \"Ready\", by Black Rob from The Black Rob Report, 2005 \"Ready\", by Cat Stevens from Buddha and the Chocolate Box, 1974 \"Ready\", by Cherie from the Confessions of a Teenage Drama Queen soundtrack album, 2004 \"Ready\", by Jagged Edge from J.E."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0001",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.4864784389734268,
+      "text": "The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff from Doctor Who The Class (TV series), a CBS sitcom Class (2023 TV series), a 2023 Indian Netflix teen drama Literature Class: A Guide Through the American Status System,..."
+    },
+    {
+      "chunk_id": "wikipedia:Culinary Class Wars#0000",
+      "doc_id": "wikipedia:Culinary Class Wars",
+      "title": "Culinary Class Wars",
+      "url": "https://en.wikipedia.org/?curid=77970789",
+      "source_type": "wikipedia",
+      "score": 0.47012302875518797,
+      "text": "Culinary Class Wars (Korean: 흑백요리사: 요리 계급 전쟁) is a South Korean cooking competition/comedy in the dramatic style of Physical: 100. The first season was released on Netflix in 2024 and featured one hundred elite chefs divided into two classes: white spoons (veterans) and black spoons (newcomers), competing for the prize of ₩300 million. The first three episodes of season two aired on December 16, 2025, with the last episode of the season scheduled to be released on January 13, 2026. In January 2026, Netflix announced the series was renewed for a team-based third season. Judges The two judges were veteran restaurateur and celebrity chef, Paik Jong-won, and the only Michelin three-star chef in Korea, Anh Sung-jae. They became full from tasting so much food during the contest but Paik still ate his packed lunch too. Care was taken to ensure impartial judging."
+    }
+  ]
+}

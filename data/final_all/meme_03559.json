@@ -1,0 +1,209 @@
+{
+  "meme_id": "meme_03559",
+  "queries": [
+    "\"Gravy Seal\" \"the term\" \"today\" \"first\"",
+    "\"today\" \"first\" \"heard\" \"term\""
+  ],
+  "primary_terms": [
+    "the term",
+    "Gravy Seal",
+    "today",
+    "first",
+    "heard",
+    "term",
+    "gravy",
+    "seal",
+    "very",
+    "happy",
+    "operation",
+    "dessert",
+    "storm",
+    "ronons"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Morning#0000",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.7489675760269165,
+      "text": "Morning is either the period from sunrise to noon, or the period from midnight to noon. In the first definition it is preceded by the twilight period of dawn, and there are no exact times for when morning begins (also true of evening and night) because it can vary according to one's latitude, and the hours of daylight at each time of year. However, morning strictly ends at noon, when afternoon starts. Morning precedes afternoon, evening, and night in the sequence of a day. Originally, the term referred to sunrise. Etymology The Modern English words \"morning\" and \"tomorrow\" began in Middle English as morwening, developing into morwen, then morwe, and eventually morrow. English, unlike some other languages, has separate terms for \"morning\" and \"tomorrow\", despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\"."
+    },
+    {
+      "chunk_id": "wikipedia:First Time#0001",
+      "doc_id": "wikipedia:First Time",
+      "title": "First Time",
+      "url": "https://en.wikipedia.org/?curid=2039755",
+      "source_type": "wikipedia",
+      "score": 0.6730842053890228,
+      "text": "Day at a Time) \"The First Time\" (That '70s Show) Literature The First Time (memoir), a 1998 book by Cher and Jeff Coplon First Time, a 2008 novel by Meg Tilly First-Time: The Historical Vision of an Afro-American People, a 1983 book by Richard Price Music Albums First Time (Maya Simantov album) or the title song..."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0000",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.6224274873733521,
+      "text": "In grammar, a phrase — called an expression in some contexts — is a group of one or more words acting as a grammatical unit. For instance, the English expression \"the very happy squirrel\" is a noun phrase which contains the adjective phrase \"very happy\". Phrases can consist of a single word or a complete sentence. In theoretical linguistics, phrases are often analyzed as units of syntactic structure such as a constituent. There is a difference between the common use of the term phrase and its technical use in linguistics. In common usage, a phrase is usually a group of words with some special idiomatic meaning or other significance, such as \"all rights reserved\", \"economical with the truth\", or \"kick the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.5872926533222198,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:First Time#0000",
+      "doc_id": "wikipedia:First Time",
+      "title": "First Time",
+      "url": "https://en.wikipedia.org/?curid=2039755",
+      "source_type": "wikipedia",
+      "score": 0.5607758074998855,
+      "text": "First Time or The First Time may refer to: Film and television Films The First Time (1952 film), an American comedy-drama directed by Frank Tashlin The First Time (1969 film), an American coming-of-age film directed by James Neilson The First Time (1981 film), an American coming of age comedy film The First Time, a 1982 American television film starring Jennifer Jason Leigh First Time, a 1983 Hong Kong film produced by Peter Yang The First Time, a 1983 comedy featuring Wendie Jo Sperber First Time, a 2003 Philippine film featuring Ryan Eigenmann The First Time (2012 film), an American teen romantic comedy by Jon Kasdan First Time (2012 film), a Chinese romance film directed by Han Yan Television First Time (TV series), a 2010 Philippine romantic drama Episodes \"First Time\" (South of Nowhere) \"The First Time\" (Glee) \"The First Time\" (One Day at a Time) \"The First Time\" (That '70s Show) Literature The First Time (memoir), a 1998 book by Cher and Jeff Coplon First Time, a 2008 novel by"
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0000",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.5482382506132126,
+      "text": "A restaurant is a business that prepares and serves food and beverages to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, featuring a wide variety of cuisines and service models — ranging from inexpensive fast-food restaurants and cafeterias to mid-priced family restaurants to high-priced luxury establishments. Etymology The word derives from the early 19th century, taken from the French word restaurer 'provide meat for', literally 'restore to a former state' and, being the present participle of the verb, the term restaurant may have been used in 1507 as a \"restorative beverage\", and in correspondence in 1521 to mean 'that which restores the strength, a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt."
+    },
+    {
+      "chunk_id": "wikipedia:Lady#0001",
+      "doc_id": "wikipedia:Lady",
+      "title": "Lady",
+      "url": "https://en.wikipedia.org/?curid=555643",
+      "source_type": "wikipedia",
+      "score": 0.49435770809650426,
+      "text": "comes from Old English hlǣfdige; the first part of the word is a mutated form of hlāf, \"loaf, bread\", also seen in the corresponding hlāford, \"lord\". The second part is usually taken to be from the root dig-, \"to knead\", seen also in dough; the sense development from bread-kneader, or bread-maker, or bread-shaper, to the ordinary meaning, though not clearly to be traced historically, may be illustrated by that of \"lord\". Usage The primary meaning of \"mistress of a household\" is now mostly obsolete, save for the term \"landlady\" and..."
+    },
+    {
+      "chunk_id": "wikipedia:Pocket#0000",
+      "doc_id": "wikipedia:Pocket",
+      "title": "Pocket",
+      "url": "https://en.wikipedia.org/?curid=416041",
+      "source_type": "wikipedia",
+      "score": 0.4659170925617218,
+      "text": "A pocket is a small bag- or envelope-shaped compartment that is either sewn into or attached to clothing, designed for carrying small items. Pockets are also found on luggage, backpacks, and similar containers. Historically, the term could also refer to a separate pouch or small bag. Origins Ancient civilizations used leather or cloth pouches to store valuables. The Copper Age mummy known as Ötzi (also called the \"Iceman\"), who lived around 3,300 BCE, wore a belt with a sewn-on pouch containing tools and materials such as a scraper, drill, flint flake, bone awl, and dried tinder fungus. In medieval Europe, early pocket-like openings called fitchets appeared in the 13th century. These vertical slits, cut into the outer tunic, allowed access to a purse or keys suspended from the girdle beneath. Historian Rebecca Unsworth notes that pockets became more visible in the late 15th century, and their use spread widely in the 16th century."
+    },
+    {
+      "chunk_id": "wikipedia:Cunt#0000",
+      "doc_id": "wikipedia:Cunt",
+      "title": "Cunt",
+      "url": "https://en.wikipedia.org/?curid=46963",
+      "source_type": "wikipedia",
+      "score": 0.44913406372070314,
+      "text": "Cunt ( ) is a vulgar word for the vulva in its primary sense, and it is used in a variety of ways, including as a term of disparagement. It is often used as a disparaging and obscene term for a woman in the United States, an unpleasant or objectionable person (regardless of gender) in the United Kingdom and Ireland, or a contemptible man in Australia and New Zealand. In Australia and New Zealand, it can also be a neutral or positive term when used with a positive qualifier (e.g., \"He's a good cunt\"). The term has various derivative senses, including adjective and verb uses. History The earliest known use of the word, according to the Oxford English Dictionary, was as part of a placename: an Oxford street called Gropecunt Lane, c. 1230, now by the name of Grove Passage or Magpie Lane. Use of the word as a term of abuse is relatively recent, dating from the late nineteenth century."
+    },
+    {
+      "chunk_id": "wikipedia:Mask#0000",
+      "doc_id": "wikipedia:Mask",
+      "title": "Mask",
+      "url": "https://en.wikipedia.org/?curid=247083",
+      "source_type": "wikipedia",
+      "score": 0.44822309613227845,
+      "text": "A mask is an object normally worn on the face, typically for protection, disguise, performance, or entertainment, and often employed for rituals and rites. Masks have been used since antiquity for both ceremonial and practical purposes, as well as in the performing arts and for entertainment. They are usually worn on the face, although they may also be positioned for effect elsewhere on the wearer's body. In art history, especially sculpture, \"mask\" is the term for a face without a body that is not modelled in the round (which would make it a \"head\"), but for example appears in low relief. Etymology The word \"mask\" appeared in English in the 1530s, from Middle French masque \"covering to hide or guard the face\", derived in turn from Italian maschera, from Medieval Latin masca \"mask, specter, nightmare\". This word is of uncertain origin, perhaps from Arabic maskharah مَسْخَرَۃٌ \"buffoon\", from the verb sakhira \"to ridicule\"."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A overweight soldier is about to run to the other side of the fence.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the other side",
+          "the fence"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster is mocking the soldiers that they aren't fit for the dessert war.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the soldiers",
+          "the dessert war"
+        ]
+      },
+      "title": {
+        "text": "Today I first heard of the term Gravy Seal and I'm very happy about it.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the term",
+          "Gravy Seal",
+          "today",
+          "first",
+          "heard",
+          "term",
+          "gravy",
+          "seal",
+          "very",
+          "happy"
+        ]
+      },
+      "text": {
+        "text": "Operation Dessert Storm Ta at S = ; | |\" “ i “Sy . yp oh NN | | roNONS { ~7S mt \\. 4 ; . ay ) _ ~~ 0! el ee eee",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "operation",
+          "dessert",
+          "storm",
+          "ronons"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the term",
+      "Gravy Seal",
+      "today",
+      "first",
+      "heard",
+      "term",
+      "gravy",
+      "seal",
+      "very",
+      "happy",
+      "operation",
+      "dessert",
+      "storm",
+      "ronons"
+    ],
+    "secondary_terms": [
+      "the other side",
+      "the fence",
+      "the soldiers",
+      "the dessert war"
+    ],
+    "queries": [
+      "\"Gravy Seal\" \"the term\" \"today\" \"first\"",
+      "\"today\" \"first\" \"heard\" \"term\""
+    ]
+  },
+  "source_jsonl_id": null
+}

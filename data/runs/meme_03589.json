@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_03589",
+  "queries": [
+    "\"the ages\" \"battle\" \"ages\" \"bye\"",
+    "\"ages\" \"bye\" \"ata\" \"anaemia\""
+  ],
+  "primary_terms": [
+    "the ages",
+    "battle",
+    "ages",
+    "bye",
+    "ata",
+    "anaemia",
+    "dogs"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Decade#0001",
+      "doc_id": "wikipedia:Decade",
+      "title": "Decade",
+      "url": "https://en.wikipedia.org/?curid=695530",
+      "source_type": "wikipedia",
+      "score": 0.7094393670558929,
+      "text": "referred to as being \"10\") and ends at the end of their 20th year of life, on their 20th birthday; similarly, the third decade of life, when one is in one's twenties or 20s, starts with the 21st year of life, and so on, with subsequent decades of life similarly described by referencing the tens digit of one's age. 0-to-9 decade The most..."
+    },
+    {
+      "chunk_id": "wikipedia:Birthday#0001",
+      "doc_id": "wikipedia:Birthday",
+      "title": "Birthday",
+      "url": "https://en.wikipedia.org/?curid=20903181",
+      "source_type": "wikipedia",
+      "score": 0.6592125356197357,
+      "text": "when they reach the age of majority (usually between 12 and 21), and reaching age-specific milestones confers particular rights and responsibilities. At certain ages, one may become eligible to leave full-time education, become subject to military conscription or to enlist in the military, to consent to sexual intercourse, to marry with parental consent, to marry without parental consent, to vote, to run for elected office, to legally purchase (or..."
+    },
+    {
+      "chunk_id": "wikipedia:Young#0000",
+      "doc_id": "wikipedia:Young",
+      "title": "Young",
+      "url": "https://en.wikipedia.org/?curid=302029",
+      "source_type": "wikipedia",
+      "score": 0.6209466457366943,
+      "text": "Young may refer to: Offspring, the product of reproduction of a new organism produced by one or more parents Youth, the time of life when one's age is low, often meaning the time between childhood and adulthood Music The Young, an American rock band Young, an EP by Charlotte Lawrence, 2018 Songs \"Young\" (Baekhyun and Loco song), 2018 \"Young\" (The Chainsmokers song), 2017 \"Young\" (Hollywood Undead song), 2009 \"Young\" (Kenny Chesney song), 2002 \"Young\" (Place on Earth song), 2018 \"Young\" (Tulisa song), 2012 \"Young\", by Ella Henderson, 2019 \"Young\", by Lil Wayne from Dedication 6, 2017 \"Young\", by Nickel Creek from This Side, 2002 \"Young\", by Sam Smith from Love Goes, 2020 \"Young\", by Silkworm from Italian Platinum, 2002 \"Young\", by Vacations (band), 2016 \"Young\", by Vallis Alps, 2015 \"Young\", by Pixey, 2016 People Surname Young (surname) Given name Young (Korean name), Korean unisex given name and name element Young Boozer (born 1948), American banker and Alabama State Treasurer Young"
+    },
+    {
+      "chunk_id": "wikipedia:Century#0000",
+      "doc_id": "wikipedia:Century",
+      "title": "Century",
+      "url": "https://en.wikipedia.org/?curid=5881",
+      "source_type": "wikipedia",
+      "score": 0.6162874758243561,
+      "text": "A century is a period of 100 years or 10 decades. Centuries are numbered ordinally in English and many other languages. The word century comes from the Latin centum, meaning one hundred. Century is sometimes abbreviated as c. A centennial or centenary is a hundredth anniversary, or a celebration of this, typically the remembrance of an event which took place a hundred years earlier. Start and end of centuries Although a century can mean any arbitrary period of 100 years, there are two viewpoints on the nature of standard centuries. One is based on strict construction, while the other is based on popular perception. According to the strict construction, the 1st century AD, which began with AD 1, ended with AD 100, and the 2nd century with AD 200; in this model, the n-th century starts with a year that follows a year with a multiple of 100 (except the first century as it began after the year 1 BC) and ends with the next coming year with a multiple of 100 (100n), i.e."
+    },
+    {
+      "chunk_id": "wikipedia:Before#0000",
+      "doc_id": "wikipedia:Before",
+      "title": "Before",
+      "url": "https://en.wikipedia.org/?curid=39628822",
+      "source_type": "wikipedia",
+      "score": 0.5072161912918091,
+      "text": "Before is the opposite of after, and may refer to: Literature \"Before\" (short story) by Gael Baudino, 1996 Before by Anna Todd, 2015 Music Before (Gold Panda EP), 2009 Before (James Blake EP), 2020 \"Before\" (song), a 1996 song by the Pet Shop Boys \"Before\", a song by the Empire of the Sun from Two Vines \"Before\", a song by Anastacia from Evolution Television and film Before trilogy, by Richard Linklater Before Sunrise, 1995 Before Sunset, 2004 Before Midnight, 2013 Before (TV series), 2024 See also Before Christ (BC), an epoch used in dating years prior to the estimated birth of Jesus Before Common Era (BCE), an alternative naming of the traditional calendar era primarily used in academic circles Before Present (BP), a timescale used mainly in geology All pages with titles beginning with Before All pages with titles containing Before"
+    },
+    {
+      "chunk_id": "wikipedia:Century#0001",
+      "doc_id": "wikipedia:Century",
+      "title": "Century",
+      "url": "https://en.wikipedia.org/?curid=5881",
+      "source_type": "wikipedia",
+      "score": 0.4762066453695297,
+      "text": "a multiple of 100 (except the first century as it began after the year 1 BC) and ends with the next coming year with a multiple of 100 (100n), i.e. the 20th century comprises the years 1901 to 2000, and the 21st century comprises the years 2001 to 2100 in strict usage. In common perception and practice, centuries are structured by grouping years based on sharing..."
+    },
+    {
+      "chunk_id": "wikipedia:Young#0001",
+      "doc_id": "wikipedia:Young",
+      "title": "Young",
+      "url": "https://en.wikipedia.org/?curid=302029",
+      "source_type": "wikipedia",
+      "score": 0.44525888562202454,
+      "text": "Given name Young (Korean name), Korean unisex given name and name element Young Boozer (born 1948), American banker and Alabama State Treasurer Young Moraes (born 2002), Brazilian football goalkeeper Young Tonumaipea (born 1992), Samoan-Australian rugby league footballer Young Vivian (born 1935), Niuean politician who has..."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0000",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.4306248128414154,
+      "text": "Millennials, also known as Generation Y or Gen Y, are the demographic cohort following Generation X and preceding Generation Z. Researchers and popular media use the early 1980s as starting birth years and the mid-1990s to early 2000s as ending birth years, with the generation typically being defined as people born from 1981 to 1996. Most millennials are the children of baby boomers and older Gen Xers, and are often the parents of Generation Alpha. As children in the late 1980s to 2000s, millennials saw the rise of the Information Age and Internet, being described by some as the first global generation. As adolescents and young adults in the late 1990s to 2010s, the generation was marked by a more upbeat youth culture, elevated familiarity with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace."
+    },
+    {
+      "chunk_id": "wikipedia:Sword#0001",
+      "doc_id": "wikipedia:Sword",
+      "title": "Sword",
+      "url": "https://en.wikipedia.org/?curid=27863",
+      "source_type": "wikipedia",
+      "score": 0.4114432692527771,
+      "text": "Ages, at first adopted as the Migration Period sword, and only in the High Middle Ages, developed into the classical arming sword with crossguard. The word sword continues the Old English, sweord. The use of a sword is known as swordsmanship or, in a modern context, as fencing. In the early modern period, western sword design diverged into two forms, the thrusting swords and the sabres..."
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0000",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.39566870033741,
+      "text": "A toddler is a child approximately 1 to 3 years old, though definitions vary. The toddler years are a time of great cognitive, emotional and social development. The word is derived from \"toddle\", which means to walk unsteadily, as children at this age do. Developmental milestones Toddler development can be broken down into a number of interrelated areas. There is reasonable consensus about what these areas may include: Physical: growth or an increase in size. Gross motor: the control of large muscles which enable walking, running, jumping and climbing. Fine motor: the ability to control small muscles; enabling the toddler to feed themselves, draw and manipulate objects. Vision: the ability to see near and far and interpret what is seen. Hearing and speech: the ability to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively."
+    }
+  ]
+}

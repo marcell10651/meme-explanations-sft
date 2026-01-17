@@ -1,0 +1,186 @@
+{
+  "meme_id": "meme_03315",
+  "queries": [
+    "\"Chocolate\" \"SUGAR - FLOUR\" \"JAI BAKING\" \"Net fod\" \"said\"",
+    "\"Net fod\" \"said\" \"add\" \"cup\""
+  ],
+  "primary_terms": [
+    "said",
+    "add",
+    "cup",
+    "SUGAR - FLOUR",
+    "JAI BAKING",
+    "Net fod"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Cake#0000",
+      "doc_id": "wikipedia:Cake",
+      "title": "Cake",
+      "url": "https://en.wikipedia.org/?curid=57572",
+      "source_type": "wikipedia",
+      "score": 0.5190436005592346,
+      "text": "Cake is a baker's confectionery usually made from flour, sugar, and other ingredients and is usually baked. In their oldest forms, cakes were modifications of bread, but cakes now cover a wide range of preparations that can be simple or elaborate and which share features with desserts such as pastries, meringues, custards, and pies. The most common ingredients include flour, sugar, eggs, fat (such as butter, oil, or margarine), a liquid, and a leavening agent, such as baking soda or baking powder. Common additional ingredients include dried, candied, or fresh fruit, nuts, cocoa, and extracts such as vanilla, with numerous substitutions for the primary ingredients. Cakes can also be filled with fruit preserves, nuts, or dessert sauces (like custard, jelly, cooked fruit, whipped cream, or syrups), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0001",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.46985316276550293,
+      "text": "a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt. It served only one dish, a plate of cereal, wildfowl, and onions. A forerunner for the modern restaurant is the thermopolium, an establishment in Ancient Greece or Ancient Rome that sold and served ready-to-eat food and beverages. These establishments..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.4461028426885605,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Candy#0000",
+      "doc_id": "wikipedia:Candy",
+      "title": "Candy",
+      "url": "https://en.wikipedia.org/?curid=61230",
+      "source_type": "wikipedia",
+      "score": 0.42633417844772337,
+      "text": "Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. The category, also called sugar confectionery, encompasses any sweet confection, including chocolate, chewing gum, and sugar candy. Vegetables, fruit, or nuts which have been glazed and coated with sugar are said to be candied. Physically, candy is characterized by the use of a significant amount of sugar or sugar substitutes. Unlike a cake or loaf of bread that would be shared among many people, candies are usually made in smaller pieces. However, the definition of candy also depends upon how people treat the food. Unlike sweet pastries served for a dessert course at the end of a meal, candies are normally eaten casually, often with the fingers, as a snack between meals. Each culture has its own ideas of what constitutes candy rather than dessert. The same food may be a candy in one culture and a dessert in another."
+    },
+    {
+      "chunk_id": "wikipedia:Premium#0001",
+      "doc_id": "wikipedia:Premium",
+      "title": "Premium",
+      "url": "https://en.wikipedia.org/?curid=769137",
+      "source_type": "wikipedia",
+      "score": 0.4128432869911194,
+      "text": "texting, SMS used for delivering digital content Premium-rate telephone number, telephone numbers for which prices higher than normal are charged Brands Premium-Cola, a brand of cola from Germany Premium Brands Holdings Corporation, a Canadian specialty food manufacturing and distribution company Premium Outlets, a brand of shopping malls..."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0001",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.37538942694664,
+      "text": "food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting. Their favorite food is cocoa beans. When Willy Wonka arrived, he told the chief he and his people can come live and work at his factory and have all the cocoa beans they want. In the first edition of Charlie..."
+    },
+    {
+      "chunk_id": "wikipedia:Cake#0001",
+      "doc_id": "wikipedia:Cake",
+      "title": "Cake",
+      "url": "https://en.wikipedia.org/?curid=57572",
+      "source_type": "wikipedia",
+      "score": 0.3664451241493225,
+      "text": "jelly, cooked fruit, whipped cream, or syrups), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit. Cake is often served as a celebratory dish on ceremonial occasions, such as weddings, anniversaries, and birthdays. There are countless cake recipes; some are bread-like, some are rich and elaborate, and many are centuries old. Cake making is no longer a complicated procedure; while at one time..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.36313244700431824,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0000",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.34662410616874695,
+      "text": "Fuck () is a profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives (such as fucker and fucking) are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off. Offensiveness It is unclear whether the word has always been considered a pejorative or, if not, when it first came to be used to describe (often in an extremely angry, hostile, or belligerent manner) unpleasant circumstances or people in an intentionally offensive way, such as in the term motherfucker, one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.3459237962961197,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Chocolate chip cookies are made with different ingredients.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Chocolate chip cookies",
+          "different ingredients"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that Chocolate chip cookies look weird when you add too much of certain ingredients but sulfuric acid completely dissolves them.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Chocolate chip cookies",
+          "certain ingredients",
+          "sulfuric acid"
+        ]
+      },
+      "title": {
+        "text": "But it said to add 1 cup",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "said",
+          "add",
+          "cup"
+        ]
+      },
+      "text": {
+        "text": "_ OOPS! YOU ADDED TOO MUCH: i . -pha, > BUTTER eB . Gg re); SUGAR - FLOUR ‘4 nee . JAI BAKING ; . RRA ae wis si} yy SODA me ~ Net fod",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "SUGAR - FLOUR",
+          "JAI BAKING",
+          "Net fod"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "said",
+      "add",
+      "cup",
+      "SUGAR - FLOUR",
+      "JAI BAKING",
+      "Net fod"
+    ],
+    "secondary_terms": [
+      "Chocolate chip cookies",
+      "different ingredients",
+      "certain ingredients",
+      "sulfuric acid"
+    ],
+    "queries": [
+      "\"Chocolate\" \"SUGAR - FLOUR\" \"JAI BAKING\" \"Net fod\" \"said\"",
+      "\"Net fod\" \"said\" \"add\" \"cup\""
+    ]
+  },
+  "source_jsonl_id": null
+}

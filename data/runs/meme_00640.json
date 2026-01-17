@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_00640",
+  "queries": [
+    "\"two mind readers\" \"each other's minds\" \"wait\" \"mind\"",
+    "\"two mind readers\" \"each other's minds\" \"the boy\" \"the difficulty\"",
+    "\"the boy\" \"the difficulty\" \"weed questions\" \"wait\""
+  ],
+  "primary_terms": [
+    "wait",
+    "two mind readers",
+    "each other's minds",
+    "mind"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Waiting#0000",
+      "doc_id": "wikipedia:Waiting",
+      "title": "Waiting",
+      "url": "https://en.wikipedia.org/?curid=5769974",
+      "source_type": "wikipedia",
+      "score": 0.9345239162445068,
+      "text": "Waiting, Waitin, Waitin', or The Waiting may refer to: Art Waiting (Degas), a c. 1880–1882 pastel on paper by Edgar Degas Waiting (Millais), an 1854 painting by John Everett Millais Film Waiting (1991 film), a film by Jackie McKimmie Waiting... (film), a 2005 film starring Ryan Reynolds Waiting, a 2007 film by Zarina Bhimji Waiting (2015 film), an Indian drama film starring Naseeruddin Shah and Kalki Koechlin The Waiting (film), a 2020 American horror/romance/comedy by F. C. Rabbath The Good Neighbor (2016 film) (working title The Waiting), an American thriller film Literature Waiting (novel), a 1999 novel by Ha Jin Waiting (picture book), a 2015 children's book by Kevin Henkes The Waiting (graphic novel), a 2020 graphic novel by Keum Suk Gendry-Kim \"The Waiting\" (short story), or \"The Wait\", a 1950 story by Jorge Luis Borges The Waiting, a 2024 novel by Michael Connelly Music The Waiting (band), a Christian pop rock band Waiting (KLF film), a video by The KLF Albums Waiting (Bobby"
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.926608806848526,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0001",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.8479295372962952,
+      "text": "Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A. Applegate The Other (Tryon novel), a 1971 horror novel by Tom Tryon \"The Other\" (short story), a 1972 short story by Jorge Luis Borges The Other, a 2008 novel by David Guterson Spider-Man: \"The Other\", a 2005–2006..."
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0000",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.7475010514259338,
+      "text": "Wait or WAIT may refer to: Music Wait (musician), British town pipers Albums and EPs Wait (The Polyphonic Spree EP), by The Polyphonic Spree Wait (Emanuel Nice EP), a 2002 EP released by the band Emanuel Nice Wait (Steelheart album), or the title song Wait (Sons of Korah album), 2011 Wait (Pardon Us album), 2019 Songs \"Wait\" (Beatles song), 1965 \"Wait\" (Chantel Jeffries song), 2018 \"Wait\" (Earshot song), 2004 \"Wait\" (Huffamoose song), 1997 \"Wait\" (Gyan song), 1989 \"Wait\" (M83 song), 2012 \"Wait\" (Maggie Reilly song), 1992 \"Wait\" (Maroon 5 song), 2018 \"Wait\" (Seven Mary song), 2001 \"Wait\" (Wang Chung song), 1984 \"Wait\" (White Lion song), 1987 \"Wait (The Whisper Song)\", by Ying Yang Twins, 2005 \"Wait\", by 6ix9ine from TattleTales, 2020 \"Wait\", by The Afters from I Wish We All Could Win, 2005 \"Wait\", by C418 from Minecraft – Volume Beta, 2013 \"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV"
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0001",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.7407862901687622,
+      "text": "\"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV from Oshin, 2012 \"Wait\", by Doechii from Alligator Bites Never Heal, 2024 \"Wait\", by Earth, Wind & Fire from I Am, 1979 \"Wait\", by Everyday Sunday from Sleeper, 2001 \"Wait\", by The Kills..."
+    },
+    {
+      "chunk_id": "wikipedia:Waiting#0001",
+      "doc_id": "wikipedia:Waiting",
+      "title": "Waiting",
+      "url": "https://en.wikipedia.org/?curid=5769974",
+      "source_type": "wikipedia",
+      "score": 0.6543408393859863,
+      "text": "a 2024 novel by Michael Connelly Music The Waiting (band), a Christian pop rock band Waiting (KLF film), a video by The KLF Albums Waiting (Bobby Hutcherson album) (1976) Waiting (Fun Boy Three album) (1983) Waiting (Thursday album) (1999) Waiting... (EP), am EP by The Rockfords The Waiting (album), an album by Royal Wood..."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0000",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.6235795617103577,
+      "text": "Other often refers to: Other (philosophy), a concept in psychology and philosophy Other or The Other may also refer to: Film and television The Other (1913 film), a German silent film directed by Max Mack The Other (1930 film), a German film directed by Robert Wiene The Other (1947 film), an Italian film directed by Carlo Ludovico Bragaglia The Other (1972 film), an American film directed by Robert Mulligan The Other (1999 film), a French-Egyptian film directed by Youssef Chahine The Other (2007 film), an Argentine-French-German film by Ariel Rotter The Other (2025 film), an American film directed by Paul Etheredge Other (film), a French/Belgian film directed by David Moreau The Other (Doctor Who), a fictional character in Doctor Who The Other (Marvel Cinematic Universe), a fictional character in the Marvel Cinematic Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A."
+    },
+    {
+      "chunk_id": "wikipedia:Their Distance#0000",
+      "doc_id": "wikipedia:Their Distance",
+      "title": "Their Distance",
+      "url": "https://en.wikipedia.org/?curid=58630385",
+      "source_type": "wikipedia",
+      "score": 0.588851660490036,
+      "text": "Their Distance (知らない、ふたり, Shiranai, Futari; lit. \"Two Strangers\"), is a 2015 Japanese independent film written, edited, and directed by Rikiya Imaizumi, featuring the South Korean boy band NU'EST in their Japanese film debut. Their Distance stars Ren, Fumiko Aoyagi, Minhyun, Hanae Kan, JR, Haruka Kinami, and Tateto Serizawa. The plot is centered around different ideas of love, from generational to cultural, told in a nonlinear narrative switching from various days in April to illustrate the perspectives of all the characters. Part of the film is in spoken Korean, with the film using actors who were fluent in Korean. The film was first screened at the 28th Tokyo International Film Festival on October 23, 2015, before being released to the general public on January 9, 2016. Plot Kim Leon is a quiet apprentice working at a custom shoe shop in Japan. Two years ago, he ran a red light on his bicycle, causing Mikio Arakawa to get hit by a car and be permanently paralyzed below his waist."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0000",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.5829893797636032,
+      "text": "Attention is the concentration of awareness directed at some phenomenon while excluding others. Across disciplines, the nature of this directedness is conceptualized in different ways. In cognitive psychology, attention is often described as the allocation of limited cognitive processing resources to a subset of information, thoughts, or tasks. In neuropsychology, attention is understood as a set of mechanisms by which sensory cues and internal goals modulate neuronal tuning and orient behavioral and cognitive processes. Attention is not a unitary phenomenon but an umbrella term for multiple related processes, including selective attention (prioritizing some stimuli over others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time)."
+    },
+    {
+      "chunk_id": "wikipedia:Following#0001",
+      "doc_id": "wikipedia:Following",
+      "title": "Following",
+      "url": "https://en.wikipedia.org/?curid=23011287",
+      "source_type": "wikipedia",
+      "score": 0.5547930896282196,
+      "text": "helped in editing and production. The film was released by The Criterion Collection on both Blu-ray and DVD in North America on 11 December 2012. Plot A struggling, unemployed young writer (credited as \"The Young Man\") takes to following strangers around the streets of London, ostensibly to find inspiration for his first novel. Initially, he sets strict rules for himself regarding whom he should follow and for how long, but he soon discards..."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_00305",
+  "queries": [
+    "\"Christmas morning\" \"Mom\" \"owl\" \"never\"",
+    "\"owl\" \"never\" \"forgive\" \"family\""
+  ],
+  "primary_terms": [
+    "owl",
+    "never",
+    "forgive",
+    "Christmas morning",
+    "Mom",
+    "your room",
+    "family"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Never#0000",
+      "doc_id": "wikipedia:Never",
+      "title": "Never",
+      "url": "https://en.wikipedia.org/?curid=1433241",
+      "source_type": "wikipedia",
+      "score": 0.6582008421421051,
+      "text": "Never may refer to: Music Albums Never (Micachu and the Shapes album) or the title song, 2012 Never (Mie album), 1984 Songs \"Never\" (Heart song), 1985 \"Never\" (Jaheim song), 2007 \"Never\" (JID song), 2016 \"Never\" (Keyshia Cole song), 2004 \"Never\" (Kristine W song), 2008 \"Never\" (Moving Pictures song), 1984; covered by Mie, 1984 \"Never\" (Produce 101 song), by the contestants of Produce 101 season 2, 2017 \"Never (Past Tense)\", by the Roc Project and Tina Arena, 2003 \"Never\", by the Cure from The Cure, 2004 \"Never\", by Earth, Wind & Fire from The Promise, 2003 \"Never\", by Electrafixion from Burned, 1995 \"Never\", by Flo Rida from R.O.O.T.S., 2009 \"Never\", by the House of Love from The House of Love, 1990 \"Never\", by Jomanda, 1993 \"Never\", by Marcus & Martinus from Moments, 2017 \"Never\", by Moby Grape from Wow/Grape Jam, 1968 \"Never\", by Neuro-sama and Evil Neuro, 2025 \"Never\", by Orbital from Wonky, 2012 \"Never\", by Ozzy Osbourne from The Ultimate Sin, 1986 \"Never\", by Paco from This Is"
+    },
+    {
+      "chunk_id": "wikipedia:Feline#0000",
+      "doc_id": "wikipedia:Feline",
+      "title": "Feline",
+      "url": "https://en.wikipedia.org/?curid=45339",
+      "source_type": "wikipedia",
+      "score": 0.5969815015792846,
+      "text": "Feline may refer to: Zoology Loosely, Felidae, a member of the cat family, which includes the subfamilies Pantherinae and Felinae (conventionally designated a felid). Following the taxonomic convention, Felinae, the subfamily of Felidae that includes domestic cats and smaller wild cats. Cat, the domesticated feline. Music Feline (band), a late-1990s London-based English rock group. Feline (The Stranglers album), 1983. Feline (1998 album), the self-titled album by Feline, expanded release of Save Your Face. Feline (Ella Eyre album) (2015), the debut studio album by Ella Eyre. Feline (song), a song on Delta Goodrem's 2016 album Wings of the Wild. \"Feline\", a song by the Cat Empire Comics Feline (comics), a fictional character from the Malibu comics line. See also FÉLIN, a French infantry combat system Félines (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Mama#0001",
+      "doc_id": "wikipedia:Mama",
+      "title": "Mama",
+      "url": "https://en.wikipedia.org/?curid=383334",
+      "source_type": "wikipedia",
+      "score": 0.5693629384040833,
+      "text": "Wrestling Big Mama, former manager of American professional wrestler Jimmy Valiant (born 1942) Gemma Teller Morrow, a character on The Sons of Anarchy television show, called \"Mama\" by her lover Nero Padilla Mama Fratelli, a character in the 1985 American adventure comedy The Goonies Mama Maybelle Harper, a character in the..."
+    },
+    {
+      "chunk_id": "wikipedia:Family#0000",
+      "doc_id": "wikipedia:Family",
+      "title": "Family",
+      "url": "https://en.wikipedia.org/?curid=10401954",
+      "source_type": "wikipedia",
+      "score": 0.502596116065979,
+      "text": "Family (from Latin: familia) is a group of people related either by consanguinity (by recognized birth) or affinity (by marriage or other relationship). It forms the basis for social order. Ideally, families offer predictability, structure, and safety as members mature and learn to participate in the community. Historically, most human societies use family as the primary purpose of attachment, nurturance, and socialization. Anthropologists classify most family organizations as matrifocal (a mother and her children), patrifocal (a father and his children), conjugal (a married couple with children, also called the nuclear family), avuncular (a man, his sister, and her children), or extended (in addition to parents, spouse and children, may include grandparents, aunts, uncles, or cousins). The field of genealogy aims to trace family lineages through history. The family is also an important economic unit studied in family economics."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.48227252066135406,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0000",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.4723212271928787,
+      "text": "Bedtime (also called putting to bed or tucking in) is a ritual part of parenting to help children feel more secure and become accustomed to a more rigid schedule of sleep than they might prefer. The ritual of bedtime is aimed at facilitating the transition from wakefulness to sleep. It may involve bedtime stories, children's songs, nursery rhymes, bed-making and getting children to change into nightwear. In some religious households, prayers are said shortly before going to bed. Sleep training may be part of the bedtime ritual for babies and toddlers. In adult use, the term means simply \"time for bed\", similar to curfew, as in \"It's past my bedtime\". Some people are accustomed to drinking a nightcap or herbal tea at bedtime. Sleeping coaches are also used to help individuals reach their bedtime goals. Researchers studying sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep."
+    },
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.47034884989261627,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    },
+    {
+      "chunk_id": "wikipedia:Quiet#0001",
+      "doc_id": "wikipedia:Quiet",
+      "title": "Quiet",
+      "url": "https://en.wikipedia.org/?curid=1612819",
+      "source_type": "wikipedia",
+      "score": 0.46400487422943115,
+      "text": "The Quiet, an album by Bella Morte \"Quiet\", a song by Tim Minchin from the musical Matilda In religion Prayer of Quiet, a term from Christian theology relating to degrees of contemplation or contemplative prayer Quietism (Christian philosophy) Quiet Time Other Buy Quiet, an American health and safety initiative to select and purchase the..."
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0001",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.44078102707862854,
+      "text": "game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap! (album), by the Jam, 1983 \"Snap\" (song), by Rosa Linn, 2022 \"Snap\", a song by Kevin Federline from Playing with Fire, 2006 \"Snap\", a song by Nav from Bad Habits, 2019 \"Snap\", a song by Slipknot from Slipknot, 2009 reissue \"Snap!\", a song from the British preschool TV series Boo! Fictional entities Snap, a character from the Nickelodeon animated television..."
+    },
+    {
+      "chunk_id": "wikipedia:Young#0000",
+      "doc_id": "wikipedia:Young",
+      "title": "Young",
+      "url": "https://en.wikipedia.org/?curid=302029",
+      "source_type": "wikipedia",
+      "score": 0.4348818063735962,
+      "text": "Young may refer to: Offspring, the product of reproduction of a new organism produced by one or more parents Youth, the time of life when one's age is low, often meaning the time between childhood and adulthood Music The Young, an American rock band Young, an EP by Charlotte Lawrence, 2018 Songs \"Young\" (Baekhyun and Loco song), 2018 \"Young\" (The Chainsmokers song), 2017 \"Young\" (Hollywood Undead song), 2009 \"Young\" (Kenny Chesney song), 2002 \"Young\" (Place on Earth song), 2018 \"Young\" (Tulisa song), 2012 \"Young\", by Ella Henderson, 2019 \"Young\", by Lil Wayne from Dedication 6, 2017 \"Young\", by Nickel Creek from This Side, 2002 \"Young\", by Sam Smith from Love Goes, 2020 \"Young\", by Silkworm from Italian Platinum, 2002 \"Young\", by Vacations (band), 2016 \"Young\", by Vallis Alps, 2015 \"Young\", by Pixey, 2016 People Surname Young (surname) Given name Young (Korean name), Korean unisex given name and name element Young Boozer (born 1948), American banker and Alabama State Treasurer Young"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "meme_id": "meme_04477",
+  "queries": [
+    "\"Qatar\" \"the sky\" \"the government\" \"the air\"",
+    "\"the government\" \"the air\" \"lets\" \"arrest\""
+  ],
+  "primary_terms": [
+    "the sky",
+    "lets",
+    "arrest",
+    "the government",
+    "Qatar",
+    "the air"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Flight#0001",
+      "doc_id": "wikipedia:Flight",
+      "title": "Flight",
+      "url": "https://en.wikipedia.org/?curid=159472",
+      "source_type": "wikipedia",
+      "score": 0.5450374841690063,
+      "text": "travel through the atmosphere. astronautics — the study of vehicles that travel through space. ballistics — the study of the flight of projectiles. Types of flight Buoyant flight Humans have managed to construct lighter-than-air vehicles that raise off the ground and fly, due to their buoyancy in the air. An aerostat is a system that remains aloft primarily through the use of buoyancy to give an aircraft..."
+    },
+    {
+      "chunk_id": "wikipedia:Qantas#0000",
+      "doc_id": "wikipedia:Qantas",
+      "title": "Qantas",
+      "url": "https://en.wikipedia.org/?curid=25254",
+      "source_type": "wikipedia",
+      "score": 0.4871209621429443,
+      "text": "Qantas Airways Limited ( KWON-təs), doing business as QANTAS or Qantas, is the flag carrier of Australia, and the largest airline by fleet size, international flights, and international destinations in Oceania. A founding member of the Oneworld airline alliance, it is the only airline in the world that flies to all seven continents, with it operating flights to Africa, Antarctica, Asia, Europe, North America, and South America from its hubs in Sydney, Perth, Melbourne, and Brisbane. It also flies to over 60 domestic destinations across Australia. Qantas is one of the world's oldest airlines still in operation, originally founded in November 1920. Qantas is an acronym of the airline's original name, Queensland and Northern Territory Aerial Services, as it originally served Queensland and the Northern Territory. Since then, the company has undergone several changes, including nationalisation and privatisation."
+    },
+    {
+      "chunk_id": "wikipedia:Atmosphere#0000",
+      "doc_id": "wikipedia:Atmosphere",
+      "title": "Atmosphere",
+      "url": "https://en.wikipedia.org/?curid=202899",
+      "source_type": "wikipedia",
+      "score": 0.47019147872924805,
+      "text": "An atmosphere is a layer of gases that envelop an astronomical object, held in place by the gravity of the object. The name originates from Ancient Greek ἀτμός (atmós) 'vapour, steam' and σφαῖρα (sphaîra) 'sphere'. An object acquires most of its atmosphere during its primordial epoch, either by accretion of matter or by outgassing of volatiles. The chemical interaction of the atmosphere with the solid surface can change its fundamental composition, as can photochemical interaction with the Sun. A planet retains an atmosphere for longer durations when the gravity is high and the temperature is low. The solar wind works to strip away a planet's outer atmosphere, although this process is slowed by a magnetosphere. The further a body is from the Sun, the lower the rate of atmospheric stripping. Aside from Mercury, all Solar System planets have substantial atmospheres, as does the dwarf planet Pluto and the moon Titan."
+    },
+    {
+      "chunk_id": "wikipedia:Police#0000",
+      "doc_id": "wikipedia:Police",
+      "title": "Police",
+      "url": "https://en.wikipedia.org/?curid=23627",
+      "source_type": "wikipedia",
+      "score": 0.4267361521720886,
+      "text": "The police are a constituted body of people empowered by a state with the aim of enforcing the law and protecting the public order as well as the public itself. This commonly includes ensuring the safety, health, and possessions of citizens, and to prevent crime and civil disorder. Their lawful powers encompass arrest and the use of force legitimized by the state's monopoly on violence. The term is most commonly associated with the police forces of a sovereign state that are authorized to exercise the police power of that state within a defined legal or territorial area of responsibility. Police forces are often defined as being separate from the military and other organizations involved in the defense of the state against foreign aggressors; however, gendarmerie are military units charged with civil policing. Police forces are usually public sector services, funded through taxes. Law enforcement is only part of policing activity."
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0001",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.42641345262527464,
+      "text": "suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital. Following his recovery, the now-unemployed Tramp is mistakenly arrested in a Communist demonstration. In jail, he accidentally ingests smuggled cocaine, and in his subsequent delirium, he avoids being put back in his cell. When he returns, he stumbles upon a jailbreak and knocks the convicts..."
+    },
+    {
+      "chunk_id": "wikipedia:Quarantine#0001",
+      "doc_id": "wikipedia:Quarantine",
+      "title": "Quarantine",
+      "url": "https://en.wikipedia.org/?curid=25237",
+      "source_type": "wikipedia",
+      "score": 0.4168916195631027,
+      "text": "outbreak, the SARS pandemic, the Ebola pandemic and extensive quarantines applied throughout the world during the COVID-19 pandemic since 2020. Ethical and practical considerations need to be considered when applying quarantine to people. Practice differs from country to country; in some countries, quarantine is just one of many measures governed by legislation relating to the broader..."
+    },
+    {
+      "chunk_id": "wikipedia:Care#0000",
+      "doc_id": "wikipedia:Care",
+      "title": "Care",
+      "url": "https://en.wikipedia.org/?curid=246884",
+      "source_type": "wikipedia",
+      "score": 0.3797184079885483,
+      "text": "Care may refer to: Organizations and projects CARE (New Zealand), Citizens Association for Racial Equality, a former New Zealand organisation CARE (England) West Midlands, Central Accident Resuscitation Emergency team, a team of doctors & paramedics CARE International, Cooperative for Assistance and Relief Everywhere, an international aid and development organization Carpet America Recovery Effort, an American carpet recycling project Charged Aerosol Release Experiment, a NASA project concerning dust in space Christian Action Research and Education, a Christian lobby group in the United Kingdom Credit Abuse Resistance Education, an American national program Crew Module Atmospheric Re-entry Experiment, a 2014 ISRO experimental vehicle People with the surname Danny Care (soccer) (born 1974), American soccer player Danny Care (born 1987), English rugby union player Henry Care (1646–1688), English political writer and journalist Peter Care (born 1953), British film and video producer"
+    },
+    {
+      "chunk_id": "wikipedia:Two Whatevers#0001",
+      "doc_id": "wikipedia:Two Whatevers",
+      "title": "Two Whatevers",
+      "url": "https://en.wikipedia.org/?curid=539766",
+      "source_type": "wikipedia",
+      "score": 0.3715518116950989,
+      "text": "\" slogan: \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\". The slogan was underscoring Mao's testament that designated Hua as his successor. It proved a trigger for Deng's manoeuvre in 1978 to implement economic reform policy in China, and eventually led to..."
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0001",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.359055295586586,
+      "text": "USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the 2014 album Sweet Talker \"Loud\", a 2006 single by Masters at Work with Beto Cuevas \"Loud\", a song by Matt Nathanson from the 1999 album Still Waiting for Spring \"Loud\", an additional..."
+    },
+    {
+      "chunk_id": "wikipedia:British#0001",
+      "doc_id": "wikipedia:British",
+      "title": "British",
+      "url": "https://en.wikipedia.org/?curid=3962",
+      "source_type": "wikipedia",
+      "score": 0.35419514775276184,
+      "text": "Ireland (1801–1922) British Raj, an informal empire ruled directly by the Crown on the Indian subcontinent British Hong Kong, colonial Hong Kong under the British Empire British Columbia, a province of Canada British Airways, the flag carrier airline of the United Kingdom British Museum, a public museum in London British Monarchy, the royal..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "man looking up in fear and wonder",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "man",
+          "fear"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is saying the the Qatar government hates when the rainbows form after the rain and would rather dusty, cloudy skies.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the the Qatar government",
+          "the rainbows",
+          "the rain"
+        ]
+      },
+      "title": {
+        "text": "lets arrest the sky",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the sky",
+          "lets",
+          "arrest"
+        ]
+      },
+      "text": {
+        "text": "the government of Qatar when they see a rainbow in the air: | a NO",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the government",
+          "Qatar",
+          "the air"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the sky",
+      "lets",
+      "arrest",
+      "the government",
+      "Qatar",
+      "the air"
+    ],
+    "secondary_terms": [
+      "man",
+      "fear",
+      "the the Qatar government",
+      "the rainbows",
+      "the rain"
+    ],
+    "queries": [
+      "\"Qatar\" \"the sky\" \"the government\" \"the air\"",
+      "\"the government\" \"the air\" \"lets\" \"arrest\""
+    ]
+  },
+  "source_jsonl_id": null
+}

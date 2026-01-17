@@ -1,0 +1,186 @@
+{
+  "meme_id": "meme_02268",
+  "queries": [
+    "\"Darth Vader\" \"Ofthe darksidcSatpnem sama\" \"People\" \"the powelaprarry\" \"great\"",
+    "\"Ofthe darksidcSatpnem sama\" \"that air fryer owners\" \"Darth Vader\" \"the air fryer\"",
+    "\"Darth Vader\" \"the air fryer\" \"People\" \"the powelaprarry\""
+  ],
+  "primary_terms": [
+    "great",
+    "appliance",
+    "People",
+    "the powelaprarry",
+    "Ofthe darksidcSatpnem sama"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Rambo (franchise)#0001",
+      "doc_id": "wikipedia:Rambo (franchise)",
+      "title": "Rambo (franchise)",
+      "url": "https://en.wikipedia.org/?curid=380769",
+      "source_type": "wikipedia",
+      "score": 0.8340634703636169,
+      "text": "in all five films in the franchise. Stallone co-wrote the screenplays of all five films, and directed Rambo (2008), the fourth film of the series. The franchise also spawned an animated series, as well as comic books, novels and video games. Films First Blood (1982) Upon returning to the United States, Vietnam veteran John Rambo has difficulty adjusting to civilian life and..."
+    },
+    {
+      "chunk_id": "wikipedia:Very#0000",
+      "doc_id": "wikipedia:Very",
+      "title": "Very",
+      "url": "https://en.wikipedia.org/?curid=611276",
+      "source_type": "wikipedia",
+      "score": 0.7935930252075195,
+      "text": "Very may refer to: English's prevailing intensifier Businesses The Very Group, a British retail/consumer finance corporation Very (online retailer), their main e-commerce brand VERY TV, a Thai television channel Places Véry, a commune in Meuse department, France Very (lunar crater), on the Moon Very (Martian crater), on Mars Music Very (Pet Shop Boys album), 1993 Very (Dreamscape album), 1999 Very, an album by Miki Furukawa, 2010 People Edward Wilson Very (1847–1910), US Navy officer, inventor of the Very flare gun Frank Washington Very (1852–1927), American astronomer Jones Very (1813–1880), American poet, essayist, clergyman and mystic Lydia Louisa Anna Very (1823–1901), American author and illustrator Pierre Véry (1900–1960), French novelist and screenwriter Very Idham Henyansyah (born 1978), Indonesian serial killer Other uses Very, the most common type of flare gun See also Vary (disambiguation) Vari (disambiguation) Verree, a given name and surname Verey, a surname"
+    },
+    {
+      "chunk_id": "wikipedia:Others#0000",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.77454694211483,
+      "text": "Others or The Others may refer to: Fictional characters Others (A Song of Ice and Fire), supernatural creatures in the fictional world of George R. R. Martin's fantasy series A Song of Ice and Fire Others (Lost), mysterious inhabitants of a strange island in the South Pacific in the television series Lost Others (Night Watch), a fictional group of people with supernatural abilities in Sergey Lukyanenko's Watches novel pentalogy The Others (Vok), a character from the Beast Wars franchise The Others, a reference to Cro-Magnon peoples in Jean M. Auel's Earth's Children series The Others, a group of allies of Aquaman in comics, introduced in 2012 and featured in a 2014 series The Others, the Ancients who have achieved Ascension in the Stargate universe The Others, a series of alien extraterrestrial species from The 5th Wave novels and film Films The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001"
+    },
+    {
+      "chunk_id": "wikipedia:Frye#0000",
+      "doc_id": "wikipedia:Frye",
+      "title": "Frye",
+      "url": "https://en.wikipedia.org/?curid=233332",
+      "source_type": "wikipedia",
+      "score": 0.750760293006897,
+      "text": "Frye is a surname. Notable people with the surname include: Channing Frye (born 1983), American basketball player Charlie Frye (born 1981), American football player for the Oakland Raiders Don Frye (born 1965), American mixed martial arts fighter Donna Frye (born 1952), San Diego city councilwoman Dwight Frye (1899–1943), American actor George Frederick Frye (1833–1912), Seattle pioneer and the City Council member Henry Frye (born 1932), American politician and judge, first black chief justice of North Carolina Supreme Court Jack Frye (1904–1959), American aviation pioneer John Frye (1933–2005), Scottish footballer Joseph Frye (1712–1794), colonial American soldier and general Kelly Frye (born 1984), American actress Marilyn Frye (born 1941), American philosophy professor and feminist theorist Mark Frye (born 1957), Contemporary American composer Northrop Frye (1912–1991), Canadian literary critic Richard N."
+    },
+    {
+      "chunk_id": "wikipedia:Quentin Tarantino#0001",
+      "doc_id": "wikipedia:Quentin Tarantino",
+      "title": "Quentin Tarantino",
+      "url": "https://en.wikipedia.org/?curid=25169",
+      "source_type": "wikipedia",
+      "score": 0.7493434399366379,
+      "text": "'s Palme d'Or and the Academy Award for Best Original Screenplay. He next wrote and starred in the action horror film From Dusk till Dawn (1996). His third film as director, Jackie Brown (1997), paid homage to blaxploitation films. Tarantino wrote and directed the martial arts films Kill Bill: Volume 1 (2003) and Kill Bill: Volume 2 (2004), with both volumes combined regarded as a single film..."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.7295353472232818,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    },
+    {
+      "chunk_id": "wikipedia:White Shirt#0000",
+      "doc_id": "wikipedia:White Shirt",
+      "title": "White Shirt",
+      "url": "https://en.wikipedia.org/?curid=77833636",
+      "source_type": "wikipedia",
+      "score": 0.7205130755901337,
+      "text": "White Shirt is a 2017 Indian Hindi-language drama short film written and directed by Sumit Arora. Produced under the banner of Highway Films, it stars Kunal Kapoor and Kritika Kamra. It was released on YouTube on 20 February 2017. Cast Kunal Kapoor as Aveek Kritika Kamra as Vani Vaibhav Raj Gupta as Vibhor Production The film was announced in February 2017, starring Kunal Kapoor and Kritika Kamra. A special screening of the film was held at Mumbai on 20 February 2017. Reception Surabhi Redkar of Koimoi.com gave the film 3/5 stars. A critic from Scroll.in reviewed the film. References External links White Shirt on Large Short Films White Shirt on YouTube"
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.7154768407344818,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Albus Dumbledore#0000",
+      "doc_id": "wikipedia:Albus Dumbledore",
+      "title": "Albus Dumbledore",
+      "url": "https://en.wikipedia.org/?curid=45322",
+      "source_type": "wikipedia",
+      "score": 0.7142837643623352,
+      "text": "Albus Dumbledore is a fictional character in the Harry Potter series of novels by J. K. Rowling. For most of the series, he is the headmaster of the wizarding school Hogwarts. He is also the founder and leader of the Order of the Phoenix, an organisation dedicated to fighting the Dark wizard Lord Voldemort. In the novels, Dumbledore is widely regarded as one of the most powerful and influential wizards of his time. Renowned for his wisdom, kindness, and formidable magical abilities, he plays a crucial role in shaping the events of the wizarding world. As a mentor to Harry Potter, he provides guidance and crucial knowledge in the fight against Voldemort. Despite his benevolent image, Dumbledore's past is marked by tragedy and complexity, including his youthful association with Gellert Grindelwald, a dark wizard he later defeated. His philosophical views on power, love, and death are central themes in the series."
+    },
+    {
+      "chunk_id": "wikipedia:Walkin#0001",
+      "doc_id": "wikipedia:Walkin",
+      "title": "Walkin",
+      "url": "https://en.wikipedia.org/?curid=33627004",
+      "source_type": "wikipedia",
+      "score": 0.7095936387777328,
+      "text": "barren sand dunes, children playing on a swing set, and villains trying to kill him. He collapses on his knees several times throughout the journey. In the end, Curry faces off with his archenemy John Wayne in a cinematic showdown, successfully defeating him. Remixes An official remix of the song featuring American rapper Key Glock was released on June 1, 2022. In his verse,..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Darth Vader with a dark background and small lights on in the background.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Darth Vader",
+          "small lights",
+          "the background"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that air fryer owners think the air fryer is very powerful.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "that air fryer owners",
+          "the air fryer"
+        ]
+      },
+      "title": {
+        "text": "It is a great appliance though",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "great",
+          "appliance"
+        ]
+      },
+      "text": {
+        "text": "People who just bought an air fryer aR a yo oo, y imo’ ; C: byte DOWD -/ me mare ou do 4a afoe~ ; , aA pales you only knew, the powelaprarry ao Ofthe darksidcSatpnem sama",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "People",
+          "the powelaprarry",
+          "Ofthe darksidcSatpnem sama"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "great",
+      "appliance",
+      "People",
+      "the powelaprarry",
+      "Ofthe darksidcSatpnem sama"
+    ],
+    "secondary_terms": [
+      "Darth Vader",
+      "small lights",
+      "the background",
+      "that air fryer owners",
+      "the air fryer"
+    ],
+    "queries": [
+      "\"Darth Vader\" \"Ofthe darksidcSatpnem sama\" \"People\" \"the powelaprarry\" \"great\"",
+      "\"Ofthe darksidcSatpnem sama\" \"that air fryer owners\" \"Darth Vader\" \"the air fryer\"",
+      "\"Darth Vader\" \"the air fryer\" \"People\" \"the powelaprarry\""
+    ]
+  },
+  "source_jsonl_id": null
+}

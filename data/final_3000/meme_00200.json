@@ -1,0 +1,234 @@
+{
+  "meme_id": "meme_00200",
+  "queries": [
+    "\"Bruce Wayne\" \"~ rere EFS\" \"eee Grits\" \"Druce vvayne\" \"even super villains\"",
+    "\"Druce vvayne\" \"even super villains\" \"Joqey\" \"Sheet\""
+  ],
+  "primary_terms": [
+    "even super villains",
+    "even",
+    "super",
+    "villains",
+    "gotta",
+    "cook",
+    "clean",
+    "Joqey",
+    "oun",
+    "ars",
+    "Sheet",
+    "eee Grits",
+    "coe",
+    "tye ofr",
+    "wal",
+    "~ rere EFS",
+    "wan",
+    "tee",
+    "Lot",
+    "home",
+    "tou",
+    "aaa",
+    "Druce vvayne"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Spider-Man#0000",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.9136609911918641,
+      "text": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Considered one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays. Spider-Man is the secret identity of Peter Benjamin Parker, who was raised by his Aunt May and Uncle Ben in Queens, New York City, after the death of his parents. Lee, Ditko, and later writers had the character deal with the struggles of adolescence and young adulthood. Readers identified with his self-doubt and loneliness. Unlike previous teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0000",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.8245138347148895,
+      "text": "Very Bad Things is a 1998 American black comedy film written and directed by Peter Berg in his feature film directorial debut and starring Cameron Diaz, Jon Favreau, Daniel Stern, Jeremy Piven, Christian Slater, Leland Orser, Kobe Tai and Jeanne Tripplehorn. The plot follows a group of men who become embroiled in crime and betrayal after they attempt to conceal an accidental death. Very Bad Things was not well received and grossed $21 million against a $30 million budget. Plot Kyle Fisher and Laura Garrety are a young suburbanite couple days away from their wedding. While Laura finalizes last-minute wedding details, Kyle is away in Las Vegas celebrating his bachelor party with four friends—real estate agent Robert Boyd, mechanic Charles Moore, and brothers Adam and Michael Berkow. As part of the festivities, Robert hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom."
+    },
+    {
+      "chunk_id": "wikipedia:Draco Malfoy#0000",
+      "doc_id": "wikipedia:Draco Malfoy",
+      "title": "Draco Malfoy",
+      "url": "https://en.wikipedia.org/?curid=44334",
+      "source_type": "wikipedia",
+      "score": 0.8221480369567871,
+      "text": "Draco Lucius Malfoy is a fictional character and a major antagonist in J. K. Rowling's Harry Potter series. He is a student in Harry Potter's year belonging in the Slytherin house. He is frequently accompanied by his two cronies, Vincent Crabbe and Gregory Goyle, who act as henchmen. Draco is characterised as a cowardly bully who tricks and hurts people to get what he wants; he is also a cunning user of magic. He was played by Tom Felton in the Harry Potter film series, while Lox Pratt is set to portray him in the TV series adaptation. Character development Draco serves as a foil to the hero, Harry Potter, and is loosely based on bullies Rowling encountered during her school days. Harry first encounters Draco's snobbish bigotry after their initial encounter at Madam Malkin's. Rowling uses the Malfoys to introduce themes of intolerance and bigotry into a setting where people are often judged solely by their blood lineage rather than their good character or accomplishments."
+    },
+    {
+      "chunk_id": "wikipedia:Walter White (Breaking Bad)#0001",
+      "doc_id": "wikipedia:Walter White (Breaking Bad)",
+      "title": "Walter White (Breaking Bad)",
+      "url": "https://en.wikipedia.org/?curid=22530352",
+      "source_type": "wikipedia",
+      "score": 0.7762614011764526,
+      "text": "his death. Due to his expertise, Walter's \"blue meth\" is purer than any other on the market, and he is pulled deeper into the illicit drug trade. An antihero turned villain protagonist as the series progresses, Walter becomes increasingly ruthless and unsympathetic, as the series' creator, Vince Gilligan, wanted him to turn from \"Mr. Chips into Scarface\". He adopts the alias \"Heisenberg..."
+    },
+    {
+      "chunk_id": "wikipedia:Man on a String#0000",
+      "doc_id": "wikipedia:Man on a String",
+      "title": "Man on a String",
+      "url": "https://en.wikipedia.org/?curid=35028463",
+      "source_type": "wikipedia",
+      "score": 0.7409190982580185,
+      "text": "Man on a String (also known as Confessions of a Counterspy) is a 1960 American spy thriller directed by Andre de Toth and starring Ernest Borgnine and Kerwin Mathews. It was the last film that DeToth directed in the United States. Plot A government intelligence agency in Washington, D.C. wants agent Frank Sanford to follow Boris Mitrov, a film producer who appears to also be a Russian spy. Helen and Adrian Benson, a wealthy American couple with a home in Beverly Hills and a film studio, are communist sympathizers as well, in league with Colonel Vadja Kubelov, the top KGB man in the U.S. Boris's office is bugged by his assistant, Bob Avery, a plant who is working for the Americans. Now that he has been caught red-handed, Boris is willing to turn double agent, going to Berlin under the pretense of making a documentary film there. Helen is having an affair with Kubelov, but the Bensons' home has been bugged and they try to flee to Mexico."
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0001",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.7377743184566498,
+      "text": "the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified. Perhaps the character's best-known storyline is The Infinity Gauntlet (1991), the culmination of several story arcs that see him gather the six Infinity Gems and use them to kill half of the universe's population, including many of its heroes, to woo Mistress Death, the living embodiment of death in the Marvel Universe. Although these events were later undone, the storyline has remained one of the most popular published by Marvel. Debuting in the Bronze Age of comic books, the character..."
+    },
+    {
+      "chunk_id": "wikipedia:For Your Eyes Only (film)#0001",
+      "doc_id": "wikipedia:For Your Eyes Only (film)",
+      "title": "For Your Eyes Only (film)",
+      "url": "https://en.wikipedia.org/?curid=6446044",
+      "source_type": "wikipedia",
+      "score": 0.7362208932638168,
+      "text": "becoming tangled in a web of deception spun by rival Greek smugglers along with Melina Havelock, a woman seeking to avenge the murder of her parents. After the science-fiction-focused Moonraker, the producers wanted a return to the style of the early Bond films and the works of 007 creator Fleming. For Your Eyes Only followed a grittier, more realistic approach and a narrative theme of revenge and its..."
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0000",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.7347807645797729,
+      "text": "Thanos () is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man #55 (cover date February 1973). An Eternal–Deviant warlord from the moon Titan, Thanos is regarded as one of the most powerful beings in the Marvel Universe. Due to his genocidal tendencies, he has clashed with many heroes including the Avengers and the Guardians of the Galaxy. In creating Thanos, Starlin drew inspiration from Jack Kirby's New Gods series for DC Comics, particularly the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified."
+    },
+    {
+      "chunk_id": "wikipedia:Hulk#0000",
+      "doc_id": "wikipedia:Hulk",
+      "title": "Hulk",
+      "url": "https://en.wikipedia.org/?curid=31509",
+      "source_type": "wikipedia",
+      "score": 0.7210395097732544,
+      "text": "The Hulk is a superhero appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962). In his comic book appearances, the character, who has dissociative identity disorder (DID), is primarily represented by the alter ego Hulk, an immense, green-skinned, hulking brute, possessing a limitless degree of physical strength, and the alter ego Dr. Robert Bruce Banner, a physically weak, socially withdrawn, and emotionally reserved physicist, both of whom typically resent each other. Lee stated that the Hulk's creation was inspired by a combination of Frankenstein and Dr. Jekyll and Mr. Hyde. Following his accidental exposure to gamma rays while saving the life of Rick Jones during the detonation of an experimental bomb, Banner is physically transformed into the Hulk when subjected to emotional stress, at or against his will."
+    },
+    {
+      "chunk_id": "wikipedia:Superhero#0000",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 0.7134357959032058,
+      "text": "A superhero or superheroine, is a character who typically possesses superpowers or abilities beyond those of ordinary people; is frequently costumed, concealing their identity; and fits the role of the hero, typically using their powers to help the world become a better place, or dedicating themselves to protecting the public and fighting crime. Superhero fiction is the genre of fiction that is centered on such characters, especially, since the 1930s, in American comic books (and later in Hollywood films, film serials, television and video games), as well as in Japanese media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a girl and a boy with costumed face walking together",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "costumed face"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is making a joke about Bruce Wayne's billionaire status as compared to the Joker's.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Bruce Wayne's billionaire status",
+          "the Joker"
+        ]
+      },
+      "title": {
+        "text": "even super villains gotta cook and clean",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "even super villains",
+          "even",
+          "super",
+          "villains",
+          "gotta",
+          "cook",
+          "clean"
+        ]
+      },
+      "text": {
+        "text": "WS Joqey a yeu vat . - ' - a Sa? a Pee Oy : . Te DNS ~ og . nt ty ds * AES Yt eee co oun i, Va ’ : ars tare fl oe . 4 eA ' ee Ae te NEN ay) RL, APE. ~ ee f ae ; co te HA peat eS a Js . So-4 < aN tLe on A . i ya 8 fo, a Jf howe. Sheet? : gave] [o- boy me eee Grits ee Fes a AA SN ¢ ereian ne es . tT _ f fa ! Pare Sen ad Ax w,’ . : . ; roaetts , aa an eo ° Pe | . . oe . ote ’ ' . coe . ; “8 cr we oO Loe i nr we : - wf 74 : Le -g * * “08h o oo ‘\\ , , . ows af ! : oe he ’ ete 0 Sa eae Too oo a eee hoor . oo nl? oo. . . . -- -- . . or ey eoleer i . . . ~~? - if en? eve tol a wy ante r) - tg we. ot ge par] : ce ou . \\ et wrtig ee pre ET , - ae 1g tye ofr ww Se er oS od vo ° - cote ee Teh we? SB ' : She TS rs aes V- te OO (MT . - 4 woe te rr. wal os ee mm ae he p\" ° a a . 7 ‘ . ~ Owe tM ALO . ~ rere EFS, . te ye < wan 9 ~ . eo ee ba on te Di te f -- ; fee oe thew le, “~ a ON aes ~v 7 soe OE, Ss ° ar . wen oe ~~ ~~ yt Notas ~ en ae i a Rt eee Boe Te, ty iN Oe ca ee wit ee t LL Tt: .- rer ae eee ~. - 2, TERT eT eee es --f af tte em TS pak are Te ae ors fee me es ye, . - eae ; wt oof - 4 . | ff . V5 iow, . “ oi’. \\-- oe : .b me tee . . . . f : “But you Still gotta:go to-the.... ; a Se - es , 7 s . , * . . ‘. . ~? A en aa tee . Lot. ~, ~. _ ; AS - XN. ‘as _v - - J “grocery. and:go:home to .cook’a - 8 e - tou. . - ne EE eno ‘ et wo es 1 rn Bofe e 7 wo wa . “meal because:not.everyone IS.a \"he ili aaa ae a, 2+ /ge qidee sor toe. ; : . : Ne) =<pl ionaire ike Druce vvayne .- rs Play NN “yt oes ‘os ~T Ye, 7 ow e re ° ; . . ae -e Yw SL ee q 2s . . o no ~ NS . |",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Joqey",
+          "oun",
+          "ars",
+          "Sheet",
+          "eee Grits",
+          "coe",
+          "tye ofr",
+          "wal",
+          "~ rere EFS",
+          "wan",
+          "tee",
+          "Lot",
+          "home",
+          "tou",
+          "aaa",
+          "Druce vvayne"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "even super villains",
+      "even",
+      "super",
+      "villains",
+      "gotta",
+      "cook",
+      "clean",
+      "Joqey",
+      "oun",
+      "ars",
+      "Sheet",
+      "eee Grits",
+      "coe",
+      "tye ofr",
+      "wal",
+      "~ rere EFS",
+      "wan",
+      "tee",
+      "Lot",
+      "home",
+      "tou",
+      "aaa",
+      "Druce vvayne"
+    ],
+    "secondary_terms": [
+      "costumed face",
+      "Bruce Wayne's billionaire status",
+      "the Joker"
+    ],
+    "queries": [
+      "\"Bruce Wayne\" \"~ rere EFS\" \"eee Grits\" \"Druce vvayne\" \"even super villains\"",
+      "\"Druce vvayne\" \"even super villains\" \"Joqey\" \"Sheet\""
+    ]
+  },
+  "source_jsonl_id": null
+}

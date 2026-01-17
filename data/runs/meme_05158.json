@@ -1,0 +1,103 @@
+{
+  "meme_id": "meme_05158",
+  "queries": [
+    "\"art class drawing\" \"England\" \"the instructor\" \"the match\""
+  ],
+  "primary_terms": [
+    "iad",
+    "ore",
+    "fin"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Class#0000",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.49702848196029664,
+      "text": "Class, Classes, or The Class may refer to: Common uses not otherwise categorized Class (biology), a taxonomic rank Class (knowledge representation), a collection of individuals or objects Class (philosophy), an analytical concept used differently from such group phenomena as \"types\" or \"kinds\" Class (set theory), a collection of sets that can be unambiguously defined by a property that all its members share Hazard class, a dangerous goods classification Social class, the hierarchical arrangement of individuals in society, usually defined by wealth and occupation Working class, can be defined by rank, income or collar Arts, entertainment, and media \"The Class\" (song), 1959 Chubby Checker song Character class, in role-playing games and other genres Class 95 (radio station), a Singaporean radio channel Films Class (film), 1983 American film The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff"
+    },
+    {
+      "chunk_id": "wikipedia:Drawing#0001",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.4822723031044006,
+      "text": "and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas. The wide availability of drawing instruments makes drawing one of the most common artistic activities. In addition to its more artistic forms, drawing is frequently used in commercial illustration, animation, architecture,..."
+    },
+    {
+      "chunk_id": "wikipedia:Artist#0001",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.3882329225540161,
+      "text": "is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art. I am only pointing out that my project, like Collingwood's, Osborne's, and others', is metaphysical in nature. I am interested in trying to find out what a work of art is and what it is essentially. Dictionary definitions The Oxford English Dictionary defines the older, broader meanings of the word..."
+    },
+    {
+      "chunk_id": "wikipedia:Final#0000",
+      "doc_id": "wikipedia:Final",
+      "title": "Final",
+      "url": "https://en.wikipedia.org/?curid=759020",
+      "source_type": "wikipedia",
+      "score": 0.3691766023635864,
+      "text": "Final, Finals or The Final may refer to: Final examination or finals, a test given at the end of a course of study or training Final (competition), the last or championship round of a sporting competition, match, game, or other contest which decides a winner for an event Another term for playoffs, describing a sequence of contests taking place after a regular season or round-robin tournament, culminating in a final by the first definition. Art and entertainment Finals (comics), a four-issue comic book mini-series The Finals, a first-person shooter game Film and television Final (film), a science fiction film The Final (film), a thriller film Finals (film), a 2019 Malayalam sports drama film \"Finals\" (Doctor in the House), a 1970 television episode Music Final, a tone of the Gregorian mode Final (band), an English electronic musical group Final (Vol. 1), 2021 album by Enrique Iglesias Final (Vol. 2), 2024 album by Enrique Iglesias The Final (album), by Wham!"
+    },
+    {
+      "chunk_id": "wikipedia:Dance#0000",
+      "doc_id": "wikipedia:Dance",
+      "title": "Dance",
+      "url": "https://en.wikipedia.org/?curid=7885",
+      "source_type": "wikipedia",
+      "score": 0.3435043007135391,
+      "text": "Dance is an art form, consisting of sequences of body movements with aesthetic and often symbolic value, either improvised or purposefully selected. Dance can be categorized and described by its choreography, by its repertoire of movements or by its historical period or place of origin. Dance is typically performed with musical accompaniment, and sometimes with the dancer simultaneously using a musical instrument themselves. Two common types of group dance are theatrical and participatory dance. Both types of dance may have special functions, whether social, ceremonial, competitive, erotic, martial, sacred or liturgical. Dance is not solely restricted to performance, as dance is used as a form of exercise and occasionally training for other sports and activities. Dance performances and dancing competitions are found across the world exhibiting various different styles and standards. Dance may also be participated in alone as a form of exercise or self expression."
+    },
+    {
+      "chunk_id": "wikipedia:Culinary Class Wars#0000",
+      "doc_id": "wikipedia:Culinary Class Wars",
+      "title": "Culinary Class Wars",
+      "url": "https://en.wikipedia.org/?curid=77970789",
+      "source_type": "wikipedia",
+      "score": 0.34229200184345243,
+      "text": "Culinary Class Wars (Korean: 흑백요리사: 요리 계급 전쟁) is a South Korean cooking competition/comedy in the dramatic style of Physical: 100. The first season was released on Netflix in 2024 and featured one hundred elite chefs divided into two classes: white spoons (veterans) and black spoons (newcomers), competing for the prize of ₩300 million. The first three episodes of season two aired on December 16, 2025, with the last episode of the season scheduled to be released on January 13, 2026. In January 2026, Netflix announced the series was renewed for a team-based third season. Judges The two judges were veteran restaurateur and celebrity chef, Paik Jong-won, and the only Michelin three-star chef in Korea, Anh Sung-jae. They became full from tasting so much food during the contest but Paik still ate his packed lunch too. Care was taken to ensure impartial judging."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0001",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.3394603729248047,
+      "text": "The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff from Doctor Who The Class (TV series), a CBS sitcom Class (2023 TV series), a 2023 Indian Netflix teen drama Literature Class: A Guide Through the American Status System,..."
+    },
+    {
+      "chunk_id": "wikipedia:Dance#0001",
+      "doc_id": "wikipedia:Dance",
+      "title": "Dance",
+      "url": "https://en.wikipedia.org/?curid=7885",
+      "source_type": "wikipedia",
+      "score": 0.33624685406684873,
+      "text": "across the world exhibiting various different styles and standards. Dance may also be participated in alone as a form of exercise or self expression. Dancing is common human behaviour, and does not necessarily require specific choreography. Theatrical and participatory dance Theatrical dance, also called performance or concert dance, is intended primarily as a spectacle..."
+    },
+    {
+      "chunk_id": "wikipedia:Megha Ganne#0000",
+      "doc_id": "wikipedia:Megha Ganne",
+      "title": "Megha Ganne",
+      "url": "https://en.wikipedia.org/?curid=67874050",
+      "source_type": "wikipedia",
+      "score": 0.3021517902612686,
+      "text": "Megha Ganne (born 2003 or 2004) is an American amateur golfer. In June 2021, as a 17-year-old high school student, Ganne qualified for the U.S. Women's Open. At the tournament she held a share of the lead after the opening round, and was tied for third going into the final round; she finished as the leading amateur, in a tie for 14th place. Since the age of twelve, she has been competing in golf tournaments. Her parents are from India. She has been coached for nine years by Katie Rudolph. In August 2025, Ganne won the U.S. Women's Amateur. Amateur wins 2017 New Jersey Junior PGA Championship 2018 AJGA Championship 2021 Scott Robertson Memorial 2023 Carmel Cup 2024 Nanea Invitational 2025 U.S. Women's Amateur, Stanford Intercollegiate Source: U.S. national team appearances Junior Solheim Cup: 2021 Curtis Cup: 2022 (winners) Arnold Palmer Cup: 2025 Espirito Santo Trophy: 2025 (winners) Sources: References"
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0000",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.2982269525527954,
+      "text": "Graphics (from Ancient Greek γραφικός (التصميم) 'pertaining to drawing, painting, writing, etc.') are visual images or designs on some surface, such as a wall, canvas, screen, paper, or stone, to inform, illustrate, or entertain. In contemporary usage, it includes a pictorial representation of data, as in design and manufacture, in typesetting and the graphic arts, and in educational and recreational software. Images that are generated by a computer are called computer graphics. Examples are photographs, drawings, line art, mathematical graphs, line graphs, charts, diagrams, typography, numbers, symbols, geometric designs, maps, engineering drawings, or other images. Graphics often combine text, illustration, and color. Graphic design may consist of the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element."
+    }
+  ]
+}

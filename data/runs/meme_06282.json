@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_06282",
+  "queries": [
+    "\"then Scientists\" \"Betas\" \"Alphas\" \"Scientists\"",
+    "\"Alphas\" \"Scientists\" \"hate speecn\" \"anything\""
+  ],
+  "primary_terms": [
+    "Betas",
+    "Alphas",
+    "Scientists",
+    "then Scientists",
+    "anything",
+    "hate speecn"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Scientist#0001",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.9443471193313598,
+      "text": "History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time. Scientists of different eras (and before them, natural philosophers, mathematicians, natural historians, natural theologians, engineers, and others who contributed to the development of science) have had widely different places in society, and the social norms, ethical values, and epistemic virtues associated with scientists—and expected of them—have changed over time as well. Accordingly, many different historical figures..."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0000",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.7036846280097961,
+      "text": "Science is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe. Modern science is typically divided into two – or three – major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies. While referred to as the formal sciences, the study of logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology. Meanwhile, applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine. The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE)."
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0000",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.5781182199716568,
+      "text": "Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist. Physics is one of the oldest academic disciplines. Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0001",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.5120723098516464,
+      "text": "officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great! TV, British TV channel group The Great (TV series), an American comedy-drama See also All pages with titles containing great All pages with titles beginning with Great All pages with titles beginning with The Great All pages with titles beginning with The great The Great (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Life#0001",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.46713539958000183,
+      "text": "forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota. Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species..."
+    },
+    {
+      "chunk_id": "wikipedia:Mater#0001",
+      "doc_id": "wikipedia:Mater",
+      "title": "Mater",
+      "url": "https://en.wikipedia.org/?curid=4910553",
+      "source_type": "wikipedia",
+      "score": 0.4658822864294052,
+      "text": "Mater, a major part of an astrolabe M.A.T.E.R., a football (soccer) club in Rome People Juris Māters (1845–1885), Latvian writer and journalist Rudy Mater (born 1980), French footballer See also Dura mater, the outermost layer of the meninges surrounding the brain and spinal cord in mammals Arachnoid..."
+    },
+    {
+      "chunk_id": "wikipedia:Hawk#0001",
+      "doc_id": "wikipedia:Hawk",
+      "title": "Hawk",
+      "url": "https://en.wikipedia.org/?curid=56890",
+      "source_type": "wikipedia",
+      "score": 0.4594825506210327,
+      "text": "horizontal pursuit. The terms accipitrine hawk and buteonine hawk are used to distinguish between the types in regions where hawk applies to both. The term \"true hawk\" is sometimes used for the accipitrine hawks in regions where buzzard is preferred for the buteonine hawks. All these groups are members of the family Accipitridae, which includes hawks and buzzards as well as kites, harriers, and eagles. To confuse things further,..."
+    },
+    {
+      "chunk_id": "wikipedia:Politics#0000",
+      "doc_id": "wikipedia:Politics",
+      "title": "Politics",
+      "url": "https://en.wikipedia.org/?curid=22986",
+      "source_type": "wikipedia",
+      "score": 0.45298948884010315,
+      "text": "Politics is the set of activities that are associated with making decisions in groups, or other forms of power relations among individuals, such as the distribution of status or resources. The branch of social science that studies politics and government is referred to as political science. Politics may be used positively in the context of a \"political solution\" which is compromising and non-violent, or descriptively as \"the art or science of government\", but the word often also carries a negative connotation. The concept has been defined in various ways, and different approaches have fundamentally differing views on whether it should be used extensively or in a limited way, empirically or normatively, and on whether conflict or co-operation is more essential to it."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0001",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.4460659623146057,
+      "text": "by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\". Angered by the suicide of a student who is mocked and refused a loan for her studies, they eventually kill the corrupt bank manager who abetted it. Soon enough, more corrupt individuals are killed, and Rajan Mathew is reinstated as S.P. to nab the group. The team learn..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.4254627376794815,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    }
+  ]
+}

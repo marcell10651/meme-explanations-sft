@@ -1,0 +1,105 @@
+{
+  "meme_id": "meme_01027",
+  "queries": [
+    "\"the nostalgia\" \"the cuff\" \"paper\" \"good\"",
+    "\"paper\" \"good\" \"don\" \"hurt\""
+  ],
+  "primary_terms": [
+    "good",
+    "don",
+    "hurt",
+    "oam"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Paper#0000",
+      "doc_id": "wikipedia:Paper",
+      "title": "Paper",
+      "url": "https://en.wikipedia.org/?curid=16861908",
+      "source_type": "wikipedia",
+      "score": 0.7004348337650299,
+      "text": "Paper is a thin sheet of matted cellulose fibers. Largely derived from lignocellulose, paper is created from a pulp dissolved into a slurry that is drained and dried into sheets. Different types of paper are defined by constituent fiber, paper pulp, sizing, coating, paper size, paper density and grammage. The papermaking process developed in East Asia at least as early as 105 CE by the Han court eunuch Cai Lun, although archaeological evidence exists of 2nd century BCE paper-like material in China. Before the industrialization of paper production, the most common paper was rag paper, made from discarded natural fiber textiles collected by ragpickers. The 1843 invention of wood pulp, coupled with the Second Industrial Revolution, made pulpwood paper the dominant variety to this day. Etymology The word paper is etymologically derived from Latin papyrus, which comes from the Greek πᾰ́πῡρος (pápūros), the word for the Cyperus papyrus plant."
+    },
+    {
+      "chunk_id": "wikipedia:Good#0000",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.63544782102108,
+      "text": "In most contexts, the concept of good denotes the conduct that should be preferred when posed with a choice between possible actions. Good is generally considered to be the opposite of evil. The specific meaning and etymology of the term and its associated translations among ancient and contemporary languages show substantial variation in its inflection and meaning, depending on circumstances of place and history, or of philosophical or religious context. History of Western ideas Every language has a word expressing good in the sense of \"having the right or desirable quality\" (ἀρετή) and bad in the sense \"undesirable\". A sense of moral judgment and a distinction \"right and wrong, good and bad\" are cultural universals. Plato and Aristotle Although the history of the origin of the use of the concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect."
+    },
+    {
+      "chunk_id": "wikipedia:Distress#0000",
+      "doc_id": "wikipedia:Distress",
+      "title": "Distress",
+      "url": "https://en.wikipedia.org/?curid=775089",
+      "source_type": "wikipedia",
+      "score": 0.5713536351919174,
+      "text": "Distress may refer to: Distress (medicine), an aversive state in which a person shows maladaptive behaviors Mental distress (or psychological distress) Distress, or distraint, the act of seizing goods to compel payment Distress (novel), a novel by Greg Egan Distress (1946 film), a 1946 French film Distress (1929 film), a 1929 French silent film Distress signal, a recognized means for obtaining help Distressed inventory, goods or materials whose potential to be sold at a normal cost has passed Distressing, the process of making an object appear aged Stone washing, a similar technique used on apparel See also Distressor, an audio compression unit All pages with titles beginning with Distress All pages with titles containing Distress"
+    },
+    {
+      "chunk_id": "wikipedia:Feels#0000",
+      "doc_id": "wikipedia:Feels",
+      "title": "Feels",
+      "url": "https://en.wikipedia.org/?curid=68447223",
+      "source_type": "wikipedia",
+      "score": 0.4941328912973404,
+      "text": "Feels or The Feels may refer to: Albums Feels (Animal Collective album), 2005 Feels (Snoh Aalegra album), 2017 Songs \"Feels\" (song), a 2017 song and single by Calvin Harris off the album Funk Wav Bounces Vol. 1 \"Feels\" (Snoh Aalegra song), a 2017 song by Snoh Aalegra, the title track off the eponymous album Feels (Snoh Aalegra album) \"The Feels\" (song), a 2021 song by Twice \"F.E.E.L.S.\", a 2021 music video and song by Tory Lanez Other uses The Feels (film), a 2017 film by Jenée LaMarque See also All the Feels (album), 2019 album by Fitz and the Tantrums Feel (disambiguation) All pages with titles beginning with Feels All pages with titles containing Feels"
+    },
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0001",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.48440830409526825,
+      "text": "Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends. During this time, Craig starts high school and becomes close to Ms. Hart, a teacher who comes to his aid when Kenny Yankovich, a school bully, attempts to intimidate him. After winning $3,000 from a lottery ticket that Harrigan..."
+    },
+    {
+      "chunk_id": "wikipedia:Help#0001",
+      "doc_id": "wikipedia:Help",
+      "title": "Help",
+      "url": "https://en.wikipedia.org/?curid=17344601",
+      "source_type": "wikipedia",
+      "score": 0.4645477533340454,
+      "text": "Slayer) \"Help\" (The Gentle Touch) \"Help\", an episode of The Protector \"Help\" (Spaced) \"The Help\" (Modern Family) Literature Help! (magazine) Help!! (manga) The Help, a historical novel by Kathryn Stockett Music Help (band), an American rock band Albums The Help Album, a musical compilation album to benefit the War Child charity Help (Blackbear album) Help (Thee Oh Sees album) Help!, the 1965..."
+    },
+    {
+      "chunk_id": "wikipedia:Your Choice#0001",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.45782145857810974,
+      "text": "'s World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia. Background We thought the message of love is what could really console people and resonate with them, especially in these tough times that we're having. [...] This time, we wanted to use this word, \"love,\" and the concept..."
+    },
+    {
+      "chunk_id": "wikipedia:Better#0000",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.44221991300582886,
+      "text": "Better may refer to: \"to better\" as a verb, meaning to undergo betterment better, an alternate spelling of bettor, someone who bets (gambles) Music Albums Better (Chrisette Michele album), 2013 Better (Brian McKnight album), 2016 Better (Haley Reinhart album), 2016 Better (BoA album), 2020 Songs \"Better\" (The Screaming Jets song), 1991 \"Better\" (Brooke Fraser song), 2003 \"Better\" (Tom Baxter song)\", 2007, covered by Boyzone in 2008 \"Better\" (Guns N' Roses song), 2008 \"Better\" (Maggie Rose song), 2012 \"Better\" (Kim Hyung-jun song), 2014 \"Better\" (Banks song), 2015 \"Better\" (Haley Reinhart song), 2016 \"Better\" (Meghan Trainor song), 2016 \"Better\" (Mallrat song), 2017 \"Better\" (Khalid song), 2018 \"Better\" (Lena Meyer-Landrut and Nico Santos song), 2019 \"Better\" (Twice song), 2020 \"Better\" (Zayn song), 2020 \"Better\" (MK and Burns song), 2022 \"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000"
+    },
+    {
+      "chunk_id": "wikipedia:Your Choice#0000",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.42814697325229645,
+      "text": "Your Choice is the ninth Korean extended play (EP) and eleventh overall by South Korean boy band Seventeen. Released through Pledis Entertainment on June 18, 2021, the album comes eight months after its predecessor, Semicolon. Characterized by hip hop and R&B elements, the album consists of six tracks, including the lead single, \"Ready to Love\". As part of the group's \"Power of 'Love'\" project, the album depicts the nature of love, and experiments with various genres, including disco funk, rock, and retro R&B. Seventeen promoted the album through performances on several South Korean and American music shows. Although the album received mixed reviews from critics, it achieved commercial success, selling over a million copies within its first four days of release. Your Choice topped the Gaon Album Chart and Billboard's World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia."
+    },
+    {
+      "chunk_id": "wikipedia:Nice 'n' Easy#0001",
+      "doc_id": "wikipedia:Nice 'n' Easy",
+      "title": "Nice 'n' Easy",
+      "url": "https://en.wikipedia.org/?curid=2733631",
+      "source_type": "wikipedia",
+      "score": 0.4269264042377472,
+      "text": "recorded by Charlie Rich in 1964, Peggy Lee in 1966, Alex Chilton in 1989, Michael Buble in 2004, Natalie Cole in 2008, and Barbra Streisand in 2011. Nancy Sinatra recorded a cover version as a single (Reprise Records RS.20756 \"Happy\" b/w \" Nice 'n' Easy\"); it is also included in the CD version of her album \"Nancy\" as a bonus track. In 2000 it was voted number 545 in Colin Larkin's All Time Top 1000 Albums. Track listing \"Nice 'n' Easy..."
+    }
+  ]
+}

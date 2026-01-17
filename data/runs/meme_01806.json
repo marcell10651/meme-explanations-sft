@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_01806",
+  "queries": [
+    "\"another tequila shot\" \"friend\" \"asks\" \"another\"",
+    "\"asks\" \"another\" \"tequila\" \"shot\""
+  ],
+  "primary_terms": [
+    "another tequila shot",
+    "friend",
+    "asks",
+    "another",
+    "tequila",
+    "shot",
+    "good",
+    "idea",
+    "nan"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:One Battle After Another#0000",
+      "doc_id": "wikipedia:One Battle After Another",
+      "title": "One Battle After Another",
+      "url": "https://en.wikipedia.org/?curid=73258137",
+      "source_type": "wikipedia",
+      "score": 0.8498938500881195,
+      "text": "One Battle After Another is a 2025 American black comedy action thriller film written, co-produced, and directed by Paul Thomas Anderson. It is loosely based on and inspired by the 1990 novel Vineland by Thomas Pynchon. The film stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti (in her film debut). It follows an ex-revolutionary who is forced back into his former combative lifestyle when he and his daughter are pursued by a corrupt military officer. Anderson had wanted to adapt Vineland since the early 2000s and, eventually, incorporated his own stories into the narrative while writing the screenplay. The film was shot in California between January and June 2024 using VistaVision, becoming one of the first films to use this format for principal photography since the 1960s."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0000",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.7126576066017151,
+      "text": "Two Dogs was a ready-to-drink beverage that was first introduced in Australia in 1993 and went on to become available throughout the world. It was a lemon flavoured alcoholic beverage that is widely considered to have been the \"world’s first brewed alcoholic lemonade\" (despite the pre-existence of traditional drinks like sima), paving the way for similar products such as Hooper's Hooch and Mike's Hard Lemonade. Two Dogs was created in 1993 by the South Australian brewer Duncan MacGillivray. The tale behind the drink says that MacGillivray, an owner of a small brewery and pub in South Australia, was having a beer with some friends who owned a lemon farm. They mentioned that they didn't know what to do with all their lemons that they couldn't sell due to size. Duncan said \"I'll try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well."
+    },
+    {
+      "chunk_id": "wikipedia:Another Man, Another Chance#0000",
+      "doc_id": "wikipedia:Another Man, Another Chance",
+      "title": "Another Man, Another Chance",
+      "url": "https://en.wikipedia.org/?curid=17874058",
+      "source_type": "wikipedia",
+      "score": 0.6595748424530029,
+      "text": "Another Man, Another Chance (Un autre homme, une autre chance, UK title: Another Man, Another Woman) is a 1977 French western film directed by Claude Lelouch. Plot France in 1870: Napoleon III has just lost the war against Prussia and left the country in poverty. Young Jeanne (Geneviève Bujold) falls in love with photographer Francis (Francis Huster), who soon takes her with him when he emigrates to The United States. In a small town in the still Wild West, they build up a small photo shop. Meanwhile, animal doctor David (James Caan) lives on his lonesome farm with his wife. It takes two years and two tragic accidents until Jeanne and David meet. Alone with a child, Jeanne has decided to return to France and is about to leave but then she and David silently and carefully fall in love for the second time in their lives and hope returns."
+    },
+    {
+      "chunk_id": "wikipedia:A Reason to Live, a Reason to Die#0000",
+      "doc_id": "wikipedia:A Reason to Live, a Reason to Die",
+      "title": "A Reason to Live, a Reason to Die",
+      "url": "https://en.wikipedia.org/?curid=24235116",
+      "source_type": "wikipedia",
+      "score": 0.6050542205572128,
+      "text": "A Reason to Live, a Reason to Die (originally titled Una Ragione Per Vivere E Una Per Morire, also known as Massacre at Fort Holman) is a 1972 Technicolor Italian spaghetti Western movie starring James Coburn, Bud Spencer, and Telly Savalas. Many exterior scenes were filmed at the Fort Bowie set built in the Province of Almería, Spain, where the desert landscape and climate that characterizes part of the province have made it a much utilized setting for Western films, among those A Fistful of Dollars, The Good, the Bad and the Ugly, Once Upon a Time in the West, and later 800 Bullets. The Fort Bowie set was originally built for the film The Deserter. There are two different English language versions of the movie, shorter with James Coburn's own voice and longer with different voice actors and music. James Coburn was not involved in longer cut dubbing. It also features some of the same songs from Day of Anger starring Lee Van Cleef."
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0000",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.5601226091384888,
+      "text": "A drink or beverage is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, juice, smoothies and soft drinks. Traditionally warm beverages encompass coffee, tea, and hot chocolate. Caffeinated drinks that contain the stimulant caffeine, have been consumed for centuries. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the psychoactive substance ethanol, have been part of human culture for more than 8,000 years. Non-alcoholic drinks typically refer to beverages that are traditionally alcoholic—such as beer, wine, or cocktails—but are produced with a very low alcohol by volume content. This category includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5413294732570648,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0001",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.506582722067833,
+      "text": "Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A. Applegate The Other (Tryon novel), a 1971 horror novel by Tom Tryon \"The Other\" (short story), a 1972 short story by Jorge Luis Borges The Other, a 2008 novel by David Guterson Spider-Man: \"The Other\", a 2005–2006..."
+    },
+    {
+      "chunk_id": "wikipedia:Hangover#0000",
+      "doc_id": "wikipedia:Hangover",
+      "title": "Hangover",
+      "url": "https://en.wikipedia.org/?curid=12274183",
+      "source_type": "wikipedia",
+      "score": 0.46624380350112915,
+      "text": "A hangover is the experience of various unpleasant physiological and psychological effects usually following the consumption of alcohol, such as wine, beer, and liquor. Hangovers can last for several hours or for more than 24 hours. Typical symptoms of a hangover may include headache, drowsiness, weakness, concentration problems, dry mouth, dizziness, fatigue, muscle ache, gastrointestinal distress (e.g., nausea, vomiting, diarrhea), absence of hunger, light sensitivity, depression, sweating, hyper-excitability, high blood pressure, irritability, and anxiety. While the causes of a hangover are still poorly understood, several factors are known to be involved including acetaldehyde accumulation, changes in the immune system and glucose metabolism, dehydration, metabolic acidosis, disturbed prostaglandin synthesis, increased cardiac output, vasodilation, sleep deprivation, and malnutrition."
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0001",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.4615236967802048,
+      "text": "includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines. Biology When the human body becomes dehydrated, a person experiences thirst. This craving of fluids results in an instinctive need to drink. Thirst is regulated by the hypothalamus in response to subtle changes in the body's electrolyte levels, and also as a result..."
+    },
+    {
+      "chunk_id": "wikipedia:Post-credits scene#0000",
+      "doc_id": "wikipedia:Post-credits scene",
+      "title": "Post-credits scene",
+      "url": "https://en.wikipedia.org/?curid=6107731",
+      "source_type": "wikipedia",
+      "score": 0.44134846329689026,
+      "text": "A post-credits scene (also known as a stinger, end tag, or credit cookie) is a short teaser clip that appears after the closing credits have rolled and sometimes after a production logo of a film, TV show, or video game has run. It is usually either written for humor or to set up a sequel. Sometimes, one or more mid-credits scenes are also inserted partly through the closing credits, typically for the purpose of maintaining the audience's attention so they do not need to wait for the entire credits roll to finish for a teaser. History Post-credits scenes may have their origins in encores, an additional performance added to the end of staged shows in response to audience applause. Opera encores were common practice in the 19th century, when the story was often interrupted so a singer could repeat an aria, but fell out of favor in the 1920s due to rising emphasis on dramatic storytelling rather than vocal performance."
+    }
+  ]
+}

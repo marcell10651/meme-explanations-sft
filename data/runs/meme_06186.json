@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_06186",
+  "queries": [
+    "\"Wikipedia\" \"Par\" \"Cdfay\" \"Mae\"",
+    "\"Wikipedia\" \"Bernie Sanders\" \"the financial help\" \"Par\"",
+    "\"the financial help\" \"Par\" \"Cdfay\" \"Mae\""
+  ],
+  "primary_terms": [
+    "Wikipedia",
+    "Par",
+    "Cdfay",
+    "ail ape",
+    "Mae"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Contribution#0000",
+      "doc_id": "wikipedia:Contribution",
+      "title": "Contribution",
+      "url": "https://en.wikipedia.org/?curid=1522920",
+      "source_type": "wikipedia",
+      "score": 0.8537578642368316,
+      "text": "Contribution may refer to: Music Contribution (album), by Mica Paris (1990) \"Contribution\" (song), title song from the album Contribution, a 1976 album by Shawn Phillips A contribution concert is where a band plays in the songs of or in the style of a separate band Finance and law Contribution (law), an agreement between defendants in a suit to apportion liability Contributions, a vital goal of fundraising Contribution margin, the selling price per unit minus the variable cost per unit Contribution, a principle of insurance Sport Goal contribution, a player statistic in association football See also Adobe Contribute, former web-editing software"
+    },
+    {
+      "chunk_id": "wikipedia:Profit#0001",
+      "doc_id": "wikipedia:Profit",
+      "title": "Profit",
+      "url": "https://en.wikipedia.org/?curid=18487619",
+      "source_type": "wikipedia",
+      "score": 0.6807548105716705,
+      "text": "player Places Profit, United States Virgin Islands See also All pages with titles beginning with Profit All pages with titles containing Profit Proffit (disambiguation) Proffitt (disambiguation) Prophet (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Working#0001",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.6755865216255188,
+      "text": "1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of occult rituals See also Workin' (disambiguation) Work (disambiguation) Works (disambiguation) All pages with titles containing Working All pages with titles beginning with Working"
+    },
+    {
+      "chunk_id": "wikipedia:Money#0000",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.6365749150514602,
+      "text": "Money is any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts, such as taxes, in a particular country or socio-economic context. The primary functions which distinguish money are: medium of exchange, a unit of account, a store of value and sometimes, a standard of deferred payment. Money was historically an emergent market phenomenon that possessed intrinsic value as a commodity; nearly all contemporary money systems are based on unbacked fiat money without use value. Its value is consequently derived by social convention, having been declared by a government or regulatory entity to be legal tender; that is, it must be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar."
+    },
+    {
+      "chunk_id": "wikipedia:Absolutely#0001",
+      "doc_id": "wikipedia:Absolutely",
+      "title": "Absolutely",
+      "url": "https://en.wikipedia.org/?curid=1914454",
+      "source_type": "wikipedia",
+      "score": 0.6030949950218201,
+      "text": "Hard Way Absolutely (TV series), a British comedy sketch show Abso Lutely Productions, a production company started by Tim Heidecker and Eric Wareheim See also Absolute (disambiguation) Absoluteness, a description of formulas that have the same truth value in each of some class of structures Absolution (disambiguation) Definitely (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Help#0001",
+      "doc_id": "wikipedia:Help",
+      "title": "Help",
+      "url": "https://en.wikipedia.org/?curid=17344601",
+      "source_type": "wikipedia",
+      "score": 0.6003857254981995,
+      "text": "Slayer) \"Help\" (The Gentle Touch) \"Help\", an episode of The Protector \"Help\" (Spaced) \"The Help\" (Modern Family) Literature Help! (magazine) Help!! (manga) The Help, a historical novel by Kathryn Stockett Music Help (band), an American rock band Albums The Help Album, a musical compilation album to benefit the War Child charity Help (Blackbear album) Help (Thee Oh Sees album) Help!, the 1965..."
+    },
+    {
+      "chunk_id": "wikipedia:Content#0001",
+      "doc_id": "wikipedia:Content",
+      "title": "Content",
+      "url": "https://en.wikipedia.org/?curid=426094",
+      "source_type": "wikipedia",
+      "score": 0.5953311920166016,
+      "text": "that exists in the form of digital data Table of contents, a list of chapters or sections in a document Places Content (Centreville, Maryland) also known as C.C. Harper Farm, a historic home located at Centreville, Maryland Content (Upper Marlboro, Maryland) also known as the Bowling House, a historic home located in Upper Marlboro, Maryland..."
+    },
+    {
+      "chunk_id": "wikipedia:Mater#0000",
+      "doc_id": "wikipedia:Mater",
+      "title": "Mater",
+      "url": "https://en.wikipedia.org/?curid=4910553",
+      "source_type": "wikipedia",
+      "score": 0.519802576303482,
+      "text": "Mater is a formal Latin term for mother and may refer to: Places Mater, Belgium, a village near Oudenaarde Health care Australia Mater Hospital, North Sydney, New South Wales Mater Group, Brisbane, Queensland Mater Health Services North Queensland, which incorporates: Mater Hospital Pimlico, Townsville, Queensland Mater Women's and Children's Hospital UK and Ireland Mater Infirmorum Hospital, Belfast, Northern Ireland Mater Misericordiae University Hospital, Dublin, Ireland (the best-known hospital in Ireland that is referred to as the Mater) Mater Private Hospital, Dublin, Ireland New Zealand Mater Misericordiae Hospital, Auckland, now Allevia Hospital Epsom Music Mater, an album by Vladimír Godár \"Mater\", a song by The Beat Fleet from Pistaccio Metallic, 2011 Other uses Mater (Cars), a character in the Disney/Pixar animated film Cars Mater, a major part of an astrolabe M.A.T.E.R., a football (soccer) club in Rome People Juris Māters (1845–1885), Latvian writer and journalist Rudy"
+    },
+    {
+      "chunk_id": "wikipedia:Money#0001",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.5070325791835785,
+      "text": "be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar. The money supply of a country comprises all currency in circulation (banknotes and coins currently issued) and, depending on the particular definition used, one or more types of bank money (the balances held in checking accounts, savings accounts, and other types of bank accounts). Bank money, whose value exists on the books of financial institutions and can be converted..."
+    },
+    {
+      "chunk_id": "wikipedia:Accent#0001",
+      "doc_id": "wikipedia:Accent",
+      "title": "Accent",
+      "url": "https://en.wikipedia.org/?curid=193493",
+      "source_type": "wikipedia",
+      "score": 0.5019478261470794,
+      "text": "on a particular area or object Accent Records, a record label ACCENT Speakers Bureau, a student-run organization at the University of Florida Ac'cent, brand name for monosodium glutamate (MSG) See also All pages with titles beginning with Accent All pages with titles containing Accent Accenture, company Accentor, a bird..."
+    }
+  ]
+}

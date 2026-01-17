@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_02948",
+  "queries": [
+    "\"Crying hacker noises\" \"Grandpa\" \"online banking\" \"his data\"",
+    "\"online banking\" \"his data\" \"hacker\" \"noises\""
+  ],
+  "primary_terms": [
+    "Crying hacker noises",
+    "hacker",
+    "noises",
+    "Grandpa",
+    "online banking",
+    "his data"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Internet#0001",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.6212686896324158,
+      "text": "by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites. The Internet has enabled and accelerated new forms of personal interaction through instant messaging, Internet forums, and social networking services. Online shopping has also grown to occupy a significant market across industries, enabling firms to extend brick and mortar presences..."
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0001",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.5734095275402069,
+      "text": "suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital. Following his recovery, the now-unemployed Tramp is mistakenly arrested in a Communist demonstration. In jail, he accidentally ingests smuggled cocaine, and in his subsequent delirium, he avoids being put back in his cell. When he returns, he stumbles upon a jailbreak and knocks the convicts..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.5626565217971802,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.5577287971973419,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:Propaganda#0001",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 0.5432649552822113,
+      "text": "which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites. More recently, the digital age has given rise to new ways of disseminating propaganda, for example, in computational propaganda, bots and algorithms are used to manipulate public opinion, e.g., by creating fake or biased news to spread it on social media or using chatbots to mimic real people in discussions..."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0000",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.5254299342632294,
+      "text": "The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies. The Internet carries a vast range of information services and resources, such as the interlinked hypertext documents and applications of the World Wide Web (WWW), electronic mail, discussion groups, internet telephony, streaming media and file sharing. Most traditional communication media, including telephone, radio, television, paper mail, newspapers, and print publishing, have been transformed by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube#0000",
+      "doc_id": "wikipedia:YouTube",
+      "title": "YouTube",
+      "url": "https://en.wikipedia.org/?curid=3524766",
+      "source_type": "wikipedia",
+      "score": 0.5100526511669159,
+      "text": "YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen, who were former employees of PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google. In January 2024, YouTube had more than 2.7 billion monthly active users, who collectively watched more than one billion hours of videos every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of content per minute, and as of mid-2024, there were approximately 14.8 billion videos in total. On November 13, 2006, YouTube was purchased by Google for US$1.65 billion (equivalent to $2.39 billion in 2024). Google expanded YouTube's business model from generating revenue through advertisements alone to offering paid content such as movies and exclusive content explicitly produced for YouTube."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.505637139081955,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    },
+    {
+      "chunk_id": "wikipedia:Information#0001",
+      "doc_id": "wikipedia:Information",
+      "title": "Information",
+      "url": "https://en.wikipedia.org/?curid=18985062",
+      "source_type": "wikipedia",
+      "score": 0.504642128944397,
+      "text": "control, data, form, education, knowledge, meaning, understanding, mental stimuli, pattern, perception, proposition, representation, and entropy. Information is often processed iteratively: Data available at one step are processed into information to be interpreted and processed at the next step. For example, in written text each symbol or letter conveys information..."
+    },
+    {
+      "chunk_id": "wikipedia:Store#0001",
+      "doc_id": "wikipedia:Store",
+      "title": "Store",
+      "url": "https://en.wikipedia.org/?curid=43365305",
+      "source_type": "wikipedia",
+      "score": 0.5030345022678375,
+      "text": "B Other uses Data store, a repository for persistently storing and managing collections of data Štore, a town and a municipality in eastern Slovenia Store, expendables released from an aircraft, such as aircraft ordnance or countermeasures Store, or store up, a verb meaning to compile or accumulate in a location such as a warehouse..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "an image of a shelf with lots of papers in it",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "lots",
+          "papers"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster's grandpa is storing lots and lot of complex and collaged data rather than simply using online banking.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "lots",
+          "lot",
+          "complex and collaged data",
+          "online banking"
+        ]
+      },
+      "title": {
+        "text": "Crying hacker noises",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Crying hacker noises",
+          "hacker",
+          "noises"
+        ]
+      },
+      "text": {
+        "text": "Grandpa doesn't use online banking because he is scared of his data being nacked His data: 6S YS OST eee ES ee SECS SS eS fe Wo TS SSS — —~ CONC SE SSS LS art te oe oN SR ‘7 NES es - -",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Grandpa",
+          "online banking",
+          "his data"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Crying hacker noises",
+      "hacker",
+      "noises",
+      "Grandpa",
+      "online banking",
+      "his data"
+    ],
+    "secondary_terms": [
+      "lots",
+      "papers",
+      "lot",
+      "complex and collaged data",
+      "online banking"
+    ],
+    "queries": [
+      "\"Crying hacker noises\" \"Grandpa\" \"online banking\" \"his data\"",
+      "\"online banking\" \"his data\" \"hacker\" \"noises\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_01633",
+  "queries": [
+    "\"This my 5th flu shot\" \"Brother\" \"starving\" \"flu\"",
+    "\"starving\" \"flu\" \"shot\" \"week\""
+  ],
+  "primary_terms": [
+    "Brother",
+    "starving",
+    "This my 5th flu shot",
+    "flu",
+    "shot",
+    "week",
+    "lias"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Quarantine#0000",
+      "doc_id": "wikipedia:Quarantine",
+      "title": "Quarantine",
+      "url": "https://en.wikipedia.org/?curid=25237",
+      "source_type": "wikipedia",
+      "score": 0.8365250587463379,
+      "text": "A quarantine is a restriction on the movement of people, animals, and goods which is intended to prevent the spread of disease or pests. It is often used in connection to disease and illness, preventing the movement of those who may have been exposed to a communicable disease, yet do not have a confirmed medical diagnosis. It is distinct from medical isolation, in which those confirmed to be infected with a communicable disease are isolated from the healthy population. The concept of quarantine is known to have been practised through history in various places. Notable quarantines in modern history include the village of Eyam in 1665 during the bubonic plague outbreak in England; East Samoa during the 1918 flu pandemic; the Diphtheria outbreak during the 1925 serum run to Nome, the 1972 Yugoslav smallpox outbreak, the SARS pandemic, the Ebola pandemic and extensive quarantines applied throughout the world during the COVID-19 pandemic since 2020."
+    },
+    {
+      "chunk_id": "wikipedia:COVID-19#0000",
+      "doc_id": "wikipedia:COVID-19",
+      "title": "COVID-19",
+      "url": "https://en.wikipedia.org/?curid=63030231",
+      "source_type": "wikipedia",
+      "score": 0.6135967075824738,
+      "text": "Coronavirus disease 2019 (COVID-19) is a contagious disease caused by the coronavirus SARS-CoV-2. In January 2020, the disease spread worldwide, resulting in the COVID-19 pandemic. The symptoms of COVID‑19 can vary but often include fever, fatigue, cough, breathing difficulties, loss of smell, and loss of taste. Symptoms may begin one to 14 days after exposure to the virus. At least a third of people who are infected do not develop noticeable symptoms. Of those who develop symptoms noticeable enough to be classified as patients, most (81%) develop mild to moderate symptoms (up to mild pneumonia), while 14% develop severe symptoms (dyspnea, hypoxia, or more than 50% lung involvement on imaging), and 5% develop critical symptoms (respiratory failure, shock, or multiorgan dysfunction). Older people have a higher risk of developing severe symptoms. Some complications result in death."
+    },
+    {
+      "chunk_id": "wikipedia:Big Brother (franchise)#0000",
+      "doc_id": "wikipedia:Big Brother (franchise)",
+      "title": "Big Brother (franchise)",
+      "url": "https://en.wikipedia.org/?curid=4391",
+      "source_type": "wikipedia",
+      "score": 0.4837330609560013,
+      "text": "Big Brother is a reality competition television franchise created by John de Mol Jr., first broadcast in the Netherlands in 1999 and subsequently syndicated internationally beginning in 2000. The show features contestants called \"housemates\" or \"HouseGuests\" who live together in a specially constructed house that is isolated from the outside world. The show has been cited as having had widespread influence on the status of television and celebrity. The name is inspired by Big Brother from George Orwell's novel Nineteen Eighty-Four, and the housemates are continuously monitored during their stay in the house by live television cameras as well as personal audio microphones. Throughout the course of the competition, they are voted out of the house (usually on a weekly basis) until only one remains and wins the grand prize. As of 5 August 2023, there have been 508 seasons of Big Brother in over 63 franchise countries and regions."
+    },
+    {
+      "chunk_id": "wikipedia:Rescue#0000",
+      "doc_id": "wikipedia:Rescue",
+      "title": "Rescue",
+      "url": "https://en.wikipedia.org/?curid=363258",
+      "source_type": "wikipedia",
+      "score": 0.48218902945518494,
+      "text": "Rescue comprises responsive operations that usually involve the saving of life, removal from danger, liberation from restraint, or the urgent treatment of injuries after an incident. It may be facilitated by a range of tools and equipment necessary to deal with the specific circumstances. Rescues may be necessary in a wide range of circumstances and environments, and specialised procedures have been developed for many of these. A rescue may also be performed on an ad hoc basis by the people who are available on site, using equipment available on site or assembled from available materials, particularly when the rescue is urgent or it is unlikely that specialist assistance will be available within a reasonable time. First aid medical attention is often closely associated with rescue, and may be a necessary part of a rescue."
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0000",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.4517926424741745,
+      "text": "Snap or SNAP may refer to: Supplemental Nutrition Assistance Program, a food program for low-income families administered by the United States Department of Agriculture Arts and entertainment Snap (film), the initial release title for the 2013 film Enter the Dangerous Mind The Stanly News and Press, a newspaper in Albemarle, North Carolina, US \"Snap\" (Duty Free), a 1984 TV episode Games and sports Snap (gridiron football), the start of a play in gridiron football Scalable Network Application Package, an online gaming platform Pokémon Snap, a 1999 Japanese video game New Pokémon Snap, the 2021 sequel Snap, any putdown used in the Dozens Card games Snap (card game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap!"
+    },
+    {
+      "chunk_id": "wikipedia:Walter White (Breaking Bad)#0000",
+      "doc_id": "wikipedia:Walter White (Breaking Bad)",
+      "title": "Walter White (Breaking Bad)",
+      "url": "https://en.wikipedia.org/?curid=22530352",
+      "source_type": "wikipedia",
+      "score": 0.44820516407489774,
+      "text": "Walter Hartwell White Sr., also known by his alias Heisenberg, is a fictional character and the main protagonist of the American crime drama television series Breaking Bad. He is portrayed by Bryan Cranston. Walter is a skilled chemist who co-founded a technology firm before he accepted a buy-out from his partners. While his partners became wealthy, Walter became a high school chemistry teacher in Albuquerque, New Mexico, barely making ends meet with his family: his wife, Skyler (Anna Gunn), and their son, Walter Jr. (RJ Mitte). At the start of the series, the day after his 50th birthday, he is diagnosed with Stage III lung cancer. After this discovery, Walter decides to manufacture and sell methamphetamine with his former student Jesse Pinkman (Aaron Paul) to ensure his family's financial security after his death. Due to his expertise, Walter's \"blue meth\" is purer than any other on the market, and he is pulled deeper into the illicit drug trade."
+    },
+    {
+      "chunk_id": "wikipedia:His House#0000",
+      "doc_id": "wikipedia:His House",
+      "title": "His House",
+      "url": "https://en.wikipedia.org/?curid=62897844",
+      "source_type": "wikipedia",
+      "score": 0.4428246676921844,
+      "text": "His House is a 2020 folk horror thriller film written and directed by Remi Weekes, from a story by Felicity Evans and Toby Venables. It stars Wunmi Mosaku, Sope Dirisu and Matt Smith. The film tells the story of a refugee couple from South Sudan, struggling to adjust to their new life in an English town that has an evil lurking beneath the surface. It had its world premiere at the 2020 Sundance Film Festival on 27 January 2020. It was released on 30 October 2020 by Netflix, and received widespread acclaim from critics. Plot Bol and Rial are refugees fleeing with their daughter, Nyagak, from war-torn South Sudan. They brave stormy waters on an overcrowded motorboat, along with fellow refugees traversing the perilous English Channel from France to seek asylum. Although they survive the treacherous crossing, their daughter and many others do not."
+    },
+    {
+      "chunk_id": "wikipedia:Care#0000",
+      "doc_id": "wikipedia:Care",
+      "title": "Care",
+      "url": "https://en.wikipedia.org/?curid=246884",
+      "source_type": "wikipedia",
+      "score": 0.43977823853492737,
+      "text": "Care may refer to: Organizations and projects CARE (New Zealand), Citizens Association for Racial Equality, a former New Zealand organisation CARE (England) West Midlands, Central Accident Resuscitation Emergency team, a team of doctors & paramedics CARE International, Cooperative for Assistance and Relief Everywhere, an international aid and development organization Carpet America Recovery Effort, an American carpet recycling project Charged Aerosol Release Experiment, a NASA project concerning dust in space Christian Action Research and Education, a Christian lobby group in the United Kingdom Credit Abuse Resistance Education, an American national program Crew Module Atmospheric Re-entry Experiment, a 2014 ISRO experimental vehicle People with the surname Danny Care (soccer) (born 1974), American soccer player Danny Care (born 1987), English rugby union player Henry Care (1646–1688), English political writer and journalist Peter Care (born 1953), British film and video producer"
+    },
+    {
+      "chunk_id": "wikipedia:Rescue#0001",
+      "doc_id": "wikipedia:Rescue",
+      "title": "Rescue",
+      "url": "https://en.wikipedia.org/?curid=363258",
+      "source_type": "wikipedia",
+      "score": 0.41878822445869446,
+      "text": "be available within a reasonable time. First aid medical attention is often closely associated with rescue, and may be a necessary part of a rescue. Equipment used might include search and rescue dogs, mounted search and rescue horses, helicopters, the \"jaws of life\", and other hydraulic cutting and spreading tools used to extricate occupants from wrecked vehicles. Rescue operations may be supported by rescue vehicles operated by rescue squads, and at sea by lifeboats, rescue craft, salvage vessels and vessels..."
+    },
+    {
+      "chunk_id": "wikipedia:Culinary Class Wars#0000",
+      "doc_id": "wikipedia:Culinary Class Wars",
+      "title": "Culinary Class Wars",
+      "url": "https://en.wikipedia.org/?curid=77970789",
+      "source_type": "wikipedia",
+      "score": 0.3969225436449051,
+      "text": "Culinary Class Wars (Korean: 흑백요리사: 요리 계급 전쟁) is a South Korean cooking competition/comedy in the dramatic style of Physical: 100. The first season was released on Netflix in 2024 and featured one hundred elite chefs divided into two classes: white spoons (veterans) and black spoons (newcomers), competing for the prize of ₩300 million. The first three episodes of season two aired on December 16, 2025, with the last episode of the season scheduled to be released on January 13, 2026. In January 2026, Netflix announced the series was renewed for a team-based third season. Judges The two judges were veteran restaurateur and celebrity chef, Paik Jong-won, and the only Michelin three-star chef in Korea, Anh Sung-jae. They became full from tasting so much food during the contest but Paik still ate his packed lunch too. Care was taken to ensure impartial judging."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A woman in scrubs is examining something in a lab.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "scrubs",
+          "something"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they keep going back to get flu shots because the woman administering them is attractive.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "flu shots",
+          "the woman"
+        ]
+      },
+      "title": {
+        "text": "Brother is starving",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Brother",
+          "starving"
+        ]
+      },
+      "text": {
+        "text": "This my 5th flu shot this week 7 a ws = , O- f , Ly (LIAS .",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "This my 5th flu shot",
+          "flu",
+          "shot",
+          "week",
+          "lias"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Brother",
+      "starving",
+      "This my 5th flu shot",
+      "flu",
+      "shot",
+      "week",
+      "lias"
+    ],
+    "secondary_terms": [
+      "scrubs",
+      "something",
+      "flu shots",
+      "the woman"
+    ],
+    "queries": [
+      "\"This my 5th flu shot\" \"Brother\" \"starving\" \"flu\"",
+      "\"starving\" \"flu\" \"shot\" \"week\""
+    ]
+  },
+  "source_jsonl_id": null
+}

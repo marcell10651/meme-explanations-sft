@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_02191",
+  "queries": [
+    "\"The water\" \"depression\" \"water\" \"est\"",
+    "\"water\" \"est\" \"bre\" \"tingsil\""
+  ],
+  "primary_terms": [
+    "The water",
+    "depression",
+    "water",
+    "est",
+    "bre",
+    "tingsil",
+    "keepingttheplightsyonplike"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Water#0000",
+      "doc_id": "wikipedia:Water",
+      "title": "Water",
+      "url": "https://en.wikipedia.org/?curid=33306",
+      "source_type": "wikipedia",
+      "score": 0.8300633490085602,
+      "text": "Water is an inorganic compound with the chemical formula H2O. It is a transparent, tasteless, odorless, and nearly colorless chemical substance. It is the main constituent of Earth's streams, lakes, and oceans and the fluids of all known living organisms, in which it acts as a solvent. Water, being a polar molecule, undergoes strong intermolecular hydrogen bonding which is a large contributor to its physical and chemical properties. It is vital for all known forms of life, despite not providing food energy or being an organic micronutrient. Due to its presence in all organisms, its chemical stability, its worldwide abundance, and its strong polarity relative to its small molecular size, water is often referred to as the \"universal solvent\". Because Earth's environment is relatively close to water's triple point, water exists on Earth as a solid, a liquid, and a gas. It forms precipitation in the form of rain and aerosols in the form of fog."
+    },
+    {
+      "chunk_id": "wikipedia:Drinking#0000",
+      "doc_id": "wikipedia:Drinking",
+      "title": "Drinking",
+      "url": "https://en.wikipedia.org/?curid=66254",
+      "source_type": "wikipedia",
+      "score": 0.7900543540716172,
+      "text": "Drinking is the act of ingesting water or other liquids into the body through the mouth, proboscis, or elsewhere. Humans drink by swallowing, completed by peristalsis in the esophagus. The physiological processes of drinking vary widely among other animals. Most animals drink water to maintain bodily hydration, although many can survive on the water gained from their food. Water is required for many physiological processes. Both inadequate and (less commonly) excessive water intake are associated with health problems. Methods of drinking In humans When a liquid enters a human mouth, the swallowing process is completed by peristalsis which delivers the liquid through the esophagus to the stomach; much of the activity is assisted by gravity. The liquid may be poured from the hands or drinkware may be used as vessels. Drinking can also be by sipping or sucking, typically when imbibing hot liquids or drinking from a spoon."
+    },
+    {
+      "chunk_id": "wikipedia:Rain#0000",
+      "doc_id": "wikipedia:Rain",
+      "title": "Rain",
+      "url": "https://en.wikipedia.org/?curid=19009110",
+      "source_type": "wikipedia",
+      "score": 0.6809450805187225,
+      "text": "Rain is a form of precipitation where water droplets that have condensed from atmospheric water vapor fall by gravity. Rain is a major component of the water cycle and is responsible for depositing most of the fresh water on the Earth. It provides water for hydroelectric power plants, crop irrigation, and suitable conditions for many types of ecosystems. The major cause of rain production is moisture moving along three-dimensional zones of temperature and moisture contrasts known as weather fronts. If enough moisture and upward motion is present, precipitation falls from convective clouds (those with strong upward vertical motion) such as cumulonimbus (thunder clouds) which can organize into narrow rainbands. In mountainous areas, heavy precipitation is possible where upslope flow is maximized within windward sides of the terrain at elevation which forces moist air to condense and fall out as rainfall along the sides of mountains."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0001",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.6557270407676696,
+      "text": "network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story, one of the main characters in the 2006 film Lady in the Water Kahaani, or Story, a 2012 Indian film by Sujoy Ghosh The Story (film documentary short), a 2000 short film by John Little The..."
+    },
+    {
+      "chunk_id": "wikipedia:Earth#0000",
+      "doc_id": "wikipedia:Earth",
+      "title": "Earth",
+      "url": "https://en.wikipedia.org/?curid=9228",
+      "source_type": "wikipedia",
+      "score": 0.6186429530382156,
+      "text": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an ocean world, the only one in the Solar System sustaining liquid surface water. Almost all of Earth's water is contained in its global ocean, covering 70.8% of Earth's crust. The remaining 29.2% of Earth's crust is land, most of which is located in the form of continental landmasses within Earth's land hemisphere. Most of Earth's land is at least somewhat humid and covered by vegetation, while large ice sheets at Earth's polar deserts retain more water than Earth's groundwater, lakes, rivers, and atmospheric water combined. Earth's crust consists of slowly moving tectonic plates, which interact to produce mountain ranges, volcanoes, and earthquakes. Earth has a liquid outer core that generates a magnetosphere capable of deflecting most of the destructive solar winds and cosmic radiation."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0001",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.5161285161972046,
+      "text": "2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a Singaporean film directed by Tzu Nyen Ho Here (2011 film), an American drama directed by Braden King Here (2023 film), a Belgian film directed by Bas Devos Here (2024 film), an American drama directed..."
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0001",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.4894774258136749,
+      "text": "includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines. Biology When the human body becomes dehydrated, a person experiences thirst. This craving of fluids results in an instinctive need to drink. Thirst is regulated by the hypothalamus in response to subtle changes in the body's electrolyte levels, and also as a result..."
+    },
+    {
+      "chunk_id": "wikipedia:Well#0000",
+      "doc_id": "wikipedia:Well",
+      "title": "Well",
+      "url": "https://en.wikipedia.org/?curid=15105978",
+      "source_type": "wikipedia",
+      "score": 0.47116265892982484,
+      "text": "A well () is an excavation or structure created on the earth by digging, driving, or drilling to access liquid resources, usually water. The oldest and most common kind of well is a water well, to access groundwater in underground aquifers. The well water is drawn up by a pump, or using containers, such as buckets that are raised mechanically or by hand. Water can also be injected back into the aquifer through the well. Wells were first constructed at least eight thousand years ago and historically vary in construction from a sediment of a dry watercourse to the qanats of Iran, and the stepwells and sakiehs of India. Placing a lining in the well shaft helps create stability, and linings of wood or wickerwork date back at least as far as the Iron Age. Wells have traditionally been sunk by hand digging, as is still the case in rural areas of the developing world."
+    },
+    {
+      "chunk_id": "wikipedia:Tanna#0001",
+      "doc_id": "wikipedia:Tanna",
+      "title": "Tanna",
+      "url": "https://en.wikipedia.org/?curid=4651537",
+      "source_type": "wikipedia",
+      "score": 0.4613834321498871,
+      "text": "2015 film set on the island of Tanna, Vanuatu Tanna languages, a subgroup of the South Vanuatu languages See also Tana (disambiguation) All pages with titles beginning with Tanna All pages with titles containing Tanna"
+    },
+    {
+      "chunk_id": "wikipedia:Sugar on My Tongue#0001",
+      "doc_id": "wikipedia:Sugar on My Tongue",
+      "title": "Sugar on My Tongue",
+      "url": "https://en.wikipedia.org/?curid=80490800",
+      "source_type": "wikipedia",
+      "score": 0.45894422233104704,
+      "text": "the \"run-on flow\" that is widely used in modern hip-hop and raps about oral sex. Critical reception The song received generally positive reviews. Mackenzie Cummings-Grady of Billboard ranked it as the second best song on Don't Tap the Glass, writing \"The song's intergalactic synths and rumbling 808s make it poised to dominate summertime gatherings, and Tyler offers some truly..."
+    }
+  ]
+}

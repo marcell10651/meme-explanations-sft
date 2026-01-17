@@ -1,0 +1,194 @@
+{
+  "meme_id": "meme_03245",
+  "queries": [
+    "\"Whomstsoever\" \"writtemoff multiplesshows/movies\" \"predicted\" \"aftenthey\"",
+    "\"Star Trek character\" \"HBO max\" \"the second image\" \"Whomstsoever\"",
+    "\"the second image\" \"Whomstsoever\" \"writtemoff multiplesshows/movies\" \"first image\""
+  ],
+  "primary_terms": [
+    "Whomstsoever",
+    "predicted",
+    "aftenthey",
+    "cleaned’and",
+    "writtemoff multiplesshows/movies"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Medium#0001",
+      "doc_id": "wikipedia:Medium",
+      "title": "Medium",
+      "url": "https://en.wikipedia.org/?curid=19967",
+      "source_type": "wikipedia",
+      "score": 0.8287933468818665,
+      "text": "media List of art media (plural: media), materials and techniques used by an artist to produce a work Medium (band), an American rock band Medium (TV series), an American television series starring Patricia Arquette about a medium (psychic intermediary) working as a consultant for a district attorney's office Medium Productions..."
+    },
+    {
+      "chunk_id": "wikipedia:Common#0001",
+      "doc_id": "wikipedia:Common",
+      "title": "Common",
+      "url": "https://en.wikipedia.org/?curid=568187",
+      "source_type": "wikipedia",
+      "score": 0.816311851143837,
+      "text": "critic Arts, entertainment, and media Common (film), a 2014 BBC One film, written by Jimmy McGovern, on the UK's Joint Enterprise Law Dol Common, a character in The Alchemist by Ben Jonson Harvard Common Press of Boston, Massachusetts, a publisher of cookbooks and parenting books The Common Room, a former interactive TV show on ITV..."
+    },
+    {
+      "chunk_id": "wikipedia:One Battle After Another#0000",
+      "doc_id": "wikipedia:One Battle After Another",
+      "title": "One Battle After Another",
+      "url": "https://en.wikipedia.org/?curid=73258137",
+      "source_type": "wikipedia",
+      "score": 0.7927878350019455,
+      "text": "One Battle After Another is a 2025 American black comedy action thriller film written, co-produced, and directed by Paul Thomas Anderson. It is loosely based on and inspired by the 1990 novel Vineland by Thomas Pynchon. The film stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti (in her film debut). It follows an ex-revolutionary who is forced back into his former combative lifestyle when he and his daughter are pursued by a corrupt military officer. Anderson had wanted to adapt Vineland since the early 2000s and, eventually, incorporated his own stories into the narrative while writing the screenplay. The film was shot in California between January and June 2024 using VistaVision, becoming one of the first films to use this format for principal photography since the 1960s."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0000",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.790593221783638,
+      "text": "Other often refers to: Other (philosophy), a concept in psychology and philosophy Other or The Other may also refer to: Film and television The Other (1913 film), a German silent film directed by Max Mack The Other (1930 film), a German film directed by Robert Wiene The Other (1947 film), an Italian film directed by Carlo Ludovico Bragaglia The Other (1972 film), an American film directed by Robert Mulligan The Other (1999 film), a French-Egyptian film directed by Youssef Chahine The Other (2007 film), an Argentine-French-German film by Ariel Rotter The Other (2025 film), an American film directed by Paul Etheredge Other (film), a French/Belgian film directed by David Moreau The Other (Doctor Who), a fictional character in Doctor Who The Other (Marvel Cinematic Universe), a fictional character in the Marvel Cinematic Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0001",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.7297117114067078,
+      "text": "network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story, one of the main characters in the 2006 film Lady in the Water Kahaani, or Story, a 2012 Indian film by Sujoy Ghosh The Story (film documentary short), a 2000 short film by John Little The..."
+    },
+    {
+      "chunk_id": "wikipedia:In His Image#0000",
+      "doc_id": "wikipedia:In His Image",
+      "title": "In His Image",
+      "url": "https://en.wikipedia.org/?curid=4401031",
+      "source_type": "wikipedia",
+      "score": 0.6542322635650635,
+      "text": "\"In His Image\" is an episode of the American television anthology series The Twilight Zone aired on January 3, 1963. This was the first episode of the fourth season. Each episode was expanded to an hour (with commercials) from \"In His Image\" until \"The Bard\". The fourth season is the only season of The Twilight Zone to have each episode one hour long. In this episode, a man finds his hometown is suddenly inconsistent with his memories of it and begins experiencing irrational urges to commit murder, two mysteries which together lead him to an unpleasant discovery about his identity. Opening narration What you have just witnessed could be the end of a particularly terrifying nightmare. It isn't – it's the beginning. Although Alan Talbot doesn't know it, he's about to enter a strange new world, too incredible to be real, too real to be a dream. It's called The Twilight Zone. Plot While waiting in a subway station, Alan Talbot is approached by an evangelist."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.6240682899951935,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Post-credits scene#0000",
+      "doc_id": "wikipedia:Post-credits scene",
+      "title": "Post-credits scene",
+      "url": "https://en.wikipedia.org/?curid=6107731",
+      "source_type": "wikipedia",
+      "score": 0.6202675998210907,
+      "text": "A post-credits scene (also known as a stinger, end tag, or credit cookie) is a short teaser clip that appears after the closing credits have rolled and sometimes after a production logo of a film, TV show, or video game has run. It is usually either written for humor or to set up a sequel. Sometimes, one or more mid-credits scenes are also inserted partly through the closing credits, typically for the purpose of maintaining the audience's attention so they do not need to wait for the entire credits roll to finish for a teaser. History Post-credits scenes may have their origins in encores, an additional performance added to the end of staged shows in response to audience applause. Opera encores were common practice in the 19th century, when the story was often interrupted so a singer could repeat an aria, but fell out of favor in the 1920s due to rising emphasis on dramatic storytelling rather than vocal performance."
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0001",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.5933528691530228,
+      "text": "or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover (theater), a walkway across the stage hidden from the audience Crossover thrash, a musical genre combining thrash and punk Crossover (video games) The Crossover..."
+    },
+    {
+      "chunk_id": "wikipedia:The Three Faces#0000",
+      "doc_id": "wikipedia:The Three Faces",
+      "title": "The Three Faces",
+      "url": "https://en.wikipedia.org/?curid=23666731",
+      "source_type": "wikipedia",
+      "score": 0.5791386067867279,
+      "text": "The Three Faces (Italian: I tre volti) is a 1965 Italian anthology film consisting of three segments directed by Michelangelo Antonioni, Mauro Bolognini, and Franco Indovina, starring Soraya either as herself or in fictitious roles. Cast \"Il provino\" Soraya as Herself Ivano Davoli as Davoli - Journalist Alfredo De Laurentiis as Himself Dino De Laurentiis as Himself Piero Tosi as Costumista Giorgio Sartarelli as Fotografo Ralph Serpe as Produttore \"Gli amanti celebri\" Soraya as Linda Richard Harris as Robert Jean Rougeul as Speaker Esmeralda Ruspoli as Edda José Luis de Vilallonga as Rodolph \"Latin Lover\" Soraya as Mrs Melville Alberto Sordi as Armando Tucci Nando Angelini as Fernando Angeli Goffredo Alessandrini as Direttore dell'agenzia Alberto Giubilo as 2nd journalist in Fiumicino Renato Tagliani Background According to Antonioni, producer De Laurentiis had imposed severe cuts on his segment, which in the theatrically released version served as a \"preface\" (Italian \"prefazione\") to"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a white male Star Trek character with first image. one hand as his cheek and the second image one hand is its mouth",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Star Trek character",
+          "first image",
+          "one hand",
+          "his cheek",
+          "the second image",
+          "its mouth"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that this is the look they male there the news about HBO max",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the look",
+          "the news",
+          "HBO max"
+        ]
+      },
+      "title": {
+        "text": "Whomstsoever could have predicted this?",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Whomstsoever",
+          "predicted"
+        ]
+      },
+      "text": {
+        "text": "According \\to David’Zaslav¥HBO.Max{isnot{particularly) rigsht{now,aftenthey,cleaned’and,writtemoff multiplesshows/movies' ] / fh « \\\\ / \\ ff J { a f a | i | If ' ~_ i ! ~_ ! ‘ a a a ss. a aN t ! N | ., ~ LY | \" - ¢ i 1 i i a 1 1 . H ot —_— Gon a . oe, y",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "aftenthey",
+          "cleaned’and",
+          "writtemoff multiplesshows/movies"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Whomstsoever",
+      "predicted",
+      "aftenthey",
+      "cleaned’and",
+      "writtemoff multiplesshows/movies"
+    ],
+    "secondary_terms": [
+      "Star Trek character",
+      "first image",
+      "one hand",
+      "his cheek",
+      "the second image",
+      "its mouth",
+      "the look",
+      "the news",
+      "HBO max"
+    ],
+    "queries": [
+      "\"Whomstsoever\" \"writtemoff multiplesshows/movies\" \"predicted\" \"aftenthey\"",
+      "\"Star Trek character\" \"HBO max\" \"the second image\" \"Whomstsoever\"",
+      "\"the second image\" \"Whomstsoever\" \"writtemoff multiplesshows/movies\" \"first image\""
+    ]
+  },
+  "source_jsonl_id": null
+}

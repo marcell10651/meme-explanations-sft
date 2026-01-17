@@ -1,0 +1,193 @@
+{
+  "meme_id": "meme_03549",
+  "queries": [
+    "\"Poop\" \"art\" \"bucket\" \"pow\"",
+    "\"bucket\" \"pow\" \"guys\" \"stop\""
+  ],
+  "primary_terms": [
+    "Poop",
+    "art",
+    "bucket",
+    "pow",
+    "guys",
+    "stop",
+    "ari",
+    "isn",
+    "subjective"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Phrase#0001",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.9494862973690033,
+      "text": "the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes. In theories of syntax, a phrase is any group of words, or sometimes a single word, which plays a particular role within the syntactic structure of a sentence. It does not have to have any special meaning or significance, or even exist anywhere outside of the sentence being analyzed, but it must function there as a complete grammatical unit..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit#0000",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 0.8296762466430664,
+      "text": "Shit is an English-language profanity. As a noun, it refers to fecal matter, and as a verb it means to defecate; in the plural (\"the shits\"), it means diarrhea. Shite is a common variant in British and Irish English. As a slang term, shit has many meanings, including: nonsense, foolishness, something of little value or quality, trivial and usually boastful or inaccurate talk or a contemptible person. It could also be used to refer to any other noun in general or as an expression of annoyance, concern, surprise or anger. Etymology The word is likely derived from Old English, having the nouns scite (dung, attested only in place names) and scitte (diarrhoea) and the verb scītan (to defecate, attested only in bescītan, to cover with excrement); eventually it morphed into Middle English schītte (excrement), schyt (diarrhoea) and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:Spat#0000",
+      "doc_id": "wikipedia:Spat",
+      "title": "Spat",
+      "url": "https://en.wikipedia.org/?curid=2447773",
+      "source_type": "wikipedia",
+      "score": 0.7426419377326965,
+      "text": "Spat may refer to: Spat (angular unit), a unit of solid angle Spat (distance unit), an obsolete distance unit in astronomy Spats (footwear), a type of shoe accessory Wheel spats, British term for aerodynamic fairings that reduce the drag on fixed-undercarriage aircraft Spat, the past tense of spit Spat (molluscs), settled larvae of shellfish such as oysters and scallops Spat, the main villain in the game Hamtaro Ham-Ham Heartbreak SPAT, Toamasina Autonomous Port of Madagascar, from French Société de Gestion du Port Autonome de Toamasina S.P.A.T., Polish Special Forces, from Polish Samodzielny Pododdział Antyterrorystyczny Komisariatu Policji See also All pages with titles beginning with Spat All pages with titles containing Spat Spath (disambiguation) Spats (disambiguation) Spatter (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.7205525398254394,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Homies (toy)#0000",
+      "doc_id": "wikipedia:Homies (toy)",
+      "title": "Homies (toy)",
+      "url": "https://en.wikipedia.org/?curid=1380153",
+      "source_type": "wikipedia",
+      "score": 0.6975243806838989,
+      "text": "Homies are a series of two-inch plastic collectible figurines representing various Chicano Mexican American characters. The line of toys was created by David Gonzales and based on a comic strip that Gonzales created featuring a cast of characters from his youth. Introduced in the year 1998, Homies were initially sold in grocery store vending machines and have become a highly collectible item, and have spawned many imitation toys. Background and history Gonzales began drawing comics while he was in high school. His amateur comic strip was called The Adventures of Chico Loco, and the characters were based on \"barrio guys,\" as Gonzales grew up on the tough streets of a poverty-ridden Mexican-American neighborhood. The main character, based on Gonzales himself, was called \"Hollywood.\" The strip, which later changed its title to The Adventures of Hollywood, was picked up by Lowrider magazine and published monthly."
+    },
+    {
+      "chunk_id": "wikipedia:Spek#0000",
+      "doc_id": "wikipedia:Spek",
+      "title": "Spek",
+      "url": "https://en.wikipedia.org/?curid=6015689",
+      "source_type": "wikipedia",
+      "score": 0.6345477163791656,
+      "text": "Hussain Yoosuf, better known by his stage name Spek, is a Canadian hip hop musician. He is best known for his singles \"Smell the Coffee\" and \"I'm a Hippie\". He is a former member of the Canadian hip hop pioneers, Dream Warriors, and, more recently, known for his work as an entrepreneur and music publisher. Early career Spek started rapping at the age of 14 in his hometown of Montreal, Quebec. He joined the hip hop group Dream Warriors shortly after the release of their hit songs \"My Definition of a Boombastic Jazz Style\" and \"Wash Your Face in My Sink\". At the age of 17, he signed a worldwide record contract with EMI and toured the world before settling in London. Spek soon found himself touring across Europe with the British jazz-rap crew Us3. Working with his musical partner Brian Rose, he collaborated with members of Jamiroquai and with Nitin Sawhney."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0001",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.6208811908960342,
+      "text": "such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns. Under the name of magnitude comes what is continuous and unified and divisible only into smaller divisibles, such as: matter, mass, energy, liquid, material—all cases of non-collective nouns. Along with analyzing its nature and classification, the issues of quantity involve such closely related topics as dimensionality..."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.6102701187133789,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.5958633035421371,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.5763444006443024,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is wearing a mask in front of a bearded guy.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "front"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster compares two opposing opinions about AI-generated art, siding with accepting it as art.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "two opposing opinions",
+          "art"
+        ]
+      },
+      "title": {
+        "text": "Poop in a bucket is art",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Poop",
+          "art",
+          "bucket"
+        ]
+      },
+      "text": {
+        "text": "> (a Hm fg pow —az Guys stop Al art Ari is isn’t art subjective",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "art",
+          "pow",
+          "guys",
+          "stop",
+          "ari",
+          "isn",
+          "subjective"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Poop",
+      "art",
+      "bucket",
+      "pow",
+      "guys",
+      "stop",
+      "ari",
+      "isn",
+      "subjective"
+    ],
+    "secondary_terms": [
+      "front",
+      "two opposing opinions",
+      "art"
+    ],
+    "queries": [
+      "\"Poop\" \"art\" \"bucket\" \"pow\"",
+      "\"bucket\" \"pow\" \"guys\" \"stop\""
+    ]
+  },
+  "source_jsonl_id": null
+}

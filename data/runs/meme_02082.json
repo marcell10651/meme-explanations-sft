@@ -1,0 +1,124 @@
+{
+  "meme_id": "meme_02082",
+  "queries": [
+    "\"ARE GOLDFISH\" \"the breeding process\" \"turns\" \"there\"",
+    "\"turns\" \"there\" \"color\" \"mutation\""
+  ],
+  "primary_terms": [
+    "the breeding process",
+    "turns",
+    "there",
+    "color",
+    "mutation",
+    "during",
+    "breeding",
+    "process",
+    "time",
+    "ago",
+    "ARE GOLDFISH",
+    "look",
+    "inward",
+    "andlbegin",
+    "raskit",
+    "met",
+    "tor",
+    "cies",
+    "saw",
+    "goldfish",
+    "called",
+    "cleary",
+    "orange"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Color#0001",
+      "doc_id": "wikipedia:Color",
+      "title": "Color",
+      "url": "https://en.wikipedia.org/?curid=5921",
+      "source_type": "wikipedia",
+      "score": 0.8527941286563874,
+      "text": "properties such as hue, colorfulness, and lightness. Colors can also be additively mixed (mixing light) or subtractively mixed (mixing pigments). If one color is mixed in the right proportions, because of metamerism, they may look the same as another stimulus with a different reflection or emission spectrum. For convenience, colors can be organized in a color space, which when being abstracted..."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0000",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.7755210340023041,
+      "text": "Life is matter that has biological processes, such as signaling and the ability to sustain itself. It is defined descriptively by the capacity for homeostasis, organisation, metabolism, growth, adaptation, response to stimuli, and reproduction. All life over time eventually reaches a state of death, and none is immortal. Many philosophical definitions of living systems have been proposed, such as self-organizing systems. Defining life is further complicated by viruses, which replicate only in host cells, and the possibility of extraterrestrial life, which could be very different from life on Earth. Life exists all over the Earth in air, water, and soil, with many ecosystems forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota."
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0001",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.7673215985298156,
+      "text": ". Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution. Memes do this through processes analogous to those of variation, mutation, competition, and inheritance, each of which influences a meme's reproductive success. Memes spread through the behavior that they generate in their hosts. Memes that propagate less prolifically may become extinct, while others may survive, spread, and (for..."
+    },
+    {
+      "chunk_id": "wikipedia:Mouth#0001",
+      "doc_id": "wikipedia:Mouth",
+      "title": "Mouth",
+      "url": "https://en.wikipedia.org/?curid=9293603",
+      "source_type": "wikipedia",
+      "score": 0.709622037410736,
+      "text": "end and an anus at the other. Which end forms first in ontogeny is a criterion used to classify bilaterian animals into protostomes and deuterostomes. Development In the first multicellular animals, there was probably no mouth or gut and food particles were engulfed by the cells on the exterior surface by a process known as endocytosis. The particles became enclosed in vacuoles..."
+    },
+    {
+      "chunk_id": "wikipedia:Green#0001",
+      "doc_id": "wikipedia:Green",
+      "title": "Green",
+      "url": "https://en.wikipedia.org/?curid=12460",
+      "source_type": "wikipedia",
+      "score": 0.7026080667972565,
+      "text": "on a green hue themselves as camouflage. Several minerals have a green color, including the emerald, which is colored green by its chromium content. During post-classical and early modern Europe, green was the color commonly associated with wealth, merchants, bankers, and the gentry, while red was reserved for the nobility. For this reason, the costume of the Mona Lisa by Leonardo da Vinci and the benches in the British House of Commons are green while those in the House of Lords are red. It also has a long historical..."
+    },
+    {
+      "chunk_id": "wikipedia:Green#0000",
+      "doc_id": "wikipedia:Green",
+      "title": "Green",
+      "url": "https://en.wikipedia.org/?curid=12460",
+      "source_type": "wikipedia",
+      "score": 0.6945605099201202,
+      "text": "Green is the color between cyan and yellow on the visible spectrum. It is evoked by light which has a dominant wavelength of roughly 495–570 nm. In subtractive color systems, used in painting and color printing, it is created by a combination of yellow and cyan; in the RGB color model, used on television and computer screens, it is one of the additive primary colors, along with red and blue, which are mixed in different combinations to create all other colors. By far the largest contributor to green in nature is chlorophyll, the chemical by which plants photosynthesize and convert sunlight into chemical energy. Many creatures have adapted to their green environments by taking on a green hue themselves as camouflage. Several minerals have a green color, including the emerald, which is colored green by its chromium content."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0001",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.6853131949901581,
+      "text": "forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota. Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species..."
+    },
+    {
+      "chunk_id": "wikipedia:Color#0000",
+      "doc_id": "wikipedia:Color",
+      "title": "Color",
+      "url": "https://en.wikipedia.org/?curid=5921",
+      "source_type": "wikipedia",
+      "score": 0.6790827631950378,
+      "text": "Color (or colour in Commonwealth English; see spelling differences) is the visual perception based on the electromagnetic spectrum. Though color is not an inherent property of matter, color perception is related to an object's light absorption, emission, reflection and transmission. For most humans, visible wavelengths of light are the ones perceived in the visible light spectrum, with three types of cone cells (trichromacy). Other animals may have a different number of cone cell types or have eyes sensitive to different wavelengths, such as bees that can distinguish ultraviolet, and thus have a different color sensitivity range. Animal perception of color originates from different light wavelength or spectral sensitivity in cone cell types, which is then processed by the brain. Colors have perceived properties such as hue, colorfulness, and lightness. Colors can also be additively mixed (mixing light) or subtractively mixed (mixing pigments)."
+    },
+    {
+      "chunk_id": "wikipedia:Switching#0000",
+      "doc_id": "wikipedia:Switching",
+      "title": "Switching",
+      "url": "https://en.wikipedia.org/?curid=9805562",
+      "source_type": "wikipedia",
+      "score": 0.6526985883712768,
+      "text": "Switching may refer to: Computing and technology Switching, functions performed by a switch: Electronic switching Packet switching, a digital networking communications methodology LAN switching, packet switching on Local Area Networks Telephone switching, the activity performed by a telephone exchange (telephone switching machine) Switching, a synonym for shunting in rail transport Other uses Switching (ecology), a pattern of predation describing predators' selection of food based on its abundance Switching (film), a 2003 Danish interactive film Switching (pickleball), when doubles partners switch sides of their court Code-switching, of languages Immunoglobulin class switching, an immunological mechanism that changes the type of antibody produced by B cells Task switching (psychology), an experimental research paradigm used in cognitive psychology See also Switch (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Disbelief#0000",
+      "doc_id": "wikipedia:Disbelief",
+      "title": "Disbelief",
+      "url": "https://en.wikipedia.org/?curid=7904450",
+      "source_type": "wikipedia",
+      "score": 0.6406221181154251,
+      "text": "Disbelief (sometimes decapitalized to \"disbelief\") is a German heavy metal band from Hesse. Their music is rooted in death metal, but has melancholic tendencies. History The band was formed in 1990, but did not become one solid line-up for several years. They began with Karsten Jäger, Oliver Lenz, and drummer Markus Gnap, with guitarist/bassist Denis Musiol joining later. They released their first demo the following year. After two more demo tapes, five years, and the replacement of Gnap and Musiol with Tommy Fritsch, Jochen Trunk, and Kai Bergerin, they released their self-titled album in 1997. Their second album, Infected, was released in 1998. A year later, they replaced Fritsch with Jan-Dirk Löffler and received a new recording contract from Massacre Records. After a few more albums, they became signed to Nuclear Blast, which distributed their 2004 record, Spreading the Rage, to North America and helped them to gain a wider fanbase."
+    }
+  ]
+}

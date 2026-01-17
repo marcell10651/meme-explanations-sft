@@ -1,0 +1,187 @@
+{
+  "meme_id": "meme_02710",
+  "queries": [
+    "\"their room ALPS\" \"done\" \"something\"",
+    "\"their room ALPS\" \"a cartoon female character\" \"triangular hat\" \"green shirt\"",
+    "\"triangular hat\" \"green shirt\" \"their roommate\" \"done\""
+  ],
+  "primary_terms": [
+    "done",
+    "your roommate",
+    "something",
+    "their room ALPS"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0001",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.6018116772174835,
+      "text": "What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help. Early episodes featured both men and women; however, as the men's transformations did not prove to be as remarkable, all later episodes featured women exclusively. Some episodes featured both the nominee and the nominator being..."
+    },
+    {
+      "chunk_id": "wikipedia:Room#0001",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.5420827120542526,
+      "text": "the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses. The aforementioned Akrotiri excavations reveal rooms sometimes built above other rooms connected by staircases, bathrooms with alabaster appliances such as washbasins, bathing tubs, and toilets, all connected to an elaborate twin plumbing systems of ceramic pipes for cold and hot water separately. Ancient Rome manifested very complex building forms with a variety of room..."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.5272736847400665,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Costume#0001",
+      "doc_id": "wikipedia:Costume",
+      "title": "Costume",
+      "url": "https://en.wikipedia.org/?curid=7673",
+      "source_type": "wikipedia",
+      "score": 0.5242568403482437,
+      "text": "limited to unusual or out-of-date clothing and to attire intended to evoke a change in identity, such as theatrical, Halloween, and mascot costumes. Before the advent of ready-to-wear apparel, clothing was made by hand. When made for commercial sale it was made, as late as the beginning of the 20th century, by \"costumiers\", often women who ran businesses that met the demand for complicated or intimate female..."
+    },
+    {
+      "chunk_id": "wikipedia:Suit#0001",
+      "doc_id": "wikipedia:Suit",
+      "title": "Suit",
+      "url": "https://en.wikipedia.org/?curid=339784",
+      "source_type": "wikipedia",
+      "score": 0.48462049663066864,
+      "text": "clothes. After replacing the black frock coat in the early 20th century as regular daywear, a sober one-coloured suit became known as a lounge suit. Suits are offered in different designs and constructions. Cut and cloth, whether two- or three-piece, single- or double-breasted, vary, in addition to various accessories. A two-piece suit has a jacket and trousers..."
+    },
+    {
+      "chunk_id": "wikipedia:Floor#0001",
+      "doc_id": "wikipedia:Floor",
+      "title": "Floor",
+      "url": "https://en.wikipedia.org/?curid=82926",
+      "source_type": "wikipedia",
+      "score": 0.4566648006439209,
+      "text": "some regions. Special floor structures Where a special floor structure like a floating floor is laid upon another floor, both may be called subfloors. Special floor structures are used for a number of purposes: Balcony, a platform projecting from a wall Floating floor, normally for noise or vibration reduction Glass floor, as in glass bottomed elevators Nightingale floor makes a noise when an intruder walks on it Raised floor, utilities underneath can be accessed easily Sprung floor, improves the performance and safety of athletes..."
+    },
+    {
+      "chunk_id": "wikipedia:In His Image#0001",
+      "doc_id": "wikipedia:In His Image",
+      "title": "In His Image",
+      "url": "https://en.wikipedia.org/?curid=4401031",
+      "source_type": "wikipedia",
+      "score": 0.4526505321264267,
+      "text": "to be real, too real to be a dream. It's called The Twilight Zone. Plot While waiting in a subway station, Alan Talbot is approached by an evangelist. Alan is not interested, but takes the pamphlet she offers in order to appease her; however, the evangelist won't leave him alone. He hears strange electronic noises which prompt him to throw her under a train and then flee..."
+    },
+    {
+      "chunk_id": "wikipedia:Switzerland#0001",
+      "doc_id": "wikipedia:Switzerland",
+      "title": "Switzerland",
+      "url": "https://en.wikipedia.org/?curid=26748",
+      "source_type": "wikipedia",
+      "score": 0.44354304671287537,
+      "text": "linguistic and cultural regions—German, French, Italian, and Romansh—reflecting a long-standing tradition of multilingualism and cultural pluralism. Swiss national identity nonetheless remains fairly cohesive, rooted in a shared historical background, common values such as federalism and direct democracy, and Alpine symbolism. Swiss nationhood transcends language, ethnicity, and religion, leading..."
+    },
+    {
+      "chunk_id": "wikipedia:WITS#0000",
+      "doc_id": "wikipedia:WITS",
+      "title": "WITS",
+      "url": "https://en.wikipedia.org/?curid=3083596",
+      "source_type": "wikipedia",
+      "score": 0.44217585027217865,
+      "text": "WITS or Wits may refer to: Acronym Wales Interpretation and Translation Service, a Welsh not-for-profit organisation Water Industry Telemetry Standard, a communications protocol Wellsite Information Transfer Specification, used by the petroleum industry Women in Technology and Science, an Irish organisation Workshop on Information Technologies and Systems, an academic conference on information systems World Integrated Trade Solution, a trade database provided by the World Bank Worldwide Incidents Tracking System, a discontinued publicly accessible terrorism database Worldwide Industrial Telemetry Standards, a suite of public utility protocols Arts and entertainment The Wits, a 17th-century English comedy play by Sir William Davenant The Wits, a 17th-century collection of comic sketches by Francis Kirkman the title school of WITS Academy, a 2015 teen sitcom on Nickelodeon Other uses Herman Wits (1636–1708), Dutch theologian Bidvest Wits F.C., a South African football club University of"
+    },
+    {
+      "chunk_id": "wikipedia:SpongeBob SquarePants#0000",
+      "doc_id": "wikipedia:SpongeBob SquarePants",
+      "title": "SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/?curid=2655089",
+      "source_type": "wikipedia",
+      "score": 0.44150248169898987,
+      "text": "SpongeBob SquarePants is an American animated comedy television series created by marine science educator and animator Stephen Hillenburg for Nickelodeon. It first aired as a sneak peek after the 1999 Kids' Choice Awards on May 1, 1999, and officially premiered on July 17, 1999. It chronicles the adventures of the titular character and his aquatic friends in the underwater city of Bikini Bottom. Many of the series' ideas originated in The Intertidal Zone, an unpublished educational comic book Hillenburg created in the 1980s to teach his students about undersea life. Hillenburg joined Nickelodeon in 1992 as an artist on Rocko's Modern Life. After Rocko was cancelled in 1996, he began developing SpongeBob SquarePants into a television series, and in 1997, a seven-minute pilot was pitched to Nickelodeon. The network's executives wanted SpongeBob to be a child in school, but Hillenburg preferred SpongeBob to be an adult character."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a cartoon female character with eyes wide open, hands in a ball, triangular hat wearing green shirt and hat",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a cartoon female character",
+          "eyes",
+          "hands",
+          "triangular hat",
+          "green shirt",
+          "hat"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is scared their roommate is hurt after getting into a argument",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their roommate"
+        ]
+      },
+      "title": {
+        "text": "What have I done?",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "done"
+        ]
+      },
+      "text": {
+        "text": "When you get into an argument with your roommate and a few minutes ater you hear something fall in their room ALPS",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "your roommate",
+          "something",
+          "their room ALPS"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "done",
+      "your roommate",
+      "something",
+      "their room ALPS"
+    ],
+    "secondary_terms": [
+      "a cartoon female character",
+      "eyes",
+      "hands",
+      "triangular hat",
+      "green shirt",
+      "hat",
+      "their roommate"
+    ],
+    "queries": [
+      "\"their room ALPS\" \"done\" \"something\"",
+      "\"their room ALPS\" \"a cartoon female character\" \"triangular hat\" \"green shirt\"",
+      "\"triangular hat\" \"green shirt\" \"their roommate\" \"done\""
+    ]
+  },
+  "source_jsonl_id": null
+}

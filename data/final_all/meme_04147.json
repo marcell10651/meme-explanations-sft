@@ -1,0 +1,217 @@
+{
+  "meme_id": "meme_04147",
+  "queries": [
+    "\"THE FURNITURE DEPARTMENT\" \"SAD FLOOR\" \"Ticketmaster\" \"still\"",
+    "\"Ticketmaster\" \"still\" \"better\" \"than\""
+  ],
+  "primary_terms": [
+    "Ticketmaster",
+    "still",
+    "better",
+    "than",
+    "SAD FLOOR",
+    "THE FURNITURE DEPARTMENT",
+    "tachetagn",
+    "twas",
+    "gowhen",
+    "wentitothe",
+    "sad",
+    "floor",
+    "sears",
+    "behind",
+    "furniture",
+    "department",
+    "buy",
+    "concert",
+    "tickets"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Calm#0001",
+      "doc_id": "wikipedia:Calm",
+      "title": "Calm",
+      "url": "https://en.wikipedia.org/?curid=3042950",
+      "source_type": "wikipedia",
+      "score": 0.5728542774915695,
+      "text": "Miserably, a UK charity Department of Conservation and Land Management (Western Australia) Laws Commercial Advertisement Loudness Mitigation Act, U.S. legislation prohibiting TV commercials from being louder than the program on which they are shown Conservation and Land Management Act 1984, or CALM Act, Western Australian legislation that created the Department of Conservation and Land Management People Jonathan Calm (born 1971), American visual artist Marie Calm (1832..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.5709168970584869,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Better#0000",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.535501754283905,
+      "text": "Better may refer to: \"to better\" as a verb, meaning to undergo betterment better, an alternate spelling of bettor, someone who bets (gambles) Music Albums Better (Chrisette Michele album), 2013 Better (Brian McKnight album), 2016 Better (Haley Reinhart album), 2016 Better (BoA album), 2020 Songs \"Better\" (The Screaming Jets song), 1991 \"Better\" (Brooke Fraser song), 2003 \"Better\" (Tom Baxter song)\", 2007, covered by Boyzone in 2008 \"Better\" (Guns N' Roses song), 2008 \"Better\" (Maggie Rose song), 2012 \"Better\" (Kim Hyung-jun song), 2014 \"Better\" (Banks song), 2015 \"Better\" (Haley Reinhart song), 2016 \"Better\" (Meghan Trainor song), 2016 \"Better\" (Mallrat song), 2017 \"Better\" (Khalid song), 2018 \"Better\" (Lena Meyer-Landrut and Nico Santos song), 2019 \"Better\" (Twice song), 2020 \"Better\" (Zayn song), 2020 \"Better\" (MK and Burns song), 2022 \"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000"
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0001",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.5267243653535842,
+      "text": "USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the 2014 album Sweet Talker \"Loud\", a 2006 single by Masters at Work with Beto Cuevas \"Loud\", a song by Matt Nathanson from the 1999 album Still Waiting for Spring \"Loud\", an additional..."
+    },
+    {
+      "chunk_id": "wikipedia:Store#0000",
+      "doc_id": "wikipedia:Store",
+      "title": "Store",
+      "url": "https://en.wikipedia.org/?curid=43365305",
+      "source_type": "wikipedia",
+      "score": 0.4785736620426178,
+      "text": "Store may refer to: Enterprises Retail store, a shop where merchandise is sold, usually products and usually on a retail basis, and where wares are often kept App store, an online retail store where apps are sold, included in many mobile operating systems Department store, a retail store offering a wide range of consumer goods Warehouse club (or wholesale club), a no-frills retail store, usually selling a wide variety of merchandise, in which customers may buy large, wholesale quantities at low prices Warehouse, a location where items are stored, e.g., a ship's paint store, and sometimes sold, e.g., Costco Warehouse Club Arts, entertainment, and media The Store (ITV), a British shopping television programming on ITV1 The Store (novel), a 1932 novel by Thomas Sigismund Stribling \"Store\", a song by Carly Rae Jepsen from the EP Emotion: Side B Other uses Data store, a repository for persistently storing and managing collections of data Štore, a town and a municipality in eastern Slovenia"
+    },
+    {
+      "chunk_id": "wikipedia:The Walt Disney Company#0001",
+      "doc_id": "wikipedia:The Walt Disney Company",
+      "title": "The Walt Disney Company",
+      "url": "https://en.wikipedia.org/?curid=37398",
+      "source_type": "wikipedia",
+      "score": 0.4445882737636566,
+      "text": "theme parks in the 1950s. However, following Walt Disney's death in 1966, the company's profits, especially in the animation sector, began to decline. In 1984, Disney's shareholders voted Michael Eisner as CEO, who led a reversal of the company's decline through a combination of international theme park expansion and the highly successful Disney Renaissance period..."
+    },
+    {
+      "chunk_id": "wikipedia:Better#0001",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.4292984068393707,
+      "text": "\"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000 single for the Erasure song, \"Freedom\" \"Better\", a 2001 song by Hoobastank from the album, Hoobastank \"Better\", a 2005 song by Plumb from the album, Chaotic Resolve \"Better\", a 2005..."
+    },
+    {
+      "chunk_id": "wikipedia:Floor#0001",
+      "doc_id": "wikipedia:Floor",
+      "title": "Floor",
+      "url": "https://en.wikipedia.org/?curid=82926",
+      "source_type": "wikipedia",
+      "score": 0.4015175461769104,
+      "text": "some regions. Special floor structures Where a special floor structure like a floating floor is laid upon another floor, both may be called subfloors. Special floor structures are used for a number of purposes: Balcony, a platform projecting from a wall Floating floor, normally for noise or vibration reduction Glass floor, as in glass bottomed elevators Nightingale floor makes a noise when an intruder walks on it Raised floor, utilities underneath can be accessed easily Sprung floor, improves the performance and safety of athletes..."
+    },
+    {
+      "chunk_id": "wikipedia:Rover#0001",
+      "doc_id": "wikipedia:Rover",
+      "title": "Rover",
+      "url": "https://en.wikipedia.org/?curid=1747355",
+      "source_type": "wikipedia",
+      "score": 0.3825233727693558,
+      "text": "University of California Los Angeles \"The Rover\" (Led Zeppelin song), a song by Led Zeppelin on their 1975 double album Physical Graffiti \"The Irish Rover\", an Irish folk song about a magnificent sailing ship that reaches an unfortunate end The Wild Rover, an English folk song about a rover Rover (EP), a 2023 extended..."
+    },
+    {
+      "chunk_id": "wikipedia:WOUR#0001",
+      "doc_id": "wikipedia:WOUR",
+      "title": "WOUR",
+      "url": "https://en.wikipedia.org/?curid=5292420",
+      "source_type": "wikipedia",
+      "score": 0.38194137811660767,
+      "text": "owned by the Brinsfield Broadcasting Company. In 1970, it changed its format to the syndicated automated Adult Top 40 \"Hit Parade '70\" service. In 1971, it programmed \"Hit Parade '71\" by day, and progressive rock at night, with a live disc jockey during the rock hours. In 1973, WOUR became a full-time progressive rock station. Over time, the format segued to only the top tracks from the biggest..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Elrond looks concerned staring straight ahead.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Elrond"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey they dislike Ticketmaster",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "title": {
+        "text": "Still better than Ticketmaster!!",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Ticketmaster",
+          "still",
+          "better",
+          "than"
+        ]
+      },
+      "text": {
+        "text": "TAChETAGN TWAS\\THEREJOOOWEARS GOWHEN™ YOU WENTITOTHE SAD FLOOR OF SEARS BEHIND THE FURNITURE DEPARTMENT,T0 BUY. CONCERT;TICKETS",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "SAD FLOOR",
+          "THE FURNITURE DEPARTMENT",
+          "tachetagn",
+          "twas",
+          "gowhen",
+          "wentitothe",
+          "sad",
+          "floor",
+          "sears",
+          "behind",
+          "furniture",
+          "department",
+          "buy",
+          "concert",
+          "tickets"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Ticketmaster",
+      "still",
+      "better",
+      "than",
+      "SAD FLOOR",
+      "THE FURNITURE DEPARTMENT",
+      "tachetagn",
+      "twas",
+      "gowhen",
+      "wentitothe",
+      "sad",
+      "floor",
+      "sears",
+      "behind",
+      "furniture",
+      "department",
+      "buy",
+      "concert",
+      "tickets"
+    ],
+    "secondary_terms": [
+      "Elrond"
+    ],
+    "queries": [
+      "\"THE FURNITURE DEPARTMENT\" \"SAD FLOOR\" \"Ticketmaster\" \"still\"",
+      "\"Ticketmaster\" \"still\" \"better\" \"than\""
+    ]
+  },
+  "source_jsonl_id": null
+}

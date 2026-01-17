@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_05197",
+  "queries": [
+    "\"Reddit\" \"THEWCANTT DRAW{STANDARDS\" \"ANY WHER\" \"San\" \"cant\"",
+    "\"Reddit\" \"THEWCANTT DRAW{STANDARDS\" \"ANY WHER\" \"One half\"",
+    "\"ANY WHER\" \"One half\" \"the real world\" \"San\""
+  ],
+  "primary_terms": [
+    "cant",
+    "draw",
+    "THEWCANTT DRAW{STANDARDS",
+    "ANY WHER",
+    "San"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.7749835312366485,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Drawing#0001",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.7531410813331604,
+      "text": "and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas. The wide availability of drawing instruments makes drawing one of the most common artistic activities. In addition to its more artistic forms, drawing is frequently used in commercial illustration, animation, architecture,..."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0001",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.726949155330658,
+      "text": "an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even (band), an Australian alternative rock band \"Even\", a song by Chris Brown from his 2017 album Heartbreak on a Full Moon Even Hotels, one of brands of IHG Hotels & Resorts See also Evens..."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.7210680544376373,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0001",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.6561057269573212,
+      "text": "the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element. The objective can be clarity or effective communication, association with other cultural elements, or merely the creation of a distinctive style. Graphics can be functional or artistic. The latter can be a recorded version, such as a photograph, or an interpretation by a scientist to highlight..."
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0001",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.6552573144435883,
+      "text": "or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover (theater), a walkway across the stage hidden from the audience Crossover thrash, a musical genre combining thrash and punk Crossover (video games) The Crossover..."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0001",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.6515933036804199,
+      "text": ". It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world. According to data provided by Similarweb, 51.75% of the website traffic comes from the United States, followed by Canada at 7.01%, the United Kingdom at 6.97%, Australia at 3.97%, Germany at 3%, and the remaining 28.37% split among other countries. Reddit was founded by University of Virginia roommates Steve Huffman and Alexis Ohanian in June 2005, who were joined..."
+    },
+    {
+      "chunk_id": "wikipedia:One half#0000",
+      "doc_id": "wikipedia:One half",
+      "title": "One half",
+      "url": "https://en.wikipedia.org/?curid=464963",
+      "source_type": "wikipedia",
+      "score": 0.6261341422796249,
+      "text": "One half is the multiplicative inverse of 2. It is an irreducible fraction with a numerator of 1 and a denominator of 2. It often appears in mathematical equations, recipes and measurements. As a word One half is one of the few fractions which are commonly expressed in natural languages by suppletion rather than regular derivation. In English, for example, compare the compound \"one half\" with other regular formations like \"one-sixth\". A half can also be said to be one part of something divided into two equal parts. It is acceptable to write one half as a hyphenated word, one-half. Mathematics One half is the rational number that lies midway between 0 and 1 on the number line. Multiplication by one half is equivalent to division by two, or \"halving\"; conversely, division by one half is equivalent to multiplication by two, or \"doubling\". A number raised to the power of one half is equal to its square root. This follows from the fact that when multiplying powers, the exponents add."
+    },
+    {
+      "chunk_id": "wikipedia:Instagram#0001",
+      "doc_id": "wikipedia:Instagram",
+      "title": "Instagram",
+      "url": "https://en.wikipedia.org/?curid=31591547",
+      "source_type": "wikipedia",
+      "score": 0.5780944526195526,
+      "text": "distinguished by allowing content to be framed only in a square (1:1) aspect ratio of 640 pixels to match the display width of the iPhone at the time. In 2015, this restriction was eased with an increase to 1080 pixels. It also added messaging features, the ability to include multiple images or videos in a single post, and a Stories feature—similar to..."
+    },
+    {
+      "chunk_id": "wikipedia:Drawing#0000",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.5651876538991928,
+      "text": "Drawing is a visual art that uses an instrument to mark paper or another two-dimensional surface, or a digital representation of such. Traditionally, the instruments used to create a drawing include pencils, crayons, and ink pens, sometimes in combination. More modern tools include computer styluses with mice and graphics tablets and gamepads in VR drawing software. A drawing instrument releases a small amount of material onto a surface, leaving a visible mark. There are many drawing instruments such as pen, pencils, pastel, crayons, markers, color pencils, water color, and more. The most common support for drawing is paper, although other materials, such as cardboard, vellum, wood, plastic, leather, canvas, and board, have been used. Temporary drawings may be made on a blackboard or whiteboard. Drawing has been a popular and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas."
+    }
+  ]
+}

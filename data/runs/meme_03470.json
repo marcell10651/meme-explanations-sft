@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_03470",
+  "queries": [
+    "\"Quiet Quitting\" \"Silent Celibacy\" \"fear\" \"nothing\"",
+    "\"The top half\" \"Quiet Quitting\" \"Silent Celibacy\" \"its eyes\"",
+    "\"Silent Celibacy\" \"its eyes\" \"the fact\" \"fear\""
+  ],
+  "primary_terms": [
+    "True fear",
+    "fear",
+    "Quiet Quitting",
+    "nothing",
+    "Silent Celibacy"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Silence#0000",
+      "doc_id": "wikipedia:Silence",
+      "title": "Silence",
+      "url": "https://en.wikipedia.org/?curid=440579",
+      "source_type": "wikipedia",
+      "score": 1.235651671886444,
+      "text": "Silence is the absence of ambient audible sound, the emission of sounds of such low intensity that they do not draw attention to themselves, or the state of having ceased to produce sounds; this latter sense can be extended to apply to the cessation or absence of any form of communication, whether through speech or other medium. Remaining mute can be a symptom of mental illness. Sometimes speakers fall silent when they hesitate in searching for a word, or interrupt themselves before correcting themselves. Discourse analysis shows that people use brief silences to mark the boundaries of prosodic units, in turn-taking, or as reactive tokens, for example, as a sign of displeasure, disagreement, embarrassment, desire to think, confusion, and the like. Relatively prolonged intervals of silence can be used in rituals; in some religious disciplines, people maintain silence for protracted periods, or even for the rest of their lives, as an ascetic means of spiritual transformation."
+    },
+    {
+      "chunk_id": "wikipedia:Quiet#0001",
+      "doc_id": "wikipedia:Quiet",
+      "title": "Quiet",
+      "url": "https://en.wikipedia.org/?curid=1612819",
+      "source_type": "wikipedia",
+      "score": 1.2028296291828156,
+      "text": "The Quiet, an album by Bella Morte \"Quiet\", a song by Tim Minchin from the musical Matilda In religion Prayer of Quiet, a term from Christian theology relating to degrees of contemplation or contemplative prayer Quietism (Christian philosophy) Quiet Time Other Buy Quiet, an American health and safety initiative to select and purchase the..."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.934698611497879,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Fear#0000",
+      "doc_id": "wikipedia:Fear",
+      "title": "Fear",
+      "url": "https://en.wikipedia.org/?curid=10828",
+      "source_type": "wikipedia",
+      "score": 0.9299392759799957,
+      "text": "Fear is an unpleasant subjective emotional state arising in response to perceived dangers or threats and which, when experienced, is typically associated with physiological and psychological changes. These changes frequently lead to behavioral reactions such as fight-or-flight responses or, in extreme cases, immobilization (freeze response). Unlike most (perhaps all) other animals, humans can experience fear in response to a present or anticipated stimulus and to imagined events. Most internalizing psychopathologies (depression, anxiety, suicidal thoughts and behaviors, and so forth) are associated with and maintained by dysfunctional, anxious, or fearful feelings and thoughts. Phobias, or exaggerated and often disabling fears, are usually similarly dysfunctional. Fear is often framed as a distinct product of evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Staring#0000",
+      "doc_id": "wikipedia:Staring",
+      "title": "Staring",
+      "url": "https://en.wikipedia.org/?curid=4409451",
+      "source_type": "wikipedia",
+      "score": 0.9181039780378342,
+      "text": "Staring is a prolonged gaze or fixed look. In staring, one subject or person is the continual focus of visual interest, for a long amount of time. The meaning, purpose, and rudeness, of staring varies widely between cultures. Staring can be interpreted as being either hostile like disapproval of another's behavior, or the result of intense concentration, interest or affection. Staring behavior can be considered as a form of aggression like when it is an invasion of an individual's privacy in certain contexts, or as a nonverbal cue to convey feelings of attraction in a social setting. The resultant behavior or action defines whether it is aggressive in nature (e.g. leering that results in street harassment), passive or active expression of attraction, etc. However, to some extent staring often occurs accidentally, and often a person would be simply staring into a space for awareness, or could be lost in thought (sometimes known as daydreaming), stupefied, or be unable to see."
+    },
+    {
+      "chunk_id": "wikipedia:Fear#0001",
+      "doc_id": "wikipedia:Fear",
+      "title": "Fear",
+      "url": "https://en.wikipedia.org/?curid=10828",
+      "source_type": "wikipedia",
+      "score": 0.8012936472892761,
+      "text": ". Phobias, or exaggerated and often disabling fears, are usually similarly dysfunctional. Fear is often framed as a distinct product of evolution. This hypothesis, however, is becoming increasingly problematic because the psychological, (neuro)physiological, and behavioral changes and features associated with fear are consistently found to be shared with other negative, highly arousing emotional states such as anger, sadness, disgust, and anxiety. A more scientifically defensible product of evolution is flexibility..."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0000",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.7733795046806335,
+      "text": "Muteness is a speech disorder in which a person lacks the ability to speak. Mute, Mutes or the Mute may also refer to: Arts and entertainment Film and television Mute (2005 film), a short film by Melissa Joan Hart Mute (2018 film), a science-fiction thriller directed by Duncan Jones \"Mute\" (The Twilight Zone), a 1963 episode of The Twilight Zone Muted (TV series), a 2023 Spanish Netflix series Mutes, anthropomorphic animals in the American animated television series Kipo and the Age of Wonderbeasts Music Mute (music), a device used to alter the sound of a musical instrument Left-hand muting or palm mute, guitar muting techniques Mute Records, a record label in the United Kingdom Mute (album), a 2000 indie rock compilation album from Hush Records Muted (album), a 2003 album from hip hop artist Alias In print Mute (novel), a 1981 novel by Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture"
+    },
+    {
+      "chunk_id": "wikipedia:Post-credits scene#0001",
+      "doc_id": "wikipedia:Post-credits scene",
+      "title": "Post-credits scene",
+      "url": "https://en.wikipedia.org/?curid=6107731",
+      "source_type": "wikipedia",
+      "score": 0.7256332039833069,
+      "text": "so a singer could repeat an aria, but fell out of favor in the 1920s due to rising emphasis on dramatic storytelling rather than vocal performance. The first general release film to feature a post-credits scene is The Silencers, released in March 1966. The scene depicts lead character Matt Helm (played by Dean Martin) lying shirtless on what appears to be a rotating sofa along with 10 scantily-clad women. He kisses..."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0000",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.7209520637989044,
+      "text": "Fuck () is a profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives (such as fucker and fucking) are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off. Offensiveness It is unclear whether the word has always been considered a pejorative or, if not, when it first came to be used to describe (often in an extremely angry, hostile, or belligerent manner) unpleasant circumstances or people in an intentionally offensive way, such as in the term motherfucker, one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0000",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.7021092534065246,
+      "text": "Disorder may refer to randomness, a lack of intelligible pattern, or: Healthcare Disorder (medicine), a functional abnormality or disturbance Mental disorder or psychological disorder, a psychological pattern associated with distress or disability that occurs in a person and is not a part of normal development or culture: Anxiety disorder, different forms of abnormal and pathological fear and anxiety Attention-deficit hyperactivity disorder Autism spectrum disorder Conversion disorder, neurological symptoms such as numbness, blindness, paralysis, or fits, where no neurological explanation is possible Obsessive–compulsive disorder, an anxiety disorder characterized by repetitive behaviors aimed at reducing anxiety Obsessive–compulsive personality disorder, obsession with perfection, rules, and organization Personality disorder, an enduring pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement"
+    }
+  ]
+}

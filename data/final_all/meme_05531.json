@@ -1,0 +1,186 @@
+{
+  "meme_id": "meme_05531",
+  "queries": [
+    "\"CAT COULD DECORATE\" \"THE HOUSE\" \"building\" \"levels\"",
+    "\"CAT COULD DECORATE\" \"a cat theme park\" \"THE HOUSE\" \"his head\"",
+    "\"THE HOUSE\" \"his head\" \"building\" \"levels\""
+  ],
+  "primary_terms": [
+    "building",
+    "levels",
+    "CAT COULD DECORATE",
+    "THE HOUSE",
+    "yececicenerels"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:House#0000",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 1.253719699382782,
+      "text": "A house is a single-unit residential building. It may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems. Houses use a range of different roofing systems to keep precipitation such as rain from getting into the dwelling space. Houses generally have doors or locks to secure the dwelling space and protect its inhabitants and contents from burglars or other trespassers. Most conventional modern houses in Western cultures will contain one or more bedrooms and bathrooms, a kitchen or cooking area, and a living room. A house may have a separate dining room, or the eating area may be integrated into the kitchen or another room. Some large houses in North America have a recreation room. In traditional agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0000",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 1.0733546614646912,
+      "text": "A home, or domicile, is a space used as a permanent or semi-permanent residence for one or more human occupants, and sometimes various companion animals. Homes provide sheltered spaces, for instance rooms, where domestic activity can be performed such as sleeping, preparing food, eating and hygiene as well as providing spaces for work and leisure such as remote working, studying and playing. Physical forms of homes can be static such as a house or an apartment, mobile such as a houseboat, trailer or yurt or digital such as virtual space. The aspect of 'home' can be considered across scales; from the micro scale showcasing the most intimate spaces of the individual dwelling and direct surrounding area to the macro scale of the geographic area such as town, village, city, country or planet. The concept of 'home' has been researched and theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics."
+    },
+    {
+      "chunk_id": "wikipedia:Floor#0000",
+      "doc_id": "wikipedia:Floor",
+      "title": "Floor",
+      "url": "https://en.wikipedia.org/?curid=82926",
+      "source_type": "wikipedia",
+      "score": 0.9809852361679077,
+      "text": "A floor is the bottom surface of a room or vehicle. Floors vary from simple dirt in a cave to many layered surfaces made with modern technology. Floors may be stone, wood, bamboo, metal, or any other material that can support the expected load. The levels of a building are often referred to as floors, although sometimes referred to as storeys. Floors typically consist of a subfloor for support and a floor covering used to give a good walking surface. In modern buildings, the subfloor often has electrical wiring, plumbing, and other services built in. As floors must meet many needs, some essential to safety, floors are built to strict building codes in some regions. Special floor structures Where a special floor structure like a floating floor is laid upon another floor, both may be called subfloors."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0001",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.9097848445177078,
+      "text": "a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly. Where the hall inside the front door of a house is elongated, it may be called a passage, corridor (from Spanish corredor used in El Escorial and 100 years later in Castle Howard), or hallway. History In warmer climates, the houses of the wealthy were often built around a courtyard, but in northern areas manors were built around a great hall. The hall was home to the hearth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.8501402288675308,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:Kirby#0001",
+      "doc_id": "wikipedia:Kirby",
+      "title": "Kirby",
+      "url": "https://en.wikipedia.org/?curid=706419",
+      "source_type": "wikipedia",
+      "score": 0.8369190156459808,
+      "text": "an episode of the television series Dynasty Kirby: King of Comics, a 2008 biography by Mark Evanier Buildings Kirby Building, a skyscraper in Dallas, Texas, United States Kirby Lofts, a building in Houston, Texas, United States Kirby Hall, an Elizabethan country house near Corby, Northamptonshire, England Kirby House..."
+    },
+    {
+      "chunk_id": "wikipedia:House#0001",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.8268834561109543,
+      "text": "agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans. The social unit that lives in a house is known as a household. Most commonly, a household is a family unit of some kind, although households may also have other social groups, such as roommates or, in a rooming..."
+    },
+    {
+      "chunk_id": "wikipedia:Post#0001",
+      "doc_id": "wikipedia:Post",
+      "title": "Post",
+      "url": "https://en.wikipedia.org/?curid=230424",
+      "source_type": "wikipedia",
+      "score": 0.7774297952651977,
+      "text": "Post (structural), timber framing Post and lintel, a building system Scratch post Steel fence post Trading post Utility pole or utility post Military Military base, an assigned station or a guard post Outpost (military), a military outpost Guardpost, or guardhouse Geography Post, Iran, a village in West Azerbaijan Province..."
+    },
+    {
+      "chunk_id": "wikipedia:His House#0000",
+      "doc_id": "wikipedia:His House",
+      "title": "His House",
+      "url": "https://en.wikipedia.org/?curid=62897844",
+      "source_type": "wikipedia",
+      "score": 0.7721456736326218,
+      "text": "His House is a 2020 folk horror thriller film written and directed by Remi Weekes, from a story by Felicity Evans and Toby Venables. It stars Wunmi Mosaku, Sope Dirisu and Matt Smith. The film tells the story of a refugee couple from South Sudan, struggling to adjust to their new life in an English town that has an evil lurking beneath the surface. It had its world premiere at the 2020 Sundance Film Festival on 27 January 2020. It was released on 30 October 2020 by Netflix, and received widespread acclaim from critics. Plot Bol and Rial are refugees fleeing with their daughter, Nyagak, from war-torn South Sudan. They brave stormy waters on an overcrowded motorboat, along with fellow refugees traversing the perilous English Channel from France to seek asylum. Although they survive the treacherous crossing, their daughter and many others do not."
+    },
+    {
+      "chunk_id": "wikipedia:Mother!#0001",
+      "doc_id": "wikipedia:Mother!",
+      "title": "Mother!",
+      "url": "https://en.wikipedia.org/?curid=48213513",
+      "source_type": "wikipedia",
+      "score": 0.7568100363016128,
+      "text": "States by Paramount Pictures on September 15, 2017. The film grossed $44.5 million worldwide. It received generally positive reviews from critics. Plot In the burned-out remains of a large house, Him, an acclaimed poet struggling with writer's block, places a crystal object on a pedestal in his study, and the building morphs into a beautiful home in an edenic landscape. Mother, the poet's wife and muse, awakens in her bed and wonders aloud where he is. While renovating the house, she occasionally visualizes a beating heart within its walls. One day, a stranger..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is trying to explain things with a cat over his head.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "things",
+          "his head"
+        ]
+      },
+      "meme_captions": {
+        "text": "Poster thinks cat would make the house into a cat theme park",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "cat",
+          "the house",
+          "a cat theme park"
+        ]
+      },
+      "title": {
+        "text": "I'm building levels!",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "building",
+          "levels"
+        ]
+      },
+      "text": {
+        "text": "[F.MY. CAT COULD DECORATE, THE HOUSE [ou aK a 4 fas ‘ | a inp ta J r a onan a , ret aia ee ee tl A Pe -? me : on Vr \\ “PAN ran ; ‘L=> sypeey FL EL em Were yececicenerels: )",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "CAT COULD DECORATE",
+          "THE HOUSE",
+          "yececicenerels"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "building",
+      "levels",
+      "CAT COULD DECORATE",
+      "THE HOUSE",
+      "yececicenerels"
+    ],
+    "secondary_terms": [
+      "things",
+      "his head",
+      "cat",
+      "the house",
+      "a cat theme park"
+    ],
+    "queries": [
+      "\"CAT COULD DECORATE\" \"THE HOUSE\" \"building\" \"levels\"",
+      "\"CAT COULD DECORATE\" \"a cat theme park\" \"THE HOUSE\" \"his head\"",
+      "\"THE HOUSE\" \"his head\" \"building\" \"levels\""
+    ]
+  },
+  "source_jsonl_id": null
+}

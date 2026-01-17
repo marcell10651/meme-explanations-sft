@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_01321",
+  "queries": [
+    "\"Level\" \"laziness\" \"call\" \"matter\"",
+    "\"call\" \"matter\" \"day\" \"night\""
+  ],
+  "primary_terms": [
+    "Level",
+    "laziness",
+    "call",
+    "matter",
+    "day",
+    "night",
+    "there",
+    "also"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Morning#0000",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.7968678712844849,
+      "text": "Morning is either the period from sunrise to noon, or the period from midnight to noon. In the first definition it is preceded by the twilight period of dawn, and there are no exact times for when morning begins (also true of evening and night) because it can vary according to one's latitude, and the hours of daylight at each time of year. However, morning strictly ends at noon, when afternoon starts. Morning precedes afternoon, evening, and night in the sequence of a day. Originally, the term referred to sunrise. Etymology The Modern English words \"morning\" and \"tomorrow\" began in Middle English as morwening, developing into morwen, then morwe, and eventually morrow. English, unlike some other languages, has separate terms for \"morning\" and \"tomorrow\", despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\"."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0001",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.7960224211215973,
+      "text": "between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another. The dominant philosophical position since the 20th century has been physicalism, which says that everything is material, meaning that minds are certain aspects or features of some material objects. The evolutionary history of the mind is tied to the development of nervous systems, which..."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0001",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.747001338005066,
+      "text": "sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep. Synonyms In boarding schools and on trips or holidays that involve young people, the equivalent of bedtime is lights out or lights-out - this term is also used in prisons, hospitals, in the military, and in sleep research..."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0000",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.7260016471147537,
+      "text": "Even may refer to: General Even (company), a Brazilian construction and real estate company Even (given name), a Norwegian male personal name Even (surname), a Breton surname Even (people), an ethnic group from Siberia and Russian Far East Even language, a language spoken by the Evens Odd and Even, a solitaire game which is played with two decks of playing cards Evening, the period of a day that begins at the end of daylight and overlaps with the beginning of night Science and technology In mathematics, the term even is used in several senses related to odd: even and odd numbers, an integer is even if dividing by two yields an integer even and odd functions, a function is even if f(−x) = f(x) for all x even and odd permutations, a permutation of a finite set is even if it is composed of an even number of transpositions Singly even number, an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even"
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.6594958215951919,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0001",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.6499023646116256,
+      "text": "such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns. Under the name of magnitude comes what is continuous and unified and divisible only into smaller divisibles, such as: matter, mass, energy, liquid, material—all cases of non-collective nouns. Along with analyzing its nature and classification, the issues of quantity involve such closely related topics as dimensionality..."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0000",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.6299852013587952,
+      "text": "Bedtime (also called putting to bed or tucking in) is a ritual part of parenting to help children feel more secure and become accustomed to a more rigid schedule of sleep than they might prefer. The ritual of bedtime is aimed at facilitating the transition from wakefulness to sleep. It may involve bedtime stories, children's songs, nursery rhymes, bed-making and getting children to change into nightwear. In some religious households, prayers are said shortly before going to bed. Sleep training may be part of the bedtime ritual for babies and toddlers. In adult use, the term means simply \"time for bed\", similar to curfew, as in \"It's past my bedtime\". Some people are accustomed to drinking a nightcap or herbal tea at bedtime. Sleeping coaches are also used to help individuals reach their bedtime goals. Researchers studying sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep."
+    },
+    {
+      "chunk_id": "wikipedia:Work#0000",
+      "doc_id": "wikipedia:Work",
+      "title": "Work",
+      "url": "https://en.wikipedia.org/?curid=33663",
+      "source_type": "wikipedia",
+      "score": 0.5915843456983566,
+      "text": "Work may refer to: Work (human activity), intentional activity people perform to support themselves, others, or the community Manual labour, physical work done by humans House work, housework, or homemaking Working animal, an animal trained by humans to perform tasks Work (physics), the product of force and displacement Work (electric field), the work done on a charged particle by an electric field Work (thermodynamics), energy transferred by the system to its surroundings Creative work, a manifestation of creative effort Work of art, an artistic creation of aesthetic value Career, an individual's journey through learning, work and other aspects of life Employment, a relationship between two parties where work is paid for Broadcast call signs WORK (FM), now WRFK (FM), an American radio station in Vermont WORK-LP, an American low-power TV station in New Hampshire WOYK, an American AM radio station in Pennsylvania, known as WORK 1932–1973 Music The Work (band), an English post-punk rock"
+    },
+    {
+      "chunk_id": "wikipedia:Call#0001",
+      "doc_id": "wikipedia:Call",
+      "title": "Call",
+      "url": "https://en.wikipedia.org/?curid=40829",
+      "source_type": "wikipedia",
+      "score": 0.571441388130188,
+      "text": "Computing Call, a shell command in DOS, OS/2 and Microsoft Windows command-line interpreters Call, a method of invoking a subroutine, including perhaps a system call, where a program to requests service from the operating system Computer-assisted language learning, a concept in language education..."
+    },
+    {
+      "chunk_id": "wikipedia:Diligence#0000",
+      "doc_id": "wikipedia:Diligence",
+      "title": "Diligence",
+      "url": "https://en.wikipedia.org/?curid=18483349",
+      "source_type": "wikipedia",
+      "score": 0.5555731534957886,
+      "text": "Diligence—carefulness and persistent effort or work—is listed as one of the seven capital virtues. It can be indicative of a work ethic, the belief that work is good in itself. \"There is a perennial nobleness, and even sacredness, in work. Were he never so benighted, forgetful of his high calling, there is always hope in a man that actually and earnestly works: in idleness alone there is perpetual despair.\" —Thomas Carlyle In students Bernard et al. define diligence in students as the effort they put toward balanced and holistic development in mental, physical, social, and spiritual dimensions. They find that it correlates with academic performance, especially with younger students, and that the support of parents and educators encourages students to be diligent. Other factors that encourage student diligence include motivation, discipline, concentration, responsibility, and devotedness."
+    }
+  ]
+}

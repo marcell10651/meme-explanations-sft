@@ -1,0 +1,112 @@
+{
+  "meme_id": "meme_00081",
+  "queries": [
+    "\"the 8th grade\" \"only\" \"happens\" \"covid\"",
+    "\"happens\" \"covid\" \"over\" \"can\""
+  ],
+  "primary_terms": [
+    "only",
+    "happens",
+    "the 8th grade",
+    "covid",
+    "over",
+    "can",
+    "finally",
+    "finish",
+    "grade",
+    "leery",
+    "iis"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:COVID-19#0000",
+      "doc_id": "wikipedia:COVID-19",
+      "title": "COVID-19",
+      "url": "https://en.wikipedia.org/?curid=63030231",
+      "source_type": "wikipedia",
+      "score": 0.907896888256073,
+      "text": "Coronavirus disease 2019 (COVID-19) is a contagious disease caused by the coronavirus SARS-CoV-2. In January 2020, the disease spread worldwide, resulting in the COVID-19 pandemic. The symptoms of COVID‑19 can vary but often include fever, fatigue, cough, breathing difficulties, loss of smell, and loss of taste. Symptoms may begin one to 14 days after exposure to the virus. At least a third of people who are infected do not develop noticeable symptoms. Of those who develop symptoms noticeable enough to be classified as patients, most (81%) develop mild to moderate symptoms (up to mild pneumonia), while 14% develop severe symptoms (dyspnea, hypoxia, or more than 50% lung involvement on imaging), and 5% develop critical symptoms (respiratory failure, shock, or multiorgan dysfunction). Older people have a higher risk of developing severe symptoms. Some complications result in death."
+    },
+    {
+      "chunk_id": "wikipedia:Quarantine#0001",
+      "doc_id": "wikipedia:Quarantine",
+      "title": "Quarantine",
+      "url": "https://en.wikipedia.org/?curid=25237",
+      "source_type": "wikipedia",
+      "score": 0.7981699377298355,
+      "text": "outbreak, the SARS pandemic, the Ebola pandemic and extensive quarantines applied throughout the world during the COVID-19 pandemic since 2020. Ethical and practical considerations need to be considered when applying quarantine to people. Practice differs from country to country; in some countries, quarantine is just one of many measures governed by legislation relating to the broader..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.7345987975597381,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Disaster#0000",
+      "doc_id": "wikipedia:Disaster",
+      "title": "Disaster",
+      "url": "https://en.wikipedia.org/?curid=8137",
+      "source_type": "wikipedia",
+      "score": 0.55481738448143,
+      "text": "A disaster is an event that causes such serious harm to people, buildings, economies, or the environment that the affected community cannot handle it alone. The United Nations Office for Disaster Risk Reduction defines a disaster as \"a serious disruption of the functioning of a community or a society at any scale due to hazardous events interacting with conditions of exposure, vulnerability and capacity, leading to one or more of the following: human, material, economic and environmental losses and impacts\". Natural disasters like avalanches, floods, earthquakes, and wildfires are caused by natural hazards. Human-made disasters like oil spills, terrorist attacks and power outages are caused by people. It may be difficult to separate natural and human-made disasters because human actions can make natural disasters worse. Climate change also affects how often disasters due to extreme weather hazards happen."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0000",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.5395423591136932,
+      "text": "Life is matter that has biological processes, such as signaling and the ability to sustain itself. It is defined descriptively by the capacity for homeostasis, organisation, metabolism, growth, adaptation, response to stimuli, and reproduction. All life over time eventually reaches a state of death, and none is immortal. Many philosophical definitions of living systems have been proposed, such as self-organizing systems. Defining life is further complicated by viruses, which replicate only in host cells, and the possibility of extraterrestrial life, which could be very different from life on Earth. Life exists all over the Earth in air, water, and soil, with many ecosystems forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0001",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.5272547751665115,
+      "text": "state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son. The principal, worried for his school's reputation, tries to contain the situation and hides the letter in his office, while the four parents instructs their children to keep quiet. Ho-chang, curious to..."
+    },
+    {
+      "chunk_id": "wikipedia:Corona#0000",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.51067613363266,
+      "text": "Corona (from the Latin for 'crown') most commonly refers to: Stellar corona, the outer atmosphere of a star Solar corona, the outer atmosphere of the Sun Corona (beer), a Mexican beer Corona, informal term for the coronavirus or disease responsible for the COVID-19 pandemic: SARS-CoV-2, severe acute respiratory syndrome coronavirus 2 COVID-19, coronavirus disease 2019 Corona may also refer to: Architecture Corona, a part of a cornice The Corona, Canterbury Cathedral, the east end of Canterbury Cathedral Businesses and brands Food and drink Corona (beer), a Mexican beer brand Corona (restaurant), in the Netherlands Corona (soft drink), a former brand Technology Corona (software), a mobile app creation tool Corona Data Systems, 1980s microcomputer supplier Corona Labs Inc., an American software company Corona Typewriter Company, merged into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities"
+    },
+    {
+      "chunk_id": "wikipedia:Corona#0001",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.4734833538532257,
+      "text": "into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities Corona (fictional world), in R. A. Salvatore's DemonWars novels Corona, a character in the game Doraemon: Nobita to Mittsu no Seireiseki Corona, a character in the Spider..."
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0000",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.46018228530883787,
+      "text": "Cant, CANT, canting, or canted may refer to: Language Cant (language), a secret language Beurla Reagaird, a language of the Scottish Highland Travellers Scottish Cant, a language of the Scottish Lowland Travellers Shelta or the Cant, a language of the Irish Travellers Thieves' cant, a language of criminals Canting arms, heraldic puns on the bearer's name Can't, contraction of cannot Other uses Cant (architecture), part of a facade CANT (aviation) (Cantieri Aeronautici e Navali Triestini), an aircraft manufacturer Cant (log), a log partially processed in a sawmill Cant (road/rail), an angle of a road or track Cant (shooting), referring to a gun being tilted around the longitudinal axis, rather than being horizontally levelled Cant (surname), a family name and persons with it Canting, a tool used in making batik Chris Taylor (Grizzly Bear musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation"
+    },
+    {
+      "chunk_id": "wikipedia:Grader#0001",
+      "doc_id": "wikipedia:Grader",
+      "title": "Grader",
+      "url": "https://en.wikipedia.org/?curid=620529",
+      "source_type": "wikipedia",
+      "score": 0.45418547391891484,
+      "text": "a main blade extension can also be mounted. Capacities range from a blade width of 2.5 to 7.5 m (8 to 24 ft) and engines from 95–375 kW (125–500 hp). Certain graders can operate multiple attachments, or be designed for specialized tasks like underground mining. Function In civil engineering \"rough grading\" is performed by heavy equipment such as wheel tractor-scrapers and bulldozers. Graders are used to \"finish grade\", with the angle, tilt..."
+    }
+  ]
+}

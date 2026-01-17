@@ -1,0 +1,180 @@
+{
+  "meme_id": "meme_05056",
+  "queries": [
+    "\"Spongebob\" \"because\" \"stupid\" \"think\" \"something\"",
+    "\"the face\" \"because\" \"stupid\" \"think\"",
+    "\"stupid\" \"think\" \"something\" \"work\""
+  ],
+  "primary_terms": [
+    "because",
+    "stupid",
+    "think",
+    "something"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 1.0195075184106828,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0000",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.9942801058292389,
+      "text": "In philosophy and in common usage, an idea (from the Greek word: ἰδέα (idea), meaning 'a form, or a pattern') is the result of thought. Also in philosophy, ideas can also be mental representational images of some object. Many philosophers have considered ideas to be a fundamental ontological category of being. The capacity to create and understand the meaning of ideas is considered to be an essential and defining feature of human beings. An idea arises in a reflexive, spontaneous manner, even without thinking or serious reflection, for example, when we talk about the idea of a person or a place. A new or an original idea can often lead to innovation. Our actions are based upon beliefs, beliefs are patterns or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.6736893355846405,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:SpongeBob SquarePants#0000",
+      "doc_id": "wikipedia:SpongeBob SquarePants",
+      "title": "SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/?curid=2655089",
+      "source_type": "wikipedia",
+      "score": 0.6130721569061279,
+      "text": "SpongeBob SquarePants is an American animated comedy television series created by marine science educator and animator Stephen Hillenburg for Nickelodeon. It first aired as a sneak peek after the 1999 Kids' Choice Awards on May 1, 1999, and officially premiered on July 17, 1999. It chronicles the adventures of the titular character and his aquatic friends in the underwater city of Bikini Bottom. Many of the series' ideas originated in The Intertidal Zone, an unpublished educational comic book Hillenburg created in the 1980s to teach his students about undersea life. Hillenburg joined Nickelodeon in 1992 as an artist on Rocko's Modern Life. After Rocko was cancelled in 1996, he began developing SpongeBob SquarePants into a television series, and in 1997, a seven-minute pilot was pitched to Nickelodeon. The network's executives wanted SpongeBob to be a child in school, but Hillenburg preferred SpongeBob to be an adult character."
+    },
+    {
+      "chunk_id": "wikipedia:SpongeBob SquarePants#0001",
+      "doc_id": "wikipedia:SpongeBob SquarePants",
+      "title": "SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/?curid=2655089",
+      "source_type": "wikipedia",
+      "score": 0.5930353403091431,
+      "text": "to Nickelodeon. The network's executives wanted SpongeBob to be a child in school, but Hillenburg preferred SpongeBob to be an adult character. He was prepared to abandon the series, but compromised by creating a boating school so SpongeBob could attend school as an adult. SpongeBob SquarePants received widespread critical acclaim in its early years, with praise given to its characters, surreal humor..."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.5745006710290909,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.5641883909702301,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Reason#0001",
+      "doc_id": "wikipedia:Reason",
+      "title": "Reason",
+      "url": "https://en.wikipedia.org/?curid=42446",
+      "source_type": "wikipedia",
+      "score": 0.485415980219841,
+      "text": "conclusions. Reasoning may be subdivided into forms of logical reasoning, such as deductive reasoning, inductive reasoning, and abductive reasoning. Aristotle drew a distinction between logical discursive reasoning (reason proper), and intuitive reasoning, in which the reasoning process through intuition—however valid—may tend toward the personal and the subjectively opaque. In some social and political settings logical and intuitive..."
+    },
+    {
+      "chunk_id": "wikipedia:Face#0000",
+      "doc_id": "wikipedia:Face",
+      "title": "Face",
+      "url": "https://en.wikipedia.org/?curid=53234",
+      "source_type": "wikipedia",
+      "score": 0.4789360761642456,
+      "text": "The face is the front of the head in humans and many other animals that features most of the sense organs including the eyes, nose and mouth. Many animals may express emotions through their face. Sense organs in the faces of different animals are varied such as the snout, and the proboscis. Many animals are flat-faced (brachycephalic) such as the pug dog. The human face is crucial for identity, and damage such as scarring or developmental deformities may adversely affect the psyche. Human face Structure The front of the human head is called the face. It includes several distinct areas, of which the main features are: The forehead, comprising the skin beneath the hairline, bordered laterally by the temples and inferiorly by eyebrows and ears The eyes, sitting in the orbit and protected by eyelids and eyelashes The distinctive human nose shape, nostrils, and nasal septum The cheeks, covering the maxilla and mandible (or jaw), the extremity of which is the chin The mouth, with the upper"
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0001",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.47632548213005066,
+      "text": "the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes. In theories of syntax, a phrase is any group of words, or sometimes a single word, which plays a particular role within the syntactic structure of a sentence. It does not have to have any special meaning or significance, or even exist anywhere outside of the sentence being analyzed, but it must function there as a complete grammatical unit..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Spongebob looks proud at work,",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "work"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey this is the face they make when think about something stupid",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the face",
+          "something"
+        ]
+      },
+      "title": {
+        "text": "I do this because i am stupid",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "because",
+          "stupid"
+        ]
+      },
+      "text": {
+        "text": "WHEN YOU THINK ABOUT,SOMETHING STUPID ° aw, | Ay ‘J | e Or; _{ (VL |",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "think",
+          "something",
+          "stupid"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "because",
+      "stupid",
+      "think",
+      "something"
+    ],
+    "secondary_terms": [
+      "work",
+      "the face",
+      "something"
+    ],
+    "queries": [
+      "\"Spongebob\" \"because\" \"stupid\" \"think\" \"something\"",
+      "\"the face\" \"because\" \"stupid\" \"think\"",
+      "\"stupid\" \"think\" \"something\" \"work\""
+    ]
+  },
+  "source_jsonl_id": null
+}

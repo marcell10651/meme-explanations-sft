@@ -1,0 +1,210 @@
+{
+  "meme_id": "meme_01120",
+  "queries": [
+    "\"the heck\" \"gen\" \"will\" \"cringe\"",
+    "\"will\" \"cringe\" \"heck\" \"eae\""
+  ],
+  "primary_terms": [
+    "the heck",
+    "gen",
+    "will",
+    "cringe",
+    "heck",
+    "eae",
+    "egg",
+    "eter",
+    "ene",
+    "ele",
+    "oto",
+    "nee",
+    "geo"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.828782606124878,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0000",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.6630506634712219,
+      "text": "Fuck () is a profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives (such as fucker and fucking) are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off. Offensiveness It is unclear whether the word has always been considered a pejorative or, if not, when it first came to be used to describe (often in an extremely angry, hostile, or belligerent manner) unpleasant circumstances or people in an intentionally offensive way, such as in the term motherfucker, one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio."
+    },
+    {
+      "chunk_id": "wikipedia:Shit#0000",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 0.6454639106988906,
+      "text": "Shit is an English-language profanity. As a noun, it refers to fecal matter, and as a verb it means to defecate; in the plural (\"the shits\"), it means diarrhea. Shite is a common variant in British and Irish English. As a slang term, shit has many meanings, including: nonsense, foolishness, something of little value or quality, trivial and usually boastful or inaccurate talk or a contemptible person. It could also be used to refer to any other noun in general or as an expression of annoyance, concern, surprise or anger. Etymology The word is likely derived from Old English, having the nouns scite (dung, attested only in place names) and scitte (diarrhoea) and the verb scītan (to defecate, attested only in bescītan, to cover with excrement); eventually it morphed into Middle English schītte (excrement), schyt (diarrhoea) and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.6324568510055542,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Here#0001",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.6315908342599869,
+      "text": "2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a Singaporean film directed by Tzu Nyen Ho Here (2011 film), an American drama directed by Braden King Here (2023 film), a Belgian film directed by Bas Devos Here (2024 film), an American drama directed..."
+    },
+    {
+      "chunk_id": "wikipedia:Drama#0000",
+      "doc_id": "wikipedia:Drama",
+      "title": "Drama",
+      "url": "https://en.wikipedia.org/?curid=20913753",
+      "source_type": "wikipedia",
+      "score": 0.61756412088871,
+      "text": "Drama is the specific mode of fiction represented in performance: a play, opera, mime, ballet, etc., performed in a theatre, or on radio or television. Considered as a genre of poetry in general, the dramatic mode has been contrasted with the epic and the lyrical modes ever since Aristotle's Poetics (c. 335 BC)—the earliest work of dramatic theory. The term \"drama\" comes from a Greek word meaning \"deed\" or \"act\" (δρᾶμα, drâma), which is derived from \"I do\" (δράω, dráō). The two masks associated with drama represent the traditional generic division between comedy and tragedy. In English (as was the analogous case in many other European languages), the word play or game (translating the Anglo-Saxon pleġan or Latin ludus) was the standard term for dramas until William Shakespeare's time—just as its creator was a play-maker rather than a dramatist and the building was a play-house rather than a theatre."
+    },
+    {
+      "chunk_id": "wikipedia:Joke#0000",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.6004235953092575,
+      "text": "A joke is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh and is usually not meant to be interpreted literally. It usually takes the form of a story, often with dialogue, and ends in a punch line, whereby the humorous element of the story is revealed; this can be done using a pun or other type of word play, irony or sarcasm, logical incompatibility, hyperbole, or other means. Linguist Robert Hetzron offers the definition: A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end. No continuation relieving the tension should be added. As for its being \"oral,\" it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0000",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.5968440055847168,
+      "text": "Millennials, also known as Generation Y or Gen Y, are the demographic cohort following Generation X and preceding Generation Z. Researchers and popular media use the early 1980s as starting birth years and the mid-1990s to early 2000s as ending birth years, with the generation typically being defined as people born from 1981 to 1996. Most millennials are the children of baby boomers and older Gen Xers, and are often the parents of Generation Alpha. As children in the late 1980s to 2000s, millennials saw the rise of the Information Age and Internet, being described by some as the first global generation. As adolescents and young adults in the late 1990s to 2010s, the generation was marked by a more upbeat youth culture, elevated familiarity with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0001",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.5844991713762283,
+      "text": "by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal Juveniles, 1980 \"Check\", a song by Nas and Rick Ross from the soundtrack to Creed II, 2015 \"Check\", a song by Quin NFN, from 4Nun, 2019 \"Check\", a song by Qveen Herby from EP 8..."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.5455223232507705,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The man is looking at sonething in front of him.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The man",
+          "front",
+          "him"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is making fun of all the old social media sites that Elon Musk might want to revive.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "fun",
+          "all the old social media sites",
+          "Elon Musk"
+        ]
+      },
+      "title": {
+        "text": "Gen Z will Cringe the heck out of it.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the heck",
+          "gen",
+          "will",
+          "cringe",
+          "heck"
+        ]
+      },
+      "text": {
+        "text": "QG@ws . To on ON eae * - - ~-: . - ’ . —~3 “4 {——-_ ——- . _.. ~ - of _ mh, ee } | . ~ . * . GQ ew . . egg eter ~ ene _. —.. - ~ -~ a A , sl a ‘ Lo, Tt . —— 4 | I 7 ve oe ‘ ° C . a — _ oo - “ele .. : ‘% <. ° 7 Qe - oe ee oto ry [ = : a - _ Se po me ee — . we a . _ . . e - , . nee Geo",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "eae",
+          "egg",
+          "eter",
+          "ene",
+          "ele",
+          "oto",
+          "nee",
+          "geo"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the heck",
+      "gen",
+      "will",
+      "cringe",
+      "heck",
+      "eae",
+      "egg",
+      "eter",
+      "ene",
+      "ele",
+      "oto",
+      "nee",
+      "geo"
+    ],
+    "secondary_terms": [
+      "The man",
+      "front",
+      "him",
+      "fun",
+      "all the old social media sites",
+      "Elon Musk"
+    ],
+    "queries": [
+      "\"the heck\" \"gen\" \"will\" \"cringe\"",
+      "\"will\" \"cringe\" \"heck\" \"eae\""
+    ]
+  },
+  "source_jsonl_id": null
+}

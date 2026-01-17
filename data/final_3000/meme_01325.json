@@ -1,0 +1,186 @@
+{
+  "meme_id": "meme_01325",
+  "queries": [
+    "\"the problem\" \"yeah\" \"see\" \"problem\"",
+    "\"see\" \"problem\" \"ima\" \"testu\""
+  ],
+  "primary_terms": [
+    "the problem",
+    "yeah",
+    "see",
+    "problem",
+    "ima",
+    "testu"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.6782097041606903,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.6179613590240478,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.6101044833660125,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Setup#0001",
+      "doc_id": "wikipedia:Setup",
+      "title": "Setup",
+      "url": "https://en.wikipedia.org/?curid=15988526",
+      "source_type": "wikipedia",
+      "score": 0.522483429312706,
+      "text": "manufacturing changeover See also Setting up to fail, a manipulative technique to engineer failure Set (disambiguation) Setting (disambiguation) The Set-Up (disambiguation) All pages with titles beginning with Setup All pages with titles containing Setup All pages with titles beginning with Set up All pages with..."
+    },
+    {
+      "chunk_id": "wikipedia:Relaxation#0001",
+      "doc_id": "wikipedia:Relaxation",
+      "title": "Relaxation",
+      "url": "https://en.wikipedia.org/?curid=392638",
+      "source_type": "wikipedia",
+      "score": 0.5217365533113479,
+      "text": "for a natural extension in mathematical optimization or variational problems In computer science: Relaxation (computing), the act of substituting alternative program code during linking In physiology, hypnosis, meditation, recreation: Relaxation (psychology), the emotional state of low tension Relaxation technique, an activity that helps a person to relax..."
+    },
+    {
+      "chunk_id": "wikipedia:Concern#0000",
+      "doc_id": "wikipedia:Concern",
+      "title": "Concern",
+      "url": "https://en.wikipedia.org/?curid=6769649",
+      "source_type": "wikipedia",
+      "score": 0.5216458350419998,
+      "text": "Concern may refer to: Constructs Worry, an emotion Concern (computer science), an abstract concept about program behavior Enterprises and organizations Concern (business), a German type of group company Concern (organisation), a student society at the Indian Institute of Science, India CONCERN Program, a Con Edison program that offers eligible customers a specially trained representative and advice about government aid programs, safety tips, and ways to save money on one's energy bill Concern Worldwide, an Irish charity Other uses Concern (horse), an American Thoroughbred racehorse See also Care (disambiguation) Concerned, a webcomic parodying the video game Half-Life 2 Travel concerns travel guide from Wikivoyage"
+    },
+    {
+      "chunk_id": "wikipedia:Yeah Yeah Yeahs#0000",
+      "doc_id": "wikipedia:Yeah Yeah Yeahs",
+      "title": "Yeah Yeah Yeahs",
+      "url": "https://en.wikipedia.org/?curid=314405",
+      "source_type": "wikipedia",
+      "score": 0.5185502588748931,
+      "text": "Yeah Yeah Yeahs are an American indie rock band formed in New York City in 2000. The group consists of vocalist/pianist Karen O, guitarist/keyboardist Nick Zinner, and drummer Brian Chase; they do not have a bassist but have been complemented during live shows by David Pajo and Imaad Wasif. They are known for energetic performances and a blend of genres, including art rock and dance-rock. Yeah Yeah Yeahs found critical and commercial success with their debut album, Fever to Tell (2003), which is cited as their best work. It produced the breakthrough single \"Maps\", which became the band's signature song. They issued a second album, Show Your Bones (2006), and shifted to dance-punk with their third, It's Blitz! (2009). Both records received positive reviews, and the latter spawned the hit single \"Heads Will Roll\". The band's fourth album, Mosquito (2013), became their highest-charting record in the United States but did not match the reception of its predecessors."
+    },
+    {
+      "chunk_id": "wikipedia:Dyslexia#0000",
+      "doc_id": "wikipedia:Dyslexia",
+      "title": "Dyslexia",
+      "url": "https://en.wikipedia.org/?curid=8305",
+      "source_type": "wikipedia",
+      "score": 0.4582938015460968,
+      "text": "Dyslexia, also known as \"word blindness\", is a learning disability that affects either reading or writing. Different people are affected to different degrees. Problems may include difficulties in spelling words, reading quickly, writing words, \"sounding out\" words in the head, pronouncing words when reading aloud and understanding what one reads. Often these difficulties are first noticed at school. The difficulties are involuntary, and people with this disorder have a normal desire to learn. People with dyslexia have higher rates of attention deficit hyperactivity disorder (ADHD), developmental language disorders, and difficulties with numbers. Dyslexia is believed to be caused by the interaction of genetic and environmental factors. Some cases run in families. Dyslexia that develops due to a traumatic brain injury, stroke, or dementia is sometimes called \"acquired dyslexia\" or alexia."
+    },
+    {
+      "chunk_id": "wikipedia:Help#0000",
+      "doc_id": "wikipedia:Help",
+      "title": "Help",
+      "url": "https://en.wikipedia.org/?curid=17344601",
+      "source_type": "wikipedia",
+      "score": 0.4483030796051025,
+      "text": "Help may refer to: Arts, entertainment, and media Films Help (2010 film), a Bollywood horror film Help (2021 theatrical film), a British psychological thriller film Help (2021 TV film), a TV film about the COVID-19 pandemic Help! (film), a 1965 film directed by Richard Lester starring the Beatles The Help (film), a 2011 period drama, set in Jackson, Mississippi, in 1963 Television Help (Australian TV series), a documentary series Help (Dutch TV series), a drama series Help (British TV series), a comedy series H.E.L.P., a 1990 American TV drama series The Help (TV series), a 2004 American sitcom Dr. Henry's Emergency Lessons for People, also known as H.E.L.P.!, a 1979 American series of animated public service announcements Episodes \"Help\" (Buffy the Vampire Slayer) \"Help\" (The Gentle Touch) \"Help\", an episode of The Protector \"Help\" (Spaced) \"The Help\" (Modern Family) Literature Help! (magazine) Help!!"
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.4349824845790863,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A cartoon trying to instruct Kanye West in what to do",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Kanye West"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme posted suggests Kanye West should stick to rapping, which he is celebrated for, and not talking, as he has controversial opinions.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Kanye West",
+          "rapping",
+          "which",
+          "controversial opinions"
+        ]
+      },
+      "title": {
+        "text": "Yeah I see the problem",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the problem",
+          "yeah",
+          "see",
+          "problem"
+        ]
+      },
+      "text": {
+        "text": "L, f ima Testu =] \\\\ \\ rl WY)",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "ima",
+          "testu"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the problem",
+      "yeah",
+      "see",
+      "problem",
+      "ima",
+      "testu"
+    ],
+    "secondary_terms": [
+      "Kanye West",
+      "rapping",
+      "which",
+      "controversial opinions"
+    ],
+    "queries": [
+      "\"the problem\" \"yeah\" \"see\" \"problem\"",
+      "\"see\" \"problem\" \"ima\" \"testu\""
+    ]
+  },
+  "source_jsonl_id": null
+}

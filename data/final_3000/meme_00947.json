@@ -1,0 +1,195 @@
+{
+  "meme_id": "meme_00947",
+  "queries": [
+    "\"What a stupid age\" \"Halloween\" \"stupid\" \"age\"",
+    "\"stupid\" \"age\" \"too\" \"old\""
+  ],
+  "primary_terms": [
+    "What a stupid age",
+    "stupid",
+    "age",
+    "Halloween",
+    "too",
+    "old",
+    "trick",
+    "treat",
+    "young",
+    "die"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Decade#0001",
+      "doc_id": "wikipedia:Decade",
+      "title": "Decade",
+      "url": "https://en.wikipedia.org/?curid=695530",
+      "source_type": "wikipedia",
+      "score": 0.9487560749053955,
+      "text": "referred to as being \"10\") and ends at the end of their 20th year of life, on their 20th birthday; similarly, the third decade of life, when one is in one's twenties or 20s, starts with the 21st year of life, and so on, with subsequent decades of life similarly described by referencing the tens digit of one's age. 0-to-9 decade The most..."
+    },
+    {
+      "chunk_id": "wikipedia:Young#0000",
+      "doc_id": "wikipedia:Young",
+      "title": "Young",
+      "url": "https://en.wikipedia.org/?curid=302029",
+      "source_type": "wikipedia",
+      "score": 0.9142674028873443,
+      "text": "Young may refer to: Offspring, the product of reproduction of a new organism produced by one or more parents Youth, the time of life when one's age is low, often meaning the time between childhood and adulthood Music The Young, an American rock band Young, an EP by Charlotte Lawrence, 2018 Songs \"Young\" (Baekhyun and Loco song), 2018 \"Young\" (The Chainsmokers song), 2017 \"Young\" (Hollywood Undead song), 2009 \"Young\" (Kenny Chesney song), 2002 \"Young\" (Place on Earth song), 2018 \"Young\" (Tulisa song), 2012 \"Young\", by Ella Henderson, 2019 \"Young\", by Lil Wayne from Dedication 6, 2017 \"Young\", by Nickel Creek from This Side, 2002 \"Young\", by Sam Smith from Love Goes, 2020 \"Young\", by Silkworm from Italian Platinum, 2002 \"Young\", by Vacations (band), 2016 \"Young\", by Vallis Alps, 2015 \"Young\", by Pixey, 2016 People Surname Young (surname) Given name Young (Korean name), Korean unisex given name and name element Young Boozer (born 1948), American banker and Alabama State Treasurer Young"
+    },
+    {
+      "chunk_id": "wikipedia:Underage club#0000",
+      "doc_id": "wikipedia:Underage club",
+      "title": "Underage club",
+      "url": "https://en.wikipedia.org/?curid=76787969",
+      "source_type": "wikipedia",
+      "score": 0.8919686257839203,
+      "text": "An underage club is a type of entertainment venue or nightclub that caters exclusively to the needs of individuals below the legal drinking age. This is not to be confused with underage clubbing, where individuals below the legal age (mostly younger teenagers) pretend to be older than their ages, by using a fake ID or other means, in order to be allowed into a club where they are not legally of age to be admitted into. Complaints Some complaints from people who are skeptical about the concept of underage clubs are underage clubs create an avenue for teenagers to be introduced to drugs. Another complaint is the introduction and subsequent practice of sexual activities by underage individuals within the club venues. A different complaint is the lack of adequate adult supervision within the premises of these clubs. References"
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0000",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.8875683426856995,
+      "text": "Millennials, also known as Generation Y or Gen Y, are the demographic cohort following Generation X and preceding Generation Z. Researchers and popular media use the early 1980s as starting birth years and the mid-1990s to early 2000s as ending birth years, with the generation typically being defined as people born from 1981 to 1996. Most millennials are the children of baby boomers and older Gen Xers, and are often the parents of Generation Alpha. As children in the late 1980s to 2000s, millennials saw the rise of the Information Age and Internet, being described by some as the first global generation. As adolescents and young adults in the late 1990s to 2010s, the generation was marked by a more upbeat youth culture, elevated familiarity with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace."
+    },
+    {
+      "chunk_id": "wikipedia:Cool#0000",
+      "doc_id": "wikipedia:Cool",
+      "title": "Cool",
+      "url": "https://en.wikipedia.org/?curid=4175379",
+      "source_type": "wikipedia",
+      "score": 0.688239586353302,
+      "text": "Cool commonly refers to: Cool, a moderately low temperature Cool (aesthetic), an aesthetic of attitude, behavior, and style Cool or COOL may also refer to: Economics Country of origin labelling mCOOL - US consumer legislation to enforce COOL at the grocery store Computing Cool (programming language) COOL, a computer language used in the CLIPS tool Cool, an internal name of C# An abbreviation for Collabora Online Geography Cool, Rotterdam, Netherlands Cool, California, U.S. Cool, Texas, U.S. Music Cool (band), a South Korean K-pop music group Cool jazz Albums Cool (George Duke album) (2000) Lupe Fiasco's The Cool (2007) The Cool (character), the associated concept character Cool (Joyce album) (2015) Songs \"Cool\" (Alesso song) (2015) \"Cool\" (Anthony Hamilton song) (2008) \"Cool\" (Jonas Brothers song) (2019) \"Cool\" (Le Youth song) (2013) \"Cool\" (Dua Lipa song) (2020) \"Cool\" (Gwen Stefani song) (2005) \"Cool\" (The Time song) (1981), later covered by Snoop Dogg and Prince \"Cool\" (West Side"
+    },
+    {
+      "chunk_id": "wikipedia:Century#0001",
+      "doc_id": "wikipedia:Century",
+      "title": "Century",
+      "url": "https://en.wikipedia.org/?curid=5881",
+      "source_type": "wikipedia",
+      "score": 0.6743438601493835,
+      "text": "a multiple of 100 (except the first century as it began after the year 1 BC) and ends with the next coming year with a multiple of 100 (100n), i.e. the 20th century comprises the years 1901 to 2000, and the 21st century comprises the years 2001 to 2100 in strict usage. In common perception and practice, centuries are structured by grouping years based on sharing..."
+    },
+    {
+      "chunk_id": "wikipedia:Birthday#0001",
+      "doc_id": "wikipedia:Birthday",
+      "title": "Birthday",
+      "url": "https://en.wikipedia.org/?curid=20903181",
+      "source_type": "wikipedia",
+      "score": 0.6458609163761139,
+      "text": "when they reach the age of majority (usually between 12 and 21), and reaching age-specific milestones confers particular rights and responsibilities. At certain ages, one may become eligible to leave full-time education, become subject to military conscription or to enlist in the military, to consent to sexual intercourse, to marry with parental consent, to marry without parental consent, to vote, to run for elected office, to legally purchase (or..."
+    },
+    {
+      "chunk_id": "wikipedia:Decade#0000",
+      "doc_id": "wikipedia:Decade",
+      "title": "Decade",
+      "url": "https://en.wikipedia.org/?curid=695530",
+      "source_type": "wikipedia",
+      "score": 0.6371804237365722,
+      "text": "A decade (from Ancient Greek: δεκάς, dekas, lit. 'group of 10') is a period of 10 years. It may also be called a decennium (from Latin: decennium, lit. 'ten-year'). Decades may describe any ten-year period, such as those of a person's life, or refer to specific groupings of calendar years. Usage Any period of ten years is a 'decade' or 'decennium'. For example, the statement that \"during his last decade, Mozart explored chromatic harmony to a degree rare at the time\" refers to the last 10 years of Wolfgang Amadeus Mozart's life without regard to which calendar years are encompassed. Also, 'the first decade' of a person's life begins on the day of their birth and ends at the end of their 10th year of life when they have their 10th birthday; the second decade of life starts with their 11th year of life (during which one is typically still referred to as being \"10\") and ends at the end of their 20th year of life, on their 20th birthday; similarly, the third decade of life, when one is in"
+    },
+    {
+      "chunk_id": "wikipedia:Century#0000",
+      "doc_id": "wikipedia:Century",
+      "title": "Century",
+      "url": "https://en.wikipedia.org/?curid=5881",
+      "source_type": "wikipedia",
+      "score": 0.6326415061950683,
+      "text": "A century is a period of 100 years or 10 decades. Centuries are numbered ordinally in English and many other languages. The word century comes from the Latin centum, meaning one hundred. Century is sometimes abbreviated as c. A centennial or centenary is a hundredth anniversary, or a celebration of this, typically the remembrance of an event which took place a hundred years earlier. Start and end of centuries Although a century can mean any arbitrary period of 100 years, there are two viewpoints on the nature of standard centuries. One is based on strict construction, while the other is based on popular perception. According to the strict construction, the 1st century AD, which began with AD 1, ended with AD 100, and the 2nd century with AD 200; in this model, the n-th century starts with a year that follows a year with a multiple of 100 (except the first century as it began after the year 1 BC) and ends with the next coming year with a multiple of 100 (100n), i.e."
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0000",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.6248650521039962,
+      "text": "A toddler is a child approximately 1 to 3 years old, though definitions vary. The toddler years are a time of great cognitive, emotional and social development. The word is derived from \"toddle\", which means to walk unsteadily, as children at this age do. Developmental milestones Toddler development can be broken down into a number of interrelated areas. There is reasonable consensus about what these areas may include: Physical: growth or an increase in size. Gross motor: the control of large muscles which enable walking, running, jumping and climbing. Fine motor: the ability to control small muscles; enabling the toddler to feed themselves, draw and manipulate objects. Vision: the ability to see near and far and interpret what is seen. Hearing and speech: the ability to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A girl is sleeping on the couch.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the couch"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they are too young and too old for Halloween at the same time.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Halloween",
+          "the same time"
+        ]
+      },
+      "title": {
+        "text": "What a stupid age!",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "What a stupid age",
+          "stupid",
+          "age"
+        ]
+      },
+      "text": {
+        "text": "When it's Halloween, but you're too old to trick-or-treat and too young to die es oe | | -tt",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Halloween",
+          "too",
+          "old",
+          "trick",
+          "treat",
+          "young",
+          "die"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "What a stupid age",
+      "stupid",
+      "age",
+      "Halloween",
+      "too",
+      "old",
+      "trick",
+      "treat",
+      "young",
+      "die"
+    ],
+    "secondary_terms": [
+      "the couch",
+      "Halloween",
+      "the same time"
+    ],
+    "queries": [
+      "\"What a stupid age\" \"Halloween\" \"stupid\" \"age\"",
+      "\"stupid\" \"age\" \"too\" \"old\""
+    ]
+  },
+  "source_jsonl_id": null
+}

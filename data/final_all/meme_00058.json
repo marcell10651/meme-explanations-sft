@@ -1,0 +1,198 @@
+{
+  "meme_id": "meme_00058",
+  "queries": [
+    "\"Jake Paul\" \"Chong\" \"isn\" \"bad\" \"after\"",
+    "\"bad\" \"after\" \"all\" \"rae\""
+  ],
+  "primary_terms": [
+    "isn",
+    "bad",
+    "after",
+    "all",
+    "Chong",
+    "rae",
+    "jake",
+    "paul",
+    "socialmediastar"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0000",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.9247431635856629,
+      "text": "Very Bad Things is a 1998 American black comedy film written and directed by Peter Berg in his feature film directorial debut and starring Cameron Diaz, Jon Favreau, Daniel Stern, Jeremy Piven, Christian Slater, Leland Orser, Kobe Tai and Jeanne Tripplehorn. The plot follows a group of men who become embroiled in crime and betrayal after they attempt to conceal an accidental death. Very Bad Things was not well received and grossed $21 million against a $30 million budget. Plot Kyle Fisher and Laura Garrety are a young suburbanite couple days away from their wedding. While Laura finalizes last-minute wedding details, Kyle is away in Las Vegas celebrating his bachelor party with four friends—real estate agent Robert Boyd, mechanic Charles Moore, and brothers Adam and Michael Berkow. As part of the festivities, Robert hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom."
+    },
+    {
+      "chunk_id": "wikipedia:Jake Paul#0000",
+      "doc_id": "wikipedia:Jake Paul",
+      "title": "Jake Paul",
+      "url": "https://en.wikipedia.org/?curid=51021695",
+      "source_type": "wikipedia",
+      "score": 0.819890308380127,
+      "text": "Jake Joseph Paul (born January 17, 1997) is an American professional boxer, influencer and actor. He began his career posting videos on Vine in September 2013 and had amassed 5.3 million followers and 2 billion views before the app was discontinued. He launched his YouTube channel, Jake Paul, in May 2014, and was ranked by Forbes as one of the highest-paid YouTube creators of the 2010s and 2020s. As an actor, Paul's first role in a feature film was in the 2016 film Dance Camp. He went on to star as Dirk Mann on the Disney Channel series Bizaardvark (2016–2018) and appear in the films Airplane Mode (2019), Mainstream (2020), and A Genie's Tail (2022). He has also made guest appearances in the television series Walk the Prank (2016), The Price Is Right (2017), and Ridiculousness (2020). Paul's boxing career began in August 2018 with a white-collar boxing match against Deji Olatunji, which he won via technical knockout. His professional boxing debut was against AnEsonGib in January 2020."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.6373032301664352,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Sleeping with Other People#0000",
+      "doc_id": "wikipedia:Sleeping with Other People",
+      "title": "Sleeping with Other People",
+      "url": "https://en.wikipedia.org/?curid=43263164",
+      "source_type": "wikipedia",
+      "score": 0.5529682517051697,
+      "text": "Sleeping with Other People is a 2015 American romantic comedy film written and directed by Leslye Headland. The film stars Jason Sudeikis, Alison Brie, Natasha Lyonne, Amanda Peet, and Adam Scott. Premiering at the Sundance Film Festival on January 24, 2015, the film was released theatrically on September 11, 2015, by IFC Films. Sleeping with Other People received generally positive reviews from critics. Plot In 2002, Lainey causes a scene in a dorm at Columbia University. Taking pity on her as she is about to be kicked out by security, Jake claims her as his guest. He learns Lainey was there to lose her virginity to her teaching assistant Matthew, who Jake thinks is the most boring guy in the world. Lainey eventually realizes Jake is also a virgin, so they lose their virginity to each other. Years later, Lainey breaks up with her long-term boyfriend Sam after telling him she has been cheating on him with Matthew."
+    },
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0001",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.5528516978025436,
+      "text": "Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends. During this time, Craig starts high school and becomes close to Ms. Hart, a teacher who comes to his aid when Kenny Yankovich, a school bully, attempts to intimidate him. After winning $3,000 from a lottery ticket that Harrigan..."
+    },
+    {
+      "chunk_id": "wikipedia:Good#0000",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.5411056101322174,
+      "text": "In most contexts, the concept of good denotes the conduct that should be preferred when posed with a choice between possible actions. Good is generally considered to be the opposite of evil. The specific meaning and etymology of the term and its associated translations among ancient and contemporary languages show substantial variation in its inflection and meaning, depending on circumstances of place and history, or of philosophical or religious context. History of Western ideas Every language has a word expressing good in the sense of \"having the right or desirable quality\" (ἀρετή) and bad in the sense \"undesirable\". A sense of moral judgment and a distinction \"right and wrong, good and bad\" are cultural universals. Plato and Aristotle Although the history of the origin of the use of the concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect."
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0001",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.5308324307203293,
+      "text": "suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital. Following his recovery, the now-unemployed Tramp is mistakenly arrested in a Communist demonstration. In jail, he accidentally ingests smuggled cocaine, and in his subsequent delirium, he avoids being put back in his cell. When he returns, he stumbles upon a jailbreak and knocks the convicts..."
+    },
+    {
+      "chunk_id": "wikipedia:Down#0001",
+      "doc_id": "wikipedia:Down",
+      "title": "Down",
+      "url": "https://en.wikipedia.org/?curid=8550",
+      "source_type": "wikipedia",
+      "score": 0.5280329048633575,
+      "text": "American rapper Film and television Down (film), a 2001 English remake of the film De Lift \"Down\" (Breaking Bad), an episode of the second season of Breaking Bad \"Down\" (Into the Dark), an episode of the first season of Into the Dark Literature Down (comics), a comic book published by Top Cow Productions Down (novel), a 1997..."
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0000",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.514076691865921,
+      "text": "Kyle Edward Craven (born August 10, 1989), commonly known by his Internet nickname \"Bad Luck Brian\", is an American Internet celebrity known for his photo which was posted on Reddit in 2012, which quickly became a popular Internet meme. Bad Luck Brian is an image macro style of meme. His captions describe a variety of unlucky, embarrassing and tragic events. Meme Origin On January 23, 2012, at 2:15 UTC, Ian Davies uploaded a photo to Reddit of his friend Kyle Craven. Craven and Davies both attended Archbishop Hoban High School in Akron, Ohio. The photo which became Bad Luck Brian was originally taken for the high school's 2005–06 yearbook. Craven stated that he rubbed his face with a sweater to redden it and donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture."
+    },
+    {
+      "chunk_id": "wikipedia:Better#0000",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.5002089500427246,
+      "text": "Better may refer to: \"to better\" as a verb, meaning to undergo betterment better, an alternate spelling of bettor, someone who bets (gambles) Music Albums Better (Chrisette Michele album), 2013 Better (Brian McKnight album), 2016 Better (Haley Reinhart album), 2016 Better (BoA album), 2020 Songs \"Better\" (The Screaming Jets song), 1991 \"Better\" (Brooke Fraser song), 2003 \"Better\" (Tom Baxter song)\", 2007, covered by Boyzone in 2008 \"Better\" (Guns N' Roses song), 2008 \"Better\" (Maggie Rose song), 2012 \"Better\" (Kim Hyung-jun song), 2014 \"Better\" (Banks song), 2015 \"Better\" (Haley Reinhart song), 2016 \"Better\" (Meghan Trainor song), 2016 \"Better\" (Mallrat song), 2017 \"Better\" (Khalid song), 2018 \"Better\" (Lena Meyer-Landrut and Nico Santos song), 2019 \"Better\" (Twice song), 2020 \"Better\" (Zayn song), 2020 \"Better\" (MK and Burns song), 2022 \"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A boy is arrested by police while his father looks on in concern.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "police",
+          "his father",
+          "concern"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster scolds Jake Paul and his family for getting arrested by the police.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Jake Paul",
+          "his family",
+          "the police"
+        ]
+      },
+      "title": {
+        "text": "2020 isn't so bad after all",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "isn",
+          "bad",
+          "after",
+          "all"
+        ]
+      },
+      "text": {
+        "text": "\\ lyn VA SD, .. uy - i Co rae =) 2 JAKE PAUL SOCIALMEDIASTAR oa | \\ 5 And) & Chong a",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Chong",
+          "rae",
+          "jake",
+          "paul",
+          "socialmediastar"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "isn",
+      "bad",
+      "after",
+      "all",
+      "Chong",
+      "rae",
+      "jake",
+      "paul",
+      "socialmediastar"
+    ],
+    "secondary_terms": [
+      "police",
+      "his father",
+      "concern",
+      "Jake Paul",
+      "his family",
+      "the police"
+    ],
+    "queries": [
+      "\"Jake Paul\" \"Chong\" \"isn\" \"bad\" \"after\"",
+      "\"bad\" \"after\" \"all\" \"rae\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_01277",
+  "queries": [
+    "\"cartoons\" \"love\" \"other\" \"show\"",
+    "\"other\" \"show\" \"good\" \"nae\""
+  ],
+  "primary_terms": [
+    "cartoons",
+    "love",
+    "other",
+    "show",
+    "good",
+    "nae",
+    "men"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Common#0001",
+      "doc_id": "wikipedia:Common",
+      "title": "Common",
+      "url": "https://en.wikipedia.org/?curid=568187",
+      "source_type": "wikipedia",
+      "score": 0.7700592994689941,
+      "text": "critic Arts, entertainment, and media Common (film), a 2014 BBC One film, written by Jimmy McGovern, on the UK's Joint Enterprise Law Dol Common, a character in The Alchemist by Ben Jonson Harvard Common Press of Boston, Massachusetts, a publisher of cookbooks and parenting books The Common Room, a former interactive TV show on ITV..."
+    },
+    {
+      "chunk_id": "wikipedia:Others#0000",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.7265371441841125,
+      "text": "Others or The Others may refer to: Fictional characters Others (A Song of Ice and Fire), supernatural creatures in the fictional world of George R. R. Martin's fantasy series A Song of Ice and Fire Others (Lost), mysterious inhabitants of a strange island in the South Pacific in the television series Lost Others (Night Watch), a fictional group of people with supernatural abilities in Sergey Lukyanenko's Watches novel pentalogy The Others (Vok), a character from the Beast Wars franchise The Others, a reference to Cro-Magnon peoples in Jean M. Auel's Earth's Children series The Others, a group of allies of Aquaman in comics, introduced in 2012 and featured in a 2014 series The Others, the Ancients who have achieved Ascension in the Stargate universe The Others, a series of alien extraterrestrial species from The 5th Wave novels and film Films The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001"
+    },
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0000",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.6723059982061386,
+      "text": "What Not to Wear is an American makeover reality television series based on the British show of the same name. The show premiered on January 18, 2003, and ended on October 18, 2013, airing on TLC in the United States. What Not to Wear was hosted by Stacy London and Clinton Kelly, though London's Season 1 co-host was Wayne Scot Lukas. Also part of the show was head makeover artist Carmindy and hairstylist Nick Arrojo from season 1 through season 6. Celebrity hairstylist Ted Gibson replaced Arrojo beginning in season 7, through season 10. On March 6, 2013, TLC announced that the tenth season of What Not to Wear would be its last. Format Participants were nominated by friends, co-workers, or relatives. Some episodes involved self-nominations, such as the class reunion specials or mall nominations. In the latter, What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help."
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0000",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.6693844765424728,
+      "text": "Crossover may refer to: Entertainment Music Albums Cross Over (album), a 1987 album by Dan Peek, or the title song Crossover (Dirty Rotten Imbeciles album), 1987 Crossover, an album by Intrigue Crossover, an album by Hitomi Shimatani Crossover (Yoshinori Sunahara album), 1995 Songs \"Crossover\" (song), 1992, by EPMD \"Cross Over\" (song), 2010, by the Japanese group 9nine Genres and styles Crossover music Crossover thrash Comics Cross Over, a 2002 manga by Kōji Seo Crossover (storyline), a 2005 Fantastic Four storyline The Crossovers, a 2003 CrossGen comic book series Crossover (Image Comics), 2020 Film and television Crossover (1980 film) Crossover (2006 film), a basketball film \"Crossover\" (Adventure Time), a 2016 episode \"Crossover\" (Star Trek: Deep Space Nine), a 1994 episode Other entertainment Crossover (fiction), combining characters or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover"
+    },
+    {
+      "chunk_id": "wikipedia:Expose#0001",
+      "doc_id": "wikipedia:Expose",
+      "title": "Expose",
+      "url": "https://en.wikipedia.org/?curid=591548",
+      "source_type": "wikipedia",
+      "score": 0.6635332763195038,
+      "text": "show The Gifted Exposed (American game show), a 2007 American dating game show that aired on MTV Exposed (Canadian TV program), a 2004 Canadian music television program that aired on MuchMusic Exposed (Indian TV series), a 2022 Indian Telugu-language web series \"Exposed\" (Heroes), a 2009 episode of Heroes \"Exposed\" (UFO) (UFO), a 1970..."
+    },
+    {
+      "chunk_id": "wikipedia:Naruto#0001",
+      "doc_id": "wikipedia:Naruto",
+      "title": "Naruto",
+      "url": "https://en.wikipedia.org/?curid=232190",
+      "source_type": "wikipedia",
+      "score": 0.6502304673194885,
+      "text": "in 72 tankōbon volumes. Viz Media licensed the manga for North American production and serialized Naruto in their digital Weekly Shonen Jump magazine. The manga was adapted into two anime television series by Pierrot and Aniplex, which ran from October 2002 to March 2017 on TV Tokyo. Pierrot also produced 11 animated films and 12 original video animations (OVAs). The franchise additionally includes light novels, video games, and trading cards. The story continues in Boruto..."
+    },
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0001",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.596566042304039,
+      "text": "What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help. Early episodes featured both men and women; however, as the men's transformations did not prove to be as remarkable, all later episodes featured women exclusively. Some episodes featured both the nominee and the nominator being..."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0001",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.5891306102275848,
+      "text": "officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great! TV, British TV channel group The Great (TV series), an American comedy-drama See also All pages with titles containing great All pages with titles beginning with Great All pages with titles beginning with The Great All pages with titles beginning with The great The Great (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Sneaky Pete#0000",
+      "doc_id": "wikipedia:Sneaky Pete",
+      "title": "Sneaky Pete",
+      "url": "https://en.wikipedia.org/?curid=47942695",
+      "source_type": "wikipedia",
+      "score": 0.5734769165515899,
+      "text": "Sneaky Pete is an American comedy crime drama television series created by David Shore and Bryan Cranston. The series follows Marius Josipović (Giovanni Ribisi), a released convict who adopts the identity of his cellmate, Pete Murphy, to avoid his past life. The series also stars Marin Ireland, Shane McRae, Libe Barer, Michael Drayer, Peter Gerety and Margo Martindale. The pilot episode premiered on August 7, 2015, and was followed by a full series order that September. Shore left the project in early 2016 and was replaced by Graham Yost, who served as executive producer and showrunner for the remaining nine episodes. The first season premiered in its entirety on January 13, 2017, exclusively on Amazon Prime Video. On January 19, 2017, Amazon announced that Sneaky Pete had been renewed for a second season, which was released on March 9, 2018. On July 28, 2018, Amazon announced that the series had been renewed for a third season, which was released on May 10, 2019."
+    },
+    {
+      "chunk_id": "wikipedia:The Walt Disney Company#0000",
+      "doc_id": "wikipedia:The Walt Disney Company",
+      "title": "The Walt Disney Company",
+      "url": "https://en.wikipedia.org/?curid=37398",
+      "source_type": "wikipedia",
+      "score": 0.5609996438026428,
+      "text": "The Walt Disney Company, commonly referred to as simply Disney, is an American multinational mass media and entertainment conglomerate headquartered at the Walt Disney Studios complex in Burbank, California. Founded on October 16, 1923, as an animation studio by brothers Walt Disney and Roy Oliver Disney as Disney Brothers Cartoon Studio, Disney operated under the names Walt Disney Studio and Walt Disney Productions before adopting its current name in 1986. In 1928, Disney established itself as a leader in the animation industry with the short film Steamboat Willie. The film used synchronized sound to become the first post-produced sound cartoon, and popularized Mickey Mouse, who became Disney's mascot and corporate icon. After becoming a success by the early 1940s, Disney diversified into live-action films, television, and theme parks in the 1950s. However, following Walt Disney's death in 1966, the company's profits, especially in the animation sector, began to decline."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_02560",
+  "queries": [
+    "\"the doctor\" \"time\" \"has\" \"doctor\"",
+    "\"has\" \"doctor\" \"tells\" \"gonna\""
+  ],
+  "primary_terms": [
+    "time",
+    "has",
+    "the doctor",
+    "doctor",
+    "tells",
+    "gonna",
+    "die",
+    "week",
+    "thi"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Another Man, Another Chance#0000",
+      "doc_id": "wikipedia:Another Man, Another Chance",
+      "title": "Another Man, Another Chance",
+      "url": "https://en.wikipedia.org/?curid=17874058",
+      "source_type": "wikipedia",
+      "score": 11.828379454348623,
+      "text": "Another Man, Another Chance (Un autre homme, une autre chance, UK title: Another Man, Another Woman) is a 1977 French western film directed by Claude Lelouch. Plot France in 1870: Napoleon III has just lost the war against Prussia and left the country in poverty. Young Jeanne (Geneviève Bujold) falls in love with photographer Francis (Francis Huster), who soon takes her with him when he emigrates to The United States. In a small town in the still Wild West, they build up a small photo shop. Meanwhile, animal doctor David (James Caan) lives on his lonesome farm with his wife. It takes two years and two tragic accidents until Jeanne and David meet. Alone with a child, Jeanne has decided to return to France and is about to leave but then she and David silently and carefully fall in love for the second time in their lives and hope returns."
+    },
+    {
+      "chunk_id": "wikipedia:Miss#0000",
+      "doc_id": "wikipedia:Miss",
+      "title": "Miss",
+      "url": "https://en.wikipedia.org/?curid=23807088",
+      "source_type": "wikipedia",
+      "score": 11.145646452248451,
+      "text": "Miss (pronounced ) is an English-language honorific typically used for a girl, for an unmarried woman (when not using another title such as \"Doctor\" or \"Dame\"), or for a married woman retaining her maiden name. Originating in the 17th century, it is a contraction of mistress. The plural of Miss is Misses or occasionally Mses. History Origins Like Ms and Mrs, Miss has its roots in the title Mistress. Miss was originally a title given primarily to children rather than adults. During the 1700s, its usage broadened to encompass adult women. The title emerged as a polite way to address women, reflecting changing societal norms and class distinctions. Prior to this, referring to an adult woman as a Miss might have carried connotations of prostitution. Evolution of meanings and usage The meanings of both Miss and Mrs underwent transformations over time. Historically, these titles did not solely indicate marital status."
+    },
+    {
+      "chunk_id": "wikipedia:Doctor#0000",
+      "doc_id": "wikipedia:Doctor",
+      "title": "Doctor",
+      "url": "https://en.wikipedia.org/?curid=662249",
+      "source_type": "wikipedia",
+      "score": 1.2874971449375152,
+      "text": "Doctor most often refers to: Medical doctor, a person who is qualified to practice medicine Doctor (title), an academic title granted to holders of a doctorate Doctor, Doctors, The Doctor or The Doctors may also refer to: Arts and entertainment Fictional characters The Doctor, the main character of the BBC series Doctor Who List of fictional doctors Doctor (comics), several fictional characters Doctor, in the film My Giant Doctor, in Black Cat The Doctor, in Hellsing The Doctor, in video game Cave Story The Doctor (Star Trek) The Doctor, or Scalpel, in the Transformers film series The Doctor or Cobra Commander, in G.I."
+    },
+    {
+      "chunk_id": "wikipedia:The Lady Doctor#0000",
+      "doc_id": "wikipedia:The Lady Doctor",
+      "title": "The Lady Doctor",
+      "url": "https://en.wikipedia.org/?curid=46194248",
+      "source_type": "wikipedia",
+      "score": 1.0402695119380951,
+      "text": "The Lady Doctor (Italian: Totò, Vittorio e la dottoressa, also known as Totò, Vittorio and the Doctor) is a 1957 Italian comedy film directed by Camillo Mastrocinque. Plot Michele and Gennaro work as attendants in the investigation agency \"Nulla sfugge\" (\"Nothing escapes\"). When their boss is forced to be absent from the office to follow an important investigation, the two decide to take his place, pretending to be skilled investigators. Two old sisters, Ada and Ida, come to the agency to ask them to investigate the conduct of the wife of their only nephew, an American doctor from Boston, and they accept the case, which will turn out to be a mess. Cast Totò as Michele Spillone aka Mike Vittorio De Sica as Marquis Vittorio de Vitti Abbe Lane as Dr."
+    },
+    {
+      "chunk_id": "wikipedia:Surgeon#0000",
+      "doc_id": "wikipedia:Surgeon",
+      "title": "Surgeon",
+      "url": "https://en.wikipedia.org/?curid=9104734",
+      "source_type": "wikipedia",
+      "score": 0.9033776938915252,
+      "text": "In medicine, a surgeon is a medical doctor who performs surgery. Even though there are different traditions in different times and places, a modern surgeon is a licensed physician and received the same medical training as physicians before specializing in surgery. In some countries and jurisdictions, the title of 'surgeon' is restricted to maintain the integrity of the craft group in the medical profession. A specialist regarded as a legally recognized surgeon includes podiatry, dentistry, and veterinary medicine. It is estimated that surgeons perform over 300 million surgical procedures globally each year. History The first person to document a surgery was the 6th century BC Indian physician-surgeon, Sushruta. He specialized in cosmetic plastic surgery and even documented an open rhinoplasty procedure. His magnum opus Suśruta-saṃhitā is one of the most important surviving ancient treatises on medicine and is considered a foundational text of both Ayurveda and surgery."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0001",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.7412245333194732,
+      "text": "The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff from Doctor Who The Class (TV series), a CBS sitcom Class (2023 TV series), a 2023 Indian Netflix teen drama Literature Class: A Guide Through the American Status System,..."
+    },
+    {
+      "chunk_id": "wikipedia:Rich#0001",
+      "doc_id": "wikipedia:Rich",
+      "title": "Rich",
+      "url": "https://en.wikipedia.org/?curid=327881",
+      "source_type": "wikipedia",
+      "score": 0.7176982820034027,
+      "text": "a character in the British soap opera Doctors Richie Rich (character), a fictional character Music Rich, half of the American country music duo Big & Rich Rich Velonskis, half of the American duo Nikki & Rich \"Rich\" (Maren Morris song), 2018 \"Rich\", a song by Jawbreaker from Etc., 2002 \"Rich\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0000",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.6820040106773376,
+      "text": "Other often refers to: Other (philosophy), a concept in psychology and philosophy Other or The Other may also refer to: Film and television The Other (1913 film), a German silent film directed by Max Mack The Other (1930 film), a German film directed by Robert Wiene The Other (1947 film), an Italian film directed by Carlo Ludovico Bragaglia The Other (1972 film), an American film directed by Robert Mulligan The Other (1999 film), a French-Egyptian film directed by Youssef Chahine The Other (2007 film), an Argentine-French-German film by Ariel Rotter The Other (2025 film), an American film directed by Paul Etheredge Other (film), a French/Belgian film directed by David Moreau The Other (Doctor Who), a fictional character in Doctor Who The Other (Marvel Cinematic Universe), a fictional character in the Marvel Cinematic Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A."
+    },
+    {
+      "chunk_id": "wikipedia:Mater#0000",
+      "doc_id": "wikipedia:Mater",
+      "title": "Mater",
+      "url": "https://en.wikipedia.org/?curid=4910553",
+      "source_type": "wikipedia",
+      "score": 0.6041104793548584,
+      "text": "Mater is a formal Latin term for mother and may refer to: Places Mater, Belgium, a village near Oudenaarde Health care Australia Mater Hospital, North Sydney, New South Wales Mater Group, Brisbane, Queensland Mater Health Services North Queensland, which incorporates: Mater Hospital Pimlico, Townsville, Queensland Mater Women's and Children's Hospital UK and Ireland Mater Infirmorum Hospital, Belfast, Northern Ireland Mater Misericordiae University Hospital, Dublin, Ireland (the best-known hospital in Ireland that is referred to as the Mater) Mater Private Hospital, Dublin, Ireland New Zealand Mater Misericordiae Hospital, Auckland, now Allevia Hospital Epsom Music Mater, an album by Vladimír Godár \"Mater\", a song by The Beat Fleet from Pistaccio Metallic, 2011 Other uses Mater (Cars), a character in the Disney/Pixar animated film Cars Mater, a major part of an astrolabe M.A.T.E.R., a football (soccer) club in Rome People Juris Māters (1845–1885), Latvian writer and journalist Rudy"
+    },
+    {
+      "chunk_id": "wikipedia:Mara#0000",
+      "doc_id": "wikipedia:Mara",
+      "title": "Mara",
+      "url": "https://en.wikipedia.org/?curid=89150",
+      "source_type": "wikipedia",
+      "score": 0.5635763317346573,
+      "text": "Mara or MARA may refer to: Arts and entertainment Fictional characters Mara (Doctor Who), an evil being in two Doctor Who serials Mara (She-Ra), fictional characters from the She-Ra and the Princesses of Power and The New Adventures of He-Man animated series Mara Davis/Mara David/Mara del Valle, a character from Philippine drama series Mara Clara (1992 TV series) and Mara Clara (2010 TV series) Mara Jade, in the Star Wars Expanded Universe Mara Sewell, a fictional character in The Shield Mara Wade, title character of Mara of the Wilderness Mara Forest, main player character of Crow Country Other uses in arts and entertainment Mara the Lioness, an animal actor Mara (album), a 1995 album by Scottish band Runrig Mara (film), a 2018 American supernatural horror film starring Olga Kurylenko Maara, a 2021 Indian film by Dhilip Kumar Mara, an 1894 novel by Ioan Slavici Dance Club Mara, a formation dance team, Minsk, Belarus Cultural and language groupings Mara (Tagin), a tribe in Arunachal"
+    }
+  ]
+}

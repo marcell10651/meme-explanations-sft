@@ -1,0 +1,218 @@
+{
+  "meme_id": "meme_00158",
+  "queries": [
+    "\"THE WATER\" \"all\" \"know\" \"year\"",
+    "\"know\" \"year\" \"ace\" \"artist\""
+  ],
+  "primary_terms": [
+    "all",
+    "what year",
+    "know",
+    "year",
+    "THE WATER",
+    "ace",
+    "artist",
+    "builds",
+    "boat",
+    "looks",
+    "giant",
+    "zipper",
+    "unzipping",
+    "water",
+    "see",
+    "eta",
+    "trees"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Earth#0000",
+      "doc_id": "wikipedia:Earth",
+      "title": "Earth",
+      "url": "https://en.wikipedia.org/?curid=9228",
+      "source_type": "wikipedia",
+      "score": 0.7966700196266174,
+      "text": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an ocean world, the only one in the Solar System sustaining liquid surface water. Almost all of Earth's water is contained in its global ocean, covering 70.8% of Earth's crust. The remaining 29.2% of Earth's crust is land, most of which is located in the form of continental landmasses within Earth's land hemisphere. Most of Earth's land is at least somewhat humid and covered by vegetation, while large ice sheets at Earth's polar deserts retain more water than Earth's groundwater, lakes, rivers, and atmospheric water combined. Earth's crust consists of slowly moving tectonic plates, which interact to produce mountain ranges, volcanoes, and earthquakes. Earth has a liquid outer core that generates a magnetosphere capable of deflecting most of the destructive solar winds and cosmic radiation."
+    },
+    {
+      "chunk_id": "wikipedia:Year#0001",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 0.7488163053989411,
+      "text": "of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility. In temperate and subpolar regions around the planet, four seasons are generally recognized: spring, summer, autumn, and winter. In tropical and subtropical regions, several geographical sectors do not present defined seasons; but in the seasonal tropics, the annual wet and dry seasons are recognized..."
+    },
+    {
+      "chunk_id": "wikipedia:Always#0001",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.7431366562843322,
+      "text": "Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu Xiu album), 2012 Always: The Very Best of Erasure or the 1994 title song (see below), 2015 Always, by June Tabor, 2005 Always, by Kelli O'Hara, 2011 Always, by Michael Ball, 1993 Always..."
+    },
+    {
+      "chunk_id": "wikipedia:Decade#0000",
+      "doc_id": "wikipedia:Decade",
+      "title": "Decade",
+      "url": "https://en.wikipedia.org/?curid=695530",
+      "source_type": "wikipedia",
+      "score": 0.7117354691028595,
+      "text": "A decade (from Ancient Greek: δεκάς, dekas, lit. 'group of 10') is a period of 10 years. It may also be called a decennium (from Latin: decennium, lit. 'ten-year'). Decades may describe any ten-year period, such as those of a person's life, or refer to specific groupings of calendar years. Usage Any period of ten years is a 'decade' or 'decennium'. For example, the statement that \"during his last decade, Mozart explored chromatic harmony to a degree rare at the time\" refers to the last 10 years of Wolfgang Amadeus Mozart's life without regard to which calendar years are encompassed. Also, 'the first decade' of a person's life begins on the day of their birth and ends at the end of their 10th year of life when they have their 10th birthday; the second decade of life starts with their 11th year of life (during which one is typically still referred to as being \"10\") and ends at the end of their 20th year of life, on their 20th birthday; similarly, the third decade of life, when one is in"
+    },
+    {
+      "chunk_id": "wikipedia:October#0000",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.7034469395875931,
+      "text": "October is the 10th month of the year in the Julian and Gregorian calendars. Its length is 31 days. The eighth month in the old calendar of Romulus c. 750 BC, October retained its name (from Latin and Greek ôctō meaning \"eight\") after January and February were inserted into the calendar that had originally been created by the Romans. In Ancient Rome, one of three Mundus patet would take place on October 5, Meditrinalia October 11, Augustalia on October 12, October Horse on October 15, and Armilustrium on October 19. These dates do not correspond to the modern Gregorian calendar. Among the Anglo-Saxons, it was known as Winterfylleth (Ƿinterfylleþ), because at this full moon, winter was supposed to begin. October is commonly associated with the season of autumn in parts of the Northern Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa."
+    },
+    {
+      "chunk_id": "wikipedia:Legendary#0001",
+      "doc_id": "wikipedia:Legendary",
+      "title": "Legendary",
+      "url": "https://en.wikipedia.org/?curid=541707",
+      "source_type": "wikipedia",
+      "score": 0.6853373855352402,
+      "text": "Daya, 2015 \"Legendary\", by Royce da 5'9\" from Success Is Certain, 2011 \"Legendary\", by Skillet from Victorious, 2019 \"Legendary\", by Joey Badass from All-Amerikkkan Badass, 2017 \"Legendary\", by Jorge Rivera-Herrans from Epic: The Musical, 2024 \"Legendary\" (Bon Jovi song), 2024 Other uses Legendary (video game), a 2008 first..."
+    },
+    {
+      "chunk_id": "wikipedia:Artist#0000",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.6605214953422547,
+      "text": "An artist is a person engaged in creating art, or practicing the arts. The most common usage in everyday speech and academic discourse refers to a practitioner in the visual arts only. However, the term is also very widely used in the entertainment business to refer to actors, musicians, singers, dancers , and other performers. The French word artiste is sometimes used in English in this context, although this has become old-fashioned. The use of the term \"artist\" to describe writers is valid, but less common, and mostly restricted to contexts such as critics' reviews; \"author\" is generally used instead. While the use of the word 'artist' is common, there is no agreed upon definition of art—this makes the definition of who is and is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art."
+    },
+    {
+      "chunk_id": "wikipedia:Water#0000",
+      "doc_id": "wikipedia:Water",
+      "title": "Water",
+      "url": "https://en.wikipedia.org/?curid=33306",
+      "source_type": "wikipedia",
+      "score": 0.6551268577575684,
+      "text": "Water is an inorganic compound with the chemical formula H2O. It is a transparent, tasteless, odorless, and nearly colorless chemical substance. It is the main constituent of Earth's streams, lakes, and oceans and the fluids of all known living organisms, in which it acts as a solvent. Water, being a polar molecule, undergoes strong intermolecular hydrogen bonding which is a large contributor to its physical and chemical properties. It is vital for all known forms of life, despite not providing food energy or being an organic micronutrient. Due to its presence in all organisms, its chemical stability, its worldwide abundance, and its strong polarity relative to its small molecular size, water is often referred to as the \"universal solvent\". Because Earth's environment is relatively close to water's triple point, water exists on Earth as a solid, a liquid, and a gas. It forms precipitation in the form of rain and aerosols in the form of fog."
+    },
+    {
+      "chunk_id": "wikipedia:Artist#0001",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.6529386520385743,
+      "text": "is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art. I am only pointing out that my project, like Collingwood's, Osborne's, and others', is metaphysical in nature. I am interested in trying to find out what a work of art is and what it is essentially. Dictionary definitions The Oxford English Dictionary defines the older, broader meanings of the word..."
+    },
+    {
+      "chunk_id": "wikipedia:Year#0000",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 0.6451951146125794,
+      "text": "A year is a unit of time based on how long it takes the Earth to orbit the Sun. In scientific use, the tropical year (approximately 365 solar days, 5 hours, 48 minutes, 45 seconds) and the sidereal year (about 20 minutes longer) are more exact. The modern calendar year, as reckoned according to the Gregorian calendar, approximates the tropical year by using a system of leap years. The term 'year' is also used to indicate other periods of roughly similar duration, such as the lunar year (a roughly 354-day cycle of twelve of the Moon's phases – see lunar calendar), as well as periods loosely associated with the calendar or astronomical year, such as the seasonal year, the fiscal year, the academic year, etc. Due to the Earth's axial tilt, the course of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A boat is riding in the ocean about a planet being split in two.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the ocean"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that artist creation causes earth to split in half.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "artist creation",
+          "earth",
+          "half"
+        ]
+      },
+      "title": {
+        "text": "We all know what year it is",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "all",
+          "what year",
+          "know",
+          "year"
+        ]
+      },
+      "text": {
+        "text": "ARTIST BUILDS BOAT.THAT LOOKS LIKE A GIANT ZIPPER UNZIPPING THE WATER See ace A “eta / > TREES \\ ; ae th ee ee",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "THE WATER",
+          "ace",
+          "artist",
+          "builds",
+          "boat",
+          "looks",
+          "giant",
+          "zipper",
+          "unzipping",
+          "water",
+          "see",
+          "eta",
+          "trees"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "all",
+      "what year",
+      "know",
+      "year",
+      "THE WATER",
+      "ace",
+      "artist",
+      "builds",
+      "boat",
+      "looks",
+      "giant",
+      "zipper",
+      "unzipping",
+      "water",
+      "see",
+      "eta",
+      "trees"
+    ],
+    "secondary_terms": [
+      "the ocean",
+      "artist creation",
+      "earth",
+      "half"
+    ],
+    "queries": [
+      "\"THE WATER\" \"all\" \"know\" \"year\"",
+      "\"know\" \"year\" \"ace\" \"artist\""
+    ]
+  },
+  "source_jsonl_id": null
+}

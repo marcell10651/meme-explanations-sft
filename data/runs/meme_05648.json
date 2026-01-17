@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_05648",
+  "queries": [
+    "\"Earth\" \"the world cup\" \"oughta\" \"specific\" \"watching\"",
+    "\"specific\" \"watching\" \"world\" \"cup\""
+  ],
+  "primary_terms": [
+    "oughta",
+    "specific",
+    "the world cup",
+    "watching",
+    "world",
+    "cup",
+    "yes"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Country#0000",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.6783783614635468,
+      "text": "A country is an area of land, colloquially used as a synonym for sovereign state or other political entities, but also used to refer to the hinterland surrounding urban areas, as well as to describe the culture of people living in these places. Usually, the term country is applied to occupied areas of land, however it can be used to refer to uninhabited areas or wastelands. When referring to a specific polity, the term \"country\" may refer to a sovereign state, a state with limited recognition, a constituent country, or a dependent territory. Most sovereign states, but not all countries, are members of the United Nations. There is no universal agreement on the number of \"countries\" in the world with a range between 193 to 237. This ambiguity is a result of several states having disputed sovereignty status or limited recognition, and a number of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.5808038175106048,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.575782060623169,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Live#0001",
+      "doc_id": "wikipedia:Live",
+      "title": "Live",
+      "url": "https://en.wikipedia.org/?curid=28508507",
+      "source_type": "wikipedia",
+      "score": 0.5196846127510071,
+      "text": "88.5, a radio station in Ottawa, Canada Television Live (South Korean TV series), a 2018 South Korean television series Live (Danish TV series) Live! (TV channel), Italy Live with Kelly and Mark, US TV talk show Types of media Live action (cinematography), a motion picture not produced using animation Live art Live music, a concert Live album, recording of a live music concert..."
+    },
+    {
+      "chunk_id": "wikipedia:Drama#0000",
+      "doc_id": "wikipedia:Drama",
+      "title": "Drama",
+      "url": "https://en.wikipedia.org/?curid=20913753",
+      "source_type": "wikipedia",
+      "score": 0.5022828191518783,
+      "text": "Drama is the specific mode of fiction represented in performance: a play, opera, mime, ballet, etc., performed in a theatre, or on radio or television. Considered as a genre of poetry in general, the dramatic mode has been contrasted with the epic and the lyrical modes ever since Aristotle's Poetics (c. 335 BC)—the earliest work of dramatic theory. The term \"drama\" comes from a Greek word meaning \"deed\" or \"act\" (δρᾶμα, drâma), which is derived from \"I do\" (δράω, dráō). The two masks associated with drama represent the traditional generic division between comedy and tragedy. In English (as was the analogous case in many other European languages), the word play or game (translating the Anglo-Saxon pleġan or Latin ludus) was the standard term for dramas until William Shakespeare's time—just as its creator was a play-maker rather than a dramatist and the building was a play-house rather than a theatre."
+    },
+    {
+      "chunk_id": "wikipedia:Television#0000",
+      "doc_id": "wikipedia:Television",
+      "title": "Television",
+      "url": "https://en.wikipedia.org/?curid=29831",
+      "source_type": "wikipedia",
+      "score": 0.5019993394613266,
+      "text": "Television (TV) is a telecommunication medium for transmitting moving images and sound. Additionally, the term can refer to a physical television set rather than the medium of transmission. Television is a mass medium for advertising, entertainment, news, and sports. The medium is capable of more than \"radio broadcasting\", which refers to an audio signal sent to radio receivers. Television became available in crude experimental forms in the 1920s, but only after several years of further development was the new technology marketed to consumers. After World War II, an improved form of black-and-white television broadcasting became popular in the United Kingdom and the United States, and television sets became commonplace in homes, businesses, and institutions. During the 1950s, television was the primary medium for influencing public opinion. In the mid-1960s, color broadcasting was introduced in the U.S. and most other developed countries."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.4944376558065414,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    },
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.46887536346912384,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    },
+    {
+      "chunk_id": "wikipedia:Appearance#0001",
+      "doc_id": "wikipedia:Appearance",
+      "title": "Appearance",
+      "url": "https://en.wikipedia.org/?curid=8104650",
+      "source_type": "wikipedia",
+      "score": 0.46880994737148285,
+      "text": "submits himself to the jurisdiction of the court. Appear or Appears may refer to: \"Appear\" (나타나) a song from Secret Garden OST (2010), by Kim Bum-soo. \"Appears\", a song released by Ayumi Hamasaki in 1999 Appearing may refer to: Appearing (media consultants) - \"Appearing\", broadcast media promotion consultants, a PR agency headed by Scott Piering See also All pages with titles beginning with Appearance All pages with titles containing Appearance Apparition (disambiguation), any instance of appearing, but usually referring to a supernatural phenomenon Cap (sport) in some sports is a metaphorical term for a player's appearance on a select team, such as a national team"
+    },
+    {
+      "chunk_id": "wikipedia:State#0000",
+      "doc_id": "wikipedia:State",
+      "title": "State",
+      "url": "https://en.wikipedia.org/?curid=290282",
+      "source_type": "wikipedia",
+      "score": 0.46489208936691284,
+      "text": "State most commonly refers to: State (polity), a centralized political organization that regulates law and society within a territory Sovereign state, a sovereign polity in international law, commonly referred to as a country Nation state, a state where the majority identify with a single nation (with shared culture or ethnic group) Constituent state, a political subdivision of a state Federated state, constituent states part of a federation (examples below) State of nature, a concept within philosophy that describes the way humans acted before forming societies or civilizations State may also refer to: Arts, entertainment, and media Literature State Magazine, a monthly magazine published by the U.S."
+    }
+  ]
+}

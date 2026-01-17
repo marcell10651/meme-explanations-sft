@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_01250",
+  "queries": [
+    "\"Tormenting\" \"MINIMUM WAGE FAST\" \"FOOD WORKERS RELL\" \"fast food workers\" \"fast food resturaunts\"",
+    "\"fast food workers\" \"fast food resturaunts\" \"the beginning\" \"alves\""
+  ],
+  "primary_terms": [
+    "fast food workers",
+    "the beginning",
+    "fast food resturaunts",
+    "MINIMUM WAGE FAST",
+    "FOOD WORKERS RELL",
+    "alves",
+    "minimum",
+    "wage",
+    "fast",
+    "food",
+    "workers",
+    "rell"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Restaurant#0000",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 1.0782776296138763,
+      "text": "A restaurant is a business that prepares and serves food and beverages to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, featuring a wide variety of cuisines and service models — ranging from inexpensive fast-food restaurants and cafeterias to mid-priced family restaurants to high-priced luxury establishments. Etymology The word derives from the early 19th century, taken from the French word restaurer 'provide meat for', literally 'restore to a former state' and, being the present participle of the verb, the term restaurant may have been used in 1507 as a \"restorative beverage\", and in correspondence in 1521 to mean 'that which restores the strength, a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt."
+    },
+    {
+      "chunk_id": "wikipedia:Food#0000",
+      "doc_id": "wikipedia:Food",
+      "title": "Food",
+      "url": "https://en.wikipedia.org/?curid=10646",
+      "source_type": "wikipedia",
+      "score": 0.6611161738634109,
+      "text": "Food is any substance consumed by an organism for nutritional support. Food usually consists of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or support growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill specific ecological niches within specific geographical contexts. Omnivorous humans are highly adaptable and have adapted to obtaining food in many different ecosystems. Humans generally use cooking to prepare food for consumption. The majority of the food energy required is supplied by the industrial food industry, which produces food through intensive agriculture and distributes it through complex food processing and food distribution systems."
+    },
+    {
+      "chunk_id": "wikipedia:Fast#0000",
+      "doc_id": "wikipedia:Fast",
+      "title": "Fast",
+      "url": "https://en.wikipedia.org/?curid=1899768",
+      "source_type": "wikipedia",
+      "score": 0.6567067265510559,
+      "text": "Fast or FAST may refer to: Arts and entertainment \"Fast\" (Juice Wrld song), 2019 \"Fast\" (Luke Bryan song), 2016 \"Fast\" (Sueco song), 2019 \"Fast\" (GloToven song), 2019 Fast, an album by Custom, 2002 Fast, a 2010 short film starring Charlyne Yi \"Fast (Motion)\", 2021 song by Saweetie Fast & Furious, an action franchise \"Fast\" (Demi Lovato song), 2025 Computing and software FAST protocol, an adaptation of the FIX protocol, optimized for streaming FAST TCP, a TCP congestion avoidance algorithm Facilitated Application Specification Techniques, a team-oriented approach for requirement gathering Fatigue Avoidance Scheduling Tool, software to develop work schedules Features from accelerated segment test, computer vision method for corner detection Feedback arc set in Tournaments, a computational problem in graph theory Government Faʻatuatua i le Atua Samoa ua Tasi (FAST), a political party in Samoa Fixing America's Surface Transportation Act, passed by the United States Congress"
+    },
+    {
+      "chunk_id": "wikipedia:Culinary Class Wars#0000",
+      "doc_id": "wikipedia:Culinary Class Wars",
+      "title": "Culinary Class Wars",
+      "url": "https://en.wikipedia.org/?curid=77970789",
+      "source_type": "wikipedia",
+      "score": 0.593030697107315,
+      "text": "Culinary Class Wars (Korean: 흑백요리사: 요리 계급 전쟁) is a South Korean cooking competition/comedy in the dramatic style of Physical: 100. The first season was released on Netflix in 2024 and featured one hundred elite chefs divided into two classes: white spoons (veterans) and black spoons (newcomers), competing for the prize of ₩300 million. The first three episodes of season two aired on December 16, 2025, with the last episode of the season scheduled to be released on January 13, 2026. In January 2026, Netflix announced the series was renewed for a team-based third season. Judges The two judges were veteran restaurateur and celebrity chef, Paik Jong-won, and the only Michelin three-star chef in Korea, Anh Sung-jae. They became full from tasting so much food during the contest but Paik still ate his packed lunch too. Care was taken to ensure impartial judging."
+    },
+    {
+      "chunk_id": "wikipedia:Culinary Class Wars#0001",
+      "doc_id": "wikipedia:Culinary Class Wars",
+      "title": "Culinary Class Wars",
+      "url": "https://en.wikipedia.org/?curid=77970789",
+      "source_type": "wikipedia",
+      "score": 0.5691672772169113,
+      "text": ". They became full from tasting so much food during the contest but Paik still ate his packed lunch too. Care was taken to ensure impartial judging. In the first black versus white round, the judges were blind-folded so that they would not be influenced by the status of the contestants. All the food was discarded after judging so that the crew and contestants could not taste it and then challenge or influence the judges' decisions. Contestants The contestants were..."
+    },
+    {
+      "chunk_id": "wikipedia:Pizza#0001",
+      "doc_id": "wikipedia:Pizza",
+      "title": "Pizza",
+      "url": "https://en.wikipedia.org/?curid=24768",
+      "source_type": "wikipedia",
+      "score": 0.5235782921314239,
+      "text": "via delivery, and as street food. In Italy, pizza served in a restaurant is presented unsliced, and is eaten with the use of a knife and fork. In casual settings, however, it is typically cut into slices to be eaten while held in the hand. Pizza is also sold in grocery stores in a variety of forms, including frozen or as kits for self-assembly. Store-bought pizzas are then cooked using..."
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0000",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.50996715426445,
+      "text": "Snap or SNAP may refer to: Supplemental Nutrition Assistance Program, a food program for low-income families administered by the United States Department of Agriculture Arts and entertainment Snap (film), the initial release title for the 2013 film Enter the Dangerous Mind The Stanly News and Press, a newspaper in Albemarle, North Carolina, US \"Snap\" (Duty Free), a 1984 TV episode Games and sports Snap (gridiron football), the start of a play in gridiron football Scalable Network Application Package, an online gaming platform Pokémon Snap, a 1999 Japanese video game New Pokémon Snap, the 2021 sequel Snap, any putdown used in the Dozens Card games Snap (card game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap!"
+    },
+    {
+      "chunk_id": "wikipedia:Train#0001",
+      "doc_id": "wikipedia:Train",
+      "title": "Train",
+      "url": "https://en.wikipedia.org/?curid=30598",
+      "source_type": "wikipedia",
+      "score": 0.5086132794618606,
+      "text": "in 1802, trains rapidly spread around the world, allowing freight and passengers to move over land faster and cheaper than ever possible before. Rapid transit and trams were first built in the late 1800s to transport large numbers of people in and around cities. Beginning in the 1920s, and accelerating following World War II, diesel and electric locomotives replaced..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.508353590965271,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Working#0001",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.5078279376029968,
+      "text": "1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of occult rituals See also Workin' (disambiguation) Work (disambiguation) Works (disambiguation) All pages with titles containing Working All pages with titles beginning with Working"
+    }
+  ]
+}

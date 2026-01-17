@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_01491",
+  "queries": [
+    "\"the Mexican resturaunt\" \"White women\" \"Canadians\" \"the employee\"",
+    "\"Canadians\" \"the employee\" \"much\" \"nice\""
+  ],
+  "primary_terms": [
+    "Canadians",
+    "much",
+    "nice",
+    "White women",
+    "bonjour",
+    "the employee",
+    "the Mexican resturaunt"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Working#0001",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.49993954598903656,
+      "text": "1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of occult rituals See also Workin' (disambiguation) Work (disambiguation) Works (disambiguation) All pages with titles containing Working All pages with titles beginning with Working"
+    },
+    {
+      "chunk_id": "wikipedia:Success#0001",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.4389064908027649,
+      "text": "a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness. It may also be difficult or impossible to ascertain whether a situation meets criteria for success or failure due to ambiguous or ill-defined definition of those criteria. Finding useful and effective criteria, or heuristics, to judge the failure or success of a situation may itself be a significant task. In American culture DeVitis and Rich link the..."
+    },
+    {
+      "chunk_id": "wikipedia:Nice#0000",
+      "doc_id": "wikipedia:Nice",
+      "title": "Nice",
+      "url": "https://en.wikipedia.org/?curid=47088",
+      "source_type": "wikipedia",
+      "score": 0.42752805948257444,
+      "text": "Nice ( NEESS; French pronunciation: [nis] ) is a French city located in the prefecture of the Alpes-Maritimes department. The Nice agglomeration extends beyond the administrative city limits, with a population of nearly one million over an area of 744 km2 (287 sq mi). Located on the French Riviera, the southeastern coast of France on the Mediterranean Sea, at the foot of the French Alps, Nice is the second-largest French city on the Mediterranean coast and second-largest city in the Provence-Alpes-Côte d'Azur region after Marseille. It is approximately 13 kilometres (8 mi) from the principality of Monaco and 30 kilometres (19 mi) from the French–Italian border. Nice's airport serves as a gateway to the region. The city is nicknamed Nice la Belle (Nissa La Bella in Niçard), meaning 'Nice the Beautiful', which is also the title of the unofficial anthem of Nice, written by Menica Rondelly."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.41310039162635803,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:American#0000",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.3942381739616394,
+      "text": "American(s) may refer to: American, something of, from, or related to the United States of America, commonly known as the \"United States\" or \"America\" Americans, citizens and nationals of the United States of America American ancestry, people who self-identify their ancestry as \"American\" American English, the set of varieties of the English language native to the United States Native Americans in the United States, indigenous peoples of the United States American, something of, from, or related to the Americas, also known as \"America\" Indigenous peoples of the Americas American (word), for analysis and history of the meanings in various contexts Organizations American Airlines, U.S.-based airline headquartered in Fort Worth, Texas American Athletic Conference, an American college athletic conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C."
+    },
+    {
+      "chunk_id": "wikipedia:Works#0000",
+      "doc_id": "wikipedia:Works",
+      "title": "Works",
+      "url": "https://en.wikipedia.org/?curid=523904",
+      "source_type": "wikipedia",
+      "score": 0.37228235602378845,
+      "text": "Works may refer to: People Caddy Works (1896–1982), American college sports coach John D. Works (1847–1928), California senator and judge Samuel Works (c. 1781–1868), New York politician Albums Works (Pink Floyd album), a Pink Floyd album from 1983 Works, a Gary Burton album from 1972 Works, a Status Quo album from 1983 Works, a John Abercrombie album from 1991 Works, a Pat Metheny album from 1994 Works, an Alan Parson Project album from 2002 Works Volume 1, a 1977 Emerson, Lake & Palmer album Works Volume 2, a 1977 Emerson, Lake & Palmer album The Works, a 1984 Queen album Other uses Good works, a topic in Christian theology Microsoft Works, a collection of office productivity programs created by Microsoft IBM Works, an office suite for the IBM OS/2 operating system Mount Works, Victoria Land, Antarctica TV Works, the former name of defunct Singaporean television channel Channel i (Singaporean TV channel) See also The Works (disambiguation) Work (disambiguation) All pages with titles"
+    },
+    {
+      "chunk_id": "wikipedia:Thanks#0000",
+      "doc_id": "wikipedia:Thanks",
+      "title": "Thanks",
+      "url": "https://en.wikipedia.org/?curid=2558488",
+      "source_type": "wikipedia",
+      "score": 0.34962970614433286,
+      "text": "Thanks may refer to: Thank you, a common expression of gratitude Film and television Thanks (film), a 2011 American film Thanks (TV series), a 1999 American sitcom Music Albums Thanks, by J. Vincent Edwards, 1969 Thanks, by Ivan Neville, 1994 Thanks, by Marty Grosz, 1997 Thanks, by w-inds., 2006 Songs \"Thanks\" (song), 1969, recorded by J. Vincent Edwards and Bill Anderson \"Thanks!\" (GAM song), 2006 \"Thanks\", by the James Gang from James Gang Rides Again, 1970 \"Thanks\", by Judith Allen and by Bing Crosby from the Too Much Harmony soundtrack, 1933 \"Thanks\", by Waylon Jennings from Ladies Love Outlaws, 1972 See also All pages with titles beginning with Thanks All pages with titles containing Thanks Thankful (disambiguation) Thank God (disambiguation) Thank You (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Frye#0000",
+      "doc_id": "wikipedia:Frye",
+      "title": "Frye",
+      "url": "https://en.wikipedia.org/?curid=233332",
+      "source_type": "wikipedia",
+      "score": 0.3488585948944092,
+      "text": "Frye is a surname. Notable people with the surname include: Channing Frye (born 1983), American basketball player Charlie Frye (born 1981), American football player for the Oakland Raiders Don Frye (born 1965), American mixed martial arts fighter Donna Frye (born 1952), San Diego city councilwoman Dwight Frye (1899–1943), American actor George Frederick Frye (1833–1912), Seattle pioneer and the City Council member Henry Frye (born 1932), American politician and judge, first black chief justice of North Carolina Supreme Court Jack Frye (1904–1959), American aviation pioneer John Frye (1933–2005), Scottish footballer Joseph Frye (1712–1794), colonial American soldier and general Kelly Frye (born 1984), American actress Marilyn Frye (born 1941), American philosophy professor and feminist theorist Mark Frye (born 1957), Contemporary American composer Northrop Frye (1912–1991), Canadian literary critic Richard N."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.33385801315307617,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:Culinary Class Wars#0000",
+      "doc_id": "wikipedia:Culinary Class Wars",
+      "title": "Culinary Class Wars",
+      "url": "https://en.wikipedia.org/?curid=77970789",
+      "source_type": "wikipedia",
+      "score": 0.32113601863384245,
+      "text": "Culinary Class Wars (Korean: 흑백요리사: 요리 계급 전쟁) is a South Korean cooking competition/comedy in the dramatic style of Physical: 100. The first season was released on Netflix in 2024 and featured one hundred elite chefs divided into two classes: white spoons (veterans) and black spoons (newcomers), competing for the prize of ₩300 million. The first three episodes of season two aired on December 16, 2025, with the last episode of the season scheduled to be released on January 13, 2026. In January 2026, Netflix announced the series was renewed for a team-based third season. Judges The two judges were veteran restaurateur and celebrity chef, Paik Jong-won, and the only Michelin three-star chef in Korea, Anh Sung-jae. They became full from tasting so much food during the contest but Paik still ate his packed lunch too. Care was taken to ensure impartial judging."
+    }
+  ]
+}

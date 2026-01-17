@@ -1,0 +1,187 @@
+{
+  "meme_id": "meme_02434",
+  "queries": [
+    "\"the looks\" \"looks\" \"has\" \"there\"",
+    "\"has\" \"there\" \"time\" \"seek\""
+  ],
+  "primary_terms": [
+    "the looks",
+    "looks",
+    "has",
+    "there",
+    "time",
+    "seek",
+    "already",
+    "within"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Looking#0001",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.7687902808189392,
+      "text": "looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act. Looking versus seeing \"Looking\" and \"seeing\" are traditionally contrasted in a number of ways, although their usage often overlaps. Looking can be characterized as \"the action precedent to seeing\". Any kind of looking or viewing actually implies \"seeing\" certain things within the range..."
+    },
+    {
+      "chunk_id": "wikipedia:Appearance#0000",
+      "doc_id": "wikipedia:Appearance",
+      "title": "Appearance",
+      "url": "https://en.wikipedia.org/?curid=8104650",
+      "source_type": "wikipedia",
+      "score": 0.5443192481994629,
+      "text": "Appearance may refer to: Visual appearance, the way in which objects reflect and transmit light Human physical appearance, what someone looks like Appearances (film), a 1921 film directed by Donald Crisp Appearance (philosophy), or phenomenon Phantasiai, a term in ancient Greek philosophy variously translated as \"appearances,\" \"impressions,\" \"presentations,\" and \"representations.\" Appearance (law), the coming into court of either of the parties to a suit, and/or the formal act by which a defendant submits himself to the jurisdiction of the court. Appear or Appears may refer to: \"Appear\" (나타나) a song from Secret Garden OST (2010), by Kim Bum-soo."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.5169270187616348,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.49893689155578613,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Time travel#0000",
+      "doc_id": "wikipedia:Time travel",
+      "title": "Time travel",
+      "url": "https://en.wikipedia.org/?curid=31591",
+      "source_type": "wikipedia",
+      "score": 0.4871806621551514,
+      "text": "Time travel is the hypothetical activity of traveling into the past or future. Time travel is a concept in philosophy, space, time and fiction, particularly science fiction. In fiction, time travel is typically achieved through the use of a device known as a time machine. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine. It is uncertain whether time travel to the past would be physically possible. Such travel, if at all feasible, may give rise to questions of causality. Forward time travel, outside the usual sense of the perception of time, is an extensively observed phenomenon and is well understood within the framework of special relativity and general relativity. However, making one body advance or delay more than a few milliseconds compared to another body is not feasible with current technology. As for backward time travel, it is possible to find solutions in general relativity that allow for it, such as a rotating black hole."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0000",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.4770155996084213,
+      "text": "Here may refer to: Music Here (Adrian Belew album), 1994 Here (Alicia Keys album), 2016 Here (Cal Tjader album), 1979 Here (Edward Sharpe album), 2012 Here (Idina Menzel album), 2004 Here (Merzbow album), 2008 Here (Nicolay album), 2006 Here (Leo Sayer album), 1979 Here (Teenage Fanclub album), 2016 \"Here\" (Alessia Cara song), 2015 \"Here\" (The Grace song), 2008 \"Here\" (Rascal Flatts song), 2008 \"Here\" (Tom Grennan song), 2023 \"Here\" (1954 song), song with music by Harold Grant and lyrics by Dorcas Cochran Here (Cartoon song), 2016 \"Here (In Your Arms)\", 2006 song by Hellogoodbye \"Here\", a 1971 song by America from their eponymous debut album \"Here\", a 2014 song by Christine and the Queens from Chaleur humaine \"Here\", a 2018 song by David Byrne from American Utopia \"Here\", a 1992 song by Pavement from Slanted and Enchanted \"Here\", a 2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a"
+    },
+    {
+      "chunk_id": "wikipedia:Time#0001",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.4746986150741577,
+      "text": "astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest. Measurable time is believed to have effectively begun with the Big Bang 13.8 billion years ago, encompassed by the chronology of the universe. Modern physics understands time to be inextricable from space within the concept of spacetime described by general relativity..."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0000",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.4323778748512268,
+      "text": "To look is to use sight to perceive an object. Look or The Look may refer to: Businesses and products Look (modeling agency), an Israeli modeling agency Look (American magazine), a defunct general-interest magazine Look (the UK magazine), a defunct fashion and celebrity magazine Look (cigarette), a Danish brand Look!, a candy bar made by Annabelle Candy Company Look (company), a French bicycle components and frames Film and television The Look, a 2003 American film starring Teresa Hill Look (2007 film), an American drama by Adam Rifkin Look: The Series, an American television drama series, also by Adam Rifkin, related to the film Look (2009 film), an American avant-garde short film directed by Ryan Pickett \"The Look\", an episode of American television sitcom Home Improvement Music Look (Beth Nielsen Chapman album) Look (EP), by Apink (2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by"
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.42006781697273254,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:Face#0001",
+      "doc_id": "wikipedia:Face",
+      "title": "Face",
+      "url": "https://en.wikipedia.org/?curid=53234",
+      "source_type": "wikipedia",
+      "score": 0.4104918003082275,
+      "text": "shape, nostrils, and nasal septum The cheeks, covering the maxilla and mandible (or jaw), the extremity of which is the chin The mouth, with the upper lip divided by the philtrum, sometimes revealing the teeth Facial appearance is vital for human recognition and communication. Facial muscles in humans allow expression of emotions. The face..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man looks with sadness at an empty fridge.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "sadness"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they're a cold-hearted individual.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a cold-hearted individual"
+        ]
+      },
+      "title": {
+        "text": "And by the looks of it, it has been there for a long time",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the looks",
+          "looks",
+          "has",
+          "there",
+          "time"
+        ]
+      },
+      "text": {
+        "text": "~ \"What you seek ts already within you\" ba . ~",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "seek",
+          "already",
+          "within"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the looks",
+      "looks",
+      "has",
+      "there",
+      "time",
+      "seek",
+      "already",
+      "within"
+    ],
+    "secondary_terms": [
+      "sadness",
+      "a cold-hearted individual"
+    ],
+    "queries": [
+      "\"the looks\" \"looks\" \"has\" \"there\"",
+      "\"has\" \"there\" \"time\" \"seek\""
+    ]
+  },
+  "source_jsonl_id": null
+}

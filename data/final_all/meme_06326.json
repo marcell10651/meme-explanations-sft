@@ -1,0 +1,203 @@
+{
+  "meme_id": "meme_06326",
+  "queries": [
+    "\"the Hut\" \"OUT-PIZZASTHEHUT Yous\" \"Out-Pizza\" \"pizza\"",
+    "\"Out-Pizza\" \"pizza\" \"hut\" \"nobody\""
+  ],
+  "primary_terms": [
+    "Out-Pizza",
+    "the Hut",
+    "pizza",
+    "hut",
+    "OUT-PIZZASTHEHUT Yous",
+    "nobody",
+    "pizzasthehut",
+    "yous",
+    "hold",
+    "beer"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Pizza#0001",
+      "doc_id": "wikipedia:Pizza",
+      "title": "Pizza",
+      "url": "https://en.wikipedia.org/?curid=24768",
+      "source_type": "wikipedia",
+      "score": 0.9167955577373504,
+      "text": "via delivery, and as street food. In Italy, pizza served in a restaurant is presented unsliced, and is eaten with the use of a knife and fork. In casual settings, however, it is typically cut into slices to be eaten while held in the hand. Pizza is also sold in grocery stores in a variety of forms, including frozen or as kits for self-assembly. Store-bought pizzas are then cooked using..."
+    },
+    {
+      "chunk_id": "wikipedia:Small Faces#0001",
+      "doc_id": "wikipedia:Small Faces",
+      "title": "Small Faces",
+      "url": "https://en.wikipedia.org/?curid=167663",
+      "source_type": "wikipedia",
+      "score": 0.7422934174537659,
+      "text": "1969, Marriott left to form Humble Pie, while Lane, Jones and McLagan continued under the shortened name the Faces with Rod Stewart and Ronnie Wood. Following the breakup of both the Faces and Humble Pie in 1975, the classic Marriott/Lane/McLagan/Jones line-up of the Small Faces re-formed after a re-release of \"Itchycoo Park\" became a top-ten hit. Lane left shortly thereafter, and was..."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0000",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.6982688516378402,
+      "text": "Nobody most often refers to: Nobody, an indefinite pronoun Nobody may also refer to: Fictional characters Nobody (Kingdom Hearts), a race of beings in the Kingdom Hearts video game series Nobody (Devil May Cry), a demon appearing in Devil May Cry Nobody, a character in the Jim Jarmusch films Dead Man and Ghost Dog: The Way of the Samurai Nobody, a character in the 1973 Italian film My Name Is Nobody Nobody, a character in the Teenage Mutant Ninja Turtles franchise Odysseus, who used the name \"nobody\" in his battle against Polyphemus Film and television Nobody (1921 film), an American silent film \"The Nobody\" (The Amazing World of Gumball), a 2015 TV episode \"Nobody\" (Folklore), a 2018 TV episode Nobody (2021 film), American thriller film Nobody (2025 film), Chinese animated film Music Nobody (producer) (born 1977), American record producer Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs"
+    },
+    {
+      "chunk_id": "wikipedia:Rock Your Baby#0001",
+      "doc_id": "wikipedia:Rock Your Baby",
+      "title": "Rock Your Baby",
+      "url": "https://en.wikipedia.org/?curid=7758996",
+      "source_type": "wikipedia",
+      "score": 0.557217925786972,
+      "text": "and drums, and their fellow Sunshine Band member Jerome Smith on electric guitar. The song became one of the first pop hits to use a drum machine. The track was not originally intended for McCrae, but he happened to be in the studio at the time and added his distinct falsetto vocals. Music critic Robert Christgau has described the result as \"irresistibly Memphis-cum-disco-with-a-hook.\" Legacy \"Rock Your Baby\" influenced John Lennon's \"Whatever Gets You thru the Night..."
+    },
+    {
+      "chunk_id": "wikipedia:Delivery#0000",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.5514869600534439,
+      "text": "Delivery may refer to: Biology and medicine Childbirth Drug delivery Gene delivery Business and law Delivery (commerce), of goods, e.g.: Pizza delivery Milk delivery Food delivery Online grocer Deed (\"delivery\" in contract law), as in \"signed, sealed and delivered\" Power delivery or electricity delivery, the process that goes from generation of electricity in the power station to use by the consumer Film and television Delivering (film), a 1993 short film by Todd Field Delivery (1976 film), a Soviet Armenian biographical film Delivery (2005 film), an animated short film Delivery (2013 film), an American horror film The Delivery, a 1999 film directed by Roel Reiné \"Delivery\", the final episode of Men Behaving Badly Julia Zemiro's Home Delivery, a 2013 Australian television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama."
+    },
+    {
+      "chunk_id": "wikipedia:Delivery#0001",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.55067577958107,
+      "text": "television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama. Music Deliver (The Mamas & the Papas album), 1967 Deliver (The Oak Ridge Boys album), 1983 Deliverin', a 1971 album by Poco \"Deliver\" (song), a 2017 song by Fifth Harmony \"Deliver\", a song by Lupe Fiasco from Tetsuo & Youth \"Delivery\" (song), a 2007 single..."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0000",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.5300097465515137,
+      "text": "A restaurant is a business that prepares and serves food and beverages to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, featuring a wide variety of cuisines and service models — ranging from inexpensive fast-food restaurants and cafeterias to mid-priced family restaurants to high-priced luxury establishments. Etymology The word derives from the early 19th century, taken from the French word restaurer 'provide meat for', literally 'restore to a former state' and, being the present participle of the verb, the term restaurant may have been used in 1507 as a \"restorative beverage\", and in correspondence in 1521 to mean 'that which restores the strength, a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.5181514024734497,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Young Boy#0000",
+      "doc_id": "wikipedia:Young Boy",
+      "title": "Young Boy",
+      "url": "https://en.wikipedia.org/?curid=11418335",
+      "source_type": "wikipedia",
+      "score": 0.5031756609678268,
+      "text": "\"Young Boy\" is a song by English musician Paul McCartney, included as the fifth track on his 10th solo studio album, Flaming Pie (1997). McCartney reportedly started working on the song in August 1994. The initial tracks were recorded in February 1995 at Steve Miller's studio in Sun Valley, Idaho, and were completed in May at McCartney's home studio. On 28 April 1997, the song was released as the first single from Flaming Pie, peaking at No. 3 in Spain and No. 19 on the UK Singles Chart. The single featured two non-album B-sides: \"Looking for You\" and \"Broomstick\". In the United States, Capitol Records chose to issue \"The World Tonight\" as the album's lead single instead."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0001",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.49957312643527985,
+      "text": "but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home. Supporting People around Kang-soo Kim Kyung-nam as Sung-jae Kang-soo's friend who is also a deliveryman. Kim Ki-doo as Baek Gong-gi A martial artist who is a leader of the Holy..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A masked man is having a conversation with another guy.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "another guy"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that Kanye West objects when Pizza Hut tries to say it's slogan.. Meme poster is trying to convey that Kanye West is trying to out pizza Pizza Hut despite the jingle.. Meme poster is trying to convey they are embarrassed to like pizza from pizza hut.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Kanye West",
+          "Pizza Hut",
+          "slogan",
+          "pizza Pizza Hut",
+          "the jingle",
+          "pizza"
+        ]
+      },
+      "title": {
+        "text": "Out-Pizza the Hut",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Out-Pizza",
+          "the Hut",
+          "pizza",
+          "hut"
+        ]
+      },
+      "text": {
+        "text": "NOBODY/OUT-PIZZASTHEHUT Yous} Sg ae HOLD MY BEER =\" 5} - : OO. ee",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "OUT-PIZZASTHEHUT Yous",
+          "nobody",
+          "pizzasthehut",
+          "yous",
+          "hold",
+          "beer"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Out-Pizza",
+      "the Hut",
+      "pizza",
+      "hut",
+      "OUT-PIZZASTHEHUT Yous",
+      "nobody",
+      "pizzasthehut",
+      "yous",
+      "hold",
+      "beer"
+    ],
+    "secondary_terms": [
+      "another guy",
+      "Kanye West",
+      "Pizza Hut",
+      "slogan",
+      "pizza Pizza Hut",
+      "the jingle",
+      "pizza"
+    ],
+    "queries": [
+      "\"the Hut\" \"OUT-PIZZASTHEHUT Yous\" \"Out-Pizza\" \"pizza\"",
+      "\"Out-Pizza\" \"pizza\" \"hut\" \"nobody\""
+    ]
+  },
+  "source_jsonl_id": null
+}

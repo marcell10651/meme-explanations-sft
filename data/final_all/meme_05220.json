@@ -1,0 +1,189 @@
+{
+  "meme_id": "meme_05220",
+  "queries": [
+    "\"Pom\" \"the morning\" \"catching\" \"train\"",
+    "\"catching\" \"train\" \"morning\" \"moe\""
+  ],
+  "primary_terms": [
+    "your train",
+    "the morning",
+    "catching",
+    "train",
+    "morning",
+    "Pom",
+    "moe"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Morning#0001",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.8686339974403381,
+      "text": "despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\". Significance Cultural implications Morning prayer is a common practice in several religions. The morning period includes specific phases of the Liturgy of the Hours of Christianity. Some languages that use the time of day in greeting have a special greeting for morning..."
+    },
+    {
+      "chunk_id": "wikipedia:Train#0000",
+      "doc_id": "wikipedia:Train",
+      "title": "Train",
+      "url": "https://en.wikipedia.org/?curid=30598",
+      "source_type": "wikipedia",
+      "score": 0.6477207005023956,
+      "text": "A train (from Old French trahiner, from Latin trahere, \"to pull, to draw\") is a series of connected vehicles that run along a railway track and transport people or freight. Trains are typically pulled or pushed by locomotives (often known simply as \"engines\"), though some are self-propelled, such as multiple units or railcars. Passengers and cargo are carried in railroad cars, also known as wagons or carriages. Trains are designed to a certain gauge, or distance between rails. Most trains operate on steel tracks with steel wheels, the low friction of which makes them more efficient than other forms of transport. Many countries use rail transport. Trains have their roots in wagonways, which used railway tracks and were powered by horses or pulled by cables. Following the invention of the steam locomotive in the United Kingdom in 1802, trains rapidly spread around the world, allowing freight and passengers to move over land faster and cheaper than ever possible before."
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0001",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.5300936996936798,
+      "text": "suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital. Following his recovery, the now-unemployed Tramp is mistakenly arrested in a Communist demonstration. In jail, he accidentally ingests smuggled cocaine, and in his subsequent delirium, he avoids being put back in his cell. When he returns, he stumbles upon a jailbreak and knocks the convicts..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.5060529708862305,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.5041682183742523,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0000",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.5022069126367569,
+      "text": "Bedtime (also called putting to bed or tucking in) is a ritual part of parenting to help children feel more secure and become accustomed to a more rigid schedule of sleep than they might prefer. The ritual of bedtime is aimed at facilitating the transition from wakefulness to sleep. It may involve bedtime stories, children's songs, nursery rhymes, bed-making and getting children to change into nightwear. In some religious households, prayers are said shortly before going to bed. Sleep training may be part of the bedtime ritual for babies and toddlers. In adult use, the term means simply \"time for bed\", similar to curfew, as in \"It's past my bedtime\". Some people are accustomed to drinking a nightcap or herbal tea at bedtime. Sleeping coaches are also used to help individuals reach their bedtime goals. Researchers studying sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep."
+    },
+    {
+      "chunk_id": "wikipedia:Train#0001",
+      "doc_id": "wikipedia:Train",
+      "title": "Train",
+      "url": "https://en.wikipedia.org/?curid=30598",
+      "source_type": "wikipedia",
+      "score": 0.5004216939210892,
+      "text": "in 1802, trains rapidly spread around the world, allowing freight and passengers to move over land faster and cheaper than ever possible before. Rapid transit and trams were first built in the late 1800s to transport large numbers of people in and around cities. Beginning in the 1920s, and accelerating following World War II, diesel and electric locomotives replaced..."
+    },
+    {
+      "chunk_id": "wikipedia:WOUR#0001",
+      "doc_id": "wikipedia:WOUR",
+      "title": "WOUR",
+      "url": "https://en.wikipedia.org/?curid=5292420",
+      "source_type": "wikipedia",
+      "score": 0.42855431139469147,
+      "text": "owned by the Brinsfield Broadcasting Company. In 1970, it changed its format to the syndicated automated Adult Top 40 \"Hit Parade '70\" service. In 1971, it programmed \"Hit Parade '71\" by day, and progressive rock at night, with a live disc jockey during the rock hours. In 1973, WOUR became a full-time progressive rock station. Over time, the format segued to only the top tracks from the biggest..."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0000",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.4213213622570038,
+      "text": "Strongest Deliveryman (Korean: 최강 배달꾼; RR: Choegang baedalkkun) is a 2017 South Korean television series starring Go Kyung-pyo, Chae Soo-bin, Kim Seon-ho, and Go Won-hee. It premiered on August 4, 2017, and aired every Friday and Saturday at 23:00 (KST) on KBS2 until September 23, 2017. Synopsis Choi Kang-soo is a deliveryman who wants to become the CEO of his own delivery app company. The series tells of his journey to achieving love and success. Cast Main Go Kyung-pyo as Choi Kang-soo A veteran deliveryman who puts his life on the line at whatever he does. Chae Soo-bin as Lee Dan-ah A delivery woman who is so single-minded about making money and escaping from \"Hell Joseon\" that she turns down all advances from men. Kim Seon-ho as Oh Jin-kyu A rich man's son, the former Head Manager of Jung Family Seollongtang, he is stubborn at first but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0000",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.41877543926239014,
+      "text": "The Oompa-Loompas are a fictional race of people in the Charlie and the Chocolate Factory franchise based on the original book by Roald Dahl. In all versions of the story, they are depicted as little people who form the workforce of Willy Wonka's chocolate factory, and are paid in cocoa beans. However, their appearance and backstory change depending on the version. Design and characteristics The Oompa-Loompas are described as being no larger than medium-sized dolls, with rosy-white skin and long golden-brown hair. They wear the same clothes they wore at Loompaland: the men wear deerskins, the women wear leaves and the children wear nothing at all. Before moving to Willy Wonka's chocolate factory, the Oompa-Loompas lived in Loompaland, where they lived in constant fear of the predators that would eat them. Their main source of food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Soldiers are running across a field, away from an explosion in the distance.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Soldiers",
+          "the distance"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster feels like running to catch the train is like war.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the train",
+          "war"
+        ]
+      },
+      "title": {
+        "text": "Catching your train in the morning be like",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "your train",
+          "the morning",
+          "catching",
+          "train",
+          "morning"
+        ]
+      },
+      "text": {
+        "text": "How it feels to catch your train along a crowded platform fw Se. ft \\ , i. boo : Pom / 1 ~~ — fy o ier J ., ; ~~ | I/ fo. : moe “ ™ won “ Ft, .* | : 7 ne i. a / 2 _. ar",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "your train",
+          "Pom",
+          "moe"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "your train",
+      "the morning",
+      "catching",
+      "train",
+      "morning",
+      "Pom",
+      "moe"
+    ],
+    "secondary_terms": [
+      "Soldiers",
+      "the distance",
+      "the train",
+      "war"
+    ],
+    "queries": [
+      "\"Pom\" \"the morning\" \"catching\" \"train\"",
+      "\"catching\" \"train\" \"morning\" \"moe\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_00017",
+  "queries": [
+    "\"CRT\" \"the middle\" \"the earth\" \"the table\" \"will\"",
+    "\"the table\" \"will\" \"bore\" \"middle\""
+  ],
+  "primary_terms": [
+    "the middle",
+    "the earth",
+    "will",
+    "bore",
+    "middle",
+    "earth",
+    "fear",
+    "the table",
+    "your fingers"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Middle#0000",
+      "doc_id": "wikipedia:Middle",
+      "title": "Middle",
+      "url": "https://en.wikipedia.org/?curid=854025",
+      "source_type": "wikipedia",
+      "score": 0.935882818698883,
+      "text": "Middle or The Middle may refer to: Centre (geometry), the point equally distant from the outer limits. Places Middle (sheading), a subdivision of the Isle of Man Middle Bay (disambiguation) Middle Brook (disambiguation) Middle Creek (disambiguation) Middle Island (disambiguation) Middle Lake (disambiguation) Middle Mountain, California Middle Peninsula, Chesapeake Bay, Virginia Middle Range, a former name of the Xueshan Range on Taiwan Island Middle River (disambiguation) Middle Rocks, two rocks at the eastern opening of the Straits of Singapore Middle Sound, a bay in North Carolina Middle Township (disambiguation) Middle East Music \"Middle\" (song), 2015 \"The Middle\" (Jimmy Eat World song), 2001 \"The Middle\" (Zedd, Maren Morris and Grey song), 2018 \"Middle\", a song by Rocket from the Crypt from their 1995 album Scream, Dracula, Scream!"
+    },
+    {
+      "chunk_id": "wikipedia:Table#0000",
+      "doc_id": "wikipedia:Table",
+      "title": "Table",
+      "url": "https://en.wikipedia.org/?curid=274698",
+      "source_type": "wikipedia",
+      "score": 0.8851401269435882,
+      "text": "Table may refer to: Table (database), how the table data arrangement is used within the databases Table (furniture), a piece of furniture with a flat surface and one or more legs Table (information), a data arrangement with rows and columns Table (landform), a flat area of land Table (parliamentary procedure) Table (sports), a ranking of the teams in a sports league Tables (board game) Mathematical table Tables of the skull, a term for the flat bones Table, surface of the sound board (music) of a string instrument Al-Ma'ida, the fifth surah of the Qur'an, occasionally translated as “The Table” Calligra Tables, a spreadsheet application Water table See also Spreadsheet, a computer application Table cut, a type of diamond cut The Table (disambiguation) Table Mountain (disambiguation) Table Rock (disambiguation) Tabler (disambiguation) Tablet (disambiguation) All pages with titles beginning with Table All pages with titles containing Table All pages with titles beginning with Tabular All"
+    },
+    {
+      "chunk_id": "wikipedia:Bore#0000",
+      "doc_id": "wikipedia:Bore",
+      "title": "Bore",
+      "url": "https://en.wikipedia.org/?curid=740676",
+      "source_type": "wikipedia",
+      "score": 0.5904965281486512,
+      "text": "Bore or Bores often refer to: Boredom Drill Relating to holes Boring (earth), cutting a hole into the earth Boring (manufacturing), a machining process that enlarges a hole Bore (engine), the diameter of a cylinder in a piston engine or a steam locomotive Bore (wind instruments), the interior chamber of a wind instrument Nominal bore, a pipe size standard Water well, known as a water bore in Australia The hollow lumen of a gun barrel Gauge (firearms), the inner diameter of the barrel of a firearm Places Bore (Aanaa), a district of Ethiopia that includes the town of Bore Bore, Emilia-Romagna, a commune in Emilia-Romagna, Italy Boré, Mali, a village in Dangol Boré commune in the Mopti Region of Mali Bore, Norway, a small village in Klepp municipality in Rogaland county, Norway Bore Track, a track in the South Australian outback Bore Valley, South Georgia, Antarctica People Bore (surname) Francisco Bores (1898–1972), Spanish artist Maritime shipping Steamship Company Bore, a Finnish"
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0001",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.5098888874053955,
+      "text": "or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover (theater), a walkway across the stage hidden from the audience Crossover thrash, a musical genre combining thrash and punk Crossover (video games) The Crossover..."
+    },
+    {
+      "chunk_id": "wikipedia:Common#0001",
+      "doc_id": "wikipedia:Common",
+      "title": "Common",
+      "url": "https://en.wikipedia.org/?curid=568187",
+      "source_type": "wikipedia",
+      "score": 0.5012224167585373,
+      "text": "critic Arts, entertainment, and media Common (film), a 2014 BBC One film, written by Jimmy McGovern, on the UK's Joint Enterprise Law Dol Common, a character in The Alchemist by Ben Jonson Harvard Common Press of Boston, Massachusetts, a publisher of cookbooks and parenting books The Common Room, a former interactive TV show on ITV..."
+    },
+    {
+      "chunk_id": "wikipedia:Final#0001",
+      "doc_id": "wikipedia:Final",
+      "title": "Final",
+      "url": "https://en.wikipedia.org/?curid=759020",
+      "source_type": "wikipedia",
+      "score": 0.49910490214824677,
+      "text": "electronic musical group Final (Vol. 1), 2021 album by Enrique Iglesias Final (Vol. 2), 2024 album by Enrique Iglesias The Final (album), by Wham! \"The Final\", a song by Dir en grey on the album Withering to Death Other uses Final case, a grammatical case Part of a syllable NBA Finals, the championship competition of the National Basketball Association..."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0001",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.49677557349205015,
+      "text": "a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly. Where the hall inside the front door of a house is elongated, it may be called a passage, corridor (from Spanish corredor used in El Escorial and 100 years later in Castle Howard), or hallway. History In warmer climates, the houses of the wealthy were often built around a courtyard, but in northern areas manors were built around a great hall. The hall was home to the hearth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0001",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.45652974843978883,
+      "text": "astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest. Measurable time is believed to have effectively begun with the Big Bang 13.8 billion years ago, encompassed by the chronology of the universe. Modern physics understands time to be inextricable from space within the concept of spacetime described by general relativity..."
+    },
+    {
+      "chunk_id": "wikipedia:Second#0001",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.45222310423851014,
+      "text": "current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks. As the speed of Earth's rotation varies and is slowing ever so slightly, a leap second is added at irregular intervals to civil time to keep clocks in sync with Earth's rotation. The definition that is based on 1⁄86400 of a rotation of the earth is still used by the Universal Time 1 (UT1) system..."
+    },
+    {
+      "chunk_id": "wikipedia:Final#0000",
+      "doc_id": "wikipedia:Final",
+      "title": "Final",
+      "url": "https://en.wikipedia.org/?curid=759020",
+      "source_type": "wikipedia",
+      "score": 0.4461948573589325,
+      "text": "Final, Finals or The Final may refer to: Final examination or finals, a test given at the end of a course of study or training Final (competition), the last or championship round of a sporting competition, match, game, or other contest which decides a winner for an event Another term for playoffs, describing a sequence of contests taking place after a regular season or round-robin tournament, culminating in a final by the first definition. Art and entertainment Finals (comics), a four-issue comic book mini-series The Finals, a first-person shooter game Film and television Final (film), a science fiction film The Final (film), a thriller film Finals (film), a 2019 Malayalam sports drama film \"Finals\" (Doctor in the House), a 1970 television episode Music Final, a tone of the Gregorian mode Final (band), an English electronic musical group Final (Vol. 1), 2021 album by Enrique Iglesias Final (Vol. 2), 2024 album by Enrique Iglesias The Final (album), by Wham!"
+    }
+  ]
+}

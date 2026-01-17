@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_03824",
+  "queries": [
+    "\"the high ground\" \"People\" \"high\" \"ground\"",
+    "\"high\" \"ground\" \"here\" \"laugh\""
+  ],
+  "primary_terms": [
+    "People",
+    "the high ground",
+    "high",
+    "ground",
+    "here",
+    "laugh",
+    "wee",
+    "arn",
+    "aan",
+    "van"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Tanna#0000",
+      "doc_id": "wikipedia:Tanna",
+      "title": "Tanna",
+      "url": "https://en.wikipedia.org/?curid=4651537",
+      "source_type": "wikipedia",
+      "score": 15.093049389425063,
+      "text": "Tanna may refer to: Places Tanna (island), an island in Vanuatu Tanna, Germany, a city in Thuringia Tanna, former name of city of Thane in India People Tanna, singular form of tannaim, a Rabbinic sage recorded in the Mishna Tanna, a last name common among Lohanas Christian Tanna, a member of the rock band I Mother Earth Dan Tanna, fictional character, in the TV series Vega$ (1978–1981) Jagori Tanna, a member of the rock band I Mother Earth, brother of Christian Karishma Tanna, Indian actress Tanna Frederick, American actress Science Tanna (cicada), a genus of cicadas Tanna fruit dove, a bird endemic to Vanuatu Tanna ground dove, an extinct bird endemic to Vanuatu Tanna ornatipes, a genus of jumping spiders, synonym of Araneotanna Other Tanna, an Old High German word meaning oak from which the word tannin is derived Tanna (film), a 2015 film set on the island of Tanna, Vanuatu Tanna languages, a subgroup of the South Vanuatu languages See also Tana (disambiguation) All pages with"
+    },
+    {
+      "chunk_id": "wikipedia:Amusement#0000",
+      "doc_id": "wikipedia:Amusement",
+      "title": "Amusement",
+      "url": "https://en.wikipedia.org/?curid=768817",
+      "source_type": "wikipedia",
+      "score": 0.8737824261188507,
+      "text": "Amusement is the state of experiencing humorous and entertaining events or situations while the person or animal actively maintains the experience, and is associated with enjoyment, happiness, laughter and pleasure. It is an emotion with positive valence and high physiological arousal. Amusement is considered an \"epistemological\" emotion because humor occurs when one experiences a cognitive shift from one knowledge structure about a target to another, such as hearing the punchline of a joke. Emotions perceived overtime are focused on the daily dynamics of life as augment or blunt. The pleasant surprise that happens from learning this new information leads to a state of amusement which people often express through smiling, laughter or chuckling. Current studies have not yet reached consensus on the exact purpose of amusement, though theories have been advanced in the fields of psychology, psychiatry, and sociology."
+    },
+    {
+      "chunk_id": "wikipedia:Joke#0000",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.7890011310577393,
+      "text": "A joke is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh and is usually not meant to be interpreted literally. It usually takes the form of a story, often with dialogue, and ends in a punch line, whereby the humorous element of the story is revealed; this can be done using a pun or other type of word play, irony or sarcasm, logical incompatibility, hyperbole, or other means. Linguist Robert Hetzron offers the definition: A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end. No continuation relieving the tension should be added. As for its being \"oral,\" it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry."
+    },
+    {
+      "chunk_id": "wikipedia:Earthquake#0000",
+      "doc_id": "wikipedia:Earthquake",
+      "title": "Earthquake",
+      "url": "https://en.wikipedia.org/?curid=10106",
+      "source_type": "wikipedia",
+      "score": 0.6778537511825562,
+      "text": "An earthquake, also called a quake, tremor, or temblor, is the shaking of the Earth's surface resulting from a sudden release of energy in the lithosphere that creates seismic waves. Earthquakes can range in intensity, from those so weak they cannot be felt, to those violent enough to propel objects and people into the air, damage critical infrastructure, and wreak destruction across entire cities. The seismic activity of an area is the frequency, type, and size of earthquakes experienced over a particular time. The seismicity at a particular location in the Earth is the average rate of seismic energy release per unit volume. In its most general sense, the word earthquake is used to describe any seismic event that generates seismic waves. Earthquakes can occur naturally or be induced by human activities, such as mining, fracking, and nuclear weapons testing. The initial point of rupture is called the hypocenter or focus, while the ground level directly above it is the epicenter."
+    },
+    {
+      "chunk_id": "wikipedia:Floor#0000",
+      "doc_id": "wikipedia:Floor",
+      "title": "Floor",
+      "url": "https://en.wikipedia.org/?curid=82926",
+      "source_type": "wikipedia",
+      "score": 0.6705375075340271,
+      "text": "A floor is the bottom surface of a room or vehicle. Floors vary from simple dirt in a cave to many layered surfaces made with modern technology. Floors may be stone, wood, bamboo, metal, or any other material that can support the expected load. The levels of a building are often referred to as floors, although sometimes referred to as storeys. Floors typically consist of a subfloor for support and a floor covering used to give a good walking surface. In modern buildings, the subfloor often has electrical wiring, plumbing, and other services built in. As floors must meet many needs, some essential to safety, floors are built to strict building codes in some regions. Special floor structures Where a special floor structure like a floating floor is laid upon another floor, both may be called subfloors."
+    },
+    {
+      "chunk_id": "wikipedia:Static electricity#0000",
+      "doc_id": "wikipedia:Static electricity",
+      "title": "Static electricity",
+      "url": "https://en.wikipedia.org/?curid=200136",
+      "source_type": "wikipedia",
+      "score": 0.6620755970478058,
+      "text": "Static electricity is an imbalance of electric charges within or on the surface of a material. The charge remains until it can move away as an electric current or by electrical discharge. The word \"static\" is used to differentiate it from current electricity, where an electric charge flows through an electrical conductor. A static electric charge can be created whenever two surfaces contact and/or slide against each other and then separate. The effects of static electricity are familiar to most people because they can feel, hear, and even see sparks if the excess charge is neutralized when brought close to an electrical conductor (for example, a path to ground), or a region with an excess charge of the opposite polarity (positive or negative). The familiar phenomenon of a static shock – more specifically, an electrostatic discharge – is caused by the neutralization of a charge."
+    },
+    {
+      "chunk_id": "wikipedia:Flight#0001",
+      "doc_id": "wikipedia:Flight",
+      "title": "Flight",
+      "url": "https://en.wikipedia.org/?curid=159472",
+      "source_type": "wikipedia",
+      "score": 0.6400300979614257,
+      "text": "travel through the atmosphere. astronautics — the study of vehicles that travel through space. ballistics — the study of the flight of projectiles. Types of flight Buoyant flight Humans have managed to construct lighter-than-air vehicles that raise off the ground and fly, due to their buoyancy in the air. An aerostat is a system that remains aloft primarily through the use of buoyancy to give an aircraft..."
+    },
+    {
+      "chunk_id": "wikipedia:Floor#0001",
+      "doc_id": "wikipedia:Floor",
+      "title": "Floor",
+      "url": "https://en.wikipedia.org/?curid=82926",
+      "source_type": "wikipedia",
+      "score": 0.633783957362175,
+      "text": "some regions. Special floor structures Where a special floor structure like a floating floor is laid upon another floor, both may be called subfloors. Special floor structures are used for a number of purposes: Balcony, a platform projecting from a wall Floating floor, normally for noise or vibration reduction Glass floor, as in glass bottomed elevators Nightingale floor makes a noise when an intruder walks on it Raised floor, utilities underneath can be accessed easily Sprung floor, improves the performance and safety of athletes..."
+    },
+    {
+      "chunk_id": "wikipedia:Earthquake#0001",
+      "doc_id": "wikipedia:Earthquake",
+      "title": "Earthquake",
+      "url": "https://en.wikipedia.org/?curid=10106",
+      "source_type": "wikipedia",
+      "score": 0.6093476772308349,
+      "text": "nuclear weapons testing. The initial point of rupture is called the hypocenter or focus, while the ground level directly above it is the epicenter. Earthquakes are primarily caused by geological faults, but also by volcanism, landslides, and other seismic events. Significant historical earthquakes include the 1976 Tangshan earthquake in China, with over..."
+    },
+    {
+      "chunk_id": "wikipedia:Down#0000",
+      "doc_id": "wikipedia:Down",
+      "title": "Down",
+      "url": "https://en.wikipedia.org/?curid=8550",
+      "source_type": "wikipedia",
+      "score": 0.5042048901319504,
+      "text": "Down most often refers to: Down, the relative direction opposed to up Down (gridiron football), in North American/gridiron football, a period when one play takes place Down feather, a soft bird feather used in bedding and clothing Downland, a type of hill Down may also refer to: Places County Down, Northern Ireland, UK County Down (Parliament of Ireland constituency), abolished 1800 Down (Northern Ireland Parliament constituencies) Down (Northern Ireland Parliament constituency), 1921–1929 Down (UK Parliament constituency), 1801–1885 and 1922–1950 Down (civil parish) Down county football team, Gaelic football Down, County Westmeath, Ireland Downe, Greater London, England, formerly called \"Down\" People Down (surname) John Langdon Down (1828–1896), British physician best known for his description of Down syndrome Down AKA Kilo (born 1985), American rapper Film and television Down (film), a 2001 English remake of the film De Lift \"Down\" (Breaking Bad), an episode of the second season of"
+    }
+  ]
+}

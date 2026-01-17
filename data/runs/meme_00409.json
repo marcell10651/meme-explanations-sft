@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_00409",
+  "queries": [
+    "\"the most dogshit business decision\" \"the past 0.00003 seconds\" \"CEOs\" \"Nee\"",
+    "\"CEOs\" \"Nee\" \"streaming services\" \"purpose\""
+  ],
+  "primary_terms": [
+    "purpose",
+    "swear",
+    "doing",
+    "CEOs",
+    "streaming services",
+    "the most dogshit business decision",
+    "the past 0.00003 seconds",
+    "Nee"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Google#0001",
+      "doc_id": "wikipedia:Google",
+      "title": "Google",
+      "url": "https://en.wikipedia.org/?curid=1092923",
+      "source_type": "wikipedia",
+      "score": 0.7742986679077148,
+      "text": "owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's internet properties and interests. Sundar Pichai was appointed CEO of Google on October 24, 2015, replacing Larry Page, who became the CEO of Alphabet. On December 3, 2019, Pichai also became the CEO of Alphabet. After the success of its original service..."
+    },
+    {
+      "chunk_id": "wikipedia:Most#0001",
+      "doc_id": "wikipedia:Most",
+      "title": "Most",
+      "url": "https://en.wikipedia.org/?curid=26476214",
+      "source_type": "wikipedia",
+      "score": 0.6369705200195312,
+      "text": "(MoST), a defunct American fabless semiconductor company Most (Croatian political party), a party founded in 2012 Most Radio 105.8 FM, an Indonesian radio station See also MOST (disambiguation) The Most (disambiguation) Must (disambiguation) Moest (disambiguation) All pages with titles beginning with Most All pages with titles beginning..."
+    },
+    {
+      "chunk_id": "wikipedia:Minutes#0001",
+      "doc_id": "wikipedia:Minutes",
+      "title": "Minutes",
+      "url": "https://en.wikipedia.org/?curid=901046",
+      "source_type": "wikipedia",
+      "score": 0.5542973488569259,
+      "text": "software to record and prepare all minutes in real-time. Purpose Minutes are the official written record of the meetings of an organization or group. They are not transcripts of those proceedings. Using Robert's Rules of Order Newly Revised (RONR), the minutes should contain mainly a record of what was done at the meeting, not what was said by the members. The organization..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.530153825879097,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Success#0001",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.521042674779892,
+      "text": "a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness. It may also be difficult or impossible to ascertain whether a situation meets criteria for success or failure due to ambiguous or ill-defined definition of those criteria. Finding useful and effective criteria, or heuristics, to judge the failure or success of a situation may itself be a significant task. In American culture DeVitis and Rich link the..."
+    },
+    {
+      "chunk_id": "wikipedia:Profit#0001",
+      "doc_id": "wikipedia:Profit",
+      "title": "Profit",
+      "url": "https://en.wikipedia.org/?curid=18487619",
+      "source_type": "wikipedia",
+      "score": 0.5079467296600342,
+      "text": "player Places Profit, United States Virgin Islands See also All pages with titles beginning with Profit All pages with titles containing Profit Proffit (disambiguation) Proffitt (disambiguation) Prophet (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.4735013246536255,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.46738579869270325,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube#0000",
+      "doc_id": "wikipedia:YouTube",
+      "title": "YouTube",
+      "url": "https://en.wikipedia.org/?curid=3524766",
+      "source_type": "wikipedia",
+      "score": 0.46380747854709625,
+      "text": "YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen, who were former employees of PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google. In January 2024, YouTube had more than 2.7 billion monthly active users, who collectively watched more than one billion hours of videos every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of content per minute, and as of mid-2024, there were approximately 14.8 billion videos in total. On November 13, 2006, YouTube was purchased by Google for US$1.65 billion (equivalent to $2.39 billion in 2024). Google expanded YouTube's business model from generating revenue through advertisements alone to offering paid content such as movies and exclusive content explicitly produced for YouTube."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0001",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.45994701981544495,
+      "text": "by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\". Angered by the suicide of a student who is mocked and refused a loan for her studies, they eventually kill the corrupt bank manager who abetted it. Soon enough, more corrupt individuals are killed, and Rajan Mathew is reinstated as S.P. to nab the group. The team learn..."
+    }
+  ]
+}

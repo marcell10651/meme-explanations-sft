@@ -1,0 +1,116 @@
+{
+  "meme_id": "meme_05718",
+  "queries": [
+    "\"Spiderman\" \"How about 20 more years\" \"some other year\" \"the deadline\" \"more\"",
+    "\"the deadline\" \"more\" \"years\" \"since\""
+  ],
+  "primary_terms": [
+    "How about 20 more years",
+    "more",
+    "years",
+    "the deadline",
+    "some other year",
+    "since",
+    "missed",
+    "cars",
+    "increase",
+    "deadline",
+    "other",
+    "year",
+    "now",
+    "noy",
+    "ome"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Year#0000",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 1.104967826604843,
+      "text": "A year is a unit of time based on how long it takes the Earth to orbit the Sun. In scientific use, the tropical year (approximately 365 solar days, 5 hours, 48 minutes, 45 seconds) and the sidereal year (about 20 minutes longer) are more exact. The modern calendar year, as reckoned according to the Gregorian calendar, approximates the tropical year by using a system of leap years. The term 'year' is also used to indicate other periods of roughly similar duration, such as the lunar year (a roughly 354-day cycle of twelve of the Moon's phases – see lunar calendar), as well as periods loosely associated with the calendar or astronomical year, such as the seasonal year, the fiscal year, the academic year, etc. Due to the Earth's axial tilt, the course of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility."
+    },
+    {
+      "chunk_id": "wikipedia:Century#0000",
+      "doc_id": "wikipedia:Century",
+      "title": "Century",
+      "url": "https://en.wikipedia.org/?curid=5881",
+      "source_type": "wikipedia",
+      "score": 1.0415685266256332,
+      "text": "A century is a period of 100 years or 10 decades. Centuries are numbered ordinally in English and many other languages. The word century comes from the Latin centum, meaning one hundred. Century is sometimes abbreviated as c. A centennial or centenary is a hundredth anniversary, or a celebration of this, typically the remembrance of an event which took place a hundred years earlier. Start and end of centuries Although a century can mean any arbitrary period of 100 years, there are two viewpoints on the nature of standard centuries. One is based on strict construction, while the other is based on popular perception. According to the strict construction, the 1st century AD, which began with AD 1, ended with AD 100, and the 2nd century with AD 200; in this model, the n-th century starts with a year that follows a year with a multiple of 100 (except the first century as it began after the year 1 BC) and ends with the next coming year with a multiple of 100 (100n), i.e."
+    },
+    {
+      "chunk_id": "wikipedia:Decade#0000",
+      "doc_id": "wikipedia:Decade",
+      "title": "Decade",
+      "url": "https://en.wikipedia.org/?curid=695530",
+      "source_type": "wikipedia",
+      "score": 0.9857568860054016,
+      "text": "A decade (from Ancient Greek: δεκάς, dekas, lit. 'group of 10') is a period of 10 years. It may also be called a decennium (from Latin: decennium, lit. 'ten-year'). Decades may describe any ten-year period, such as those of a person's life, or refer to specific groupings of calendar years. Usage Any period of ten years is a 'decade' or 'decennium'. For example, the statement that \"during his last decade, Mozart explored chromatic harmony to a degree rare at the time\" refers to the last 10 years of Wolfgang Amadeus Mozart's life without regard to which calendar years are encompassed. Also, 'the first decade' of a person's life begins on the day of their birth and ends at the end of their 10th year of life when they have their 10th birthday; the second decade of life starts with their 11th year of life (during which one is typically still referred to as being \"10\") and ends at the end of their 20th year of life, on their 20th birthday; similarly, the third decade of life, when one is in"
+    },
+    {
+      "chunk_id": "wikipedia:More#0000",
+      "doc_id": "wikipedia:More",
+      "title": "More",
+      "url": "https://en.wikipedia.org/?curid=43850",
+      "source_type": "wikipedia",
+      "score": 0.8326772212982178,
+      "text": "More may refer to: Computing MORE (application), outline software for Mac OS more (command), a shell command MORE protocol, a routing protocol Missouri Research and Education Network Music Albums More! (album), by Booka Shade, 2010 More (soundtrack), by Pink Floyd with music from the 1969 film More... (Trace Adkins album), or the title song, 1999 More (Mary Alessi album), 2005 More (Beyoncé EP), 2014 More (Michael Bublé EP), 2005 More (Clarke-Boland Big Band album), 1968 More (Double Dagger album), 2009 More... (Montell Jordan album), 1996 More (Crystal Lewis album), 2001 More (Giuseppi Logan album), 1966 More (No Mercy album), 1998 More (No Trend album), 2001 More (Jeremy Riddle album), or the title song, 2017 More (Pulp album), 2025 More (Symphony Number One album), 2016 More (Tamia album), or the title song, 2004 More (Vitamin C album), 2001 More, by Mylon LeFevre, 1983 More, by Resin Dogs, 2007 Songs \"More\" (Alex Alstone and Tom Glazer song), popularized by Perry Como, 1956 \"More\""
+    },
+    {
+      "chunk_id": "wikipedia:Student#0000",
+      "doc_id": "wikipedia:Student",
+      "title": "Student",
+      "url": "https://en.wikipedia.org/?curid=155526",
+      "source_type": "wikipedia",
+      "score": 0.7950648576021194,
+      "text": "A student is a person enrolled in a school or other educational institution, or more generally, a person who takes a special interest in a subject. In the United Kingdom and most commonwealth countries, a \"student\" attends a secondary school or higher (e.g., college or university); those in primary or elementary schools are \"pupils\". Africa Nigeria In Nigeria, education is classified into four systems known as a 6-3-3-4 system of education. It implies six years in primary school, three years in junior secondary, three years in senior secondary and four years in the university. However, the number of years to be spent in university is mostly determined by the course of study. Some courses have longer study lengths than others. Those in primary school are often referred to as pupils. Those in university, as well as those in secondary school, are referred to as students. The Nigerian system of education also has other recognized categories like the polytechnics and colleges of education."
+    },
+    {
+      "chunk_id": "wikipedia:More#0001",
+      "doc_id": "wikipedia:More",
+      "title": "More",
+      "url": "https://en.wikipedia.org/?curid=43850",
+      "source_type": "wikipedia",
+      "score": 0.7854352653026581,
+      "text": "2001 More, by Mylon LeFevre, 1983 More, by Resin Dogs, 2007 Songs \"More\" (Alex Alstone and Tom Glazer song), popularized by Perry Como, 1956 \"More\" (Alison Moyet song), 2003 \"More\" (J-Hope song), 2022 \"More\" (K/DA song), 2020 \"More\" (Matthew West song), 2003 \"More\" (Peaches song), 2009 \"More\" (The Sisters of Mercy song),..."
+    },
+    {
+      "chunk_id": "wikipedia:Better#0000",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.7532295048236847,
+      "text": "Better may refer to: \"to better\" as a verb, meaning to undergo betterment better, an alternate spelling of bettor, someone who bets (gambles) Music Albums Better (Chrisette Michele album), 2013 Better (Brian McKnight album), 2016 Better (Haley Reinhart album), 2016 Better (BoA album), 2020 Songs \"Better\" (The Screaming Jets song), 1991 \"Better\" (Brooke Fraser song), 2003 \"Better\" (Tom Baxter song)\", 2007, covered by Boyzone in 2008 \"Better\" (Guns N' Roses song), 2008 \"Better\" (Maggie Rose song), 2012 \"Better\" (Kim Hyung-jun song), 2014 \"Better\" (Banks song), 2015 \"Better\" (Haley Reinhart song), 2016 \"Better\" (Meghan Trainor song), 2016 \"Better\" (Mallrat song), 2017 \"Better\" (Khalid song), 2018 \"Better\" (Lena Meyer-Landrut and Nico Santos song), 2019 \"Better\" (Twice song), 2020 \"Better\" (Zayn song), 2020 \"Better\" (MK and Burns song), 2022 \"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000"
+    },
+    {
+      "chunk_id": "wikipedia:Another Man, Another Chance#0000",
+      "doc_id": "wikipedia:Another Man, Another Chance",
+      "title": "Another Man, Another Chance",
+      "url": "https://en.wikipedia.org/?curid=17874058",
+      "source_type": "wikipedia",
+      "score": 0.7285560607910156,
+      "text": "Another Man, Another Chance (Un autre homme, une autre chance, UK title: Another Man, Another Woman) is a 1977 French western film directed by Claude Lelouch. Plot France in 1870: Napoleon III has just lost the war against Prussia and left the country in poverty. Young Jeanne (Geneviève Bujold) falls in love with photographer Francis (Francis Huster), who soon takes her with him when he emigrates to The United States. In a small town in the still Wild West, they build up a small photo shop. Meanwhile, animal doctor David (James Caan) lives on his lonesome farm with his wife. It takes two years and two tragic accidents until Jeanne and David meet. Alone with a child, Jeanne has decided to return to France and is about to leave but then she and David silently and carefully fall in love for the second time in their lives and hope returns."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0000",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.6225693106651307,
+      "text": "Other often refers to: Other (philosophy), a concept in psychology and philosophy Other or The Other may also refer to: Film and television The Other (1913 film), a German silent film directed by Max Mack The Other (1930 film), a German film directed by Robert Wiene The Other (1947 film), an Italian film directed by Carlo Ludovico Bragaglia The Other (1972 film), an American film directed by Robert Mulligan The Other (1999 film), a French-Egyptian film directed by Youssef Chahine The Other (2007 film), an Argentine-French-German film by Ariel Rotter The Other (2025 film), an American film directed by Paul Etheredge Other (film), a French/Belgian film directed by David Moreau The Other (Doctor Who), a fictional character in Doctor Who The Other (Marvel Cinematic Universe), a fictional character in the Marvel Cinematic Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A."
+    },
+    {
+      "chunk_id": "wikipedia:Spider#0000",
+      "doc_id": "wikipedia:Spider",
+      "title": "Spider",
+      "url": "https://en.wikipedia.org/?curid=28329803",
+      "source_type": "wikipedia",
+      "score": 0.6154985308647156,
+      "text": "Spiders (order Araneae) are air-breathing arthropods that have eight limbs, chelicerae with fangs generally able to inject venom, and spinnerets that extrude silk. They are the largest order of arachnids and rank seventh in total species diversity among all orders of organisms. Spiders are found worldwide on every continent except Antarctica, and have become established in nearly every land habitat. As of December 2025, 53,608 spider species in 139 families have been recorded by taxonomists. However, there has been debate among scientists about how families should be classified, with over 20 different classifications proposed since 1900. Anatomically, spiders (as with all arachnids) differ from other arthropods in that the usual body segments are fused into two tagmata, the cephalothorax or prosoma, and the opisthosoma, or abdomen, and joined by a small, cylindrical pedicel."
+    }
+  ]
+}

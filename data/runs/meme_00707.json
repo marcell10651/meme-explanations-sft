@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_00707",
+  "queries": [
+    "\"still lmao cool work\" \"Cats\" \"Dogs\" \"classic bayan\"",
+    "\"Dogs\" \"classic bayan\" \"time macnine\" \"time machine\""
+  ],
+  "primary_terms": [
+    "classic bayan",
+    "classic",
+    "bayan",
+    "Cats",
+    "time macnine",
+    "still lmao cool work",
+    "Dogs",
+    "time machine",
+    "the frek"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.6995784997940063,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Spot#0001",
+      "doc_id": "wikipedia:Spot",
+      "title": "Spot",
+      "url": "https://en.wikipedia.org/?curid=67090",
+      "source_type": "wikipedia",
+      "score": 0.641629672050476,
+      "text": "on public broadcasting outlets, especially in the United States, in exchange for funding Animals Spot, a dog that remained faithful after his master's death, described in the List of individual dogs Spot Fetcher, a dog owned by U.S. President George W. Bush Arts and entertainment Fictional characters Spot, a character..."
+    },
+    {
+      "chunk_id": "wikipedia:Cool#0001",
+      "doc_id": "wikipedia:Cool",
+      "title": "Cool",
+      "url": "https://en.wikipedia.org/?curid=4175379",
+      "source_type": "wikipedia",
+      "score": 0.5713410675525665,
+      "text": "Cool\" (Dua Lipa song) (2020) \"Cool\" (Gwen Stefani song) (2005) \"Cool\" (The Time song) (1981), later covered by Snoop Dogg and Prince \"Cool\" (West Side Story song) (1957) \"Cool\", a 2011 song by Jason Blaine from Life So Far \"Cool\", a 2018 song by Felix Jaehn, featuring Marc E. Bassy and Gucci Mane, from I (Felix Jaehn..."
+    },
+    {
+      "chunk_id": "wikipedia:Works#0000",
+      "doc_id": "wikipedia:Works",
+      "title": "Works",
+      "url": "https://en.wikipedia.org/?curid=523904",
+      "source_type": "wikipedia",
+      "score": 0.5307698398828506,
+      "text": "Works may refer to: People Caddy Works (1896–1982), American college sports coach John D. Works (1847–1928), California senator and judge Samuel Works (c. 1781–1868), New York politician Albums Works (Pink Floyd album), a Pink Floyd album from 1983 Works, a Gary Burton album from 1972 Works, a Status Quo album from 1983 Works, a John Abercrombie album from 1991 Works, a Pat Metheny album from 1994 Works, an Alan Parson Project album from 2002 Works Volume 1, a 1977 Emerson, Lake & Palmer album Works Volume 2, a 1977 Emerson, Lake & Palmer album The Works, a 1984 Queen album Other uses Good works, a topic in Christian theology Microsoft Works, a collection of office productivity programs created by Microsoft IBM Works, an office suite for the IBM OS/2 operating system Mount Works, Victoria Land, Antarctica TV Works, the former name of defunct Singaporean television channel Channel i (Singaporean TV channel) See also The Works (disambiguation) Work (disambiguation) All pages with titles"
+    },
+    {
+      "chunk_id": "wikipedia:Bing#0001",
+      "doc_id": "wikipedia:Bing",
+      "title": "Bing",
+      "url": "https://en.wikipedia.org/?curid=23443579",
+      "source_type": "wikipedia",
+      "score": 0.5291569232940674,
+      "text": "(company), a German company that manufactured toys and kitchen utensils Bing (dog), a British dog who served in World War II Bing (mining), a Scottish term for mining waste Bing & Bing, a former New York real estate development company Bing Concert Hall, a building on the Stanford University campus Barbershop in Germany or..."
+    },
+    {
+      "chunk_id": "wikipedia:Serial#0001",
+      "doc_id": "wikipedia:Serial",
+      "title": "Serial",
+      "url": "https://en.wikipedia.org/?curid=2254334",
+      "source_type": "wikipedia",
+      "score": 0.5023094117641449,
+      "text": "in the Life of Marin County, a 1977 novel by Cyra McFadden The Serial, an early to mid-1960s anthology series that aired on CBC Television in Canada. Computing and technology SerDes, a Serializer/Deserializer (pronounced sir-deez) Serial ATA Serial attached SCSI Serial bus, e.g., I²C 1-Wire Serial Peripheral Interface Bus (SPI) UNI/O Serial cable, a cable used to transfer information between two devices using a serial communication..."
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0001",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.49871356785297394,
+      "text": "(T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A. from AIM \"Finally\", a song by Yes from The Ladder \"Finally\", a 2019 single by Thabsie \"Finally\", a 2023 single by Jonas Blue and Rani Other uses Finally (company), an American light bulb company Finally (film), a 1991 documentary about Eric Burdon Finally, a keyword in exception handling syntax See also Final (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Time travel#0000",
+      "doc_id": "wikipedia:Time travel",
+      "title": "Time travel",
+      "url": "https://en.wikipedia.org/?curid=31591",
+      "source_type": "wikipedia",
+      "score": 0.47813591957092283,
+      "text": "Time travel is the hypothetical activity of traveling into the past or future. Time travel is a concept in philosophy, space, time and fiction, particularly science fiction. In fiction, time travel is typically achieved through the use of a device known as a time machine. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine. It is uncertain whether time travel to the past would be physically possible. Such travel, if at all feasible, may give rise to questions of causality. Forward time travel, outside the usual sense of the perception of time, is an extensively observed phenomenon and is well understood within the framework of special relativity and general relativity. However, making one body advance or delay more than a few milliseconds compared to another body is not feasible with current technology. As for backward time travel, it is possible to find solutions in general relativity that allow for it, such as a rotating black hole."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.46853549778461456,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0000",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.461312398314476,
+      "text": "Finally may refer to: Albums Finally (Namie Amuro album) (2017) Finally!, a 2024 album by The Aquabats Finally (Blackstreet album) or its title song Finally (Sean Ensign album) or its title song \"It's My Life (Finally)\" Finally (Layzie Bone & A.K. album) (2008) Finally... (EP), a 1996 EP by Low Finally... (album), a 2002 album by One True Thing Finally (CeCe Peniston album) or its title song Finally! (T. G. Sheppard album) (1982) Finally (Velvet album) (2006) Finally!, a 2008 album by Iya Villania ...finally, a 1996 album by Too Much Joy Songs \"Finally\" (CeCe Peniston song) (1991) \"Finally\" (D'banj song) (2013) \"Finally\" (Fergie song) (2008) \"Finally\" (Kings of Tomorrow song) (2001) \"Finally\" (T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A."
+    }
+  ]
+}

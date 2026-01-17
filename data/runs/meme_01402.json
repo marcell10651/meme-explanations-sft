@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_01402",
+  "queries": [
+    "\"Everyday\" \"Wwayn\" \"high school\" \"media ona\" \"the hallway\"",
+    "\"media ona\" \"the hallway\" \"everyday\" \"high\""
+  ],
+  "primary_terms": [
+    "high school",
+    "everyday",
+    "high",
+    "school",
+    "media ona",
+    "Wwayn",
+    "the hallway"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Friendly#0001",
+      "doc_id": "wikipedia:Friendly",
+      "title": "Friendly",
+      "url": "https://en.wikipedia.org/?curid=466246",
+      "source_type": "wikipedia",
+      "score": 0.8494264662265778,
+      "text": "Hall, a building on the University of Oregon campus Friendly High School, a public high school in Fort Washington, Maryland, United States Henry J. Friendly Medal, awarded by the American Law Institute for contributions to the field of law Friendly TV, a British TV station from 2003 to 2010 \"Friendly\", a song by J Hus from Common Sense (2017) \"Friendly\", a song by Sakanaction from Adapt (2022) See also Henry the Friendly (1299–1327), son of King Albert I of Germany Friendly number, in mathematics, shares a property concerning..."
+    },
+    {
+      "chunk_id": "wikipedia:Television#0001",
+      "doc_id": "wikipedia:Television",
+      "title": "Television",
+      "url": "https://en.wikipedia.org/?curid=29831",
+      "source_type": "wikipedia",
+      "score": 0.7177577376365661,
+      "text": "the primary medium for influencing public opinion. In the mid-1960s, color broadcasting was introduced in the U.S. and most other developed countries. The availability of various types of archival storage media such as Betamax and VHS tapes, LaserDiscs, high-capacity hard disk drives, CDs, DVDs, flash drives, high-definition HD DVDs and Blu-ray Discs, and cloud digital video recorders has enabled..."
+    },
+    {
+      "chunk_id": "wikipedia:Medium#0001",
+      "doc_id": "wikipedia:Medium",
+      "title": "Medium",
+      "url": "https://en.wikipedia.org/?curid=19967",
+      "source_type": "wikipedia",
+      "score": 0.7063319087028503,
+      "text": "media List of art media (plural: media), materials and techniques used by an artist to produce a work Medium (band), an American rock band Medium (TV series), an American television series starring Patricia Arquette about a medium (psychic intermediary) working as a consultant for a district attorney's office Medium Productions..."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0001",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.65297532081604,
+      "text": "a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly. Where the hall inside the front door of a house is elongated, it may be called a passage, corridor (from Spanish corredor used in El Escorial and 100 years later in Castle Howard), or hallway. History In warmer climates, the houses of the wealthy were often built around a courtyard, but in northern areas manors were built around a great hall. The hall was home to the hearth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Common#0001",
+      "doc_id": "wikipedia:Common",
+      "title": "Common",
+      "url": "https://en.wikipedia.org/?curid=568187",
+      "source_type": "wikipedia",
+      "score": 0.6398971676826477,
+      "text": "critic Arts, entertainment, and media Common (film), a 2014 BBC One film, written by Jimmy McGovern, on the UK's Joint Enterprise Law Dol Common, a character in The Alchemist by Ben Jonson Harvard Common Press of Boston, Massachusetts, a publisher of cookbooks and parenting books The Common Room, a former interactive TV show on ITV..."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.6269536674022674,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0001",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.6069124639034271,
+      "text": "or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover (theater), a walkway across the stage hidden from the audience Crossover thrash, a musical genre combining thrash and punk Crossover (video games) The Crossover..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.5874227583408356,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.568615049123764,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Medium#0000",
+      "doc_id": "wikipedia:Medium",
+      "title": "Medium",
+      "url": "https://en.wikipedia.org/?curid=19967",
+      "source_type": "wikipedia",
+      "score": 0.5630676299333572,
+      "text": "Medium may refer to: Aircraft Medium bomber, a class of warplane Tecma Medium, a French hang glider design Arts, entertainment, and media Films The Medium (1921 film), a German silent film The Medium (1951 film), a film version of the opera directed by Menotti The Medium (1960 film), an Australian television play The Medium (1992 film), an English film from Singapore The Medium (2021 film), a Thai film Medium, a series of Indian comedy-drama films Hindi Medium, 2017 film by Saket Chaudhary Angrezi Medium (English Medium), 2020 film by Homi Adajania Publications Medium (website), an online publishing platform Student Periodicals The Medium (Rutgers), an entertainment weekly at Rutgers University The Medium (University of Toronto Mississauga), a student newspaper at the University of Toronto Mississauga Other arts, entertainment, and media List of art media (plural: media), materials and techniques used by an artist to produce a work Medium (band), an American rock band Medium (TV"
+    }
+  ]
+}

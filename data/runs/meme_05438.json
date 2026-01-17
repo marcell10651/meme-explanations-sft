@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_05438",
+  "queries": [
+    "\"Daily Nichijou\" #1694",
+    "\"Also The United States\" \"Daily Nichijou meme\" \"The United States\" \"The World Cup\"",
+    "\"The United States\" \"The World Cup\" \"the Netherlands\" \"ioe sean\""
+  ],
+  "primary_terms": [
+    "Daily Nichijou meme",
+    "daily",
+    "nichijou",
+    "The United States",
+    "The World Cup",
+    "Also The United States",
+    "the Netherlands",
+    "ioe sean"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:State#0001",
+      "doc_id": "wikipedia:State",
+      "title": "State",
+      "url": "https://en.wikipedia.org/?curid=290282",
+      "source_type": "wikipedia",
+      "score": 0.7712178587913513,
+      "text": "societies or civilizations State may also refer to: Arts, entertainment, and media Literature State Magazine, a monthly magazine published by the U.S. Department of State The State (newspaper), a daily newspaper in Columbia, South Carolina, United States Our State, a monthly magazine published in North Carolina and formerly called The State The State (Larry Niven), a fictional future government in three novels by Larry Niven Music Groups and labels States Records, an American record label The State (band), Australian band previously known as the Cutters Albums State (album), a 2013 album by Todd Rundgren..."
+    },
+    {
+      "chunk_id": "wikipedia:American#0001",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.6348132491111755,
+      "text": "conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C. Sports teams Soccer Baltimore Americans, the name of two soccer teams, one from 1939 to 1942 and one from 1942 to 1948 Chicago Americans, a soccer team in 1972 Dallas Americans, a soccer team from 1983 to 1985 Hartford Americans, a soccer..."
+    },
+    {
+      "chunk_id": "wikipedia:Switzerland#0001",
+      "doc_id": "wikipedia:Switzerland",
+      "title": "Switzerland",
+      "url": "https://en.wikipedia.org/?curid=26748",
+      "source_type": "wikipedia",
+      "score": 0.4688017666339874,
+      "text": "linguistic and cultural regions—German, French, Italian, and Romansh—reflecting a long-standing tradition of multilingualism and cultural pluralism. Swiss national identity nonetheless remains fairly cohesive, rooted in a shared historical background, common values such as federalism and direct democracy, and Alpine symbolism. Swiss nationhood transcends language, ethnicity, and religion, leading..."
+    },
+    {
+      "chunk_id": "wikipedia:Open#0001",
+      "doc_id": "wikipedia:Open",
+      "title": "Open",
+      "url": "https://en.wikipedia.org/?curid=514174",
+      "source_type": "wikipedia",
+      "score": 0.4535508155822754,
+      "text": "magazine featuring current affairs OPEN (North Dakota magazine), an out-of-print magazine that was printed in the Fargo, North Dakota area of the U.S. Open: An Autobiography, tennis player Andre Agassi's 2009 memoir Computing and mathematics Open (process), a program launcher invoked from the command line in NeXTSTEP or Mac OS X Open (system call), standardized system call for opening files Open set, in mathematics..."
+    },
+    {
+      "chunk_id": "wikipedia:Normal People#0001",
+      "doc_id": "wikipedia:Normal People",
+      "title": "Normal People",
+      "url": "https://en.wikipedia.org/?curid=59041422",
+      "source_type": "wikipedia",
+      "score": 0.45338937640190125,
+      "text": "in County Sligo, Ireland, and, later, Trinity College Dublin (TCD). It is set during the post-2008 Irish economic downturn, from 2011 through 2015. Connell is a popular, handsome, and highly intelligent secondary school student raised by a working-class single mother. Marianne is also highly intelligent but is considered intimidating and a social outcast at their school..."
+    },
+    {
+      "chunk_id": "wikipedia:Morning#0001",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.426755428314209,
+      "text": "despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\". Significance Cultural implications Morning prayer is a common practice in several religions. The morning period includes specific phases of the Liturgy of the Hours of Christianity. Some languages that use the time of day in greeting have a special greeting for morning..."
+    },
+    {
+      "chunk_id": "wikipedia:WITS#0001",
+      "doc_id": "wikipedia:WITS",
+      "title": "WITS",
+      "url": "https://en.wikipedia.org/?curid=3083596",
+      "source_type": "wikipedia",
+      "score": 0.41953296959400177,
+      "text": "a 2015 teen sitcom on Nickelodeon Other uses Herman Wits (1636–1708), Dutch theologian Bidvest Wits F.C., a South African football club University of the Witwatersrand, Johannesburg, South Africa WITS (AM), an AM radio station in Sebring, Florida See also Wit (disambiguation) Witts, a surname Witz (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:First Time#0001",
+      "doc_id": "wikipedia:First Time",
+      "title": "First Time",
+      "url": "https://en.wikipedia.org/?curid=2039755",
+      "source_type": "wikipedia",
+      "score": 0.41526490449905396,
+      "text": "Day at a Time) \"The First Time\" (That '70s Show) Literature The First Time (memoir), a 1998 book by Cher and Jeff Coplon First Time, a 2008 novel by Meg Tilly First-Time: The Historical Vision of an Afro-American People, a 1983 book by Richard Price Music Albums First Time (Maya Simantov album) or the title song..."
+    },
+    {
+      "chunk_id": "wikipedia:Serial#0000",
+      "doc_id": "wikipedia:Serial",
+      "title": "Serial",
+      "url": "https://en.wikipedia.org/?curid=2254334",
+      "source_type": "wikipedia",
+      "score": 0.40707120299339294,
+      "text": "Serial may refer to: Arts, entertainment, and media The presentation of works in sequential segments Serial (literature), serialised literature in print Serial (publishing), periodical publications and newspapers Serial (radio and television), series of radio and television programs that rely on a continuing plot Serial film, a series of short subjects, with a continuing story, originally shown in theaters, in conjunction with feature films, particularly in the 1930s and 1940s Indian serial, a type of Indian television program Other uses in arts, entertainment, and media Serial (1980 film), based on McFadden's novel, starring Martin Mull and Tuesday Weld Serial (podcast), a podcast spinoff of radio series This American Life The Serial: A Year in the Life of Marin County, a 1977 novel by Cyra McFadden The Serial, an early to mid-1960s anthology series that aired on CBC Television in Canada."
+    },
+    {
+      "chunk_id": "wikipedia:Watch#0001",
+      "doc_id": "wikipedia:Watch",
+      "title": "Watch",
+      "url": "https://en.wikipedia.org/?curid=60883",
+      "source_type": "wikipedia",
+      "score": 0.40527378022670746,
+      "text": "of the watch market, in what became known as the quartz revolution (or the quartz crisis in Switzerland, whose renowned watch industry it decimated). In the 2010s, smartwatches emerged, small wrist-worn computers with touchscreens and with functions that go far beyond timekeeping. Modern watches often display the day, date, month, and year. Mechanical watches may have extra features..."
+    }
+  ]
+}

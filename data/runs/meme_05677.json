@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_05677",
+  "queries": [
+    "\"the closest _\" \"Alex\" \"Joker\" \"another joke\"",
+    "\"Joker\" \"another joke\" \"real life\" \"another\""
+  ],
+  "primary_terms": [
+    "another joke",
+    "Alex",
+    "another",
+    "joke",
+    "the closest _",
+    "real life",
+    "Joker"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Joke#0000",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.8456246018409729,
+      "text": "A joke is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh and is usually not meant to be interpreted literally. It usually takes the form of a story, often with dialogue, and ends in a punch line, whereby the humorous element of the story is revealed; this can be done using a pun or other type of word play, irony or sarcasm, logical incompatibility, hyperbole, or other means. Linguist Robert Hetzron offers the definition: A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end. No continuation relieving the tension should be added. As for its being \"oral,\" it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0000",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.7340968251228333,
+      "text": "Other often refers to: Other (philosophy), a concept in psychology and philosophy Other or The Other may also refer to: Film and television The Other (1913 film), a German silent film directed by Max Mack The Other (1930 film), a German film directed by Robert Wiene The Other (1947 film), an Italian film directed by Carlo Ludovico Bragaglia The Other (1972 film), an American film directed by Robert Mulligan The Other (1999 film), a French-Egyptian film directed by Youssef Chahine The Other (2007 film), an Argentine-French-German film by Ariel Rotter The Other (2025 film), an American film directed by Paul Etheredge Other (film), a French/Belgian film directed by David Moreau The Other (Doctor Who), a fictional character in Doctor Who The Other (Marvel Cinematic Universe), a fictional character in the Marvel Cinematic Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A."
+    },
+    {
+      "chunk_id": "wikipedia:Another Man, Another Chance#0000",
+      "doc_id": "wikipedia:Another Man, Another Chance",
+      "title": "Another Man, Another Chance",
+      "url": "https://en.wikipedia.org/?curid=17874058",
+      "source_type": "wikipedia",
+      "score": 0.6771534740924835,
+      "text": "Another Man, Another Chance (Un autre homme, une autre chance, UK title: Another Man, Another Woman) is a 1977 French western film directed by Claude Lelouch. Plot France in 1870: Napoleon III has just lost the war against Prussia and left the country in poverty. Young Jeanne (Geneviève Bujold) falls in love with photographer Francis (Francis Huster), who soon takes her with him when he emigrates to The United States. In a small town in the still Wild West, they build up a small photo shop. Meanwhile, animal doctor David (James Caan) lives on his lonesome farm with his wife. It takes two years and two tragic accidents until Jeanne and David meet. Alone with a child, Jeanne has decided to return to France and is about to leave but then she and David silently and carefully fall in love for the second time in their lives and hope returns."
+    },
+    {
+      "chunk_id": "wikipedia:Amusement#0000",
+      "doc_id": "wikipedia:Amusement",
+      "title": "Amusement",
+      "url": "https://en.wikipedia.org/?curid=768817",
+      "source_type": "wikipedia",
+      "score": 0.6604919403791427,
+      "text": "Amusement is the state of experiencing humorous and entertaining events or situations while the person or animal actively maintains the experience, and is associated with enjoyment, happiness, laughter and pleasure. It is an emotion with positive valence and high physiological arousal. Amusement is considered an \"epistemological\" emotion because humor occurs when one experiences a cognitive shift from one knowledge structure about a target to another, such as hearing the punchline of a joke. Emotions perceived overtime are focused on the daily dynamics of life as augment or blunt. The pleasant surprise that happens from learning this new information leads to a state of amusement which people often express through smiling, laughter or chuckling. Current studies have not yet reached consensus on the exact purpose of amusement, though theories have been advanced in the fields of psychology, psychiatry, and sociology."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0001",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.6050590872764587,
+      "text": "Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A. Applegate The Other (Tryon novel), a 1971 horror novel by Tom Tryon \"The Other\" (short story), a 1972 short story by Jorge Luis Borges The Other, a 2008 novel by David Guterson Spider-Man: \"The Other\", a 2005–2006..."
+    },
+    {
+      "chunk_id": "wikipedia:Two-Face#0000",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 0.598612368106842,
+      "text": "Two-Face is a supervillain appearing in American comic books published by DC Comics. The character was created by Bob Kane, and first appeared in Detective Comics #66 (August 1942). He has become one of the superhero Batman's most enduring enemies belonging to the collective of adversaries that make up his rogues gallery. In his comic book appearances, Two-Face is the alter ego of Harvey Dent, Gotham City's former district attorney who becomes a criminal mastermind obsessed with duality and the number two. Half of his face is hideously scarred after mob boss Sal Maroni throws acid at him. The resulting disfigurement drives him insane and causes him to make decisions based on the flip of a coin. The Modern Age of Comic Books portrays the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse."
+    },
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0001",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.5971119105815887,
+      "text": "Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends. During this time, Craig starts high school and becomes close to Ms. Hart, a teacher who comes to his aid when Kenny Yankovich, a school bully, attempts to intimidate him. After winning $3,000 from a lottery ticket that Harrigan..."
+    },
+    {
+      "chunk_id": "wikipedia:Kirby#0000",
+      "doc_id": "wikipedia:Kirby",
+      "title": "Kirby",
+      "url": "https://en.wikipedia.org/?curid=706419",
+      "source_type": "wikipedia",
+      "score": 0.5795105397701263,
+      "text": "Kirby may refer to: Arts and entertainment Fictional characters Kirby (character), the titular character of the Kirby video game series Kirby, in the 2005 film Chicken Little Kirby, the title character of Rip Kirby, an American comic strip Sir Kirby, from Doc McStuffins Kirby Buckets, the titular character in the live-action series of the same name Kirby Morris, from the sitcom The Suite Life on Deck Kirby Reed, from the Scream franchise the Kirby family in the play You Can't Take It with You Officer Kirby, from the TV series Chip 'n Dale: Rescue Rangers Colonel Mike Kirby in the 1968 film The Green Berets, played by John Wayne Paul, Amanda and Eric Kirby, a family in the 2001 film Jurassic Park III Other arts and entertainment Kirby (series), a video game series \"Kirby\", a song from the album The Impossible Kid by Aesop Rock \"Kirby\" (Dynasty), an episode of the television series Dynasty Kirby: King of Comics, a 2008 biography by Mark Evanier Buildings Kirby Building, a skyscraper in"
+    },
+    {
+      "chunk_id": "wikipedia:Amusement#0001",
+      "doc_id": "wikipedia:Amusement",
+      "title": "Amusement",
+      "url": "https://en.wikipedia.org/?curid=768817",
+      "source_type": "wikipedia",
+      "score": 0.5698037207126617,
+      "text": "yet reached consensus on the exact purpose of amusement, though theories have been advanced in the fields of psychology, psychiatry, and sociology. In addition, the precise mechanism that causes a given element (image, sound, behavior, etc.) to be perceived as more or less 'amusing' than another similar element to a particular individual is not clearly understood. Theories Two different theoretical perspectives..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5681702554225921,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    }
+  ]
+}

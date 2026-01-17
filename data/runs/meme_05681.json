@@ -1,0 +1,105 @@
+{
+  "meme_id": "meme_05681",
+  "queries": [
+    "\"Alpha\" \"much\" \"happens\" \"afraid\"",
+    "\"Alpha male\" \"the troops\" \"much\" \"happens\"",
+    "\"much\" \"happens\" \"afraid\" \"touch\""
+  ],
+  "primary_terms": [
+    "much",
+    "happens",
+    "afraid"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Expose#0001",
+      "doc_id": "wikipedia:Expose",
+      "title": "Expose",
+      "url": "https://en.wikipedia.org/?curid=591548",
+      "source_type": "wikipedia",
+      "score": 0.7343014240264892,
+      "text": "show The Gifted Exposed (American game show), a 2007 American dating game show that aired on MTV Exposed (Canadian TV program), a 2004 Canadian music television program that aired on MuchMusic Exposed (Indian TV series), a 2022 Indian Telugu-language web series \"Exposed\" (Heroes), a 2009 episode of Heroes \"Exposed\" (UFO) (UFO), a 1970..."
+    },
+    {
+      "chunk_id": "wikipedia:Fear#0000",
+      "doc_id": "wikipedia:Fear",
+      "title": "Fear",
+      "url": "https://en.wikipedia.org/?curid=10828",
+      "source_type": "wikipedia",
+      "score": 0.7017427682876587,
+      "text": "Fear is an unpleasant subjective emotional state arising in response to perceived dangers or threats and which, when experienced, is typically associated with physiological and psychological changes. These changes frequently lead to behavioral reactions such as fight-or-flight responses or, in extreme cases, immobilization (freeze response). Unlike most (perhaps all) other animals, humans can experience fear in response to a present or anticipated stimulus and to imagined events. Most internalizing psychopathologies (depression, anxiety, suicidal thoughts and behaviors, and so forth) are associated with and maintained by dysfunctional, anxious, or fearful feelings and thoughts. Phobias, or exaggerated and often disabling fears, are usually similarly dysfunctional. Fear is often framed as a distinct product of evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0001",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.5860912203788757,
+      "text": "such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns. Under the name of magnitude comes what is continuous and unified and divisible only into smaller divisibles, such as: matter, mass, energy, liquid, material—all cases of non-collective nouns. Along with analyzing its nature and classification, the issues of quantity involve such closely related topics as dimensionality..."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.5349122732877731,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.5216149300336838,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Concern#0000",
+      "doc_id": "wikipedia:Concern",
+      "title": "Concern",
+      "url": "https://en.wikipedia.org/?curid=6769649",
+      "source_type": "wikipedia",
+      "score": 0.5148826688528061,
+      "text": "Concern may refer to: Constructs Worry, an emotion Concern (computer science), an abstract concept about program behavior Enterprises and organizations Concern (business), a German type of group company Concern (organisation), a student society at the Indian Institute of Science, India CONCERN Program, a Con Edison program that offers eligible customers a specially trained representative and advice about government aid programs, safety tips, and ways to save money on one's energy bill Concern Worldwide, an Irish charity Other uses Concern (horse), an American Thoroughbred racehorse See also Care (disambiguation) Concerned, a webcomic parodying the video game Half-Life 2 Travel concerns travel guide from Wikivoyage"
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0000",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.4618619531393051,
+      "text": "Disorder may refer to randomness, a lack of intelligible pattern, or: Healthcare Disorder (medicine), a functional abnormality or disturbance Mental disorder or psychological disorder, a psychological pattern associated with distress or disability that occurs in a person and is not a part of normal development or culture: Anxiety disorder, different forms of abnormal and pathological fear and anxiety Attention-deficit hyperactivity disorder Autism spectrum disorder Conversion disorder, neurological symptoms such as numbness, blindness, paralysis, or fits, where no neurological explanation is possible Obsessive–compulsive disorder, an anxiety disorder characterized by repetitive behaviors aimed at reducing anxiety Obsessive–compulsive personality disorder, obsession with perfection, rules, and organization Personality disorder, an enduring pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement"
+    },
+    {
+      "chunk_id": "wikipedia:Charge#0001",
+      "doc_id": "wikipedia:Charge",
+      "title": "Charge",
+      "url": "https://en.wikipedia.org/?curid=6439",
+      "source_type": "wikipedia",
+      "score": 0.44920283555984497,
+      "text": "charge, information or indictment through a formal legal process Mathematics, science, and technology Charge (physics), the susceptibility (state of being affected) of a body to one of the fundamental forces Color charge, a property of quarks and gluons, related to their strong interactions Electric charge..."
+    },
+    {
+      "chunk_id": "wikipedia:Earthquake#0000",
+      "doc_id": "wikipedia:Earthquake",
+      "title": "Earthquake",
+      "url": "https://en.wikipedia.org/?curid=10106",
+      "source_type": "wikipedia",
+      "score": 0.4355888068675995,
+      "text": "An earthquake, also called a quake, tremor, or temblor, is the shaking of the Earth's surface resulting from a sudden release of energy in the lithosphere that creates seismic waves. Earthquakes can range in intensity, from those so weak they cannot be felt, to those violent enough to propel objects and people into the air, damage critical infrastructure, and wreak destruction across entire cities. The seismic activity of an area is the frequency, type, and size of earthquakes experienced over a particular time. The seismicity at a particular location in the Earth is the average rate of seismic energy release per unit volume. In its most general sense, the word earthquake is used to describe any seismic event that generates seismic waves. Earthquakes can occur naturally or be induced by human activities, such as mining, fracking, and nuclear weapons testing. The initial point of rupture is called the hypocenter or focus, while the ground level directly above it is the epicenter."
+    },
+    {
+      "chunk_id": "wikipedia:Certain Things Are Likely#0000",
+      "doc_id": "wikipedia:Certain Things Are Likely",
+      "title": "Certain Things Are Likely",
+      "url": "https://en.wikipedia.org/?curid=23239484",
+      "source_type": "wikipedia",
+      "score": 0.4241372048854828,
+      "text": "\"Certain Things Are Likely\" is a song by the English band Kissing the Pink, released as both a 7\" and 12\" single from their studio album of the same name. Produced by the band and Peter Walsh, \"Certain Things Are Likely\" was released as the third single from the album, and was the most successful of their three entries on Billboard's Dance Club Songs chart, peaking at No. 1 for three weeks in May 1987. The song also made the Billboard Hot 100, peaking at No. 97 on the 13th of June, 1987. Track listing 7\" single \"Certain Things Are Likely (Remix Edit)\" \"Certain Things Are Likely (Garage Edit)\" 12\" single \"Certain Things Are Likely (Garage)\" \"Certain Things Are Likely (Garage Dub)\" \"Certain Things Are Likely (Original Mix)\" \"Certain Things Are Likely (Instrumental)\" Chart performance In film \"Certain Things Are Likely\" can be heard in the American teen romantic comedy film, Can't Buy Me Love (1987)."
+    }
+  ]
+}

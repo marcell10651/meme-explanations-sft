@@ -1,0 +1,212 @@
+{
+  "meme_id": "meme_03213",
+  "queries": [
+    "\"just a cold School\" \"ane tina sidiecist thejWnitedsStates\" \"google\" \"doctor google\"",
+    "\"google\" \"doctor google\" \"google prin\" \"everything\""
+  ],
+  "primary_terms": [
+    "everything",
+    "just a cold School",
+    "ane tina sidiecist thejWnitedsStates",
+    "doctor google",
+    "google prin",
+    "mom",
+    "cold",
+    "school",
+    "doctor",
+    "google",
+    "prin",
+    "elireltel",
+    "ane",
+    "tina",
+    "sidiecist",
+    "thejwnitedsstates"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Doctor#0000",
+      "doc_id": "wikipedia:Doctor",
+      "title": "Doctor",
+      "url": "https://en.wikipedia.org/?curid=662249",
+      "source_type": "wikipedia",
+      "score": 0.9199427723884582,
+      "text": "Doctor most often refers to: Medical doctor, a person who is qualified to practice medicine Doctor (title), an academic title granted to holders of a doctorate Doctor, Doctors, The Doctor or The Doctors may also refer to: Arts and entertainment Fictional characters The Doctor, the main character of the BBC series Doctor Who List of fictional doctors Doctor (comics), several fictional characters Doctor, in the film My Giant Doctor, in Black Cat The Doctor, in Hellsing The Doctor, in video game Cave Story The Doctor (Star Trek) The Doctor, or Scalpel, in the Transformers film series The Doctor or Cobra Commander, in G.I."
+    },
+    {
+      "chunk_id": "wikipedia:Google#0000",
+      "doc_id": "wikipedia:Google",
+      "title": "Google",
+      "url": "https://en.wikipedia.org/?curid=1092923",
+      "source_type": "wikipedia",
+      "score": 0.8444036960601806,
+      "text": "Google LLC ( , GOO-gəl) is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI). It has been referred to as \"the most powerful company in the world\" by BBC, and is one of the world's most valuable brands. Google's parent company Alphabet Inc. has been described as a Big Tech company. Google was founded on September 4, 1998, by American computer scientists Larry Page and Sergey Brin. Together, they own about 14% of its publicly listed shares and control 56% of its stockholder voting power through super-voting stock. The company went public via an initial public offering (IPO) in 2004. In 2015, Google was reorganized as a wholly owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's internet properties and interests."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.7297839522361755,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:The Lady Doctor#0000",
+      "doc_id": "wikipedia:The Lady Doctor",
+      "title": "The Lady Doctor",
+      "url": "https://en.wikipedia.org/?curid=46194248",
+      "source_type": "wikipedia",
+      "score": 0.7284545719623565,
+      "text": "The Lady Doctor (Italian: Totò, Vittorio e la dottoressa, also known as Totò, Vittorio and the Doctor) is a 1957 Italian comedy film directed by Camillo Mastrocinque. Plot Michele and Gennaro work as attendants in the investigation agency \"Nulla sfugge\" (\"Nothing escapes\"). When their boss is forced to be absent from the office to follow an important investigation, the two decide to take his place, pretending to be skilled investigators. Two old sisters, Ada and Ida, come to the agency to ask them to investigate the conduct of the wife of their only nephew, an American doctor from Boston, and they accept the case, which will turn out to be a mess. Cast Totò as Michele Spillone aka Mike Vittorio De Sica as Marquis Vittorio de Vitti Abbe Lane as Dr."
+    },
+    {
+      "chunk_id": "wikipedia:Surgeon#0000",
+      "doc_id": "wikipedia:Surgeon",
+      "title": "Surgeon",
+      "url": "https://en.wikipedia.org/?curid=9104734",
+      "source_type": "wikipedia",
+      "score": 0.6984152555465698,
+      "text": "In medicine, a surgeon is a medical doctor who performs surgery. Even though there are different traditions in different times and places, a modern surgeon is a licensed physician and received the same medical training as physicians before specializing in surgery. In some countries and jurisdictions, the title of 'surgeon' is restricted to maintain the integrity of the craft group in the medical profession. A specialist regarded as a legally recognized surgeon includes podiatry, dentistry, and veterinary medicine. It is estimated that surgeons perform over 300 million surgical procedures globally each year. History The first person to document a surgery was the 6th century BC Indian physician-surgeon, Sushruta. He specialized in cosmetic plastic surgery and even documented an open rhinoplasty procedure. His magnum opus Suśruta-saṃhitā is one of the most important surviving ancient treatises on medicine and is considered a foundational text of both Ayurveda and surgery."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0001",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.6802925825119018,
+      "text": "officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great! TV, British TV channel group The Great (TV series), an American comedy-drama See also All pages with titles containing great All pages with titles beginning with Great All pages with titles beginning with The Great All pages with titles beginning with The great The Great (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Doctor#0001",
+      "doc_id": "wikipedia:Doctor",
+      "title": "Doctor",
+      "url": "https://en.wikipedia.org/?curid=662249",
+      "source_type": "wikipedia",
+      "score": 0.6779016017913818,
+      "text": "Doctor, in video game Cave Story The Doctor (Star Trek) The Doctor, or Scalpel, in the Transformers film series The Doctor or Cobra Commander, in G.I. Joe: A Real American Hero The Doctor, in Little Nightmares II Minoru Kamiya, also known as Doctor, in YuYu Hakusho The Doctor (Squid Game), also known as Byeong-yi or Player 111 Film Doctor (film series), British comedy films of the 1950s–1960s Doctor (1963 film), an Indian Malayalam-language film Doctor (2013 film), a South Korean horror film Doctor (2021 film), an Indian Tamil-language film Doctor (2023 film), a Russian drama The Doctor (1991 film), an American drama The Doctor (2013 film), about basketball player Julius Erving Music ��4�..."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.6583500742912293,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.6376623034477233,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Great#0000",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.5890883922576904,
+      "text": "Great may refer to: Descriptions or measurements Great, a relative measurement in physical space, see Size Greatness, being divine, superior, majestic, or transcendent People List of people known as \"the Great\" Artel Great (born 1981), American actor Great Osobor (born 2002), Spanish-born British basketball player Other uses Great (1975 film), a British animated short about Isambard Kingdom Brunel Great (2013 film), a German short film Great (supermarket), a supermarket in Hong Kong GReAT, Graph Rewriting and Transformation, a Model Transformation Language Gang Resistance Education and Training, or GREAT, a school-based and police officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great!"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Mr. Burns talking to a doctor in a doctor's office, Mr. Smithers can be seen partially",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Poster thinks Google gives alarmist information about health",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Google",
+          "alarmist information",
+          "health"
+        ]
+      },
+      "title": {
+        "text": "You have everything!",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "everything"
+        ]
+      },
+      "text": {
+        "text": "Mom: It's just a cold School: It's just a cold Doctor: It's just a cold Google: v——_ 7] — Pp Ni cl Prin elireltel em ane tina sidiecist thejWnitedsStates!",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "just a cold School",
+          "ane tina sidiecist thejWnitedsStates",
+          "doctor google",
+          "google prin",
+          "mom",
+          "cold",
+          "school",
+          "doctor",
+          "google",
+          "prin",
+          "elireltel",
+          "ane",
+          "tina",
+          "sidiecist",
+          "thejwnitedsstates"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "everything",
+      "just a cold School",
+      "ane tina sidiecist thejWnitedsStates",
+      "doctor google",
+      "google prin",
+      "mom",
+      "cold",
+      "school",
+      "doctor",
+      "google",
+      "prin",
+      "elireltel",
+      "ane",
+      "tina",
+      "sidiecist",
+      "thejwnitedsstates"
+    ],
+    "secondary_terms": [
+      "Google",
+      "alarmist information",
+      "health"
+    ],
+    "queries": [
+      "\"just a cold School\" \"ane tina sidiecist thejWnitedsStates\" \"google\" \"doctor google\"",
+      "\"google\" \"doctor google\" \"google prin\" \"everything\""
+    ]
+  },
+  "source_jsonl_id": null
+}

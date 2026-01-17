@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_02828",
+  "queries": [
+    "\"a good morning text\" \"maybe\" \"dead\" \"him\"",
+    "\"a good morning text\" \"good morning\" \"maybe\" \"dead\"",
+    "\"maybe\" \"dead\" \"him\" \"night\""
+  ],
+  "primary_terms": [
+    "maybe",
+    "dead",
+    "him",
+    "a good morning text",
+    "night"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Maybe#0000",
+      "doc_id": "wikipedia:Maybe",
+      "title": "Maybe",
+      "url": "https://en.wikipedia.org/?curid=3627756",
+      "source_type": "wikipedia",
+      "score": 1.0355991184711457,
+      "text": "Maybe may refer to: Music Albums Maybe (Sharon O'Neill album), 1981 Maybe, a 1970 album by The Three Degrees Songs \"Maybe\" (Allan Flynn and Frank Madden song), 1935 \"Maybe\" (Brainstorm song), 2001 \"Maybe\" (Carmada song), 2014 \"Maybe\" (The Chantels song), 1957 \"Maybe\" (Emma Bunton song), 2003 \"Maybe\" (Enrique Iglesias song), 2002 \"Maybe\" (Ingrid Michaelson song), 2009 \"Maybe\" (Jay Sean song), 2008 \"Maybe\" (Kenny Rogers and Holly Dunn song), 1990 \"Maybe\" (Machine Gun Kelly song), 2022 \"Maybe\" (N.E.R.D song), 2004 \"Maybe\" (No Angels song), 2007 \"Maybe\" (Sharon O'Neill song), 1981 \"Maybe\" (Sick Puppies song), 2010 \"Maybe\" (Maybe Man), 2023 \"Maybe\" (Teyana Taylor song), 2014 \"Maybe\" (Toni Braxton song), 2001 \"Maybe\", a song by Aṣa from Beautiful Imperfection, 2010 \"Maybe\", a song by Birdy from Fire Within, 2013 \"Maybe\", a song by Craig Davis from 22, 2022 \"Maybe\", a song by Dave Gahan released as a B-side on the single \"Dirty Sticky Floors\", 2003 \"Maybe\", a song by Estelle from The 18th"
+    },
+    {
+      "chunk_id": "wikipedia:In His Image#0000",
+      "doc_id": "wikipedia:In His Image",
+      "title": "In His Image",
+      "url": "https://en.wikipedia.org/?curid=4401031",
+      "source_type": "wikipedia",
+      "score": 1.0265165388584137,
+      "text": "\"In His Image\" is an episode of the American television anthology series The Twilight Zone aired on January 3, 1963. This was the first episode of the fourth season. Each episode was expanded to an hour (with commercials) from \"In His Image\" until \"The Bard\". The fourth season is the only season of The Twilight Zone to have each episode one hour long. In this episode, a man finds his hometown is suddenly inconsistent with his memories of it and begins experiencing irrational urges to commit murder, two mysteries which together lead him to an unpleasant discovery about his identity. Opening narration What you have just witnessed could be the end of a particularly terrifying nightmare. It isn't – it's the beginning. Although Alan Talbot doesn't know it, he's about to enter a strange new world, too incredible to be real, too real to be a dream. It's called The Twilight Zone. Plot While waiting in a subway station, Alan Talbot is approached by an evangelist."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0001",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.937713748216629,
+      "text": "sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep. Synonyms In boarding schools and on trips or holidays that involve young people, the equivalent of bedtime is lights out or lights-out - this term is also used in prisons, hospitals, in the military, and in sleep research..."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.89559406042099,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    },
+    {
+      "chunk_id": "wikipedia:A Reason to Live, a Reason to Die#0000",
+      "doc_id": "wikipedia:A Reason to Live, a Reason to Die",
+      "title": "A Reason to Live, a Reason to Die",
+      "url": "https://en.wikipedia.org/?curid=24235116",
+      "source_type": "wikipedia",
+      "score": 0.8925826847553253,
+      "text": "A Reason to Live, a Reason to Die (originally titled Una Ragione Per Vivere E Una Per Morire, also known as Massacre at Fort Holman) is a 1972 Technicolor Italian spaghetti Western movie starring James Coburn, Bud Spencer, and Telly Savalas. Many exterior scenes were filmed at the Fort Bowie set built in the Province of Almería, Spain, where the desert landscape and climate that characterizes part of the province have made it a much utilized setting for Western films, among those A Fistful of Dollars, The Good, the Bad and the Ugly, Once Upon a Time in the West, and later 800 Bullets. The Fort Bowie set was originally built for the film The Deserter. There are two different English language versions of the movie, shorter with James Coburn's own voice and longer with different voice actors and music. James Coburn was not involved in longer cut dubbing. It also features some of the same songs from Day of Anger starring Lee Van Cleef."
+    },
+    {
+      "chunk_id": "wikipedia:Ghost#0000",
+      "doc_id": "wikipedia:Ghost",
+      "title": "Ghost",
+      "url": "https://en.wikipedia.org/?curid=12514",
+      "source_type": "wikipedia",
+      "score": 0.8915997356176376,
+      "text": "In folklore, a ghost is the soul or spirit of a dead person or non-human animal that is believed by some people to be able to appear to the living. In ghostlore, descriptions of ghosts vary widely, from an invisible presence to translucent or barely visible wispy shapes to realistic, lifelike forms, whether they resemble humans or animals. The deliberate attempt to contact the spirit of a deceased person is known as necromancy, or in spiritism as a séance. Other terms associated with it are apparition, haunt, haint, phantom, poltergeist, shade, specter, spirit, spook, wraith, demon, and ghoul. The belief in the existence of an afterlife, as well as manifestations of the spirits of the dead, is widespread, dating back to animism or ancestor worship in pre-literate cultures. Certain religious practices—funeral rites, exorcisms, and some practices of spiritualism and ritual magic—are specifically designed to rest the spirits of the dead."
+    },
+    {
+      "chunk_id": "wikipedia:Maybe#0001",
+      "doc_id": "wikipedia:Maybe",
+      "title": "Maybe",
+      "url": "https://en.wikipedia.org/?curid=3627756",
+      "source_type": "wikipedia",
+      "score": 0.8829932272434234,
+      "text": "from 22, 2022 \"Maybe\", a song by Dave Gahan released as a B-side on the single \"Dirty Sticky Floors\", 2003 \"Maybe\", a song by Estelle from The 18th Day, 2004 \"Maybe\", a song by (G)I-dle from I Trust, 2020 \"Maybe (Duet Version)\", a song by Gotthard from Bang!, 2014 \"Maybe\", a song by Harry Nilsson from Harry, 1969 \"Maybe\", a song by..."
+    },
+    {
+      "chunk_id": "wikipedia:In His Image#0001",
+      "doc_id": "wikipedia:In His Image",
+      "title": "In His Image",
+      "url": "https://en.wikipedia.org/?curid=4401031",
+      "source_type": "wikipedia",
+      "score": 0.8814466655254364,
+      "text": "to be real, too real to be a dream. It's called The Twilight Zone. Plot While waiting in a subway station, Alan Talbot is approached by an evangelist. Alan is not interested, but takes the pamphlet she offers in order to appease her; however, the evangelist won't leave him alone. He hears strange electronic noises which prompt him to throw her under a train and then flee..."
+    },
+    {
+      "chunk_id": "wikipedia:Useless#0000",
+      "doc_id": "wikipedia:Useless",
+      "title": "Useless",
+      "url": "https://en.wikipedia.org/?curid=25714209",
+      "source_type": "wikipedia",
+      "score": 0.8676376104354858,
+      "text": "Useless may refer to: Useless (film), a 2007 Chinese documentary by Jia Zhangke Useless (EP), a 2000 EP by Unloco \"Useless\" (song), a 1997 song by Depeche Mode \"Useless\", a 2009 song by Cavo from Bright Nights Dark Days \"Useless\", a song by Faster Pussycat from The Power and the Glory Hole \"Useless\", a song by Myka Relocate from Lies to Light the Way \"Useless (I Don't Need You Now)\", a song by Kym Mazelle \"Useless (The Little Horse That Didn't Grow)\", a song by Waylon Jennings from Cowboys, Sisters, Rascals & Dirt \"Inútil\" (\"Useless\"), a song from the musical In the Heights \"Useless\", the sixth episode of the 2024 miniseries Manhunt See also All pages with titles beginning with Useless"
+    },
+    {
+      "chunk_id": "wikipedia:Every Time I Die#0001",
+      "doc_id": "wikipedia:Every Time I Die",
+      "title": "Every Time I Die",
+      "url": "https://en.wikipedia.org/?curid=2178957",
+      "source_type": "wikipedia",
+      "score": 0.8551888227462768,
+      "text": "Burial Plot Bidding War and Last Night in Town (1998–2000) Every Time I Die was founded in 1998 by Jordan Buckley, Andy Williams and Michael Novak. The unit recruited vocalist Keith Buckley and bassist John McCarthy. The group's first performance was a Canadian date, held in Hamilton, Ontario. In their first short tour covering the Buffalo, New York..."
+    }
+  ]
+}

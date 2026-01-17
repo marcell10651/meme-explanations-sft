@@ -1,0 +1,117 @@
+{
+  "meme_id": "meme_01808",
+  "queries": [
+    "\"Two\" \"UCtieag7 Ooms\" \"The amount\" \"the product\" \"amount\"",
+    "\"the product\" \"amount\" \"packaging\" \"product\""
+  ],
+  "primary_terms": [
+    "The amount",
+    "the product",
+    "amount",
+    "packaging",
+    "product",
+    "comes",
+    "insane",
+    "UCtieag7 Ooms",
+    "mine",
+    "packag",
+    "cea",
+    "thelprod",
+    "uctieag",
+    "ooms",
+    "kiel",
+    "roduct"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:User experience#0000",
+      "doc_id": "wikipedia:User experience",
+      "title": "User experience",
+      "url": "https://en.wikipedia.org/?curid=1462876",
+      "source_type": "wikipedia",
+      "score": 0.7944042265415192,
+      "text": "User experience (UX) is how a user interacts with and experiences a product, system, or service. It includes a person's perceptions of utility, ease of use, and efficiency. Improving user experience is important to most companies, designers, and creators when creating and refining products because negative user experience can diminish the use of the product and, therefore, any desired positive impacts. Conversely, designing toward profitability as a main objective often conflicts with ethical user experience objectives and even causes harm. User experience is subjective. However, the attributes that make up the user experience are objective. Definitions According to Nielsen Norman Group, 'user experience' includes all the aspects of the interaction between the end-user with the company, its services, and its products."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0000",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.7808838903903961,
+      "text": "Quantity or amount is a property that includes numbers and quantifiable phenomena such as mass, time, distance, heat, angle, and information. Quantities can commonly be compared in terms of \"more\", \"less\", or \"equal\", or by assigning a numerical value multiple of a unit of measurement. Quantity is among the basic classes of things along with quality, substance, change, and relation. Some quantities are such by their inner nature (as number), while others function as states (properties, dimensions, attributes) of things such as heavy and light, long and short, broad and narrow, small and great, or much and little. Under the name of multitude comes what is discontinuous and discrete and divisible ultimately into indivisibles, such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns."
+    },
+    {
+      "chunk_id": "wikipedia:Volume#0000",
+      "doc_id": "wikipedia:Volume",
+      "title": "Volume",
+      "url": "https://en.wikipedia.org/?curid=32498",
+      "source_type": "wikipedia",
+      "score": 0.6073008596897125,
+      "text": "Volume is a measure of regions in three-dimensional space. It is often quantified numerically using SI derived units (such as the cubic metre and litre) or by various imperial or US customary units (such as the gallon, quart, cubic inch). The definition of length and height (cubed) is interrelated with volume. The volume of a container is generally understood to be the capacity of the container; i.e., the amount of fluid (gas or liquid) that the container could hold, rather than the amount of space the container itself displaces. By metonymy, the term \"volume\" sometimes is used to refer to the corresponding region (e.g., bounding volume). In ancient times, volume was measured using similar-shaped natural containers. Later on, standardized containers were used. Some simple three-dimensional shapes can have their volume easily calculated using arithmetic formulas. Volumes of more complicated shapes can be calculated with integral calculus if a formula exists for the shape's boundary."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0000",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5974171429872512,
+      "text": "Two Dogs was a ready-to-drink beverage that was first introduced in Australia in 1993 and went on to become available throughout the world. It was a lemon flavoured alcoholic beverage that is widely considered to have been the \"world’s first brewed alcoholic lemonade\" (despite the pre-existence of traditional drinks like sima), paving the way for similar products such as Hooper's Hooch and Mike's Hard Lemonade. Two Dogs was created in 1993 by the South Australian brewer Duncan MacGillivray. The tale behind the drink says that MacGillivray, an owner of a small brewery and pub in South Australia, was having a beer with some friends who owned a lemon farm. They mentioned that they didn't know what to do with all their lemons that they couldn't sell due to size. Duncan said \"I'll try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0001",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.546611225605011,
+      "text": "such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns. Under the name of magnitude comes what is continuous and unified and divisible only into smaller divisibles, such as: matter, mass, energy, liquid, material—all cases of non-collective nouns. Along with analyzing its nature and classification, the issues of quantity involve such closely related topics as dimensionality..."
+    },
+    {
+      "chunk_id": "wikipedia:Accessory#0001",
+      "doc_id": "wikipedia:Accessory",
+      "title": "Accessory",
+      "url": "https://en.wikipedia.org/?curid=1949788",
+      "source_type": "wikipedia",
+      "score": 0.5106991082429886,
+      "text": "and terminating cables Accessory fruit, in which some of the flesh is derived from tissues other than the flower ovary See also All pages with titles beginning with Accessory All pages with titles containing Accessory Access (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Sales#0000",
+      "doc_id": "wikipedia:Sales",
+      "title": "Sales",
+      "url": "https://en.wikipedia.org/?curid=155698",
+      "source_type": "wikipedia",
+      "score": 0.49956372380256653,
+      "text": "Sales are activities related to selling or the number of goods sold in a given targeted time period. The delivery of a service for a cost is also considered a sale. A period during which goods are sold for a reduced price may also be referred to as a \"sale\". The seller, or the provider of the goods or services, completes a sale in an interaction with a buyer, which may occur at the point of sale or in response to a purchase order from a customer. There is a passing of title (property or ownership) of the item, and the settlement of a price, in which agreement is reached on a price for which transfer of ownership of the item will occur. The seller, not the purchaser, typically executes the sale and it may be completed prior to the obligation of payment."
+    },
+    {
+      "chunk_id": "wikipedia:Sales#0001",
+      "doc_id": "wikipedia:Sales",
+      "title": "Sales",
+      "url": "https://en.wikipedia.org/?curid=155698",
+      "source_type": "wikipedia",
+      "score": 0.4983101785182953,
+      "text": "of the item will occur. The seller, not the purchaser, typically executes the sale and it may be completed prior to the obligation of payment. In the case of indirect interaction, a person who sells goods or service on behalf of the owner is known as a salesman or saleswoman or salesperson, but this often refers to someone selling goods in a store/shop, in which case other terms are also common, including salesclerk, shop assistant, and retail clerk. In common law countries, sales are governed generally by the common law and commercial codes. In the United States, the laws governing..."
+    },
+    {
+      "chunk_id": "wikipedia:Paper#0000",
+      "doc_id": "wikipedia:Paper",
+      "title": "Paper",
+      "url": "https://en.wikipedia.org/?curid=16861908",
+      "source_type": "wikipedia",
+      "score": 0.47514275014400487,
+      "text": "Paper is a thin sheet of matted cellulose fibers. Largely derived from lignocellulose, paper is created from a pulp dissolved into a slurry that is drained and dried into sheets. Different types of paper are defined by constituent fiber, paper pulp, sizing, coating, paper size, paper density and grammage. The papermaking process developed in East Asia at least as early as 105 CE by the Han court eunuch Cai Lun, although archaeological evidence exists of 2nd century BCE paper-like material in China. Before the industrialization of paper production, the most common paper was rag paper, made from discarded natural fiber textiles collected by ragpickers. The 1843 invention of wood pulp, coupled with the Second Industrial Revolution, made pulpwood paper the dominant variety to this day. Etymology The word paper is etymologically derived from Latin papyrus, which comes from the Greek πᾰ́πῡρος (pápūros), the word for the Cyperus papyrus plant."
+    },
+    {
+      "chunk_id": "wikipedia:Store#0000",
+      "doc_id": "wikipedia:Store",
+      "title": "Store",
+      "url": "https://en.wikipedia.org/?curid=43365305",
+      "source_type": "wikipedia",
+      "score": 0.46020073890686036,
+      "text": "Store may refer to: Enterprises Retail store, a shop where merchandise is sold, usually products and usually on a retail basis, and where wares are often kept App store, an online retail store where apps are sold, included in many mobile operating systems Department store, a retail store offering a wide range of consumer goods Warehouse club (or wholesale club), a no-frills retail store, usually selling a wide variety of merchandise, in which customers may buy large, wholesale quantities at low prices Warehouse, a location where items are stored, e.g., a ship's paint store, and sometimes sold, e.g., Costco Warehouse Club Arts, entertainment, and media The Store (ITV), a British shopping television programming on ITV1 The Store (novel), a 1932 novel by Thomas Sigismund Stribling \"Store\", a song by Carly Rae Jepsen from the EP Emotion: Side B Other uses Data store, a repository for persistently storing and managing collections of data Štore, a town and a municipality in eastern Slovenia"
+    }
+  ]
+}

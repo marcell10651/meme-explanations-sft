@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_04950",
+  "queries": [
+    "\"New York\" \"\" Europeans\" \"the plane\" \"shock\"",
+    "\"New York\" \"\" Europeans\" \"The man\" \"the plane\"",
+    "\"The man\" \"the plane\" \"shock\" \"dies\""
+  ],
+  "primary_terms": [
+    "shock",
+    "dies",
+    "New York",
+    "\" Europeans",
+    "the plane"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Flight#0000",
+      "doc_id": "wikipedia:Flight",
+      "title": "Flight",
+      "url": "https://en.wikipedia.org/?curid=159472",
+      "source_type": "wikipedia",
+      "score": 0.9294568598270416,
+      "text": "Flight or flying is the motion of an object through an atmosphere or through the vacuum of space, in this case also called spaceflight, without contacting any planetary surface. This can be achieved by generating aerodynamic lift associated with gliding or propulsive thrust, aerostatically using buoyancy, or by ballistic movement. Many things can fly, from animal aviators such as birds, bats and insects, to natural gliders/parachuters such as patagial animals, anemochorous seeds and ballistospores, to human inventions like aircraft (airplanes, helicopters, airships, balloons, etc.) and rockets which may propel spacecraft and spaceplanes. The engineering aspects of flight are the purview of aerospace engineering. It has three subfields: aeronautics — the study of vehicles that travel through the atmosphere. astronautics — the study of vehicles that travel through space. ballistics — the study of the flight of projectiles."
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0001",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.8627574443817139,
+      "text": "USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the 2014 album Sweet Talker \"Loud\", a 2006 single by Masters at Work with Beto Cuevas \"Loud\", a song by Matt Nathanson from the 1999 album Still Waiting for Spring \"Loud\", an additional..."
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0001",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.8034617602825165,
+      "text": "a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The Terror (1917 film), an American silent film The Terror (1920 film), an American western film starring Tom Mix Terror (1924 film), a French film starring Pearl White The Terror..."
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0000",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.7411157786846161,
+      "text": "Modern Times is a 1936 American part-talkie satirical slapstick comedy film produced, written and directed by Charlie Chaplin. In Chaplin's last performance as the iconic Little Tramp, his character struggles to survive in the modern, industrialized world. The film also stars Paulette Goddard, Henry Bergman, Tiny Sandford and Chester Conklin. Modern Times has won many awards and honors, and is widely considered one of the greatest films ever. It was one of the first 25 films selected by the Library of Congress for preservation in the National Film Registry for being \"culturally, historically, or aesthetically significant\". Plot The Tramp works on an assembly line, where he suffers greatly due to the stress and pace of the repetitive work. He eventually suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital."
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0000",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.724160298705101,
+      "text": "Terror(s) or The Terror may refer to: Politics Terrorism, the use of violence against non-combatants to achieve political or ideological aims Reign of Terror, commonly known as The Terror, a period of violence (1793–1794) after the onset of the French Revolution Terror (politics), a policy of political repression and violence The Terror (Karlovo massacre), a massacre of Bulgarian civilians in Karlovo, followed by police and legal repression in the second half of 1878 The Great Purge in the 1930s Soviet Union is also known as the \"Great Terror\" or \"The Terror\" Emotions An extreme form of fear, the emotional response to a threat or danger Angst, a form of anxiety or fear described in existentialist philosophy Anxiety, a sense of dread Panic, a sudden overwhelming fear Arts, entertainment and media Fictional entities Terror (Marvel Comics), a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The"
+    },
+    {
+      "chunk_id": "wikipedia:American#0000",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.6616797149181366,
+      "text": "American(s) may refer to: American, something of, from, or related to the United States of America, commonly known as the \"United States\" or \"America\" Americans, citizens and nationals of the United States of America American ancestry, people who self-identify their ancestry as \"American\" American English, the set of varieties of the English language native to the United States Native Americans in the United States, indigenous peoples of the United States American, something of, from, or related to the Americas, also known as \"America\" Indigenous peoples of the Americas American (word), for analysis and history of the meanings in various contexts Organizations American Airlines, U.S.-based airline headquartered in Fort Worth, Texas American Athletic Conference, an American college athletic conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C."
+    },
+    {
+      "chunk_id": "wikipedia:Jaws (film)#0001",
+      "doc_id": "wikipedia:Jaws (film)",
+      "title": "Jaws (film)",
+      "url": "https://en.wikipedia.org/?curid=74830",
+      "source_type": "wikipedia",
+      "score": 0.6432285606861115,
+      "text": "1974, Jaws was the first major motion picture to be shot on the ocean and consequently had a troubled production, going over budget and schedule. As the art department's mechanical sharks often malfunctioned, Spielberg decided to mostly suggest the shark's presence, employing an ominous and minimalist theme created by composer John Williams to indicate its impending appearances. Spielberg and others have compared this suggestive approach to that of director Alfred Hitchcock. Universal Pictures released the film..."
+    },
+    {
+      "chunk_id": "wikipedia:Lost#0001",
+      "doc_id": "wikipedia:Lost",
+      "title": "Lost",
+      "url": "https://en.wikipedia.org/?curid=502128",
+      "source_type": "wikipedia",
+      "score": 0.6430889219045639,
+      "text": "by Fernando A. Rivero Lost (1956 film), a British thriller starring David Farrar Lost (1983 film), an American film directed by Al Adamson Lost! (film), a 1986 Canadian film directed by Peter Rowe Lost (2004 film), an American thriller starring Dean Cain The Lost (2006 film), an American psychological horror starring Marc Senter Lost (2023 film), an Indian Hindi-language thriller film Literature..."
+    },
+    {
+      "chunk_id": "wikipedia:His Family#0001",
+      "doc_id": "wikipedia:His Family",
+      "title": "His Family",
+      "url": "https://en.wikipedia.org/?curid=3241257",
+      "source_type": "wikipedia",
+      "score": 0.6263791084289551,
+      "text": "changes that have come to New York since his arrival in the city as a young man from a New Hampshire farm somewhere near the time of the Civil War. He is driven by his wife's dying request to remain close to their three daughters, yet he feels very distant from them—this despite the fact that the younger two (Deborah, a school principal, and Laura) live in the family home with him, and Edith, who is..."
+    },
+    {
+      "chunk_id": "wikipedia:Train#0001",
+      "doc_id": "wikipedia:Train",
+      "title": "Train",
+      "url": "https://en.wikipedia.org/?curid=30598",
+      "source_type": "wikipedia",
+      "score": 0.5861290752887726,
+      "text": "in 1802, trains rapidly spread around the world, allowing freight and passengers to move over land faster and cheaper than ever possible before. Rapid transit and trams were first built in the late 1800s to transport large numbers of people in and around cities. Beginning in the 1920s, and accelerating following World War II, diesel and electric locomotives replaced..."
+    }
+  ]
+}

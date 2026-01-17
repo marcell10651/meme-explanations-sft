@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_02140",
+  "queries": [
+    "\"Woman\" \"front\" \"smoke\" \"something\"",
+    "\"smoke\" \"something\" \"feelings\" \"not\""
+  ],
+  "primary_terms": [
+    "not",
+    "worst",
+    "say",
+    "mie",
+    "can",
+    "right"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Smoking#0000",
+      "doc_id": "wikipedia:Smoking",
+      "title": "Smoking",
+      "url": "https://en.wikipedia.org/?curid=12254052",
+      "source_type": "wikipedia",
+      "score": 1.022702258825302,
+      "text": "Smoking is a human behavior which involves the combustion of a substance, usually plant material, and the inhalation of resulting fumes. Today, smoking is mostly practiced by rolling the dried leaves of the tobacco plant into a cigarette. Other forms of tobacco smoking include the use of a smoking tobacco with a pipe or cigar, or using a bong. Cigarette smokers almost always inhale the smoke; most pipe and cigar smokers do not inhale. Smoking is primarily practiced as a route of administration for psychoactive chemicals because the active substances within the burnt, dried plant leaves (or other chemical) can vaporize into a gaseous state and be delivered into the respiratory tract, where they are rapidly absorbed into the bloodstream through the lungs and can reach the central nervous system."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.7774153530597687,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Cigar#0001",
+      "doc_id": "wikipedia:Cigar",
+      "title": "Cigar",
+      "url": "https://en.wikipedia.org/?curid=38323",
+      "source_type": "wikipedia",
+      "score": 0.6407642126083374,
+      "text": "in the Eastern United States (mostly in Florida, Kentucky, Tennessee, and Virginia) and in the Mediterranean countries of Italy, Greece, Spain (in the Canary Islands), and Turkey, and to a lesser degree in Indonesia and the Philippines of Southeast Asia. Cigar smoking carries serious health risks, including increased risk of developing various types..."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0000",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.5465939074754715,
+      "text": "In grammar, a phrase — called an expression in some contexts — is a group of one or more words acting as a grammatical unit. For instance, the English expression \"the very happy squirrel\" is a noun phrase which contains the adjective phrase \"very happy\". Phrases can consist of a single word or a complete sentence. In theoretical linguistics, phrases are often analyzed as units of syntactic structure such as a constituent. There is a difference between the common use of the term phrase and its technical use in linguistics. In common usage, a phrase is usually a group of words with some special idiomatic meaning or other significance, such as \"all rights reserved\", \"economical with the truth\", or \"kick the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes."
+    },
+    {
+      "chunk_id": "wikipedia:Lady#0000",
+      "doc_id": "wikipedia:Lady",
+      "title": "Lady",
+      "url": "https://en.wikipedia.org/?curid=555643",
+      "source_type": "wikipedia",
+      "score": 0.5208856582641601,
+      "text": "A lady is a woman who behaves in a polite way. Once used to describe only women of a high social class or status, the female counterpart of lord, now it may refer to any adult woman, as gentleman can be used for men. \"Lady\" is also a formal title in the United Kingdom. \"Lady\" is used before the family name or peerage of a woman with a title of nobility or honorary title suo jure (in her own right), such as female members of the Order of the Garter and Order of the Thistle, or the wife of a lord, a baronet, Scottish feudal baron, laird, or a knight, and also before the first name of the daughter of a duke, marquess, or earl. Etymology The word comes from Old English hlǣfdige; the first part of the word is a mutated form of hlāf, \"loaf, bread\", also seen in the corresponding hlāford, \"lord\"."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0001",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.5206012755632401,
+      "text": "the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes. In theories of syntax, a phrase is any group of words, or sometimes a single word, which plays a particular role within the syntactic structure of a sentence. It does not have to have any special meaning or significance, or even exist anywhere outside of the sentence being analyzed, but it must function there as a complete grammatical unit..."
+    },
+    {
+      "chunk_id": "wikipedia:Fire#0000",
+      "doc_id": "wikipedia:Fire",
+      "title": "Fire",
+      "url": "https://en.wikipedia.org/?curid=11145",
+      "source_type": "wikipedia",
+      "score": 0.5195986092090606,
+      "text": "Fire is the rapid oxidation of a fuel in the exothermic chemical process of combustion, releasing heat, light, and various reaction products. Flames, the most visible portion of the fire, are produced in the combustion reaction when the fuel reaches its ignition point temperature. Flames from hydrocarbon fuels consist primarily of carbon dioxide, water vapor, oxygen, and nitrogen. If hot enough, the gases may become ionized to produce plasma. The color and intensity of the flame depend on the type of fuel and composition of the surrounding gases. Fire, in its most common form, has the potential to result in conflagration, which can lead to permanent physical damage. Fire directly impacts land-based ecological systems worldwide. The positive effects of fire include stimulating plant growth and maintaining ecological balance. Its negative effects include hazards to life and property, atmospheric pollution, and water contamination."
+    },
+    {
+      "chunk_id": "wikipedia:Spek#0000",
+      "doc_id": "wikipedia:Spek",
+      "title": "Spek",
+      "url": "https://en.wikipedia.org/?curid=6015689",
+      "source_type": "wikipedia",
+      "score": 0.4894456624984741,
+      "text": "Hussain Yoosuf, better known by his stage name Spek, is a Canadian hip hop musician. He is best known for his singles \"Smell the Coffee\" and \"I'm a Hippie\". He is a former member of the Canadian hip hop pioneers, Dream Warriors, and, more recently, known for his work as an entrepreneur and music publisher. Early career Spek started rapping at the age of 14 in his hometown of Montreal, Quebec. He joined the hip hop group Dream Warriors shortly after the release of their hit songs \"My Definition of a Boombastic Jazz Style\" and \"Wash Your Face in My Sink\". At the age of 17, he signed a worldwide record contract with EMI and toured the world before settling in London. Spek soon found himself touring across Europe with the British jazz-rap crew Us3. Working with his musical partner Brian Rose, he collaborated with members of Jamiroquai and with Nitin Sawhney."
+    },
+    {
+      "chunk_id": "wikipedia:Staring#0001",
+      "doc_id": "wikipedia:Staring",
+      "title": "Staring",
+      "url": "https://en.wikipedia.org/?curid=4409451",
+      "source_type": "wikipedia",
+      "score": 0.4762952238321304,
+      "text": "would be simply staring into a space for awareness, or could be lost in thought (sometimes known as daydreaming), stupefied, or be unable to see. As such, the meaning of a person's staring behavior depends upon the attributions made by the observer. When caught staring, the moment can be a source of embarrassment depending on the reason for staring. For example..."
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0000",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.464153453707695,
+      "text": "Whatever may refer to: Music Albums Whatever (Adore Delano album), 2017 Whatever (Aimee Mann album), 1993 Whatever (Danny Thompson album), 1987 Whatever (The Friends of Distinction album), 1970 Whatever (Green Velvet album), 2001 Whatever (Hot Chelle Rae album) or the title song, 2011 Whatever (Jennifer Batten album) or the title song, 2007 Whatever..., a comedy album by Guido Hatzis, 2000 Whatever: The '90s Pop & Culture Box, a Rhino Records box set, 2005 Whatever, by Megumi Hayashibara, 1992 Whatever, an EP by bbno$, 2018 Songs \"Whatever\" (Ayumi Hamasaki song), 1999 \"Whatever\" (Cro song), 2013 \"Whatever\" (En Vogue song), 1997 \"Whatever\" (Godsmack song), 1998 \"Whatever\" (Ideal song), 2000 \"Whatever\" (Jill Scott song), 2005 \"Whatever\" (Kygo and Ava Max song), 2024 \"Whatever\" (Oasis song), 1994 \"Whatever\" (The Statler Brothers song), 1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple,"
+    }
+  ]
+}

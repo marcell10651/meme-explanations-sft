@@ -1,0 +1,184 @@
+{
+  "meme_id": "meme_02042",
+  "queries": [
+    "\"The Reddit videop ayer\" \"5 month old videos\" \"only\" \"one\"",
+    "\"The Reddit videop ayer\" \"5 month old videos\" \"his arms\" \"the couch\"",
+    "\"his arms\" \"the couch\" \"the number\" \"old videos\""
+  ],
+  "primary_terms": [
+    "only",
+    "one",
+    "The Reddit videop ayer",
+    "5 month old videos",
+    "videos"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 1.1231310486793518,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0001",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.9216347992420196,
+      "text": "1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple, 2008 \"Whatever\", by Hüsker Dü from Zen Arcade, 1984 \"Whatever\", by Imogen Heap from I Megaphone, 1998 \"Whatever\", by Lil Tecca from We Love You Tecca 2, 2021 \"Whatever\", by Our Lady Peace..."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.9210559338331222,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:Walkin#0000",
+      "doc_id": "wikipedia:Walkin",
+      "title": "Walkin",
+      "url": "https://en.wikipedia.org/?curid=33627004",
+      "source_type": "wikipedia",
+      "score": 0.9134656846523285,
+      "text": "\"Walkin\" is a song by American rapper Denzel Curry, released on January 24, 2022 as the lead single from his fifth studio album Melt My Eyez See Your Future (2022). It was produced by Kal Banx. Composition The production in the song changes from the style of boom bap to that of southern rap, juxtaposed with vocals. Lyrically, Denzel Curry raps about the struggles and changing of everyday life as the state of the world is regressing, such as racial and wealth inequality, and striving for success through difficult times, switching his flows as well. Music video A music video for the song was directed by Adrian Villagomez and released alongside the single. Taking on a sci-fi western theme, it finds Denzel Curry trekking across a desert planet alone, first walking through a village and moving past barren sand dunes, children playing on a swing set, and villains trying to kill him. He collapses on his knees several times throughout the journey."
+    },
+    {
+      "chunk_id": "wikipedia:Use Your Fingers#0000",
+      "doc_id": "wikipedia:Use Your Fingers",
+      "title": "Use Your Fingers",
+      "url": "https://en.wikipedia.org/?curid=2317950",
+      "source_type": "wikipedia",
+      "score": 0.9055205047130584,
+      "text": "Use Your Fingers is the debut studio album by Bloodhound Gang. It was released on July 18, 1995, by Cheese Factory Records. Some of the songs on the album were reworked version of demos from Bloodhound Gang's earlier demo tapes. The album has sold 250,000 copies to date. Reception In a review for Amazon, music journalist Roni Sarig said \"BG back up their obnoxious idiocy with some fairly wise musical maneuvering. While their age and background lead them to repeatedly mine the '80s for material--Duran Duran and Cure samples, Michael Jackson and Blondie interpolations, a \"Kids in America\" cover—their sly comments and ingenious a cappella snippets prove they're surprisingly sharp and able lads.\" On August 7, 2015, OC Weekly published a 20-year anniversary write-up of the album, stating \"what makes Use Your Fingers worthy of re-examining two decades later is how much this album not only shouldn't exist from a legal perspective, but how it managed to predict so much of the 20 years of"
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.877937525510788,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0000",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.8646722495555877,
+      "text": "Finally may refer to: Albums Finally (Namie Amuro album) (2017) Finally!, a 2024 album by The Aquabats Finally (Blackstreet album) or its title song Finally (Sean Ensign album) or its title song \"It's My Life (Finally)\" Finally (Layzie Bone & A.K. album) (2008) Finally... (EP), a 1996 EP by Low Finally... (album), a 2002 album by One True Thing Finally (CeCe Peniston album) or its title song Finally! (T. G. Sheppard album) (1982) Finally (Velvet album) (2006) Finally!, a 2008 album by Iya Villania ...finally, a 1996 album by Too Much Joy Songs \"Finally\" (CeCe Peniston song) (1991) \"Finally\" (D'banj song) (2013) \"Finally\" (Fergie song) (2008) \"Finally\" (Kings of Tomorrow song) (2001) \"Finally\" (T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0001",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.8228503167629242,
+      "text": "Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs \"No Body\", by Blake Shelton, 2022 \"Nobody\" (1905 song), by Alex Rogers and Bert A. Williams \"Nobody\" (Avenged Sevenfold song), 2023 \"Nobody\" (DJ Neptune song), 2020 \"Nobody..."
+    },
+    {
+      "chunk_id": "wikipedia:Certain Things Are Likely#0001",
+      "doc_id": "wikipedia:Certain Things Are Likely",
+      "title": "Certain Things Are Likely",
+      "url": "https://en.wikipedia.org/?curid=23239484",
+      "source_type": "wikipedia",
+      "score": 0.8198442965745926,
+      "text": "Instrumental)\" Chart performance In film \"Certain Things Are Likely\" can be heard in the American teen romantic comedy film, Can't Buy Me Love (1987). It can also be heard in the Italian giallo film Too Beautiful to Die (1988) See also List of Billboard number-one dance singles of 1987 References External links \"Certain Things Are Likely\" at Discogs (list of releases)"
+    },
+    {
+      "chunk_id": "wikipedia:Feels#0000",
+      "doc_id": "wikipedia:Feels",
+      "title": "Feels",
+      "url": "https://en.wikipedia.org/?curid=68447223",
+      "source_type": "wikipedia",
+      "score": 0.7890843749046326,
+      "text": "Feels or The Feels may refer to: Albums Feels (Animal Collective album), 2005 Feels (Snoh Aalegra album), 2017 Songs \"Feels\" (song), a 2017 song and single by Calvin Harris off the album Funk Wav Bounces Vol. 1 \"Feels\" (Snoh Aalegra song), a 2017 song by Snoh Aalegra, the title track off the eponymous album Feels (Snoh Aalegra album) \"The Feels\" (song), a 2021 song by Twice \"F.E.E.L.S.\", a 2021 music video and song by Tory Lanez Other uses The Feels (film), a 2017 film by Jenée LaMarque See also All the Feels (album), 2019 album by Fitz and the Tantrums Feel (disambiguation) All pages with titles beginning with Feels All pages with titles containing Feels"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is holding up his arms trying to be cool on the couch.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "his arms",
+          "the couch"
+        ]
+      },
+      "meme_captions": {
+        "text": "Poster is overwhelmed by the number of old videos.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the number",
+          "old videos"
+        ]
+      },
+      "title": {
+        "text": "Am I the only one?",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "only",
+          "one"
+        ]
+      },
+      "text": {
+        "text": "The Reddit videop ayer sending me through 5 month old videos after scrolling through videos for 0,5 seconds : \\ aa _— LT ) 7 ss . L . 4 Ss —_ — (4. REN _)",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The Reddit videop ayer",
+          "5 month old videos",
+          "videos"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "only",
+      "one",
+      "The Reddit videop ayer",
+      "5 month old videos",
+      "videos"
+    ],
+    "secondary_terms": [
+      "his arms",
+      "the couch",
+      "the number",
+      "old videos"
+    ],
+    "queries": [
+      "\"The Reddit videop ayer\" \"5 month old videos\" \"only\" \"one\"",
+      "\"The Reddit videop ayer\" \"5 month old videos\" \"his arms\" \"the couch\"",
+      "\"his arms\" \"the couch\" \"the number\" \"old videos\""
+    ]
+  },
+  "source_jsonl_id": null
+}

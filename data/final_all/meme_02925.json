@@ -1,0 +1,183 @@
+{
+  "meme_id": "meme_02925",
+  "queries": [
+    "\"Space\" \"year\" \"olds\" \"discover\"",
+    "\"olds\" \"discover\" \"astronaut\" \"moat\""
+  ],
+  "primary_terms": [
+    "Space",
+    "year",
+    "olds",
+    "discover",
+    "astronaut",
+    "moat"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Find#0000",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.7686582267284393,
+      "text": "Find, FIND or Finding may refer to: Computing find (Unix), a command on UNIX platforms find (Windows), a command on DOS/Windows platforms Books The Find (2010), by Kathy Page The Find (2014), by William Hope Hodgson Film and television \"The Find\", an episode of Beyond Belief: Fact or Fiction \"The Find\", an episode of reality TV show The Curse of Oak Island Music Find (Hidden in Plain View EP), 2001 Find (SS501 EP) The Find, a 2005 hip hop album by Ohmega Watts People Áed Find (died 778), king of Dál Riata (modern-day Scotland) Caittil Find, Norse-Gaelic warrior contingent leader Cumméne Find (died 669), seventh abbot of Iona, Scotland Other uses Find, in archaeology Finding (jewelcrafting), jewellery components Meteorite find, a found meteorite not observed to have fallen Foundation for Innovative New Diagnostics, a not-for-profit organisation Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Flight#0001",
+      "doc_id": "wikipedia:Flight",
+      "title": "Flight",
+      "url": "https://en.wikipedia.org/?curid=159472",
+      "source_type": "wikipedia",
+      "score": 0.7635859966278076,
+      "text": "travel through the atmosphere. astronautics — the study of vehicles that travel through space. ballistics — the study of the flight of projectiles. Types of flight Buoyant flight Humans have managed to construct lighter-than-air vehicles that raise off the ground and fly, due to their buoyancy in the air. An aerostat is a system that remains aloft primarily through the use of buoyancy to give an aircraft..."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0001",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.7447917461395264,
+      "text": "historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE). Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity and later medieval scholarship, whereby formal attempts were made to provide explanations of events in the physical world based on natural causes; while further..."
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0000",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.7130865156650543,
+      "text": "A scientist is an expert who conducts scientific research to advance knowledge in science. In classical antiquity, there was no real ancient analog of a modern scientist. Instead, philosophers engaged in the philosophical study of nature called natural philosophy. Though Thales (c. 624–545 BC) was arguably the first scientist for describing how cosmic events may be seen as natural, not necessarily caused by gods, it was not until the 19th century that the term scientist came into regular use: it was coined by the theologian, philosopher, and historian of science William Whewell in 1833 to describe Mary Somerville. History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time."
+    },
+    {
+      "chunk_id": "wikipedia:Space#0001",
+      "doc_id": "wikipedia:Space",
+      "title": "Space",
+      "url": "https://en.wikipedia.org/?curid=27667",
+      "source_type": "wikipedia",
+      "score": 0.6965251326560974,
+      "text": "Euclidean space. Experimental tests of general relativity have confirmed that non-Euclidean geometries provide a better model for the shape of space. Philosophy of space Debates concerning the nature, essence and the mode of existence of space date back to antiquity; namely, to treatises like the Timaeus of Plato, or Socrates in his reflections on..."
+    },
+    {
+      "chunk_id": "wikipedia:Space#0000",
+      "doc_id": "wikipedia:Space",
+      "title": "Space",
+      "url": "https://en.wikipedia.org/?curid=27667",
+      "source_type": "wikipedia",
+      "score": 0.6658224821090698,
+      "text": "Space is a three-dimensional continuum containing positions and directions. In classical physics, physical space is often conceived in three linear dimensions. Modern physicists usually consider it, with time, to be part of a boundless four-dimensional continuum known as spacetime. The concept of space is considered to be of fundamental importance to an understanding of the physical universe. However, disagreement continues between philosophers over whether it is itself an entity, a relationship between entities, or part of a conceptual framework. In the 19th and 20th centuries mathematicians began to examine geometries that are non-Euclidean, in which space is conceived as curved, rather than flat, as in the Euclidean space. According to Albert Einstein's theory of general relativity, space around gravitational fields deviates from Euclidean space. Experimental tests of general relativity have confirmed that non-Euclidean geometries provide a better model for the shape of space."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0001",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.6624643266201019,
+      "text": "forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota. Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species..."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.6530111193656921,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0001",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.6317694783210754,
+      "text": "History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time. Scientists of different eras (and before them, natural philosophers, mathematicians, natural historians, natural theologians, engineers, and others who contributed to the development of science) have had widely different places in society, and the social norms, ethical values, and epistemic virtues associated with scientists—and expected of them—have changed over time as well. Accordingly, many different historical figures..."
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0000",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.6075687170028686,
+      "text": "Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist. Physics is one of the oldest academic disciplines. Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The hulk stands looking depressed at something.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The hulk",
+          "something"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that 5-year-olds have big dreams.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "big dreams"
+        ]
+      },
+      "title": {
+        "text": "Space go brr",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Space"
+        ]
+      },
+      "text": {
+        "text": "5 year olds when they discover what an astronaut Is: | 7 (rn. moat ~~",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "year",
+          "olds",
+          "discover",
+          "astronaut",
+          "moat"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Space",
+      "year",
+      "olds",
+      "discover",
+      "astronaut",
+      "moat"
+    ],
+    "secondary_terms": [
+      "The hulk",
+      "something",
+      "big dreams"
+    ],
+    "queries": [
+      "\"Space\" \"year\" \"olds\" \"discover\"",
+      "\"olds\" \"discover\" \"astronaut\" \"moat\""
+    ]
+  },
+  "source_jsonl_id": null
+}

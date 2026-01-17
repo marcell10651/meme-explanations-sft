@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_04843",
+  "queries": [
+    "\"a low electricity bill\" \"the electricity bill\" \"Christmas\" \"not\"",
+    "\"Christmas\" \"not\" \"even\" \"including\""
+  ],
+  "primary_terms": [
+    "Christmas",
+    "not",
+    "even",
+    "including",
+    "a low electricity bill",
+    "the electricity bill",
+    "praying",
+    "low",
+    "electricity",
+    "bill"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0000",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.6167935848236084,
+      "text": "What Not to Wear is an American makeover reality television series based on the British show of the same name. The show premiered on January 18, 2003, and ended on October 18, 2013, airing on TLC in the United States. What Not to Wear was hosted by Stacy London and Clinton Kelly, though London's Season 1 co-host was Wayne Scot Lukas. Also part of the show was head makeover artist Carmindy and hairstylist Nick Arrojo from season 1 through season 6. Celebrity hairstylist Ted Gibson replaced Arrojo beginning in season 7, through season 10. On March 6, 2013, TLC announced that the tenth season of What Not to Wear would be its last. Format Participants were nominated by friends, co-workers, or relatives. Some episodes involved self-nominations, such as the class reunion specials or mall nominations. In the latter, What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help."
+    },
+    {
+      "chunk_id": "wikipedia:Static electricity#0000",
+      "doc_id": "wikipedia:Static electricity",
+      "title": "Static electricity",
+      "url": "https://en.wikipedia.org/?curid=200136",
+      "source_type": "wikipedia",
+      "score": 0.557568359375,
+      "text": "Static electricity is an imbalance of electric charges within or on the surface of a material. The charge remains until it can move away as an electric current or by electrical discharge. The word \"static\" is used to differentiate it from current electricity, where an electric charge flows through an electrical conductor. A static electric charge can be created whenever two surfaces contact and/or slide against each other and then separate. The effects of static electricity are familiar to most people because they can feel, hear, and even see sparks if the excess charge is neutralized when brought close to an electrical conductor (for example, a path to ground), or a region with an excess charge of the opposite polarity (positive or negative). The familiar phenomenon of a static shock – more specifically, an electrostatic discharge – is caused by the neutralization of a charge."
+    },
+    {
+      "chunk_id": "wikipedia:October#0001",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.5560439199209213,
+      "text": "Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa. Symbols October's birthstones are the tourmaline and opal. Its birth flower is the calendula. The zodiac signs are Libra (until October 22) and Scorpio (from October 23 onward). Observances This list does not necessarily imply either official status..."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0001",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.5523835241794586,
+      "text": "an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even (band), an Australian alternative rock band \"Even\", a song by Chris Brown from his 2017 album Heartbreak on a Full Moon Even Hotels, one of brands of IHG Hotels & Resorts See also Evens..."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0000",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.5124870061874389,
+      "text": "Even may refer to: General Even (company), a Brazilian construction and real estate company Even (given name), a Norwegian male personal name Even (surname), a Breton surname Even (people), an ethnic group from Siberia and Russian Far East Even language, a language spoken by the Evens Odd and Even, a solitaire game which is played with two decks of playing cards Evening, the period of a day that begins at the end of daylight and overlaps with the beginning of night Science and technology In mathematics, the term even is used in several senses related to odd: even and odd numbers, an integer is even if dividing by two yields an integer even and odd functions, a function is even if f(−x) = f(x) for all x even and odd permutations, a permutation of a finite set is even if it is composed of an even number of transpositions Singly even number, an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even"
+    },
+    {
+      "chunk_id": "wikipedia:Concern#0000",
+      "doc_id": "wikipedia:Concern",
+      "title": "Concern",
+      "url": "https://en.wikipedia.org/?curid=6769649",
+      "source_type": "wikipedia",
+      "score": 0.5121443927288055,
+      "text": "Concern may refer to: Constructs Worry, an emotion Concern (computer science), an abstract concept about program behavior Enterprises and organizations Concern (business), a German type of group company Concern (organisation), a student society at the Indian Institute of Science, India CONCERN Program, a Con Edison program that offers eligible customers a specially trained representative and advice about government aid programs, safety tips, and ways to save money on one's energy bill Concern Worldwide, an Irish charity Other uses Concern (horse), an American Thoroughbred racehorse See also Care (disambiguation) Concerned, a webcomic parodying the video game Half-Life 2 Travel concerns travel guide from Wikivoyage"
+    },
+    {
+      "chunk_id": "wikipedia:Charge#0000",
+      "doc_id": "wikipedia:Charge",
+      "title": "Charge",
+      "url": "https://en.wikipedia.org/?curid=6439",
+      "source_type": "wikipedia",
+      "score": 0.4600628733634949,
+      "text": "Charge or charged may refer to: Arts, entertainment, and media Films Charge, Zero Emissions/Maximum Speed, a 2011 documentary Music Charge (David Ford album) Charge (Machel Montano album) Charge!!, an album by The Aquabats Charged (Nebula album) Charged (Toshinori Kondo, Eraldo Bernocchi and Bill Laswell album) Television Charge (TV series) Charge! (TV network) \"Charged\" (Reaper), episode 2 of season one of Reaper Companies Charge Automotive Limited, an electric-vehicle manufacturer Charged Productions, an animation studio Charged Records, a record label Finance Equitable charge, confers a right on the secured party to look to a particular asset in the event of the debtor's default Floating charge, a security interest over the assets of a company Law Criminal charge, a formal accusation made before a court by a prosecuting authority Legal charge, information or indictment through a formal legal process Mathematics, science, and technology Charge (physics), the susceptibility (state of"
+    },
+    {
+      "chunk_id": "wikipedia:Disaster#0000",
+      "doc_id": "wikipedia:Disaster",
+      "title": "Disaster",
+      "url": "https://en.wikipedia.org/?curid=8137",
+      "source_type": "wikipedia",
+      "score": 0.43255548477172856,
+      "text": "A disaster is an event that causes such serious harm to people, buildings, economies, or the environment that the affected community cannot handle it alone. The United Nations Office for Disaster Risk Reduction defines a disaster as \"a serious disruption of the functioning of a community or a society at any scale due to hazardous events interacting with conditions of exposure, vulnerability and capacity, leading to one or more of the following: human, material, economic and environmental losses and impacts\". Natural disasters like avalanches, floods, earthquakes, and wildfires are caused by natural hazards. Human-made disasters like oil spills, terrorist attacks and power outages are caused by people. It may be difficult to separate natural and human-made disasters because human actions can make natural disasters worse. Climate change also affects how often disasters due to extreme weather hazards happen."
+    },
+    {
+      "chunk_id": "wikipedia:Different Colors#0000",
+      "doc_id": "wikipedia:Different Colors",
+      "title": "Different Colors",
+      "url": "https://en.wikipedia.org/?curid=47055403",
+      "source_type": "wikipedia",
+      "score": 0.42829245626926427,
+      "text": "\"Different Colors\" is a song written and recorded by American rock band Walk the Moon for their second studio album, Talking Is Hard (2014). The song was released to US alternative radio stations by RCA Records as the album's second single on May 5, 2015. Described as an alternative rock, electropop, indie rock, and pop song, it is lyrically about celebrating and embracing each other's differences by speaking out against discrimination of any kind. Some music critics gave \"Different Colors\" praise for its chorus and production; others felt it was a step down from the band's earlier singles. The song peaked at number seven on the Billboard Alternative Songs chart, becoming Walk the Moon's third top ten track on the chart. A music video for the song was released on June 11, 2015, featuring footage of the band touring with colorful visuals. The song was performed live by Walk the Moon at award shows, including the 2015 MTV Video Music Awards."
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0001",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.40722588300704954,
+      "text": "game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap! (album), by the Jam, 1983 \"Snap\" (song), by Rosa Linn, 2022 \"Snap\", a song by Kevin Federline from Playing with Fire, 2006 \"Snap\", a song by Nav from Bad Habits, 2019 \"Snap\", a song by Slipknot from Slipknot, 2009 reissue \"Snap!\", a song from the British preschool TV series Boo! Fictional entities Snap, a character from the Nickelodeon animated television..."
+    }
+  ]
+}

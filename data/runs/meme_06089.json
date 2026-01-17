@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_06089",
+  "queries": [
+    "\"Nobody\" \"sleep\" \"feet\" \"whenever\"",
+    "\"the person's feet\" \"Nobody\" \"his feet\" \"their foot\"",
+    "\"his feet\" \"their foot\" \"sleep\" \"feet\""
+  ],
+  "primary_terms": [
+    "sleep",
+    "Nobody",
+    "feet",
+    "whenever"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Nobody#0001",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.9316353261470794,
+      "text": "Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs \"No Body\", by Blake Shelton, 2022 \"Nobody\" (1905 song), by Alex Rogers and Bert A. Williams \"Nobody\" (Avenged Sevenfold song), 2023 \"Nobody\" (DJ Neptune song), 2020 \"Nobody..."
+    },
+    {
+      "chunk_id": "wikipedia:New Shoes#0000",
+      "doc_id": "wikipedia:New Shoes",
+      "title": "New Shoes",
+      "url": "https://en.wikipedia.org/?curid=10317022",
+      "source_type": "wikipedia",
+      "score": 0.804419994354248,
+      "text": "\"New Shoes\" is a song by Scottish singer-songwriter Paolo Nutini, released as the fourth single from debut album, These Streets. It was used as the headlining single for the US release of the album. The song peaked at number 21 on the UK Singles Chart, number eight on the US Billboard Bubbling Under Hot 100 chart, and number one on the Billboard Triple A chart. The song was used for a 2007 international ad campaign by Puma AG. Charts Weekly charts Year-end charts Certifications Cover versions Lena Meyer-Landrut covered this song on some editions of her album My Cassette Player. A live version is found on the platinum edition of her album Good News and on her DVD \"Good News Live\". References"
+    },
+    {
+      "chunk_id": "wikipedia:Snake#0001",
+      "doc_id": "wikipedia:Snake",
+      "title": "Snake",
+      "url": "https://en.wikipedia.org/?curid=29370",
+      "source_type": "wikipedia",
+      "score": 0.8039247691631317,
+      "text": "bodies without limbs or with greatly reduced limbs at least twenty-five times via convergent evolution, leading to many lineages of legless lizards. These resemble snakes, but several common groups of legless lizards have eyelids and external ears, which snakes lack, although this rule is not universal (see Amphisbaenia, Dibamidae, and Pygopodidae). Living snakes are found on every continent except Antarctica, and on most smaller land masses; exceptions include some large islands, such as Ireland..."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0001",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.8004010081291199,
+      "text": "sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep. Synonyms In boarding schools and on trips or holidays that involve young people, the equivalent of bedtime is lights out or lights-out - this term is also used in prisons, hospitals, in the military, and in sleep research..."
+    },
+    {
+      "chunk_id": "wikipedia:Flat#0000",
+      "doc_id": "wikipedia:Flat",
+      "title": "Flat",
+      "url": "https://en.wikipedia.org/?curid=30873460",
+      "source_type": "wikipedia",
+      "score": 0.7495726197957993,
+      "text": "Flat or flats may refer to: Architecture Apartment, known as a flat in the United Kingdom, Ireland, and other Commonwealth countries Arts and entertainment Flat (music), a symbol (♭) which denotes a lower pitch Flat (soldier), a two-dimensional toy soldier made of tin or plastic Flat (theatre), a flat piece of theatrical scenery Flat, a leading type of wordplay, as identified by the National Puzzlers' League Flat! (2010), an Indian film Flats (band), an English sludge metal and punk band Flats (comics), the first stage in the comic coloring process Footwear Flats, footwear which is not high-heeled Ballet flats, derived from ballet shoes, for casual wear as well as dancing Ballet shoes (also known as ballet slippers), often referred to as \"flats\" or \"flat shoes\" Racing flats, lightweight shoes used primarily for running a race Geography Landforms Flat (landform), a relatively level area within a region of greater relief Mudflat, intertidal wetland with a substrate of fine sediments"
+    },
+    {
+      "chunk_id": "wikipedia:Dance#0001",
+      "doc_id": "wikipedia:Dance",
+      "title": "Dance",
+      "url": "https://en.wikipedia.org/?curid=7885",
+      "source_type": "wikipedia",
+      "score": 0.6694108992815018,
+      "text": "across the world exhibiting various different styles and standards. Dance may also be participated in alone as a form of exercise or self expression. Dancing is common human behaviour, and does not necessarily require specific choreography. Theatrical and participatory dance Theatrical dance, also called performance or concert dance, is intended primarily as a spectacle..."
+    },
+    {
+      "chunk_id": "wikipedia:My Left Foot#0000",
+      "doc_id": "wikipedia:My Left Foot",
+      "title": "My Left Foot",
+      "url": "https://en.wikipedia.org/?curid=129542",
+      "source_type": "wikipedia",
+      "score": 0.6299374401569366,
+      "text": "My Left Foot: The Story of Christy Brown is a 1989 biographical comedy-drama film directed by Jim Sheridan (in his directorial debut) and adapted by Sheridan and Shane Connaughton from the 1954 memoir by Christy Brown. A co-production of Ireland and the United Kingdom, it stars Daniel Day-Lewis as Brown, an Irish man born with cerebral palsy, who could control only his left foot. Brown grew up in a poor working-class family and became a writer and artist. Brenda Fricker, Ray McAnally, Hugh O'Conor, Fiona Shaw, and Cyril Cusack are featured in supporting roles. The film was theatrically released on 24 February 1989 to critical acclaim and commercial success, grossing $14.7 million on a £600,000 budget. Reviewers praised the film's screenplay, direction, message, and especially the performances of Day-Lewis and Fricker."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0000",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.6139645934104919,
+      "text": "Bedtime (also called putting to bed or tucking in) is a ritual part of parenting to help children feel more secure and become accustomed to a more rigid schedule of sleep than they might prefer. The ritual of bedtime is aimed at facilitating the transition from wakefulness to sleep. It may involve bedtime stories, children's songs, nursery rhymes, bed-making and getting children to change into nightwear. In some religious households, prayers are said shortly before going to bed. Sleep training may be part of the bedtime ritual for babies and toddlers. In adult use, the term means simply \"time for bed\", similar to curfew, as in \"It's past my bedtime\". Some people are accustomed to drinking a nightcap or herbal tea at bedtime. Sleeping coaches are also used to help individuals reach their bedtime goals. Researchers studying sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep."
+    },
+    {
+      "chunk_id": "wikipedia:Position#0000",
+      "doc_id": "wikipedia:Position",
+      "title": "Position",
+      "url": "https://en.wikipedia.org/?curid=268217",
+      "source_type": "wikipedia",
+      "score": 0.5919672608375549,
+      "text": "Position often refers to: Position (geometry), the spatial location (rather than orientation) of an entity Position, a job or occupation Position may also refer to: Games and recreation Position (poker), location relative to the dealer Position (team sports), a player role within a team Human body Human position, the spatial relation of the human body to itself and the environment Position (obstetrics), the orientation of a baby prior to birth Positions of the feet in ballet Position (music), the location of the hand on a musical instrument Proprioception, the sense of the relative position of neighbouring parts of the body Asana (yoga), the location and posture of the body while practicing yoga Sex position, the arrangement of bodies during sexual intercourse Humanities, law, economics and politics Philosophical theory, a belief or set of beliefs about questions in philosophy Position (finance), commitments in a financial marketplace Social position, the position of an individual in"
+    },
+    {
+      "chunk_id": "wikipedia:Centipede#0000",
+      "doc_id": "wikipedia:Centipede",
+      "title": "Centipede",
+      "url": "https://en.wikipedia.org/?curid=186495",
+      "source_type": "wikipedia",
+      "score": 0.5552529096603394,
+      "text": "Centipedes (from Neo-Latin centi-, \"hundred\", and Latin pes, pedis, \"foot\") are predatory arthropods belonging to the class Chilopoda (Ancient Greek χεῖλος, kheilos, \"lip\", and Neo-Latin suffix -poda, \"foot\", describing the forcipules) of the subphylum Myriapoda, an arthropod group which includes millipedes and other multi-legged animals. Centipedes are elongated segmented (metameric) animals with one pair of legs per body segment. All centipedes are venomous and can inflict painful stings, injecting their venom through pincer-like appendages known as forcipules or toxicognaths, which are actually modified legs instead of fangs. Despite the name, no species of centipede has exactly 100 legs; the number of pairs of legs is an odd number that ranges from 15 pairs to 191 pairs. Centipedes are predominantly generalist carnivores, hunting for a variety of prey items that can be overpowered."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_06001",
+  "queries": [
+    "\"Excited\" \"People\" \"bye\" \"guess\" \"misspell\"",
+    "\"guess\" \"misspell\" \"excited\" \"ane\""
+  ],
+  "primary_terms": [
+    "bye",
+    "guess",
+    "People",
+    "misspell",
+    "excited",
+    "ane",
+    "ert",
+    "tet"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Amusement#0000",
+      "doc_id": "wikipedia:Amusement",
+      "title": "Amusement",
+      "url": "https://en.wikipedia.org/?curid=768817",
+      "source_type": "wikipedia",
+      "score": 0.6904007613658905,
+      "text": "Amusement is the state of experiencing humorous and entertaining events or situations while the person or animal actively maintains the experience, and is associated with enjoyment, happiness, laughter and pleasure. It is an emotion with positive valence and high physiological arousal. Amusement is considered an \"epistemological\" emotion because humor occurs when one experiences a cognitive shift from one knowledge structure about a target to another, such as hearing the punchline of a joke. Emotions perceived overtime are focused on the daily dynamics of life as augment or blunt. The pleasant surprise that happens from learning this new information leads to a state of amusement which people often express through smiling, laughter or chuckling. Current studies have not yet reached consensus on the exact purpose of amusement, though theories have been advanced in the fields of psychology, psychiatry, and sociology."
+    },
+    {
+      "chunk_id": "wikipedia:Staring#0000",
+      "doc_id": "wikipedia:Staring",
+      "title": "Staring",
+      "url": "https://en.wikipedia.org/?curid=4409451",
+      "source_type": "wikipedia",
+      "score": 0.5470804333686828,
+      "text": "Staring is a prolonged gaze or fixed look. In staring, one subject or person is the continual focus of visual interest, for a long amount of time. The meaning, purpose, and rudeness, of staring varies widely between cultures. Staring can be interpreted as being either hostile like disapproval of another's behavior, or the result of intense concentration, interest or affection. Staring behavior can be considered as a form of aggression like when it is an invasion of an individual's privacy in certain contexts, or as a nonverbal cue to convey feelings of attraction in a social setting. The resultant behavior or action defines whether it is aggressive in nature (e.g. leering that results in street harassment), passive or active expression of attraction, etc. However, to some extent staring often occurs accidentally, and often a person would be simply staring into a space for awareness, or could be lost in thought (sometimes known as daydreaming), stupefied, or be unable to see."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.5324674248695374,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Shit#0001",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 0.5292531311511993,
+      "text": "and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire. The word may be further traced to Proto-Germanic *skit-, and ultimately to Proto-Indo-European *skheid- \"cut, separate\", the same root believed to have become the word shed. The word has several cognates in modern..."
+    },
+    {
+      "chunk_id": "wikipedia:Enjoy#0000",
+      "doc_id": "wikipedia:Enjoy",
+      "title": "Enjoy",
+      "url": "https://en.wikipedia.org/?curid=20844046",
+      "source_type": "wikipedia",
+      "score": 0.5110855460166931,
+      "text": "Enjoy may refer to: Film and theater Enjoy (2021 film), a British short film Enjoy (2022 film), an Indian Tamil-language romantic comedy Enjoy (play), a 1980 comedy by Alan Bennett Music Enjoy! (Descendents album) or the title song, 1986 Enjoy! (Jeanette album) or the title song, 2000 Enjoy, an album by Bob Sinclar, 2004 Enjoy, an album by Sakurako Ohara, 2018 \"Enjoy\", a song by Björk from Post, 1995 \"Enjoy\", a song by Janet Jackson from 20 Y.O., 2006 Enjoy Records, a 1962–1987 American record label Other uses Enjoy (car sharing), an Italian car-sharing service Enjoy Contemporary Art Space, Wellington, New Zealand Enjoy Technology, a defunct American company founded by Ron Johnson See also All pages with titles beginning with Enjoy All pages with titles containing Enjoy Anand (disambiguation), Sanskrit for happiness Happiness Joy"
+    },
+    {
+      "chunk_id": "wikipedia:Feels#0000",
+      "doc_id": "wikipedia:Feels",
+      "title": "Feels",
+      "url": "https://en.wikipedia.org/?curid=68447223",
+      "source_type": "wikipedia",
+      "score": 0.5015118479728699,
+      "text": "Feels or The Feels may refer to: Albums Feels (Animal Collective album), 2005 Feels (Snoh Aalegra album), 2017 Songs \"Feels\" (song), a 2017 song and single by Calvin Harris off the album Funk Wav Bounces Vol. 1 \"Feels\" (Snoh Aalegra song), a 2017 song by Snoh Aalegra, the title track off the eponymous album Feels (Snoh Aalegra album) \"The Feels\" (song), a 2021 song by Twice \"F.E.E.L.S.\", a 2021 music video and song by Tory Lanez Other uses The Feels (film), a 2017 film by Jenée LaMarque See also All the Feels (album), 2019 album by Fitz and the Tantrums Feel (disambiguation) All pages with titles beginning with Feels All pages with titles containing Feels"
+    },
+    {
+      "chunk_id": "wikipedia:October#0001",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.4935949742794037,
+      "text": "Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa. Symbols October's birthstones are the tourmaline and opal. Its birth flower is the calendula. The zodiac signs are Libra (until October 22) and Scorpio (from October 23 onward). Observances This list does not necessarily imply either official status..."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.4774419218301773,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:Better#0000",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.47481192648410797,
+      "text": "Better may refer to: \"to better\" as a verb, meaning to undergo betterment better, an alternate spelling of bettor, someone who bets (gambles) Music Albums Better (Chrisette Michele album), 2013 Better (Brian McKnight album), 2016 Better (Haley Reinhart album), 2016 Better (BoA album), 2020 Songs \"Better\" (The Screaming Jets song), 1991 \"Better\" (Brooke Fraser song), 2003 \"Better\" (Tom Baxter song)\", 2007, covered by Boyzone in 2008 \"Better\" (Guns N' Roses song), 2008 \"Better\" (Maggie Rose song), 2012 \"Better\" (Kim Hyung-jun song), 2014 \"Better\" (Banks song), 2015 \"Better\" (Haley Reinhart song), 2016 \"Better\" (Meghan Trainor song), 2016 \"Better\" (Mallrat song), 2017 \"Better\" (Khalid song), 2018 \"Better\" (Lena Meyer-Landrut and Nico Santos song), 2019 \"Better\" (Twice song), 2020 \"Better\" (Zayn song), 2020 \"Better\" (MK and Burns song), 2022 \"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000"
+    },
+    {
+      "chunk_id": "wikipedia:Information#0001",
+      "doc_id": "wikipedia:Information",
+      "title": "Information",
+      "url": "https://en.wikipedia.org/?curid=18985062",
+      "source_type": "wikipedia",
+      "score": 0.4734415113925934,
+      "text": "control, data, form, education, knowledge, meaning, understanding, mental stimuli, pattern, perception, proposition, representation, and entropy. Information is often processed iteratively: Data available at one step are processed into information to be interpreted and processed at the next step. For example, in written text each symbol or letter conveys information..."
+    }
+  ]
+}

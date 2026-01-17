@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_03563",
+  "queries": [
+    "\"some corn syrup\" \"brown sugar\" \"somehow\" \"delicious\"",
+    "\"some corn syrup\" \"Morty\" \"brown sugar\" \"the combination\"",
+    "\"brown sugar\" \"the combination\" \"his mate\" \"somehow\""
+  ],
+  "primary_terms": [
+    "somehow",
+    "delicious",
+    "some corn syrup",
+    "brown sugar",
+    "some pecans"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Sugar on My Tongue#0000",
+      "doc_id": "wikipedia:Sugar on My Tongue",
+      "title": "Sugar on My Tongue",
+      "url": "https://en.wikipedia.org/?curid=80490800",
+      "source_type": "wikipedia",
+      "score": 1.1011170744895935,
+      "text": "\"Sugar on My Tongue\" is a song by American rapper Tyler, the Creator. It was sent to US rhythmic radio on August 19, 2025, as the second single from his ninth studio album, Don't Tap the Glass (2025). The track is a hip-hop and electro song, and was written and produced by Tyler himself. Upon its release, the song was received positively by music critics and became viral on social media. The song was also successful commercially, charting at number 41 on the Billboard Hot 100. A music video was released on August 12, 2025, and an alternative intro variant was released on December 25, 2025. Composition and lyrics \"Sugar on My Tongue\" is an electro-influenced song that incorporates Italo disco, post-disco and funk elements. The production consists of synthesizers drums and 808s. Tyler, the Creator adopts the \"run-on flow\" that is widely used in modern hip-hop and raps about oral sex. Critical reception The song received generally positive reviews."
+    },
+    {
+      "chunk_id": "wikipedia:Candy#0000",
+      "doc_id": "wikipedia:Candy",
+      "title": "Candy",
+      "url": "https://en.wikipedia.org/?curid=61230",
+      "source_type": "wikipedia",
+      "score": 1.0968253910541534,
+      "text": "Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. The category, also called sugar confectionery, encompasses any sweet confection, including chocolate, chewing gum, and sugar candy. Vegetables, fruit, or nuts which have been glazed and coated with sugar are said to be candied. Physically, candy is characterized by the use of a significant amount of sugar or sugar substitutes. Unlike a cake or loaf of bread that would be shared among many people, candies are usually made in smaller pieces. However, the definition of candy also depends upon how people treat the food. Unlike sweet pastries served for a dessert course at the end of a meal, candies are normally eaten casually, often with the fingers, as a snack between meals. Each culture has its own ideas of what constitutes candy rather than dessert. The same food may be a candy in one culture and a dessert in another."
+    },
+    {
+      "chunk_id": "wikipedia:Cake#0000",
+      "doc_id": "wikipedia:Cake",
+      "title": "Cake",
+      "url": "https://en.wikipedia.org/?curid=57572",
+      "source_type": "wikipedia",
+      "score": 0.8547623157501221,
+      "text": "Cake is a baker's confectionery usually made from flour, sugar, and other ingredients and is usually baked. In their oldest forms, cakes were modifications of bread, but cakes now cover a wide range of preparations that can be simple or elaborate and which share features with desserts such as pastries, meringues, custards, and pies. The most common ingredients include flour, sugar, eggs, fat (such as butter, oil, or margarine), a liquid, and a leavening agent, such as baking soda or baking powder. Common additional ingredients include dried, candied, or fresh fruit, nuts, cocoa, and extracts such as vanilla, with numerous substitutions for the primary ingredients. Cakes can also be filled with fruit preserves, nuts, or dessert sauces (like custard, jelly, cooked fruit, whipped cream, or syrups), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0001",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.8192332088947296,
+      "text": "food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting. Their favorite food is cocoa beans. When Willy Wonka arrived, he told the chief he and his people can come live and work at his factory and have all the cocoa beans they want. In the first edition of Charlie..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.8005010783672333,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Cake#0001",
+      "doc_id": "wikipedia:Cake",
+      "title": "Cake",
+      "url": "https://en.wikipedia.org/?curid=57572",
+      "source_type": "wikipedia",
+      "score": 0.7886996865272522,
+      "text": "jelly, cooked fruit, whipped cream, or syrups), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit. Cake is often served as a celebratory dish on ceremonial occasions, such as weddings, anniversaries, and birthdays. There are countless cake recipes; some are bread-like, some are rich and elaborate, and many are centuries old. Cake making is no longer a complicated procedure; while at one time..."
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0000",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.7404343634843826,
+      "text": "Whatever may refer to: Music Albums Whatever (Adore Delano album), 2017 Whatever (Aimee Mann album), 1993 Whatever (Danny Thompson album), 1987 Whatever (The Friends of Distinction album), 1970 Whatever (Green Velvet album), 2001 Whatever (Hot Chelle Rae album) or the title song, 2011 Whatever (Jennifer Batten album) or the title song, 2007 Whatever..., a comedy album by Guido Hatzis, 2000 Whatever: The '90s Pop & Culture Box, a Rhino Records box set, 2005 Whatever, by Megumi Hayashibara, 1992 Whatever, an EP by bbno$, 2018 Songs \"Whatever\" (Ayumi Hamasaki song), 1999 \"Whatever\" (Cro song), 2013 \"Whatever\" (En Vogue song), 1997 \"Whatever\" (Godsmack song), 1998 \"Whatever\" (Ideal song), 2000 \"Whatever\" (Jill Scott song), 2005 \"Whatever\" (Kygo and Ava Max song), 2024 \"Whatever\" (Oasis song), 1994 \"Whatever\" (The Statler Brothers song), 1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple,"
+    },
+    {
+      "chunk_id": "wikipedia:Certain Things Are Likely#0000",
+      "doc_id": "wikipedia:Certain Things Are Likely",
+      "title": "Certain Things Are Likely",
+      "url": "https://en.wikipedia.org/?curid=23239484",
+      "source_type": "wikipedia",
+      "score": 0.7370399832725525,
+      "text": "\"Certain Things Are Likely\" is a song by the English band Kissing the Pink, released as both a 7\" and 12\" single from their studio album of the same name. Produced by the band and Peter Walsh, \"Certain Things Are Likely\" was released as the third single from the album, and was the most successful of their three entries on Billboard's Dance Club Songs chart, peaking at No. 1 for three weeks in May 1987. The song also made the Billboard Hot 100, peaking at No. 97 on the 13th of June, 1987. Track listing 7\" single \"Certain Things Are Likely (Remix Edit)\" \"Certain Things Are Likely (Garage Edit)\" 12\" single \"Certain Things Are Likely (Garage)\" \"Certain Things Are Likely (Garage Dub)\" \"Certain Things Are Likely (Original Mix)\" \"Certain Things Are Likely (Instrumental)\" Chart performance In film \"Certain Things Are Likely\" can be heard in the American teen romantic comedy film, Can't Buy Me Love (1987)."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0000",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.69663967192173,
+      "text": "Two Dogs was a ready-to-drink beverage that was first introduced in Australia in 1993 and went on to become available throughout the world. It was a lemon flavoured alcoholic beverage that is widely considered to have been the \"world’s first brewed alcoholic lemonade\" (despite the pre-existence of traditional drinks like sima), paving the way for similar products such as Hooper's Hooch and Mike's Hard Lemonade. Two Dogs was created in 1993 by the South Australian brewer Duncan MacGillivray. The tale behind the drink says that MacGillivray, an owner of a small brewery and pub in South Australia, was having a beer with some friends who owned a lemon farm. They mentioned that they didn't know what to do with all their lemons that they couldn't sell due to size. Duncan said \"I'll try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well."
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0001",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.6872904300689697,
+      "text": "1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple, 2008 \"Whatever\", by Hüsker Dü from Zen Arcade, 1984 \"Whatever\", by Imogen Heap from I Megaphone, 1998 \"Whatever\", by Lil Tecca from We Love You Tecca 2, 2021 \"Whatever\", by Our Lady Peace..."
+    }
+  ]
+}

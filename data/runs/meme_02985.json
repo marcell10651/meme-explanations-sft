@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_02985",
+  "queries": [
+    "\"Current World Population\" \"fine\" \"current\" \"world\"",
+    "\"current\" \"world\" \"population\" \"aad\""
+  ],
+  "primary_terms": [
+    "fine",
+    "Current World Population",
+    "current",
+    "world",
+    "population",
+    "aad",
+    "wee"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Asia#0000",
+      "doc_id": "wikipedia:Asia",
+      "title": "Asia",
+      "url": "https://en.wikipedia.org/?curid=689",
+      "source_type": "wikipedia",
+      "score": 0.9260064244270325,
+      "text": "Asia ( AY-zhə, UK also AY-shə) is the largest continent in the world by both land area and population. It covers an area of more than 44 million square kilometres, about 30% of Earth's total land area and 8% of Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilisations. Its 4.7 billion people constitute roughly 60% of the world's population. Asia shares the landmass of Eurasia with Europe, and of Afro-Eurasia with both Europe and Africa. In general terms, it is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them."
+    },
+    {
+      "chunk_id": "wikipedia:Left- and right-hand traffic#0001",
+      "doc_id": "wikipedia:Left- and right-hand traffic",
+      "title": "Left- and right-hand traffic",
+      "url": "https://en.wikipedia.org/?curid=213380",
+      "source_type": "wikipedia",
+      "score": 0.8619163811206818,
+      "text": "the rear overtakes the one in the front. For example, a driver in an LHT country would typically overtake on the right of the vehicle being overtaken. RHT is used in 165 countries and territories, mainly in the Americas, Continental Europe, most of Africa and mainland Asia (except South Asia and Thailand), while 75 countries use LHT, which account for about a sixth of the world's land area, a quarter of its roads, and about a third of its population. In 1919, 104 of the world's territories were LHT and an equal number were RHT. Between 1919 and 1986, 34 of the LHT territories switched..."
+    },
+    {
+      "chunk_id": "wikipedia:Country#0000",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.8139694154262542,
+      "text": "A country is an area of land, colloquially used as a synonym for sovereign state or other political entities, but also used to refer to the hinterland surrounding urban areas, as well as to describe the culture of people living in these places. Usually, the term country is applied to occupied areas of land, however it can be used to refer to uninhabited areas or wastelands. When referring to a specific polity, the term \"country\" may refer to a sovereign state, a state with limited recognition, a constituent country, or a dependent territory. Most sovereign states, but not all countries, are members of the United Nations. There is no universal agreement on the number of \"countries\" in the world with a range between 193 to 237. This ambiguity is a result of several states having disputed sovereignty status or limited recognition, and a number of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.8059668064117431,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:Japan#0000",
+      "doc_id": "wikipedia:Japan",
+      "title": "Japan",
+      "url": "https://en.wikipedia.org/?curid=15573",
+      "source_type": "wikipedia",
+      "score": 0.7885779768228531,
+      "text": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands alongside 14,121 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of over 123 million as of 2025, it is the world's 11th most populous country. Tokyo is the country's capital and largest city. The first known habitation of the archipelago dates to the Upper Paleolithic, with the beginning of the Japanese Paleolithic dating to c. 36,000 BC. Between the 4th and 6th centuries, its kingdoms were united under an emperor in Nara and later in Heian-kyō."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.7796314775943756,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0000",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.7082265079021454,
+      "text": "Millennials, also known as Generation Y or Gen Y, are the demographic cohort following Generation X and preceding Generation Z. Researchers and popular media use the early 1980s as starting birth years and the mid-1990s to early 2000s as ending birth years, with the generation typically being defined as people born from 1981 to 1996. Most millennials are the children of baby boomers and older Gen Xers, and are often the parents of Generation Alpha. As children in the late 1980s to 2000s, millennials saw the rise of the Information Age and Internet, being described by some as the first global generation. As adolescents and young adults in the late 1990s to 2010s, the generation was marked by a more upbeat youth culture, elevated familiarity with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace."
+    },
+    {
+      "chunk_id": "wikipedia:Three Rocks, California#0001",
+      "doc_id": "wikipedia:Three Rocks, California",
+      "title": "Three Rocks, California",
+      "url": "https://en.wikipedia.org/?curid=22780127",
+      "source_type": "wikipedia",
+      "score": 0.7079341173171997,
+      "text": "2020 United States census reported that Three Rocks had a population of 248. The population density was 330.7 inhabitants per square mile (127.7/km2). The racial makeup of Three Rocks was 35 (14.1%) White, 0 (0.0%) African American, 7 (2.8%) Native American, 1 (0.4%) Asian, 0 (0.0%) Pacific Islander, 165 (66.5%) from other races, and 40 (16.1%) from two or more races. Hispanic or Latino of any race were 245 persons (98.8%). The whole population lived in households. There were 63 households, out of which 22 (34.9%) had children..."
+    },
+    {
+      "chunk_id": "wikipedia:Your Choice#0001",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.6067714601755142,
+      "text": "'s World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia. Background We thought the message of love is what could really console people and resonate with them, especially in these tough times that we're having. [...] This time, we wanted to use this word, \"love,\" and the concept..."
+    },
+    {
+      "chunk_id": "wikipedia:Century#0001",
+      "doc_id": "wikipedia:Century",
+      "title": "Century",
+      "url": "https://en.wikipedia.org/?curid=5881",
+      "source_type": "wikipedia",
+      "score": 0.60246342420578,
+      "text": "a multiple of 100 (except the first century as it began after the year 1 BC) and ends with the next coming year with a multiple of 100 (100n), i.e. the 20th century comprises the years 1901 to 2000, and the 21st century comprises the years 2001 to 2100 in strict usage. In common perception and practice, centuries are structured by grouping years based on sharing..."
+    }
+  ]
+}

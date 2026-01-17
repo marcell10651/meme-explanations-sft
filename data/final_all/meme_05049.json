@@ -1,0 +1,182 @@
+{
+  "meme_id": "meme_05049",
+  "queries": [
+    "\"the clown cafe\" \"drop\" \"clown\" \"cafe\"",
+    "\"the clown cafe\" \"the mask\" \"drop\" \"clown\"",
+    "\"drop\" \"clown\" \"cafe\" \"territier\""
+  ],
+  "primary_terms": [
+    "the clown cafe",
+    "drop",
+    "clown",
+    "cafe",
+    "territier"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Your Town#0001",
+      "doc_id": "wikipedia:Your Town",
+      "title": "Your Town",
+      "url": "https://en.wikipedia.org/?curid=10652571",
+      "source_type": "wikipedia",
+      "score": 0.8347768187522888,
+      "text": "2:25 US release CD single (Chaos 42K 74959) \"Your Town\" (Euro 7-inch) – 3:49 \"Your Town\" (Barrio Mix radio edit) – 4:09 \"Your Town\" (Perfecto mix) – 6:28 \"Your Town\" (Relaxation dub) – 6:08 \"Your Town\" (Barrio mix instrumental) – 6:05 Charts Release history References"
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.8166828751564026,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    },
+    {
+      "chunk_id": "wikipedia:Delivery#0001",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.7261050790548325,
+      "text": "television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama. Music Deliver (The Mamas & the Papas album), 1967 Deliver (The Oak Ridge Boys album), 1983 Deliverin', a 1971 album by Poco \"Deliver\" (song), a 2017 song by Fifth Harmony \"Deliver\", a song by Lupe Fiasco from Tetsuo & Youth \"Delivery\" (song), a 2007 single..."
+    },
+    {
+      "chunk_id": "wikipedia:Mask#0001",
+      "doc_id": "wikipedia:Mask",
+      "title": "Mask",
+      "url": "https://en.wikipedia.org/?curid=247083",
+      "source_type": "wikipedia",
+      "score": 0.7179586887359619,
+      "text": "\"mask, specter, nightmare\". This word is of uncertain origin, perhaps from Arabic maskharah مَسْخَرَۃٌ \"buffoon\", from the verb sakhira \"to ridicule\". However, it may also come from Provençal mascarar \"to black (the face)\" (or the related Catalan mascarar, Old French mascurer). This in turn is of uncertain origin – perhaps from a Germanic source akin to English \"mesh\", but perhaps from mask- \"black\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.6947991997003555,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    },
+    {
+      "chunk_id": "wikipedia:Delivery#0000",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.6450850963592529,
+      "text": "Delivery may refer to: Biology and medicine Childbirth Drug delivery Gene delivery Business and law Delivery (commerce), of goods, e.g.: Pizza delivery Milk delivery Food delivery Online grocer Deed (\"delivery\" in contract law), as in \"signed, sealed and delivered\" Power delivery or electricity delivery, the process that goes from generation of electricity in the power station to use by the consumer Film and television Delivering (film), a 1993 short film by Todd Field Delivery (1976 film), a Soviet Armenian biographical film Delivery (2005 film), an animated short film Delivery (2013 film), an American horror film The Delivery, a 1999 film directed by Roel Reiné \"Delivery\", the final episode of Men Behaving Badly Julia Zemiro's Home Delivery, a 2013 Australian television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama."
+    },
+    {
+      "chunk_id": "wikipedia:Willy Wonka#0001",
+      "doc_id": "wikipedia:Willy Wonka",
+      "title": "Willy Wonka",
+      "url": "https://en.wikipedia.org/?curid=704925",
+      "source_type": "wikipedia",
+      "score": 0.6393690407276154,
+      "text": "praised and criticized. Wilder, Depp, and Chalamet all received Golden Globe nominations for Best Actor in a Comedy or Musical for their performances. Appearances Charlie and the Chocolate Factory In Charlie and the Chocolate Factory, Wonka has hidden five Golden Tickets inside his chocolate bars. The finders are rewarded with a tour of his factory, each accompanied by an adult of their choice, and a lifetime supply of chocolate..."
+    },
+    {
+      "chunk_id": "wikipedia:Small Faces#0000",
+      "doc_id": "wikipedia:Small Faces",
+      "title": "Small Faces",
+      "url": "https://en.wikipedia.org/?curid=167663",
+      "source_type": "wikipedia",
+      "score": 0.6226730644702911,
+      "text": "The Small Faces were an English rock band from London, founded in 1965. The group originally consisted of singer/guitarist Steve Marriott, bassist Ronnie Lane, drummer Kenney Jones and keyboardist Jimmy Winston, with Ian McLagan replacing Winston in 1966. The band were initially one of the most acclaimed and influential mod groups of the mid-1960s, with hit singles such as \"Whatcha Gonna Do About It\" (1965), \"Sha-La-La-La-Lee\" and \"All or Nothing\" (both 1966). From 1967, they evolved into one of the UK's most successful psychedelic bands, achieving further hit singles including \"Here Come the Nice\", \"Itchycoo Park\", \"Tin Soldier\" (all 1967) and \"Lazy Sunday\" (1968), the latter taken from their critically-acclaimed concept album Ogdens' Nut Gone Flake (1968), which reached No. 1 on the UK Albums Chart. In 1969, Marriott left to form Humble Pie, while Lane, Jones and McLagan continued under the shortened name the Faces with Rod Stewart and Ronnie Wood."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0000",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.6079902112483978,
+      "text": "A restaurant is a business that prepares and serves food and beverages to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, featuring a wide variety of cuisines and service models — ranging from inexpensive fast-food restaurants and cafeterias to mid-priced family restaurants to high-priced luxury establishments. Etymology The word derives from the early 19th century, taken from the French word restaurer 'provide meat for', literally 'restore to a former state' and, being the present participle of the verb, the term restaurant may have been used in 1507 as a \"restorative beverage\", and in correspondence in 1521 to mean 'that which restores the strength, a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt."
+    },
+    {
+      "chunk_id": "wikipedia:Trash#0000",
+      "doc_id": "wikipedia:Trash",
+      "title": "Trash",
+      "url": "https://en.wikipedia.org/?curid=390672",
+      "source_type": "wikipedia",
+      "score": 0.6061203181743622,
+      "text": "Trash may refer to: Garbage Garbage, unwanted or undesired waste material Litter, material discarded in inappropriate places Municipal solid waste, unwanted or undesired waste material generated in a municipal environment Arts, entertainment, and media Art Trash art, artworks created from discarded objects Films, TV, videogames \"Trash\", a video game term Trash (1970 film), an American film Trash (2011 film), a Canadian drama film Trash (2014 film), a British film \"Trash\" (Firefly), an episode of the TV series Trash (video game), a multiplayer real-time strategy Trash TV, a form of television programming considered to be tasteless and unprofessional Trash Video, a Finnish film production company Z movie, a low-budget exploitation movie category Literature Trash (comics), a Marvel Comics organisation Trash (manga), a manga created by Sanami Matoh Trash (novel), a 2010 novel by Andy Mulligan Trash: Short Stories, a 1988 publication by Dorothy Allison Music Bands Trash (band), a British"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "jim carry from the mask holding a tommy gun",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "jim",
+          "the mask"
+        ]
+      },
+      "meme_captions": {
+        "text": "meme poster is dressed to cause fear",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "fear"
+        ]
+      },
+      "title": {
+        "text": "Drop on by the clown cafe!",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the clown cafe",
+          "drop",
+          "clown",
+          "cafe"
+        ]
+      },
+      "text": {
+        "text": "Territier 2 (2022) iS |",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "territier"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the clown cafe",
+      "drop",
+      "clown",
+      "cafe",
+      "territier"
+    ],
+    "secondary_terms": [
+      "jim",
+      "the mask",
+      "fear"
+    ],
+    "queries": [
+      "\"the clown cafe\" \"drop\" \"clown\" \"cafe\"",
+      "\"the clown cafe\" \"the mask\" \"drop\" \"clown\"",
+      "\"drop\" \"clown\" \"cafe\" \"territier\""
+    ]
+  },
+  "source_jsonl_id": null
+}

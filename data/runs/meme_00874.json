@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_00874",
+  "queries": [
+    "\"fake spider web\" \"Halloween\" \"spider web\" \"help\"",
+    "\"The person\" \"fake spider web\" \"Halloween\" \"spider web\"",
+    "\"Halloween\" \"spider web\" \"help\" \"people\""
+  ],
+  "primary_terms": [
+    "help",
+    "spider web",
+    "fake spider web",
+    "Halloween"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Spider-Man#0001",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 1.3237744271755219,
+      "text": "teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J. Jonah Jameson; friends like Harry Osborn and Flash Thompson; romantic interests like Gwen Stacy, Mary Jane Watson, and the Black Cat; and enemies such as Doctor Octopus, the Green Goblin, and Venom. In his origin story, Peter gets his superhuman spider-powers and abilities after he was bitten..."
+    },
+    {
+      "chunk_id": "wikipedia:Spider#0000",
+      "doc_id": "wikipedia:Spider",
+      "title": "Spider",
+      "url": "https://en.wikipedia.org/?curid=28329803",
+      "source_type": "wikipedia",
+      "score": 1.2708907425403595,
+      "text": "Spiders (order Araneae) are air-breathing arthropods that have eight limbs, chelicerae with fangs generally able to inject venom, and spinnerets that extrude silk. They are the largest order of arachnids and rank seventh in total species diversity among all orders of organisms. Spiders are found worldwide on every continent except Antarctica, and have become established in nearly every land habitat. As of December 2025, 53,608 spider species in 139 families have been recorded by taxonomists. However, there has been debate among scientists about how families should be classified, with over 20 different classifications proposed since 1900. Anatomically, spiders (as with all arachnids) differ from other arthropods in that the usual body segments are fused into two tagmata, the cephalothorax or prosoma, and the opisthosoma, or abdomen, and joined by a small, cylindrical pedicel."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 1.04985910654068,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    },
+    {
+      "chunk_id": "wikipedia:Trick#0001",
+      "doc_id": "wikipedia:Trick",
+      "title": "Trick",
+      "url": "https://en.wikipedia.org/?curid=274735",
+      "source_type": "wikipedia",
+      "score": 1.0206386208534242,
+      "text": "Andrzej Jakimowski Trick (2010 film), Polish film by Jan Hryniak Trick (2019 film), American Halloween-themed horror film The Trick (film), a 2021 BBC film about the Climatic Research Unit email controversy Literature Trick (novel), a 2015 novel by Natalia Jaster Tricks, a 1979 chronicle of homosexual encounters by Renaud Camus Tricks..."
+    },
+    {
+      "chunk_id": "wikipedia:Spider#0001",
+      "doc_id": "wikipedia:Spider",
+      "title": "Spider",
+      "url": "https://en.wikipedia.org/?curid=28329803",
+      "source_type": "wikipedia",
+      "score": 0.8920290172100067,
+      "text": "body segments are fused into two tagmata, the cephalothorax or prosoma, and the opisthosoma, or abdomen, and joined by a small, cylindrical pedicel. However, as there is currently neither paleontological nor embryological evidence that spiders ever had a separate thorax-like division, there exists an argument against the validity of the term cephalothorax, which means fused cephalon (head) and the thorax. Similarly, arguments can be formed against the use of..."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0000",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.8456754982471466,
+      "text": "Horror may refer to: Arts, entertainment, and media Genres Horror fiction, a genre of fiction Psychological horror, a subgenre of horror fiction Christmas horror, a subgenre of horror fiction Analog horror, a subgenre of horror fiction Erotic horror, a subgenre of horror fiction Space horror, a subgenre of horror fiction Folk horror, a subgenre of horror fiction Japanese horror, Japanese horror fiction Korean horror, Korean horror fiction Horror film, a film genre Art horror, a subgenre of horror film Body horror, a subgenre of horror film Comedy horror, a subgenre of horror film Erotic horror film, a subgenre of horror film Slasher film, a subgenre of horror film Splatter film, a subgenre of horror film Supernatural horror film, a subgenre of horror film Psychological horror film, a subgenre of horror film Postmodern horror, a subgenre of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a"
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0001",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.8424763381481171,
+      "text": "a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The Terror (1917 film), an American silent film The Terror (1920 film), an American western film starring Tom Mix Terror (1924 film), a French film starring Pearl White The Terror..."
+    },
+    {
+      "chunk_id": "wikipedia:Ghost#0000",
+      "doc_id": "wikipedia:Ghost",
+      "title": "Ghost",
+      "url": "https://en.wikipedia.org/?curid=12514",
+      "source_type": "wikipedia",
+      "score": 0.8124458193778992,
+      "text": "In folklore, a ghost is the soul or spirit of a dead person or non-human animal that is believed by some people to be able to appear to the living. In ghostlore, descriptions of ghosts vary widely, from an invisible presence to translucent or barely visible wispy shapes to realistic, lifelike forms, whether they resemble humans or animals. The deliberate attempt to contact the spirit of a deceased person is known as necromancy, or in spiritism as a séance. Other terms associated with it are apparition, haunt, haint, phantom, poltergeist, shade, specter, spirit, spook, wraith, demon, and ghoul. The belief in the existence of an afterlife, as well as manifestations of the spirits of the dead, is widespread, dating back to animism or ancestor worship in pre-literate cultures. Certain religious practices—funeral rites, exorcisms, and some practices of spiritualism and ritual magic—are specifically designed to rest the spirits of the dead."
+    },
+    {
+      "chunk_id": "wikipedia:Charmer#0001",
+      "doc_id": "wikipedia:Charmer",
+      "title": "Charmer",
+      "url": "https://en.wikipedia.org/?curid=40421866",
+      "source_type": "wikipedia",
+      "score": 0.7682836204767227,
+      "text": "2007 \"Charmer\" (N-Dubz song), 2022 Other uses Charmer (folklore), English practitioners of a specific kind of folk magic Charmers, comic strip by Hallmark Cards (1975–1981) See also Charm (disambiguation) Snake charmer (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.729606106877327,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    }
+  ]
+}

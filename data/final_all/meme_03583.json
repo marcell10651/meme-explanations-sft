@@ -1,0 +1,204 @@
+{
+  "meme_id": "meme_03583",
+  "queries": [
+    "\"chemistry teachers\" \"safety goggles\" \"chemistry\" \"teachers\"",
+    "\"chemistry\" \"teachers\" \"water\" \"wnen\""
+  ],
+  "primary_terms": [
+    "chemistry teachers",
+    "chemistry",
+    "teachers",
+    "water",
+    "safety goggles",
+    "teacher",
+    "wnen",
+    "mix",
+    "suger",
+    "without",
+    "safety",
+    "goggles",
+    "bee"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Water#0000",
+      "doc_id": "wikipedia:Water",
+      "title": "Water",
+      "url": "https://en.wikipedia.org/?curid=33306",
+      "source_type": "wikipedia",
+      "score": 0.8273818552494049,
+      "text": "Water is an inorganic compound with the chemical formula H2O. It is a transparent, tasteless, odorless, and nearly colorless chemical substance. It is the main constituent of Earth's streams, lakes, and oceans and the fluids of all known living organisms, in which it acts as a solvent. Water, being a polar molecule, undergoes strong intermolecular hydrogen bonding which is a large contributor to its physical and chemical properties. It is vital for all known forms of life, despite not providing food energy or being an organic micronutrient. Due to its presence in all organisms, its chemical stability, its worldwide abundance, and its strong polarity relative to its small molecular size, water is often referred to as the \"universal solvent\". Because Earth's environment is relatively close to water's triple point, water exists on Earth as a solid, a liquid, and a gas. It forms precipitation in the form of rain and aerosols in the form of fog."
+    },
+    {
+      "chunk_id": "wikipedia:Teacher#0001",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.7800228416919708,
+      "text": "context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures. Teachers may provide instruction in literacy and numeracy, craftsmanship or vocational training, the arts, religion, civics, community roles, or life skills. Formal teaching tasks include preparing lessons according to agreed curricula, giving lessons..."
+    },
+    {
+      "chunk_id": "wikipedia:Reaction#0000",
+      "doc_id": "wikipedia:Reaction",
+      "title": "Reaction",
+      "url": "https://en.wikipedia.org/?curid=169068",
+      "source_type": "wikipedia",
+      "score": 0.6957008004188537,
+      "text": "Reaction may refer to a process or to a response to an action, event, or exposure. Physics and chemistry Chemical reaction Nuclear reaction Reaction (physics), as defined by Newton's third law Chain reaction (disambiguation) Biology and medicine Adverse drug reaction Allergic reaction Reflex, neural reaction Hypersensitivity, immune reaction Intolerance (disambiguation) Light reaction (disambiguation) Psychology Emotional, reaction Reactivity Proactivity, opposite of reactive behaviour Reactive attachment disorder Politics and culture Reactionary, a political tendency Reaction video Commentary (disambiguation) Proper names and titles Reaction (album), a 1986 album by American R&B singer Rebbie Jackson \"Reaction\" (song), the title song from the Rebbie Jackson album \"Reaction\", a single by Dead Letter Circus Reactions, a 2018 album by The Mods ReAction GUI, a GUI toolkit used on AmigaOS Reaction.life, a political news and commentary website edited by Iain Martin Reaction Records, a"
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0000",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.6570410788059234,
+      "text": "Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist. Physics is one of the oldest academic disciplines. Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy."
+    },
+    {
+      "chunk_id": "wikipedia:Walter White (Breaking Bad)#0000",
+      "doc_id": "wikipedia:Walter White (Breaking Bad)",
+      "title": "Walter White (Breaking Bad)",
+      "url": "https://en.wikipedia.org/?curid=22530352",
+      "source_type": "wikipedia",
+      "score": 0.6317310154438018,
+      "text": "Walter Hartwell White Sr., also known by his alias Heisenberg, is a fictional character and the main protagonist of the American crime drama television series Breaking Bad. He is portrayed by Bryan Cranston. Walter is a skilled chemist who co-founded a technology firm before he accepted a buy-out from his partners. While his partners became wealthy, Walter became a high school chemistry teacher in Albuquerque, New Mexico, barely making ends meet with his family: his wife, Skyler (Anna Gunn), and their son, Walter Jr. (RJ Mitte). At the start of the series, the day after his 50th birthday, he is diagnosed with Stage III lung cancer. After this discovery, Walter decides to manufacture and sell methamphetamine with his former student Jesse Pinkman (Aaron Paul) to ensure his family's financial security after his death. Due to his expertise, Walter's \"blue meth\" is purer than any other on the market, and he is pulled deeper into the illicit drug trade."
+    },
+    {
+      "chunk_id": "wikipedia:Soap#0001",
+      "doc_id": "wikipedia:Soap",
+      "title": "Soap",
+      "url": "https://en.wikipedia.org/?curid=57875",
+      "source_type": "wikipedia",
+      "score": 0.6317152291536331,
+      "text": "(sodium) or K (potassium). When used for cleaning, soap solubilizes particles and grime, which can then be separated from the article being cleaned. The insoluble oil/fat \"dirt\" become associated inside micelles, tiny spheres formed from soap molecules with polar hydrophilic (water-attracting) groups on the outside and encasing a lipophilic (fat-attracting) pocket..."
+    },
+    {
+      "chunk_id": "wikipedia:Green#0000",
+      "doc_id": "wikipedia:Green",
+      "title": "Green",
+      "url": "https://en.wikipedia.org/?curid=12460",
+      "source_type": "wikipedia",
+      "score": 0.5446772634983063,
+      "text": "Green is the color between cyan and yellow on the visible spectrum. It is evoked by light which has a dominant wavelength of roughly 495–570 nm. In subtractive color systems, used in painting and color printing, it is created by a combination of yellow and cyan; in the RGB color model, used on television and computer screens, it is one of the additive primary colors, along with red and blue, which are mixed in different combinations to create all other colors. By far the largest contributor to green in nature is chlorophyll, the chemical by which plants photosynthesize and convert sunlight into chemical energy. Many creatures have adapted to their green environments by taking on a green hue themselves as camouflage. Several minerals have a green color, including the emerald, which is colored green by its chromium content."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0001",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.5330604374408722,
+      "text": "between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another. The dominant philosophical position since the 20th century has been physicalism, which says that everything is material, meaning that minds are certain aspects or features of some material objects. The evolutionary history of the mind is tied to the development of nervous systems, which..."
+    },
+    {
+      "chunk_id": "wikipedia:Group#0001",
+      "doc_id": "wikipedia:Group",
+      "title": "Group",
+      "url": "https://en.wikipedia.org/?curid=25874441",
+      "source_type": "wikipedia",
+      "score": 0.5303519427776336,
+      "text": "Social group Collectives Philosophy and religion Khandha, a Buddhist concept of five material and mental factors that take part in the rise of craving and clinging Science and technology Mathematics Group (mathematics), a set together with a binary operation satisfying certain algebraic conditions Chemistry Functional..."
+    },
+    {
+      "chunk_id": "wikipedia:Glasses#0000",
+      "doc_id": "wikipedia:Glasses",
+      "title": "Glasses",
+      "url": "https://en.wikipedia.org/?curid=74844",
+      "source_type": "wikipedia",
+      "score": 0.5120912909507751,
+      "text": "Glasses, also known as eyeglasses, spectacles, or colloquially as specs, are vision eyewear with clear or tinted lenses mounted in a frame that holds them in front of a person's eyes, typically utilizing a bridge over the nose and hinged arms, known as temples or temple pieces, that rest over the ears for support. Glasses are typically used for vision correction, such as with reading glasses and glasses used for nearsightedness; however, without the specialized lenses, they are also at times used for cosmetic purposes. Safety glasses are eye protection, a form of personal protective equipment (PPE) that are worn by workers around their eyes for protection. Safety glasses act as a shield to protect the eyes from any type of foreign debris that may cause irritation or injury; these glasses may have protection on the sides of the eyes as well as in the lenses. Some types of safety glasses are used to protect against visible and near-visible light or radiation."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A cartoon man is standing tall over a young girl.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "The meme poster is trying to convey that school chemistry teachers overreact when you mix anything without your safety goggles.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "that school chemistry teachers",
+          "anything",
+          "your safety goggles"
+        ]
+      },
+      "title": {
+        "text": "chemistry teachers be like",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "chemistry teachers",
+          "chemistry",
+          "teachers"
+        ]
+      },
+      "text": {
+        "text": "The chemistry teacher wnen | mix Suger and water without safety goggles be EN , \\\\ ‘ Bee Sg",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "water",
+          "safety goggles",
+          "chemistry",
+          "teacher",
+          "wnen",
+          "mix",
+          "suger",
+          "without",
+          "safety",
+          "goggles",
+          "bee"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "chemistry teachers",
+      "chemistry",
+      "teachers",
+      "water",
+      "safety goggles",
+      "teacher",
+      "wnen",
+      "mix",
+      "suger",
+      "without",
+      "safety",
+      "goggles",
+      "bee"
+    ],
+    "secondary_terms": [
+      "that school chemistry teachers",
+      "anything",
+      "your safety goggles"
+    ],
+    "queries": [
+      "\"chemistry teachers\" \"safety goggles\" \"chemistry\" \"teachers\"",
+      "\"chemistry\" \"teachers\" \"water\" \"wnen\""
+    ]
+  },
+  "source_jsonl_id": null
+}

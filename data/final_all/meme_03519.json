@@ -1,0 +1,199 @@
+{
+  "meme_id": "meme_03519",
+  "queries": [
+    "\"the maddest personal shit\" \"Mouth diarrhea\" \"mouth\" \"diarrhea\"",
+    "\"mouth\" \"diarrhea\" \"met\" \"start\""
+  ],
+  "primary_terms": [
+    "Mouth diarrhea",
+    "mouth",
+    "diarrhea",
+    "the maddest personal shit",
+    "met",
+    "start",
+    "telling",
+    "maddest",
+    "personal",
+    "shit"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Shit#0000",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 1.055101501941681,
+      "text": "Shit is an English-language profanity. As a noun, it refers to fecal matter, and as a verb it means to defecate; in the plural (\"the shits\"), it means diarrhea. Shite is a common variant in British and Irish English. As a slang term, shit has many meanings, including: nonsense, foolishness, something of little value or quality, trivial and usually boastful or inaccurate talk or a contemptible person. It could also be used to refer to any other noun in general or as an expression of annoyance, concern, surprise or anger. Etymology The word is likely derived from Old English, having the nouns scite (dung, attested only in place names) and scitte (diarrhoea) and the verb scītan (to defecate, attested only in bescītan, to cover with excrement); eventually it morphed into Middle English schītte (excrement), schyt (diarrhoea) and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:Mouth#0000",
+      "doc_id": "wikipedia:Mouth",
+      "title": "Mouth",
+      "url": "https://en.wikipedia.org/?curid=9293603",
+      "source_type": "wikipedia",
+      "score": 0.7980293393135071,
+      "text": "A mouth also referred to as the oral is the body orifice through which many animals ingest food and vocalize. The body cavity immediately behind the mouth opening, known as the oral cavity (or cavum oris in Latin), is also the first part of the alimentary canal, which leads to the pharynx and the gullet. In tetrapod vertebrates, the mouth is bounded on the outside by the lips and cheeks — thus the oral cavity is also known as the buccal cavity (from Latin bucca, meaning \"cheek\") — and contains the tongue on the inside. Except for some groups like birds and lissamphibians, vertebrates usually have teeth in their mouths, although some fish species have pharyngeal teeth instead of oral teeth. Most bilaterian phyla, including arthropods, molluscs and chordates, have a two-opening gut tube with a mouth at one end and an anus at the other. Which end forms first in ontogeny is a criterion used to classify bilaterian animals into protostomes and deuterostomes."
+    },
+    {
+      "chunk_id": "wikipedia:Face#0001",
+      "doc_id": "wikipedia:Face",
+      "title": "Face",
+      "url": "https://en.wikipedia.org/?curid=53234",
+      "source_type": "wikipedia",
+      "score": 0.7933954715728759,
+      "text": "shape, nostrils, and nasal septum The cheeks, covering the maxilla and mandible (or jaw), the extremity of which is the chin The mouth, with the upper lip divided by the philtrum, sometimes revealing the teeth Facial appearance is vital for human recognition and communication. Facial muscles in humans allow expression of emotions. The face..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.7694515347480774,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Drinking#0000",
+      "doc_id": "wikipedia:Drinking",
+      "title": "Drinking",
+      "url": "https://en.wikipedia.org/?curid=66254",
+      "source_type": "wikipedia",
+      "score": 0.731950294971466,
+      "text": "Drinking is the act of ingesting water or other liquids into the body through the mouth, proboscis, or elsewhere. Humans drink by swallowing, completed by peristalsis in the esophagus. The physiological processes of drinking vary widely among other animals. Most animals drink water to maintain bodily hydration, although many can survive on the water gained from their food. Water is required for many physiological processes. Both inadequate and (less commonly) excessive water intake are associated with health problems. Methods of drinking In humans When a liquid enters a human mouth, the swallowing process is completed by peristalsis which delivers the liquid through the esophagus to the stomach; much of the activity is assisted by gravity. The liquid may be poured from the hands or drinkware may be used as vessels. Drinking can also be by sipping or sucking, typically when imbibing hot liquids or drinking from a spoon."
+    },
+    {
+      "chunk_id": "wikipedia:Shit#0001",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 0.6254462659358978,
+      "text": "and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire. The word may be further traced to Proto-Germanic *skit-, and ultimately to Proto-Indo-European *skheid- \"cut, separate\", the same root believed to have become the word shed. The word has several cognates in modern..."
+    },
+    {
+      "chunk_id": "wikipedia:Tongue#0000",
+      "doc_id": "wikipedia:Tongue",
+      "title": "Tongue",
+      "url": "https://en.wikipedia.org/?curid=55999",
+      "source_type": "wikipedia",
+      "score": 0.5864580631256103,
+      "text": "The tongue is a muscular organ in the mouth of a typical tetrapod. It manipulates food for chewing and swallowing as part of the digestive process, and is the primary organ of taste. The tongue's upper surface (dorsum) is covered by taste buds housed in numerous lingual papillae. It is sensitive and kept moist by saliva and is richly supplied with nerves and blood vessels. The tongue also serves as a natural means of cleaning the teeth. A major function of the tongue is to enable speech in humans and vocalization in other animals. The human tongue is divided into two parts, an oral part at the front and a pharyngeal part at the back. The left and right sides are also separated along most of its length by a vertical section of fibrous tissue (the lingual septum) that results in a groove, the median sulcus, on the tongue's surface. There are two groups of glossal muscles. The four intrinsic muscles alter the shape of the tongue and are not attached to bone."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.5674552023410797,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Joke#0000",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.5465261042118073,
+      "text": "A joke is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh and is usually not meant to be interpreted literally. It usually takes the form of a story, often with dialogue, and ends in a punch line, whereby the humorous element of the story is revealed; this can be done using a pun or other type of word play, irony or sarcasm, logical incompatibility, hyperbole, or other means. Linguist Robert Hetzron offers the definition: A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end. No continuation relieving the tension should be added. As for its being \"oral,\" it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5273550361394882,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Uncle Phil with eyes wide and teeth looking mad and frustrated",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Uncle Phil",
+          "eyes",
+          "teeth"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster feels awkward and uncomfortable when someone they just met shares very personal information.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "shares",
+          "very personal information"
+        ]
+      },
+      "title": {
+        "text": "Mouth diarrhea be like that",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Mouth diarrhea",
+          "mouth",
+          "diarrhea"
+        ]
+      },
+      "text": {
+        "text": "When you just met Someone and they start telling you the maddest personal shit i J \"s, “|",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the maddest personal shit",
+          "met",
+          "start",
+          "telling",
+          "maddest",
+          "personal",
+          "shit"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Mouth diarrhea",
+      "mouth",
+      "diarrhea",
+      "the maddest personal shit",
+      "met",
+      "start",
+      "telling",
+      "maddest",
+      "personal",
+      "shit"
+    ],
+    "secondary_terms": [
+      "Uncle Phil",
+      "eyes",
+      "teeth",
+      "shares",
+      "very personal information"
+    ],
+    "queries": [
+      "\"the maddest personal shit\" \"Mouth diarrhea\" \"mouth\" \"diarrhea\"",
+      "\"mouth\" \"diarrhea\" \"met\" \"start\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_01302",
+  "queries": [
+    "\"got\" \"friends\" \"defend\" \"bot\"",
+    "\"defend\" \"bot\" \"accounts\" \"coming\""
+  ],
+  "primary_terms": [
+    "got",
+    "friends",
+    "defend",
+    "bot",
+    "accounts",
+    "coming",
+    "argument"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Propaganda#0001",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 0.6706130564212799,
+      "text": "which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites. More recently, the digital age has given rise to new ways of disseminating propaganda, for example, in computational propaganda, bots and algorithms are used to manipulate public opinion, e.g., by creating fake or biased news to spread it on social media or using chatbots to mimic real people in discussions..."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0001",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.547522783279419,
+      "text": "Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing. While the game was initially released in 2018 to little mainstream attention, it received a massive rise in popularity in 2020 due to many Twitch streamers and YouTubers playing it during the COVID-19 pandemic..."
+    },
+    {
+      "chunk_id": "wikipedia:Normal People#0000",
+      "doc_id": "wikipedia:Normal People",
+      "title": "Normal People",
+      "url": "https://en.wikipedia.org/?curid=59041422",
+      "source_type": "wikipedia",
+      "score": 0.4937954276800156,
+      "text": "Normal People is a 2018 novel by the Irish author Sally Rooney. Normal People is Rooney's second novel, published after Conversations with Friends (2017). It was first published by Faber & Faber on 30 August 2018. The book became a bestseller in the United States, selling almost 64,000 copies in hardcover in its first four months of release. It was also a bestseller in China, where its coming of age theme was popular with younger readers. A critically acclaimed and Emmy nominated television adaptation of the same name aired from April 2020 on BBC Three and Hulu. A number of publications ranked it one of the best books of the 2010s. Synopsis The novel follows the complex friendship and relationship between two teenagers from different social classes, Connell and Marianne, who both attend the same secondary school in County Sligo, Ireland, and, later, Trinity College Dublin (TCD). It is set during the post-2008 Irish economic downturn, from 2011 through 2015."
+    },
+    {
+      "chunk_id": "wikipedia:Suits LA#0000",
+      "doc_id": "wikipedia:Suits LA",
+      "title": "Suits LA",
+      "url": "https://en.wikipedia.org/?curid=77433138",
+      "source_type": "wikipedia",
+      "score": 0.47567776441574094,
+      "text": "Suits LA is an American legal drama television series created by Aaron Korsh for NBC. It is the second spin-off of Suits and premiered on February 23, 2025. In May 2025, the series was cancelled after one season. Premise Ex-New York City federal prosecutor turned Los Angeles entertainment lawyer Ted Black and his Black Lane Law firm represent powerful clients in LA while Ted and his associates navigate personal and professional challenges. Cast and characters Main Stephen Amell as Ted Black, a former federal prosecutor in New York City who decides to restart his legal career by becoming an entertainment lawyer in Los Angeles with the Black Lane Law firm Lex Scott Davis as Erica Rollins, Ted's law partner at Black & Associates Josh McDermitt as Stuart Lane, criminal defense lawyer and Ted's former partner, who betrays him by leaving their firm, taking some of the firm's lawyers and clients with him Bryan Greenberg as Rick Dodsen Recurring Maggie Grace as Amanda Stevens, a pro bono"
+    },
+    {
+      "chunk_id": "wikipedia:Gangster#0000",
+      "doc_id": "wikipedia:Gangster",
+      "title": "Gangster",
+      "url": "https://en.wikipedia.org/?curid=234656",
+      "source_type": "wikipedia",
+      "score": 0.4698645919561386,
+      "text": "A gangster (informally gangsta) is a criminal who is a member of a gang. Most gangs are considered to be part of organized crime. Gangsters are also called mobsters, a term derived from mob and the suffix -ster. Gangs provide a level of organization and resources that support much larger and more complex criminal transactions than an individual criminal could achieve. Gangsters have been active for many years in countries around the world. Gangsters are the subject of many novels, films, television series, and video games. Usage In modern usage, the term \"gang\" is generally used for a criminal organization and the term \"gangster\" invariably describes a criminal. Much has been written on the subject of gangs, although there is no clear consensus about what constitutes a gang or what situations lead to gang formation and evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.4635567218065262,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0001",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.44570520520210266,
+      "text": ". Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution. Memes do this through processes analogous to those of variation, mutation, competition, and inheritance, each of which influences a meme's reproductive success. Memes spread through the behavior that they generate in their hosts. Memes that propagate less prolifically may become extinct, while others may survive, spread, and (for..."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0001",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.4234692305326462,
+      "text": "by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\". Angered by the suicide of a student who is mocked and refused a loan for her studies, they eventually kill the corrupt bank manager who abetted it. Soon enough, more corrupt individuals are killed, and Rajan Mathew is reinstated as S.P. to nab the group. The team learn..."
+    },
+    {
+      "chunk_id": "wikipedia:Dungeons & Dragons#0001",
+      "doc_id": "wikipedia:Dungeons & Dragons",
+      "title": "Dungeons & Dragons",
+      "url": "https://en.wikipedia.org/?curid=7940",
+      "source_type": "wikipedia",
+      "score": 0.41806721687316895,
+      "text": "each player to create their own character to play instead of a military formation. These characters embark upon adventures within a fantasy setting. A Dungeon Master (DM) serves as referee and storyteller for the game, while maintaining the setting in which the adventures occur, and playing the role of the inhabitants of the game world, known as non-player characters (NPCs). The characters form a party and they interact with the setting's inhabitants and each other. Together they solve..."
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.41132232546806335,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    }
+  ]
+}

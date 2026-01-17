@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_02713",
+  "queries": [
+    "\"Earth\" \"its oil reserves\" \"wonder\" \"will\" \"use\"",
+    "\"will\" \"use\" \"earth\" \"room\""
+  ],
+  "primary_terms": [
+    "wonder",
+    "will",
+    "use",
+    "earth",
+    "room",
+    "ourselves",
+    "its oil reserves"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Earth#0000",
+      "doc_id": "wikipedia:Earth",
+      "title": "Earth",
+      "url": "https://en.wikipedia.org/?curid=9228",
+      "source_type": "wikipedia",
+      "score": 0.7872536540031433,
+      "text": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an ocean world, the only one in the Solar System sustaining liquid surface water. Almost all of Earth's water is contained in its global ocean, covering 70.8% of Earth's crust. The remaining 29.2% of Earth's crust is land, most of which is located in the form of continental landmasses within Earth's land hemisphere. Most of Earth's land is at least somewhat humid and covered by vegetation, while large ice sheets at Earth's polar deserts retain more water than Earth's groundwater, lakes, rivers, and atmospheric water combined. Earth's crust consists of slowly moving tectonic plates, which interact to produce mountain ranges, volcanoes, and earthquakes. Earth has a liquid outer core that generates a magnetosphere capable of deflecting most of the destructive solar winds and cosmic radiation."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0000",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.7265548825263977,
+      "text": "Life is matter that has biological processes, such as signaling and the ability to sustain itself. It is defined descriptively by the capacity for homeostasis, organisation, metabolism, growth, adaptation, response to stimuli, and reproduction. All life over time eventually reaches a state of death, and none is immortal. Many philosophical definitions of living systems have been proposed, such as self-organizing systems. Defining life is further complicated by viruses, which replicate only in host cells, and the possibility of extraterrestrial life, which could be very different from life on Earth. Life exists all over the Earth in air, water, and soil, with many ecosystems forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota."
+    },
+    {
+      "chunk_id": "wikipedia:House#0000",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.6670676946640015,
+      "text": "A house is a single-unit residential building. It may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems. Houses use a range of different roofing systems to keep precipitation such as rain from getting into the dwelling space. Houses generally have doors or locks to secure the dwelling space and protect its inhabitants and contents from burglars or other trespassers. Most conventional modern houses in Western cultures will contain one or more bedrooms and bathrooms, a kitchen or cooking area, and a living room. A house may have a separate dining room, or the eating area may be integrated into the kitchen or another room. Some large houses in North America have a recreation room. In traditional agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0001",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.6638801574707032,
+      "text": "a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly. Where the hall inside the front door of a house is elongated, it may be called a passage, corridor (from Spanish corredor used in El Escorial and 100 years later in Castle Howard), or hallway. History In warmer climates, the houses of the wealthy were often built around a courtyard, but in northern areas manors were built around a great hall. The hall was home to the hearth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0000",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.6361699521541595,
+      "text": "A home, or domicile, is a space used as a permanent or semi-permanent residence for one or more human occupants, and sometimes various companion animals. Homes provide sheltered spaces, for instance rooms, where domestic activity can be performed such as sleeping, preparing food, eating and hygiene as well as providing spaces for work and leisure such as remote working, studying and playing. Physical forms of homes can be static such as a house or an apartment, mobile such as a houseboat, trailer or yurt or digital such as virtual space. The aspect of 'home' can be considered across scales; from the micro scale showcasing the most intimate spaces of the individual dwelling and direct surrounding area to the macro scale of the geographic area such as town, village, city, country or planet. The concept of 'home' has been researched and theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.6084215342998505,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:Room#0000",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.6055666327476501,
+      "text": "In a building or a ship, a room is any enclosed space within a number of walls to which entry is possible only via a door or other dividing structure. The entrance connects it to either a passageway, another room, or the outdoors. The space is typically large enough for several people to move about. The size, fixtures, furnishings, and sometimes placement of the room within the building or ship (or sometimes a train) support the activity to be conducted in it. History Historically, the use of rooms dates at least to early Minoan cultures about 2200 BC, where excavations at Akrotiri on Santorini reveal clearly defined rooms within certain structures. In early structures, the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses."
+    },
+    {
+      "chunk_id": "wikipedia:Earthquake#0000",
+      "doc_id": "wikipedia:Earthquake",
+      "title": "Earthquake",
+      "url": "https://en.wikipedia.org/?curid=10106",
+      "source_type": "wikipedia",
+      "score": 0.57860107421875,
+      "text": "An earthquake, also called a quake, tremor, or temblor, is the shaking of the Earth's surface resulting from a sudden release of energy in the lithosphere that creates seismic waves. Earthquakes can range in intensity, from those so weak they cannot be felt, to those violent enough to propel objects and people into the air, damage critical infrastructure, and wreak destruction across entire cities. The seismic activity of an area is the frequency, type, and size of earthquakes experienced over a particular time. The seismicity at a particular location in the Earth is the average rate of seismic energy release per unit volume. In its most general sense, the word earthquake is used to describe any seismic event that generates seismic waves. Earthquakes can occur naturally or be induced by human activities, such as mining, fracking, and nuclear weapons testing. The initial point of rupture is called the hypocenter or focus, while the ground level directly above it is the epicenter."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.5380181133747101,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Floor#0000",
+      "doc_id": "wikipedia:Floor",
+      "title": "Floor",
+      "url": "https://en.wikipedia.org/?curid=82926",
+      "source_type": "wikipedia",
+      "score": 0.5339862525463104,
+      "text": "A floor is the bottom surface of a room or vehicle. Floors vary from simple dirt in a cave to many layered surfaces made with modern technology. Floors may be stone, wood, bamboo, metal, or any other material that can support the expected load. The levels of a building are often referred to as floors, although sometimes referred to as storeys. Floors typically consist of a subfloor for support and a floor covering used to give a good walking surface. In modern buildings, the subfloor often has electrical wiring, plumbing, and other services built in. As floors must meet many needs, some essential to safety, floors are built to strict building codes in some regions. Special floor structures Where a special floor structure like a floating floor is laid upon another floor, both may be called subfloors."
+    }
+  ]
+}

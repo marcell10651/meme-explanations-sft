@@ -1,0 +1,114 @@
+{
+  "meme_id": "meme_05186",
+  "queries": [
+    "\"Shell\" \"video games\" \"never\" \"know\"",
+    "\"never\" \"know\" \"mom\" \"didn\""
+  ],
+  "primary_terms": [
+    "Shell",
+    "never",
+    "know",
+    "video games",
+    "mom",
+    "didn",
+    "stay",
+    "all",
+    "night",
+    "playing",
+    "video",
+    "games",
+    "did"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Never#0000",
+      "doc_id": "wikipedia:Never",
+      "title": "Never",
+      "url": "https://en.wikipedia.org/?curid=1433241",
+      "source_type": "wikipedia",
+      "score": 0.8768557131290435,
+      "text": "Never may refer to: Music Albums Never (Micachu and the Shapes album) or the title song, 2012 Never (Mie album), 1984 Songs \"Never\" (Heart song), 1985 \"Never\" (Jaheim song), 2007 \"Never\" (JID song), 2016 \"Never\" (Keyshia Cole song), 2004 \"Never\" (Kristine W song), 2008 \"Never\" (Moving Pictures song), 1984; covered by Mie, 1984 \"Never\" (Produce 101 song), by the contestants of Produce 101 season 2, 2017 \"Never (Past Tense)\", by the Roc Project and Tina Arena, 2003 \"Never\", by the Cure from The Cure, 2004 \"Never\", by Earth, Wind & Fire from The Promise, 2003 \"Never\", by Electrafixion from Burned, 1995 \"Never\", by Flo Rida from R.O.O.T.S., 2009 \"Never\", by the House of Love from The House of Love, 1990 \"Never\", by Jomanda, 1993 \"Never\", by Marcus & Martinus from Moments, 2017 \"Never\", by Moby Grape from Wow/Grape Jam, 1968 \"Never\", by Neuro-sama and Evil Neuro, 2025 \"Never\", by Orbital from Wonky, 2012 \"Never\", by Ozzy Osbourne from The Ultimate Sin, 1986 \"Never\", by Paco from This Is"
+    },
+    {
+      "chunk_id": "wikipedia:Fallout (video game)#0000",
+      "doc_id": "wikipedia:Fallout (video game)",
+      "title": "Fallout (video game)",
+      "url": "https://en.wikipedia.org/?curid=4508917",
+      "source_type": "wikipedia",
+      "score": 0.8220945000648499,
+      "text": "Fallout (also known as Fallout: A Post Nuclear Role Playing Game) is a 1997 role-playing video game developed and published by Interplay Productions, set in a mid-22nd century post-apocalyptic and retro-futuristic world, decades after a global nuclear war led by the United States and China. Fallout's protagonist, the Vault Dweller, inhabits an underground nuclear shelter. The player must scour the surrounding wasteland for a computer chip that can fix the Vault's failed water supply system. They interact with other survivors, some of whom give them quests, and engage in turn-based combat. Tim Cain began working on Fallout in 1994. It began and was conceptualized as based on the role-playing game GURPS, but after Steve Jackson Games objected to Fallout's violence, Cain and designer Christopher Taylor created a new character customization scheme, SPECIAL. Interplay initially gave the game little attention, but eventually spent $3 million and employed up to thirty people to develop it."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0000",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.8084572672843933,
+      "text": "Nobody most often refers to: Nobody, an indefinite pronoun Nobody may also refer to: Fictional characters Nobody (Kingdom Hearts), a race of beings in the Kingdom Hearts video game series Nobody (Devil May Cry), a demon appearing in Devil May Cry Nobody, a character in the Jim Jarmusch films Dead Man and Ghost Dog: The Way of the Samurai Nobody, a character in the 1973 Italian film My Name Is Nobody Nobody, a character in the Teenage Mutant Ninja Turtles franchise Odysseus, who used the name \"nobody\" in his battle against Polyphemus Film and television Nobody (1921 film), an American silent film \"The Nobody\" (The Amazing World of Gumball), a 2015 TV episode \"Nobody\" (Folklore), a 2018 TV episode Nobody (2021 film), American thriller film Nobody (2025 film), Chinese animated film Music Nobody (producer) (born 1977), American record producer Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs"
+    },
+    {
+      "chunk_id": "wikipedia:Dungeons & Dragons#0000",
+      "doc_id": "wikipedia:Dungeons & Dragons",
+      "title": "Dungeons & Dragons",
+      "url": "https://en.wikipedia.org/?curid=7940",
+      "source_type": "wikipedia",
+      "score": 0.8080891072750092,
+      "text": "Dungeons & Dragons (commonly abbreviated as D&D or DnD) is a fantasy tabletop role-playing game (TTRPG) originally created and designed by Gary Gygax and Dave Arneson. The game was first published in 1974 by Tactical Studies Rules (TSR). It has been published by Wizards of the Coast, later a subsidiary of Hasbro, since 1997. The game was derived from miniature wargames, with a variation of the 1971 game Chainmail serving as the initial rule system. D&D's publication is commonly recognized as the beginning of modern role-playing games and the role-playing game industry, which also deeply influenced video games, especially the role-playing video game genre. D&D departs from traditional wargaming by allowing each player to create their own character to play instead of a military formation. These characters embark upon adventures within a fantasy setting."
+    },
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.7626923263072968,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Never#0001",
+      "doc_id": "wikipedia:Never",
+      "title": "Never",
+      "url": "https://en.wikipedia.org/?curid=1433241",
+      "source_type": "wikipedia",
+      "score": 0.7611289381980896,
+      "text": "-sama and Evil Neuro, 2025 \"Never\", by Orbital from Wonky, 2012 \"Never\", by Ozzy Osbourne from The Ultimate Sin, 1986 \"Never\", by Paco from This Is Where We Live, 2004 \"Never\", by Sevendust from Next, 2005 \"Never (These Days)\", by Z-Ro, 2010 Places Never, Amur Oblast, a rural locality in Russia Never, Bryansk Oblast, a rural locality..."
+    },
+    {
+      "chunk_id": "wikipedia:Superhero#0000",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 0.6427360117435456,
+      "text": "A superhero or superheroine, is a character who typically possesses superpowers or abilities beyond those of ordinary people; is frequently costumed, concealing their identity; and fits the role of the hero, typically using their powers to help the world become a better place, or dedicating themselves to protecting the public and fighting crime. Superhero fiction is the genre of fiction that is centered on such characters, especially, since the 1930s, in American comic books (and later in Hollywood films, film serials, television and video games), as well as in Japanese media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins."
+    },
+    {
+      "chunk_id": "wikipedia:Everything#0001",
+      "doc_id": "wikipedia:Everything",
+      "title": "Everything",
+      "url": "https://en.wikipedia.org/?curid=17181902",
+      "source_type": "wikipedia",
+      "score": 0.6403585642576217,
+      "text": "of all things in the universe is unknown because of the physics beyond the observed universe and the problem of knowing physics at the range infinite. To know universally everything as a temporal and spatial consideration isn't possible because of the unavailabilty of information at a certain time before the beginning of the universe and because of the problem of eternal causality. Scope In ordinary conversation, everything usually refers only to the totality of things..."
+    },
+    {
+      "chunk_id": "wikipedia:Useless#0000",
+      "doc_id": "wikipedia:Useless",
+      "title": "Useless",
+      "url": "https://en.wikipedia.org/?curid=25714209",
+      "source_type": "wikipedia",
+      "score": 0.6014873027801514,
+      "text": "Useless may refer to: Useless (film), a 2007 Chinese documentary by Jia Zhangke Useless (EP), a 2000 EP by Unloco \"Useless\" (song), a 1997 song by Depeche Mode \"Useless\", a 2009 song by Cavo from Bright Nights Dark Days \"Useless\", a song by Faster Pussycat from The Power and the Glory Hole \"Useless\", a song by Myka Relocate from Lies to Light the Way \"Useless (I Don't Need You Now)\", a song by Kym Mazelle \"Useless (The Little Horse That Didn't Grow)\", a song by Waylon Jennings from Cowboys, Sisters, Rascals & Dirt \"Inútil\" (\"Useless\"), a song from the musical In the Heights \"Useless\", the sixth episode of the 2024 miniseries Manhunt See also All pages with titles beginning with Useless"
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0000",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.5656173408031464,
+      "text": "Snap or SNAP may refer to: Supplemental Nutrition Assistance Program, a food program for low-income families administered by the United States Department of Agriculture Arts and entertainment Snap (film), the initial release title for the 2013 film Enter the Dangerous Mind The Stanly News and Press, a newspaper in Albemarle, North Carolina, US \"Snap\" (Duty Free), a 1984 TV episode Games and sports Snap (gridiron football), the start of a play in gridiron football Scalable Network Application Package, an online gaming platform Pokémon Snap, a 1999 Japanese video game New Pokémon Snap, the 2021 sequel Snap, any putdown used in the Dozens Card games Snap (card game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap!"
+    }
+  ]
+}

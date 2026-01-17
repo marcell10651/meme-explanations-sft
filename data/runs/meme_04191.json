@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_04191",
+  "queries": [
+    "\"Mickey Mouse\" \"Qatar\" \"fun\" \"football\" \"players\"",
+    "\"football\" \"players\" \"concussion\" \"soccer\""
+  ],
+  "primary_terms": [
+    "fun",
+    "Qatar",
+    "football",
+    "players",
+    "concussion",
+    "soccer",
+    "touched",
+    "leaf",
+    "uuno"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.7873624384403228,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo#0001",
+      "doc_id": "wikipedia:Leonardo",
+      "title": "Leonardo",
+      "url": "https://en.wikipedia.org/?curid=11525478",
+      "source_type": "wikipedia",
+      "score": 0.7071148514747619,
+      "text": "Crashcup People Leonardo da Vinci (1452–1519), Italian polymath Leonardo Araújo, Brazilian former footballer and manager, most recently the sporting director of Paris Saint-Germain Leonardo (footballer, born 1974), Brazilian forward Leonardo Pereira da Silva (1974–2016) Leonardo (footballer, born 1976), Brazilian winger Leonardo dos Santos..."
+    },
+    {
+      "chunk_id": "wikipedia:American#0001",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.6390623956918716,
+      "text": "conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C. Sports teams Soccer Baltimore Americans, the name of two soccer teams, one from 1939 to 1942 and one from 1942 to 1948 Chicago Americans, a soccer team in 1972 Dallas Americans, a soccer team from 1983 to 1985 Hartford Americans, a soccer..."
+    },
+    {
+      "chunk_id": "wikipedia:Ever#0001",
+      "doc_id": "wikipedia:Ever",
+      "title": "Ever",
+      "url": "https://en.wikipedia.org/?curid=749143",
+      "source_type": "wikipedia",
+      "score": 0.6178604483604431,
+      "text": "footballer Ever Anderson (born 2007), actress and model Ever Caballero (born 1982), Paraguayan footballer Ever Cantero (born 1985), Paraguayan footballer Ever Carradine (born 1974), American actress and the daughter of Robert Carradine Éver Guzmán (born 1988), Mexican football (soccer) player Ever Hernández (born 1958), retired football..."
+    },
+    {
+      "chunk_id": "wikipedia:Play#0001",
+      "doc_id": "wikipedia:Play",
+      "title": "Play",
+      "url": "https://en.wikipedia.org/?curid=923188",
+      "source_type": "wikipedia",
+      "score": 0.5700293242931366,
+      "text": "and also known as Raftaar 24 x 7 The Play (film), a 2013 Indian Bengali-language film Aattam or The Play, a 2024 Indian Malayalam-language film Games and sports Gameplay Play from scrimmage in American and Canadian football The Play (American football), a famous last-second kickoff return by the California Golden Bears to beat the..."
+    },
+    {
+      "chunk_id": "wikipedia:Down#0000",
+      "doc_id": "wikipedia:Down",
+      "title": "Down",
+      "url": "https://en.wikipedia.org/?curid=8550",
+      "source_type": "wikipedia",
+      "score": 0.5083381444215774,
+      "text": "Down most often refers to: Down, the relative direction opposed to up Down (gridiron football), in North American/gridiron football, a period when one play takes place Down feather, a soft bird feather used in bedding and clothing Downland, a type of hill Down may also refer to: Places County Down, Northern Ireland, UK County Down (Parliament of Ireland constituency), abolished 1800 Down (Northern Ireland Parliament constituencies) Down (Northern Ireland Parliament constituency), 1921–1929 Down (UK Parliament constituency), 1801–1885 and 1922–1950 Down (civil parish) Down county football team, Gaelic football Down, County Westmeath, Ireland Downe, Greater London, England, formerly called \"Down\" People Down (surname) John Langdon Down (1828–1896), British physician best known for his description of Down syndrome Down AKA Kilo (born 1985), American rapper Film and television Down (film), a 2001 English remake of the film De Lift \"Down\" (Breaking Bad), an episode of the second season of"
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo#0000",
+      "doc_id": "wikipedia:Leonardo",
+      "title": "Leonardo",
+      "url": "https://en.wikipedia.org/?curid=11525478",
+      "source_type": "wikipedia",
+      "score": 0.5063505679368973,
+      "text": "Leonardo or The Leonardo may refer to: Arts and entertainment Leonardo Journal, an arts journal Leonardo (Italian magazine), a philosophy magazine published in Florence, Italy, in 1903–1907 Leonardo (journal), published by the MIT Press Leonardo (Teenage Mutant Ninja Turtles), one of the main characters in the Teenage Mutant Ninja Turtles franchise Leonardo (TV channel), an Italian television channel Leonardo (2011 TV series), a CBBC television series which centers around teenage Leonardo da Vinci played by Jonathan Bailey Leonardo (2021 TV series), an Italian-American television series Leonardo the Musical: A Portrait of Love, a 1993 musical Leonardo/ISAST, the International Society for the Arts, Sciences and Technology \"The Leonardo\", a 1933 short story written in Russian by Vladimir Nabokov Leonardo, the assistant of inventor Clyde Crashcup People Leonardo da Vinci (1452–1519), Italian polymath Leonardo Araújo, Brazilian former footballer and manager, most recently the sporting"
+    },
+    {
+      "chunk_id": "wikipedia:Emon#0001",
+      "doc_id": "wikipedia:Emon",
+      "title": "Emon",
+      "url": "https://en.wikipedia.org/?curid=52429604",
+      "source_type": "wikipedia",
+      "score": 0.4771902024745941,
+      "text": "(born 1993), Bangladeshi footballer Anisul Islam Emon (born 1994), Bangladeshi cricketer Parvez Hossain Emon (born 2002), Bangladeshi cricketer Abu Shahed Emon (fl. 2000s), Bangladeshi film director Emon Saha (fl. 2000s), Bangladeshi composer Emon Ahmed (fl. 2008–2010), Bangladeshi cricketer Emon Chowdhury, Bangladeshi musician Emon..."
+    },
+    {
+      "chunk_id": "wikipedia:Doctor#0001",
+      "doc_id": "wikipedia:Doctor",
+      "title": "Doctor",
+      "url": "https://en.wikipedia.org/?curid=662249",
+      "source_type": "wikipedia",
+      "score": 0.43586523830890656,
+      "text": "Doctor, in video game Cave Story The Doctor (Star Trek) The Doctor, or Scalpel, in the Transformers film series The Doctor or Cobra Commander, in G.I. Joe: A Real American Hero The Doctor, in Little Nightmares II Minoru Kamiya, also known as Doctor, in YuYu Hakusho The Doctor (Squid Game), also known as Byeong-yi or Player 111 Film Doctor (film series), British comedy films of the 1950s–1960s Doctor (1963 film), an Indian Malayalam-language film Doctor (2013 film), a South Korean horror film Doctor (2021 film), an Indian Tamil-language film Doctor (2023 film), a Russian drama The Doctor (1991 film), an American drama The Doctor (2013 film), about basketball player Julius Erving Music ��4�..."
+    },
+    {
+      "chunk_id": "wikipedia:Mater#0001",
+      "doc_id": "wikipedia:Mater",
+      "title": "Mater",
+      "url": "https://en.wikipedia.org/?curid=4910553",
+      "source_type": "wikipedia",
+      "score": 0.43088423907756807,
+      "text": "Mater, a major part of an astrolabe M.A.T.E.R., a football (soccer) club in Rome People Juris Māters (1845–1885), Latvian writer and journalist Rudy Mater (born 1980), French footballer See also Dura mater, the outermost layer of the meninges surrounding the brain and spinal cord in mammals Arachnoid..."
+    }
+  ]
+}

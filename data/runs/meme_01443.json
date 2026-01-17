@@ -1,0 +1,112 @@
+{
+  "meme_id": "meme_01443",
+  "queries": [
+    "\"the entire circus\" \"entire\" \"circus\" \"parents\"",
+    "\"circus\" \"parents\" \"minimum\" \"wage\""
+  ],
+  "primary_terms": [
+    "the entire circus",
+    "entire",
+    "circus",
+    "parents",
+    "minimum",
+    "wage",
+    "earning",
+    "asking",
+    "didn",
+    "become",
+    "doctor"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.6452337622642517,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:Homies (toy)#0000",
+      "doc_id": "wikipedia:Homies (toy)",
+      "title": "Homies (toy)",
+      "url": "https://en.wikipedia.org/?curid=1380153",
+      "source_type": "wikipedia",
+      "score": 0.5110419899225235,
+      "text": "Homies are a series of two-inch plastic collectible figurines representing various Chicano Mexican American characters. The line of toys was created by David Gonzales and based on a comic strip that Gonzales created featuring a cast of characters from his youth. Introduced in the year 1998, Homies were initially sold in grocery store vending machines and have become a highly collectible item, and have spawned many imitation toys. Background and history Gonzales began drawing comics while he was in high school. His amateur comic strip was called The Adventures of Chico Loco, and the characters were based on \"barrio guys,\" as Gonzales grew up on the tough streets of a poverty-ridden Mexican-American neighborhood. The main character, based on Gonzales himself, was called \"Hollywood.\" The strip, which later changed its title to The Adventures of Hollywood, was picked up by Lowrider magazine and published monthly."
+    },
+    {
+      "chunk_id": "wikipedia:The Walt Disney Company#0000",
+      "doc_id": "wikipedia:The Walt Disney Company",
+      "title": "The Walt Disney Company",
+      "url": "https://en.wikipedia.org/?curid=37398",
+      "source_type": "wikipedia",
+      "score": 0.49720645546913145,
+      "text": "The Walt Disney Company, commonly referred to as simply Disney, is an American multinational mass media and entertainment conglomerate headquartered at the Walt Disney Studios complex in Burbank, California. Founded on October 16, 1923, as an animation studio by brothers Walt Disney and Roy Oliver Disney as Disney Brothers Cartoon Studio, Disney operated under the names Walt Disney Studio and Walt Disney Productions before adopting its current name in 1986. In 1928, Disney established itself as a leader in the animation industry with the short film Steamboat Willie. The film used synchronized sound to become the first post-produced sound cartoon, and popularized Mickey Mouse, who became Disney's mascot and corporate icon. After becoming a success by the early 1940s, Disney diversified into live-action films, television, and theme parks in the 1950s. However, following Walt Disney's death in 1966, the company's profits, especially in the animation sector, began to decline."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0001",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.4653977006673813,
+      "text": "preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child. The adjective \"paternal\" refers to a father and comparatively to \"maternal\" for a mother. The verb \"to father\" means to procreate or to sire a child from which also derives the noun \"fathering\". Biological fathers determine the sex of their child through a sperm cell..."
+    },
+    {
+      "chunk_id": "wikipedia:Family#0000",
+      "doc_id": "wikipedia:Family",
+      "title": "Family",
+      "url": "https://en.wikipedia.org/?curid=10401954",
+      "source_type": "wikipedia",
+      "score": 0.4474730998277664,
+      "text": "Family (from Latin: familia) is a group of people related either by consanguinity (by recognized birth) or affinity (by marriage or other relationship). It forms the basis for social order. Ideally, families offer predictability, structure, and safety as members mature and learn to participate in the community. Historically, most human societies use family as the primary purpose of attachment, nurturance, and socialization. Anthropologists classify most family organizations as matrifocal (a mother and her children), patrifocal (a father and his children), conjugal (a married couple with children, also called the nuclear family), avuncular (a man, his sister, and her children), or extended (in addition to parents, spouse and children, may include grandparents, aunts, uncles, or cousins). The field of genealogy aims to trace family lineages through history. The family is also an important economic unit studied in family economics."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0000",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.44740972518920896,
+      "text": "A father, dad, or daddy is the male parent of a child. Besides the paternal bonds of a father to his child or children, fathers may have a parental, legal, and social relationship with their child or children that carries with it certain rights and obligations. A biological father is the male genetic contributor to the creation of the child, through sexual intercourse or sperm donation. A biological father may have legal obligations to a child not raised by him, such as an obligation of monetary support. An adoptive father is a man who has become the child's parent through the legal process of adoption. A putative father is a man whose biological relationship to a child is alleged but has not been established. A stepfather is a non-biological male parent married to a child's preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child."
+    },
+    {
+      "chunk_id": "wikipedia:Mother!#0000",
+      "doc_id": "wikipedia:Mother!",
+      "title": "Mother!",
+      "url": "https://en.wikipedia.org/?curid=48213513",
+      "source_type": "wikipedia",
+      "score": 0.4450465887784958,
+      "text": "Mother! (stylized as mother!) is a 2017 American psychological horror film written and directed by Darren Aronofsky, and starring Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer, Domhnall Gleeson, Brian Gleeson, and Kristen Wiig. Its plot follows a young woman whose tranquil life with her husband at their country home is disrupted by the arrival of a mysterious couple, leading to a series of increasingly chaotic and destructive events. The film premiered on September 5, 2017, at the 74th Venice International Film Festival, where it was selected to compete for the Golden Lion. It was released in the United States by Paramount Pictures on September 15, 2017. The film grossed $44.5 million worldwide. It received generally positive reviews from critics."
+    },
+    {
+      "chunk_id": "wikipedia:The Walt Disney Company#0001",
+      "doc_id": "wikipedia:The Walt Disney Company",
+      "title": "The Walt Disney Company",
+      "url": "https://en.wikipedia.org/?curid=37398",
+      "source_type": "wikipedia",
+      "score": 0.4425428658723831,
+      "text": "theme parks in the 1950s. However, following Walt Disney's death in 1966, the company's profits, especially in the animation sector, began to decline. In 1984, Disney's shareholders voted Michael Eisner as CEO, who led a reversal of the company's decline through a combination of international theme park expansion and the highly successful Disney Renaissance period..."
+    },
+    {
+      "chunk_id": "wikipedia:Mama#0001",
+      "doc_id": "wikipedia:Mama",
+      "title": "Mama",
+      "url": "https://en.wikipedia.org/?curid=383334",
+      "source_type": "wikipedia",
+      "score": 0.4346407949924469,
+      "text": "Wrestling Big Mama, former manager of American professional wrestler Jimmy Valiant (born 1942) Gemma Teller Morrow, a character on The Sons of Anarchy television show, called \"Mama\" by her lover Nero Padilla Mama Fratelli, a character in the 1985 American adventure comedy The Goonies Mama Maybelle Harper, a character in the..."
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0001",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.43105894327163696,
+      "text": "or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover (theater), a walkway across the stage hidden from the audience Crossover thrash, a musical genre combining thrash and punk Crossover (video games) The Crossover..."
+    }
+  ]
+}

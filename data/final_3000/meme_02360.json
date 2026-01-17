@@ -1,0 +1,186 @@
+{
+  "meme_id": "meme_02360",
+  "queries": [
+    "\"Doom\" \"a steel-barreled sword\" \"vengeance\" \"carries\" \"steel\"",
+    "\"carries\" \"steel\" \"barreled\" \"sword\""
+  ],
+  "primary_terms": [
+    "a steel-barreled sword",
+    "vengeance",
+    "carries",
+    "steel",
+    "barreled",
+    "sword",
+    "nae"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Doomed#0000",
+      "doc_id": "wikipedia:Doomed",
+      "title": "Doomed",
+      "url": "https://en.wikipedia.org/?curid=9401997",
+      "source_type": "wikipedia",
+      "score": 9.231745373443605,
+      "text": "Doomed may refer to: \"Doomed\" (Buffy the Vampire Slayer), a 1999 episode of the television series Buffy the Vampire Slayer \"Doomed\", an episode of the 2006 television series Fantastic Four: World's Greatest Heroes Doomed!: The Untold Story of Roger Corman's The Fantastic Four, a 2015 documentary film Doomed (novel), a 2013 novel by Chuck Palahniuk \"Doomed\" (Bring Me the Horizon song), 2015 \"Doomed\" (Moses Sumney song), 2017 DoomEd, an editor for the video game Doom Doomed, a 1975 performance art piece by Chris Burden The Doomed (film), a 1924 German silent drama film \"The Doomed\", a 2017 song by A Perfect Circle See also Doom (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Sword#0001",
+      "doc_id": "wikipedia:Sword",
+      "title": "Sword",
+      "url": "https://en.wikipedia.org/?curid=27863",
+      "source_type": "wikipedia",
+      "score": 1.1082630515098573,
+      "text": "Ages, at first adopted as the Migration Period sword, and only in the High Middle Ages, developed into the classical arming sword with crossguard. The word sword continues the Old English, sweord. The use of a sword is known as swordsmanship or, in a modern context, as fencing. In the early modern period, western sword design diverged into two forms, the thrusting swords and the sabres..."
+    },
+    {
+      "chunk_id": "wikipedia:Four Horsemen of the Apocalypse#0001",
+      "doc_id": "wikipedia:Four Horsemen of the Apocalypse",
+      "title": "Four Horsemen of the Apocalypse",
+      "url": "https://en.wikipedia.org/?curid=39430",
+      "source_type": "wikipedia",
+      "score": 0.942706149816513,
+      "text": "the first horseman rides a white horse, carries a bow, and is given a crown as a figure of conquest, perhaps invoking pestilence, or the Antichrist. The second carries a sword and rides a red horse as the creator of (civil) war, conflict, and strife. The third, a food merchant, rides a black horse symbolizing famine and carries a pair of scales. The fourth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Forge#0000",
+      "doc_id": "wikipedia:Forge",
+      "title": "Forge",
+      "url": "https://en.wikipedia.org/?curid=11057",
+      "source_type": "wikipedia",
+      "score": 0.8079013288021087,
+      "text": "A forge is a type of hearth used for heating metals, or the workplace (smithy) where such a hearth is located. The forge is used by the smith to heat a piece of metal to a temperature at which it becomes easier to shape by forging, or to the point at which work hardening no longer occurs. The metal (known as the \"workpiece\") is transported to and from the forge using tongs, which are also used to hold the workpiece on the smithy's anvil while the smith works it with a hammer. Sometimes, such as when hardening steel or cooling the work so that it may be handled with bare hands, the workpiece is transported to the slack tub, which rapidly cools the workpiece in a large body of water. However, depending on the metal type, it may require an oil quench or a salt brine instead; many metals require more than plain water hardening. The slack tub also provides water to control the fire in the forge."
+    },
+    {
+      "chunk_id": "wikipedia:Four Horsemen of the Apocalypse#0000",
+      "doc_id": "wikipedia:Four Horsemen of the Apocalypse",
+      "title": "Four Horsemen of the Apocalypse",
+      "url": "https://en.wikipedia.org/?curid=39430",
+      "source_type": "wikipedia",
+      "score": 0.6395899415016174,
+      "text": "The Four Horsemen of the Apocalypse are figures in the Book of Revelation in the New Testament of the Bible, a piece of apocalypse literature attributed to John of Patmos, and generally regarded as dating from about AD 95. Similar allusions are contained in the Old Testament books of Ezekiel and Zechariah, written centuries prior. Though the text only provides a name for the fourth horseman, subsequent commentary often identifies them as personifications of Conquest, War, Famine, and Death. Revelation 6 tells of a book or scroll in God's right hand that is sealed with seven seals. The Lamb of God/Lion of Judah opens the first four of the seven seals, which summons four beings that ride out on white, red, black, and pale horses. All of the horsemen save for Death are portrayed as being human in appearance. In John's revelation the first horseman rides a white horse, carries a bow, and is given a crown as a figure of conquest, perhaps invoking pestilence, or the Antichrist."
+    },
+    {
+      "chunk_id": "wikipedia:Train#0000",
+      "doc_id": "wikipedia:Train",
+      "title": "Train",
+      "url": "https://en.wikipedia.org/?curid=30598",
+      "source_type": "wikipedia",
+      "score": 0.6281140804290771,
+      "text": "A train (from Old French trahiner, from Latin trahere, \"to pull, to draw\") is a series of connected vehicles that run along a railway track and transport people or freight. Trains are typically pulled or pushed by locomotives (often known simply as \"engines\"), though some are self-propelled, such as multiple units or railcars. Passengers and cargo are carried in railroad cars, also known as wagons or carriages. Trains are designed to a certain gauge, or distance between rails. Most trains operate on steel tracks with steel wheels, the low friction of which makes them more efficient than other forms of transport. Many countries use rail transport. Trains have their roots in wagonways, which used railway tracks and were powered by horses or pulled by cables. Following the invention of the steam locomotive in the United Kingdom in 1802, trains rapidly spread around the world, allowing freight and passengers to move over land faster and cheaper than ever possible before."
+    },
+    {
+      "chunk_id": "wikipedia:Grader#0000",
+      "doc_id": "wikipedia:Grader",
+      "title": "Grader",
+      "url": "https://en.wikipedia.org/?curid=620529",
+      "source_type": "wikipedia",
+      "score": 0.5556817203760147,
+      "text": "A grader, also commonly referred to as a road grader, motor grader, or simply blade, is a form of heavy equipment with a long blade used to create a flat surface during grading. Although the earliest models were towed behind horses, and later tractors, most modern graders are self-propelled and thus technically \"motor graders\". Typical graders have three axles, with the steering wheels in front, followed by the grading blade or mouldboard, then a cab and engine atop tandem rear axles. Some graders also have front-wheel drives for improved performance. Some graders have optional rear attachments, such as a ripper, scarifier, or compactor. A blade forward of the front axle may also be added. For snowplowing and some dirt grading operations, a main blade extension can also be mounted. Capacities range from a blade width of 2.5 to 7.5 m (8 to 24 ft) and engines from 95–375 kW (125–500 hp)."
+    },
+    {
+      "chunk_id": "wikipedia:Grader#0001",
+      "doc_id": "wikipedia:Grader",
+      "title": "Grader",
+      "url": "https://en.wikipedia.org/?curid=620529",
+      "source_type": "wikipedia",
+      "score": 0.47696247696876526,
+      "text": "a main blade extension can also be mounted. Capacities range from a blade width of 2.5 to 7.5 m (8 to 24 ft) and engines from 95–375 kW (125–500 hp). Certain graders can operate multiple attachments, or be designed for specialized tasks like underground mining. Function In civil engineering \"rough grading\" is performed by heavy equipment such as wheel tractor-scrapers and bulldozers. Graders are used to \"finish grade\", with the angle, tilt..."
+    },
+    {
+      "chunk_id": "wikipedia:Forge#0001",
+      "doc_id": "wikipedia:Forge",
+      "title": "Forge",
+      "url": "https://en.wikipedia.org/?curid=11057",
+      "source_type": "wikipedia",
+      "score": 0.45140185952186584,
+      "text": "or a salt brine instead; many metals require more than plain water hardening. The slack tub also provides water to control the fire in the forge. Types Coal/coke/charcoal forge A forge typically uses bituminous coal, industrial coke or charcoal as the fuel to heat metal. The designs of these forges have varied over time, but whether the fuel is coal, coke or charcoal the basic design has remained the same. A forge of this type..."
+    },
+    {
+      "chunk_id": "wikipedia:Stay#0000",
+      "doc_id": "wikipedia:Stay",
+      "title": "Stay",
+      "url": "https://en.wikipedia.org/?curid=1175804",
+      "source_type": "wikipedia",
+      "score": 0.4371492266654968,
+      "text": "Stay may refer to: Places Stay, Kentucky, an unincorporated community in the US Law Stay of execution, a ruling to temporarily suspend the enforcement of a court judgment Stay of proceedings, a ruling halting further legal process in a trial Structures and mechanics Stay (mechanics), a structural element designed to resist forces, usually along its axis. Stay, in a cable-stayed bridge Stay, bone (corsetry), one of the rigid parts of a corset Stays, or corset, a garment worn to mold and shape the torso; See History of corsets Stays (nautical), heavy ropes, wires, or rods that connect the masts of a sailing vessel to the hull Forestay, on a sailing vessel, keeps a mast from falling backwards Boiler stay, an internal structural element of a boiler Chain stay and seat stay, parts of a conventional bicycle frame Collar stay, a small rigid piece used to maintain the point of a shirt collar Guy-wire, or stay, a metal cable used to support a tall structure, such as a radio mast Stay cable,"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A armored man is holding up a flaming hot sword.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a flaming hot sword"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster thinks Doom is superior to Halo.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Doom",
+          "Halo"
+        ]
+      },
+      "title": {
+        "text": "He carries a steel-barreled sword of vengeance.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a steel-barreled sword",
+          "vengeance",
+          "carries",
+          "steel",
+          "barreled",
+          "sword"
+        ]
+      },
+      "text": {
+        "text": "i 8” nae, \\",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "nae"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "a steel-barreled sword",
+      "vengeance",
+      "carries",
+      "steel",
+      "barreled",
+      "sword",
+      "nae"
+    ],
+    "secondary_terms": [
+      "a flaming hot sword",
+      "Doom",
+      "Halo"
+    ],
+    "queries": [
+      "\"Doom\" \"a steel-barreled sword\" \"vengeance\" \"carries\" \"steel\"",
+      "\"carries\" \"steel\" \"barreled\" \"sword\""
+    ]
+  },
+  "source_jsonl_id": null
+}

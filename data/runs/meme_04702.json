@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_04702",
+  "queries": [
+    "\"Overused joke COMpectition ane\" \"currently\" \"experiencing\" \"brain\"",
+    "\"experiencing\" \"brain\" \"hemorrhage\" \"winen\""
+  ],
+  "primary_terms": [
+    "currently",
+    "experiencing",
+    "brain",
+    "hemorrhage",
+    "winen",
+    "Overused joke COMpectition ane",
+    "overused",
+    "joke",
+    "compectition",
+    "ane",
+    "opponent",
+    "pret"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Amusement#0000",
+      "doc_id": "wikipedia:Amusement",
+      "title": "Amusement",
+      "url": "https://en.wikipedia.org/?curid=768817",
+      "source_type": "wikipedia",
+      "score": 0.8894956976175308,
+      "text": "Amusement is the state of experiencing humorous and entertaining events or situations while the person or animal actively maintains the experience, and is associated with enjoyment, happiness, laughter and pleasure. It is an emotion with positive valence and high physiological arousal. Amusement is considered an \"epistemological\" emotion because humor occurs when one experiences a cognitive shift from one knowledge structure about a target to another, such as hearing the punchline of a joke. Emotions perceived overtime are focused on the daily dynamics of life as augment or blunt. The pleasant surprise that happens from learning this new information leads to a state of amusement which people often express through smiling, laughter or chuckling. Current studies have not yet reached consensus on the exact purpose of amusement, though theories have been advanced in the fields of psychology, psychiatry, and sociology."
+    },
+    {
+      "chunk_id": "wikipedia:Confusion#0001",
+      "doc_id": "wikipedia:Confusion",
+      "title": "Confusion",
+      "url": "https://en.wikipedia.org/?curid=2079352",
+      "source_type": "wikipedia",
+      "score": 0.6695643126964569,
+      "text": "mix, blend, pour together, disorder, embroil.\" Causes Confusion may result from drug side effects or from a relatively sudden brain dysfunction. Acute confusion is often called delirium (or \"acute confusional state\"), although delirium often includes a much broader array of disorders than simple confusion. These disorders include the inability to focus attention; various impairments in awareness, and temporal or spatial dis-orientation. Mental..."
+    },
+    {
+      "chunk_id": "wikipedia:Dyslexia#0001",
+      "doc_id": "wikipedia:Dyslexia",
+      "title": "Dyslexia",
+      "url": "https://en.wikipedia.org/?curid=8305",
+      "source_type": "wikipedia",
+      "score": 0.6606596320867538,
+      "text": "cases run in families. Dyslexia that develops due to a traumatic brain injury, stroke, or dementia is sometimes called \"acquired dyslexia\" or alexia. The underlying mechanisms of dyslexia result from differences within the brain's language processing. Dyslexia is diagnosed through a series of tests of memory, vision, spelling, and reading skills. Dyslexia is separate from reading difficulties caused by hearing or vision problems or by insufficient..."
+    },
+    {
+      "chunk_id": "wikipedia:Pain#0000",
+      "doc_id": "wikipedia:Pain",
+      "title": "Pain",
+      "url": "https://en.wikipedia.org/?curid=24373",
+      "source_type": "wikipedia",
+      "score": 0.6024523228406906,
+      "text": "Pain is a distressing feeling often caused by intense or damaging stimuli. The International Association for the Study of Pain defines pain as \"an unpleasant sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage.\" Pain motivates organisms to withdraw from damaging situations, to protect a damaged body part while it heals, and to avoid similar experiences in the future. Congenital insensitivity to pain may result in reduced life expectancy. Most pain resolves once the noxious stimulus is removed and the body has healed, but it may persist despite removal of the stimulus and apparent healing of the body. Sometimes pain arises in the absence of any detectable stimulus, damage or disease. Pain is the most common reason for physician consultation in most developed countries. It is a major symptom in many medical conditions, and can interfere with a person's quality of life and general functioning."
+    },
+    {
+      "chunk_id": "wikipedia:Joke#0000",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.5867403864860534,
+      "text": "A joke is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh and is usually not meant to be interpreted literally. It usually takes the form of a story, often with dialogue, and ends in a punch line, whereby the humorous element of the story is revealed; this can be done using a pun or other type of word play, irony or sarcasm, logical incompatibility, hyperbole, or other means. Linguist Robert Hetzron offers the definition: A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end. No continuation relieving the tension should be added. As for its being \"oral,\" it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.5545852184295654,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Pain#0001",
+      "doc_id": "wikipedia:Pain",
+      "title": "Pain",
+      "url": "https://en.wikipedia.org/?curid=24373",
+      "source_type": "wikipedia",
+      "score": 0.5075807720422745,
+      "text": "most developed countries. It is a major symptom in many medical conditions, and can interfere with a person's quality of life and general functioning. People in pain experience impaired concentration, working memory, mental flexibility, problem solving and information processing speed, and are more likely to experience irritability, depression, and anxiety. Simple pain medications..."
+    },
+    {
+      "chunk_id": "wikipedia:Head#0000",
+      "doc_id": "wikipedia:Head",
+      "title": "Head",
+      "url": "https://en.wikipedia.org/?curid=1209545",
+      "source_type": "wikipedia",
+      "score": 0.4795369267463684,
+      "text": "A head is the part of an organism which usually includes the ears, brain, forehead, cheeks, chin, eyes, nose, and mouth, each of which aid in various sensory functions such as sight, hearing, smell, and taste. Some very simple animals may not have a head, but many bilaterally symmetric forms do, regardless of size. Heads develop in animals by an evolutionary trend known as cephalization. In bilaterally symmetrical animals, nervous tissue concentrate at the anterior region, forming structures responsible for information processing. Through biological evolution, sense organs and feeding structures also concentrate into the anterior region; these collectively form the head. Human head The human head is an anatomical unit that consists of the skull, hyoid bone and cervical vertebrae. The skull consists of the brain case which encloses the cranial cavity, and the facial skeleton, which includes the mandible. There are eight bones in the brain case and fourteen in the facial skeleton."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0001",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.44790978729724884,
+      "text": "others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time). These processes are supported by distributed neural networks in frontal, parietal, and subcortical regions and are closely linked to working memory, executive functions, and consciousness. Patterns of attention also vary across cultures, especially in how individuals attend to context versus focal objects and how children are guided to manage attention in everyday activities..."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0000",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.44212794303894043,
+      "text": "Attention is the concentration of awareness directed at some phenomenon while excluding others. Across disciplines, the nature of this directedness is conceptualized in different ways. In cognitive psychology, attention is often described as the allocation of limited cognitive processing resources to a subset of information, thoughts, or tasks. In neuropsychology, attention is understood as a set of mechanisms by which sensory cues and internal goals modulate neuronal tuning and orient behavioral and cognitive processes. Attention is not a unitary phenomenon but an umbrella term for multiple related processes, including selective attention (prioritizing some stimuli over others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time)."
+    }
+  ]
+}

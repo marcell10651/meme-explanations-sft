@@ -1,0 +1,215 @@
+{
+  "meme_id": "meme_01061",
+  "queries": [
+    "\"Halloween\" \"Ulan\" \"happy\" \"nut\"",
+    "\"happy\" \"nut\" \"trick\" \"treat\""
+  ],
+  "primary_terms": [
+    "Halloween",
+    "happy",
+    "nut",
+    "Ulan",
+    "trick",
+    "treat",
+    "ais",
+    "ultimatum",
+    "basically",
+    "wae",
+    "blackmail",
+    "troughts",
+    "wit",
+    "ene"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Candy#0000",
+      "doc_id": "wikipedia:Candy",
+      "title": "Candy",
+      "url": "https://en.wikipedia.org/?curid=61230",
+      "source_type": "wikipedia",
+      "score": 0.9838502883911133,
+      "text": "Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. The category, also called sugar confectionery, encompasses any sweet confection, including chocolate, chewing gum, and sugar candy. Vegetables, fruit, or nuts which have been glazed and coated with sugar are said to be candied. Physically, candy is characterized by the use of a significant amount of sugar or sugar substitutes. Unlike a cake or loaf of bread that would be shared among many people, candies are usually made in smaller pieces. However, the definition of candy also depends upon how people treat the food. Unlike sweet pastries served for a dessert course at the end of a meal, candies are normally eaten casually, often with the fingers, as a snack between meals. Each culture has its own ideas of what constitutes candy rather than dessert. The same food may be a candy in one culture and a dessert in another."
+    },
+    {
+      "chunk_id": "wikipedia:Trick#0001",
+      "doc_id": "wikipedia:Trick",
+      "title": "Trick",
+      "url": "https://en.wikipedia.org/?curid=274735",
+      "source_type": "wikipedia",
+      "score": 0.9073327302932739,
+      "text": "Andrzej Jakimowski Trick (2010 film), Polish film by Jan Hryniak Trick (2019 film), American Halloween-themed horror film The Trick (film), a 2021 BBC film about the Climatic Research Unit email controversy Literature Trick (novel), a 2015 novel by Natalia Jaster Tricks, a 1979 chronicle of homosexual encounters by Renaud Camus Tricks..."
+    },
+    {
+      "chunk_id": "wikipedia:Amusement#0000",
+      "doc_id": "wikipedia:Amusement",
+      "title": "Amusement",
+      "url": "https://en.wikipedia.org/?curid=768817",
+      "source_type": "wikipedia",
+      "score": 0.7547288298606872,
+      "text": "Amusement is the state of experiencing humorous and entertaining events or situations while the person or animal actively maintains the experience, and is associated with enjoyment, happiness, laughter and pleasure. It is an emotion with positive valence and high physiological arousal. Amusement is considered an \"epistemological\" emotion because humor occurs when one experiences a cognitive shift from one knowledge structure about a target to another, such as hearing the punchline of a joke. Emotions perceived overtime are focused on the daily dynamics of life as augment or blunt. The pleasant surprise that happens from learning this new information leads to a state of amusement which people often express through smiling, laughter or chuckling. Current studies have not yet reached consensus on the exact purpose of amusement, though theories have been advanced in the fields of psychology, psychiatry, and sociology."
+    },
+    {
+      "chunk_id": "wikipedia:Squirrel#0001",
+      "doc_id": "wikipedia:Squirrel",
+      "title": "Squirrel",
+      "url": "https://en.wikipedia.org/?curid=28492",
+      "source_type": "wikipedia",
+      "score": 0.6772473871707916,
+      "text": "σκιᾱ́ ('shade') and οὐρᾱ́ ('tail')), referring to the long bushy tail which many of its members have. Sciurus is also the name of one of its genera. The Old English word for the squirrel, ācweorna, survived into Middle English as aquerne before being replaced. The Old English word is of Common Germanic origin, cognates of which are still used in other Germanic languages, including the German Eichhörnchen (diminutive of Eichhorn..."
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0001",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.6695696473121643,
+      "text": "game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap! (album), by the Jam, 1983 \"Snap\" (song), by Rosa Linn, 2022 \"Snap\", a song by Kevin Federline from Playing with Fire, 2006 \"Snap\", a song by Nav from Bad Habits, 2019 \"Snap\", a song by Slipknot from Slipknot, 2009 reissue \"Snap!\", a song from the British preschool TV series Boo! Fictional entities Snap, a character from the Nickelodeon animated television..."
+    },
+    {
+      "chunk_id": "wikipedia:Charmer#0001",
+      "doc_id": "wikipedia:Charmer",
+      "title": "Charmer",
+      "url": "https://en.wikipedia.org/?curid=40421866",
+      "source_type": "wikipedia",
+      "score": 0.6675222516059875,
+      "text": "2007 \"Charmer\" (N-Dubz song), 2022 Other uses Charmer (folklore), English practitioners of a specific kind of folk magic Charmers, comic strip by Hallmark Cards (1975–1981) See also Charm (disambiguation) Snake charmer (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Willy Wonka#0001",
+      "doc_id": "wikipedia:Willy Wonka",
+      "title": "Willy Wonka",
+      "url": "https://en.wikipedia.org/?curid=704925",
+      "source_type": "wikipedia",
+      "score": 0.6534763395786285,
+      "text": "praised and criticized. Wilder, Depp, and Chalamet all received Golden Globe nominations for Best Actor in a Comedy or Musical for their performances. Appearances Charlie and the Chocolate Factory In Charlie and the Chocolate Factory, Wonka has hidden five Golden Tickets inside his chocolate bars. The finders are rewarded with a tour of his factory, each accompanied by an adult of their choice, and a lifetime supply of chocolate..."
+    },
+    {
+      "chunk_id": "wikipedia:Candy#0001",
+      "doc_id": "wikipedia:Candy",
+      "title": "Candy",
+      "url": "https://en.wikipedia.org/?curid=61230",
+      "source_type": "wikipedia",
+      "score": 0.6513350605964661,
+      "text": ". Each culture has its own ideas of what constitutes candy rather than dessert. The same food may be a candy in one culture and a dessert in another. History The word candy entered the English language from the Old French çucre candi (\"sugar candy\"). The French term probably has earlier roots in the Arabic qandi, Persian qand and Sanskrit khanda, all words for sugar. Sugarcane is indigenous to tropical South and..."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0000",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.6215842336416244,
+      "text": "Even may refer to: General Even (company), a Brazilian construction and real estate company Even (given name), a Norwegian male personal name Even (surname), a Breton surname Even (people), an ethnic group from Siberia and Russian Far East Even language, a language spoken by the Evens Odd and Even, a solitaire game which is played with two decks of playing cards Evening, the period of a day that begins at the end of daylight and overlaps with the beginning of night Science and technology In mathematics, the term even is used in several senses related to odd: even and odd numbers, an integer is even if dividing by two yields an integer even and odd functions, a function is even if f(−x) = f(x) for all x even and odd permutations, a permutation of a finite set is even if it is composed of an even number of transpositions Singly even number, an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even"
+    },
+    {
+      "chunk_id": "wikipedia:Good#0000",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.618311059474945,
+      "text": "In most contexts, the concept of good denotes the conduct that should be preferred when posed with a choice between possible actions. Good is generally considered to be the opposite of evil. The specific meaning and etymology of the term and its associated translations among ancient and contemporary languages show substantial variation in its inflection and meaning, depending on circumstances of place and history, or of philosophical or religious context. History of Western ideas Every language has a word expressing good in the sense of \"having the right or desirable quality\" (ἀρετή) and bad in the sense \"undesirable\". A sense of moral judgment and a distinction \"right and wrong, good and bad\" are cultural universals. Plato and Aristotle Although the history of the origin of the use of the concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "There are three images of the same person, the first two in color with him looking forward, the last in black in white looking downward, in reflection.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "three images",
+          "the same person",
+          "color",
+          "him",
+          "reflection"
+        ]
+      },
+      "meme_captions": {
+        "text": "Poster is conveying the idea that the sayi g trick or treat is an ultimatum.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the idea",
+          "the sayi"
+        ]
+      },
+      "title": {
+        "text": "Happy no nut Halloween",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Halloween",
+          "happy",
+          "nut"
+        ]
+      },
+      "text": {
+        "text": "nA Ulan! yf OD oy Q7 / TRICK OR TREAT Ais'AN ULTIMATUM SW7IT;S|BASICALLY, wae BLACKMAIL TR = P TROUGHTS WIT. an a ene \\ oo",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Ulan",
+          "trick",
+          "treat",
+          "ais",
+          "ultimatum",
+          "basically",
+          "wae",
+          "blackmail",
+          "troughts",
+          "wit",
+          "ene"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Halloween",
+      "happy",
+      "nut",
+      "Ulan",
+      "trick",
+      "treat",
+      "ais",
+      "ultimatum",
+      "basically",
+      "wae",
+      "blackmail",
+      "troughts",
+      "wit",
+      "ene"
+    ],
+    "secondary_terms": [
+      "three images",
+      "the same person",
+      "color",
+      "him",
+      "reflection",
+      "the idea",
+      "the sayi"
+    ],
+    "queries": [
+      "\"Halloween\" \"Ulan\" \"happy\" \"nut\"",
+      "\"happy\" \"nut\" \"trick\" \"treat\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,199 @@
+{
+  "meme_id": "meme_04086",
+  "queries": [
+    "\"because\" \"left\" \"leg\" \"looks\"",
+    "\"leg\" \"looks\" \"more\" \"bigger\""
+  ],
+  "primary_terms": [
+    "because",
+    "left",
+    "leg",
+    "looks",
+    "more",
+    "bigger",
+    "sweller",
+    "sleeps",
+    "peacefully",
+    "exposed",
+    "crammed"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Snake#0000",
+      "doc_id": "wikipedia:Snake",
+      "title": "Snake",
+      "url": "https://en.wikipedia.org/?curid=29370",
+      "source_type": "wikipedia",
+      "score": 0.6288089126348495,
+      "text": "Snakes are elongated limbless reptiles of the suborder Serpentes. Cladistically squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales much like other members of the group. Many species of snakes have skulls with several more joints than their lizard ancestors and relatives, enabling them to swallow prey much larger than their heads (cranial kinesis). To accommodate their narrow bodies, snakes' paired organs (such as kidneys) appear one in front of the other instead of side by side, and most only have one functional lung. Some species retain a pelvic girdle with a pair of vestigial claws on either side of the cloaca. Lizards have independently evolved elongate bodies without limbs or with greatly reduced limbs at least twenty-five times via convergent evolution, leading to many lineages of legless lizards."
+    },
+    {
+      "chunk_id": "wikipedia:Centipede#0000",
+      "doc_id": "wikipedia:Centipede",
+      "title": "Centipede",
+      "url": "https://en.wikipedia.org/?curid=186495",
+      "source_type": "wikipedia",
+      "score": 0.5868058562278747,
+      "text": "Centipedes (from Neo-Latin centi-, \"hundred\", and Latin pes, pedis, \"foot\") are predatory arthropods belonging to the class Chilopoda (Ancient Greek χεῖλος, kheilos, \"lip\", and Neo-Latin suffix -poda, \"foot\", describing the forcipules) of the subphylum Myriapoda, an arthropod group which includes millipedes and other multi-legged animals. Centipedes are elongated segmented (metameric) animals with one pair of legs per body segment. All centipedes are venomous and can inflict painful stings, injecting their venom through pincer-like appendages known as forcipules or toxicognaths, which are actually modified legs instead of fangs. Despite the name, no species of centipede has exactly 100 legs; the number of pairs of legs is an odd number that ranges from 15 pairs to 191 pairs. Centipedes are predominantly generalist carnivores, hunting for a variety of prey items that can be overpowered."
+    },
+    {
+      "chunk_id": "wikipedia:Appearance#0000",
+      "doc_id": "wikipedia:Appearance",
+      "title": "Appearance",
+      "url": "https://en.wikipedia.org/?curid=8104650",
+      "source_type": "wikipedia",
+      "score": 0.5581698477268219,
+      "text": "Appearance may refer to: Visual appearance, the way in which objects reflect and transmit light Human physical appearance, what someone looks like Appearances (film), a 1921 film directed by Donald Crisp Appearance (philosophy), or phenomenon Phantasiai, a term in ancient Greek philosophy variously translated as \"appearances,\" \"impressions,\" \"presentations,\" and \"representations.\" Appearance (law), the coming into court of either of the parties to a suit, and/or the formal act by which a defendant submits himself to the jurisdiction of the court. Appear or Appears may refer to: \"Appear\" (나타나) a song from Secret Garden OST (2010), by Kim Bum-soo."
+    },
+    {
+      "chunk_id": "wikipedia:Drawing#0001",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.5468761086463928,
+      "text": "and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas. The wide availability of drawing instruments makes drawing one of the most common artistic activities. In addition to its more artistic forms, drawing is frequently used in commercial illustration, animation, architecture,..."
+    },
+    {
+      "chunk_id": "wikipedia:Relief#0000",
+      "doc_id": "wikipedia:Relief",
+      "title": "Relief",
+      "url": "https://en.wikipedia.org/?curid=545811",
+      "source_type": "wikipedia",
+      "score": 0.5446592926979065,
+      "text": "Relief is a sculptural method in which the sculpted pieces remain attached to a solid background of the same material. The term relief is from the Latin verb relevare, to raise (lit. 'to lift back'). To create a sculpture in relief is to give the impression that the sculpted material has been raised above the background plane. When a relief is carved into a flat surface of stone (relief sculpture) or wood (relief carving), the field is actually lowered, leaving the unsculpted areas seeming higher. The approach requires chiselling away of the background, which can be time-intensive. On the other hand, a relief saves forming the rear of a subject, and is less fragile and more securely fixed than a sculpture in the round, especially one of a standing figure where the ankles are a potential weak point, particularly in stone. In other materials such as metal, clay, plaster stucco, ceramics or papier-mâché the form can be simply added to or raised up from the background."
+    },
+    {
+      "chunk_id": "wikipedia:Left- and right-hand traffic#0000",
+      "doc_id": "wikipedia:Left- and right-hand traffic",
+      "title": "Left- and right-hand traffic",
+      "url": "https://en.wikipedia.org/?curid=213380",
+      "source_type": "wikipedia",
+      "score": 0.5284296691417694,
+      "text": "Left-hand traffic (LHT) and right-hand traffic (RHT) are the practices, in bidirectional traffic, of keeping to the left side or to the right side of the road, respectively. They are fundamental to traffic flow, and are sometimes called the rule of the road. The terms right- and left-hand drive refer to the position of the driver and the steering wheel in the vehicle and are, in automobiles, the reverse of the terms right- and left-hand traffic. The rule also includes where on the road a vehicle is to be driven, if there is room for more than one vehicle in one direction, and the side on which the vehicle in the rear overtakes the one in the front. For example, a driver in an LHT country would typically overtake on the right of the vehicle being overtaken."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0001",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.5146585702896118,
+      "text": "looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act. Looking versus seeing \"Looking\" and \"seeing\" are traditionally contrasted in a number of ways, although their usage often overlaps. Looking can be characterized as \"the action precedent to seeing\". Any kind of looking or viewing actually implies \"seeing\" certain things within the range..."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.5081403017044067,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.49860168993473053,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Tongue#0001",
+      "doc_id": "wikipedia:Tongue",
+      "title": "Tongue",
+      "url": "https://en.wikipedia.org/?curid=55999",
+      "source_type": "wikipedia",
+      "score": 0.4524770826101303,
+      "text": "the tongue's surface. There are two groups of glossal muscles. The four intrinsic muscles alter the shape of the tongue and are not attached to bone. The four paired extrinsic muscles change the position of the tongue and are anchored to bone. Etymology The word tongue derives from the Old English tunge, which comes from Proto-Germanic *tungōn. It has cognates in other Germanic..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man has glowing blue lazers coming from his eyes.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "blue lazers",
+          "his eyes"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is mad because their leg keeps getting crammed while they're trying to sleep.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their leg"
+        ]
+      },
+      "title": {
+        "text": "because of that, my left leg looks more bigger & sweller",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "because",
+          "left",
+          "leg",
+          "looks",
+          "more",
+          "bigger",
+          "sweller"
+        ]
+      },
+      "text": {
+        "text": "Me: sleeps peacefully My exposed leg: gets crammed from the AC Me:",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "sleeps",
+          "peacefully",
+          "exposed",
+          "leg",
+          "crammed"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "because",
+      "left",
+      "leg",
+      "looks",
+      "more",
+      "bigger",
+      "sweller",
+      "sleeps",
+      "peacefully",
+      "exposed",
+      "crammed"
+    ],
+    "secondary_terms": [
+      "blue lazers",
+      "his eyes",
+      "their leg"
+    ],
+    "queries": [
+      "\"because\" \"left\" \"leg\" \"looks\"",
+      "\"leg\" \"looks\" \"more\" \"bigger\""
+    ]
+  },
+  "source_jsonl_id": null
+}

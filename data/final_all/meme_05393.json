@@ -1,0 +1,187 @@
+{
+  "meme_id": "meme_05393",
+  "queries": [
+    "\"Something\" \"Friday\" \"Monday\" \"the office\"",
+    "\"Monday\" \"the office\" \"work\" \"happened\""
+  ],
+  "primary_terms": [
+    "Something",
+    "work",
+    "happened",
+    "Friday",
+    "pos",
+    "Monday",
+    "response",
+    "the office"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Working#0001",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.8003861665725708,
+      "text": "1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of occult rituals See also Workin' (disambiguation) Work (disambiguation) Works (disambiguation) All pages with titles containing Working All pages with titles beginning with Working"
+    },
+    {
+      "chunk_id": "wikipedia:Delivery#0001",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.7573830246925354,
+      "text": "television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama. Music Deliver (The Mamas & the Papas album), 1967 Deliver (The Oak Ridge Boys album), 1983 Deliverin', a 1971 album by Poco \"Deliver\" (song), a 2017 song by Fifth Harmony \"Deliver\", a song by Lupe Fiasco from Tetsuo & Youth \"Delivery\" (song), a 2007 single..."
+    },
+    {
+      "chunk_id": "wikipedia:Work#0000",
+      "doc_id": "wikipedia:Work",
+      "title": "Work",
+      "url": "https://en.wikipedia.org/?curid=33663",
+      "source_type": "wikipedia",
+      "score": 0.7508026480674743,
+      "text": "Work may refer to: Work (human activity), intentional activity people perform to support themselves, others, or the community Manual labour, physical work done by humans House work, housework, or homemaking Working animal, an animal trained by humans to perform tasks Work (physics), the product of force and displacement Work (electric field), the work done on a charged particle by an electric field Work (thermodynamics), energy transferred by the system to its surroundings Creative work, a manifestation of creative effort Work of art, an artistic creation of aesthetic value Career, an individual's journey through learning, work and other aspects of life Employment, a relationship between two parties where work is paid for Broadcast call signs WORK (FM), now WRFK (FM), an American radio station in Vermont WORK-LP, an American low-power TV station in New Hampshire WOYK, an American AM radio station in Pennsylvania, known as WORK 1932–1973 Music The Work (band), an English post-punk rock"
+    },
+    {
+      "chunk_id": "wikipedia:Works#0000",
+      "doc_id": "wikipedia:Works",
+      "title": "Works",
+      "url": "https://en.wikipedia.org/?curid=523904",
+      "source_type": "wikipedia",
+      "score": 0.7116524338722229,
+      "text": "Works may refer to: People Caddy Works (1896–1982), American college sports coach John D. Works (1847–1928), California senator and judge Samuel Works (c. 1781–1868), New York politician Albums Works (Pink Floyd album), a Pink Floyd album from 1983 Works, a Gary Burton album from 1972 Works, a Status Quo album from 1983 Works, a John Abercrombie album from 1991 Works, a Pat Metheny album from 1994 Works, an Alan Parson Project album from 2002 Works Volume 1, a 1977 Emerson, Lake & Palmer album Works Volume 2, a 1977 Emerson, Lake & Palmer album The Works, a 1984 Queen album Other uses Good works, a topic in Christian theology Microsoft Works, a collection of office productivity programs created by Microsoft IBM Works, an office suite for the IBM OS/2 operating system Mount Works, Victoria Land, Antarctica TV Works, the former name of defunct Singaporean television channel Channel i (Singaporean TV channel) See also The Works (disambiguation) Work (disambiguation) All pages with titles"
+    },
+    {
+      "chunk_id": "wikipedia:Minutes#0000",
+      "doc_id": "wikipedia:Minutes",
+      "title": "Minutes",
+      "url": "https://en.wikipedia.org/?curid=901046",
+      "source_type": "wikipedia",
+      "score": 0.6119644165039062,
+      "text": "Minutes (), also known as minutes of meeting, protocols or, informally, notes, are the instant written record of a meeting or hearing. They typically describe the events of the meeting and may include a list of attendees, a statement of the activities considered by the participants, and related responses or decisions for the activities. The word \"minutes\" here means \"notes\", rather than sixtieths of an hour. Creation Minutes may be created during the meeting by a typist or court reporter, who may use shorthand notation and then prepare the minutes and issue them to the participants afterwards. Alternatively, the meeting can be audio recorded, video recorded, or a group's appointed or informally assigned secretary may take notes, with minutes prepared later. Many government agencies use minutes recording software to record and prepare all minutes in real-time. Purpose Minutes are the official written record of the meetings of an organization or group."
+    },
+    {
+      "chunk_id": "wikipedia:Delivery#0000",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.563676393032074,
+      "text": "Delivery may refer to: Biology and medicine Childbirth Drug delivery Gene delivery Business and law Delivery (commerce), of goods, e.g.: Pizza delivery Milk delivery Food delivery Online grocer Deed (\"delivery\" in contract law), as in \"signed, sealed and delivered\" Power delivery or electricity delivery, the process that goes from generation of electricity in the power station to use by the consumer Film and television Delivering (film), a 1993 short film by Todd Field Delivery (1976 film), a Soviet Armenian biographical film Delivery (2005 film), an animated short film Delivery (2013 film), an American horror film The Delivery, a 1999 film directed by Roel Reiné \"Delivery\", the final episode of Men Behaving Badly Julia Zemiro's Home Delivery, a 2013 Australian television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.5514438807964325,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Serial#0000",
+      "doc_id": "wikipedia:Serial",
+      "title": "Serial",
+      "url": "https://en.wikipedia.org/?curid=2254334",
+      "source_type": "wikipedia",
+      "score": 0.5449444711208343,
+      "text": "Serial may refer to: Arts, entertainment, and media The presentation of works in sequential segments Serial (literature), serialised literature in print Serial (publishing), periodical publications and newspapers Serial (radio and television), series of radio and television programs that rely on a continuing plot Serial film, a series of short subjects, with a continuing story, originally shown in theaters, in conjunction with feature films, particularly in the 1930s and 1940s Indian serial, a type of Indian television program Other uses in arts, entertainment, and media Serial (1980 film), based on McFadden's novel, starring Martin Mull and Tuesday Weld Serial (podcast), a podcast spinoff of radio series This American Life The Serial: A Year in the Life of Marin County, a 1977 novel by Cyra McFadden The Serial, an early to mid-1960s anthology series that aired on CBC Television in Canada."
+    },
+    {
+      "chunk_id": "wikipedia:Working#0000",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.5359736144542694,
+      "text": "Working may refer to: Work (human activity), intentional activity people perform to support themselves, others, or the community Arts and media Working (musical), a 1978 musical Working (TV series), an American sitcom Working (Caro book), a 2019 book by Robert Caro Working (Terkel book), a 1974 book by Studs Terkel Working!!, a manga by Karino Takatsu \"Working\" (song), by Tate McRae and Khalid, 2021 Engineering and technology Cold working or cold forming, the shaping of metal below its recrystallization temperature Hot working, the shaping of metal above its recrystallization temperature Multiple working, having more than one locomotive under the control of one driver Live-line working, the maintenance of electrical equipment while it is energised Single-line working, using one train track out of two Other uses Holbrook Working (1895–1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of"
+    },
+    {
+      "chunk_id": "wikipedia:Minutes#0001",
+      "doc_id": "wikipedia:Minutes",
+      "title": "Minutes",
+      "url": "https://en.wikipedia.org/?curid=901046",
+      "source_type": "wikipedia",
+      "score": 0.5051409363746643,
+      "text": "software to record and prepare all minutes in real-time. Purpose Minutes are the official written record of the meetings of an organization or group. They are not transcripts of those proceedings. Using Robert's Rules of Order Newly Revised (RONR), the minutes should contain mainly a record of what was done at the meeting, not what was said by the members. The organization..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "the different photos of a man getting a costume makeup",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the different photos"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster went through a lot of steps of trying to get it to help them on a Friday.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "steps"
+        ]
+      },
+      "title": {
+        "text": "Something that happened at work",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Something",
+          "work",
+          "happened"
+        ]
+      },
+      "text": {
+        "text": "[ 7 Deciding to 3 on J visit IT on 27d, ie, Friday rather Of pos y , than Monday | os Y | os. Finally making a + os re response at 1:00 _ Y ‘| pm to come to nn the office J Us Knowing IT ; | leaves at 5PM Pot ee ae makes a 2 Zi eS av } hour drive to ¢ ‘k | the office TP oa Arrived at 4:45 pm, expecting v a le 7y as computer oe id » ° made with mematic i. a7 L",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Friday",
+          "pos",
+          "Monday",
+          "response",
+          "the office"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Something",
+      "work",
+      "happened",
+      "Friday",
+      "pos",
+      "Monday",
+      "response",
+      "the office"
+    ],
+    "secondary_terms": [
+      "the different photos",
+      "steps"
+    ],
+    "queries": [
+      "\"Something\" \"Friday\" \"Monday\" \"the office\"",
+      "\"Monday\" \"the office\" \"work\" \"happened\""
+    ]
+  },
+  "source_jsonl_id": null
+}

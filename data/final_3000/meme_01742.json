@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_01742",
+  "queries": [
+    "\"Bro one towel\" \"one\" \"towel\" \"enough\"",
+    "\"towel\" \"enough\" \"towels\" \"lam\""
+  ],
+  "primary_terms": [
+    "Bro one towel",
+    "one",
+    "towel",
+    "enough",
+    "towels",
+    "This towel",
+    "this one",
+    "lam"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Enough#0001",
+      "doc_id": "wikipedia:Enough",
+      "title": "Enough",
+      "url": "https://en.wikipedia.org/?curid=7209454",
+      "source_type": "wikipedia",
+      "score": 0.5652717769145965,
+      "text": "\", by Jeremy Camp from Carried Me \"Enough\", by Jess Glynne from Jess (2024) \"Enough\", by Jessica Sierra from Rebound \"Enough\", by Keke Wyatt from Unbelievable \"Enough\", by Sara Groves from Floodplain \"Enough\", by Sevendust from Chapter VII: Hope & Sorrow \"Enough\", by Simply Red from A New Flame \"Enough\", from the musical In the Heights..."
+    },
+    {
+      "chunk_id": "wikipedia:Soap#0000",
+      "doc_id": "wikipedia:Soap",
+      "title": "Soap",
+      "url": "https://en.wikipedia.org/?curid=57875",
+      "source_type": "wikipedia",
+      "score": 0.450832924246788,
+      "text": "Soap is a salt of a fatty acid (sometimes other carboxylic acids) used for cleaning and lubricating products as well as other applications. In a domestic setting, soaps, specifically \"toilet soaps\", are surfactants usually used for washing, bathing, and other types of housekeeping. In industrial settings, soaps are used as thickeners, components of some lubricants, emulsifiers, and catalysts. Soaps are often produced by mixing fats and oils with a base. Humans have used soap for millennia; evidence exists for the production of soap-like materials in ancient Babylon around 2800 BC. Types Toilet soaps In a domestic setting, \"soap\" usually refers to what is technically called a toilet soap, used for household and personal cleaning. Toilet soaps are salts of fatty acids with the general formula (RCO2−)M+, where M is Na (sodium) or K (potassium). When used for cleaning, soap solubilizes particles and grime, which can then be separated from the article being cleaned."
+    },
+    {
+      "chunk_id": "wikipedia:Suit#0001",
+      "doc_id": "wikipedia:Suit",
+      "title": "Suit",
+      "url": "https://en.wikipedia.org/?curid=339784",
+      "source_type": "wikipedia",
+      "score": 0.44479124844074247,
+      "text": "clothes. After replacing the black frock coat in the early 20th century as regular daywear, a sober one-coloured suit became known as a lounge suit. Suits are offered in different designs and constructions. Cut and cloth, whether two- or three-piece, single- or double-breasted, vary, in addition to various accessories. A two-piece suit has a jacket and trousers..."
+    },
+    {
+      "chunk_id": "wikipedia:Toilet#0000",
+      "doc_id": "wikipedia:Toilet",
+      "title": "Toilet",
+      "url": "https://en.wikipedia.org/?curid=19167644",
+      "source_type": "wikipedia",
+      "score": 0.4310638964176178,
+      "text": "A toilet is a piece of sanitary hardware that collects human waste (urine and feces) and sometimes toilet paper, usually for disposal. Flush toilets use water, while dry or non-flush toilets do not. They can be designed for a sitting position popular in Europe and North America with a toilet seat, with additional considerations for those with disabilities, or for a squatting posture more popular in Asia, known as a squat toilet. In urban areas, flush toilets are usually connected to a sewer system; in isolated areas, to a septic tank. The waste is known as blackwater and the combined effluent, including other sources, is sewage. Dry toilets are connected to a pit, removable container, composting chamber, or other storage and treatment device, including urine diversion with a urine-diverting toilet. \"Toilet\" or \"toilets\" is also widely used for rooms containing only one or more toilets and hand-basins. Lavatory is an older word for toilet. The technology used for modern toilets varies."
+    },
+    {
+      "chunk_id": "wikipedia:House#0000",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.4287086635828018,
+      "text": "A house is a single-unit residential building. It may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems. Houses use a range of different roofing systems to keep precipitation such as rain from getting into the dwelling space. Houses generally have doors or locks to secure the dwelling space and protect its inhabitants and contents from burglars or other trespassers. Most conventional modern houses in Western cultures will contain one or more bedrooms and bathrooms, a kitchen or cooking area, and a living room. A house may have a separate dining room, or the eating area may be integrated into the kitchen or another room. Some large houses in North America have a recreation room. In traditional agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans."
+    },
+    {
+      "chunk_id": "wikipedia:Toilet#0001",
+      "doc_id": "wikipedia:Toilet",
+      "title": "Toilet",
+      "url": "https://en.wikipedia.org/?curid=19167644",
+      "source_type": "wikipedia",
+      "score": 0.42183480262756345,
+      "text": "for rooms containing only one or more toilets and hand-basins. Lavatory is an older word for toilet. The technology used for modern toilets varies. Toilets are commonly made of ceramic (porcelain), concrete, plastic, or wood. Newer toilet technologies include dual flushing, low flushing, toilet seat warming, self-cleaning, female urinals and waterless..."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0001",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.42146314680576324,
+      "text": "such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns. Under the name of magnitude comes what is continuous and unified and divisible only into smaller divisibles, such as: matter, mass, energy, liquid, material—all cases of non-collective nouns. Along with analyzing its nature and classification, the issues of quantity involve such closely related topics as dimensionality..."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.41647444665431976,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    },
+    {
+      "chunk_id": "wikipedia:Builder#0001",
+      "doc_id": "wikipedia:Builder",
+      "title": "Builder",
+      "url": "https://en.wikipedia.org/?curid=2518249",
+      "source_type": "wikipedia",
+      "score": 0.40605149269104,
+      "text": "Builder (detergent), a component of modern detergents Builder (hockey), in ice hockey, manages or builds the game Builder (United States Navy), U.S. Navy Rating Builder pattern, an object-oriented design pattern Interactive Scenario Builder, an RF Tactical Decision Aid often referred to as Builder Build engineer, a software engineer specializing in builds (versions) of large software products See also All pages with titles..."
+    },
+    {
+      "chunk_id": "wikipedia:Hand#0000",
+      "doc_id": "wikipedia:Hand",
+      "title": "Hand",
+      "url": "https://en.wikipedia.org/?curid=19166474",
+      "source_type": "wikipedia",
+      "score": 0.39242868721485136,
+      "text": "A hand is a prehensile, multi-fingered appendage located at the end of the forearm or forelimb of primates such as humans, chimpanzees, monkeys, and lemurs. A few other vertebrates such as the koala (which has two opposable thumbs on each \"hand\" and fingerprints extremely similar to human fingerprints) are often described as having \"hands\" instead of paws on their front limbs. The raccoon is usually described as having \"hands\" though opposable thumbs are lacking. Some evolutionary anatomists use the term hand to refer to the appendage of digits on the forelimb more generally—for example, in the context of whether the three digits of the bird hand involved the same homologous loss of two digits as in the dinosaur hand. The human hand usually has five digits: four fingers plus one thumb; however, these are often referred to collectively as five fingers, whereby the thumb is included as one of the fingers."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is lightly holding up a towel while a woman has it wrapped around her.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that men use towels differently than women.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "men",
+          "towels",
+          "women"
+        ]
+      },
+      "title": {
+        "text": "Bro one towel is enough",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Bro one towel",
+          "one",
+          "towel",
+          "enough"
+        ]
+      },
+      "text": {
+        "text": "Women using towels: This towel is for my hair, and this one is for my face... Men using towels: “There is a high chance that lam wiping my balls on my face right now” a a",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "towels",
+          "This towel",
+          "this one",
+          "lam"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Bro one towel",
+      "one",
+      "towel",
+      "enough",
+      "towels",
+      "This towel",
+      "this one",
+      "lam"
+    ],
+    "secondary_terms": [
+      "men",
+      "towels",
+      "women"
+    ],
+    "queries": [
+      "\"Bro one towel\" \"one\" \"towel\" \"enough\"",
+      "\"towel\" \"enough\" \"towels\" \"lam\""
+    ]
+  },
+  "source_jsonl_id": null
+}

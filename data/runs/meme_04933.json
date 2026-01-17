@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_04933",
+  "queries": [
+    "\"Internet\" \"the toilet\" \"posting\" \"toilet\" \"cake\"",
+    "\"The Cake day\" \"some interesting topics\" \"Internet\" \"the toilet\"",
+    "\"Internet\" \"the toilet\" \"posting\" \"toilet\""
+  ],
+  "primary_terms": [
+    "the toilet",
+    "posting",
+    "toilet",
+    "cake"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Toilet#0000",
+      "doc_id": "wikipedia:Toilet",
+      "title": "Toilet",
+      "url": "https://en.wikipedia.org/?curid=19167644",
+      "source_type": "wikipedia",
+      "score": 1.6337092041969299,
+      "text": "A toilet is a piece of sanitary hardware that collects human waste (urine and feces) and sometimes toilet paper, usually for disposal. Flush toilets use water, while dry or non-flush toilets do not. They can be designed for a sitting position popular in Europe and North America with a toilet seat, with additional considerations for those with disabilities, or for a squatting posture more popular in Asia, known as a squat toilet. In urban areas, flush toilets are usually connected to a sewer system; in isolated areas, to a septic tank. The waste is known as blackwater and the combined effluent, including other sources, is sewage. Dry toilets are connected to a pit, removable container, composting chamber, or other storage and treatment device, including urine diversion with a urine-diverting toilet. \"Toilet\" or \"toilets\" is also widely used for rooms containing only one or more toilets and hand-basins. Lavatory is an older word for toilet. The technology used for modern toilets varies."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0000",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 1.2765391767024994,
+      "text": "The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies. The Internet carries a vast range of information services and resources, such as the interlinked hypertext documents and applications of the World Wide Web (WWW), electronic mail, discussion groups, internet telephony, streaming media and file sharing. Most traditional communication media, including telephone, radio, television, paper mail, newspapers, and print publishing, have been transformed by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites."
+    },
+    {
+      "chunk_id": "wikipedia:Shit#0000",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 1.077830970287323,
+      "text": "Shit is an English-language profanity. As a noun, it refers to fecal matter, and as a verb it means to defecate; in the plural (\"the shits\"), it means diarrhea. Shite is a common variant in British and Irish English. As a slang term, shit has many meanings, including: nonsense, foolishness, something of little value or quality, trivial and usually boastful or inaccurate talk or a contemptible person. It could also be used to refer to any other noun in general or as an expression of annoyance, concern, surprise or anger. Etymology The word is likely derived from Old English, having the nouns scite (dung, attested only in place names) and scitte (diarrhoea) and the verb scītan (to defecate, attested only in bescītan, to cover with excrement); eventually it morphed into Middle English schītte (excrement), schyt (diarrhoea) and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.9652941823005676,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Propaganda#0001",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 0.8976353704929352,
+      "text": "which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites. More recently, the digital age has given rise to new ways of disseminating propaganda, for example, in computational propaganda, bots and algorithms are used to manipulate public opinion, e.g., by creating fake or biased news to spread it on social media or using chatbots to mimic real people in discussions..."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.8490953743457794,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0001",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.8111940324306488,
+      "text": ". It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world. According to data provided by Similarweb, 51.75% of the website traffic comes from the United States, followed by Canada at 7.01%, the United Kingdom at 6.97%, Australia at 3.97%, Germany at 3%, and the remaining 28.37% split among other countries. Reddit was founded by University of Virginia roommates Steve Huffman and Alexis Ohanian in June 2005, who were joined..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.8048597127199173,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:Cake#0001",
+      "doc_id": "wikipedia:Cake",
+      "title": "Cake",
+      "url": "https://en.wikipedia.org/?curid=57572",
+      "source_type": "wikipedia",
+      "score": 0.7723032891750335,
+      "text": "jelly, cooked fruit, whipped cream, or syrups), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit. Cake is often served as a celebratory dish on ceremonial occasions, such as weddings, anniversaries, and birthdays. There are countless cake recipes; some are bread-like, some are rich and elaborate, and many are centuries old. Cake making is no longer a complicated procedure; while at one time..."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.7674749940633774,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    }
+  ]
+}

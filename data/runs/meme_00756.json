@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_00756",
+  "queries": [
+    "\"Mexico\" \"breaking\" \"bad\" \"outside\"",
+    "\"bad\" \"outside\" \"deak\" \"mane\""
+  ],
+  "primary_terms": [
+    "breaking",
+    "bad",
+    "Mexico",
+    "outside",
+    "deak",
+    "mane",
+    "inside"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Down#0001",
+      "doc_id": "wikipedia:Down",
+      "title": "Down",
+      "url": "https://en.wikipedia.org/?curid=8550",
+      "source_type": "wikipedia",
+      "score": 0.7414833724498748,
+      "text": "American rapper Film and television Down (film), a 2001 English remake of the film De Lift \"Down\" (Breaking Bad), an episode of the second season of Breaking Bad \"Down\" (Into the Dark), an episode of the first season of Into the Dark Literature Down (comics), a comic book published by Top Cow Productions Down (novel), a 1997..."
+    },
+    {
+      "chunk_id": "wikipedia:A Reason to Live, a Reason to Die#0000",
+      "doc_id": "wikipedia:A Reason to Live, a Reason to Die",
+      "title": "A Reason to Live, a Reason to Die",
+      "url": "https://en.wikipedia.org/?curid=24235116",
+      "source_type": "wikipedia",
+      "score": 0.6003443360328674,
+      "text": "A Reason to Live, a Reason to Die (originally titled Una Ragione Per Vivere E Una Per Morire, also known as Massacre at Fort Holman) is a 1972 Technicolor Italian spaghetti Western movie starring James Coburn, Bud Spencer, and Telly Savalas. Many exterior scenes were filmed at the Fort Bowie set built in the Province of Almería, Spain, where the desert landscape and climate that characterizes part of the province have made it a much utilized setting for Western films, among those A Fistful of Dollars, The Good, the Bad and the Ugly, Once Upon a Time in the West, and later 800 Bullets. The Fort Bowie set was originally built for the film The Deserter. There are two different English language versions of the movie, shorter with James Coburn's own voice and longer with different voice actors and music. James Coburn was not involved in longer cut dubbing. It also features some of the same songs from Day of Anger starring Lee Van Cleef."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0000",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.5943875074386596,
+      "text": "Very Bad Things is a 1998 American black comedy film written and directed by Peter Berg in his feature film directorial debut and starring Cameron Diaz, Jon Favreau, Daniel Stern, Jeremy Piven, Christian Slater, Leland Orser, Kobe Tai and Jeanne Tripplehorn. The plot follows a group of men who become embroiled in crime and betrayal after they attempt to conceal an accidental death. Very Bad Things was not well received and grossed $21 million against a $30 million budget. Plot Kyle Fisher and Laura Garrety are a young suburbanite couple days away from their wedding. While Laura finalizes last-minute wedding details, Kyle is away in Las Vegas celebrating his bachelor party with four friends—real estate agent Robert Boyd, mechanic Charles Moore, and brothers Adam and Michael Berkow. As part of the festivities, Robert hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom."
+    },
+    {
+      "chunk_id": "wikipedia:Their Distance#0000",
+      "doc_id": "wikipedia:Their Distance",
+      "title": "Their Distance",
+      "url": "https://en.wikipedia.org/?curid=58630385",
+      "source_type": "wikipedia",
+      "score": 0.5845230430364609,
+      "text": "Their Distance (知らない、ふたり, Shiranai, Futari; lit. \"Two Strangers\"), is a 2015 Japanese independent film written, edited, and directed by Rikiya Imaizumi, featuring the South Korean boy band NU'EST in their Japanese film debut. Their Distance stars Ren, Fumiko Aoyagi, Minhyun, Hanae Kan, JR, Haruka Kinami, and Tateto Serizawa. The plot is centered around different ideas of love, from generational to cultural, told in a nonlinear narrative switching from various days in April to illustrate the perspectives of all the characters. Part of the film is in spoken Korean, with the film using actors who were fluent in Korean. The film was first screened at the 28th Tokyo International Film Festival on October 23, 2015, before being released to the general public on January 9, 2016. Plot Kim Leon is a quiet apprentice working at a custom shoe shop in Japan. Two years ago, he ran a red light on his bicycle, causing Mikio Arakawa to get hit by a car and be permanently paralyzed below his waist."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.5466792583465576,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0001",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.4999484717845917,
+      "text": "suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital. Following his recovery, the now-unemployed Tramp is mistakenly arrested in a Communist demonstration. In jail, he accidentally ingests smuggled cocaine, and in his subsequent delirium, he avoids being put back in his cell. When he returns, he stumbles upon a jailbreak and knocks the convicts..."
+    },
+    {
+      "chunk_id": "wikipedia:Walter White (Breaking Bad)#0000",
+      "doc_id": "wikipedia:Walter White (Breaking Bad)",
+      "title": "Walter White (Breaking Bad)",
+      "url": "https://en.wikipedia.org/?curid=22530352",
+      "source_type": "wikipedia",
+      "score": 0.47786632478237157,
+      "text": "Walter Hartwell White Sr., also known by his alias Heisenberg, is a fictional character and the main protagonist of the American crime drama television series Breaking Bad. He is portrayed by Bryan Cranston. Walter is a skilled chemist who co-founded a technology firm before he accepted a buy-out from his partners. While his partners became wealthy, Walter became a high school chemistry teacher in Albuquerque, New Mexico, barely making ends meet with his family: his wife, Skyler (Anna Gunn), and their son, Walter Jr. (RJ Mitte). At the start of the series, the day after his 50th birthday, he is diagnosed with Stage III lung cancer. After this discovery, Walter decides to manufacture and sell methamphetamine with his former student Jesse Pinkman (Aaron Paul) to ensure his family's financial security after his death. Due to his expertise, Walter's \"blue meth\" is purer than any other on the market, and he is pulled deeper into the illicit drug trade."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.4307999163866043,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Never#0001",
+      "doc_id": "wikipedia:Never",
+      "title": "Never",
+      "url": "https://en.wikipedia.org/?curid=1433241",
+      "source_type": "wikipedia",
+      "score": 0.41365499794483185,
+      "text": "-sama and Evil Neuro, 2025 \"Never\", by Orbital from Wonky, 2012 \"Never\", by Ozzy Osbourne from The Ultimate Sin, 1986 \"Never\", by Paco from This Is Where We Live, 2004 \"Never\", by Sevendust from Next, 2005 \"Never (These Days)\", by Z-Ro, 2010 Places Never, Amur Oblast, a rural locality in Russia Never, Bryansk Oblast, a rural locality..."
+    },
+    {
+      "chunk_id": "wikipedia:Good#0000",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.4098579347133636,
+      "text": "In most contexts, the concept of good denotes the conduct that should be preferred when posed with a choice between possible actions. Good is generally considered to be the opposite of evil. The specific meaning and etymology of the term and its associated translations among ancient and contemporary languages show substantial variation in its inflection and meaning, depending on circumstances of place and history, or of philosophical or religious context. History of Western ideas Every language has a word expressing good in the sense of \"having the right or desirable quality\" (ἀρετή) and bad in the sense \"undesirable\". A sense of moral judgment and a distinction \"right and wrong, good and bad\" are cultural universals. Plato and Aristotle Although the history of the origin of the use of the concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect."
+    }
+  ]
+}

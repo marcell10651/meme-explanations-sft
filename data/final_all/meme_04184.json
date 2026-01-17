@@ -1,0 +1,202 @@
+{
+  "meme_id": "meme_04184",
+  "queries": [
+    "\"Damn this fast metabolism\" \"fast\" \"metabolism\" \"thinking\"",
+    "\"metabolism\" \"thinking\" \"having\" \"little\""
+  ],
+  "primary_terms": [
+    "Damn this fast metabolism",
+    "fast",
+    "metabolism",
+    "thinking",
+    "having",
+    "little",
+    "snack",
+    "five",
+    "minutes",
+    "after",
+    "said",
+    "full",
+    "aay",
+    "fog"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.6920326054096222,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Hangover#0001",
+      "doc_id": "wikipedia:Hangover",
+      "title": "Hangover",
+      "url": "https://en.wikipedia.org/?curid=12274183",
+      "source_type": "wikipedia",
+      "score": 0.5919219315052032,
+      "text": "dehydration, metabolic acidosis, disturbed prostaglandin synthesis, increased cardiac output, vasodilation, sleep deprivation, and malnutrition. Beverage-specific effects of additives or by-products such as congeners in alcoholic beverages also play an important role. The symptoms usually occur after the intoxicating effect of the alcohol begins to wear off, generally the morning after a night of heavy drinking. Though many possible remedies..."
+    },
+    {
+      "chunk_id": "wikipedia:Hope#0001",
+      "doc_id": "wikipedia:Hope",
+      "title": "Hope",
+      "url": "https://en.wikipedia.org/?curid=50020",
+      "source_type": "wikipedia",
+      "score": 0.5597396850585937,
+      "text": "and joy, courage, and empowerment, drawn from four different areas of one's self: from a cognitive, psychological, social, or physical perspective. Such positive thinking bears fruit when based on a realistic sense of optimism, not on a naive \"false hope\". The psychologist Charles R. Snyder linked hope to the existence of a goal, combined with a determined..."
+    },
+    {
+      "chunk_id": "wikipedia:Confusion#0000",
+      "doc_id": "wikipedia:Confusion",
+      "title": "Confusion",
+      "url": "https://en.wikipedia.org/?curid=2079352",
+      "source_type": "wikipedia",
+      "score": 0.553886553645134,
+      "text": "In psychology, confusion is the quality or emotional state of being bewildered or unclear. The term \"acute mental confusion\" is often used interchangeably with delirium in the International Statistical Classification of Diseases and Related Health Problems and the Medical Subject Headings publications to describe the pathology. These refer to the loss of orientation, or the ability to place oneself correctly in the world by time, location and personal identity. Mental confusion is sometimes accompanied by disordered consciousness (the loss of linear thinking) and memory loss (the inability to correctly recall previous events or learn new material). Etymology The word confusion derives from the Latin word, confundo, which means \"confuse, mix, blend, pour together, disorder, embroil.\" Causes Confusion may result from drug side effects or from a relatively sudden brain dysfunction."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0000",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.5515010058879852,
+      "text": "Attention is the concentration of awareness directed at some phenomenon while excluding others. Across disciplines, the nature of this directedness is conceptualized in different ways. In cognitive psychology, attention is often described as the allocation of limited cognitive processing resources to a subset of information, thoughts, or tasks. In neuropsychology, attention is understood as a set of mechanisms by which sensory cues and internal goals modulate neuronal tuning and orient behavioral and cognitive processes. Attention is not a unitary phenomenon but an umbrella term for multiple related processes, including selective attention (prioritizing some stimuli over others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time)."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0001",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.530036211013794,
+      "text": "others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time). These processes are supported by distributed neural networks in frontal, parietal, and subcortical regions and are closely linked to working memory, executive functions, and consciousness. Patterns of attention also vary across cultures, especially in how individuals attend to context versus focal objects and how children are guided to manage attention in everyday activities..."
+    },
+    {
+      "chunk_id": "wikipedia:Food#0000",
+      "doc_id": "wikipedia:Food",
+      "title": "Food",
+      "url": "https://en.wikipedia.org/?curid=10646",
+      "source_type": "wikipedia",
+      "score": 0.5116797000169754,
+      "text": "Food is any substance consumed by an organism for nutritional support. Food usually consists of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or support growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill specific ecological niches within specific geographical contexts. Omnivorous humans are highly adaptable and have adapted to obtaining food in many different ecosystems. Humans generally use cooking to prepare food for consumption. The majority of the food energy required is supplied by the industrial food industry, which produces food through intensive agriculture and distributes it through complex food processing and food distribution systems."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0000",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.4951701074838638,
+      "text": "In philosophy and in common usage, an idea (from the Greek word: ἰδέα (idea), meaning 'a form, or a pattern') is the result of thought. Also in philosophy, ideas can also be mental representational images of some object. Many philosophers have considered ideas to be a fundamental ontological category of being. The capacity to create and understand the meaning of ideas is considered to be an essential and defining feature of human beings. An idea arises in a reflexive, spontaneous manner, even without thinking or serious reflection, for example, when we talk about the idea of a person or a place. A new or an original idea can often lead to innovation. Our actions are based upon beliefs, beliefs are patterns or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'."
+    },
+    {
+      "chunk_id": "wikipedia:Useless#0000",
+      "doc_id": "wikipedia:Useless",
+      "title": "Useless",
+      "url": "https://en.wikipedia.org/?curid=25714209",
+      "source_type": "wikipedia",
+      "score": 0.48357285261154176,
+      "text": "Useless may refer to: Useless (film), a 2007 Chinese documentary by Jia Zhangke Useless (EP), a 2000 EP by Unloco \"Useless\" (song), a 1997 song by Depeche Mode \"Useless\", a 2009 song by Cavo from Bright Nights Dark Days \"Useless\", a song by Faster Pussycat from The Power and the Glory Hole \"Useless\", a song by Myka Relocate from Lies to Light the Way \"Useless (I Don't Need You Now)\", a song by Kym Mazelle \"Useless (The Little Horse That Didn't Grow)\", a song by Waylon Jennings from Cowboys, Sisters, Rascals & Dirt \"Inútil\" (\"Useless\"), a song from the musical In the Heights \"Useless\", the sixth episode of the 2024 miniseries Manhunt See also All pages with titles beginning with Useless"
+    },
+    {
+      "chunk_id": "wikipedia:Group#0001",
+      "doc_id": "wikipedia:Group",
+      "title": "Group",
+      "url": "https://en.wikipedia.org/?curid=25874441",
+      "source_type": "wikipedia",
+      "score": 0.47907701730728147,
+      "text": "Social group Collectives Philosophy and religion Khandha, a Buddhist concept of five material and mental factors that take part in the rise of craving and clinging Science and technology Mathematics Group (mathematics), a set together with a binary operation satisfying certain algebraic conditions Chemistry Functional..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A cat is posing sexily on a chair.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster wants a snack right after eating dinner.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "dinner"
+        ]
+      },
+      "title": {
+        "text": "Damn this fast metabolism",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Damn this fast metabolism",
+          "fast",
+          "metabolism"
+        ]
+      },
+      "text": {
+        "text": "me thinking about having a little snack five minutes after | said | was full &— ‘ LL we aay \"4 , L_.— ~= fog oo - _ F / f, - c. 2 7 .",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "thinking",
+          "having",
+          "little",
+          "snack",
+          "five",
+          "minutes",
+          "after",
+          "said",
+          "full",
+          "aay",
+          "fog"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Damn this fast metabolism",
+      "fast",
+      "metabolism",
+      "thinking",
+      "having",
+      "little",
+      "snack",
+      "five",
+      "minutes",
+      "after",
+      "said",
+      "full",
+      "aay",
+      "fog"
+    ],
+    "secondary_terms": [
+      "dinner"
+    ],
+    "queries": [
+      "\"Damn this fast metabolism\" \"fast\" \"metabolism\" \"thinking\"",
+      "\"metabolism\" \"thinking\" \"having\" \"little\""
+    ]
+  },
+  "source_jsonl_id": null
+}

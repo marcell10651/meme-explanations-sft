@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_02958",
+  "queries": [
+    "\"Any other welders\" \"a slightly inconvenient amount\" \"MIG welding\" \"the wire tangles\"",
+    "\"MIG welding\" \"the wire tangles\" \"the hose\" \"any\""
+  ],
+  "primary_terms": [
+    "Any other welders",
+    "any",
+    "other",
+    "welders",
+    "here",
+    "MIG welding",
+    "the wire tangles",
+    "the hose",
+    "a slightly inconvenient amount",
+    "time"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Forge#0000",
+      "doc_id": "wikipedia:Forge",
+      "title": "Forge",
+      "url": "https://en.wikipedia.org/?curid=11057",
+      "source_type": "wikipedia",
+      "score": 0.8071593225002289,
+      "text": "A forge is a type of hearth used for heating metals, or the workplace (smithy) where such a hearth is located. The forge is used by the smith to heat a piece of metal to a temperature at which it becomes easier to shape by forging, or to the point at which work hardening no longer occurs. The metal (known as the \"workpiece\") is transported to and from the forge using tongs, which are also used to hold the workpiece on the smithy's anvil while the smith works it with a hammer. Sometimes, such as when hardening steel or cooling the work so that it may be handled with bare hands, the workpiece is transported to the slack tub, which rapidly cools the workpiece in a large body of water. However, depending on the metal type, it may require an oil quench or a salt brine instead; many metals require more than plain water hardening. The slack tub also provides water to control the fire in the forge."
+    },
+    {
+      "chunk_id": "wikipedia:Working#0000",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.6743987560272217,
+      "text": "Working may refer to: Work (human activity), intentional activity people perform to support themselves, others, or the community Arts and media Working (musical), a 1978 musical Working (TV series), an American sitcom Working (Caro book), a 2019 book by Robert Caro Working (Terkel book), a 1974 book by Studs Terkel Working!!, a manga by Karino Takatsu \"Working\" (song), by Tate McRae and Khalid, 2021 Engineering and technology Cold working or cold forming, the shaping of metal below its recrystallization temperature Hot working, the shaping of metal above its recrystallization temperature Multiple working, having more than one locomotive under the control of one driver Live-line working, the maintenance of electrical equipment while it is energised Single-line working, using one train track out of two Other uses Holbrook Working (1895–1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of"
+    },
+    {
+      "chunk_id": "wikipedia:Train#0000",
+      "doc_id": "wikipedia:Train",
+      "title": "Train",
+      "url": "https://en.wikipedia.org/?curid=30598",
+      "source_type": "wikipedia",
+      "score": 0.5913599014282227,
+      "text": "A train (from Old French trahiner, from Latin trahere, \"to pull, to draw\") is a series of connected vehicles that run along a railway track and transport people or freight. Trains are typically pulled or pushed by locomotives (often known simply as \"engines\"), though some are self-propelled, such as multiple units or railcars. Passengers and cargo are carried in railroad cars, also known as wagons or carriages. Trains are designed to a certain gauge, or distance between rails. Most trains operate on steel tracks with steel wheels, the low friction of which makes them more efficient than other forms of transport. Many countries use rail transport. Trains have their roots in wagonways, which used railway tracks and were powered by horses or pulled by cables. Following the invention of the steam locomotive in the United Kingdom in 1802, trains rapidly spread around the world, allowing freight and passengers to move over land faster and cheaper than ever possible before."
+    },
+    {
+      "chunk_id": "wikipedia:Monocle#0000",
+      "doc_id": "wikipedia:Monocle",
+      "title": "Monocle",
+      "url": "https://en.wikipedia.org/?curid=411772",
+      "source_type": "wikipedia",
+      "score": 0.5297732770442962,
+      "text": "A monocle is a type of corrective lens used to correct or enhance the visual perception in only one eye. It consists of a circular lens placed in front of the eye and held in place by the eye socket itself. Often, to avoid losing the monocle, a string or wire is connected to the wearer's clothing at one end and, at the other end, to either a hole in the lens or, more often, a wire ring around its circumference. Origins The Prussian antiquarian Philipp von Stosch wore a monocle in Rome in the 1720s, in order to closely examine engravings and antique engraved gems, but the monocle did not become an article of gentlemen's apparel until the 19th century. The dandy's quizzing glass of the 1790s was an article of high fashion, which differs from the monocle in being held to one's eye with a handle in a fashion similar to a lorgnette, rather than being held in place by the eye socket itself. Styles There are three additional styles of the monocle."
+    },
+    {
+      "chunk_id": "wikipedia:Static electricity#0000",
+      "doc_id": "wikipedia:Static electricity",
+      "title": "Static electricity",
+      "url": "https://en.wikipedia.org/?curid=200136",
+      "source_type": "wikipedia",
+      "score": 0.5191384673118591,
+      "text": "Static electricity is an imbalance of electric charges within or on the surface of a material. The charge remains until it can move away as an electric current or by electrical discharge. The word \"static\" is used to differentiate it from current electricity, where an electric charge flows through an electrical conductor. A static electric charge can be created whenever two surfaces contact and/or slide against each other and then separate. The effects of static electricity are familiar to most people because they can feel, hear, and even see sparks if the excess charge is neutralized when brought close to an electrical conductor (for example, a path to ground), or a region with an excess charge of the opposite polarity (positive or negative). The familiar phenomenon of a static shock – more specifically, an electrostatic discharge – is caused by the neutralization of a charge."
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0001",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.5070632517337799,
+      "text": "(T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A. from AIM \"Finally\", a song by Yes from The Ladder \"Finally\", a 2019 single by Thabsie \"Finally\", a 2023 single by Jonas Blue and Rani Other uses Finally (company), an American light bulb company Finally (film), a 1991 documentary about Eric Burdon Finally, a keyword in exception handling syntax See also Final (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Joke#0000",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.47528956532478334,
+      "text": "A joke is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh and is usually not meant to be interpreted literally. It usually takes the form of a story, often with dialogue, and ends in a punch line, whereby the humorous element of the story is revealed; this can be done using a pun or other type of word play, irony or sarcasm, logical incompatibility, hyperbole, or other means. Linguist Robert Hetzron offers the definition: A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end. No continuation relieving the tension should be added. As for its being \"oral,\" it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry."
+    },
+    {
+      "chunk_id": "wikipedia:Sword#0000",
+      "doc_id": "wikipedia:Sword",
+      "title": "Sword",
+      "url": "https://en.wikipedia.org/?curid=27863",
+      "source_type": "wikipedia",
+      "score": 0.47484069168567655,
+      "text": "A sword is an edged, bladed weapon intended for manual cutting or thrusting. Its blade, longer than a knife or dagger, is attached to a hilt and can be straight or curved. A thrusting sword tends to have a straighter blade with a pointed tip. A slashing sword is more likely to be curved and to have a sharpened cutting edge on one or both sides of the blade. Many swords are designed for both thrusting and slashing. The precise definition of a sword varies by historical epoch and geographic region. Historically, the sword developed in the Bronze Age, evolving from the dagger; the earliest specimens date to about 1600 BC. The later Iron Age sword remained fairly short and without a crossguard. The spatha, as it developed in the Late Roman army, became the predecessor of the European sword of the Middle Ages, at first adopted as the Migration Period sword, and only in the High Middle Ages, developed into the classical arming sword with crossguard."
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0000",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.4697909235954285,
+      "text": "Crossover may refer to: Entertainment Music Albums Cross Over (album), a 1987 album by Dan Peek, or the title song Crossover (Dirty Rotten Imbeciles album), 1987 Crossover, an album by Intrigue Crossover, an album by Hitomi Shimatani Crossover (Yoshinori Sunahara album), 1995 Songs \"Crossover\" (song), 1992, by EPMD \"Cross Over\" (song), 2010, by the Japanese group 9nine Genres and styles Crossover music Crossover thrash Comics Cross Over, a 2002 manga by Kōji Seo Crossover (storyline), a 2005 Fantastic Four storyline The Crossovers, a 2003 CrossGen comic book series Crossover (Image Comics), 2020 Film and television Crossover (1980 film) Crossover (2006 film), a basketball film \"Crossover\" (Adventure Time), a 2016 episode \"Crossover\" (Star Trek: Deep Space Nine), a 1994 episode Other entertainment Crossover (fiction), combining characters or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover"
+    },
+    {
+      "chunk_id": "wikipedia:Christ in the House of His Parents#0001",
+      "doc_id": "wikipedia:Christ in the House of His Parents",
+      "title": "Christ in the House of His Parents",
+      "url": "https://en.wikipedia.org/?curid=7684921",
+      "source_type": "wikipedia",
+      "score": 0.46158542335033415,
+      "text": "Anne, removes the nail with a pair of pincers, his concerned mother, Mary, offers her cheek for a kiss. Joseph examines Jesus's wounded hand. A young boy, who would later be known as John the Baptist, brings in water to wash the wound, prefiguring his later baptism of Christ. An assistant of Joseph, who represents Jesus's future Apostles, observes these events. In the background of the painting various..."
+    }
+  ]
+}

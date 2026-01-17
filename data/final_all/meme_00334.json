@@ -1,0 +1,199 @@
+{
+  "meme_id": "meme_00334",
+  "queries": [
+    "\"money\" \"send\" \"please\" \"pay\"",
+    "\"please\" \"pay\" \"day\" \"days\""
+  ],
+  "primary_terms": [
+    "money",
+    "send",
+    "please",
+    "pay",
+    "day",
+    "days",
+    "after",
+    "paid",
+    "aad",
+    "aya"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Money#0000",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.8936683058738708,
+      "text": "Money is any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts, such as taxes, in a particular country or socio-economic context. The primary functions which distinguish money are: medium of exchange, a unit of account, a store of value and sometimes, a standard of deferred payment. Money was historically an emergent market phenomenon that possessed intrinsic value as a commodity; nearly all contemporary money systems are based on unbacked fiat money without use value. Its value is consequently derived by social convention, having been declared by a government or regulatory entity to be legal tender; that is, it must be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar."
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0000",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.7480839222669602,
+      "text": "A retail cashier or simply a cashier is a person who handles the cash register at various locations such as the point of sale in a retail store. The most common use of the title is in the retail industry, but this job title is also used in the context of accountancy for the person responsible for receiving and disbursing money or within branch banking in the United Kingdom for the job known in the United States as a bank teller. Retail In a shop, a cashier (or checkout operator) is an employee who scans the goods that the customer wishes to purchase through a cash register. In most modern stores, the items are scanned by a barcode positioned on the item with the use of a laser scanner. After all of the items have been scanned, the cashier then collects the payment (in cash, check, and/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers."
+    },
+    {
+      "chunk_id": "wikipedia:Caletes#0001",
+      "doc_id": "wikipedia:Caletes",
+      "title": "Caletes",
+      "url": "https://en.wikipedia.org/?curid=9740176",
+      "source_type": "wikipedia",
+      "score": 0.656177070736885,
+      "text": "Indo-European *ḱelto-, meaning 'cold' (cf. Avest. sarǝta- 'cold', OEng. haeled 'hero', Lat. callēre 'to be hardened [by the experience], insensible'). The Pays de Caux, attested in 843 as Pago Calcis (Kaleto in 1206), is named after the Belgic tribe. Geography The territory of the Calates closely corresponded to the Pays de Caux. They dwelled north of the neighbouring Veliocasses, and were separated from the..."
+    },
+    {
+      "chunk_id": "wikipedia:Please#0001",
+      "doc_id": "wikipedia:Please",
+      "title": "Please",
+      "url": "https://en.wikipedia.org/?curid=63658677",
+      "source_type": "wikipedia",
+      "score": 0.6500929206609726,
+      "text": "you please, an intransitive, ergative form taken from if it please you, which is in turn a calque of the French s'il vous plaît, which replaced pray. The exact time frame of the shortening is unknown, though it has been noted that this form appears not to have been known to William Shakespeare, for whom \"please you\" is the shortest form used in any of his works. A variation of the phrase, \"may it please the court\", remains in use as a formality for attorneys addressing judges in legal proceedings. Despite its straightforward definition..."
+    },
+    {
+      "chunk_id": "wikipedia:Please#0000",
+      "doc_id": "wikipedia:Please",
+      "title": "Please",
+      "url": "https://en.wikipedia.org/?curid=63658677",
+      "source_type": "wikipedia",
+      "score": 0.6295936018228531,
+      "text": "Please is a word used in the English language to indicate politeness and respect while making a request. Derived from shortening the phrase \"if you please\" or \"if it please(s) you\", the term has taken on substantial nuance based on its intonation and the relationship between the persons between whom it is used. In much of the Western world, use of the word is considered proper etiquette, and parents and authority figures often imprint upon children the importance of saying \"please\" when asking for something from an early age, leading to the description of the term as \"the magic word\". Origin and understanding \"Please\" is a shortening of the phrase, if you please, an intransitive, ergative form taken from if it please you, which is in turn a calque of the French s'il vous plaît, which replaced pray."
+    },
+    {
+      "chunk_id": "wikipedia:Money#0001",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.5905001580715179,
+      "text": "be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar. The money supply of a country comprises all currency in circulation (banknotes and coins currently issued) and, depending on the particular definition used, one or more types of bank money (the balances held in checking accounts, savings accounts, and other types of bank accounts). Bank money, whose value exists on the books of financial institutions and can be converted..."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.5650952458381653,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    },
+    {
+      "chunk_id": "wikipedia:October#0000",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.5643329203128815,
+      "text": "October is the 10th month of the year in the Julian and Gregorian calendars. Its length is 31 days. The eighth month in the old calendar of Romulus c. 750 BC, October retained its name (from Latin and Greek ôctō meaning \"eight\") after January and February were inserted into the calendar that had originally been created by the Romans. In Ancient Rome, one of three Mundus patet would take place on October 5, Meditrinalia October 11, Augustalia on October 12, October Horse on October 15, and Armilustrium on October 19. These dates do not correspond to the modern Gregorian calendar. Among the Anglo-Saxons, it was known as Winterfylleth (Ƿinterfylleþ), because at this full moon, winter was supposed to begin. October is commonly associated with the season of autumn in parts of the Northern Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa."
+    },
+    {
+      "chunk_id": "wikipedia:Teacher#0000",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.5166265428066253,
+      "text": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence, or virtue, via the practice of teaching. Informally the role of teacher may be taken on by anyone (e.g. when showing a colleague how to perform a specific task). In some countries, teaching young people of school age may be carried out in an informal setting, such as within the family (homeschooling), rather than in a formal setting such as a school or college. Some other professions may involve a significant amount of teaching (e.g. youth worker, pastor). In most countries, formal teaching of students is usually carried out by paid professional teachers. This article focuses on those who are employed, as their main role, to teach others in a formal education context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures."
+    },
+    {
+      "chunk_id": "wikipedia:Auction#0001",
+      "doc_id": "wikipedia:Auction",
+      "title": "Auction",
+      "url": "https://en.wikipedia.org/?curid=62912",
+      "source_type": "wikipedia",
+      "score": 0.4986950755119324,
+      "text": "bid. An auctioneer may announce prices, while bidders submit bids vocally or electronically. Auctions are applied for trade in diverse contexts. These contexts include antiques, paintings, rare collectibles, expensive wines, commodities, livestock, radio spectrum, used cars, real estate, online advertising, vacation packages, emission trading, and many more. Etymology The word \"auction\" is derived from auctus, the past participle of the Latin verb augeō, (\"I increase\"). History Classical antiquity Auctions have been recorded as early..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "the different pictures of a man in midst of people and in a room.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the different pictures",
+          "midst",
+          "people"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that don't blow your money in one place, or all at once.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "your money",
+          "one place"
+        ]
+      },
+      "title": {
+        "text": "Send money please",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "money",
+          "send",
+          "please"
+        ]
+      },
+      "text": {
+        "text": "Pay day vs. 3 days after being paid at \\ aad ; Aya x, syn oN Md” I> ai! ~",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "pay",
+          "day",
+          "days",
+          "after",
+          "paid",
+          "aad",
+          "aya"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "money",
+      "send",
+      "please",
+      "pay",
+      "day",
+      "days",
+      "after",
+      "paid",
+      "aad",
+      "aya"
+    ],
+    "secondary_terms": [
+      "the different pictures",
+      "midst",
+      "people",
+      "your money",
+      "one place"
+    ],
+    "queries": [
+      "\"money\" \"send\" \"please\" \"pay\"",
+      "\"please\" \"pay\" \"day\" \"days\""
+    ]
+  },
+  "source_jsonl_id": null
+}

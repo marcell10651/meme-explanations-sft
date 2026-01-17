@@ -1,0 +1,197 @@
+{
+  "meme_id": "meme_03518",
+  "queries": [
+    "\"Reddit\" \"VOU OND\" \"red\" \"all\" \"way\"",
+    "\"all\" \"way\" \"anhich\" \"side\""
+  ],
+  "primary_terms": [
+    "red",
+    "all",
+    "way",
+    "VOU OND",
+    "anhich",
+    "side",
+    "vou",
+    "ond",
+    "baal"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Left- and right-hand traffic#0000",
+      "doc_id": "wikipedia:Left- and right-hand traffic",
+      "title": "Left- and right-hand traffic",
+      "url": "https://en.wikipedia.org/?curid=213380",
+      "source_type": "wikipedia",
+      "score": 0.8166183948516845,
+      "text": "Left-hand traffic (LHT) and right-hand traffic (RHT) are the practices, in bidirectional traffic, of keeping to the left side or to the right side of the road, respectively. They are fundamental to traffic flow, and are sometimes called the rule of the road. The terms right- and left-hand drive refer to the position of the driver and the steering wheel in the vehicle and are, in automobiles, the reverse of the terms right- and left-hand traffic. The rule also includes where on the road a vehicle is to be driven, if there is room for more than one vehicle in one direction, and the side on which the vehicle in the rear overtakes the one in the front. For example, a driver in an LHT country would typically overtake on the right of the vehicle being overtaken."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.7611251950263977,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Whole#0000",
+      "doc_id": "wikipedia:Whole",
+      "title": "Whole",
+      "url": "https://en.wikipedia.org/?curid=7197317",
+      "source_type": "wikipedia",
+      "score": 0.7169054120779037,
+      "text": "Whole may refer to: Music Whole note, or semibreve Whole step, or major second Whole (Jessa Anderson album) or the title song, 2014 Whole (Soil album), 2013 Whole, an EP by Pedro the Lion, 1997 \"Whole\", a song by Basement from Colourmeinkindness, 2012 \"Whole\", a song by Flaw from Through the Eyes, 2001 \"Whole\", a song by Jacob Whitesides, 2019 Other uses Whole (campaign), a British anti-stigma mental health campaign. WHOLE – United Queer Festival, a music festival held at Ferropolis, Gräfenhainichen, Germany. Whole (film), a 2003 American documentary by Melody Gilbert. Whole milk, milk which has not had fat removed. See also Holism, a philosophical and social theory Hole (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Everything#0000",
+      "doc_id": "wikipedia:Everything",
+      "title": "Everything",
+      "url": "https://en.wikipedia.org/?curid=17181902",
+      "source_type": "wikipedia",
+      "score": 0.6614217698574066,
+      "text": "Everything, every-thing, or every thing, is all that exists; it is an antithesis (opposite) of nothing, and its complement. It is the totality of things relevant to some subject matter. The universe is everything that exists theoretically, though a multiverse may exist according to theoretical cosmology predictions. It may refer to an anthropocentric worldview, or the sum of human experience, history, and the human condition in general. Every object and entity is a part of everything, including all physical bodies and in some cases all abstract objects. To describe or know of everything as a spatial consideration in a local environment, such as the world in which humans mostly live, is possible. The detemination of all things in the universe is unknown because of the physics beyond the observed universe and the problem of knowing physics at the range infinite."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0000",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.6476167500019073,
+      "text": "Even may refer to: General Even (company), a Brazilian construction and real estate company Even (given name), a Norwegian male personal name Even (surname), a Breton surname Even (people), an ethnic group from Siberia and Russian Far East Even language, a language spoken by the Evens Odd and Even, a solitaire game which is played with two decks of playing cards Evening, the period of a day that begins at the end of daylight and overlaps with the beginning of night Science and technology In mathematics, the term even is used in several senses related to odd: even and odd numbers, an integer is even if dividing by two yields an integer even and odd functions, a function is even if f(−x) = f(x) for all x even and odd permutations, a permutation of a finite set is even if it is composed of an even number of transpositions Singly even number, an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even"
+    },
+    {
+      "chunk_id": "wikipedia:Absolutely#0001",
+      "doc_id": "wikipedia:Absolutely",
+      "title": "Absolutely",
+      "url": "https://en.wikipedia.org/?curid=1914454",
+      "source_type": "wikipedia",
+      "score": 0.6211368799209595,
+      "text": "Hard Way Absolutely (TV series), a British comedy sketch show Abso Lutely Productions, a production company started by Tim Heidecker and Eric Wareheim See also Absolute (disambiguation) Absoluteness, a description of formulas that have the same truth value in each of some class of structures Absolution (disambiguation) Definitely (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0001",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.5929050803184509,
+      "text": "an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even (band), an Australian alternative rock band \"Even\", a song by Chris Brown from his 2017 album Heartbreak on a Full Moon Even Hotels, one of brands of IHG Hotels & Resorts See also Evens..."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.5860152900218963,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.581451466679573,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube Premium#0001",
+      "doc_id": "wikipedia:YouTube Premium",
+      "title": "YouTube Premium",
+      "url": "https://en.wikipedia.org/?curid=44382466",
+      "source_type": "wikipedia",
+      "score": 0.5757531106472016,
+      "text": "relaunched as YouTube Red on October 21, 2015, expanding its scope to offer advertisement-free access to all YouTube videos, as opposed to just music. YouTube announced the rebranding of the service as YouTube Premium on May 17, 2018, alongside the return of YouTube Music as a separate subscription service. Later in the year, it was reported that YouTube was planning to make some of the original content associated with the service available on an ad-supported basis. ��2�..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "There's a red and blue half of the image.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a red and blue half",
+          "the image"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster is trying to convey the clashes between the premium users of Reddit and Twitter.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the clashes",
+          "the premium users",
+          "Reddit",
+          "Twitter"
+        ]
+      },
+      "title": {
+        "text": "red all the way",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "red",
+          "all",
+          "way"
+        ]
+      },
+      "text": {
+        "text": "ANHICH:SIDE ARE VOU OND: ai 7 Baal SS A",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "VOU OND",
+          "anhich",
+          "side",
+          "vou",
+          "ond",
+          "baal"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "red",
+      "all",
+      "way",
+      "VOU OND",
+      "anhich",
+      "side",
+      "vou",
+      "ond",
+      "baal"
+    ],
+    "secondary_terms": [
+      "a red and blue half",
+      "the clashes",
+      "the premium users",
+      "Reddit",
+      "Twitter"
+    ],
+    "queries": [
+      "\"Reddit\" \"VOU OND\" \"red\" \"all\" \"way\"",
+      "\"all\" \"way\" \"anhich\" \"side\""
+    ]
+  },
+  "source_jsonl_id": null
+}

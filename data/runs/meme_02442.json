@@ -1,0 +1,112 @@
+{
+  "meme_id": "meme_02442",
+  "queries": [
+    "\"Marvel lore verse lore y\" \"the Arkham games\" \"Batman\" \"goddamn\"",
+    "\"Batman\" \"goddamn\" \"arkham\" \"games\""
+  ],
+  "primary_terms": [
+    "the Arkham games",
+    "dark stuff",
+    "goddamn",
+    "arkham",
+    "games",
+    "dark",
+    "Batman",
+    "Marvel lore verse lore y",
+    "marvel",
+    "lore",
+    "verse"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Arkham#0000",
+      "doc_id": "wikipedia:Arkham",
+      "title": "Arkham",
+      "url": "https://en.wikipedia.org/?curid=65730",
+      "source_type": "wikipedia",
+      "score": 1.189445000886917,
+      "text": "Arkham () is a fictional city situated in Massachusetts, United States. An integral part of the Lovecraft Country setting created by H. P. Lovecraft, Arkham is featured in many of his stories and those of other Cthulhu Mythos writers. Arkham House, a publishing company started by two of Lovecraft's correspondents, August Derleth and Donald Wandrei, takes its name from this city as a tribute. Arkham Asylum, a fictional mental hospital in DC Comics' Batman mythos, is also named after Lovecraft's Arkham. In Lovecraft's stories Arkham is the home of Miskatonic University, which features prominently in many of Lovecraft's works. The institution finances the expeditions in the novellas, At the Mountains of Madness (1936) and The Shadow Out of Time (1936). Walter Gilman, of \"The Dreams in the Witch House\" (1933), attends classes at the university. Other notable institutions in Arkham are the Arkham Historical Society and the Arkham Sanitarium."
+    },
+    {
+      "chunk_id": "wikipedia:Superhero#0001",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 0.9261435091495513,
+      "text": "media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins. Most superheroes (for example, Superman and Spider-Man) usually possess non-human or superhuman biology, while others (such as Batman and Iron Man) derive their status from advanced technology they create and use; others may use or possess objects that have superhuman, mystical, or alien powers (such as Green Lantern and He-Man), or study and practice magic to achieve their abilities (such as Doctor Fate and Doctor Strange). The Dictionary.com definition of \"superhero\" is \"a..."
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0000",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.8645577907562256,
+      "text": "Thanos () is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man #55 (cover date February 1973). An Eternal–Deviant warlord from the moon Titan, Thanos is regarded as one of the most powerful beings in the Marvel Universe. Due to his genocidal tendencies, he has clashed with many heroes including the Avengers and the Guardians of the Galaxy. In creating Thanos, Starlin drew inspiration from Jack Kirby's New Gods series for DC Comics, particularly the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified."
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0001",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.8292795479297638,
+      "text": "a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The Terror (1917 film), an American silent film The Terror (1920 film), an American western film starring Tom Mix Terror (1924 film), a French film starring Pearl White The Terror..."
+    },
+    {
+      "chunk_id": "wikipedia:Arkham#0001",
+      "doc_id": "wikipedia:Arkham",
+      "title": "Arkham",
+      "url": "https://en.wikipedia.org/?curid=65730",
+      "source_type": "wikipedia",
+      "score": 0.8026883661746979,
+      "text": "House\" (1933), attends classes at the university. Other notable institutions in Arkham are the Arkham Historical Society and the Arkham Sanitarium. It is said in \"Herbert West—Reanimator\" that the town was devastated by a typhoid outbreak in 1905. Arkham's main newspaper is the Arkham Advertiser, which has a circulation that reaches as far as Dunwich. In the 1880s, its newspaper is called..."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0000",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.7951659083366394,
+      "text": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Considered one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays. Spider-Man is the secret identity of Peter Benjamin Parker, who was raised by his Aunt May and Uncle Ben in Queens, New York City, after the death of his parents. Lee, Ditko, and later writers had the character deal with the struggles of adolescence and young adulthood. Readers identified with his self-doubt and loneliness. Unlike previous teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J."
+    },
+    {
+      "chunk_id": "wikipedia:Corona#0001",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.7372556924819946,
+      "text": "into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities Corona (fictional world), in R. A. Salvatore's DemonWars novels Corona, a character in the game Doraemon: Nobita to Mittsu no Seireiseki Corona, a character in the Spider..."
+    },
+    {
+      "chunk_id": "wikipedia:Two-Face#0001",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 0.724231219291687,
+      "text": "the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse. The modern version is also established as having once been an ally of Batman and Commissioner James Gordon, and a close friend of Batman's secret identity, Bruce Wayne. The character has been adapted in various media incarnations, having been portrayed in film by Billy Dee Williams in Batman (1989), Tommy Lee..."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.6837379336357117,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    },
+    {
+      "chunk_id": "wikipedia:Fallout (video game)#0000",
+      "doc_id": "wikipedia:Fallout (video game)",
+      "title": "Fallout (video game)",
+      "url": "https://en.wikipedia.org/?curid=4508917",
+      "source_type": "wikipedia",
+      "score": 0.6782526135444641,
+      "text": "Fallout (also known as Fallout: A Post Nuclear Role Playing Game) is a 1997 role-playing video game developed and published by Interplay Productions, set in a mid-22nd century post-apocalyptic and retro-futuristic world, decades after a global nuclear war led by the United States and China. Fallout's protagonist, the Vault Dweller, inhabits an underground nuclear shelter. The player must scour the surrounding wasteland for a computer chip that can fix the Vault's failed water supply system. They interact with other survivors, some of whom give them quests, and engage in turn-based combat. Tim Cain began working on Fallout in 1994. It began and was conceptualized as based on the role-playing game GURPS, but after Steve Jackson Games objected to Fallout's violence, Cain and designer Christopher Taylor created a new character customization scheme, SPECIAL. Interplay initially gave the game little attention, but eventually spent $3 million and employed up to thirty people to develop it."
+    }
+  ]
+}

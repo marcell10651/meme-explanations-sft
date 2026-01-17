@@ -1,0 +1,116 @@
+{
+  "meme_id": "meme_00129",
+  "queries": [
+    "\"TOO MUCH CHANGE SATAN\" \"SHORT SATAN\" \"watch\" \"learn\"",
+    "\"watch\" \"learn\" \"satan\" \"cashier\""
+  ],
+  "primary_terms": [
+    "watch",
+    "learn",
+    "satan",
+    "TOO MUCH CHANGE SATAN",
+    "SHORT SATAN",
+    "cashier",
+    "gave",
+    "too",
+    "much",
+    "change",
+    "shut",
+    "keep",
+    "two",
+    "dollar",
+    "short"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Satan#0000",
+      "doc_id": "wikipedia:Satan",
+      "title": "Satan",
+      "url": "https://en.wikipedia.org/?curid=27694",
+      "source_type": "wikipedia",
+      "score": 0.9374804854393005,
+      "text": "Satan, also known as the Devil, is an entity in Abrahamic religions who entices humans into sin or falsehood. In Judaism, Satan is seen as an agent subservient to God, typically regarded as a metaphor for the yetzer hara, or 'evil inclination'. In Christianity and Islam, he is usually seen as a fallen angel or jinn who has rebelled against God, who nevertheless allows him temporary power over the fallen world and a host of demons. A figure known as ha-satan (\"the satan\") first appears in the Hebrew Bible as a heavenly prosecutor, subordinate to Yahweh (God); he prosecutes the nation of Judah in the heavenly court and tests the loyalty of Yahweh's followers. During the intertestamental period, possibly due to influence from the Zoroastrian figure of Angra Mainyu, the satan developed into a malevolent entity with abhorrent qualities in dualistic opposition to God."
+    },
+    {
+      "chunk_id": "wikipedia:A Reason to Live, a Reason to Die#0000",
+      "doc_id": "wikipedia:A Reason to Live, a Reason to Die",
+      "title": "A Reason to Live, a Reason to Die",
+      "url": "https://en.wikipedia.org/?curid=24235116",
+      "source_type": "wikipedia",
+      "score": 0.6547176480293274,
+      "text": "A Reason to Live, a Reason to Die (originally titled Una Ragione Per Vivere E Una Per Morire, also known as Massacre at Fort Holman) is a 1972 Technicolor Italian spaghetti Western movie starring James Coburn, Bud Spencer, and Telly Savalas. Many exterior scenes were filmed at the Fort Bowie set built in the Province of Almería, Spain, where the desert landscape and climate that characterizes part of the province have made it a much utilized setting for Western films, among those A Fistful of Dollars, The Good, the Bad and the Ugly, Once Upon a Time in the West, and later 800 Bullets. The Fort Bowie set was originally built for the film The Deserter. There are two different English language versions of the movie, shorter with James Coburn's own voice and longer with different voice actors and music. James Coburn was not involved in longer cut dubbing. It also features some of the same songs from Day of Anger starring Lee Van Cleef."
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0000",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.6343118667602539,
+      "text": "A retail cashier or simply a cashier is a person who handles the cash register at various locations such as the point of sale in a retail store. The most common use of the title is in the retail industry, but this job title is also used in the context of accountancy for the person responsible for receiving and disbursing money or within branch banking in the United Kingdom for the job known in the United States as a bank teller. Retail In a shop, a cashier (or checkout operator) is an employee who scans the goods that the customer wishes to purchase through a cash register. In most modern stores, the items are scanned by a barcode positioned on the item with the use of a laser scanner. After all of the items have been scanned, the cashier then collects the payment (in cash, check, and/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers."
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0001",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.6213614702224731,
+      "text": "donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture. The photo quickly became popular on the image board 4chan, and social media networks like Facebook and Twitter, depicting \"a guy who can't catch a break [...] a symbol for a stroke of hilarious bad luck\". Notable depictions In 2013, Bad Luck Brian (depicted by Craven himself) featured in a YouTube video sketch..."
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0001",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.5855168521404266,
+      "text": "/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers. Cashiers record amounts received, may prepare reports of transactions, and verify cash register totals against cash on hand. A cashier may be required to know value and features of items for which money is received; may cash checks; may give cash refunds..."
+    },
+    {
+      "chunk_id": "wikipedia:Working#0001",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.5555553138256073,
+      "text": "1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of occult rituals See also Workin' (disambiguation) Work (disambiguation) Works (disambiguation) All pages with titles containing Working All pages with titles beginning with Working"
+    },
+    {
+      "chunk_id": "wikipedia:LOTS#0000",
+      "doc_id": "wikipedia:LOTS",
+      "title": "LOTS",
+      "url": "https://en.wikipedia.org/?curid=20629362",
+      "source_type": "wikipedia",
+      "score": 0.5533747673034668,
+      "text": "LOTS may refer to: LOTS (personality psychology), an acronym providing a broad classification of data source for personality psychology assessment London Omnibus Traction Society, a bus society Legend of the Seeker, a television series based on novels in the Sword of Truth series by Terry Goodkind Legends of the Superheroes, a 1979 television series based on DC Comics characters. Lucifer on the Sofa, a 2022 album by American rock band Spoon A linearly ordered topological space. See also All pages with titles beginning with LOTS All pages with titles containing LOTS All pages with titles beginning with lots Lot (disambiguation) Lotts (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0000",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.5281248688697815,
+      "text": "Kyle Edward Craven (born August 10, 1989), commonly known by his Internet nickname \"Bad Luck Brian\", is an American Internet celebrity known for his photo which was posted on Reddit in 2012, which quickly became a popular Internet meme. Bad Luck Brian is an image macro style of meme. His captions describe a variety of unlucky, embarrassing and tragic events. Meme Origin On January 23, 2012, at 2:15 UTC, Ian Davies uploaded a photo to Reddit of his friend Kyle Craven. Craven and Davies both attended Archbishop Hoban High School in Akron, Ohio. The photo which became Bad Luck Brian was originally taken for the high school's 2005–06 yearbook. Craven stated that he rubbed his face with a sweater to redden it and donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture."
+    },
+    {
+      "chunk_id": "wikipedia:In His Image#0001",
+      "doc_id": "wikipedia:In His Image",
+      "title": "In His Image",
+      "url": "https://en.wikipedia.org/?curid=4401031",
+      "source_type": "wikipedia",
+      "score": 0.47749403715133665,
+      "text": "to be real, too real to be a dream. It's called The Twilight Zone. Plot While waiting in a subway station, Alan Talbot is approached by an evangelist. Alan is not interested, but takes the pamphlet she offers in order to appease her; however, the evangelist won't leave him alone. He hears strange electronic noises which prompt him to throw her under a train and then flee..."
+    },
+    {
+      "chunk_id": "wikipedia:Luck#0000",
+      "doc_id": "wikipedia:Luck",
+      "title": "Luck",
+      "url": "https://en.wikipedia.org/?curid=192727",
+      "source_type": "wikipedia",
+      "score": 0.4722062647342682,
+      "text": "Luck is a phenomenon or belief that humans may associate with experiencing improbable events, especially improbably positive or negative events. Philosophical naturalism, eschewing any supernatural explanations, might suggest that positive or negative events may happen at any time (due to both random and non-random natural and artificial processes), and that even improbable events can happen by random chance. In this view, the epithet \"lucky\" or \"unlucky\" is a descriptive label that refers to an event's positivity, negativity, or improbability. Supernatural interpretations of luck consider it to be an attribute of a person or of an object, or the result of a favorable (or unfavorable) view manifested by a deity towards the lucky (or unlucky) person. These interpretations often prescribe how luckiness or unluckiness can be obtained, such as by carrying a lucky charm or offering sacrifices or prayers to a deity."
+    }
+  ]
+}

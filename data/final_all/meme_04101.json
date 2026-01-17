@@ -1,0 +1,211 @@
+{
+  "meme_id": "meme_04101",
+  "queries": [
+    "\"a 255 comment thread\" \"two guys\" \"forgot\" \"arguing\"",
+    "\"forgot\" \"arguing\" \"reading\" \"comment\""
+  ],
+  "primary_terms": [
+    "forgot",
+    "arguing",
+    "a 255 comment thread",
+    "two guys",
+    "reading",
+    "comment",
+    "thread",
+    "two",
+    "years",
+    "ago",
+    "guys",
+    "each",
+    "other"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:2024 Joe Biden–Donald Trump presidential debate#0001",
+      "doc_id": "wikipedia:2024 Joe Biden–Donald Trump presidential debate",
+      "title": "2024 Joe Biden–Donald Trump presidential debate",
+      "url": "https://en.wikipedia.org/?curid=77873079",
+      "source_type": "wikipedia",
+      "score": 0.6580268502235412,
+      "text": "the general election to Trump. Prelude Agreement to debate As the 2024 campaign developed, there was a serious possibility of no televised debates. Neither campaign favored use of the Commission on Presidential Debates that had brokered national debates since 1987. An agreement to debate was announced on May 15. Both campaigns agreed to two debates..."
+    },
+    {
+      "chunk_id": "wikipedia:Joke#0000",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.6481311291456222,
+      "text": "A joke is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh and is usually not meant to be interpreted literally. It usually takes the form of a story, often with dialogue, and ends in a punch line, whereby the humorous element of the story is revealed; this can be done using a pun or other type of word play, irony or sarcasm, logical incompatibility, hyperbole, or other means. Linguist Robert Hetzron offers the definition: A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end. No continuation relieving the tension should be added. As for its being \"oral,\" it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry."
+    },
+    {
+      "chunk_id": "wikipedia:Silence#0000",
+      "doc_id": "wikipedia:Silence",
+      "title": "Silence",
+      "url": "https://en.wikipedia.org/?curid=440579",
+      "source_type": "wikipedia",
+      "score": 0.5771939814090729,
+      "text": "Silence is the absence of ambient audible sound, the emission of sounds of such low intensity that they do not draw attention to themselves, or the state of having ceased to produce sounds; this latter sense can be extended to apply to the cessation or absence of any form of communication, whether through speech or other medium. Remaining mute can be a symptom of mental illness. Sometimes speakers fall silent when they hesitate in searching for a word, or interrupt themselves before correcting themselves. Discourse analysis shows that people use brief silences to mark the boundaries of prosodic units, in turn-taking, or as reactive tokens, for example, as a sign of displeasure, disagreement, embarrassment, desire to think, confusion, and the like. Relatively prolonged intervals of silence can be used in rituals; in some religious disciplines, people maintain silence for protracted periods, or even for the rest of their lives, as an ascetic means of spiritual transformation."
+    },
+    {
+      "chunk_id": "wikipedia:Harry#0000",
+      "doc_id": "wikipedia:Harry",
+      "title": "Harry",
+      "url": "https://en.wikipedia.org/?curid=12500869",
+      "source_type": "wikipedia",
+      "score": 0.5478561043739318,
+      "text": "Harry may refer to: Television Harry (American TV series), 1987 comedy series starring Alan Arkin Harry (British TV series), 1993 BBC drama that ran for two seasons Harry (game show), 2012 French game show hosted by Sébastien Folin Harry (New Zealand TV series), 2013 crime drama starring Oscar Kightley Harry (talk show), 2016 American daytime talk show hosted by Harry Connick Jr. People and fictional characters Harry (given name), a list of people and fictional characters with the given or nickname including Prince Harry, Duke of Sussex (born 1984) Harry (surname), a list of people with the surname Other uses \"Harry\", the tunnel used in the Stalag Luft III escape (\"The Great Escape\") of World War II Harry (album), a 1969 album by Harry Nilsson Harry (derogatory term), derogatory term used in Norway Harry (newspaper), an underground newspaper in Baltimore, Maryland \"Harry (poem)\", 1962 poem by Francis Webb See also All pages with titles beginning with Harry Old Harry (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Two Whatevers#0000",
+      "doc_id": "wikipedia:Two Whatevers",
+      "title": "Two Whatevers",
+      "url": "https://en.wikipedia.org/?curid=539766",
+      "source_type": "wikipedia",
+      "score": 0.5286598265171051,
+      "text": "The \"Two Whatevers\" (Chinese: 两个凡是; pinyin: Liǎng gè fán shì) refers to the statement that \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\" (凡是毛主席作出的决策，我们都坚决维护；凡是毛主席的指示，我们都始终不渝地遵循). This statement was contained in a joint editorial, entitled \"Study the Documents Well and Grasp the Key Link\", printed on 7 February 1977 in People's Daily, the journal Red Flag and the PLA Daily. History The policy was advocated by the Chinese Communist Party chairman Hua Guofeng, Mao's successor, who had earlier ended the Cultural Revolution and arrested the Gang of Four. On a 7 February 1977 editorial titled \"Study the Documents Well and Grasp the Key Link\" which appeared in People's Daily, Red Flag, and People's Liberation Army Daily, Hua articulated the \"Two Whatevers\" slogan: \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\"."
+    },
+    {
+      "chunk_id": "wikipedia:Forget#0001",
+      "doc_id": "wikipedia:Forget",
+      "title": "Forget",
+      "url": "https://en.wikipedia.org/?curid=16794504",
+      "source_type": "wikipedia",
+      "score": 0.5137097388505936,
+      "text": "and politician Places Forget, Ontario, a community in Ontario, Canada Forget, Saskatchewan, a village in Saskatchewan, Canada Saint-Forget, a commune in the Yvelines department, in France Mount Forget, located on the border of Alberta and British Columbia Media \"Forget\", a song by 8stops7 from Birth of a Cynic \"Forget\", a song by..."
+    },
+    {
+      "chunk_id": "wikipedia:2024 Joe Biden–Donald Trump presidential debate#0000",
+      "doc_id": "wikipedia:2024 Joe Biden–Donald Trump presidential debate",
+      "title": "2024 Joe Biden–Donald Trump presidential debate",
+      "url": "https://en.wikipedia.org/?curid=77873079",
+      "source_type": "wikipedia",
+      "score": 0.4882233887910843,
+      "text": "A debate between then-incumbent Democratic US President Joe Biden and then-former Republican President Donald Trump was held on June 27, 2024. Hosted by CNN, it was the first debate of that year's presidential election. Biden's performance in the debate, which was widely considered by media and political experts to be the poorest of any major party nominee in modern American history, raised substantial concerns about whether he would be capable of serving a second term as president. During the days and weeks following the debate, Biden declined in the polls and faced pressure from within his own party to end his presidential campaign. On July 21, Biden ultimately withdrew from the race and immediately endorsed Vice President Kamala Harris to replace him in his place as the party's presidential nominee. Harris went on to lose the general election to Trump. Prelude Agreement to debate As the 2024 campaign developed, there was a serious possibility of no televised debates."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0001",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.479576176404953,
+      "text": "Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A. Applegate The Other (Tryon novel), a 1971 horror novel by Tom Tryon \"The Other\" (short story), a 1972 short story by Jorge Luis Borges The Other, a 2008 novel by David Guterson Spider-Man: \"The Other\", a 2005–2006..."
+    },
+    {
+      "chunk_id": "wikipedia:Sleeping with Other People#0000",
+      "doc_id": "wikipedia:Sleeping with Other People",
+      "title": "Sleeping with Other People",
+      "url": "https://en.wikipedia.org/?curid=43263164",
+      "source_type": "wikipedia",
+      "score": 0.47273795604705815,
+      "text": "Sleeping with Other People is a 2015 American romantic comedy film written and directed by Leslye Headland. The film stars Jason Sudeikis, Alison Brie, Natasha Lyonne, Amanda Peet, and Adam Scott. Premiering at the Sundance Film Festival on January 24, 2015, the film was released theatrically on September 11, 2015, by IFC Films. Sleeping with Other People received generally positive reviews from critics. Plot In 2002, Lainey causes a scene in a dorm at Columbia University. Taking pity on her as she is about to be kicked out by security, Jake claims her as his guest. He learns Lainey was there to lose her virginity to her teaching assistant Matthew, who Jake thinks is the most boring guy in the world. Lainey eventually realizes Jake is also a virgin, so they lose their virginity to each other. Years later, Lainey breaks up with her long-term boyfriend Sam after telling him she has been cheating on him with Matthew."
+    },
+    {
+      "chunk_id": "wikipedia:Sleeping with Other People#0001",
+      "doc_id": "wikipedia:Sleeping with Other People",
+      "title": "Sleeping with Other People",
+      "url": "https://en.wikipedia.org/?curid=43263164",
+      "source_type": "wikipedia",
+      "score": 0.46863678395748143,
+      "text": "virginity to each other. Years later, Lainey breaks up with her long-term boyfriend Sam after telling him she has been cheating on him with Matthew. On the advice of her therapist she attends a sex addicts meeting where she runs into Jake, who is there because of his inability to commit. Lainey schedules an appointment with Matthew to end their affair; he agrees and tells her that he is engaged, but they end up having..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The old man is reading in dark room.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The old man",
+          "dark room"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they are having the time of their life reading comments from people arguing",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the time",
+          "their life",
+          "comments",
+          "people"
+        ]
+      },
+      "title": {
+        "text": "And I forgot what they were arguing about",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "forgot",
+          "arguing"
+        ]
+      },
+      "text": {
+        "text": "Me reading a 255 comment thread from two years ago of two guys arguing with each other J cr nC",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a 255 comment thread",
+          "two guys",
+          "reading",
+          "comment",
+          "thread",
+          "two",
+          "years",
+          "ago",
+          "guys",
+          "arguing",
+          "each",
+          "other"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "forgot",
+      "arguing",
+      "a 255 comment thread",
+      "two guys",
+      "reading",
+      "comment",
+      "thread",
+      "two",
+      "years",
+      "ago",
+      "guys",
+      "each",
+      "other"
+    ],
+    "secondary_terms": [
+      "The old man",
+      "dark room",
+      "the time",
+      "their life",
+      "comments",
+      "people"
+    ],
+    "queries": [
+      "\"a 255 comment thread\" \"two guys\" \"forgot\" \"arguing\"",
+      "\"forgot\" \"arguing\" \"reading\" \"comment\""
+    ]
+  },
+  "source_jsonl_id": null
+}

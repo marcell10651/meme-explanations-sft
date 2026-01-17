@@ -1,0 +1,200 @@
+{
+  "meme_id": "meme_01339",
+  "queries": [
+    "\"The vulture\" \"the Tires\" \"the wind\" \"vulture\"",
+    "\"the wind\" \"vulture\" \"waits\" \"see\""
+  ],
+  "primary_terms": [
+    "The vulture",
+    "vulture",
+    "waits",
+    "see",
+    "rots",
+    "the wind",
+    "the Tires",
+    "wind",
+    "slow",
+    "tires",
+    "hot"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Waiting#0000",
+      "doc_id": "wikipedia:Waiting",
+      "title": "Waiting",
+      "url": "https://en.wikipedia.org/?curid=5769974",
+      "source_type": "wikipedia",
+      "score": 0.6853238999843597,
+      "text": "Waiting, Waitin, Waitin', or The Waiting may refer to: Art Waiting (Degas), a c. 1880–1882 pastel on paper by Edgar Degas Waiting (Millais), an 1854 painting by John Everett Millais Film Waiting (1991 film), a film by Jackie McKimmie Waiting... (film), a 2005 film starring Ryan Reynolds Waiting, a 2007 film by Zarina Bhimji Waiting (2015 film), an Indian drama film starring Naseeruddin Shah and Kalki Koechlin The Waiting (film), a 2020 American horror/romance/comedy by F. C. Rabbath The Good Neighbor (2016 film) (working title The Waiting), an American thriller film Literature Waiting (novel), a 1999 novel by Ha Jin Waiting (picture book), a 2015 children's book by Kevin Henkes The Waiting (graphic novel), a 2020 graphic novel by Keum Suk Gendry-Kim \"The Waiting\" (short story), or \"The Wait\", a 1950 story by Jorge Luis Borges The Waiting, a 2024 novel by Michael Connelly Music The Waiting (band), a Christian pop rock band Waiting (KLF film), a video by The KLF Albums Waiting (Bobby"
+    },
+    {
+      "chunk_id": "wikipedia:Hawk#0001",
+      "doc_id": "wikipedia:Hawk",
+      "title": "Hawk",
+      "url": "https://en.wikipedia.org/?curid=56890",
+      "source_type": "wikipedia",
+      "score": 0.6428186297416687,
+      "text": "horizontal pursuit. The terms accipitrine hawk and buteonine hawk are used to distinguish between the types in regions where hawk applies to both. The term \"true hawk\" is sometimes used for the accipitrine hawks in regions where buzzard is preferred for the buteonine hawks. All these groups are members of the family Accipitridae, which includes hawks and buzzards as well as kites, harriers, and eagles. To confuse things further,..."
+    },
+    {
+      "chunk_id": "wikipedia:Jaws (film)#0001",
+      "doc_id": "wikipedia:Jaws (film)",
+      "title": "Jaws (film)",
+      "url": "https://en.wikipedia.org/?curid=74830",
+      "source_type": "wikipedia",
+      "score": 0.6194176435470581,
+      "text": "1974, Jaws was the first major motion picture to be shot on the ocean and consequently had a troubled production, going over budget and schedule. As the art department's mechanical sharks often malfunctioned, Spielberg decided to mostly suggest the shark's presence, employing an ominous and minimalist theme created by composer John Williams to indicate its impending appearances. Spielberg and others have compared this suggestive approach to that of director Alfred Hitchcock. Universal Pictures released the film..."
+    },
+    {
+      "chunk_id": "wikipedia:Dave Grohl#0001",
+      "doc_id": "wikipedia:Dave Grohl",
+      "title": "Dave Grohl",
+      "url": "https://en.wikipedia.org/?curid=8099",
+      "source_type": "wikipedia",
+      "score": 0.5791382104158401,
+      "text": "the drummer and co-founder of the rock supergroup Them Crooked Vultures, and has recorded and toured with Queens of the Stone Age and Tenacious D. He has organized side projects Late!, which released the album Pocketwatch, and Probot. Grohl began directing Foo Fighters music videos in 1997. He released his debut documentary, Sound City, in 2013, followed by the 2014 documentary miniseries Sonic Highways and the 2021 documentary..."
+    },
+    {
+      "chunk_id": "wikipedia:For Your Eyes Only (film)#0001",
+      "doc_id": "wikipedia:For Your Eyes Only (film)",
+      "title": "For Your Eyes Only (film)",
+      "url": "https://en.wikipedia.org/?curid=6446044",
+      "source_type": "wikipedia",
+      "score": 0.5791166484355926,
+      "text": "becoming tangled in a web of deception spun by rival Greek smugglers along with Melina Havelock, a woman seeking to avenge the murder of her parents. After the science-fiction-focused Moonraker, the producers wanted a return to the style of the early Bond films and the works of 007 creator Fleming. For Your Eyes Only followed a grittier, more realistic approach and a narrative theme of revenge and its..."
+    },
+    {
+      "chunk_id": "wikipedia:Doomed#0000",
+      "doc_id": "wikipedia:Doomed",
+      "title": "Doomed",
+      "url": "https://en.wikipedia.org/?curid=9401997",
+      "source_type": "wikipedia",
+      "score": 0.5725730717182159,
+      "text": "Doomed may refer to: \"Doomed\" (Buffy the Vampire Slayer), a 1999 episode of the television series Buffy the Vampire Slayer \"Doomed\", an episode of the 2006 television series Fantastic Four: World's Greatest Heroes Doomed!: The Untold Story of Roger Corman's The Fantastic Four, a 2015 documentary film Doomed (novel), a 2013 novel by Chuck Palahniuk \"Doomed\" (Bring Me the Horizon song), 2015 \"Doomed\" (Moses Sumney song), 2017 DoomEd, an editor for the video game Doom Doomed, a 1975 performance art piece by Chris Burden The Doomed (film), a 1924 German silent drama film \"The Doomed\", a 2017 song by A Perfect Circle See also Doom (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Hawk#0000",
+      "doc_id": "wikipedia:Hawk",
+      "title": "Hawk",
+      "url": "https://en.wikipedia.org/?curid=56890",
+      "source_type": "wikipedia",
+      "score": 0.565830409526825,
+      "text": "Hawks are birds of prey of the family Accipitridae. They are very widely distributed and are found on all continents, except Antarctica. The subfamily Accipitrinae includes goshawks, sparrowhawks, sharp-shinned hawks, and others. This subfamily are mainly woodland birds with short broad wings, long tails, and high visual acuity. They hunt by dashing suddenly from a concealed perch. In the United States, members of the Buteo group are also called hawks, though birds of this group are called buzzards in other parts of the world. Generally, buteos have broad wings and sturdy builds. They are relatively larger-winged and shorter-tailed than accipiters, and fly further distances in open areas. Buteos descend or pounce on their prey rather than engaging in fast, horizontal pursuit. The terms accipitrine hawk and buteonine hawk are used to distinguish between the types in regions where hawk applies to both."
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0000",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.5640579968690872,
+      "text": "Feel may refer to: Feeling Music Bands Feel (New York band), a 1980s dance and R&B band Feel (Polish band), a pop rock band Albums Feel (Feel album), 2007 Feel (George Duke album) or the title song, 1974 Feel (Glenn Hughes album), 1995 Feel (Human Drama album), 1989 Feel (Namie Amuro album), 2013 Feel (Roachford album), 1997 Feel (Sleeping with Sirens album) or the title song, 2013 Feel, by Nagisa ni te, 2002 Feel (A-Mei EP), 1999 Feel (Junho EP), 2014 Songs \"Feel\" (Kendrick Lamar song), 2017 \"Feel\" (Koda Kumi song), 2006 \"Feel\" (Robbie Williams song), 2002 \"Feel\" (Chicago song), 2006 \"Feel\", by Asking Alexandria from Where Do We Go from Here?, 2023 \"Feel\", by Big Star from #1 Record, 1972 \"Feel\", by Bombay Bicycle Club from So Long, See You Tomorrow, 2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol."
+    },
+    {
+      "chunk_id": "wikipedia:Following#0000",
+      "doc_id": "wikipedia:Following",
+      "title": "Following",
+      "url": "https://en.wikipedia.org/?curid=23011287",
+      "source_type": "wikipedia",
+      "score": 0.5457383304834366,
+      "text": "Following is a 1998 British independent neo-noir crime thriller film written, produced, directed, photographed, and edited by Christopher Nolan in his feature film directorial debut. It tells the story of a young man who follows strangers around the streets of London and is drawn into a criminal underworld when he fails to keep his distance. The film was designed to be as inexpensive as possible to make. Scenes were heavily rehearsed so just one or two takes were needed to economise on 16mm film stock, the production's greatest expense, and for which Nolan was paying from his salary. Unable to afford expensive professional lighting equipment, Nolan mostly used available light. Along with writing, directing, and photographing the film, Nolan helped in editing and production. The film was released by The Criterion Collection on both Blu-ray and DVD in North America on 11 December 2012."
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0001",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.5194705486297607,
+      "text": "the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified. Perhaps the character's best-known storyline is The Infinity Gauntlet (1991), the culmination of several story arcs that see him gather the six Infinity Gems and use them to kill half of the universe's population, including many of its heroes, to woo Mistress Death, the living embodiment of death in the Marvel Universe. Although these events were later undone, the storyline has remained one of the most popular published by Marvel. Debuting in the Bronze Age of comic books, the character..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "the crying face of the superman",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the crying face",
+          "the superman"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that a fire without any wind in the way is excellent",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "any wind",
+          "the way"
+        ]
+      },
+      "title": {
+        "text": "The vulture waits to see what rots",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The vulture",
+          "vulture",
+          "waits",
+          "see",
+          "rots"
+        ]
+      },
+      "text": {
+        "text": "Mtw when the wind is slow and the Tires hot:",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the wind",
+          "the Tires",
+          "wind",
+          "slow",
+          "tires",
+          "hot"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "The vulture",
+      "vulture",
+      "waits",
+      "see",
+      "rots",
+      "the wind",
+      "the Tires",
+      "wind",
+      "slow",
+      "tires",
+      "hot"
+    ],
+    "secondary_terms": [
+      "the crying face",
+      "the superman",
+      "any wind",
+      "the way"
+    ],
+    "queries": [
+      "\"The vulture\" \"the Tires\" \"the wind\" \"vulture\"",
+      "\"the wind\" \"vulture\" \"waits\" \"see\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_03695",
+  "queries": [
+    "\"your original raindrop\" \"very\" \"sad\" \"another\"",
+    "\"your original raindrop\" \"Kermit\" \"the frog\" \"rain droplets\"",
+    "\"the frog\" \"rain droplets\" \"very\" \"sad\""
+  ],
+  "primary_terms": [
+    "very",
+    "sad",
+    "your raindrop",
+    "your original raindrop",
+    "another"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Rain#0000",
+      "doc_id": "wikipedia:Rain",
+      "title": "Rain",
+      "url": "https://en.wikipedia.org/?curid=19009110",
+      "source_type": "wikipedia",
+      "score": 1.261039137840271,
+      "text": "Rain is a form of precipitation where water droplets that have condensed from atmospheric water vapor fall by gravity. Rain is a major component of the water cycle and is responsible for depositing most of the fresh water on the Earth. It provides water for hydroelectric power plants, crop irrigation, and suitable conditions for many types of ecosystems. The major cause of rain production is moisture moving along three-dimensional zones of temperature and moisture contrasts known as weather fronts. If enough moisture and upward motion is present, precipitation falls from convective clouds (those with strong upward vertical motion) such as cumulonimbus (thunder clouds) which can organize into narrow rainbands. In mountainous areas, heavy precipitation is possible where upslope flow is maximized within windward sides of the terrain at elevation which forces moist air to condense and fall out as rainfall along the sides of mountains."
+    },
+    {
+      "chunk_id": "wikipedia:Water#0001",
+      "doc_id": "wikipedia:Water",
+      "title": "Water",
+      "url": "https://en.wikipedia.org/?curid=33306",
+      "source_type": "wikipedia",
+      "score": 1.034585565328598,
+      "text": "'s triple point, water exists on Earth as a solid, a liquid, and a gas. It forms precipitation in the form of rain and aerosols in the form of fog. Clouds consist of suspended droplets of water and ice, its solid state. When finely divided, crystalline ice may precipitate in the form of snow. The gaseous state of water is steam or water vapor. Water covers about 71.0% of the Earth's surface..."
+    },
+    {
+      "chunk_id": "wikipedia:Enough#0001",
+      "doc_id": "wikipedia:Enough",
+      "title": "Enough",
+      "url": "https://en.wikipedia.org/?curid=7209454",
+      "source_type": "wikipedia",
+      "score": 0.9246286153793335,
+      "text": "\", by Jeremy Camp from Carried Me \"Enough\", by Jess Glynne from Jess (2024) \"Enough\", by Jessica Sierra from Rebound \"Enough\", by Keke Wyatt from Unbelievable \"Enough\", by Sara Groves from Floodplain \"Enough\", by Sevendust from Chapter VII: Hope & Sorrow \"Enough\", by Simply Red from A New Flame \"Enough\", from the musical In the Heights..."
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0001",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.8878289461135864,
+      "text": "USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the 2014 album Sweet Talker \"Loud\", a 2006 single by Masters at Work with Beto Cuevas \"Loud\", a song by Matt Nathanson from the 1999 album Still Waiting for Spring \"Loud\", an additional..."
+    },
+    {
+      "chunk_id": "wikipedia:Rain#0001",
+      "doc_id": "wikipedia:Rain",
+      "title": "Rain",
+      "url": "https://en.wikipedia.org/?curid=19009110",
+      "source_type": "wikipedia",
+      "score": 0.83442822098732,
+      "text": "maximized within windward sides of the terrain at elevation which forces moist air to condense and fall out as rainfall along the sides of mountains. On the leeward side of mountains, desert climates can exist due to the dry air caused by downslope flow which causes heating and drying of the air mass. The movement of the monsoon trough, or Intertropical Convergence Zone, brings rainy seasons to savannah..."
+    },
+    {
+      "chunk_id": "wikipedia:Water#0000",
+      "doc_id": "wikipedia:Water",
+      "title": "Water",
+      "url": "https://en.wikipedia.org/?curid=33306",
+      "source_type": "wikipedia",
+      "score": 0.7184209227561951,
+      "text": "Water is an inorganic compound with the chemical formula H2O. It is a transparent, tasteless, odorless, and nearly colorless chemical substance. It is the main constituent of Earth's streams, lakes, and oceans and the fluids of all known living organisms, in which it acts as a solvent. Water, being a polar molecule, undergoes strong intermolecular hydrogen bonding which is a large contributor to its physical and chemical properties. It is vital for all known forms of life, despite not providing food energy or being an organic micronutrient. Due to its presence in all organisms, its chemical stability, its worldwide abundance, and its strong polarity relative to its small molecular size, water is often referred to as the \"universal solvent\". Because Earth's environment is relatively close to water's triple point, water exists on Earth as a solid, a liquid, and a gas. It forms precipitation in the form of rain and aerosols in the form of fog."
+    },
+    {
+      "chunk_id": "wikipedia:Point#0001",
+      "doc_id": "wikipedia:Point",
+      "title": "Point",
+      "url": "https://en.wikipedia.org/?curid=48221",
+      "source_type": "wikipedia",
+      "score": 0.7157627195119858,
+      "text": "rainfall in Australia Point (typography) Points, an antler's size by the number of its tips Printer point, an unit of relative exposure in photography Navigation One of the 32 directional points of the compass Point of sail, a sailing craft's direction of travel in relation to wind direction Point, the direction of an object by its..."
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0000",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.7011439502239227,
+      "text": "Loud most commonly refers to: Loudness, the subjective quality of sound of great intensity Loud may also refer to: Music Albums Loud (Half Japanese album), 1981 Loud (Rihanna album), 2010 Loud (Timo Maas album), 2001 Loud (Wicked Tinkers album), 1999 Loud, a 2000 album by Lexy & K-Paul Loud (EP), by American Pop-Rock band R5 Artists Loud (British band), a British 1990s band Loud (Israeli band), an Israeli psytrance music group Loud (rapper), a Canadian rapper from Quebec Loudness (band), a Japanese rock band Songs \"Loud\" (Mac Miller song), 2012 \"Loud\" (Shannon Noll song), 2007 \"Loud\" (Stan Walker song), 2011 \"Loud\" (R5 song), 2013 \"Loud\" (Tim Hicks song), 2018 \"Loud\", a song by Silk City, featuring GoldLink and Desiigner \"Loud\", a 2007 single by Big & Rich from the album Between Raising Hell and Amazing Grace \"Loud\", a song by Chocolate USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the"
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.6678370833396912,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Sorry#0001",
+      "doc_id": "wikipedia:Sorry",
+      "title": "Sorry",
+      "url": "https://en.wikipedia.org/?curid=343641",
+      "source_type": "wikipedia",
+      "score": 0.5333713293075562,
+      "text": "a novel by Zoran Drvenkar Music Performers Sorry (band), an English indie band Scott Sorry (1978–2025), American singer-songwriter Albums Sorry! (album) or the title song, by Catherine, 1994 Sorry (Meg Myers album) or the title song, 2015 Sorry (White Lung album), 2012 Sorry, by Mai Yamane, 1981 Sorry, by Severina, 2023 Songs \"Sorry\" (Beyoncé song), 2016 \"Sorry\" (Bic Runga song), 1999 \"Sorry\" (Buckcherry song), 2007 \"Sorry\" (Ciara song), 2012 \"Sorry\" (Doris Day song), 1967 \"Sorry\" (Easybeats song), 1966 \"Sorry\" (Grace Jones song), 1976 \"Sorry\" (Halsey song), 2017 \"Sorry\" (IDER song), 2016 \"Sorry\" (Justin Bieber song), 2015 \"Sorry\" (Madness song), 2007 \"Sorry\" (Madonna song), 2006 \"Sorry..."
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "meme_id": "meme_00195",
+  "queries": [
+    "\"ord ert srs eye pea\" \"APPS Ser\" \"“SpiderMan\" \"ees rittae\"",
+    "\"“SpiderMan\" \"ees rittae\" \"looks\" \"fun\""
+  ],
+  "primary_terms": [
+    "looks",
+    "fun",
+    "tho",
+    "“SpiderMan",
+    "ste",
+    "ees rittae",
+    "nae",
+    "APPS Ser",
+    "ord ert srs eye pea"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Spider-Man#0000",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.987314772605896,
+      "text": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Considered one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays. Spider-Man is the secret identity of Peter Benjamin Parker, who was raised by his Aunt May and Uncle Ben in Queens, New York City, after the death of his parents. Lee, Ditko, and later writers had the character deal with the struggles of adolescence and young adulthood. Readers identified with his self-doubt and loneliness. Unlike previous teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J."
+    },
+    {
+      "chunk_id": "wikipedia:Geralt of Rivia#0000",
+      "doc_id": "wikipedia:Geralt of Rivia",
+      "title": "Geralt of Rivia",
+      "url": "https://en.wikipedia.org/?curid=14276148",
+      "source_type": "wikipedia",
+      "score": 0.7926613807678222,
+      "text": "Geralt of Rivia (Polish: Geralt z Rivii) is a fictional character and the protagonist of The Witcher series of short stories and novels by Polish author Andrzej Sapkowski. He is a magically enhanced monster-hunter known as a \"witcher\", who possesses supernatural abilities due to his mutations. Geralt of Rivia is also the protagonist in CD Projekt Red's series of video games based on The Witcher. In television adaptations, he was portrayed by Michał Żebrowski in The Hexer film and television series. Henry Cavill portrays the character in the first three seasons of Netflix's The Witcher television series, with Tristan Ruggeri portraying a young Geralt in the first season, and Liam Hemsworth due to take over the role from the fourth season onward. Fictional biography Novels Geralt is a witcher, a magical mutant made for hunting and killing monsters."
+    },
+    {
+      "chunk_id": "wikipedia:Spider#0000",
+      "doc_id": "wikipedia:Spider",
+      "title": "Spider",
+      "url": "https://en.wikipedia.org/?curid=28329803",
+      "source_type": "wikipedia",
+      "score": 0.6946303308010101,
+      "text": "Spiders (order Araneae) are air-breathing arthropods that have eight limbs, chelicerae with fangs generally able to inject venom, and spinnerets that extrude silk. They are the largest order of arachnids and rank seventh in total species diversity among all orders of organisms. Spiders are found worldwide on every continent except Antarctica, and have become established in nearly every land habitat. As of December 2025, 53,608 spider species in 139 families have been recorded by taxonomists. However, there has been debate among scientists about how families should be classified, with over 20 different classifications proposed since 1900. Anatomically, spiders (as with all arachnids) differ from other arthropods in that the usual body segments are fused into two tagmata, the cephalothorax or prosoma, and the opisthosoma, or abdomen, and joined by a small, cylindrical pedicel."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.6016384273767471,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.596245139837265,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    },
+    {
+      "chunk_id": "wikipedia:Centipede#0000",
+      "doc_id": "wikipedia:Centipede",
+      "title": "Centipede",
+      "url": "https://en.wikipedia.org/?curid=186495",
+      "source_type": "wikipedia",
+      "score": 0.5889284670352936,
+      "text": "Centipedes (from Neo-Latin centi-, \"hundred\", and Latin pes, pedis, \"foot\") are predatory arthropods belonging to the class Chilopoda (Ancient Greek χεῖλος, kheilos, \"lip\", and Neo-Latin suffix -poda, \"foot\", describing the forcipules) of the subphylum Myriapoda, an arthropod group which includes millipedes and other multi-legged animals. Centipedes are elongated segmented (metameric) animals with one pair of legs per body segment. All centipedes are venomous and can inflict painful stings, injecting their venom through pincer-like appendages known as forcipules or toxicognaths, which are actually modified legs instead of fangs. Despite the name, no species of centipede has exactly 100 legs; the number of pairs of legs is an odd number that ranges from 15 pairs to 191 pairs. Centipedes are predominantly generalist carnivores, hunting for a variety of prey items that can be overpowered."
+    },
+    {
+      "chunk_id": "wikipedia:Appearance#0000",
+      "doc_id": "wikipedia:Appearance",
+      "title": "Appearance",
+      "url": "https://en.wikipedia.org/?curid=8104650",
+      "source_type": "wikipedia",
+      "score": 0.5851174801588058,
+      "text": "Appearance may refer to: Visual appearance, the way in which objects reflect and transmit light Human physical appearance, what someone looks like Appearances (film), a 1921 film directed by Donald Crisp Appearance (philosophy), or phenomenon Phantasiai, a term in ancient Greek philosophy variously translated as \"appearances,\" \"impressions,\" \"presentations,\" and \"representations.\" Appearance (law), the coming into court of either of the parties to a suit, and/or the formal act by which a defendant submits himself to the jurisdiction of the court. Appear or Appears may refer to: \"Appear\" (나타나) a song from Secret Garden OST (2010), by Kim Bum-soo."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0001",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.572712516784668,
+      "text": "A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K. Le Guin, originally published as \"The End\" in the 1970 anthology Orbit 6, edited by Damon Knight Things, a 1981 picture book by Roger Hargreaves The Things, a 1994 novel by Martyn Godfrey Things, a 1997 novel by Rodman Philbrick and Lynn Harnett, the second installment in the Visitors trilogy \"The Things\" (short story), a 2010 short story by Peter Watts Other uses TheThings, a news website Things (Chill), a 1984 role-playing game supplement Things (film), a 1989 Canadian horror film Things (software), task management software The Things, recurring..."
+    },
+    {
+      "chunk_id": "wikipedia:Geralt of Rivia#0001",
+      "doc_id": "wikipedia:Geralt of Rivia",
+      "title": "Geralt of Rivia",
+      "url": "https://en.wikipedia.org/?curid=14276148",
+      "source_type": "wikipedia",
+      "score": 0.5493532925844192,
+      "text": "over the role from the fourth season onward. Fictional biography Novels Geralt is a witcher, a magical mutant made for hunting and killing monsters. Shortly after being born, Geralt's mother, Visenna, gives him away to undergo training and, eventually, become a witcher at the School of the Wolf at Kaer Morhen – the stronghold of the Wolven school witchers. His mentor and father figure there was a wise man and warrior named Vesemir. Geralt survives mutations during the Trial..."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.5448081493377686,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A fat superhero is looking at the city.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the city"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that editing Spiderman to look fat is impractical, but funny.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Spiderman"
+        ]
+      },
+      "title": {
+        "text": "Looks fun tho",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "looks",
+          "fun",
+          "tho"
+        ]
+      },
+      "text": {
+        "text": "df * | or pc “SpiderMan gets release Pc modders: CMO ; Wy. , | mt g S : ‘Se ‘ ‘ NO ‘ | » ! 7 ; : ieee Lh Pe NPL Tycare chee wee tte Fe mittee ia | om aN. itt LO ae Lee ee wi Koo fe a seme ss | ’ why pen 5) sae rie lk cece 4 7 te ee we tS poe . ste ir, . th; ry ' nn acne yaa Te pire FE “ aes ees rittae St. t eee ee coe mms ue ee 7 ow @e- an \" ae WM te: eS nen Fs Pans oPy wee ES, aa ee ng eget at nae == ; ' ; ; | Lae Ce WY = ess OS Z a ee 2 Wye 3 re SP = : ‘hoa epee Vel UP SR. APPS Ser : us HEE = ot ' b Sa ee ac ° Ee LY uM, ie etgse fy . see ‘RHEE JO DET. aaa 133, ord ert srs eye pea he vy ve =r BAe Ale 4 ol EMD | 1 no PES TLE [stes: ——— HEIN fs Sah “SS ret if! af - yi ry, nfilife Tua Se === ad Fo agheet : , woe °. Je arn ee eer ie] aes j Mon, SS: “\\y . - _—, ae",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "“SpiderMan",
+          "ste",
+          "ees rittae",
+          "nae",
+          "APPS Ser",
+          "ord ert srs eye pea"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "looks",
+      "fun",
+      "tho",
+      "“SpiderMan",
+      "ste",
+      "ees rittae",
+      "nae",
+      "APPS Ser",
+      "ord ert srs eye pea"
+    ],
+    "secondary_terms": [
+      "the city",
+      "Spiderman"
+    ],
+    "queries": [
+      "\"ord ert srs eye pea\" \"APPS Ser\" \"“SpiderMan\" \"ees rittae\"",
+      "\"“SpiderMan\" \"ees rittae\" \"looks\" \"fun\""
+    ]
+  },
+  "source_jsonl_id": null
+}

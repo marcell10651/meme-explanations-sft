@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_00306",
+  "queries": [
+    "\"INUOVETIS WINN SOTNEC\" \"AISGC aRLOpICathratam _\" \"Ceeusses\" \"observe\"",
+    "\"INUOVETIS WINN SOTNEC\" \"AISGC aRLOpICathratam _\" \"Ceeusses\" \"the water\"",
+    "\"Ceeusses\" \"the water\" \"the topic\" \"observe\""
+  ],
+  "primary_terms": [
+    "observe",
+    "INUOVETIS WINN SOTNEC",
+    "AISGC aRLOpICathratam _",
+    "Ceeusses"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Caletes#0000",
+      "doc_id": "wikipedia:Caletes",
+      "title": "Caletes",
+      "url": "https://en.wikipedia.org/?curid=9740176",
+      "source_type": "wikipedia",
+      "score": 0.8302905857563019,
+      "text": "The Caletes or Caleti (Gaulish: Caletoi \"the hard [stubborn, tough] ones\"; Latin: Calētēs or Calētī) were a Belgic or Gallic tribe dwelling in Pays de Caux, in present-day Normandy, during the Iron Age and the Roman period. Name They are mentioned as Caletes (var. Caletos, Cadetes) by Caesar (mid-1st c. BC), as Káletoi (Κάλετοι) and Kalétous (Καλέτους) by Strabo (early 1st c. AD), as Galetos (var. Galletos) by Pliny (1st c. AD), as Kalē̃tai (Καλη̃ται) by Ptolemy (2nd c. AD), and as Caleti by Orosius (early 5th c. AD). The Gaulish ethnonym Caletoi literally means 'the hard ones', that is to say 'the stubborn' or 'the tough'. It derives from the Proto-Celtic stem *kaleto- ('hard, cruel, strong'; cf. Old Irish calath 'heroic', Middle Welsh caled 'hard'), itself from Proto-Indo-European *ḱelto-, meaning 'cold' (cf. Avest. sarǝta- 'cold', OEng. haeled 'hero', Lat. callēre 'to be hardened [by the experience], insensible')."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0001",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.8136354684829712,
+      "text": "historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE). Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity and later medieval scholarship, whereby formal attempts were made to provide explanations of events in the physical world based on natural causes; while further..."
+    },
+    {
+      "chunk_id": "wikipedia:Proof#0001",
+      "doc_id": "wikipedia:Proof",
+      "title": "Proof",
+      "url": "https://en.wikipedia.org/?curid=62384",
+      "source_type": "wikipedia",
+      "score": 0.6913638561964035,
+      "text": "to establish the truth of facts in a trial Philosophic burden of proof, obligation on a party in a dispute to provide sufficient warrant for their position Probate, the judicial process whereby a will is \"proved\" in a court of law and accepted as valid Manufacturing and printing Artist's proof, a single print taken during the printmaking..."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0001",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.6579020172357559,
+      "text": "or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'. History An argument over the underlying nature of ideas was opened by Plato, whose exposition of his theory of forms—which recurs and accumulates over the course of his many dialogs—appropriates and adds a new sense to the Greek word for things that are \"seen\" (re. εἶδος) that highlights those elements of perception which..."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0001",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.6251184493303299,
+      "text": "A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K. Le Guin, originally published as \"The End\" in the 1970 anthology Orbit 6, edited by Damon Knight Things, a 1981 picture book by Roger Hargreaves The Things, a 1994 novel by Martyn Godfrey Things, a 1997 novel by Rodman Philbrick and Lynn Harnett, the second installment in the Visitors trilogy \"The Things\" (short story), a 2010 short story by Peter Watts Other uses TheThings, a news website Things (Chill), a 1984 role-playing game supplement Things (film), a 1989 Canadian horror film Things (software), task management software The Things, recurring..."
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0000",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.5969155132770538,
+      "text": "A scientist is an expert who conducts scientific research to advance knowledge in science. In classical antiquity, there was no real ancient analog of a modern scientist. Instead, philosophers engaged in the philosophical study of nature called natural philosophy. Though Thales (c. 624–545 BC) was arguably the first scientist for describing how cosmic events may be seen as natural, not necessarily caused by gods, it was not until the 19th century that the term scientist came into regular use: it was coined by the theologian, philosopher, and historian of science William Whewell in 1833 to describe Mary Somerville. History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time."
+    },
+    {
+      "chunk_id": "wikipedia:Universe#0001",
+      "doc_id": "wikipedia:Universe",
+      "title": "Universe",
+      "url": "https://en.wikipedia.org/?curid=31880",
+      "source_type": "wikipedia",
+      "score": 0.5808424353599548,
+      "text": "were geocentric, placing Earth at the center. During the European Scientific Revolution, astronomical observations led to a heliocentric model. Further observational improvements led to the realization that the Sun is one of a few hundred billion stars in the Milky Way, which is one of a few hundred billion galaxies in the observable universe. Many of the stars in a galaxy have planets. At the largest scale, galaxies are distributed uniformly and the same in all directions, meaning..."
+    },
+    {
+      "chunk_id": "wikipedia:Charge#0001",
+      "doc_id": "wikipedia:Charge",
+      "title": "Charge",
+      "url": "https://en.wikipedia.org/?curid=6439",
+      "source_type": "wikipedia",
+      "score": 0.543111115694046,
+      "text": "charge, information or indictment through a formal legal process Mathematics, science, and technology Charge (physics), the susceptibility (state of being affected) of a body to one of the fundamental forces Color charge, a property of quarks and gluons, related to their strong interactions Electric charge..."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0001",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.4763253629207611,
+      "text": "network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story, one of the main characters in the 2006 film Lady in the Water Kahaani, or Story, a 2012 Indian film by Sujoy Ghosh The Story (film documentary short), a 2000 short film by John Little The..."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0001",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.4629141390323639,
+      "text": "astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest. Measurable time is believed to have effectively begun with the Big Bang 13.8 billion years ago, encompassed by the chronology of the universe. Modern physics understands time to be inextricable from space within the concept of spacetime described by general relativity..."
+    }
+  ]
+}

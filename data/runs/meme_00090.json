@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_00090",
+  "queries": [
+    "\"hes\" \"got\" \"point\" \"potatoes\"",
+    "\"point\" \"potatoes\" \"stomach\" \"all\""
+  ],
+  "primary_terms": [
+    "hes",
+    "got",
+    "point",
+    "potatoes",
+    "stomach",
+    "all",
+    "mashed"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Point#0000",
+      "doc_id": "wikipedia:Point",
+      "title": "Point",
+      "url": "https://en.wikipedia.org/?curid=48221",
+      "source_type": "wikipedia",
+      "score": 0.8321197748184204,
+      "text": "Point or points may refer to: Mathematics Point (geometry), a representation of an exact position in a physical or mathematical space Point, or element, in category theory, the generalized concept of a set element Decimal point Places Point, Cornwall, England, a settlement in Feock parish Point, Lewis, a peninsula in the Outer Hebrides, Scotland Point, the northeast tip of the Inner Hebrides island of Lismore, Scotland Point, Texas, a US city Points, West Virginia, an unincorporated US community Business and finance Point (loyalty program), a form of currency used as a purchasing incentive Point (mortgage), a payment made up front in exchange for a reduced interest rate Measurement units Point (gemstone), 2 milligrams, or one hundredth of a carat A unit of card stock thickness Point, 1/100 of an inch, formerly used to describe rainfall in Australia Point (typography) Points, an antler's size by the number of its tips Printer point, an unit of relative exposure in photography"
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0001",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.6974519252777099,
+      "text": "a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt. It served only one dish, a plate of cereal, wildfowl, and onions. A forerunner for the modern restaurant is the thermopolium, an establishment in Ancient Greece or Ancient Rome that sold and served ready-to-eat food and beverages. These establishments..."
+    },
+    {
+      "chunk_id": "wikipedia:Accessory#0001",
+      "doc_id": "wikipedia:Accessory",
+      "title": "Accessory",
+      "url": "https://en.wikipedia.org/?curid=1949788",
+      "source_type": "wikipedia",
+      "score": 0.6535757839679718,
+      "text": "and terminating cables Accessory fruit, in which some of the flesh is derived from tissues other than the flower ovary See also All pages with titles beginning with Accessory All pages with titles containing Accessory Access (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Food#0000",
+      "doc_id": "wikipedia:Food",
+      "title": "Food",
+      "url": "https://en.wikipedia.org/?curid=10646",
+      "source_type": "wikipedia",
+      "score": 0.6477481842041015,
+      "text": "Food is any substance consumed by an organism for nutritional support. Food usually consists of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or support growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill specific ecological niches within specific geographical contexts. Omnivorous humans are highly adaptable and have adapted to obtaining food in many different ecosystems. Humans generally use cooking to prepare food for consumption. The majority of the food energy required is supplied by the industrial food industry, which produces food through intensive agriculture and distributes it through complex food processing and food distribution systems."
+    },
+    {
+      "chunk_id": "wikipedia:Pars#0000",
+      "doc_id": "wikipedia:Pars",
+      "title": "Pars",
+      "url": "https://en.wikipedia.org/?curid=531002",
+      "source_type": "wikipedia",
+      "score": 0.6475590884685516,
+      "text": "Pars may refer to: Fars province of Iran, also known as Pars Province Pars (Sasanian province), a province roughly corresponding to the present-day Fars, 224–651 Pars, for Persia or Iran, in the Persian language Pars News Agency, former name of Iranian news agency Pars-e Jonubi (disambiguation), villages in Iran FNSS Pars, a Turkish wheeled armoured vehicle Pars (surname) Pars interarticularis, in spinal anatomy The Pars, nickname for Dunfermline Athletic Football Club PARS may refer to: Point-a-rally scoring in the game of squash Pakistan Amateur Radio Society Programmed Airline Reservations System Russian Mission Airport. Alaska, US, ICAO location indicator Pre-arrival Review System for import into Canada PARS 3 LR, a German anti-tank missile See also Parsa (disambiguation) Fars (disambiguation) Persia (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0000",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.5747228980064392,
+      "text": "In grammar, a phrase — called an expression in some contexts — is a group of one or more words acting as a grammatical unit. For instance, the English expression \"the very happy squirrel\" is a noun phrase which contains the adjective phrase \"very happy\". Phrases can consist of a single word or a complete sentence. In theoretical linguistics, phrases are often analyzed as units of syntactic structure such as a constituent. There is a difference between the common use of the term phrase and its technical use in linguistics. In common usage, a phrase is usually a group of words with some special idiomatic meaning or other significance, such as \"all rights reserved\", \"economical with the truth\", or \"kick the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0000",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.5729715436697006,
+      "text": "A restaurant is a business that prepares and serves food and beverages to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, featuring a wide variety of cuisines and service models — ranging from inexpensive fast-food restaurants and cafeterias to mid-priced family restaurants to high-priced luxury establishments. Etymology The word derives from the early 19th century, taken from the French word restaurer 'provide meat for', literally 'restore to a former state' and, being the present participle of the verb, the term restaurant may have been used in 1507 as a \"restorative beverage\", and in correspondence in 1521 to mean 'that which restores the strength, a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt."
+    },
+    {
+      "chunk_id": "wikipedia:Point#0001",
+      "doc_id": "wikipedia:Point",
+      "title": "Point",
+      "url": "https://en.wikipedia.org/?curid=48221",
+      "source_type": "wikipedia",
+      "score": 0.5453730046749115,
+      "text": "rainfall in Australia Point (typography) Points, an antler's size by the number of its tips Printer point, an unit of relative exposure in photography Navigation One of the 32 directional points of the compass Point of sail, a sailing craft's direction of travel in relation to wind direction Point, the direction of an object by its..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit#0000",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 0.5443028420209884,
+      "text": "Shit is an English-language profanity. As a noun, it refers to fecal matter, and as a verb it means to defecate; in the plural (\"the shits\"), it means diarrhea. Shite is a common variant in British and Irish English. As a slang term, shit has many meanings, including: nonsense, foolishness, something of little value or quality, trivial and usually boastful or inaccurate talk or a contemptible person. It could also be used to refer to any other noun in general or as an expression of annoyance, concern, surprise or anger. Etymology The word is likely derived from Old English, having the nouns scite (dung, attested only in place names) and scitte (diarrhoea) and the verb scītan (to defecate, attested only in bescītan, to cover with excrement); eventually it morphed into Middle English schītte (excrement), schyt (diarrhoea) and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:PICS#0000",
+      "doc_id": "wikipedia:PICS",
+      "title": "PICS",
+      "url": "https://en.wikipedia.org/?curid=1253844",
+      "source_type": "wikipedia",
+      "score": 0.5243654906749725,
+      "text": "PICS may refer to: Passive Inspection CubeSat, two nanosatellites launched in 2021 Platform for Internet Content Selection, a content rating specification for websites Pacific Islands Central School/Pohnpei Island Central School, now Bailey Olter High School Post-intensive care syndrome Private investment capital subscription Protocol implementation conformance statement Punjab Institute of Computer Science Purdue Improved Crop Storage bags Phase Imaging with Computational Specificity Pics or pics, may refer to: Slang abbreviation of pictures .pics, a generic top-level domain name administered by Cayman Islands-based company Uniregistry See also PIC (disambiguation) All pages with titles containing pics"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_00014",
+  "queries": [
+    "\"pulled\" \"sneaky\" \"geralt\" \"sword\"",
+    "\"The warrior\" \"The person\" \"blonde hair\" \"its back\"",
+    "\"blonde hair\" \"its back\" \"the post\" \"sneaky people\""
+  ],
+  "primary_terms": [
+    "pulled",
+    "sneaky",
+    "geralt",
+    "sword",
+    "sze"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Man on a String#0000",
+      "doc_id": "wikipedia:Man on a String",
+      "title": "Man on a String",
+      "url": "https://en.wikipedia.org/?curid=35028463",
+      "source_type": "wikipedia",
+      "score": 0.6237780898809433,
+      "text": "Man on a String (also known as Confessions of a Counterspy) is a 1960 American spy thriller directed by Andre de Toth and starring Ernest Borgnine and Kerwin Mathews. It was the last film that DeToth directed in the United States. Plot A government intelligence agency in Washington, D.C. wants agent Frank Sanford to follow Boris Mitrov, a film producer who appears to also be a Russian spy. Helen and Adrian Benson, a wealthy American couple with a home in Beverly Hills and a film studio, are communist sympathizers as well, in league with Colonel Vadja Kubelov, the top KGB man in the U.S. Boris's office is bugged by his assistant, Bob Avery, a plant who is working for the Americans. Now that he has been caught red-handed, Boris is willing to turn double agent, going to Berlin under the pretense of making a documentary film there. Helen is having an affair with Kubelov, but the Bensons' home has been bugged and they try to flee to Mexico."
+    },
+    {
+      "chunk_id": "wikipedia:Sneaky Pete#0000",
+      "doc_id": "wikipedia:Sneaky Pete",
+      "title": "Sneaky Pete",
+      "url": "https://en.wikipedia.org/?curid=47942695",
+      "source_type": "wikipedia",
+      "score": 0.5969898462295532,
+      "text": "Sneaky Pete is an American comedy crime drama television series created by David Shore and Bryan Cranston. The series follows Marius Josipović (Giovanni Ribisi), a released convict who adopts the identity of his cellmate, Pete Murphy, to avoid his past life. The series also stars Marin Ireland, Shane McRae, Libe Barer, Michael Drayer, Peter Gerety and Margo Martindale. The pilot episode premiered on August 7, 2015, and was followed by a full series order that September. Shore left the project in early 2016 and was replaced by Graham Yost, who served as executive producer and showrunner for the remaining nine episodes. The first season premiered in its entirety on January 13, 2017, exclusively on Amazon Prime Video. On January 19, 2017, Amazon announced that Sneaky Pete had been renewed for a second season, which was released on March 9, 2018. On July 28, 2018, Amazon announced that the series had been renewed for a third season, which was released on May 10, 2019."
+    },
+    {
+      "chunk_id": "wikipedia:Geralt of Rivia#0001",
+      "doc_id": "wikipedia:Geralt of Rivia",
+      "title": "Geralt of Rivia",
+      "url": "https://en.wikipedia.org/?curid=14276148",
+      "source_type": "wikipedia",
+      "score": 0.5911262392997741,
+      "text": "over the role from the fourth season onward. Fictional biography Novels Geralt is a witcher, a magical mutant made for hunting and killing monsters. Shortly after being born, Geralt's mother, Visenna, gives him away to undergo training and, eventually, become a witcher at the School of the Wolf at Kaer Morhen – the stronghold of the Wolven school witchers. His mentor and father figure there was a wise man and warrior named Vesemir. Geralt survives mutations during the Trial..."
+    },
+    {
+      "chunk_id": "wikipedia:Four Horsemen of the Apocalypse#0001",
+      "doc_id": "wikipedia:Four Horsemen of the Apocalypse",
+      "title": "Four Horsemen of the Apocalypse",
+      "url": "https://en.wikipedia.org/?curid=39430",
+      "source_type": "wikipedia",
+      "score": 0.5650225788354873,
+      "text": "the first horseman rides a white horse, carries a bow, and is given a crown as a figure of conquest, perhaps invoking pestilence, or the Antichrist. The second carries a sword and rides a red horse as the creator of (civil) war, conflict, and strife. The third, a food merchant, rides a black horse symbolizing famine and carries a pair of scales. The fourth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Sneaky Pete#0001",
+      "doc_id": "wikipedia:Sneaky Pete",
+      "title": "Sneaky Pete",
+      "url": "https://en.wikipedia.org/?curid=47942695",
+      "source_type": "wikipedia",
+      "score": 0.5557143747806549,
+      "text": "released on March 9, 2018. On July 28, 2018, Amazon announced that the series had been renewed for a third season, which was released on May 10, 2019. On June 4, 2019, Amazon cancelled the series after three seasons. Premise Sneaky Pete follows Marius, a con man who gets out of prison only to find himself hunted by the vicious gangster he once robbed. With nowhere..."
+    },
+    {
+      "chunk_id": "wikipedia:Backseat#0000",
+      "doc_id": "wikipedia:Backseat",
+      "title": "Backseat",
+      "url": "https://en.wikipedia.org/?curid=8201491",
+      "source_type": "wikipedia",
+      "score": 0.5507404059171677,
+      "text": "Backseat or back seat may refer to: a car seat located at the rear of a vehicle Backseat (band), Danish pop / rock group Backseat (album), a 1986 album by Finnish hard rock band Peer Günt \"Backseat\" (song), a 2011 single by the New Boyz featuring The Cataracs and Dev \"Back Seat (of My Jeep)\",by LL Cool J, 1993 \"Backseat\", a song by Charli XCX from the 2017 mixtape Pop 2 \"Backseat\", a song by K.A.R.D's BM and Somin \"Back Seat (Wit No Sheets)\", a song by H-Town from the 1994 album Beggin' After Dark See also \"The Back Seat of My Car\", a 1971 single release from the Paul McCartney album Ram Back-seat driver, a passenger in a vehicle who is not the driver that gives unwanted advice and/or criticism to the driver Back Seat Drivers, an Australian television program"
+    },
+    {
+      "chunk_id": "wikipedia:Geralt of Rivia#0000",
+      "doc_id": "wikipedia:Geralt of Rivia",
+      "title": "Geralt of Rivia",
+      "url": "https://en.wikipedia.org/?curid=14276148",
+      "source_type": "wikipedia",
+      "score": 0.5267925918102264,
+      "text": "Geralt of Rivia (Polish: Geralt z Rivii) is a fictional character and the protagonist of The Witcher series of short stories and novels by Polish author Andrzej Sapkowski. He is a magically enhanced monster-hunter known as a \"witcher\", who possesses supernatural abilities due to his mutations. Geralt of Rivia is also the protagonist in CD Projekt Red's series of video games based on The Witcher. In television adaptations, he was portrayed by Michał Żebrowski in The Hexer film and television series. Henry Cavill portrays the character in the first three seasons of Netflix's The Witcher television series, with Tristan Ruggeri portraying a young Geralt in the first season, and Liam Hemsworth due to take over the role from the fourth season onward. Fictional biography Novels Geralt is a witcher, a magical mutant made for hunting and killing monsters."
+    },
+    {
+      "chunk_id": "wikipedia:Broccoli haircut#0001",
+      "doc_id": "wikipedia:Broccoli haircut",
+      "title": "Broccoli haircut",
+      "url": "https://en.wikipedia.org/?curid=77594266",
+      "source_type": "wikipedia",
+      "score": 0.5214456617832184,
+      "text": "among members of Generation Z, as well as \"bird's nest hair\", \"bussin haircut\" or \"alpaca hair\". It has been described as a variation on a bowl cut. History The precursor to the modern broccoli haircut first appeared in the early 1980s among fans of new wave groups such as Soft Cell, Talking Heads, A Flock of Seagulls, Duran Duran, The Jesus and Mary Chain, and Wham! It was a grown-out, unstyled version of the quiff popular in the early 1980s that was frequently permed or made to look..."
+    },
+    {
+      "chunk_id": "wikipedia:Sword#0001",
+      "doc_id": "wikipedia:Sword",
+      "title": "Sword",
+      "url": "https://en.wikipedia.org/?curid=27863",
+      "source_type": "wikipedia",
+      "score": 0.509006804227829,
+      "text": "Ages, at first adopted as the Migration Period sword, and only in the High Middle Ages, developed into the classical arming sword with crossguard. The word sword continues the Old English, sweord. The use of a sword is known as swordsmanship or, in a modern context, as fencing. In the early modern period, western sword design diverged into two forms, the thrusting swords and the sabres..."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.5082843452692032,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    }
+  ]
+}

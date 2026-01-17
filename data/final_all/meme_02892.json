@@ -1,0 +1,198 @@
+{
+  "meme_id": "meme_02892",
+  "queries": [
+    "\"the bil\" \"made\" \"ther\" \"pay\"",
+    "\"ther\" \"pay\" \"bil\" \"doesn\""
+  ],
+  "primary_terms": [
+    "made",
+    "the bil",
+    "Also them",
+    "ther",
+    "pay",
+    "bil",
+    "doesn",
+    "fet",
+    "use",
+    "also",
+    "ole",
+    "gconimsion"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Cashier#0000",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.9713030338287354,
+      "text": "A retail cashier or simply a cashier is a person who handles the cash register at various locations such as the point of sale in a retail store. The most common use of the title is in the retail industry, but this job title is also used in the context of accountancy for the person responsible for receiving and disbursing money or within branch banking in the United Kingdom for the job known in the United States as a bank teller. Retail In a shop, a cashier (or checkout operator) is an employee who scans the goods that the customer wishes to purchase through a cash register. In most modern stores, the items are scanned by a barcode positioned on the item with the use of a laser scanner. After all of the items have been scanned, the cashier then collects the payment (in cash, check, and/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers."
+    },
+    {
+      "chunk_id": "wikipedia:Jake Paul#0000",
+      "doc_id": "wikipedia:Jake Paul",
+      "title": "Jake Paul",
+      "url": "https://en.wikipedia.org/?curid=51021695",
+      "source_type": "wikipedia",
+      "score": 0.7941851854324341,
+      "text": "Jake Joseph Paul (born January 17, 1997) is an American professional boxer, influencer and actor. He began his career posting videos on Vine in September 2013 and had amassed 5.3 million followers and 2 billion views before the app was discontinued. He launched his YouTube channel, Jake Paul, in May 2014, and was ranked by Forbes as one of the highest-paid YouTube creators of the 2010s and 2020s. As an actor, Paul's first role in a feature film was in the 2016 film Dance Camp. He went on to star as Dirk Mann on the Disney Channel series Bizaardvark (2016–2018) and appear in the films Airplane Mode (2019), Mainstream (2020), and A Genie's Tail (2022). He has also made guest appearances in the television series Walk the Prank (2016), The Price Is Right (2017), and Ridiculousness (2020). Paul's boxing career began in August 2018 with a white-collar boxing match against Deji Olatunji, which he won via technical knockout. His professional boxing debut was against AnEsonGib in January 2020."
+    },
+    {
+      "chunk_id": "wikipedia:Money#0001",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.7823596626520157,
+      "text": "be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar. The money supply of a country comprises all currency in circulation (banknotes and coins currently issued) and, depending on the particular definition used, one or more types of bank money (the balances held in checking accounts, savings accounts, and other types of bank accounts). Bank money, whose value exists on the books of financial institutions and can be converted..."
+    },
+    {
+      "chunk_id": "wikipedia:Sales#0001",
+      "doc_id": "wikipedia:Sales",
+      "title": "Sales",
+      "url": "https://en.wikipedia.org/?curid=155698",
+      "source_type": "wikipedia",
+      "score": 0.7741612225770951,
+      "text": "of the item will occur. The seller, not the purchaser, typically executes the sale and it may be completed prior to the obligation of payment. In the case of indirect interaction, a person who sells goods or service on behalf of the owner is known as a salesman or saleswoman or salesperson, but this often refers to someone selling goods in a store/shop, in which case other terms are also common, including salesclerk, shop assistant, and retail clerk. In common law countries, sales are governed generally by the common law and commercial codes. In the United States, the laws governing..."
+    },
+    {
+      "chunk_id": "wikipedia:Store#0000",
+      "doc_id": "wikipedia:Store",
+      "title": "Store",
+      "url": "https://en.wikipedia.org/?curid=43365305",
+      "source_type": "wikipedia",
+      "score": 0.7549623042345047,
+      "text": "Store may refer to: Enterprises Retail store, a shop where merchandise is sold, usually products and usually on a retail basis, and where wares are often kept App store, an online retail store where apps are sold, included in many mobile operating systems Department store, a retail store offering a wide range of consumer goods Warehouse club (or wholesale club), a no-frills retail store, usually selling a wide variety of merchandise, in which customers may buy large, wholesale quantities at low prices Warehouse, a location where items are stored, e.g., a ship's paint store, and sometimes sold, e.g., Costco Warehouse Club Arts, entertainment, and media The Store (ITV), a British shopping television programming on ITV1 The Store (novel), a 1932 novel by Thomas Sigismund Stribling \"Store\", a song by Carly Rae Jepsen from the EP Emotion: Side B Other uses Data store, a repository for persistently storing and managing collections of data Štore, a town and a municipality in eastern Slovenia"
+    },
+    {
+      "chunk_id": "wikipedia:Charmer#0001",
+      "doc_id": "wikipedia:Charmer",
+      "title": "Charmer",
+      "url": "https://en.wikipedia.org/?curid=40421866",
+      "source_type": "wikipedia",
+      "score": 0.7479207247495652,
+      "text": "2007 \"Charmer\" (N-Dubz song), 2022 Other uses Charmer (folklore), English practitioners of a specific kind of folk magic Charmers, comic strip by Hallmark Cards (1975–1981) See also Charm (disambiguation) Snake charmer (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Money#0000",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.7411704927682876,
+      "text": "Money is any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts, such as taxes, in a particular country or socio-economic context. The primary functions which distinguish money are: medium of exchange, a unit of account, a store of value and sometimes, a standard of deferred payment. Money was historically an emergent market phenomenon that possessed intrinsic value as a commodity; nearly all contemporary money systems are based on unbacked fiat money without use value. Its value is consequently derived by social convention, having been declared by a government or regulatory entity to be legal tender; that is, it must be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar."
+    },
+    {
+      "chunk_id": "wikipedia:Builder#0000",
+      "doc_id": "wikipedia:Builder",
+      "title": "Builder",
+      "url": "https://en.wikipedia.org/?curid=2518249",
+      "source_type": "wikipedia",
+      "score": 0.7309923022985458,
+      "text": "Builder may refer to: Construction Construction worker, who specializes in building work Carpenter, a skilled craftsman who works with wood General contractor, that specializes in building work Subcontractor Real estate developer, who causes buildings to be constructed Media Builders (film), a 1942 British propaganda film The Builder (film), 2010 film The Builder, British magazine now known as Building Builder, American magazine published by Zonda Home \"The Builder\" (short story), a 1953 short story by Philip K. Dick \"The Builders\", an episode in the 1970s British television comedy Fawlty Towers \"Builder\" (Not Going Out), a 2019 television episode Builders, international music group also known as The Bilders, Bilderbergers and Bilderine Other Builder (detergent), a component of modern detergents Builder (hockey), in ice hockey, manages or builds the game Builder (United States Navy), U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Works#0000",
+      "doc_id": "wikipedia:Works",
+      "title": "Works",
+      "url": "https://en.wikipedia.org/?curid=523904",
+      "source_type": "wikipedia",
+      "score": 0.6721021115779877,
+      "text": "Works may refer to: People Caddy Works (1896–1982), American college sports coach John D. Works (1847–1928), California senator and judge Samuel Works (c. 1781–1868), New York politician Albums Works (Pink Floyd album), a Pink Floyd album from 1983 Works, a Gary Burton album from 1972 Works, a Status Quo album from 1983 Works, a John Abercrombie album from 1991 Works, a Pat Metheny album from 1994 Works, an Alan Parson Project album from 2002 Works Volume 1, a 1977 Emerson, Lake & Palmer album Works Volume 2, a 1977 Emerson, Lake & Palmer album The Works, a 1984 Queen album Other uses Good works, a topic in Christian theology Microsoft Works, a collection of office productivity programs created by Microsoft IBM Works, an office suite for the IBM OS/2 operating system Mount Works, Victoria Land, Antarctica TV Works, the former name of defunct Singaporean television channel Channel i (Singaporean TV channel) See also The Works (disambiguation) Work (disambiguation) All pages with titles"
+    },
+    {
+      "chunk_id": "wikipedia:Call#0000",
+      "doc_id": "wikipedia:Call",
+      "title": "Call",
+      "url": "https://en.wikipedia.org/?curid=40829",
+      "source_type": "wikipedia",
+      "score": 0.6111760109663009,
+      "text": "Call or Calls may refer to: Arts, entertainment, and media Games Call (poker), a bet matching an opponent's Call, in the game of contract bridge, a bid, pass, double, or redouble in the bidding stage Music and dance Call (band), from Lahore, Pakistan Call, a command in square dancing, delivered by a caller \"Call / I4U\", a 2011 single by Japanese music group AAA \"Call\", a 2002 song by Ashanti from her album Ashanti \"Call\" (Stray Kids song), 2021 Film Call (film), or The Call, 2020 South Korean film Calls (film), 2021 Indian Tamil-language crime thriller film Television Calls (TV series), a mystery thriller TV series on Apple TV+ Finance Call on shares, a request for a further payment on partly paid share capital Call option, a term in stock trading Places Call, North Carolina, United States Call, Texas, United States Science and technology Computing Call, a shell command in DOS, OS/2 and Microsoft Windows command-line interpreters Call, a method of invoking a subroutine, including"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A blonde woman looks concerned.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that though the meme poster got the connection with some adjustments from them, the meme poster doesn't let them use TV.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the connection",
+          "some adjustments"
+        ]
+      },
+      "title": {
+        "text": "meme I made",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "made"
+        ]
+      },
+      "text": {
+        "text": "Ther: We pay the bil Me: *doesn't fet them use my TV* Also them: ‘ys AW Vy . Wy \\ ole GConimsion)) -",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the bil",
+          "Also them",
+          "ther",
+          "pay",
+          "bil",
+          "doesn",
+          "fet",
+          "use",
+          "also",
+          "ole",
+          "gconimsion"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "made",
+      "the bil",
+      "Also them",
+      "ther",
+      "pay",
+      "bil",
+      "doesn",
+      "fet",
+      "use",
+      "also",
+      "ole",
+      "gconimsion"
+    ],
+    "secondary_terms": [
+      "the connection",
+      "some adjustments"
+    ],
+    "queries": [
+      "\"the bil\" \"made\" \"ther\" \"pay\"",
+      "\"ther\" \"pay\" \"bil\" \"doesn\""
+    ]
+  },
+  "source_jsonl_id": null
+}

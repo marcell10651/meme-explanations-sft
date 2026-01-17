@@ -1,0 +1,118 @@
+{
+  "meme_id": "meme_00526",
+  "queries": [
+    "\"How tine inal fs this thing\" \"black bear = black bear, brown bear = brown bear\" \"Cad\" \"black\"",
+    "\"Cad\" \"black\" \"bear\" \"brown\""
+  ],
+  "primary_terms": [
+    "black bear = black bear, brown bear = brown bear",
+    "black",
+    "bear",
+    "brown",
+    "How tine inal fs this thing",
+    "Cad",
+    "tine",
+    "inal",
+    "known",
+    "wihlite",
+    "bean",
+    "saas",
+    "voy",
+    "moo",
+    "ere",
+    "vis",
+    "vet"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0000",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.9263592600822449,
+      "text": "The Oompa-Loompas are a fictional race of people in the Charlie and the Chocolate Factory franchise based on the original book by Roald Dahl. In all versions of the story, they are depicted as little people who form the workforce of Willy Wonka's chocolate factory, and are paid in cocoa beans. However, their appearance and backstory change depending on the version. Design and characteristics The Oompa-Loompas are described as being no larger than medium-sized dolls, with rosy-white skin and long golden-brown hair. They wear the same clothes they wore at Loompaland: the men wear deerskins, the women wear leaves and the children wear nothing at all. Before moving to Willy Wonka's chocolate factory, the Oompa-Loompas lived in Loompaland, where they lived in constant fear of the predators that would eat them. Their main source of food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting."
+    },
+    {
+      "chunk_id": "wikipedia:Black#0000",
+      "doc_id": "wikipedia:Black",
+      "title": "Black",
+      "url": "https://en.wikipedia.org/?curid=4035",
+      "source_type": "wikipedia",
+      "score": 0.8378500163555145,
+      "text": "Black is a color that results from the absence or complete absorption of visible light. It is an achromatic color, without chroma, like white and grey. It is often used symbolically or figuratively to represent darkness. Black and white have often been used to describe opposites such as good and evil, the Dark Ages versus the Age of Enlightenment, and night versus day. Since the Middle Ages, black has been the symbolic color of solemnity and authority, and for this reason it is still commonly worn by judges and magistrates. Black was one of the first colors used by artists in Neolithic cave paintings. It was used in ancient Egypt and Greece as the color of the underworld. In the Roman Empire, it became the color of mourning, and over the centuries it was frequently associated with death, evil, witches, and magic. In the 14th century, it was worn by royalty, clergy, judges, and government officials in much of Europe."
+    },
+    {
+      "chunk_id": "wikipedia:Color#0000",
+      "doc_id": "wikipedia:Color",
+      "title": "Color",
+      "url": "https://en.wikipedia.org/?curid=5921",
+      "source_type": "wikipedia",
+      "score": 0.8325071454048156,
+      "text": "Color (or colour in Commonwealth English; see spelling differences) is the visual perception based on the electromagnetic spectrum. Though color is not an inherent property of matter, color perception is related to an object's light absorption, emission, reflection and transmission. For most humans, visible wavelengths of light are the ones perceived in the visible light spectrum, with three types of cone cells (trichromacy). Other animals may have a different number of cone cell types or have eyes sensitive to different wavelengths, such as bees that can distinguish ultraviolet, and thus have a different color sensitivity range. Animal perception of color originates from different light wavelength or spectral sensitivity in cone cell types, which is then processed by the brain. Colors have perceived properties such as hue, colorfulness, and lightness. Colors can also be additively mixed (mixing light) or subtractively mixed (mixing pigments)."
+    },
+    {
+      "chunk_id": "wikipedia:Drawing#0000",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.7939367473125458,
+      "text": "Drawing is a visual art that uses an instrument to mark paper or another two-dimensional surface, or a digital representation of such. Traditionally, the instruments used to create a drawing include pencils, crayons, and ink pens, sometimes in combination. More modern tools include computer styluses with mice and graphics tablets and gamepads in VR drawing software. A drawing instrument releases a small amount of material onto a surface, leaving a visible mark. There are many drawing instruments such as pen, pencils, pastel, crayons, markers, color pencils, water color, and more. The most common support for drawing is paper, although other materials, such as cardboard, vellum, wood, plastic, leather, canvas, and board, have been used. Temporary drawings may be made on a blackboard or whiteboard. Drawing has been a popular and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0001",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.7594819784164428,
+      "text": "food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting. Their favorite food is cocoa beans. When Willy Wonka arrived, he told the chief he and his people can come live and work at his factory and have all the cocoa beans they want. In the first edition of Charlie..."
+    },
+    {
+      "chunk_id": "wikipedia:Brand#0000",
+      "doc_id": "wikipedia:Brand",
+      "title": "Brand",
+      "url": "https://en.wikipedia.org/?curid=18950900",
+      "source_type": "wikipedia",
+      "score": 0.7542851597070694,
+      "text": "A brand is a name, term, design, symbol or any other feature that distinguishes one seller's goods or service from those of other sellers. Brands are used in business, marketing, and advertising for recognition and, importantly, to create and store value as brand equity for the object identified, to the benefit of the brand's customers, its owners and shareholders. Brand names are sometimes distinguished from generic or store brands. The practice of branding—in the original literal sense of marking by burning—is thought to have begun with the ancient Egyptians, who are known to have engaged in livestock branding and branded slaves as early as 2,700 BCE. Branding was used to differentiate one person's cattle from another's by means of a distinctive symbol burned into the animal's skin with a hot branding iron. If a person stole any of the cattle, anyone else who saw the symbol could deduce the actual owner."
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0000",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.7427573084831238,
+      "text": "Cant, CANT, canting, or canted may refer to: Language Cant (language), a secret language Beurla Reagaird, a language of the Scottish Highland Travellers Scottish Cant, a language of the Scottish Lowland Travellers Shelta or the Cant, a language of the Irish Travellers Thieves' cant, a language of criminals Canting arms, heraldic puns on the bearer's name Can't, contraction of cannot Other uses Cant (architecture), part of a facade CANT (aviation) (Cantieri Aeronautici e Navali Triestini), an aircraft manufacturer Cant (log), a log partially processed in a sawmill Cant (road/rail), an angle of a road or track Cant (shooting), referring to a gun being tilted around the longitudinal axis, rather than being horizontally levelled Cant (surname), a family name and persons with it Canting, a tool used in making batik Chris Taylor (Grizzly Bear musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation"
+    },
+    {
+      "chunk_id": "wikipedia:Suit#0001",
+      "doc_id": "wikipedia:Suit",
+      "title": "Suit",
+      "url": "https://en.wikipedia.org/?curid=339784",
+      "source_type": "wikipedia",
+      "score": 0.7342702627182007,
+      "text": "clothes. After replacing the black frock coat in the early 20th century as regular daywear, a sober one-coloured suit became known as a lounge suit. Suits are offered in different designs and constructions. Cut and cloth, whether two- or three-piece, single- or double-breasted, vary, in addition to various accessories. A two-piece suit has a jacket and trousers..."
+    },
+    {
+      "chunk_id": "wikipedia:White#0000",
+      "doc_id": "wikipedia:White",
+      "title": "White",
+      "url": "https://en.wikipedia.org/?curid=17599355",
+      "source_type": "wikipedia",
+      "score": 0.7000439137220382,
+      "text": "White is the lightest color and is achromatic (having no chroma). It is the color of objects such as snow, chalk, and milk, and is the opposite of black. White objects fully (or almost fully) reflect and scatter all the visible wavelengths of light. White on television and computer screens is created by a mixture of red, blue, and green light. The color white can be given with white pigments, especially titanium dioxide. In ancient Egypt and ancient Rome, priestesses wore white as a symbol of purity, and Romans wore white togas as symbols of citizenship. In the Middle Ages and Renaissance a white unicorn symbolized chastity, and a white lamb sacrifice and purity. It was the royal color of the kings of France as well as the flag of monarchist France from 1815 to 1830, and of the monarchist movement that opposed the Bolsheviks during the Russian Civil War (1917–1922)."
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0000",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.6424912273883819,
+      "text": "Graphics (from Ancient Greek γραφικός (التصميم) 'pertaining to drawing, painting, writing, etc.') are visual images or designs on some surface, such as a wall, canvas, screen, paper, or stone, to inform, illustrate, or entertain. In contemporary usage, it includes a pictorial representation of data, as in design and manufacture, in typesetting and the graphic arts, and in educational and recreational software. Images that are generated by a computer are called computer graphics. Examples are photographs, drawings, line art, mathematical graphs, line graphs, charts, diagrams, typography, numbers, symbols, geometric designs, maps, engineering drawings, or other images. Graphics often combine text, illustration, and color. Graphic design may consist of the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element."
+    }
+  ]
+}

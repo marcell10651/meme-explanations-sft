@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_04597",
+  "queries": [
+    "\"Pin\" \"the moisture\" \"the world\" \"can\"",
+    "\"the world\" \"can\" \"spare\" \"moisture\""
+  ],
+  "primary_terms": [
+    "the moisture",
+    "can",
+    "spare",
+    "moisture",
+    "the world",
+    "chaos",
+    "Pin",
+    "boss"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Rain#0000",
+      "doc_id": "wikipedia:Rain",
+      "title": "Rain",
+      "url": "https://en.wikipedia.org/?curid=19009110",
+      "source_type": "wikipedia",
+      "score": 0.7764607191085815,
+      "text": "Rain is a form of precipitation where water droplets that have condensed from atmospheric water vapor fall by gravity. Rain is a major component of the water cycle and is responsible for depositing most of the fresh water on the Earth. It provides water for hydroelectric power plants, crop irrigation, and suitable conditions for many types of ecosystems. The major cause of rain production is moisture moving along three-dimensional zones of temperature and moisture contrasts known as weather fronts. If enough moisture and upward motion is present, precipitation falls from convective clouds (those with strong upward vertical motion) such as cumulonimbus (thunder clouds) which can organize into narrow rainbands. In mountainous areas, heavy precipitation is possible where upslope flow is maximized within windward sides of the terrain at elevation which forces moist air to condense and fall out as rainfall along the sides of mountains."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.7087998151779175,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Water#0001",
+      "doc_id": "wikipedia:Water",
+      "title": "Water",
+      "url": "https://en.wikipedia.org/?curid=33306",
+      "source_type": "wikipedia",
+      "score": 0.6752984523773193,
+      "text": "'s triple point, water exists on Earth as a solid, a liquid, and a gas. It forms precipitation in the form of rain and aerosols in the form of fog. Clouds consist of suspended droplets of water and ice, its solid state. When finely divided, crystalline ice may precipitate in the form of snow. The gaseous state of water is steam or water vapor. Water covers about 71.0% of the Earth's surface..."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0001",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.6428324937820434,
+      "text": "the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes. In theories of syntax, a phrase is any group of words, or sometimes a single word, which plays a particular role within the syntactic structure of a sentence. It does not have to have any special meaning or significance, or even exist anywhere outside of the sentence being analyzed, but it must function there as a complete grammatical unit..."
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0000",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.6337204337120056,
+      "text": "Cant, CANT, canting, or canted may refer to: Language Cant (language), a secret language Beurla Reagaird, a language of the Scottish Highland Travellers Scottish Cant, a language of the Scottish Lowland Travellers Shelta or the Cant, a language of the Irish Travellers Thieves' cant, a language of criminals Canting arms, heraldic puns on the bearer's name Can't, contraction of cannot Other uses Cant (architecture), part of a facade CANT (aviation) (Cantieri Aeronautici e Navali Triestini), an aircraft manufacturer Cant (log), a log partially processed in a sawmill Cant (road/rail), an angle of a road or track Cant (shooting), referring to a gun being tilted around the longitudinal axis, rather than being horizontally levelled Cant (surname), a family name and persons with it Canting, a tool used in making batik Chris Taylor (Grizzly Bear musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation"
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0001",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.6152946710586548,
+      "text": "musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation for their name in post-nominal letters See also CANT (disambiguation) All pages with titles containing Cant Canté, a commune in Ariège, France Canter (disambiguation) Canticle Kant (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Country#0000",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.5918859809637069,
+      "text": "A country is an area of land, colloquially used as a synonym for sovereign state or other political entities, but also used to refer to the hinterland surrounding urban areas, as well as to describe the culture of people living in these places. Usually, the term country is applied to occupied areas of land, however it can be used to refer to uninhabited areas or wastelands. When referring to a specific polity, the term \"country\" may refer to a sovereign state, a state with limited recognition, a constituent country, or a dependent territory. Most sovereign states, but not all countries, are members of the United Nations. There is no universal agreement on the number of \"countries\" in the world with a range between 193 to 237. This ambiguity is a result of several states having disputed sovereignty status or limited recognition, and a number of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time."
+    },
+    {
+      "chunk_id": "wikipedia:Rain#0001",
+      "doc_id": "wikipedia:Rain",
+      "title": "Rain",
+      "url": "https://en.wikipedia.org/?curid=19009110",
+      "source_type": "wikipedia",
+      "score": 0.5762572646141052,
+      "text": "maximized within windward sides of the terrain at elevation which forces moist air to condense and fall out as rainfall along the sides of mountains. On the leeward side of mountains, desert climates can exist due to the dry air caused by downslope flow which causes heating and drying of the air mass. The movement of the monsoon trough, or Intertropical Convergence Zone, brings rainy seasons to savannah..."
+    },
+    {
+      "chunk_id": "wikipedia:Point#0001",
+      "doc_id": "wikipedia:Point",
+      "title": "Point",
+      "url": "https://en.wikipedia.org/?curid=48221",
+      "source_type": "wikipedia",
+      "score": 0.5664223432540894,
+      "text": "rainfall in Australia Point (typography) Points, an antler's size by the number of its tips Printer point, an unit of relative exposure in photography Navigation One of the 32 directional points of the compass Point of sail, a sailing craft's direction of travel in relation to wind direction Point, the direction of an object by its..."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0000",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.5499547779560089,
+      "text": "In grammar, a phrase — called an expression in some contexts — is a group of one or more words acting as a grammatical unit. For instance, the English expression \"the very happy squirrel\" is a noun phrase which contains the adjective phrase \"very happy\". Phrases can consist of a single word or a complete sentence. In theoretical linguistics, phrases are often analyzed as units of syntactic structure such as a constituent. There is a difference between the common use of the term phrase and its technical use in linguistics. In common usage, a phrase is usually a group of words with some special idiomatic meaning or other significance, such as \"all rights reserved\", \"economical with the truth\", or \"kick the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes."
+    }
+  ]
+}

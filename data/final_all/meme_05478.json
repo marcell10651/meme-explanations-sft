@@ -1,0 +1,181 @@
+{
+  "meme_id": "meme_05478",
+  "queries": [
+    "\"The year\" \"the future\" \"car\" \"year\"",
+    "\"The year\" \"the past thought\" \"the future\" \"car\"",
+    "\"the future\" \"car\" \"year\" \"color\""
+  ],
+  "primary_terms": [
+    "car",
+    "The year",
+    "year",
+    "the future"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Century#0001",
+      "doc_id": "wikipedia:Century",
+      "title": "Century",
+      "url": "https://en.wikipedia.org/?curid=5881",
+      "source_type": "wikipedia",
+      "score": 1.4060716450214386,
+      "text": "a multiple of 100 (except the first century as it began after the year 1 BC) and ends with the next coming year with a multiple of 100 (100n), i.e. the 20th century comprises the years 1901 to 2000, and the 21st century comprises the years 2001 to 2100 in strict usage. In common perception and practice, centuries are structured by grouping years based on sharing..."
+    },
+    {
+      "chunk_id": "wikipedia:Decade#0000",
+      "doc_id": "wikipedia:Decade",
+      "title": "Decade",
+      "url": "https://en.wikipedia.org/?curid=695530",
+      "source_type": "wikipedia",
+      "score": 1.2857218444347382,
+      "text": "A decade (from Ancient Greek: δεκάς, dekas, lit. 'group of 10') is a period of 10 years. It may also be called a decennium (from Latin: decennium, lit. 'ten-year'). Decades may describe any ten-year period, such as those of a person's life, or refer to specific groupings of calendar years. Usage Any period of ten years is a 'decade' or 'decennium'. For example, the statement that \"during his last decade, Mozart explored chromatic harmony to a degree rare at the time\" refers to the last 10 years of Wolfgang Amadeus Mozart's life without regard to which calendar years are encompassed. Also, 'the first decade' of a person's life begins on the day of their birth and ends at the end of their 10th year of life when they have their 10th birthday; the second decade of life starts with their 11th year of life (during which one is typically still referred to as being \"10\") and ends at the end of their 20th year of life, on their 20th birthday; similarly, the third decade of life, when one is in"
+    },
+    {
+      "chunk_id": "wikipedia:Year#0000",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 1.1131629705429078,
+      "text": "A year is a unit of time based on how long it takes the Earth to orbit the Sun. In scientific use, the tropical year (approximately 365 solar days, 5 hours, 48 minutes, 45 seconds) and the sidereal year (about 20 minutes longer) are more exact. The modern calendar year, as reckoned according to the Gregorian calendar, approximates the tropical year by using a system of leap years. The term 'year' is also used to indicate other periods of roughly similar duration, such as the lunar year (a roughly 354-day cycle of twelve of the Moon's phases – see lunar calendar), as well as periods loosely associated with the calendar or astronomical year, such as the seasonal year, the fiscal year, the academic year, etc. Due to the Earth's axial tilt, the course of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility."
+    },
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.9556494414806366,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0000",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.907948112487793,
+      "text": "Millennials, also known as Generation Y or Gen Y, are the demographic cohort following Generation X and preceding Generation Z. Researchers and popular media use the early 1980s as starting birth years and the mid-1990s to early 2000s as ending birth years, with the generation typically being defined as people born from 1981 to 1996. Most millennials are the children of baby boomers and older Gen Xers, and are often the parents of Generation Alpha. As children in the late 1980s to 2000s, millennials saw the rise of the Information Age and Internet, being described by some as the first global generation. As adolescents and young adults in the late 1990s to 2010s, the generation was marked by a more upbeat youth culture, elevated familiarity with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace."
+    },
+    {
+      "chunk_id": "wikipedia:Time travel#0000",
+      "doc_id": "wikipedia:Time travel",
+      "title": "Time travel",
+      "url": "https://en.wikipedia.org/?curid=31591",
+      "source_type": "wikipedia",
+      "score": 0.907193124294281,
+      "text": "Time travel is the hypothetical activity of traveling into the past or future. Time travel is a concept in philosophy, space, time and fiction, particularly science fiction. In fiction, time travel is typically achieved through the use of a device known as a time machine. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine. It is uncertain whether time travel to the past would be physically possible. Such travel, if at all feasible, may give rise to questions of causality. Forward time travel, outside the usual sense of the perception of time, is an extensively observed phenomenon and is well understood within the framework of special relativity and general relativity. However, making one body advance or delay more than a few milliseconds compared to another body is not feasible with current technology. As for backward time travel, it is possible to find solutions in general relativity that allow for it, such as a rotating black hole."
+    },
+    {
+      "chunk_id": "wikipedia:Backseat#0000",
+      "doc_id": "wikipedia:Backseat",
+      "title": "Backseat",
+      "url": "https://en.wikipedia.org/?curid=8201491",
+      "source_type": "wikipedia",
+      "score": 0.8436296641826629,
+      "text": "Backseat or back seat may refer to: a car seat located at the rear of a vehicle Backseat (band), Danish pop / rock group Backseat (album), a 1986 album by Finnish hard rock band Peer Günt \"Backseat\" (song), a 2011 single by the New Boyz featuring The Cataracs and Dev \"Back Seat (of My Jeep)\",by LL Cool J, 1993 \"Backseat\", a song by Charli XCX from the 2017 mixtape Pop 2 \"Backseat\", a song by K.A.R.D's BM and Somin \"Back Seat (Wit No Sheets)\", a song by H-Town from the 1994 album Beggin' After Dark See also \"The Back Seat of My Car\", a 1971 single release from the Paul McCartney album Ram Back-seat driver, a passenger in a vehicle who is not the driver that gives unwanted advice and/or criticism to the driver Back Seat Drivers, an Australian television program"
+    },
+    {
+      "chunk_id": "wikipedia:Believe#0001",
+      "doc_id": "wikipedia:Believe",
+      "title": "Believe",
+      "url": "https://en.wikipedia.org/?curid=4678533",
+      "source_type": "wikipedia",
+      "score": 0.8209521323442459,
+      "text": "or the title song (see below), 2009 Believe (Disturbed album), or the title song, 2002 Believe (Emerson Drive album), or the title song, 2009 Believe (Girlschool album), 2004 Believe (Jai McDowall album), 2011 Believe (The Jets album), 1989 Believe (Justin Bieber album), or the title song, 2012 Believe (Katherine Jenkins album), 2009..."
+    },
+    {
+      "chunk_id": "wikipedia:Use Your Fingers#0001",
+      "doc_id": "wikipedia:Use Your Fingers",
+      "title": "Use Your Fingers",
+      "url": "https://en.wikipedia.org/?curid=2317950",
+      "source_type": "wikipedia",
+      "score": 0.8054045796394348,
+      "text": "two decades later is how much this album not only shouldn't exist from a legal perspective, but how it managed to predict so much of the 20 years of musical trends that followed it,\" and praising it as a \"unique entry in the hip-hop canon from a sampling production standpoint, an impressive assortment of acknowledgments from a pop culture junkie..."
+    },
+    {
+      "chunk_id": "wikipedia:Before#0000",
+      "doc_id": "wikipedia:Before",
+      "title": "Before",
+      "url": "https://en.wikipedia.org/?curid=39628822",
+      "source_type": "wikipedia",
+      "score": 0.7741897463798523,
+      "text": "Before is the opposite of after, and may refer to: Literature \"Before\" (short story) by Gael Baudino, 1996 Before by Anna Todd, 2015 Music Before (Gold Panda EP), 2009 Before (James Blake EP), 2020 \"Before\" (song), a 1996 song by the Pet Shop Boys \"Before\", a song by the Empire of the Sun from Two Vines \"Before\", a song by Anastacia from Evolution Television and film Before trilogy, by Richard Linklater Before Sunrise, 1995 Before Sunset, 2004 Before Midnight, 2013 Before (TV series), 2024 See also Before Christ (BC), an epoch used in dating years prior to the estimated birth of Jesus Before Common Era (BCE), an alternative naming of the traditional calendar era primarily used in academic circles Before Present (BP), a timescale used mainly in geology All pages with titles beginning with Before All pages with titles containing Before"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man's face is shown in color and then black and white.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "color"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that the future is not as bright as people in the past thought.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the future",
+          "people",
+          "the past thought"
+        ]
+      },
+      "title": {
+        "text": "Where's my flying car?",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "car"
+        ]
+      },
+      "text": {
+        "text": "The year actual 2022 In year 2022 1940 Say the future : - cn isbright Po (2 fuk",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The year",
+          "year",
+          "the future"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "car",
+      "The year",
+      "year",
+      "the future"
+    ],
+    "secondary_terms": [
+      "color",
+      "the future",
+      "people",
+      "the past thought"
+    ],
+    "queries": [
+      "\"The year\" \"the future\" \"car\" \"year\"",
+      "\"The year\" \"the past thought\" \"the future\" \"car\"",
+      "\"the future\" \"car\" \"year\" \"color\""
+    ]
+  },
+  "source_jsonl_id": null
+}

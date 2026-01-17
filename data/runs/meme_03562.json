@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_03562",
+  "queries": [
+    "\"Home heating\" \"pretty sus ngl\" \"Lookin\" \"sus\"",
+    "\"Lookin\" \"sus\" \"home\" \"heating\""
+  ],
+  "primary_terms": [
+    "Lookin",
+    "pretty sus ngl",
+    "sus",
+    "Home heating",
+    "home",
+    "heating",
+    "turns",
+    "cats"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Home#0000",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.7108297407627105,
+      "text": "A home, or domicile, is a space used as a permanent or semi-permanent residence for one or more human occupants, and sometimes various companion animals. Homes provide sheltered spaces, for instance rooms, where domestic activity can be performed such as sleeping, preparing food, eating and hygiene as well as providing spaces for work and leisure such as remote working, studying and playing. Physical forms of homes can be static such as a house or an apartment, mobile such as a houseboat, trailer or yurt or digital such as virtual space. The aspect of 'home' can be considered across scales; from the micro scale showcasing the most intimate spaces of the individual dwelling and direct surrounding area to the macro scale of the geographic area such as town, village, city, country or planet. The concept of 'home' has been researched and theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.7017162442207336,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.676906144618988,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.6375269949436188,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Young Boy#0001",
+      "doc_id": "wikipedia:Young Boy",
+      "title": "Young Boy",
+      "url": "https://en.wikipedia.org/?curid=11418335",
+      "source_type": "wikipedia",
+      "score": 0.6258460998535156,
+      "text": "\"Looking for You\" and \"Broomstick\". In the United States, Capitol Records chose to issue \"The World Tonight\" as the album's lead single instead. Track listings UK CD1 and Australian CD single \"Young Boy\" (with Steve Miller) – 3:54 \"Looking for You\" (with Ringo Starr and Jeff Lynne) – 4:38 \"Oobu Joobu\" (Part 1) – 9:54 UK CD2 \"Young Boy\" (with Steve Miller) – 3:54 \"Broomstick\" (with Steve Miller) – 5:09 \"Oobu Joobu\" (Part 2) – 10:19 Japanese CD single \"Young Boy\" (with Steve Miller) – 3:55 \"Looking for You\" (with Ringo Starr and Jeff Lynne) – 4:38 \"Oobu Joobu\" The \"Oobu Joobu\" tracks are a series of home demos, interviews, and unreleased songs..."
+    },
+    {
+      "chunk_id": "wikipedia:House#0000",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.6235906541347503,
+      "text": "A house is a single-unit residential building. It may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems. Houses use a range of different roofing systems to keep precipitation such as rain from getting into the dwelling space. Houses generally have doors or locks to secure the dwelling space and protect its inhabitants and contents from burglars or other trespassers. Most conventional modern houses in Western cultures will contain one or more bedrooms and bathrooms, a kitchen or cooking area, and a living room. A house may have a separate dining room, or the eating area may be integrated into the kitchen or another room. Some large houses in North America have a recreation room. In traditional agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.6187782347202301,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.5858027994632721,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0000",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.5733556360006332,
+      "text": "To look is to use sight to perceive an object. Look or The Look may refer to: Businesses and products Look (modeling agency), an Israeli modeling agency Look (American magazine), a defunct general-interest magazine Look (the UK magazine), a defunct fashion and celebrity magazine Look (cigarette), a Danish brand Look!, a candy bar made by Annabelle Candy Company Look (company), a French bicycle components and frames Film and television The Look, a 2003 American film starring Teresa Hill Look (2007 film), an American drama by Adam Rifkin Look: The Series, an American television drama series, also by Adam Rifkin, related to the film Look (2009 film), an American avant-garde short film directed by Ryan Pickett \"The Look\", an episode of American television sitcom Home Improvement Music Look (Beth Nielsen Chapman album) Look (EP), by Apink (2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by"
+    },
+    {
+      "chunk_id": "wikipedia:Belong#0000",
+      "doc_id": "wikipedia:Belong",
+      "title": "Belong",
+      "url": "https://en.wikipedia.org/?curid=13644514",
+      "source_type": "wikipedia",
+      "score": 0.5713701605796814,
+      "text": "Belong may refer to: Music Belong (band), an American experimental music duo Albums Belong (Kevin Walker album) or the title song, 2013 Belong (The Pains of Being Pure at Heart album) or the title song, 2011 Belong, by San Fermin, or the title song, 2017 Belong, an EP by X Ambassadors, 2020 Songs \"Belong\" (Axwell and Shapov song), 2016 \"Belong\", by Conrad Sewell from Life, 2019 \"Belong\", by Dashboard Confessional from Crooked Shadows, 2018 \"Belong\", by Editors from Violence, 2018 \"Belong\", by Hilary Duff from Breathe In. Breathe Out., 2015 \"Belong\", by Joshua Radin, 2015 \"Belong\", by R.E.M. from Out of Time, 1991 Other uses Belongingness, a human need for membership in a group Belong (play), a play by Bola Agbaje Belong Ltd, a British care home provider Belong, a low-cost internet service provider operated by Telstra See also Belonging (disambiguation)"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_01821",
+  "queries": [
+    "\"misspelled\" \"name\" \"times\" \"row\"",
+    "\"times\" \"row\" \"misspelling\" \"competition\""
+  ],
+  "primary_terms": [
+    "misspelled",
+    "name",
+    "times",
+    "row",
+    "misspelling",
+    "competition",
+    "opponent",
+    "starbucks",
+    "employee"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Miss#0000",
+      "doc_id": "wikipedia:Miss",
+      "title": "Miss",
+      "url": "https://en.wikipedia.org/?curid=23807088",
+      "source_type": "wikipedia",
+      "score": 0.7013143211603164,
+      "text": "Miss (pronounced ) is an English-language honorific typically used for a girl, for an unmarried woman (when not using another title such as \"Doctor\" or \"Dame\"), or for a married woman retaining her maiden name. Originating in the 17th century, it is a contraction of mistress. The plural of Miss is Misses or occasionally Mses. History Origins Like Ms and Mrs, Miss has its roots in the title Mistress. Miss was originally a title given primarily to children rather than adults. During the 1700s, its usage broadened to encompass adult women. The title emerged as a polite way to address women, reflecting changing societal norms and class distinctions. Prior to this, referring to an adult woman as a Miss might have carried connotations of prostitution. Evolution of meanings and usage The meanings of both Miss and Mrs underwent transformations over time. Historically, these titles did not solely indicate marital status."
+    },
+    {
+      "chunk_id": "wikipedia:Table#0000",
+      "doc_id": "wikipedia:Table",
+      "title": "Table",
+      "url": "https://en.wikipedia.org/?curid=274698",
+      "source_type": "wikipedia",
+      "score": 0.6405933260917663,
+      "text": "Table may refer to: Table (database), how the table data arrangement is used within the databases Table (furniture), a piece of furniture with a flat surface and one or more legs Table (information), a data arrangement with rows and columns Table (landform), a flat area of land Table (parliamentary procedure) Table (sports), a ranking of the teams in a sports league Tables (board game) Mathematical table Tables of the skull, a term for the flat bones Table, surface of the sound board (music) of a string instrument Al-Ma'ida, the fifth surah of the Qur'an, occasionally translated as “The Table” Calligra Tables, a spreadsheet application Water table See also Spreadsheet, a computer application Table cut, a type of diamond cut The Table (disambiguation) Table Mountain (disambiguation) Table Rock (disambiguation) Tabler (disambiguation) Tablet (disambiguation) All pages with titles beginning with Table All pages with titles containing Table All pages with titles beginning with Tabular All"
+    },
+    {
+      "chunk_id": "wikipedia:Dyslexia#0000",
+      "doc_id": "wikipedia:Dyslexia",
+      "title": "Dyslexia",
+      "url": "https://en.wikipedia.org/?curid=8305",
+      "source_type": "wikipedia",
+      "score": 0.575242331624031,
+      "text": "Dyslexia, also known as \"word blindness\", is a learning disability that affects either reading or writing. Different people are affected to different degrees. Problems may include difficulties in spelling words, reading quickly, writing words, \"sounding out\" words in the head, pronouncing words when reading aloud and understanding what one reads. Often these difficulties are first noticed at school. The difficulties are involuntary, and people with this disorder have a normal desire to learn. People with dyslexia have higher rates of attention deficit hyperactivity disorder (ADHD), developmental language disorders, and difficulties with numbers. Dyslexia is believed to be caused by the interaction of genetic and environmental factors. Some cases run in families. Dyslexia that develops due to a traumatic brain injury, stroke, or dementia is sometimes called \"acquired dyslexia\" or alexia."
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0001",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.5648574292659759,
+      "text": "musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation for their name in post-nominal letters See also CANT (disambiguation) All pages with titles containing Cant Canté, a commune in Ariège, France Canter (disambiguation) Canticle Kant (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Accent#0001",
+      "doc_id": "wikipedia:Accent",
+      "title": "Accent",
+      "url": "https://en.wikipedia.org/?curid=193493",
+      "source_type": "wikipedia",
+      "score": 0.5428141117095947,
+      "text": "on a particular area or object Accent Records, a record label ACCENT Speakers Bureau, a student-run organization at the University of Florida Ac'cent, brand name for monosodium glutamate (MSG) See also All pages with titles beginning with Accent All pages with titles containing Accent Accenture, company Accentor, a bird..."
+    },
+    {
+      "chunk_id": "wikipedia:Miss#0001",
+      "doc_id": "wikipedia:Miss",
+      "title": "Miss",
+      "url": "https://en.wikipedia.org/?curid=23807088",
+      "source_type": "wikipedia",
+      "score": 0.5218197703361511,
+      "text": "and usage The meanings of both Miss and Mrs underwent transformations over time. Historically, these titles did not solely indicate marital status. Even after the adoption of Miss by many adult single women in 18th-century England, Mrs continued to signify social or business standing, rather than merely marital status, until at least the mid-19th century. Racial discrimination Being addressed with..."
+    },
+    {
+      "chunk_id": "wikipedia:Winning#0001",
+      "doc_id": "wikipedia:Winning",
+      "title": "Winning",
+      "url": "https://en.wikipedia.org/?curid=28094145",
+      "source_type": "wikipedia",
+      "score": 0.49363299310207365,
+      "text": "People with surname Charles Winning (1889–1967), Australian cricketer David Winning (born 1961), Canadian and American film director, producer, screenwriter Thomas Winning (1925–2001), Scottish Roman Catholic cardinal See also Charlie Sheen, who used the word as a catchphrase All pages with titles beginning..."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.48792245984077454,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.46266056299209596,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0000",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.4543376624584198,
+      "text": "Cant, CANT, canting, or canted may refer to: Language Cant (language), a secret language Beurla Reagaird, a language of the Scottish Highland Travellers Scottish Cant, a language of the Scottish Lowland Travellers Shelta or the Cant, a language of the Irish Travellers Thieves' cant, a language of criminals Canting arms, heraldic puns on the bearer's name Can't, contraction of cannot Other uses Cant (architecture), part of a facade CANT (aviation) (Cantieri Aeronautici e Navali Triestini), an aircraft manufacturer Cant (log), a log partially processed in a sawmill Cant (road/rail), an angle of a road or track Cant (shooting), referring to a gun being tilted around the longitudinal axis, rather than being horizontally levelled Cant (surname), a family name and persons with it Canting, a tool used in making batik Chris Taylor (Grizzly Bear musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation"
+    }
+  ]
+}

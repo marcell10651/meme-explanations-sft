@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_00915",
+  "queries": [
+    "\"voursleep and confusing maths\" \"trade\" \"offer\" \"ifreceive\"",
+    "\"offer\" \"ifreceive\" \"nrgeoheya\" \"myoulreceives\""
+  ],
+  "primary_terms": [
+    "trade",
+    "offer",
+    "ifreceive",
+    "voursleep and confusing maths",
+    "nrgeoheya",
+    "myoulreceives",
+    "voursleep",
+    "confusing",
+    "maths"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Auction#0000",
+      "doc_id": "wikipedia:Auction",
+      "title": "Auction",
+      "url": "https://en.wikipedia.org/?curid=62912",
+      "source_type": "wikipedia",
+      "score": 0.7329518765211105,
+      "text": "An auction is usually a process of buying and selling goods or services by offering them up for bids, taking bids, and then selling the item to the highest bidder or buying the item from the lowest bidder. Some exceptions to this definition exist and are described in the section about different types. The branch of economic theory dealing with auction types and participants' behavior in auctions is called auction theory. The open ascending price auction is arguably the most common form of auction and has been used throughout history. Participants bid openly against one another, with each subsequent bid being higher than the previous bid. An auctioneer may announce prices, while bidders submit bids vocally or electronically. Auctions are applied for trade in diverse contexts."
+    },
+    {
+      "chunk_id": "wikipedia:Exchange#0000",
+      "doc_id": "wikipedia:Exchange",
+      "title": "Exchange",
+      "url": "https://en.wikipedia.org/?curid=41125",
+      "source_type": "wikipedia",
+      "score": 0.5665657877922058,
+      "text": "Exchange or exchanged may refer to: Arts, entertainment and media Film and television Exchange (film), or Deep Trap, 2015 South Korean psychological thriller Exchanged (film), 2019 Peruvian fantasy comedy Exchange (TV program), 2021 South Korean dating reality show Gaming Exchange (chess), closely related captures of pieces of both players in chess The exchange (chess), an exchange of a minor piece for a rook Music Exchange, a new-age jazz band of Steve Sexton and Gerald O'Brien, and their 1992 self-titled album Exchange (EP), by Against All Authority and The Criminals, 1999 \"Exchange\" (song), by Bryson Tiller, 2015 \"Exchange\" and \"(Exchange)\", songs on Massive Attack's 1998 album Mezzanine (album) Business and economics Bureau de change, or currency exchange Cryptocurrency exchange, to trade cryptocurrencies or digital currencies Exchange (economics), in a market economy Exchange (organized market), where securities etc are bought and sold Places Exchange, Indiana, U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Sales#0000",
+      "doc_id": "wikipedia:Sales",
+      "title": "Sales",
+      "url": "https://en.wikipedia.org/?curid=155698",
+      "source_type": "wikipedia",
+      "score": 0.5580150187015533,
+      "text": "Sales are activities related to selling or the number of goods sold in a given targeted time period. The delivery of a service for a cost is also considered a sale. A period during which goods are sold for a reduced price may also be referred to as a \"sale\". The seller, or the provider of the goods or services, completes a sale in an interaction with a buyer, which may occur at the point of sale or in response to a purchase order from a customer. There is a passing of title (property or ownership) of the item, and the settlement of a price, in which agreement is reached on a price for which transfer of ownership of the item will occur. The seller, not the purchaser, typically executes the sale and it may be completed prior to the obligation of payment."
+    },
+    {
+      "chunk_id": "wikipedia:Position#0001",
+      "doc_id": "wikipedia:Position",
+      "title": "Position",
+      "url": "https://en.wikipedia.org/?curid=268217",
+      "source_type": "wikipedia",
+      "score": 0.4910171329975128,
+      "text": "of beliefs about questions in philosophy Position (finance), commitments in a financial marketplace Social position, the position of an individual in a society and culture Political position within a political spectrum Science and mathematics Position (vector), a mathematical identification of relative location Position in positional..."
+    },
+    {
+      "chunk_id": "wikipedia:Please#0000",
+      "doc_id": "wikipedia:Please",
+      "title": "Please",
+      "url": "https://en.wikipedia.org/?curid=63658677",
+      "source_type": "wikipedia",
+      "score": 0.4684181213378906,
+      "text": "Please is a word used in the English language to indicate politeness and respect while making a request. Derived from shortening the phrase \"if you please\" or \"if it please(s) you\", the term has taken on substantial nuance based on its intonation and the relationship between the persons between whom it is used. In much of the Western world, use of the word is considered proper etiquette, and parents and authority figures often imprint upon children the importance of saying \"please\" when asking for something from an early age, leading to the description of the term as \"the magic word\". Origin and understanding \"Please\" is a shortening of the phrase, if you please, an intransitive, ergative form taken from if it please you, which is in turn a calque of the French s'il vous plaît, which replaced pray."
+    },
+    {
+      "chunk_id": "wikipedia:Please#0001",
+      "doc_id": "wikipedia:Please",
+      "title": "Please",
+      "url": "https://en.wikipedia.org/?curid=63658677",
+      "source_type": "wikipedia",
+      "score": 0.46775272488594055,
+      "text": "you please, an intransitive, ergative form taken from if it please you, which is in turn a calque of the French s'il vous plaît, which replaced pray. The exact time frame of the shortening is unknown, though it has been noted that this form appears not to have been known to William Shakespeare, for whom \"please you\" is the shortest form used in any of his works. A variation of the phrase, \"may it please the court\", remains in use as a formality for attorneys addressing judges in legal proceedings. Despite its straightforward definition..."
+    },
+    {
+      "chunk_id": "wikipedia:Proof#0001",
+      "doc_id": "wikipedia:Proof",
+      "title": "Proof",
+      "url": "https://en.wikipedia.org/?curid=62384",
+      "source_type": "wikipedia",
+      "score": 0.41179274022579193,
+      "text": "to establish the truth of facts in a trial Philosophic burden of proof, obligation on a party in a dispute to provide sufficient warrant for their position Probate, the judicial process whereby a will is \"proved\" in a court of law and accepted as valid Manufacturing and printing Artist's proof, a single print taken during the printmaking..."
+    },
+    {
+      "chunk_id": "wikipedia:I Have Some Questions for You#0000",
+      "doc_id": "wikipedia:I Have Some Questions for You",
+      "title": "I Have Some Questions for You",
+      "url": "https://en.wikipedia.org/?curid=73141678",
+      "source_type": "wikipedia",
+      "score": 0.3717409670352936,
+      "text": "I Have Some Questions for You is a 2023 literary mystery novel by American writer Rebecca Makkai, published by Viking Press. The novel received universal acclaim from critics upon release, and spent six weeks on the New York Times bestseller list. It was popular among the general public, and placed ninth in the Goodreads Choice Award's Mystery & Thriller category. Its audiobook went on to win an inaugural Libby Book Award, and it was longlisted for prestigious prizes like the Aspen Words Literary Prize and Carol Shields Prize for Fiction. Plot Bodie Kane, a film professor and podcaster, is forced to confront a series of violent events in her past when she is invited to teach a class at the New Hampshire boarding school she graduated from. Publication history I Have Some Questions for You was published on February 21, 2023 by Viking Press. It spent six weeks on the New York Times Bestseller list, after having debuted at #3."
+    },
+    {
+      "chunk_id": "wikipedia:Charge#0001",
+      "doc_id": "wikipedia:Charge",
+      "title": "Charge",
+      "url": "https://en.wikipedia.org/?curid=6439",
+      "source_type": "wikipedia",
+      "score": 0.3699609339237213,
+      "text": "charge, information or indictment through a formal legal process Mathematics, science, and technology Charge (physics), the susceptibility (state of being affected) of a body to one of the fundamental forces Color charge, a property of quarks and gluons, related to their strong interactions Electric charge..."
+    },
+    {
+      "chunk_id": "wikipedia:Uncle#0001",
+      "doc_id": "wikipedia:Uncle",
+      "title": "Uncle",
+      "url": "https://en.wikipedia.org/?curid=24306566",
+      "source_type": "wikipedia",
+      "score": 0.3518557697534561,
+      "text": "friends, and even total strangers in some cultures, for example Aboriginal Australian elders. Using the term in this way is a form of fictive kinship. Any social institution where a special relationship exists between a man and his sisters' children is known as an avunculate (or avunculism or avuncularism). This relationship can be formal or informal, depending on the society. Early anthropological research focused on the association between the avunculate and matrilineal descent, while later..."
+    }
+  ]
+}

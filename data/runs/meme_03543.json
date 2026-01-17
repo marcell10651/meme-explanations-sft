@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_03543",
+  "queries": [
+    "\"Jordon Petersen\" \"pan JORDAN\" \"his research\" \"very\" \"focused\"",
+    "\"very\" \"focused\" \"research\" \"ers\""
+  ],
+  "primary_terms": [
+    "his research",
+    "very",
+    "focused",
+    "research",
+    "pan JORDAN",
+    "ers",
+    "pan",
+    "jordan",
+    "petersen",
+    "finding"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Great#0000",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.6660607933998108,
+      "text": "Great may refer to: Descriptions or measurements Great, a relative measurement in physical space, see Size Greatness, being divine, superior, majestic, or transcendent People List of people known as \"the Great\" Artel Great (born 1981), American actor Great Osobor (born 2002), Spanish-born British basketball player Other uses Great (1975 film), a British animated short about Isambard Kingdom Brunel Great (2013 film), a German short film Great (supermarket), a supermarket in Hong Kong GReAT, Graph Rewriting and Transformation, a Model Transformation Language Gang Resistance Education and Training, or GREAT, a school-based and police officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great!"
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0000",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.6060194194316864,
+      "text": "Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist. Physics is one of the oldest academic disciplines. Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0000",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.5018873035907745,
+      "text": "Science is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe. Modern science is typically divided into two – or three – major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies. While referred to as the formal sciences, the study of logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology. Meanwhile, applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine. The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE)."
+    },
+    {
+      "chunk_id": "wikipedia:Diligence#0000",
+      "doc_id": "wikipedia:Diligence",
+      "title": "Diligence",
+      "url": "https://en.wikipedia.org/?curid=18483349",
+      "source_type": "wikipedia",
+      "score": 0.4798634111881256,
+      "text": "Diligence—carefulness and persistent effort or work—is listed as one of the seven capital virtues. It can be indicative of a work ethic, the belief that work is good in itself. \"There is a perennial nobleness, and even sacredness, in work. Were he never so benighted, forgetful of his high calling, there is always hope in a man that actually and earnestly works: in idleness alone there is perpetual despair.\" —Thomas Carlyle In students Bernard et al. define diligence in students as the effort they put toward balanced and holistic development in mental, physical, social, and spiritual dimensions. They find that it correlates with academic performance, especially with younger students, and that the support of parents and educators encourages students to be diligent. Other factors that encourage student diligence include motivation, discipline, concentration, responsibility, and devotedness."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0001",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.4786897420883179,
+      "text": "others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time). These processes are supported by distributed neural networks in frontal, parietal, and subcortical regions and are closely linked to working memory, executive functions, and consciousness. Patterns of attention also vary across cultures, especially in how individuals attend to context versus focal objects and how children are guided to manage attention in everyday activities..."
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0001",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.47730488777160646,
+      "text": "mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy. Advances in physics often enable new technologies. For example, advances in the understanding of electromagnetism, solid-state physics, and nuclear physics led directly to the development of technologies that have transformed..."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0001",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.47123478055000306,
+      "text": "officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great! TV, British TV channel group The Great (TV series), an American comedy-drama See also All pages with titles containing great All pages with titles beginning with Great All pages with titles beginning with The Great All pages with titles beginning with The great The Great (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Sone#0000",
+      "doc_id": "wikipedia:Sone",
+      "title": "Sone",
+      "url": "https://en.wikipedia.org/?curid=215436",
+      "source_type": "wikipedia",
+      "score": 0.44946145713329316,
+      "text": "The sone () is a unit of loudness, the subjective perception of sound pressure. The study of perceived loudness is included in the topic of psychoacoustics and employs methods of psychophysics. Doubling the perceived loudness doubles the sone value. Proposed by Stanley Smith Stevens in 1936, it is not an SI unit. Definition and conversions According to Stevens' definition, a loudness of 1 sone is equivalent to 40 phons (a 1 kHz tone at 40 dB SPL). The phons scale aligns with dB, not with loudness, so the sone and phon scales are not proportional. Rather, the loudness in sones is, at least very nearly, a power law function of the signal intensity, with an exponent of 0.3. With this exponent, each 10 phon increase (or 10 dB at 1 kHz) produces almost exactly a doubling of the loudness in sones."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0000",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.41478351354598997,
+      "text": "Attention is the concentration of awareness directed at some phenomenon while excluding others. Across disciplines, the nature of this directedness is conceptualized in different ways. In cognitive psychology, attention is often described as the allocation of limited cognitive processing resources to a subset of information, thoughts, or tasks. In neuropsychology, attention is understood as a set of mechanisms by which sensory cues and internal goals modulate neuronal tuning and orient behavioral and cognitive processes. Attention is not a unitary phenomenon but an umbrella term for multiple related processes, including selective attention (prioritizing some stimuli over others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time)."
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0000",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.41430596709251405,
+      "text": "A scientist is an expert who conducts scientific research to advance knowledge in science. In classical antiquity, there was no real ancient analog of a modern scientist. Instead, philosophers engaged in the philosophical study of nature called natural philosophy. Though Thales (c. 624–545 BC) was arguably the first scientist for describing how cosmic events may be seen as natural, not necessarily caused by gods, it was not until the 19th century that the term scientist came into regular use: it was coined by the theologian, philosopher, and historian of science William Whewell in 1833 to describe Mary Somerville. History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time."
+    }
+  ]
+}

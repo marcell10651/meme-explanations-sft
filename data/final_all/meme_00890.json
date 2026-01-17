@@ -1,0 +1,194 @@
+{
+  "meme_id": "meme_00890",
+  "queries": [
+    "\"Robin Williams\" \"the vacuum cleaner\" \"thats\" \"use\" \"vacuum\"",
+    "\"use\" \"vacuum\" \"cleaner\" \"hear\""
+  ],
+  "primary_terms": [
+    "thats",
+    "the vacuum cleaner",
+    "that crackling",
+    "use",
+    "vacuum",
+    "cleaner",
+    "hear",
+    "crackling",
+    "sound"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Drinking#0001",
+      "doc_id": "wikipedia:Drinking",
+      "title": "Drinking",
+      "url": "https://en.wikipedia.org/?curid=66254",
+      "source_type": "wikipedia",
+      "score": 0.7050054043531417,
+      "text": "hands or drinkware may be used as vessels. Drinking can also be by sipping or sucking, typically when imbibing hot liquids or drinking from a spoon. Infants employ a method of suction wherein the lips are pressed tight around a source, as in breastfeeding: a combination of breath and tongue movement creates a vacuum which draws in liquid. In other land mammals By necessity, terrestrial animals in..."
+    },
+    {
+      "chunk_id": "wikipedia:Microphone#0000",
+      "doc_id": "wikipedia:Microphone",
+      "title": "Microphone",
+      "url": "https://en.wikipedia.org/?curid=65886",
+      "source_type": "wikipedia",
+      "score": 0.6646996021270752,
+      "text": "A microphone, colloquially called a mic (), or mike, is a transducer that converts sound into an electrical signal. Microphones are used in telecommunication, sound recording, broadcasting, and consumer electronics, including telephones, hearing aids, and mobile devices. Several types of microphone are used today, which employ different methods to convert the air pressure variations of a sound wave to an electrical signal. The most common are the dynamic microphone, which uses a coil of wire suspended in a magnetic field; the condenser microphone, which uses the vibrating diaphragm as a capacitor plate; and the contact microphone, which uses a crystal of piezoelectric material. Microphones typically need to be connected to a preamplifier before the signal can be recorded or reproduced. History In order to speak to larger groups of people, a need arose to increase the volume of the human voice. The earliest devices used to achieve this were acoustic megaphones."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0000",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.660559993982315,
+      "text": "Muteness is a speech disorder in which a person lacks the ability to speak. Mute, Mutes or the Mute may also refer to: Arts and entertainment Film and television Mute (2005 film), a short film by Melissa Joan Hart Mute (2018 film), a science-fiction thriller directed by Duncan Jones \"Mute\" (The Twilight Zone), a 1963 episode of The Twilight Zone Muted (TV series), a 2023 Spanish Netflix series Mutes, anthropomorphic animals in the American animated television series Kipo and the Age of Wonderbeasts Music Mute (music), a device used to alter the sound of a musical instrument Left-hand muting or palm mute, guitar muting techniques Mute Records, a record label in the United Kingdom Mute (album), a 2000 indie rock compilation album from Hush Records Muted (album), a 2003 album from hip hop artist Alias In print Mute (novel), a 1981 novel by Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture"
+    },
+    {
+      "chunk_id": "wikipedia:Hear, hear#0000",
+      "doc_id": "wikipedia:Hear, hear",
+      "title": "Hear, hear",
+      "url": "https://en.wikipedia.org/?curid=2182621",
+      "source_type": "wikipedia",
+      "score": 0.5931984305381774,
+      "text": "Hear, hear is an expression which represents a listener's agreement with the point being made by a speaker or in response to a toast. Origins The phrase hear him, hear him! was used in Parliament from late in the 17th century, and was reduced to hear! or hear, hear! by the late 18th century. The verb hear had earlier been used in the King James Bible as a command for others to listen. Other phrases have been derived from hear, hear, such as a hear, hear (a cheer), to hear-hear (to shout the expression), and hear-hearer (a person who does the same). Usage It was originally an imperative for directing attention to speakers, and has since been used, according to the Oxford English Dictionary, as \"the regular form of cheering in the House of Commons\", with many purposes, depending on the intonation of its user. Its use in Parliament is linked to the fact that applause is normally (though not always) forbidden in the chambers of the House of Commons and House of Lords."
+    },
+    {
+      "chunk_id": "wikipedia:Headphones#0000",
+      "doc_id": "wikipedia:Headphones",
+      "title": "Headphones",
+      "url": "https://en.wikipedia.org/?curid=191884",
+      "source_type": "wikipedia",
+      "score": 0.5753692865371705,
+      "text": "Headphones are a pair of small loudspeaker drivers worn on or around the head over a user's ears. They are electroacoustic transducers, which convert an electrical signal to a corresponding sound. Headphones let a single user listen to an audio source privately, in contrast to a loudspeaker, which emits sound into the open air for anyone nearby to hear. Headphones are also known as earphones or, colloquially, cans. Circumaural (around the ear) and supra-aural (over the ear) headphones use a band over the top of the head to hold the drivers in place. Another type, known as earbuds or earpieces, consists of individual units that plug into the user's ear canal; within that category have been developed cordless air buds using wireless technology. A third type are bone conduction headphones, which typically wrap around the back of the head and rest in front of the ear canal, leaving the ear canal open."
+    },
+    {
+      "chunk_id": "wikipedia:Quiet#0000",
+      "doc_id": "wikipedia:Quiet",
+      "title": "Quiet",
+      "url": "https://en.wikipedia.org/?curid=1612819",
+      "source_type": "wikipedia",
+      "score": 0.5729870110750198,
+      "text": "Quiet may refer to: Silence, a relative or total lack of sound In music The Quiett (born 1985), South Korean rapper Quiet (album), a 1996 John Scofield album \"Quiet\", a song by Lights, from her album The Listening (2009) \"Quiet\" (MILCK song), a 2017 song written for the 2017 Women's March in Washington, D.C. Quiet (EP), a 2007 EP by Jim Ward \"Quiet\" (This Will Destroy You song), 2006 \"Quiet\" (Lil' Kim song), a song by Lil' Kim \"Quiet\", a song by Alien Ant Farm, from their 2003 albumTruant \"Quiet\", a song by Camila Cabello, from her album Familia (2022) \"Quiet\", a song by Demi Lovato, from her album Here We Go Again (2009) \"Quiet\", a song by The Smashing Pumpkins, from their album Siamese Dream (1993) \"Quiet\", a song by the Player Piano from their album Satellite (2007) \"Quiet\", a song by Royce da 5'9\", from his album Layers (2016) The Quiet, an album by Bella Morte \"Quiet\", a song by Tim Minchin from the musical Matilda In religion Prayer of Quiet, a term from Christian theology"
+    },
+    {
+      "chunk_id": "wikipedia:Soap#0001",
+      "doc_id": "wikipedia:Soap",
+      "title": "Soap",
+      "url": "https://en.wikipedia.org/?curid=57875",
+      "source_type": "wikipedia",
+      "score": 0.5658735394477844,
+      "text": "(sodium) or K (potassium). When used for cleaning, soap solubilizes particles and grime, which can then be separated from the article being cleaned. The insoluble oil/fat \"dirt\" become associated inside micelles, tiny spheres formed from soap molecules with polar hydrophilic (water-attracting) groups on the outside and encasing a lipophilic (fat-attracting) pocket..."
+    },
+    {
+      "chunk_id": "wikipedia:Use Your Fingers#0000",
+      "doc_id": "wikipedia:Use Your Fingers",
+      "title": "Use Your Fingers",
+      "url": "https://en.wikipedia.org/?curid=2317950",
+      "source_type": "wikipedia",
+      "score": 0.5434010982513428,
+      "text": "Use Your Fingers is the debut studio album by Bloodhound Gang. It was released on July 18, 1995, by Cheese Factory Records. Some of the songs on the album were reworked version of demos from Bloodhound Gang's earlier demo tapes. The album has sold 250,000 copies to date. Reception In a review for Amazon, music journalist Roni Sarig said \"BG back up their obnoxious idiocy with some fairly wise musical maneuvering. While their age and background lead them to repeatedly mine the '80s for material--Duran Duran and Cure samples, Michael Jackson and Blondie interpolations, a \"Kids in America\" cover—their sly comments and ingenious a cappella snippets prove they're surprisingly sharp and able lads.\" On August 7, 2015, OC Weekly published a 20-year anniversary write-up of the album, stating \"what makes Use Your Fingers worthy of re-examining two decades later is how much this album not only shouldn't exist from a legal perspective, but how it managed to predict so much of the 20 years of"
+    },
+    {
+      "chunk_id": "wikipedia:Hear, hear#0001",
+      "doc_id": "wikipedia:Hear, hear",
+      "title": "Hear, hear",
+      "url": "https://en.wikipedia.org/?curid=2182621",
+      "source_type": "wikipedia",
+      "score": 0.5357962369918823,
+      "text": "Parliament is linked to the fact that applause is normally (though not always) forbidden in the chambers of the House of Commons and House of Lords. It is also used in other parliaments established in the Westminster tradition, such as Australia and Canada. See also The dictionary definition of hear, hear at Wiktionary References"
+    },
+    {
+      "chunk_id": "wikipedia:Smoking#0000",
+      "doc_id": "wikipedia:Smoking",
+      "title": "Smoking",
+      "url": "https://en.wikipedia.org/?curid=12254052",
+      "source_type": "wikipedia",
+      "score": 0.529928719997406,
+      "text": "Smoking is a human behavior which involves the combustion of a substance, usually plant material, and the inhalation of resulting fumes. Today, smoking is mostly practiced by rolling the dried leaves of the tobacco plant into a cigarette. Other forms of tobacco smoking include the use of a smoking tobacco with a pipe or cigar, or using a bong. Cigarette smokers almost always inhale the smoke; most pipe and cigar smokers do not inhale. Smoking is primarily practiced as a route of administration for psychoactive chemicals because the active substances within the burnt, dried plant leaves (or other chemical) can vaporize into a gaseous state and be delivered into the respiratory tract, where they are rapidly absorbed into the bloodstream through the lungs and can reach the central nervous system."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Robin Williams in the movie \"Good Will Hunting\" looking thoughtful",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Robin Williams",
+          "the movie"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that it worries them when something large gets into the vacuum and makes that crackling sound.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "something",
+          "the vacuum"
+        ]
+      },
+      "title": {
+        "text": "thats the stuff",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "thats"
+        ]
+      },
+      "text": {
+        "text": "when you use the vacuum cleaner and hear that crackling sound",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the vacuum cleaner",
+          "that crackling",
+          "use",
+          "vacuum",
+          "cleaner",
+          "hear",
+          "crackling",
+          "sound"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "thats",
+      "the vacuum cleaner",
+      "that crackling",
+      "use",
+      "vacuum",
+      "cleaner",
+      "hear",
+      "crackling",
+      "sound"
+    ],
+    "secondary_terms": [
+      "Robin Williams",
+      "the movie",
+      "something",
+      "the vacuum"
+    ],
+    "queries": [
+      "\"Robin Williams\" \"the vacuum cleaner\" \"thats\" \"use\" \"vacuum\"",
+      "\"use\" \"vacuum\" \"cleaner\" \"hear\""
+    ]
+  },
+  "source_jsonl_id": null
+}

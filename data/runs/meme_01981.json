@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_01981",
+  "queries": [
+    "\"Twitter\" \"the local McDonalds\" \"TIMOVEES SOW ERD\" \"least\" \"local\"",
+    "\"least\" \"local\" \"mcdonalds\" \"hiring\""
+  ],
+  "primary_terms": [
+    "the local McDonalds",
+    "least",
+    "local",
+    "mcdonalds",
+    "hiring",
+    "TIMOVEES SOW ERD",
+    "timovees",
+    "sow",
+    "erd"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Premium#0001",
+      "doc_id": "wikipedia:Premium",
+      "title": "Premium",
+      "url": "https://en.wikipedia.org/?curid=769137",
+      "source_type": "wikipedia",
+      "score": 0.4995954632759094,
+      "text": "texting, SMS used for delivering digital content Premium-rate telephone number, telephone numbers for which prices higher than normal are charged Brands Premium-Cola, a brand of cola from Germany Premium Brands Holdings Corporation, a Canadian specialty food manufacturing and distribution company Premium Outlets, a brand of shopping malls..."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.49497517943382263,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.4656665772199631,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.45827271044254303,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Broccoli haircut#0000",
+      "doc_id": "wikipedia:Broccoli haircut",
+      "title": "Broccoli haircut",
+      "url": "https://en.wikipedia.org/?curid=77594266",
+      "source_type": "wikipedia",
+      "score": 0.3739895820617676,
+      "text": "A broccoli haircut (also known as a Zoomer perm, bird's nest, in the UK as the meet me at McDonald's haircut or alpaca back and sides) is a type of haircut with tapered sides and layered curls on top, usually achieved with a perm. It became popular among teenage and tween boys during the latter part of the 2010s and into the 2020s, particularly due to its spread on TikTok, and became an Internet meme around the same time. Definition The broccoli haircut is a hairstyle with tapered sides and short, uneven layered curls on top, which are often permed. It is referred to as such due to its resemblance to a floret of broccoli. It has also been referred to as the \"Zoomer perm\" for its popularity among members of Generation Z, as well as \"bird's nest hair\", \"bussin haircut\" or \"alpaca hair\". It has been described as a variation on a bowl cut."
+    },
+    {
+      "chunk_id": "wikipedia:Tell#0001",
+      "doc_id": "wikipedia:Tell",
+      "title": "Tell",
+      "url": "https://en.wikipedia.org/?curid=4638647",
+      "source_type": "wikipedia",
+      "score": 0.37378425896167755,
+      "text": "Texas, unincorporated community in the United States Tell, Wisconsin, town in the United States Tell City, Indiana, township in the United States Tell Township, Emmons County, North Dakota, township in the United States Tell Township, Pennsylvania, township in the United States See also All pages with titles beginning with Tell..."
+    },
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0001",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.3672676831483841,
+      "text": "Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends. During this time, Craig starts high school and becomes close to Ms. Hart, a teacher who comes to his aid when Kenny Yankovich, a school bully, attempts to intimidate him. After winning $3,000 from a lottery ticket that Harrigan..."
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0001",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.35576313734054565,
+      "text": "musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation for their name in post-nominal letters See also CANT (disambiguation) All pages with titles containing Cant Canté, a commune in Ariège, France Canter (disambiguation) Canticle Kant (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0001",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.3556440621614456,
+      "text": "a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt. It served only one dish, a plate of cereal, wildfowl, and onions. A forerunner for the modern restaurant is the thermopolium, an establishment in Ancient Greece or Ancient Rome that sold and served ready-to-eat food and beverages. These establishments..."
+    },
+    {
+      "chunk_id": "wikipedia:Post#0000",
+      "doc_id": "wikipedia:Post",
+      "title": "Post",
+      "url": "https://en.wikipedia.org/?curid=230424",
+      "source_type": "wikipedia",
+      "score": 0.35408034920692444,
+      "text": "Post, POST, or posting may refer to: Postal services Mail, the postal system, especially in Commonwealth of Nations countries An Post, the Irish national postal service Canada Post, Canadian postal service Deutsche Post, German postal service Iraqi Post, Iraqi postal service Russian Post, Russian postal service Hotel post, a service formerly offered by remote Swiss hotels for the carriage of mail to the nearest official post office United States Postal Service or USPS Parcel post, a postal service for mail that is heavier than ordinary letters Work Post, a job or occupation Newspaper The Manica Post Regional newspaper in Manicaland province, Zimbabwe The Rakyat Post Malaysian online daily newspaper Bangkok Post English language newspaper in Thailand Architecture and structures Lamppost, a raised source of light on the edge of a road Post (structural), timber framing Post and lintel, a building system Scratch post Steel fence post Trading post Utility pole or utility post Military"
+    }
+  ]
+}

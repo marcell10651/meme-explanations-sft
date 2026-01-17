@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_02657",
+  "queries": [
+    "\"CashiersihatiwillibelsSionthoselglassess Wie aera\" \"Nice\" \"Sem\" \"shades\"",
+    "\"Sem\" \"shades\" \"cashiersihatiwillibelssionthoselglassess\" \"wie\""
+  ],
+  "primary_terms": [
+    "Nice",
+    "shades",
+    "CashiersihatiwillibelsSionthoselglassess Wie aera",
+    "Sem",
+    "cashiersihatiwillibelssionthoselglassess",
+    "wie",
+    "aera",
+    "kapwing"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Sunglasses#0000",
+      "doc_id": "wikipedia:Sunglasses",
+      "title": "Sunglasses",
+      "url": "https://en.wikipedia.org/?curid=173759",
+      "source_type": "wikipedia",
+      "score": 0.7160494685173034,
+      "text": "Sunglasses or sun glasses (informally called shades or sunnies; more names below) are a form of protective eyewear designed primarily to prevent bright sunlight and high-energy visible light from damaging or discomforting the eyes. They can sometimes also function as a visual aid, as variously termed spectacles or glasses exist, featuring lenses that are colored, polarized or darkened. In the early 20th century, they were also known as sun cheaters (cheaters then being an American slang term for glasses). Since the 1930s, sunglasses have been a popular fashion accessory, especially on the beach. The American Optometric Association recommends wearing sunglasses that block ultraviolet radiation (UV) whenever a person is in the sunlight to protect the eyes from UV and blue light, which can cause several serious eye problems."
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0000",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.6027231812477112,
+      "text": "A retail cashier or simply a cashier is a person who handles the cash register at various locations such as the point of sale in a retail store. The most common use of the title is in the retail industry, but this job title is also used in the context of accountancy for the person responsible for receiving and disbursing money or within branch banking in the United Kingdom for the job known in the United States as a bank teller. Retail In a shop, a cashier (or checkout operator) is an employee who scans the goods that the customer wishes to purchase through a cash register. In most modern stores, the items are scanned by a barcode positioned on the item with the use of a laser scanner. After all of the items have been scanned, the cashier then collects the payment (in cash, check, and/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers."
+    },
+    {
+      "chunk_id": "wikipedia:Glass#0001",
+      "doc_id": "wikipedia:Glass",
+      "title": "Glass",
+      "url": "https://en.wikipedia.org/?curid=12581",
+      "source_type": "wikipedia",
+      "score": 0.5281431078910828,
+      "text": "glass objects were beads, perhaps created accidentally during metalworking or the production of faience, which is a form of pottery using lead glazes. Due to its ease of formability into any shape, glass has been traditionally used for vessels, such as bowls, vases, bottles, jars and drinking glasses. Soda–lime glass, containing around 70% silica, accounts for around 90% of modern manufactured glass. Glass can be coloured by adding metal salts or painted and printed with vitreous enamels..."
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0001",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.5215785503387451,
+      "text": "the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element. The objective can be clarity or effective communication, association with other cultural elements, or merely the creation of a distinctive style. Graphics can be functional or artistic. The latter can be a recorded version, such as a photograph, or an interpretation by a scientist to highlight..."
+    },
+    {
+      "chunk_id": "wikipedia:Monocle#0001",
+      "doc_id": "wikipedia:Monocle",
+      "title": "Monocle",
+      "url": "https://en.wikipedia.org/?curid=411772",
+      "source_type": "wikipedia",
+      "score": 0.5136249661445618,
+      "text": "a fashion similar to a lorgnette, rather than being held in place by the eye socket itself. Styles There are three additional styles of the monocle. The first style consists of a simple loop of metal with a lens that was slotted into the eye orbit. These were the first monocles worn in England and could be found from the 1830s onwards. The second style, which was developed in the..."
+    },
+    {
+      "chunk_id": "wikipedia:Glasses#0000",
+      "doc_id": "wikipedia:Glasses",
+      "title": "Glasses",
+      "url": "https://en.wikipedia.org/?curid=74844",
+      "source_type": "wikipedia",
+      "score": 0.5121257901191711,
+      "text": "Glasses, also known as eyeglasses, spectacles, or colloquially as specs, are vision eyewear with clear or tinted lenses mounted in a frame that holds them in front of a person's eyes, typically utilizing a bridge over the nose and hinged arms, known as temples or temple pieces, that rest over the ears for support. Glasses are typically used for vision correction, such as with reading glasses and glasses used for nearsightedness; however, without the specialized lenses, they are also at times used for cosmetic purposes. Safety glasses are eye protection, a form of personal protective equipment (PPE) that are worn by workers around their eyes for protection. Safety glasses act as a shield to protect the eyes from any type of foreign debris that may cause irritation or injury; these glasses may have protection on the sides of the eyes as well as in the lenses. Some types of safety glasses are used to protect against visible and near-visible light or radiation."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.5051017254590988,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Monocle#0000",
+      "doc_id": "wikipedia:Monocle",
+      "title": "Monocle",
+      "url": "https://en.wikipedia.org/?curid=411772",
+      "source_type": "wikipedia",
+      "score": 0.5048179179430008,
+      "text": "A monocle is a type of corrective lens used to correct or enhance the visual perception in only one eye. It consists of a circular lens placed in front of the eye and held in place by the eye socket itself. Often, to avoid losing the monocle, a string or wire is connected to the wearer's clothing at one end and, at the other end, to either a hole in the lens or, more often, a wire ring around its circumference. Origins The Prussian antiquarian Philipp von Stosch wore a monocle in Rome in the 1720s, in order to closely examine engravings and antique engraved gems, but the monocle did not become an article of gentlemen's apparel until the 19th century. The dandy's quizzing glass of the 1790s was an article of high fashion, which differs from the monocle in being held to one's eye with a handle in a fashion similar to a lorgnette, rather than being held in place by the eye socket itself. Styles There are three additional styles of the monocle."
+    },
+    {
+      "chunk_id": "wikipedia:Position#0001",
+      "doc_id": "wikipedia:Position",
+      "title": "Position",
+      "url": "https://en.wikipedia.org/?curid=268217",
+      "source_type": "wikipedia",
+      "score": 0.5015127956867218,
+      "text": "of beliefs about questions in philosophy Position (finance), commitments in a financial marketplace Social position, the position of an individual in a society and culture Political position within a political spectrum Science and mathematics Position (vector), a mathematical identification of relative location Position in positional..."
+    },
+    {
+      "chunk_id": "wikipedia:Premium#0001",
+      "doc_id": "wikipedia:Premium",
+      "title": "Premium",
+      "url": "https://en.wikipedia.org/?curid=769137",
+      "source_type": "wikipedia",
+      "score": 0.49649327993392944,
+      "text": "texting, SMS used for delivering digital content Premium-rate telephone number, telephone numbers for which prices higher than normal are charged Brands Premium-Cola, a brand of cola from Germany Premium Brands Holdings Corporation, a Canadian specialty food manufacturing and distribution company Premium Outlets, a brand of shopping malls..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is standing outside with sunglasses on.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "sunglasses"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they tried to steal a pair of sunglasses, but they were called out on it by the cashier.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "sunglasses",
+          "the cashier"
+        ]
+      },
+      "title": {
+        "text": "Nice shades.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Nice",
+          "shades"
+        ]
+      },
+      "text": {
+        "text": "CashiersihatiwillibelsSionthoselglassess Wie aera tC _— Sem, (=. KAPWING]",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "CashiersihatiwillibelsSionthoselglassess Wie aera",
+          "Sem",
+          "cashiersihatiwillibelssionthoselglassess",
+          "wie",
+          "aera",
+          "kapwing"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Nice",
+      "shades",
+      "CashiersihatiwillibelsSionthoselglassess Wie aera",
+      "Sem",
+      "cashiersihatiwillibelssionthoselglassess",
+      "wie",
+      "aera",
+      "kapwing"
+    ],
+    "secondary_terms": [
+      "sunglasses",
+      "the cashier"
+    ],
+    "queries": [
+      "\"CashiersihatiwillibelsSionthoselglassess Wie aera\" \"Nice\" \"Sem\" \"shades\"",
+      "\"Sem\" \"shades\" \"cashiersihatiwillibelssionthoselglassess\" \"wie\""
+    ]
+  },
+  "source_jsonl_id": null
+}

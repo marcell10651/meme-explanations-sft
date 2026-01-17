@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_02807",
+  "queries": [
+    "\"Elon Musk\" \"my own meme template\" \"Fake Elon\" \"the ability\" \"yeah\"",
+    "\"the ability\" \"yeah\" \"made\" \"own\""
+  ],
+  "primary_terms": [
+    "my own meme template",
+    "yeah",
+    "made",
+    "own",
+    "template",
+    "did",
+    "know",
+    "the ability",
+    "checkmarks",
+    "Fake Elon"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Ability#0000",
+      "doc_id": "wikipedia:Ability",
+      "title": "Ability",
+      "url": "https://en.wikipedia.org/?curid=68698578",
+      "source_type": "wikipedia",
+      "score": 0.6954044222831726,
+      "text": "Abilities are powers an agent has to perform various actions. They include common abilities, like walking, and rare abilities, like performing a double backflip. Abilities are intelligent powers: they are guided by the person's intention and executing them successfully results in an action, which is not true for all types of powers. They are closely related to but not identical with various other concepts, such as disposition, know-how, aptitude, talent, potential, and skill. Theories of ability aim to articulate the nature of abilities. Traditionally, the conditional analysis has been the most popular approach. According to it, having an ability means one would perform the action in question if one tried to do so. On this view, Michael Phelps has the ability to swim 200 meters in under 2 minutes because he would do so if he tried to. This approach has been criticized in various ways."
+    },
+    {
+      "chunk_id": "wikipedia:Yeah Yeah Yeahs#0000",
+      "doc_id": "wikipedia:Yeah Yeah Yeahs",
+      "title": "Yeah Yeah Yeahs",
+      "url": "https://en.wikipedia.org/?curid=314405",
+      "source_type": "wikipedia",
+      "score": 0.599515387415886,
+      "text": "Yeah Yeah Yeahs are an American indie rock band formed in New York City in 2000. The group consists of vocalist/pianist Karen O, guitarist/keyboardist Nick Zinner, and drummer Brian Chase; they do not have a bassist but have been complemented during live shows by David Pajo and Imaad Wasif. They are known for energetic performances and a blend of genres, including art rock and dance-rock. Yeah Yeah Yeahs found critical and commercial success with their debut album, Fever to Tell (2003), which is cited as their best work. It produced the breakthrough single \"Maps\", which became the band's signature song. They issued a second album, Show Your Bones (2006), and shifted to dance-punk with their third, It's Blitz! (2009). Both records received positive reviews, and the latter spawned the hit single \"Heads Will Roll\". The band's fourth album, Mosquito (2013), became their highest-charting record in the United States but did not match the reception of its predecessors."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.47213566303253174,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:Spek#0000",
+      "doc_id": "wikipedia:Spek",
+      "title": "Spek",
+      "url": "https://en.wikipedia.org/?curid=6015689",
+      "source_type": "wikipedia",
+      "score": 0.46989248394966127,
+      "text": "Hussain Yoosuf, better known by his stage name Spek, is a Canadian hip hop musician. He is best known for his singles \"Smell the Coffee\" and \"I'm a Hippie\". He is a former member of the Canadian hip hop pioneers, Dream Warriors, and, more recently, known for his work as an entrepreneur and music publisher. Early career Spek started rapping at the age of 14 in his hometown of Montreal, Quebec. He joined the hip hop group Dream Warriors shortly after the release of their hit songs \"My Definition of a Boombastic Jazz Style\" and \"Wash Your Face in My Sink\". At the age of 17, he signed a worldwide record contract with EMI and toured the world before settling in London. Spek soon found himself touring across Europe with the British jazz-rap crew Us3. Working with his musical partner Brian Rose, he collaborated with members of Jamiroquai and with Nitin Sawhney."
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.46197324991226196,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Made#0000",
+      "doc_id": "wikipedia:Made",
+      "title": "Made",
+      "url": "https://en.wikipedia.org/?curid=666961",
+      "source_type": "wikipedia",
+      "score": 0.4484317719936371,
+      "text": "Made or MADE may refer to: Entertainment Film Made (1972 film), United Kingdom Made (2001 film), United States Music Made (Big Bang album), 2016 Made (Hawk Nelson album), 2013 Made (Scarface album), 2007 M.A.D.E., 2003 album by Memphis Bleek \"Made\" (Scuba Dice song), 2006 \"Made\" (The Wanted song), 2010 Made (band), a Toronto lo-fi band Television Made (TV series), United States, 2002 to 2014 Companies Made.com, an online furniture retailer in London, United Kingdom MADE Clothing, an American clothing line around 2005 The MADE or The Museum of Art and Digital Entertainment Geography Made (Netherlands), a town in the Netherlands People van der Made - Dutch family name Dalem Di Made (fl."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0000",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.443632572889328,
+      "text": "In philosophy and in common usage, an idea (from the Greek word: ἰδέα (idea), meaning 'a form, or a pattern') is the result of thought. Also in philosophy, ideas can also be mental representational images of some object. Many philosophers have considered ideas to be a fundamental ontological category of being. The capacity to create and understand the meaning of ideas is considered to be an essential and defining feature of human beings. An idea arises in a reflexive, spontaneous manner, even without thinking or serious reflection, for example, when we talk about the idea of a person or a place. A new or an original idea can often lead to innovation. Our actions are based upon beliefs, beliefs are patterns or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'."
+    },
+    {
+      "chunk_id": "wikipedia:Absolutely#0001",
+      "doc_id": "wikipedia:Absolutely",
+      "title": "Absolutely",
+      "url": "https://en.wikipedia.org/?curid=1914454",
+      "source_type": "wikipedia",
+      "score": 0.4311087876558304,
+      "text": "Hard Way Absolutely (TV series), a British comedy sketch show Abso Lutely Productions, a production company started by Tim Heidecker and Eric Wareheim See also Absolute (disambiguation) Absoluteness, a description of formulas that have the same truth value in each of some class of structures Absolution (disambiguation) Definitely (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Iconic#0000",
+      "doc_id": "wikipedia:Iconic",
+      "title": "Iconic",
+      "url": "https://en.wikipedia.org/?curid=869034",
+      "source_type": "wikipedia",
+      "score": 0.4300197124481201,
+      "text": "The adjective iconic may describe: someone or something that is seen as a cultural icon a sign characterised by iconicity an image or technique typical of religious icons Iconic may also refer to: Iconic (EP), a 2012 extended play by Icona Pop Iconic, a 2015 album by Jed Madela Iconic, the working title for Rebel Heart, a 2015 studio album by Madonna \"Iconic\" (song), a 2015 song by Madonna featuring Chance the Rapper and Mike Tyson \"Iconic\", a 2018 song by Logic featuring Jaden Smith from YSIV \"Iconic\", a 2018 song by Poppy from Am I a Girl? \"Iconic\", a 2019 song by Trisha Paytas \"Iconic\", a 2021 song by Aespa from Savage \"Iconic\", a 2021 song by Bad Gyal from Warm Up \"Iconic\", a 2022 song by Simple Plan from Harder Than It Looks Iconic (concert), a 2019 concert tour by Filipino singers Sharon Cuneta and Regine Velasquez Iconic Tower, the highest skyscraper of Africa, located in the New Administrative Capital of Egypt The Iconic, a company in Australia See also Icon (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0001",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.4276388049125671,
+      "text": "to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively. Social: the ability to interact with the world through playing with others, taking turns and fantasy play. Although it is useful to chart defined periods of development, development exists on a continuum, with considerable differences between individual children. There..."
+    }
+  ]
+}

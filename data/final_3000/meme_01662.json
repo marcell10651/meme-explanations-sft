@@ -1,0 +1,203 @@
+{
+  "meme_id": "meme_01662",
+  "queries": [
+    "\"Cra beer chinkers\" \"Belgian Ale\" \"the craft beers\" \"rest\"",
+    "\"the craft beers\" \"rest\" \"shit\" \"acwuell\""
+  ],
+  "primary_terms": [
+    "Belgian Ale",
+    "rest",
+    "the craft beers",
+    "shit",
+    "Cra beer chinkers",
+    "acwuell",
+    "cra",
+    "beer",
+    "chinkers",
+    "winen",
+    "pint",
+    "tihatslorosomllovelit"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Drink#0000",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.8401161789894104,
+      "text": "A drink or beverage is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, juice, smoothies and soft drinks. Traditionally warm beverages encompass coffee, tea, and hot chocolate. Caffeinated drinks that contain the stimulant caffeine, have been consumed for centuries. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the psychoactive substance ethanol, have been part of human culture for more than 8,000 years. Non-alcoholic drinks typically refer to beverages that are traditionally alcoholic—such as beer, wine, or cocktails—but are produced with a very low alcohol by volume content. This category includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.8323493063449859,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Corona#0000",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.7579688251018524,
+      "text": "Corona (from the Latin for 'crown') most commonly refers to: Stellar corona, the outer atmosphere of a star Solar corona, the outer atmosphere of the Sun Corona (beer), a Mexican beer Corona, informal term for the coronavirus or disease responsible for the COVID-19 pandemic: SARS-CoV-2, severe acute respiratory syndrome coronavirus 2 COVID-19, coronavirus disease 2019 Corona may also refer to: Architecture Corona, a part of a cornice The Corona, Canterbury Cathedral, the east end of Canterbury Cathedral Businesses and brands Food and drink Corona (beer), a Mexican beer brand Corona (restaurant), in the Netherlands Corona (soft drink), a former brand Technology Corona (software), a mobile app creation tool Corona Data Systems, 1980s microcomputer supplier Corona Labs Inc., an American software company Corona Typewriter Company, merged into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities"
+    },
+    {
+      "chunk_id": "wikipedia:Builder#0000",
+      "doc_id": "wikipedia:Builder",
+      "title": "Builder",
+      "url": "https://en.wikipedia.org/?curid=2518249",
+      "source_type": "wikipedia",
+      "score": 0.5508585780858993,
+      "text": "Builder may refer to: Construction Construction worker, who specializes in building work Carpenter, a skilled craftsman who works with wood General contractor, that specializes in building work Subcontractor Real estate developer, who causes buildings to be constructed Media Builders (film), a 1942 British propaganda film The Builder (film), 2010 film The Builder, British magazine now known as Building Builder, American magazine published by Zonda Home \"The Builder\" (short story), a 1953 short story by Philip K. Dick \"The Builders\", an episode in the 1970s British television comedy Fawlty Towers \"Builder\" (Not Going Out), a 2019 television episode Builders, international music group also known as The Bilders, Bilderbergers and Bilderine Other Builder (detergent), a component of modern detergents Builder (hockey), in ice hockey, manages or builds the game Builder (United States Navy), U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Pappy Van Winkle's Family Reserve#0000",
+      "doc_id": "wikipedia:Pappy Van Winkle's Family Reserve",
+      "title": "Pappy Van Winkle's Family Reserve",
+      "url": "https://en.wikipedia.org/?curid=14218046",
+      "source_type": "wikipedia",
+      "score": 0.5414681881666183,
+      "text": "Pappy Van Winkle's Family Reserve is the flagship brand of bourbon whiskey owned by the \"Old Rip Van Winkle Distillery\" company. It is distilled and bottled by the Sazerac Company at its Buffalo Trace Distillery in Frankfort, Kentucky. Pappy Van Winkle's Family Reserve is often regarded as one of the finest bourbons in the world, and its very low production and high demand can make it extremely difficult to find. History In 1893, when he was 18 years old, Julian \"Pappy\" Van Winkle Sr. began working as a salesman for W.L. Weller & Sons. He became co-owner fifteen years later. In 1910 they acquired the A. Ph. Stitzel Distillery in Louisville, Kentucky, which had started as a sour mash whiskey distillery in 1872. The Stitzel Distillery supplied much of the whiskey sold by the Weller wholesale firm. Old Rip Van Winkle was introduced just before the start of Prohibition in the United States."
+    },
+    {
+      "chunk_id": "wikipedia:Hangover#0000",
+      "doc_id": "wikipedia:Hangover",
+      "title": "Hangover",
+      "url": "https://en.wikipedia.org/?curid=12274183",
+      "source_type": "wikipedia",
+      "score": 0.5012832343578338,
+      "text": "A hangover is the experience of various unpleasant physiological and psychological effects usually following the consumption of alcohol, such as wine, beer, and liquor. Hangovers can last for several hours or for more than 24 hours. Typical symptoms of a hangover may include headache, drowsiness, weakness, concentration problems, dry mouth, dizziness, fatigue, muscle ache, gastrointestinal distress (e.g., nausea, vomiting, diarrhea), absence of hunger, light sensitivity, depression, sweating, hyper-excitability, high blood pressure, irritability, and anxiety. While the causes of a hangover are still poorly understood, several factors are known to be involved including acetaldehyde accumulation, changes in the immune system and glucose metabolism, dehydration, metabolic acidosis, disturbed prostaglandin synthesis, increased cardiac output, vasodilation, sleep deprivation, and malnutrition."
+    },
+    {
+      "chunk_id": "wikipedia:Pappy Van Winkle's Family Reserve#0001",
+      "doc_id": "wikipedia:Pappy Van Winkle's Family Reserve",
+      "title": "Pappy Van Winkle's Family Reserve",
+      "url": "https://en.wikipedia.org/?curid=14218046",
+      "source_type": "wikipedia",
+      "score": 0.5007697641849518,
+      "text": "much of the whiskey sold by the Weller wholesale firm. Old Rip Van Winkle was introduced just before the start of Prohibition in the United States. After Prohibition, the brand was not reintroduced until after 1972 when the Stitzel-Weller distillery and its current brand names (including W. L. Weller, Old Fitzgerald, Rebel Yell, and Cabin Still) were sold to other companies. The only brand name the Van Winkle family had kept the rights to..."
+    },
+    {
+      "chunk_id": "wikipedia:Bing#0001",
+      "doc_id": "wikipedia:Bing",
+      "title": "Bing",
+      "url": "https://en.wikipedia.org/?curid=23443579",
+      "source_type": "wikipedia",
+      "score": 0.4708014726638794,
+      "text": "(company), a German company that manufactured toys and kitchen utensils Bing (dog), a British dog who served in World War II Bing (mining), a Scottish term for mining waste Bing & Bing, a former New York real estate development company Bing Concert Hall, a building on the Stanford University campus Barbershop in Germany or..."
+    },
+    {
+      "chunk_id": "wikipedia:Premium#0001",
+      "doc_id": "wikipedia:Premium",
+      "title": "Premium",
+      "url": "https://en.wikipedia.org/?curid=769137",
+      "source_type": "wikipedia",
+      "score": 0.46733957529067993,
+      "text": "texting, SMS used for delivering digital content Premium-rate telephone number, telephone numbers for which prices higher than normal are charged Brands Premium-Cola, a brand of cola from Germany Premium Brands Holdings Corporation, a Canadian specialty food manufacturing and distribution company Premium Outlets, a brand of shopping malls..."
+    },
+    {
+      "chunk_id": "wikipedia:Works#0000",
+      "doc_id": "wikipedia:Works",
+      "title": "Works",
+      "url": "https://en.wikipedia.org/?curid=523904",
+      "source_type": "wikipedia",
+      "score": 0.456166610121727,
+      "text": "Works may refer to: People Caddy Works (1896–1982), American college sports coach John D. Works (1847–1928), California senator and judge Samuel Works (c. 1781–1868), New York politician Albums Works (Pink Floyd album), a Pink Floyd album from 1983 Works, a Gary Burton album from 1972 Works, a Status Quo album from 1983 Works, a John Abercrombie album from 1991 Works, a Pat Metheny album from 1994 Works, an Alan Parson Project album from 2002 Works Volume 1, a 1977 Emerson, Lake & Palmer album Works Volume 2, a 1977 Emerson, Lake & Palmer album The Works, a 1984 Queen album Other uses Good works, a topic in Christian theology Microsoft Works, a collection of office productivity programs created by Microsoft IBM Works, an office suite for the IBM OS/2 operating system Mount Works, Victoria Land, Antarctica TV Works, the former name of defunct Singaporean television channel Channel i (Singaporean TV channel) See also The Works (disambiguation) Work (disambiguation) All pages with titles"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Aubrey Plaza looks up at a man while slightly smiling.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Aubrey Plaza"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that People that drink craft beer might as well be drinking motor oil",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "People",
+          "craft beer",
+          "motor oil"
+        ]
+      },
+      "title": {
+        "text": "I like Belgian Ale but rest of the craft beers tastes like shit.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Belgian Ale",
+          "rest",
+          "the craft beers",
+          "shit"
+        ]
+      },
+      "text": {
+        "text": "Cra beer chinkers winen them © Pint oF acwuell | . | TihatslorosoMllovelit _!",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Cra beer chinkers",
+          "acwuell",
+          "cra",
+          "beer",
+          "chinkers",
+          "winen",
+          "pint",
+          "tihatslorosomllovelit"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Belgian Ale",
+      "rest",
+      "the craft beers",
+      "shit",
+      "Cra beer chinkers",
+      "acwuell",
+      "cra",
+      "beer",
+      "chinkers",
+      "winen",
+      "pint",
+      "tihatslorosomllovelit"
+    ],
+    "secondary_terms": [
+      "Aubrey Plaza",
+      "People",
+      "craft beer",
+      "motor oil"
+    ],
+    "queries": [
+      "\"Cra beer chinkers\" \"Belgian Ale\" \"the craft beers\" \"rest\"",
+      "\"the craft beers\" \"rest\" \"shit\" \"acwuell\""
+    ]
+  },
+  "source_jsonl_id": null
+}

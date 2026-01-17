@@ -1,0 +1,191 @@
+{
+  "meme_id": "meme_03750",
+  "queries": [
+    "\"This November\" \"november\" \"mariah\" \"ble\" \"lae\"",
+    "\"ble\" \"lae\" \"supeton\" \"cket\""
+  ],
+  "primary_terms": [
+    "This November",
+    "november",
+    "mariah",
+    "ble",
+    "lae",
+    "supeton",
+    "cket",
+    "employees",
+    "egs"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Middle#0001",
+      "doc_id": "wikipedia:Middle",
+      "title": "Middle",
+      "url": "https://en.wikipedia.org/?curid=854025",
+      "source_type": "wikipedia",
+      "score": 0.6100354760885238,
+      "text": "2001 \"The Middle\" (Zedd, Maren Morris and Grey song), 2018 \"Middle\", a song by Rocket from the Crypt from their 1995 album Scream, Dracula, Scream! \"The Middle\", a song by Demi Lovato from their debut album Don't Forget \"The Middle\", a song by The Doubleclicks from their album President Snakes \"The Middle\", a song by Lauren Alaina from her album Wildflower \"The Middle\", a song by Trampled by Turtles from their album Life Is Good on the Open Road Other uses The Middle (TV series..."
+    },
+    {
+      "chunk_id": "wikipedia:Emon#0001",
+      "doc_id": "wikipedia:Emon",
+      "title": "Emon",
+      "url": "https://en.wikipedia.org/?curid=52429604",
+      "source_type": "wikipedia",
+      "score": 0.533944046497345,
+      "text": "(born 1993), Bangladeshi footballer Anisul Islam Emon (born 1994), Bangladeshi cricketer Parvez Hossain Emon (born 2002), Bangladeshi cricketer Abu Shahed Emon (fl. 2000s), Bangladeshi film director Emon Saha (fl. 2000s), Bangladeshi composer Emon Ahmed (fl. 2008–2010), Bangladeshi cricketer Emon Chowdhury, Bangladeshi musician Emon..."
+    },
+    {
+      "chunk_id": "wikipedia:Final#0001",
+      "doc_id": "wikipedia:Final",
+      "title": "Final",
+      "url": "https://en.wikipedia.org/?curid=759020",
+      "source_type": "wikipedia",
+      "score": 0.5034473150968551,
+      "text": "electronic musical group Final (Vol. 1), 2021 album by Enrique Iglesias Final (Vol. 2), 2024 album by Enrique Iglesias The Final (album), by Wham! \"The Final\", a song by Dir en grey on the album Withering to Death Other uses Final case, a grammatical case Part of a syllable NBA Finals, the championship competition of the National Basketball Association..."
+    },
+    {
+      "chunk_id": "wikipedia:Perfect#0001",
+      "doc_id": "wikipedia:Perfect",
+      "title": "Perfect",
+      "url": "https://en.wikipedia.org/?curid=217503",
+      "source_type": "wikipedia",
+      "score": 0.4479135125875473,
+      "text": "album) (2004) Perfect (Half Japanese album) (2016) perfecT, an album by Sam Shaber Perfect, an album by True Faith or its title track Perfect, an album by Benny Hester or its title track EPs Perfect (Mannequin Pussy EP) (2021) Songs \"Perfect\" (Vanessa Amorosi song) (2008) \"Perfect\" (Anne-Marie song) (2018..."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.4389543682336807,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:Leave#0001",
+      "doc_id": "wikipedia:Leave",
+      "title": "Leave",
+      "url": "https://en.wikipedia.org/?curid=85749",
+      "source_type": "wikipedia",
+      "score": 0.4214876890182495,
+      "text": "of \"Remain\") Arts, entertainment, and media Leave (film), a 2010 film by Robert Celestino Leave (2022 film), a 2022 film by Alex Herron Music Leave (album), a 2002 Mandopop album \"Leave\" (Get Out), a 2004 R&B song by JoJo \"Leave!\", a 2009 soul song performed by the English singer VV Brown \"Leave\", a song by Sertab Erener \"Leave\", a song..."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0001",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.40283776819705963,
+      "text": "2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a Singaporean film directed by Tzu Nyen Ho Here (2011 film), an American drama directed by Braden King Here (2023 film), a Belgian film directed by Bas Devos Here (2024 film), an American drama directed..."
+    },
+    {
+      "chunk_id": "wikipedia:Believe#0000",
+      "doc_id": "wikipedia:Believe",
+      "title": "Believe",
+      "url": "https://en.wikipedia.org/?curid=4678533",
+      "source_type": "wikipedia",
+      "score": 0.39880409836769104,
+      "text": "Believe may refer to: Belief, a psychological state in which an individual holds a proposition or premise to be true, with or without proof for such proposition Faith, a belief in something which has not been proven Arts, entertainment, and media Films Believe, a 2000 horror film starring Ben Gazzara Believe, a 2000 short film starring James Roday Believe (2007 film), a mockumentary film starring Larry Bagby Believe (2013 film), a sports drama film starring Brian Cox Believe (2016 film), a Christmas drama film starring Ryan O'Quinn Believe: The Eddie Izzard Story, a 2009 documentary about Eddie Izzard Justin Bieber's Believe, a 2013 concert film starring Justin Bieber Music Albums Believe (33Miles album), 2009 Believe (Celtic Woman album), 2011 Believe (Cher album), or the title song (see below), 1998 Believe (Dima Bilan album), or the title song (see below), 2009 Believe (Disturbed album), or the title song, 2002 Believe (Emerson Drive album), or the title song, 2009 Believe"
+    },
+    {
+      "chunk_id": "wikipedia:Decade#0000",
+      "doc_id": "wikipedia:Decade",
+      "title": "Decade",
+      "url": "https://en.wikipedia.org/?curid=695530",
+      "source_type": "wikipedia",
+      "score": 0.387924924492836,
+      "text": "A decade (from Ancient Greek: δεκάς, dekas, lit. 'group of 10') is a period of 10 years. It may also be called a decennium (from Latin: decennium, lit. 'ten-year'). Decades may describe any ten-year period, such as those of a person's life, or refer to specific groupings of calendar years. Usage Any period of ten years is a 'decade' or 'decennium'. For example, the statement that \"during his last decade, Mozart explored chromatic harmony to a degree rare at the time\" refers to the last 10 years of Wolfgang Amadeus Mozart's life without regard to which calendar years are encompassed. Also, 'the first decade' of a person's life begins on the day of their birth and ends at the end of their 10th year of life when they have their 10th birthday; the second decade of life starts with their 11th year of life (during which one is typically still referred to as being \"10\") and ends at the end of their 20th year of life, on their 20th birthday; similarly, the third decade of life, when one is in"
+    },
+    {
+      "chunk_id": "wikipedia:Ready#0000",
+      "doc_id": "wikipedia:Ready",
+      "title": "Ready",
+      "url": "https://en.wikipedia.org/?curid=9285499",
+      "source_type": "wikipedia",
+      "score": 0.38114015758037567,
+      "text": "Ready may refer to: Film and television Ready, a 2002 British short starring Imelda Staunton Ready (2008 film), an Indian Telugu-language film by Srinu Vaitla Uthamaputhiran (2010 film), working title Ready, an Indian Tamil-language remake Ready (2011 film), an Indian Hindi-language remake \"Ready\" (New Girl), a television episode Music Ready Records, a Canadian record label Albums Ready! (Nami Tamaki album), 2011 Ready (Sandy Lam album), 1988 Ready (Trey Songz album), 2009 Ready, by Reni Lane, 2010 EPs Ready (Ella Mai EP), 2017 Ready (Victon EP), 2017 Ready (Ruel EP), 2018 Songs \"Ready\" (Alessia Cara song), 2019 \"Ready\" (B.o.B song), 2013 \"Ready\" (Fabolous song), 2013 \"Ready\" (Kodaline song), 2015 \"Ready?\", by Tomoko Kawase, 2005 \"Ready\", by Black Rob from The Black Rob Report, 2005 \"Ready\", by Cat Stevens from Buddha and the Chocolate Box, 1974 \"Ready\", by Cherie from the Confessions of a Teenage Drama Queen soundtrack album, 2004 \"Ready\", by Jagged Edge from J.E."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A little girl hides under a desk while a frightening robot carrying a gun walks around.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that retail store employees are terrified every December of listening to too much Mariah Carey and other Christmas music.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "retail store employees",
+          "too much Mariah Carey",
+          "other Christmas music"
+        ]
+      },
+      "title": {
+        "text": "This November:",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "This November",
+          "november"
+        ]
+      },
+      "text": {
+        "text": "| Mariah ble | } Va oi eo AN, Lae i iN - KG supeton cket _ \\ IL employees EGS",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "mariah",
+          "ble",
+          "lae",
+          "supeton",
+          "cket",
+          "employees",
+          "egs"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "This November",
+      "november",
+      "mariah",
+      "ble",
+      "lae",
+      "supeton",
+      "cket",
+      "employees",
+      "egs"
+    ],
+    "secondary_terms": [
+      "retail store employees",
+      "too much Mariah Carey",
+      "other Christmas music"
+    ],
+    "queries": [
+      "\"This November\" \"november\" \"mariah\" \"ble\" \"lae\"",
+      "\"ble\" \"lae\" \"supeton\" \"cket\""
+    ]
+  },
+  "source_jsonl_id": null
+}

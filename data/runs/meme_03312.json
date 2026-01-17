@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_03312",
+  "queries": [
+    "\"Wednesday\" \"dudes\" \"tis\" \"weomsuhy\"",
+    "\"the Wednesday series\" \"Wednesday\" \"two frogs\" \"his favorite\"",
+    "\"two frogs\" \"his favorite\" \"dudes\" \"tis\""
+  ],
+  "primary_terms": [
+    "Wednesday",
+    "dudes",
+    "tis",
+    "weomsuhy"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Spider-Man#0000",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.7048154085874557,
+      "text": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Considered one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays. Spider-Man is the secret identity of Peter Benjamin Parker, who was raised by his Aunt May and Uncle Ben in Queens, New York City, after the death of his parents. Lee, Ditko, and later writers had the character deal with the struggles of adolescence and young adulthood. Readers identified with his self-doubt and loneliness. Unlike previous teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0001",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.6535812377929687,
+      "text": "Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A. Applegate The Other (Tryon novel), a 1971 horror novel by Tom Tryon \"The Other\" (short story), a 1972 short story by Jorge Luis Borges The Other, a 2008 novel by David Guterson Spider-Man: \"The Other\", a 2005–2006..."
+    },
+    {
+      "chunk_id": "wikipedia:SpongeBob SquarePants#0001",
+      "doc_id": "wikipedia:SpongeBob SquarePants",
+      "title": "SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/?curid=2655089",
+      "source_type": "wikipedia",
+      "score": 0.5990252643823624,
+      "text": "to Nickelodeon. The network's executives wanted SpongeBob to be a child in school, but Hillenburg preferred SpongeBob to be an adult character. He was prepared to abandon the series, but compromised by creating a boating school so SpongeBob could attend school as an adult. SpongeBob SquarePants received widespread critical acclaim in its early years, with praise given to its characters, surreal humor..."
+    },
+    {
+      "chunk_id": "wikipedia:Timon#0001",
+      "doc_id": "wikipedia:Timon",
+      "title": "Timon",
+      "url": "https://en.wikipedia.org/?curid=358706",
+      "source_type": "wikipedia",
+      "score": 0.5797152072191238,
+      "text": "the title character of The History of Timon of Athens the Man-hater, a rewrite of Shakespeare's original play by Thomas Shadwell Timon, a film and television character, originally from the film The Lion King Timon (Rome character), in the 2005 television series Rome Timon, one of the minor characters in the 2017 Netflix series, Big Mouth (American..."
+    },
+    {
+      "chunk_id": "wikipedia:Some Men#0000",
+      "doc_id": "wikipedia:Some Men",
+      "title": "Some Men",
+      "url": "https://en.wikipedia.org/?curid=10521839",
+      "source_type": "wikipedia",
+      "score": 0.5536248296499252,
+      "text": "Some Men is a play by Terrence McNally that consists of an interwoven series of stories which chronicle and contrast the lives and attitudes of gay men in the United States over the past 80 years. The play begins and ends with a contemporary gay wedding, relating interconnecting stories of generations of gay men in New York City. Some Men premiered Off-Broadway in 2007. Production history Some Men had a workshop at the Sundance Institute Theatre Laboratory at White Oak (Yulee, Florida). The play had its world premiere at the Philadelphia Theatre Company from May 12 to June 11, 2006. Some Men premiered Off-Broadway at the Second Stage Theatre on March 26, 2007, and closed on April 22, 2007. Directed by Trip Cullman, the cast featured Fred Weller, Don Amendolia, Kelly AuCoin, Romain Fruge, Michael McElroy and Randy Redd. The Canadian premiere was produced by Raving Theatre in Vancouver, British Columbia from November 21 - December 2, 2007."
+    },
+    {
+      "chunk_id": "wikipedia:Winning#0001",
+      "doc_id": "wikipedia:Winning",
+      "title": "Winning",
+      "url": "https://en.wikipedia.org/?curid=28094145",
+      "source_type": "wikipedia",
+      "score": 0.4696126490831375,
+      "text": "People with surname Charles Winning (1889–1967), Australian cricketer David Winning (born 1961), Canadian and American film director, producer, screenwriter Thomas Winning (1925–2001), Scottish Roman Catholic cardinal See also Charlie Sheen, who used the word as a catchphrase All pages with titles beginning..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.46445852518081665,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Two-Face#0000",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 0.455711767077446,
+      "text": "Two-Face is a supervillain appearing in American comic books published by DC Comics. The character was created by Bob Kane, and first appeared in Detective Comics #66 (August 1942). He has become one of the superhero Batman's most enduring enemies belonging to the collective of adversaries that make up his rogues gallery. In his comic book appearances, Two-Face is the alter ego of Harvey Dent, Gotham City's former district attorney who becomes a criminal mastermind obsessed with duality and the number two. Half of his face is hideously scarred after mob boss Sal Maroni throws acid at him. The resulting disfigurement drives him insane and causes him to make decisions based on the flip of a coin. The Modern Age of Comic Books portrays the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse."
+    },
+    {
+      "chunk_id": "wikipedia:Snake#0000",
+      "doc_id": "wikipedia:Snake",
+      "title": "Snake",
+      "url": "https://en.wikipedia.org/?curid=29370",
+      "source_type": "wikipedia",
+      "score": 0.45418113470077515,
+      "text": "Snakes are elongated limbless reptiles of the suborder Serpentes. Cladistically squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales much like other members of the group. Many species of snakes have skulls with several more joints than their lizard ancestors and relatives, enabling them to swallow prey much larger than their heads (cranial kinesis). To accommodate their narrow bodies, snakes' paired organs (such as kidneys) appear one in front of the other instead of side by side, and most only have one functional lung. Some species retain a pelvic girdle with a pair of vestigial claws on either side of the cloaca. Lizards have independently evolved elongate bodies without limbs or with greatly reduced limbs at least twenty-five times via convergent evolution, leading to many lineages of legless lizards."
+    },
+    {
+      "chunk_id": "wikipedia:Spek#0000",
+      "doc_id": "wikipedia:Spek",
+      "title": "Spek",
+      "url": "https://en.wikipedia.org/?curid=6015689",
+      "source_type": "wikipedia",
+      "score": 0.452109283208847,
+      "text": "Hussain Yoosuf, better known by his stage name Spek, is a Canadian hip hop musician. He is best known for his singles \"Smell the Coffee\" and \"I'm a Hippie\". He is a former member of the Canadian hip hop pioneers, Dream Warriors, and, more recently, known for his work as an entrepreneur and music publisher. Early career Spek started rapping at the age of 14 in his hometown of Montreal, Quebec. He joined the hip hop group Dream Warriors shortly after the release of their hit songs \"My Definition of a Boombastic Jazz Style\" and \"Wash Your Face in My Sink\". At the age of 17, he signed a worldwide record contract with EMI and toured the world before settling in London. Spek soon found himself touring across Europe with the British jazz-rap crew Us3. Working with his musical partner Brian Rose, he collaborated with members of Jamiroquai and with Nitin Sawhney."
+    }
+  ]
+}

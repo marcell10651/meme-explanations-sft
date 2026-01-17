@@ -1,0 +1,117 @@
+{
+  "meme_id": "meme_00023",
+  "queries": [
+    "\"Hug Pizza Deliveryman\" \"His Daughter\" \"enough\" \"grown\"",
+    "\"enough\" \"grown\" \"man\" \"toddler\""
+  ],
+  "primary_terms": [
+    "enough",
+    "grown",
+    "man",
+    "Hug Pizza Deliveryman",
+    "His Daughter",
+    "toddler",
+    "pushes",
+    "hug",
+    "pizza",
+    "deliveryman",
+    "without",
+    "knowing",
+    "lost",
+    "daughter",
+    "oufarerafeood",
+    "hanksyoul"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Toddler#0000",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.8764794141054153,
+      "text": "A toddler is a child approximately 1 to 3 years old, though definitions vary. The toddler years are a time of great cognitive, emotional and social development. The word is derived from \"toddle\", which means to walk unsteadily, as children at this age do. Developmental milestones Toddler development can be broken down into a number of interrelated areas. There is reasonable consensus about what these areas may include: Physical: growth or an increase in size. Gross motor: the control of large muscles which enable walking, running, jumping and climbing. Fine motor: the ability to control small muscles; enabling the toddler to feed themselves, draw and manipulate objects. Vision: the ability to see near and far and interpret what is seen. Hearing and speech: the ability to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively."
+    },
+    {
+      "chunk_id": "wikipedia:Daughter#0000",
+      "doc_id": "wikipedia:Daughter",
+      "title": "Daughter",
+      "url": "https://en.wikipedia.org/?curid=449913",
+      "source_type": "wikipedia",
+      "score": 0.8528228521347045,
+      "text": "A daughter is a female offspring; a girl or a woman in relation to her parents. Daughterhood is the state, condition or quality of being someone's daughter. The male counterpart is a son. Analogously the name is used in several areas to show relations between groups or elements. From biological perspective, a daughter is a first degree relative. The word daughter also has several other connotations attached to it, one of these being used in reference to a female descendant or consanguinity. It can also be used as a term of endearment coming from an elder. In patriarchal societies, daughters often have different or lesser familial rights than sons. A family may prefer to have sons rather than daughters and subject daughters to female infanticide. In some societies, it is the custom for a daughter to be 'sold' to her husband, who must pay a bride price."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0000",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.8141285061836243,
+      "text": "Strongest Deliveryman (Korean: 최강 배달꾼; RR: Choegang baedalkkun) is a 2017 South Korean television series starring Go Kyung-pyo, Chae Soo-bin, Kim Seon-ho, and Go Won-hee. It premiered on August 4, 2017, and aired every Friday and Saturday at 23:00 (KST) on KBS2 until September 23, 2017. Synopsis Choi Kang-soo is a deliveryman who wants to become the CEO of his own delivery app company. The series tells of his journey to achieving love and success. Cast Main Go Kyung-pyo as Choi Kang-soo A veteran deliveryman who puts his life on the line at whatever he does. Chae Soo-bin as Lee Dan-ah A delivery woman who is so single-minded about making money and escaping from \"Hell Joseon\" that she turns down all advances from men. Kim Seon-ho as Oh Jin-kyu A rich man's son, the former Head Manager of Jung Family Seollongtang, he is stubborn at first but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home."
+    },
+    {
+      "chunk_id": "wikipedia:Enough#0000",
+      "doc_id": "wikipedia:Enough",
+      "title": "Enough",
+      "url": "https://en.wikipedia.org/?curid=7209454",
+      "source_type": "wikipedia",
+      "score": 0.785326486825943,
+      "text": "Enough may refer to: Film and television Enough (film), a 2002 film starring Jennifer Lopez \"Enough\" (CSI: NY), an episode of the TV series \"Enough\" (Not Going Out), a 2017 TV episode \"Enough\", an episode of Tru Calling Songs \"Enough\" (Tarja Turunen song), 2009 \"Enough\" (Delta Goodrem song), 2016 \"Enough\" (Malina Moye song), 2019 \"Enough (Miami)\", Cardi B song, 2024 \"Enough\", by Ateez from Golden Hour: Part.2 \"Enough\", by BarlowGirl from Another Journal Entry \"Enough\", by Branan Murphy from his self-titled debut album \"Enough\", by Cat Power from Myra Lee \"Enough\", by Chris Tomlin from Not to Us \"Enough\", by Default from Elocation \"Enough\", by Disturbed from Indestructible \"Enough\", by Flume featuring Pusha T from Skin Companion EP 2 \"Enough\", by Grandson from I Love You, I'm Trying \"Enough\", by Gravity Kills from Gravity Kills, 1996 \"Enough\", by Jeremy Camp from Carried Me \"Enough\", by Jess Glynne from Jess (2024) \"Enough\", by Jessica Sierra from Rebound \"Enough\", by Keke Wyatt from"
+    },
+    {
+      "chunk_id": "wikipedia:His Family#0001",
+      "doc_id": "wikipedia:His Family",
+      "title": "His Family",
+      "url": "https://en.wikipedia.org/?curid=3241257",
+      "source_type": "wikipedia",
+      "score": 0.7530329942703247,
+      "text": "changes that have come to New York since his arrival in the city as a young man from a New Hampshire farm somewhere near the time of the Civil War. He is driven by his wife's dying request to remain close to their three daughters, yet he feels very distant from them—this despite the fact that the younger two (Deborah, a school principal, and Laura) live in the family home with him, and Edith, who is..."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0000",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.7337950825691223,
+      "text": "A father, dad, or daddy is the male parent of a child. Besides the paternal bonds of a father to his child or children, fathers may have a parental, legal, and social relationship with their child or children that carries with it certain rights and obligations. A biological father is the male genetic contributor to the creation of the child, through sexual intercourse or sperm donation. A biological father may have legal obligations to a child not raised by him, such as an obligation of monetary support. An adoptive father is a man who has become the child's parent through the legal process of adoption. A putative father is a man whose biological relationship to a child is alleged but has not been established. A stepfather is a non-biological male parent married to a child's preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child."
+    },
+    {
+      "chunk_id": "wikipedia:Delivery#0000",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.7308866143226623,
+      "text": "Delivery may refer to: Biology and medicine Childbirth Drug delivery Gene delivery Business and law Delivery (commerce), of goods, e.g.: Pizza delivery Milk delivery Food delivery Online grocer Deed (\"delivery\" in contract law), as in \"signed, sealed and delivered\" Power delivery or electricity delivery, the process that goes from generation of electricity in the power station to use by the consumer Film and television Delivering (film), a 1993 short film by Todd Field Delivery (1976 film), a Soviet Armenian biographical film Delivery (2005 film), an animated short film Delivery (2013 film), an American horror film The Delivery, a 1999 film directed by Roel Reiné \"Delivery\", the final episode of Men Behaving Badly Julia Zemiro's Home Delivery, a 2013 Australian television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama."
+    },
+    {
+      "chunk_id": "wikipedia:His Family#0000",
+      "doc_id": "wikipedia:His Family",
+      "title": "His Family",
+      "url": "https://en.wikipedia.org/?curid=3241257",
+      "source_type": "wikipedia",
+      "score": 0.7079791754484177,
+      "text": "His Family is a novel by Ernest Poole published in 1917 about the life of a New York widower and his three daughters in the 1910s. It received the first Pulitzer Prize for the Novel in 1918. Plot introduction His Family tells the story of a middle-class family in New York City in the 1910s. The family's patriarch, widower Roger Gale, struggles to deal with the way his daughters and grandchildren respond to the changing society. Each of his daughters responds in a distinctively different way to the circumstances of their lives, forcing Roger into attempting to calm the increasingly challenging family disputes that erupt. Synopsis The story begins in the spring of 1913 with Roger Gale, a New York businessman and a widower, owner of a media monitoring service, reflecting on the changes that have come to New York since his arrival in the city as a young man from a New Hampshire farm somewhere near the time of the Civil War."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0001",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.6807868659496308,
+      "text": "but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home. Supporting People around Kang-soo Kim Kyung-nam as Sung-jae Kang-soo's friend who is also a deliveryman. Kim Ki-doo as Baek Gong-gi A martial artist who is a leader of the Holy..."
+    },
+    {
+      "chunk_id": "wikipedia:Daughter#0001",
+      "doc_id": "wikipedia:Daughter",
+      "title": "Daughter",
+      "url": "https://en.wikipedia.org/?curid=449913",
+      "source_type": "wikipedia",
+      "score": 0.6744604378938674,
+      "text": "subject daughters to female infanticide. In some societies, it is the custom for a daughter to be 'sold' to her husband, who must pay a bride price. The reverse of this custom, where the parents pay the husband a sum of money to compensate for the financial burden of the woman and is known as a dowry. The payment of a dowry can be found in societies where women do not labour outside the home. Perception In the United States, the birth rate is 105 sons to 100 daughters which..."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "meme_id": "meme_02856",
+  "queries": [
+    "\"Lisa Simpson\" \"will\" \"never\" \"know\" \"laugh\"",
+    "\"know\" \"laugh\" \"jokes\" \"find\""
+  ],
+  "primary_terms": [
+    "will",
+    "never",
+    "know",
+    "laugh",
+    "jokes",
+    "find",
+    "funny",
+    "don",
+    "understand",
+    "made",
+    "fnematic"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Joke#0000",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 1.0203830480575562,
+      "text": "A joke is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh and is usually not meant to be interpreted literally. It usually takes the form of a story, often with dialogue, and ends in a punch line, whereby the humorous element of the story is revealed; this can be done using a pun or other type of word play, irony or sarcasm, logical incompatibility, hyperbole, or other means. Linguist Robert Hetzron offers the definition: A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end. No continuation relieving the tension should be added. As for its being \"oral,\" it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry."
+    },
+    {
+      "chunk_id": "wikipedia:Amusement#0000",
+      "doc_id": "wikipedia:Amusement",
+      "title": "Amusement",
+      "url": "https://en.wikipedia.org/?curid=768817",
+      "source_type": "wikipedia",
+      "score": 0.8631660312414169,
+      "text": "Amusement is the state of experiencing humorous and entertaining events or situations while the person or animal actively maintains the experience, and is associated with enjoyment, happiness, laughter and pleasure. It is an emotion with positive valence and high physiological arousal. Amusement is considered an \"epistemological\" emotion because humor occurs when one experiences a cognitive shift from one knowledge structure about a target to another, such as hearing the punchline of a joke. Emotions perceived overtime are focused on the daily dynamics of life as augment or blunt. The pleasant surprise that happens from learning this new information leads to a state of amusement which people often express through smiling, laughter or chuckling. Current studies have not yet reached consensus on the exact purpose of amusement, though theories have been advanced in the fields of psychology, psychiatry, and sociology."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.6669816493988037,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Find#0000",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.6155342578887939,
+      "text": "Find, FIND or Finding may refer to: Computing find (Unix), a command on UNIX platforms find (Windows), a command on DOS/Windows platforms Books The Find (2010), by Kathy Page The Find (2014), by William Hope Hodgson Film and television \"The Find\", an episode of Beyond Belief: Fact or Fiction \"The Find\", an episode of reality TV show The Curse of Oak Island Music Find (Hidden in Plain View EP), 2001 Find (SS501 EP) The Find, a 2005 hip hop album by Ohmega Watts People Áed Find (died 778), king of Dál Riata (modern-day Scotland) Caittil Find, Norse-Gaelic warrior contingent leader Cumméne Find (died 669), seventh abbot of Iona, Scotland Other uses Find, in archaeology Finding (jewelcrafting), jewellery components Meteorite find, a found meteorite not observed to have fallen Foundation for Innovative New Diagnostics, a not-for-profit organisation Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Amusement#0001",
+      "doc_id": "wikipedia:Amusement",
+      "title": "Amusement",
+      "url": "https://en.wikipedia.org/?curid=768817",
+      "source_type": "wikipedia",
+      "score": 0.5559921860694885,
+      "text": "yet reached consensus on the exact purpose of amusement, though theories have been advanced in the fields of psychology, psychiatry, and sociology. In addition, the precise mechanism that causes a given element (image, sound, behavior, etc.) to be perceived as more or less 'amusing' than another similar element to a particular individual is not clearly understood. Theories Two different theoretical perspectives..."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.5066882133483886,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.4886682778596878,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0001",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.4675871193408966,
+      "text": "donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture. The photo quickly became popular on the image board 4chan, and social media networks like Facebook and Twitter, depicting \"a guy who can't catch a break [...] a symbol for a stroke of hilarious bad luck\". Notable depictions In 2013, Bad Luck Brian (depicted by Craven himself) featured in a YouTube video sketch..."
+    },
+    {
+      "chunk_id": "wikipedia:Hope#0000",
+      "doc_id": "wikipedia:Hope",
+      "title": "Hope",
+      "url": "https://en.wikipedia.org/?curid=50020",
+      "source_type": "wikipedia",
+      "score": 0.4486816585063934,
+      "text": "Hope is an optimistic state of mind that is based on an expectation of positive outcomes with respect to events and circumstances in one's own life, or the world at large. As a verb, Merriam-Webster defines hope as \"to expect with confidence\" or \"to cherish a desire with anticipation\". Among its opposites are dejection, hopelessness, and despair. Hope finds expression through many dimensions of human life, including practical reasoning, the religious virtue of hope, legal doctrine, and literature, alongside cultural and mythological aspects. In psychology American professor of psychology Barbara Fredrickson argues that hope comes into its own when crisis looms, opening us to new creative possibilities. Frederickson argues that with great need comes an unusually wide range of ideas, as well as such positive emotions as happiness and joy, courage, and empowerment, drawn from four different areas of one's self: from a cognitive, psychological, social, or physical perspective."
+    },
+    {
+      "chunk_id": "wikipedia:Brandy Norwood#0001",
+      "doc_id": "wikipedia:Brandy Norwood",
+      "title": "Brandy Norwood",
+      "url": "https://en.wikipedia.org/?curid=144809",
+      "source_type": "wikipedia",
+      "score": 0.40764439702033994,
+      "text": "lead role on the UPN sitcom Moesha (1996–2001) and portrayed the titular character in the television film Rodgers & Hammerstein's Cinderella (1997). Brandy's best-selling second studio album, Never Say Never (1998), yielded two US number-one singles: \"The Boy Is Mine\" and \"Have You Ever?\". The former, a duet with Monica, spent thirteen weeks atop the Billboard Hot 100 and won both artists their first Grammy Award. Brandy ventured into more experimental sounds with..."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_04960",
+  "queries": [
+    "\"Pokemon\" \"Scarletiip\" \"Violet\" \"Maal\"",
+    "\"a large black SUV\" \"the new Pokemon release\" \"Nick Fury\" \"Pokemon\"",
+    "\"Nick Fury\" \"Pokemon\" \"Scarletiip\" \"Violet\""
+  ],
+  "primary_terms": [
+    "Pokemon",
+    "Scarletiip",
+    "Violet",
+    "Maal"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Corona#0001",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.738526925444603,
+      "text": "into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities Corona (fictional world), in R. A. Salvatore's DemonWars novels Corona, a character in the game Doraemon: Nobita to Mittsu no Seireiseki Corona, a character in the Spider..."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0001",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.7178650498390198,
+      "text": "teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J. Jonah Jameson; friends like Harry Osborn and Flash Thompson; romantic interests like Gwen Stacy, Mary Jane Watson, and the Black Cat; and enemies such as Doctor Octopus, the Green Goblin, and Venom. In his origin story, Peter gets his superhuman spider-powers and abilities after he was bitten..."
+    },
+    {
+      "chunk_id": "wikipedia:Naruto#0001",
+      "doc_id": "wikipedia:Naruto",
+      "title": "Naruto",
+      "url": "https://en.wikipedia.org/?curid=232190",
+      "source_type": "wikipedia",
+      "score": 0.7060875296592712,
+      "text": "in 72 tankōbon volumes. Viz Media licensed the manga for North American production and serialized Naruto in their digital Weekly Shonen Jump magazine. The manga was adapted into two anime television series by Pierrot and Aniplex, which ran from October 2002 to March 2017 on TV Tokyo. Pierrot also produced 11 animated films and 12 original video animations (OVAs). The franchise additionally includes light novels, video games, and trading cards. The story continues in Boruto..."
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0001",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.6199962794780731,
+      "text": "the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified. Perhaps the character's best-known storyline is The Infinity Gauntlet (1991), the culmination of several story arcs that see him gather the six Infinity Gems and use them to kill half of the universe's population, including many of its heroes, to woo Mistress Death, the living embodiment of death in the Marvel Universe. Although these events were later undone, the storyline has remained one of the most popular published by Marvel. Debuting in the Bronze Age of comic books, the character..."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0000",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.5988820493221283,
+      "text": "The Oompa-Loompas are a fictional race of people in the Charlie and the Chocolate Factory franchise based on the original book by Roald Dahl. In all versions of the story, they are depicted as little people who form the workforce of Willy Wonka's chocolate factory, and are paid in cocoa beans. However, their appearance and backstory change depending on the version. Design and characteristics The Oompa-Loompas are described as being no larger than medium-sized dolls, with rosy-white skin and long golden-brown hair. They wear the same clothes they wore at Loompaland: the men wear deerskins, the women wear leaves and the children wear nothing at all. Before moving to Willy Wonka's chocolate factory, the Oompa-Loompas lived in Loompaland, where they lived in constant fear of the predators that would eat them. Their main source of food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting."
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0000",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.5098788887262344,
+      "text": "Rubeus Hagrid () is a fictional character in the Harry Potter series of novels by J. K. Rowling. He was introduced in Harry Potter and the Philosopher's Stone (1997) as a half-giant who is the gamekeeper and groundskeeper at the wizarding school Hogwarts. He is a member of the Order of the Phoenix and eventually becomes the Care of Magical Creatures professor. Hagrid is portrayed by Robbie Coltrane in all eight Harry Potter films. Creation and development Rubeus Hagrid was one of the first characters Rowling created. In a 1999 interview, she explained that the name \"Hagrid\" is an Old English word, referring to hagridden, meaning 'tormented by hags'. She said it means \"you'd had a bad night\" and she explained that Hagrid \"has a lot of bad nights\" due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\"."
+    },
+    {
+      "chunk_id": "wikipedia:October#0001",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.4793350100517273,
+      "text": "Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa. Symbols October's birthstones are the tourmaline and opal. Its birth flower is the calendula. The zodiac signs are Libra (until October 22) and Scorpio (from October 23 onward). Observances This list does not necessarily imply either official status..."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0000",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.47273044288158417,
+      "text": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Considered one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays. Spider-Man is the secret identity of Peter Benjamin Parker, who was raised by his Aunt May and Uncle Ben in Queens, New York City, after the death of his parents. Lee, Ditko, and later writers had the character deal with the struggles of adolescence and young adulthood. Readers identified with his self-doubt and loneliness. Unlike previous teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J."
+    },
+    {
+      "chunk_id": "wikipedia:Bore#0001",
+      "doc_id": "wikipedia:Bore",
+      "title": "Bore",
+      "url": "https://en.wikipedia.org/?curid=740676",
+      "source_type": "wikipedia",
+      "score": 0.4610976427793503,
+      "text": "South Georgia, Antarctica People Bore (surname) Francisco Bores (1898–1972), Spanish artist Maritime shipping Steamship Company Bore, a Finnish company that operated for a time within Silja Line MS Bore, a car-passenger ferry built in 1960 SS Deneb, a cargo ship later renamed Bore VII Other uses Bore War, a contemporary..."
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0001",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.4456542432308197,
+      "text": "due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\". The character of Hagrid and conversations between him, Harry Potter, Ron Weasley and Hermione Granger in his hut are expository through the series, due to the fact that the trio frequently discover things about Albus Dumbledore and Hogwarts by talking with Hagrid, as he has a habit of letting..."
+    }
+  ]
+}

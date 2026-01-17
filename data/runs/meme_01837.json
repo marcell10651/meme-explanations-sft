@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_01837",
+  "queries": [
+    "\"Digital Money The\" \"Digital Money\" \"NQAWTe toscanOR\" \"Restaurant\" \"QRcode\"",
+    "\"Restaurant\" \"QRcode\" \"digital\" \"money\""
+  ],
+  "primary_terms": [
+    "Digital Money",
+    "digital",
+    "money",
+    "Restaurant",
+    "NQAWTe toscanOR",
+    "QRcode"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Cashier#0000",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.8352206408977508,
+      "text": "A retail cashier or simply a cashier is a person who handles the cash register at various locations such as the point of sale in a retail store. The most common use of the title is in the retail industry, but this job title is also used in the context of accountancy for the person responsible for receiving and disbursing money or within branch banking in the United Kingdom for the job known in the United States as a bank teller. Retail In a shop, a cashier (or checkout operator) is an employee who scans the goods that the customer wishes to purchase through a cash register. In most modern stores, the items are scanned by a barcode positioned on the item with the use of a laser scanner. After all of the items have been scanned, the cashier then collects the payment (in cash, check, and/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers."
+    },
+    {
+      "chunk_id": "wikipedia:Money#0000",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.8240760326385498,
+      "text": "Money is any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts, such as taxes, in a particular country or socio-economic context. The primary functions which distinguish money are: medium of exchange, a unit of account, a store of value and sometimes, a standard of deferred payment. Money was historically an emergent market phenomenon that possessed intrinsic value as a commodity; nearly all contemporary money systems are based on unbacked fiat money without use value. Its value is consequently derived by social convention, having been declared by a government or regulatory entity to be legal tender; that is, it must be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0001",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.7190211772918701,
+      "text": "by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites. The Internet has enabled and accelerated new forms of personal interaction through instant messaging, Internet forums, and social networking services. Online shopping has also grown to occupy a significant market across industries, enabling firms to extend brick and mortar presences..."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0000",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.7018611490726471,
+      "text": "A restaurant is a business that prepares and serves food and beverages to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, featuring a wide variety of cuisines and service models — ranging from inexpensive fast-food restaurants and cafeterias to mid-priced family restaurants to high-priced luxury establishments. Etymology The word derives from the early 19th century, taken from the French word restaurer 'provide meat for', literally 'restore to a former state' and, being the present participle of the verb, the term restaurant may have been used in 1507 as a \"restorative beverage\", and in correspondence in 1521 to mean 'that which restores the strength, a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt."
+    },
+    {
+      "chunk_id": "wikipedia:Money#0001",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.6672505497932434,
+      "text": "be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar. The money supply of a country comprises all currency in circulation (banknotes and coins currently issued) and, depending on the particular definition used, one or more types of bank money (the balances held in checking accounts, savings accounts, and other types of bank accounts). Bank money, whose value exists on the books of financial institutions and can be converted..."
+    },
+    {
+      "chunk_id": "wikipedia:Exchange#0000",
+      "doc_id": "wikipedia:Exchange",
+      "title": "Exchange",
+      "url": "https://en.wikipedia.org/?curid=41125",
+      "source_type": "wikipedia",
+      "score": 0.6488021075725555,
+      "text": "Exchange or exchanged may refer to: Arts, entertainment and media Film and television Exchange (film), or Deep Trap, 2015 South Korean psychological thriller Exchanged (film), 2019 Peruvian fantasy comedy Exchange (TV program), 2021 South Korean dating reality show Gaming Exchange (chess), closely related captures of pieces of both players in chess The exchange (chess), an exchange of a minor piece for a rook Music Exchange, a new-age jazz band of Steve Sexton and Gerald O'Brien, and their 1992 self-titled album Exchange (EP), by Against All Authority and The Criminals, 1999 \"Exchange\" (song), by Bryson Tiller, 2015 \"Exchange\" and \"(Exchange)\", songs on Massive Attack's 1998 album Mezzanine (album) Business and economics Bureau de change, or currency exchange Cryptocurrency exchange, to trade cryptocurrencies or digital currencies Exchange (economics), in a market economy Exchange (organized market), where securities etc are bought and sold Places Exchange, Indiana, U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Store#0000",
+      "doc_id": "wikipedia:Store",
+      "title": "Store",
+      "url": "https://en.wikipedia.org/?curid=43365305",
+      "source_type": "wikipedia",
+      "score": 0.6348020732402802,
+      "text": "Store may refer to: Enterprises Retail store, a shop where merchandise is sold, usually products and usually on a retail basis, and where wares are often kept App store, an online retail store where apps are sold, included in many mobile operating systems Department store, a retail store offering a wide range of consumer goods Warehouse club (or wholesale club), a no-frills retail store, usually selling a wide variety of merchandise, in which customers may buy large, wholesale quantities at low prices Warehouse, a location where items are stored, e.g., a ship's paint store, and sometimes sold, e.g., Costco Warehouse Club Arts, entertainment, and media The Store (ITV), a British shopping television programming on ITV1 The Store (novel), a 1932 novel by Thomas Sigismund Stribling \"Store\", a song by Carly Rae Jepsen from the EP Emotion: Side B Other uses Data store, a repository for persistently storing and managing collections of data Štore, a town and a municipality in eastern Slovenia"
+    },
+    {
+      "chunk_id": "wikipedia:Premium#0001",
+      "doc_id": "wikipedia:Premium",
+      "title": "Premium",
+      "url": "https://en.wikipedia.org/?curid=769137",
+      "source_type": "wikipedia",
+      "score": 0.6330293774604797,
+      "text": "texting, SMS used for delivering digital content Premium-rate telephone number, telephone numbers for which prices higher than normal are charged Brands Premium-Cola, a brand of cola from Germany Premium Brands Holdings Corporation, a Canadian specialty food manufacturing and distribution company Premium Outlets, a brand of shopping malls..."
+    },
+    {
+      "chunk_id": "wikipedia:Pizza#0001",
+      "doc_id": "wikipedia:Pizza",
+      "title": "Pizza",
+      "url": "https://en.wikipedia.org/?curid=24768",
+      "source_type": "wikipedia",
+      "score": 0.6039349198341369,
+      "text": "via delivery, and as street food. In Italy, pizza served in a restaurant is presented unsliced, and is eaten with the use of a knife and fork. In casual settings, however, it is typically cut into slices to be eaten while held in the hand. Pizza is also sold in grocery stores in a variety of forms, including frozen or as kits for self-assembly. Store-bought pizzas are then cooked using..."
+    },
+    {
+      "chunk_id": "wikipedia:Auction#0001",
+      "doc_id": "wikipedia:Auction",
+      "title": "Auction",
+      "url": "https://en.wikipedia.org/?curid=62912",
+      "source_type": "wikipedia",
+      "score": 0.5874971747398376,
+      "text": "bid. An auctioneer may announce prices, while bidders submit bids vocally or electronically. Auctions are applied for trade in diverse contexts. These contexts include antiques, paintings, rare collectibles, expensive wines, commodities, livestock, radio spectrum, used cars, real estate, online advertising, vacation packages, emission trading, and many more. Etymology The word \"auction\" is derived from auctus, the past participle of the Latin verb augeō, (\"I increase\"). History Classical antiquity Auctions have been recorded as early..."
+    }
+  ]
+}

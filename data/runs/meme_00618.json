@@ -1,0 +1,115 @@
+{
+  "meme_id": "meme_00618",
+  "queries": [
+    "\"Best cuisine\" \"KZKyri aooN\" \"the world\" \"best\"",
+    "\"the world\" \"best\" \"cuisine\" \"world\""
+  ],
+  "primary_terms": [
+    "Best cuisine",
+    "the world",
+    "best",
+    "cuisine",
+    "world",
+    "KZKyri aooN",
+    "ital",
+    "agreatesirizza",
+    "germany",
+    "mgreates",
+    "hamburgeryand",
+    "hotdogsys",
+    "britainsmgreatesimaginwcgheeses",
+    "aoon"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Perfection#0001",
+      "doc_id": "wikipedia:Perfection",
+      "title": "Perfection",
+      "url": "https://en.wikipedia.org/?curid=1928374",
+      "source_type": "wikipedia",
+      "score": 0.9279912948608399,
+      "text": "such as \"excellence\". The German polymath Leibniz (1646–1716), who thought the world to be the best of all possible worlds, never called it perfect. Paradox The Franco-Italian scholar Joseph Juste Scaliger (1540–1609), the Italian polymath Lucilio Vanini (1585–1619), and (according to Vanini) the Greek philosopher Empedocles (ca. 494 – ca. 434 BCE) held that the greatest perfection was..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.8478100955486297,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0000",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.7582764685153961,
+      "text": "A restaurant is a business that prepares and serves food and beverages to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, featuring a wide variety of cuisines and service models — ranging from inexpensive fast-food restaurants and cafeterias to mid-priced family restaurants to high-priced luxury establishments. Etymology The word derives from the early 19th century, taken from the French word restaurer 'provide meat for', literally 'restore to a former state' and, being the present participle of the verb, the term restaurant may have been used in 1507 as a \"restorative beverage\", and in correspondence in 1521 to mean 'that which restores the strength, a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt."
+    },
+    {
+      "chunk_id": "wikipedia:Pizza#0000",
+      "doc_id": "wikipedia:Pizza",
+      "title": "Pizza",
+      "url": "https://en.wikipedia.org/?curid=24768",
+      "source_type": "wikipedia",
+      "score": 0.7317548871040345,
+      "text": "Pizza is an Italian dish typically consisting of a flat base of leavened wheat-based dough topped with tomato, cheese, and other ingredients, baked at a high temperature, traditionally in a wood-fired oven. The term pizza was first recorded in 997 AD, in a Latin manuscript from the southern Italian town of Gaeta, in Lazio, on the border with Campania. Raffaele Esposito is often credited for creating the modern pizza in Naples. In 2009, Neapolitan pizza was registered with the European Union as a traditional speciality guaranteed (TSG) dish. In 2017, the art of making Neapolitan pizza was included on UNESCO's list of intangible cultural heritage. Pizza and its variants are among the most popular foods in the world. Pizza is sold at a variety of restaurants, including pizzerias, Mediterranean restaurants, via delivery, and as street food. In Italy, pizza served in a restaurant is presented unsliced, and is eaten with the use of a knife and fork."
+    },
+    {
+      "chunk_id": "wikipedia:Your Choice#0001",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.6744698047637939,
+      "text": "'s World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia. Background We thought the message of love is what could really console people and resonate with them, especially in these tough times that we're having. [...] This time, we wanted to use this word, \"love,\" and the concept..."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0001",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.6508375108242035,
+      "text": "a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt. It served only one dish, a plate of cereal, wildfowl, and onions. A forerunner for the modern restaurant is the thermopolium, an establishment in Ancient Greece or Ancient Rome that sold and served ready-to-eat food and beverages. These establishments..."
+    },
+    {
+      "chunk_id": "wikipedia:Food#0000",
+      "doc_id": "wikipedia:Food",
+      "title": "Food",
+      "url": "https://en.wikipedia.org/?curid=10646",
+      "source_type": "wikipedia",
+      "score": 0.6201551258563995,
+      "text": "Food is any substance consumed by an organism for nutritional support. Food usually consists of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or support growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill specific ecological niches within specific geographical contexts. Omnivorous humans are highly adaptable and have adapted to obtaining food in many different ecosystems. Humans generally use cooking to prepare food for consumption. The majority of the food energy required is supplied by the industrial food industry, which produces food through intensive agriculture and distributes it through complex food processing and food distribution systems."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.5926848173141479,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0000",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.5827668607234955,
+      "text": "Great may refer to: Descriptions or measurements Great, a relative measurement in physical space, see Size Greatness, being divine, superior, majestic, or transcendent People List of people known as \"the Great\" Artel Great (born 1981), American actor Great Osobor (born 2002), Spanish-born British basketball player Other uses Great (1975 film), a British animated short about Isambard Kingdom Brunel Great (2013 film), a German short film Great (supermarket), a supermarket in Hong Kong GReAT, Graph Rewriting and Transformation, a Model Transformation Language Gang Resistance Education and Training, or GREAT, a school-based and police officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great!"
+    },
+    {
+      "chunk_id": "wikipedia:Culinary Class Wars#0000",
+      "doc_id": "wikipedia:Culinary Class Wars",
+      "title": "Culinary Class Wars",
+      "url": "https://en.wikipedia.org/?curid=77970789",
+      "source_type": "wikipedia",
+      "score": 0.579348087310791,
+      "text": "Culinary Class Wars (Korean: 흑백요리사: 요리 계급 전쟁) is a South Korean cooking competition/comedy in the dramatic style of Physical: 100. The first season was released on Netflix in 2024 and featured one hundred elite chefs divided into two classes: white spoons (veterans) and black spoons (newcomers), competing for the prize of ₩300 million. The first three episodes of season two aired on December 16, 2025, with the last episode of the season scheduled to be released on January 13, 2026. In January 2026, Netflix announced the series was renewed for a team-based third season. Judges The two judges were veteran restaurateur and celebrity chef, Paik Jong-won, and the only Michelin three-star chef in Korea, Anh Sung-jae. They became full from tasting so much food during the contest but Paik still ate his packed lunch too. Care was taken to ensure impartial judging."
+    }
+  ]
+}

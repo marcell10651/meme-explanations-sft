@@ -1,0 +1,197 @@
+{
+  "meme_id": "meme_05909",
+  "queries": [
+    "\"Once\" \"these two words\" \"recipe\" \"disaster\" \"cme\"",
+    "\"disaster\" \"cme\" \"pre\" \"aten\""
+  ],
+  "primary_terms": [
+    "these two words",
+    "recipe",
+    "disaster",
+    "cme",
+    "pre",
+    "aten",
+    "rcompaiy",
+    "iho"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Disaster#0000",
+      "doc_id": "wikipedia:Disaster",
+      "title": "Disaster",
+      "url": "https://en.wikipedia.org/?curid=8137",
+      "source_type": "wikipedia",
+      "score": 0.8687067985534668,
+      "text": "A disaster is an event that causes such serious harm to people, buildings, economies, or the environment that the affected community cannot handle it alone. The United Nations Office for Disaster Risk Reduction defines a disaster as \"a serious disruption of the functioning of a community or a society at any scale due to hazardous events interacting with conditions of exposure, vulnerability and capacity, leading to one or more of the following: human, material, economic and environmental losses and impacts\". Natural disasters like avalanches, floods, earthquakes, and wildfires are caused by natural hazards. Human-made disasters like oil spills, terrorist attacks and power outages are caused by people. It may be difficult to separate natural and human-made disasters because human actions can make natural disasters worse. Climate change also affects how often disasters due to extreme weather hazards happen."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.5927657842636108,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Setup#0001",
+      "doc_id": "wikipedia:Setup",
+      "title": "Setup",
+      "url": "https://en.wikipedia.org/?curid=15988526",
+      "source_type": "wikipedia",
+      "score": 0.5401921272277832,
+      "text": "manufacturing changeover See also Setting up to fail, a manipulative technique to engineer failure Set (disambiguation) Setting (disambiguation) The Set-Up (disambiguation) All pages with titles beginning with Setup All pages with titles containing Setup All pages with titles beginning with Set up All pages with..."
+    },
+    {
+      "chunk_id": "wikipedia:Earthquake#0000",
+      "doc_id": "wikipedia:Earthquake",
+      "title": "Earthquake",
+      "url": "https://en.wikipedia.org/?curid=10106",
+      "source_type": "wikipedia",
+      "score": 0.526919424533844,
+      "text": "An earthquake, also called a quake, tremor, or temblor, is the shaking of the Earth's surface resulting from a sudden release of energy in the lithosphere that creates seismic waves. Earthquakes can range in intensity, from those so weak they cannot be felt, to those violent enough to propel objects and people into the air, damage critical infrastructure, and wreak destruction across entire cities. The seismic activity of an area is the frequency, type, and size of earthquakes experienced over a particular time. The seismicity at a particular location in the Earth is the average rate of seismic energy release per unit volume. In its most general sense, the word earthquake is used to describe any seismic event that generates seismic waves. Earthquakes can occur naturally or be induced by human activities, such as mining, fracking, and nuclear weapons testing. The initial point of rupture is called the hypocenter or focus, while the ground level directly above it is the epicenter."
+    },
+    {
+      "chunk_id": "wikipedia:Edit#0000",
+      "doc_id": "wikipedia:Edit",
+      "title": "Edit",
+      "url": "https://en.wikipedia.org/?curid=1239591",
+      "source_type": "wikipedia",
+      "score": 0.4957556873559952,
+      "text": "Edit may refer to: Concepts an action that is part of an editing process (including of images, video, and film) a particular version that is the result of editing, especially of film (for example, fan edit), or music (for example, radio edit) a film transition, also known as a \"cut\" a change to a computer file a change in the genome introduced via gene editing, or in the epigenome via epigenome editing edit., an abbreviation of \"edition\" Music edIT, American electronic DJ and producer Edit (album), a 2008 album by Mark Stewart \"Edit\", a song by Regina Spektor from the 2006 album Begin to Hope Other uses Edit (given name), a list of people and fictional characters Equitas Development Initiatives Trust (EDIT), established by the Equitas Small Finance Bank in India Edit (application), a simple text editor for the Apple Macintosh Edit (MS-DOS), the MS-DOS Editor, a plain-text editor for MS-DOS, included in some versions of Microsoft Windows Edits (app), an American app The Edit (film), a"
+    },
+    {
+      "chunk_id": "wikipedia:Edit#0001",
+      "doc_id": "wikipedia:Edit",
+      "title": "Edit",
+      "url": "https://en.wikipedia.org/?curid=1239591",
+      "source_type": "wikipedia",
+      "score": 0.49325257539749146,
+      "text": "the MS-DOS Editor, a plain-text editor for MS-DOS, included in some versions of Microsoft Windows Edits (app), an American app The Edit (film), a 1985 short film The Edit, a fashion magazine published by Net-a-Porter See also All pages with titles beginning with Edit All pages with titles containing Edit Edith, a personal..."
+    },
+    {
+      "chunk_id": "wikipedia:Update#0000",
+      "doc_id": "wikipedia:Update",
+      "title": "Update",
+      "url": "https://en.wikipedia.org/?curid=1237226",
+      "source_type": "wikipedia",
+      "score": 0.48510730266571045,
+      "text": "Update(s) or updated may refer to: Music Update (Anouk album), 2004 Update (Berlin Jazz Orchestra album), 2004 Update (Jane Zhang album), 2007 Update (Mal Waldron album), 1987 Update (Yandel album), 2017 Updated (M. Pokora album), an English-language version of Mise à jour, 2011 Other uses DR Update, a defunct Danish television news channel Software update, modifying installed software to be more up-to-date Update (SQL), a statement for changing database records Updates, a program broadcast by CNN Philippines See also Bayesian inference, a type of reasoning described as updating Patch (computing), a form of software update Upgrade, replacing or adding to improve"
+    },
+    {
+      "chunk_id": "wikipedia:Success#0000",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.46638253331184387,
+      "text": "Success is the state or condition of meeting a defined range of expectations. It may be viewed as the opposite of failure. The criteria for success depend on context, and may be relative to a particular observer or belief system. One person might consider a success what another person considers a failure, particularly in cases of direct competition or a zero-sum game. Similarly, the degree of success or failure in a situation may be differently viewed by distinct observers or participants, such that a situation that one considers to be a success, another might consider to be a failure, a qualified success or a neutral situation. For example, a film that is a commercial failure or even a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness."
+    },
+    {
+      "chunk_id": "wikipedia:Hope#0000",
+      "doc_id": "wikipedia:Hope",
+      "title": "Hope",
+      "url": "https://en.wikipedia.org/?curid=50020",
+      "source_type": "wikipedia",
+      "score": 0.4433851450681686,
+      "text": "Hope is an optimistic state of mind that is based on an expectation of positive outcomes with respect to events and circumstances in one's own life, or the world at large. As a verb, Merriam-Webster defines hope as \"to expect with confidence\" or \"to cherish a desire with anticipation\". Among its opposites are dejection, hopelessness, and despair. Hope finds expression through many dimensions of human life, including practical reasoning, the religious virtue of hope, legal doctrine, and literature, alongside cultural and mythological aspects. In psychology American professor of psychology Barbara Fredrickson argues that hope comes into its own when crisis looms, opening us to new creative possibilities. Frederickson argues that with great need comes an unusually wide range of ideas, as well as such positive emotions as happiness and joy, courage, and empowerment, drawn from four different areas of one's self: from a cognitive, psychological, social, or physical perspective."
+    },
+    {
+      "chunk_id": "wikipedia:Calm#0001",
+      "doc_id": "wikipedia:Calm",
+      "title": "Calm",
+      "url": "https://en.wikipedia.org/?curid=3042950",
+      "source_type": "wikipedia",
+      "score": 0.42867764830589294,
+      "text": "Miserably, a UK charity Department of Conservation and Land Management (Western Australia) Laws Commercial Advertisement Loudness Mitigation Act, U.S. legislation prohibiting TV commercials from being louder than the program on which they are shown Conservation and Land Management Act 1984, or CALM Act, Western Australian legislation that created the Department of Conservation and Land Management People Jonathan Calm (born 1971), American visual artist Marie Calm (1832..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A comic strip with a man on a rock speaking to a crowd of people that have pitchforks.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "people"
+        ]
+      },
+      "meme_captions": {
+        "text": "Customers don't want the products of their youth updated for the modern times.. Poster thinks companies make old content worse when remaking it",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Customers",
+          "the products",
+          "their youth",
+          "the modern times",
+          "companies",
+          "old content"
+        ]
+      },
+      "title": {
+        "text": "Once these two words come up, it's recipe for disaster",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "these two words",
+          "recipe",
+          "disaster"
+        ]
+      },
+      "text": {
+        "text": "' P a) | cme ne PRE ATEN , RS RCOMPAIY scoaaa ey oS iho ft iD Oe On Sd Ty |",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "cme",
+          "pre",
+          "aten",
+          "rcompaiy",
+          "iho"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "these two words",
+      "recipe",
+      "disaster",
+      "cme",
+      "pre",
+      "aten",
+      "rcompaiy",
+      "iho"
+    ],
+    "secondary_terms": [
+      "people",
+      "Customers",
+      "the products",
+      "their youth",
+      "the modern times",
+      "companies",
+      "old content"
+    ],
+    "queries": [
+      "\"Once\" \"these two words\" \"recipe\" \"disaster\" \"cme\"",
+      "\"disaster\" \"cme\" \"pre\" \"aten\""
+    ]
+  },
+  "source_jsonl_id": null
+}

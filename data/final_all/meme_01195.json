@@ -1,0 +1,192 @@
+{
+  "meme_id": "meme_01195",
+  "queries": [
+    "\"Lee\" \"the fence\" \"put\" \"fence\"",
+    "\"put\" \"fence\" \"reason\" \"mind\""
+  ],
+  "primary_terms": [
+    "the fence",
+    "put",
+    "fence",
+    "reason",
+    "mind",
+    "business",
+    "trae",
+    "Lee"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Post#0001",
+      "doc_id": "wikipedia:Post",
+      "title": "Post",
+      "url": "https://en.wikipedia.org/?curid=230424",
+      "source_type": "wikipedia",
+      "score": 0.6978786647319793,
+      "text": "Post (structural), timber framing Post and lintel, a building system Scratch post Steel fence post Trading post Utility pole or utility post Military Military base, an assigned station or a guard post Outpost (military), a military outpost Guardpost, or guardhouse Geography Post, Iran, a village in West Azerbaijan Province..."
+    },
+    {
+      "chunk_id": "wikipedia:A Reason to Live, a Reason to Die#0000",
+      "doc_id": "wikipedia:A Reason to Live, a Reason to Die",
+      "title": "A Reason to Live, a Reason to Die",
+      "url": "https://en.wikipedia.org/?curid=24235116",
+      "source_type": "wikipedia",
+      "score": 0.5779456615447998,
+      "text": "A Reason to Live, a Reason to Die (originally titled Una Ragione Per Vivere E Una Per Morire, also known as Massacre at Fort Holman) is a 1972 Technicolor Italian spaghetti Western movie starring James Coburn, Bud Spencer, and Telly Savalas. Many exterior scenes were filmed at the Fort Bowie set built in the Province of Almería, Spain, where the desert landscape and climate that characterizes part of the province have made it a much utilized setting for Western films, among those A Fistful of Dollars, The Good, the Bad and the Ugly, Once Upon a Time in the West, and later 800 Bullets. The Fort Bowie set was originally built for the film The Deserter. There are two different English language versions of the movie, shorter with James Coburn's own voice and longer with different voice actors and music. James Coburn was not involved in longer cut dubbing. It also features some of the same songs from Day of Anger starring Lee Van Cleef."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.5762345612049102,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Reason#0000",
+      "doc_id": "wikipedia:Reason",
+      "title": "Reason",
+      "url": "https://en.wikipedia.org/?curid=42446",
+      "source_type": "wikipedia",
+      "score": 0.5206571877002716,
+      "text": "Reason is the capacity of consciously applying logic by drawing valid conclusions from new or existing information, with the aim of seeking truth. It is associated with such characteristically human activities as philosophy, religion, science, language, and mathematics, and is normally considered to be a distinguishing ability possessed by humans. Reason is sometimes referred to as rationality, although the latter is more about its application. Reasoning involves using more-or-less rational processes of thinking and cognition to extrapolate from one's existing knowledge to generate new knowledge, and involves the use of one's intellect. The field of logic studies the ways in which humans can use formal reasoning to produce logically valid arguments and true conclusions. Reasoning may be subdivided into forms of logical reasoning, such as deductive reasoning, inductive reasoning, and abductive reasoning."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0000",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.5095070481300354,
+      "text": "Strongest Deliveryman (Korean: 최강 배달꾼; RR: Choegang baedalkkun) is a 2017 South Korean television series starring Go Kyung-pyo, Chae Soo-bin, Kim Seon-ho, and Go Won-hee. It premiered on August 4, 2017, and aired every Friday and Saturday at 23:00 (KST) on KBS2 until September 23, 2017. Synopsis Choi Kang-soo is a deliveryman who wants to become the CEO of his own delivery app company. The series tells of his journey to achieving love and success. Cast Main Go Kyung-pyo as Choi Kang-soo A veteran deliveryman who puts his life on the line at whatever he does. Chae Soo-bin as Lee Dan-ah A delivery woman who is so single-minded about making money and escaping from \"Hell Joseon\" that she turns down all advances from men. Kim Seon-ho as Oh Jin-kyu A rich man's son, the former Head Manager of Jung Family Seollongtang, he is stubborn at first but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home."
+    },
+    {
+      "chunk_id": "wikipedia:Help#0001",
+      "doc_id": "wikipedia:Help",
+      "title": "Help",
+      "url": "https://en.wikipedia.org/?curid=17344601",
+      "source_type": "wikipedia",
+      "score": 0.4672665148973465,
+      "text": "Slayer) \"Help\" (The Gentle Touch) \"Help\", an episode of The Protector \"Help\" (Spaced) \"The Help\" (Modern Family) Literature Help! (magazine) Help!! (manga) The Help, a historical novel by Kathryn Stockett Music Help (band), an American rock band Albums The Help Album, a musical compilation album to benefit the War Child charity Help (Blackbear album) Help (Thee Oh Sees album) Help!, the 1965..."
+    },
+    {
+      "chunk_id": "wikipedia:Reason#0001",
+      "doc_id": "wikipedia:Reason",
+      "title": "Reason",
+      "url": "https://en.wikipedia.org/?curid=42446",
+      "source_type": "wikipedia",
+      "score": 0.4669708669185638,
+      "text": "conclusions. Reasoning may be subdivided into forms of logical reasoning, such as deductive reasoning, inductive reasoning, and abductive reasoning. Aristotle drew a distinction between logical discursive reasoning (reason proper), and intuitive reasoning, in which the reasoning process through intuition—however valid—may tend toward the personal and the subjectively opaque. In some social and political settings logical and intuitive..."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.4343331307172775,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0001",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.42899457216262815,
+      "text": "suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital. Following his recovery, the now-unemployed Tramp is mistakenly arrested in a Communist demonstration. In jail, he accidentally ingests smuggled cocaine, and in his subsequent delirium, he avoids being put back in his cell. When he returns, he stumbles upon a jailbreak and knocks the convicts..."
+    },
+    {
+      "chunk_id": "wikipedia:Concern#0000",
+      "doc_id": "wikipedia:Concern",
+      "title": "Concern",
+      "url": "https://en.wikipedia.org/?curid=6769649",
+      "source_type": "wikipedia",
+      "score": 0.4181166410446167,
+      "text": "Concern may refer to: Constructs Worry, an emotion Concern (computer science), an abstract concept about program behavior Enterprises and organizations Concern (business), a German type of group company Concern (organisation), a student society at the Indian Institute of Science, India CONCERN Program, a Con Edison program that offers eligible customers a specially trained representative and advice about government aid programs, safety tips, and ways to save money on one's energy bill Concern Worldwide, an Irish charity Other uses Concern (horse), an American Thoroughbred racehorse See also Care (disambiguation) Concerned, a webcomic parodying the video game Half-Life 2 Travel concerns travel guide from Wikivoyage"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A hairless cat lays sprawled out on a chair while lounging in the sun.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "A hairless cat lays",
+          "the sun"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster gets mad when the dog gets tan.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the dog",
+          "tan"
+        ]
+      },
+      "title": {
+        "text": "I put the fence up for a reason, mind ya business",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the fence",
+          "put",
+          "fence",
+          "reason",
+          "mind",
+          "business"
+        ]
+      },
+      "text": {
+        "text": "I’m getting a tan, stop peeking over the fence you pervert ae Ae re trae We ee | . Lye Fy fe arte t ' ~ you, Seen Lee eK] N oN - ° BLK ee : pwr oe “ 7 a 7",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the fence",
+          "trae",
+          "Lee"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the fence",
+      "put",
+      "fence",
+      "reason",
+      "mind",
+      "business",
+      "trae",
+      "Lee"
+    ],
+    "secondary_terms": [
+      "A hairless cat lays",
+      "the sun",
+      "the dog",
+      "tan"
+    ],
+    "queries": [
+      "\"Lee\" \"the fence\" \"put\" \"fence\"",
+      "\"put\" \"fence\" \"reason\" \"mind\""
+    ]
+  },
+  "source_jsonl_id": null
+}

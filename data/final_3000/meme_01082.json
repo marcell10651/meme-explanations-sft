@@ -1,0 +1,180 @@
+{
+  "meme_id": "meme_01082",
+  "queries": [
+    "\"{eee RNS SSS MSS oC.\" \"Thanks\" \"Nice\" \"Nee\"",
+    "\"{eee RNS SSS MSS oC.\" \"the man's name\" \"Thanks\" \"Nice\"",
+    "\"Thanks\" \"Nice\" \"Nee\" \"Jesus\""
+  ],
+  "primary_terms": [
+    "Thanks",
+    "{eee RNS SSS MSS oC.",
+    "Nice",
+    "Nee"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Thanks#0000",
+      "doc_id": "wikipedia:Thanks",
+      "title": "Thanks",
+      "url": "https://en.wikipedia.org/?curid=2558488",
+      "source_type": "wikipedia",
+      "score": 1.1966422259807588,
+      "text": "Thanks may refer to: Thank you, a common expression of gratitude Film and television Thanks (film), a 2011 American film Thanks (TV series), a 1999 American sitcom Music Albums Thanks, by J. Vincent Edwards, 1969 Thanks, by Ivan Neville, 1994 Thanks, by Marty Grosz, 1997 Thanks, by w-inds., 2006 Songs \"Thanks\" (song), 1969, recorded by J. Vincent Edwards and Bill Anderson \"Thanks!\" (GAM song), 2006 \"Thanks\", by the James Gang from James Gang Rides Again, 1970 \"Thanks\", by Judith Allen and by Bing Crosby from the Too Much Harmony soundtrack, 1933 \"Thanks\", by Waylon Jennings from Ladies Love Outlaws, 1972 See also All pages with titles beginning with Thanks All pages with titles containing Thanks Thankful (disambiguation) Thank God (disambiguation) Thank You (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Nice#0000",
+      "doc_id": "wikipedia:Nice",
+      "title": "Nice",
+      "url": "https://en.wikipedia.org/?curid=47088",
+      "source_type": "wikipedia",
+      "score": 1.017785918712616,
+      "text": "Nice ( NEESS; French pronunciation: [nis] ) is a French city located in the prefecture of the Alpes-Maritimes department. The Nice agglomeration extends beyond the administrative city limits, with a population of nearly one million over an area of 744 km2 (287 sq mi). Located on the French Riviera, the southeastern coast of France on the Mediterranean Sea, at the foot of the French Alps, Nice is the second-largest French city on the Mediterranean coast and second-largest city in the Provence-Alpes-Côte d'Azur region after Marseille. It is approximately 13 kilometres (8 mi) from the principality of Monaco and 30 kilometres (19 mi) from the French–Italian border. Nice's airport serves as a gateway to the region. The city is nicknamed Nice la Belle (Nissa La Bella in Niçard), meaning 'Nice the Beautiful', which is also the title of the unofficial anthem of Nice, written by Menica Rondelly."
+    },
+    {
+      "chunk_id": "wikipedia:Nice 'n' Easy#0000",
+      "doc_id": "wikipedia:Nice 'n' Easy",
+      "title": "Nice 'n' Easy",
+      "url": "https://en.wikipedia.org/?curid=2733631",
+      "source_type": "wikipedia",
+      "score": 0.8343650311231613,
+      "text": "Nice 'n' Easy is the eighteenth studio album by Frank Sinatra, released on July 25, 1960. All the songs, with the notable exception of the title song, are sung as ballads and were arranged and conducted by Nelson Riddle. The title song was a last-minute substitute for the originally planned \"The Nearness of You,\" which did not appear on the original LP. The album spent nine weeks at number one on the Billboard stereo album chart, and one week at number one on the corresponding mono album chart. At the 1961 Grammy Awards, Nice 'n' Easy was nominated for the Grammy Award as Album of the Year, Best Male Vocal Performance, Best Arrangement. The song \"Nice 'n' Easy\" was released as a single in 1960 and made it to number 60 on the charts. It was also recorded by Charlie Rich in 1964, Peggy Lee in 1966, Alex Chilton in 1989, Michael Buble in 2004, Natalie Cole in 2008, and Barbra Streisand in 2011."
+    },
+    {
+      "chunk_id": "wikipedia:Please#0001",
+      "doc_id": "wikipedia:Please",
+      "title": "Please",
+      "url": "https://en.wikipedia.org/?curid=63658677",
+      "source_type": "wikipedia",
+      "score": 0.830184280872345,
+      "text": "you please, an intransitive, ergative form taken from if it please you, which is in turn a calque of the French s'il vous plaît, which replaced pray. The exact time frame of the shortening is unknown, though it has been noted that this form appears not to have been known to William Shakespeare, for whom \"please you\" is the shortest form used in any of his works. A variation of the phrase, \"may it please the court\", remains in use as a formality for attorneys addressing judges in legal proceedings. Despite its straightforward definition..."
+    },
+    {
+      "chunk_id": "wikipedia:Praise#0001",
+      "doc_id": "wikipedia:Praise",
+      "title": "Praise",
+      "url": "https://en.wikipedia.org/?curid=44749915",
+      "source_type": "wikipedia",
+      "score": 0.7341178059577942,
+      "text": "tends to be less salient and expected, conveys more information about competence, and is typically given more immediately after the desired behavior. Praise is distinct from acknowledgement or feedback (more neutral forms of recognition) and from encouragement (expressedly future-oriented). Praise is given across social hierarchy, and both within the ingroup and towards an outgroup; it is an important aspect..."
+    },
+    {
+      "chunk_id": "wikipedia:Nice 'n' Easy#0001",
+      "doc_id": "wikipedia:Nice 'n' Easy",
+      "title": "Nice 'n' Easy",
+      "url": "https://en.wikipedia.org/?curid=2733631",
+      "source_type": "wikipedia",
+      "score": 0.7172605007886886,
+      "text": "recorded by Charlie Rich in 1964, Peggy Lee in 1966, Alex Chilton in 1989, Michael Buble in 2004, Natalie Cole in 2008, and Barbra Streisand in 2011. Nancy Sinatra recorded a cover version as a single (Reprise Records RS.20756 \"Happy\" b/w \" Nice 'n' Easy\"); it is also included in the CD version of her album \"Nancy\" as a bonus track. In 2000 it was voted number 545 in Colin Larkin's All Time Top 1000 Albums. Track listing \"Nice 'n' Easy..."
+    },
+    {
+      "chunk_id": "wikipedia:Please#0000",
+      "doc_id": "wikipedia:Please",
+      "title": "Please",
+      "url": "https://en.wikipedia.org/?curid=63658677",
+      "source_type": "wikipedia",
+      "score": 0.7101927846670151,
+      "text": "Please is a word used in the English language to indicate politeness and respect while making a request. Derived from shortening the phrase \"if you please\" or \"if it please(s) you\", the term has taken on substantial nuance based on its intonation and the relationship between the persons between whom it is used. In much of the Western world, use of the word is considered proper etiquette, and parents and authority figures often imprint upon children the importance of saying \"please\" when asking for something from an early age, leading to the description of the term as \"the magic word\". Origin and understanding \"Please\" is a shortening of the phrase, if you please, an intransitive, ergative form taken from if it please you, which is in turn a calque of the French s'il vous plaît, which replaced pray."
+    },
+    {
+      "chunk_id": "wikipedia:Praise#0000",
+      "doc_id": "wikipedia:Praise",
+      "title": "Praise",
+      "url": "https://en.wikipedia.org/?curid=44749915",
+      "source_type": "wikipedia",
+      "score": 0.6820191740989685,
+      "text": "Praise as a form of social interaction expresses recognition, reassurance or admiration. Praise is expressed verbally as well as by body language (facial expression and gestures). Verbal praise consists of a positive evaluations of another's attributes or actions, where the evaluator presumes the validity of the standards on which the evaluation is based. As a form of social manipulation, praise becomes a form of reward and furthers behavioral reinforcement by conditioning. The influence of praise on an individual can depend on many factors, including the context, the meanings the praise may convey, and the characteristics and interpretations of the recipient. While praise may share some predictive relationships (both positive and negative) with tangible (material) rewards, praise tends to be less salient and expected, conveys more information about competence, and is typically given more immediately after the desired behavior."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0001",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.6792309582233429,
+      "text": "2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a Singaporean film directed by Tzu Nyen Ho Here (2011 film), an American drama directed by Braden King Here (2023 film), a Belgian film directed by Bas Devos Here (2024 film), an American drama directed..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.6588397920131683,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Jesus introduces himself to a man drowning.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Jesus",
+          "himself"
+        ]
+      },
+      "meme_captions": {
+        "text": "The poster is saying that Jesus thinks the man's name is drowning.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Jesus",
+          "the man's name"
+        ]
+      },
+      "title": {
+        "text": "Thanks.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Thanks"
+        ]
+      },
+      "text": {
+        "text": "Lo Pee se Pa \\ __ ; LP. bd . : 1K {eee RNS SSS MSS oC. a NS r ASS QO Ssh Vy \\~ ™* wok Nice to meet Ss a GPR ; ~ a ~ 7 | benny elie \\\\ SSN RS Nee",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "{eee RNS SSS MSS oC.",
+          "Nice",
+          "Nee"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Thanks",
+      "{eee RNS SSS MSS oC.",
+      "Nice",
+      "Nee"
+    ],
+    "secondary_terms": [
+      "Jesus",
+      "himself",
+      "the man's name"
+    ],
+    "queries": [
+      "\"{eee RNS SSS MSS oC.\" \"Thanks\" \"Nice\" \"Nee\"",
+      "\"{eee RNS SSS MSS oC.\" \"the man's name\" \"Thanks\" \"Nice\"",
+      "\"Thanks\" \"Nice\" \"Nee\" \"Jesus\""
+    ]
+  },
+  "source_jsonl_id": null
+}

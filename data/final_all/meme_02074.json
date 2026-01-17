@@ -1,0 +1,201 @@
+{
+  "meme_id": "meme_02074",
+  "queries": [
+    "\"Reddit\" \"twitter\" \"the hell\" \"the state\"",
+    "\"the hell\" \"the state\" \"hens ilies\" \"things\""
+  ],
+  "primary_terms": [
+    "the hell",
+    "things",
+    "sure",
+    "love",
+    "milk",
+    "hell",
+    "Reddit",
+    "the state",
+    "twitter",
+    "[hens ilies"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:State#0001",
+      "doc_id": "wikipedia:State",
+      "title": "State",
+      "url": "https://en.wikipedia.org/?curid=290282",
+      "source_type": "wikipedia",
+      "score": 0.8382526397705078,
+      "text": "societies or civilizations State may also refer to: Arts, entertainment, and media Literature State Magazine, a monthly magazine published by the U.S. Department of State The State (newspaper), a daily newspaper in Columbia, South Carolina, United States Our State, a monthly magazine published in North Carolina and formerly called The State The State (Larry Niven), a fictional future government in three novels by Larry Niven Music Groups and labels States Records, an American record label The State (band), Australian band previously known as the Cutters Albums State (album), a 2013 album by Todd Rundgren..."
+    },
+    {
+      "chunk_id": "wikipedia:Phoenix#0000",
+      "doc_id": "wikipedia:Phoenix",
+      "title": "Phoenix",
+      "url": "https://en.wikipedia.org/?curid=23689",
+      "source_type": "wikipedia",
+      "score": 0.6342955589294433,
+      "text": "Phoenix most often refers to: Phoenix (mythology), an immortal bird in ancient Greek mythology Phoenix, Arizona, the capital of the U.S. state of Arizona and the most populous state capital in the United States Phoenix may also refer to: Greek mythology Phoenix (Greek mythology), several other figures in Greek mythology, including: Phoenix (son of Agenor), brother or father of Europa Phoenix (son of Amyntor), king of the Dolopians who raises Achilles Places Canada Phoenix, Alberta, a ghost town Phoenix, British Columbia, a ghost town United States Phoenix, Arizona, capital of Arizona and most populous city in the state Phoenix metropolitan area, Arizona Phoenix, Georgia, an unincorporated community Phoenix, Illinois, a village Phoenix, Louisiana, an unincorporated community Phoenix, Maryland, an unincorporated community Phoenix, Michigan, an unincorporated community Phoenix, Mississippi, an unincorporated community Phoenix, Edison, New Jersey, a neighborhood of the township of Edison"
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.6247311443090439,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Nevada#0000",
+      "doc_id": "wikipedia:Nevada",
+      "title": "Nevada",
+      "url": "https://en.wikipedia.org/?curid=21216",
+      "source_type": "wikipedia",
+      "score": 0.5415418803691864,
+      "text": "Nevada ( nə-VAD-ə; Spanish: [neˈβaða] ) is a landlocked state in the Western United States. It is also sometimes placed in the Mountain West and Southwestern United States. It borders Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east. Nevada is the seventh-most extensive and the 32nd-most populous U.S. state. Nearly three-quarters of Nevada's population live in Clark County, which contains the Las Vegas–Paradise metropolitan area. Nevada's capital is Carson City. Las Vegas is the largest city in the state. Nevada is officially known as the \"Silver State\" because of the importance of silver to its history and economy. It is also known as the \"Battle Born State\" because it achieved statehood during the Civil War; as the \"Sagebrush State\", for the native plant of the same name; and as the \"Sage-hen State\". Native Americans of the Paiute, Shoshone, and Washoe tribes inhabit what is now Nevada."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0000",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.48236668705940244,
+      "text": "Things or The Things may refer to: Music Things (album), by Uri Caine and Paolo Fresu, 2006 \"Things\" (Bobby Darin song), 1962; covered by Ronnie Dove, 1975 \"Things\", a song by Joe Walsh from There Goes the Neighborhood, 1981 \"Things\", a song by John Cale from HoboSapiens, 2003 \"Things\", a song by Split Enz, 1979 \"Things\", a song by Paul Westerberg from 14 Songs, 1993 \"The Things\", a song by Audio Bullys from Ego War, 2003 Literature Things, a 1914 novel by Alice Duer Miller Things: A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.4430925905704498,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0001",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.441889688372612,
+      "text": "a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The Terror (1917 film), an American silent film The Terror (1920 film), an American western film starring Tom Mix Terror (1924 film), a French film starring Pearl White The Terror..."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.4347469210624695,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0000",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.4345439672470093,
+      "text": "Terror(s) or The Terror may refer to: Politics Terrorism, the use of violence against non-combatants to achieve political or ideological aims Reign of Terror, commonly known as The Terror, a period of violence (1793–1794) after the onset of the French Revolution Terror (politics), a policy of political repression and violence The Terror (Karlovo massacre), a massacre of Bulgarian civilians in Karlovo, followed by police and legal repression in the second half of 1878 The Great Purge in the 1930s Soviet Union is also known as the \"Great Terror\" or \"The Terror\" Emotions An extreme form of fear, the emotional response to a threat or danger Angst, a form of anxiety or fear described in existentialist philosophy Anxiety, a sense of dread Panic, a sudden overwhelming fear Arts, entertainment and media Fictional entities Terror (Marvel Comics), a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The"
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0001",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.4251732587814331,
+      "text": ". It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world. According to data provided by Similarweb, 51.75% of the website traffic comes from the United States, followed by Canada at 7.01%, the United Kingdom at 6.97%, Australia at 3.97%, Germany at 3%, and the remaining 28.37% split among other countries. Reddit was founded by University of Virginia roommates Steve Huffman and Alexis Ohanian in June 2005, who were joined..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A large man's head stares at a Minecraft game cow.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a Minecraft game cow"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that Reddit users see the chaos occurring on twitter and wants to milk it for a lot of jokes and content.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Reddit users",
+          "the chaos",
+          "twitter",
+          "jokes",
+          "content"
+        ]
+      },
+      "title": {
+        "text": "We sure do love to milk the hell out of things.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the hell",
+          "things",
+          "sure",
+          "love",
+          "milk",
+          "hell"
+        ]
+      },
+      "text": {
+        "text": "Reddit looking at the state of twitter right now f= \" sr ee 2! L \\ hed Lo \\-—- cm -oNT af . “al —- aan Be ee oa! TS o ae Cleat Ty ae [hens ilies — an -- - a mee mo ode Ly _. and . - | ’ phi: 5 Can¥milkKavot",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Reddit",
+          "the state",
+          "twitter",
+          "[hens ilies"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the hell",
+      "things",
+      "sure",
+      "love",
+      "milk",
+      "hell",
+      "Reddit",
+      "the state",
+      "twitter",
+      "[hens ilies"
+    ],
+    "secondary_terms": [
+      "a Minecraft game cow",
+      "Reddit users",
+      "the chaos",
+      "twitter",
+      "jokes",
+      "content"
+    ],
+    "queries": [
+      "\"Reddit\" \"twitter\" \"the hell\" \"the state\"",
+      "\"the hell\" \"the state\" \"hens ilies\" \"things\""
+    ]
+  },
+  "source_jsonl_id": null
+}

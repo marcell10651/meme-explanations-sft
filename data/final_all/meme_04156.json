@@ -1,0 +1,181 @@
+{
+  "meme_id": "meme_04156",
+  "queries": [
+    "\"the 5th person\" \"Happy Holidays\" \"the last month\" \"Covid\"",
+    "\"the last month\" \"Covid\" \"happy\" \"holidays\""
+  ],
+  "primary_terms": [
+    "Happy Holidays",
+    "happy",
+    "holidays",
+    "the 5th person",
+    "work",
+    "Covid",
+    "the last month"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:COVID-19#0000",
+      "doc_id": "wikipedia:COVID-19",
+      "title": "COVID-19",
+      "url": "https://en.wikipedia.org/?curid=63030231",
+      "source_type": "wikipedia",
+      "score": 0.7305859088897705,
+      "text": "Coronavirus disease 2019 (COVID-19) is a contagious disease caused by the coronavirus SARS-CoV-2. In January 2020, the disease spread worldwide, resulting in the COVID-19 pandemic. The symptoms of COVID‑19 can vary but often include fever, fatigue, cough, breathing difficulties, loss of smell, and loss of taste. Symptoms may begin one to 14 days after exposure to the virus. At least a third of people who are infected do not develop noticeable symptoms. Of those who develop symptoms noticeable enough to be classified as patients, most (81%) develop mild to moderate symptoms (up to mild pneumonia), while 14% develop severe symptoms (dyspnea, hypoxia, or more than 50% lung involvement on imaging), and 5% develop critical symptoms (respiratory failure, shock, or multiorgan dysfunction). Older people have a higher risk of developing severe symptoms. Some complications result in death."
+    },
+    {
+      "chunk_id": "wikipedia:Quarantine#0001",
+      "doc_id": "wikipedia:Quarantine",
+      "title": "Quarantine",
+      "url": "https://en.wikipedia.org/?curid=25237",
+      "source_type": "wikipedia",
+      "score": 0.5916305840015411,
+      "text": "outbreak, the SARS pandemic, the Ebola pandemic and extensive quarantines applied throughout the world during the COVID-19 pandemic since 2020. Ethical and practical considerations need to be considered when applying quarantine to people. Practice differs from country to country; in some countries, quarantine is just one of many measures governed by legislation relating to the broader..."
+    },
+    {
+      "chunk_id": "wikipedia:October#0001",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.5604183077812195,
+      "text": "Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa. Symbols October's birthstones are the tourmaline and opal. Its birth flower is the calendula. The zodiac signs are Libra (until October 22) and Scorpio (from October 23 onward). Observances This list does not necessarily imply either official status..."
+    },
+    {
+      "chunk_id": "wikipedia:April#0000",
+      "doc_id": "wikipedia:April",
+      "title": "April",
+      "url": "https://en.wikipedia.org/?curid=1004",
+      "source_type": "wikipedia",
+      "score": 0.5416225790977478,
+      "text": "April is the fourth month of the year in the Gregorian and Julian calendars. Its length is 30 days. April is commonly associated with the season of spring in the Northern Hemisphere, and autumn in the Southern Hemisphere, where it is the seasonal equivalent to October in the Northern Hemisphere and vice versa. History The Romans gave this month the Latin name Aprilis but the derivation of this name is uncertain. The traditional etymology is from the verb aperire, \"to open\", in allusion to its being the season when trees and flowers begin to \"open\", which is supported by comparison with the modern Greek use of άνοιξη (ánixi) (opening) for spring. Since some of the Roman months were named in honor of divinities, and as April was sacred to the goddess Venus, her Veneralia being held on the first day, it has been suggested that Aprilis was originally her month Aphrilis, from her equivalent Greek goddess name Aphrodite (Aphros), or the Etruscan name Apru."
+    },
+    {
+      "chunk_id": "wikipedia:Corona#0000",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.5374300092458725,
+      "text": "Corona (from the Latin for 'crown') most commonly refers to: Stellar corona, the outer atmosphere of a star Solar corona, the outer atmosphere of the Sun Corona (beer), a Mexican beer Corona, informal term for the coronavirus or disease responsible for the COVID-19 pandemic: SARS-CoV-2, severe acute respiratory syndrome coronavirus 2 COVID-19, coronavirus disease 2019 Corona may also refer to: Architecture Corona, a part of a cornice The Corona, Canterbury Cathedral, the east end of Canterbury Cathedral Businesses and brands Food and drink Corona (beer), a Mexican beer brand Corona (restaurant), in the Netherlands Corona (soft drink), a former brand Technology Corona (software), a mobile app creation tool Corona Data Systems, 1980s microcomputer supplier Corona Labs Inc., an American software company Corona Typewriter Company, merged into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities"
+    },
+    {
+      "chunk_id": "wikipedia:COVID-19#0001",
+      "doc_id": "wikipedia:COVID-19",
+      "title": "COVID-19",
+      "url": "https://en.wikipedia.org/?curid=63030231",
+      "source_type": "wikipedia",
+      "score": 0.5201673567295074,
+      "text": "failure, shock, or multiorgan dysfunction). Older people have a higher risk of developing severe symptoms. Some complications result in death. Some people continue to experience a range of effects (long COVID) for months or years after infection, and damage to organs has been observed. Multi-year studies on the long-term effects are ongoing. COVID‑19 transmission occurs when infectious particles are breathed in or come into contact with the eyes,..."
+    },
+    {
+      "chunk_id": "wikipedia:Corona#0001",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.5016590803861618,
+      "text": "into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities Corona (fictional world), in R. A. Salvatore's DemonWars novels Corona, a character in the game Doraemon: Nobita to Mittsu no Seireiseki Corona, a character in the Spider..."
+    },
+    {
+      "chunk_id": "wikipedia:October#0000",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.48267441987991333,
+      "text": "October is the 10th month of the year in the Julian and Gregorian calendars. Its length is 31 days. The eighth month in the old calendar of Romulus c. 750 BC, October retained its name (from Latin and Greek ôctō meaning \"eight\") after January and February were inserted into the calendar that had originally been created by the Romans. In Ancient Rome, one of three Mundus patet would take place on October 5, Meditrinalia October 11, Augustalia on October 12, October Horse on October 15, and Armilustrium on October 19. These dates do not correspond to the modern Gregorian calendar. Among the Anglo-Saxons, it was known as Winterfylleth (Ƿinterfylleþ), because at this full moon, winter was supposed to begin. October is commonly associated with the season of autumn in parts of the Northern Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa."
+    },
+    {
+      "chunk_id": "wikipedia:Birthday#0000",
+      "doc_id": "wikipedia:Birthday",
+      "title": "Birthday",
+      "url": "https://en.wikipedia.org/?curid=20903181",
+      "source_type": "wikipedia",
+      "score": 0.4786608278751373,
+      "text": "A birthday is the anniversary of the birth of a person or the figurative birth of an institution. Birthdays of people are celebrated in numerous cultures, often with birthday gifts, birthday cards, a birthday party, or a rite of passage. Many religions celebrate the birth of their founders or religious figures with special holidays (e.g. Christmas, Mawlid, Buddha's Birthday, Krishna Janmashtami, and Gurpurb). There is a distinction between birthday and birthdate (also known as date of birth): the former, except for February 29, occurs each year (e.g. January 15), while the latter is the complete date when a person was born (e.g. January 15, 2001). Coming of age In most legal systems, one becomes a legal adult on a particular birthday when they reach the age of majority (usually between 12 and 21), and reaching age-specific milestones confers particular rights and responsibilities."
+    },
+    {
+      "chunk_id": "wikipedia:Quarantine#0000",
+      "doc_id": "wikipedia:Quarantine",
+      "title": "Quarantine",
+      "url": "https://en.wikipedia.org/?curid=25237",
+      "source_type": "wikipedia",
+      "score": 0.46686015129089353,
+      "text": "A quarantine is a restriction on the movement of people, animals, and goods which is intended to prevent the spread of disease or pests. It is often used in connection to disease and illness, preventing the movement of those who may have been exposed to a communicable disease, yet do not have a confirmed medical diagnosis. It is distinct from medical isolation, in which those confirmed to be infected with a communicable disease are isolated from the healthy population. The concept of quarantine is known to have been practised through history in various places. Notable quarantines in modern history include the village of Eyam in 1665 during the bubonic plague outbreak in England; East Samoa during the 1918 flu pandemic; the Diphtheria outbreak during the 1925 serum run to Nome, the 1972 Yugoslav smallpox outbreak, the SARS pandemic, the Ebola pandemic and extensive quarantines applied throughout the world during the COVID-19 pandemic since 2020."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "DJ Khalid is holding up a liquor bottle.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that employees at the meme poster's work keep getting covid.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "employees"
+        ]
+      },
+      "title": {
+        "text": "Happy Holidays!",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Happy Holidays",
+          "happy",
+          "holidays"
+        ]
+      },
+      "text": {
+        "text": "When the 5th person from work gets Covid in the last month. (oS",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the 5th person",
+          "work",
+          "Covid",
+          "the last month"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Happy Holidays",
+      "happy",
+      "holidays",
+      "the 5th person",
+      "work",
+      "Covid",
+      "the last month"
+    ],
+    "secondary_terms": [
+      "employees"
+    ],
+    "queries": [
+      "\"the 5th person\" \"Happy Holidays\" \"the last month\" \"Covid\"",
+      "\"the last month\" \"Covid\" \"happy\" \"holidays\""
+    ]
+  },
+  "source_jsonl_id": null
+}

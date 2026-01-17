@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_03700",
+  "queries": [
+    "\"the opening World Cup match\" \"Soe hte ara\" \"Ecuador Players\" \"NSEC pet\"",
+    "\"Ecuador Players\" \"NSEC pet\" \"Soccer\" \"Football\""
+  ],
+  "primary_terms": [
+    "Soccer",
+    "Football",
+    "not",
+    "Ecuador Players",
+    "the opening World Cup match",
+    "Qatar",
+    "Wee",
+    "NSEC pet",
+    "Soe hte ara"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Ever#0001",
+      "doc_id": "wikipedia:Ever",
+      "title": "Ever",
+      "url": "https://en.wikipedia.org/?curid=749143",
+      "source_type": "wikipedia",
+      "score": 0.8033858358860015,
+      "text": "footballer Ever Anderson (born 2007), actress and model Ever Caballero (born 1982), Paraguayan footballer Ever Cantero (born 1985), Paraguayan footballer Ever Carradine (born 1974), American actress and the daughter of Robert Carradine Éver Guzmán (born 1988), Mexican football (soccer) player Ever Hernández (born 1958), retired football..."
+    },
+    {
+      "chunk_id": "wikipedia:Mater#0001",
+      "doc_id": "wikipedia:Mater",
+      "title": "Mater",
+      "url": "https://en.wikipedia.org/?curid=4910553",
+      "source_type": "wikipedia",
+      "score": 0.6754334390163421,
+      "text": "Mater, a major part of an astrolabe M.A.T.E.R., a football (soccer) club in Rome People Juris Māters (1845–1885), Latvian writer and journalist Rudy Mater (born 1980), French footballer See also Dura mater, the outermost layer of the meninges surrounding the brain and spinal cord in mammals Arachnoid..."
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo#0001",
+      "doc_id": "wikipedia:Leonardo",
+      "title": "Leonardo",
+      "url": "https://en.wikipedia.org/?curid=11525478",
+      "source_type": "wikipedia",
+      "score": 0.6452118515968323,
+      "text": "Crashcup People Leonardo da Vinci (1452–1519), Italian polymath Leonardo Araújo, Brazilian former footballer and manager, most recently the sporting director of Paris Saint-Germain Leonardo (footballer, born 1974), Brazilian forward Leonardo Pereira da Silva (1974–2016) Leonardo (footballer, born 1976), Brazilian winger Leonardo dos Santos..."
+    },
+    {
+      "chunk_id": "wikipedia:Emon#0001",
+      "doc_id": "wikipedia:Emon",
+      "title": "Emon",
+      "url": "https://en.wikipedia.org/?curid=52429604",
+      "source_type": "wikipedia",
+      "score": 0.4777390122413635,
+      "text": "(born 1993), Bangladeshi footballer Anisul Islam Emon (born 1994), Bangladeshi cricketer Parvez Hossain Emon (born 2002), Bangladeshi cricketer Abu Shahed Emon (fl. 2000s), Bangladeshi film director Emon Saha (fl. 2000s), Bangladeshi composer Emon Ahmed (fl. 2008–2010), Bangladeshi cricketer Emon Chowdhury, Bangladeshi musician Emon..."
+    },
+    {
+      "chunk_id": "wikipedia:Naruto#0001",
+      "doc_id": "wikipedia:Naruto",
+      "title": "Naruto",
+      "url": "https://en.wikipedia.org/?curid=232190",
+      "source_type": "wikipedia",
+      "score": 0.4342160582542419,
+      "text": "in 72 tankōbon volumes. Viz Media licensed the manga for North American production and serialized Naruto in their digital Weekly Shonen Jump magazine. The manga was adapted into two anime television series by Pierrot and Aniplex, which ran from October 2002 to March 2017 on TV Tokyo. Pierrot also produced 11 animated films and 12 original video animations (OVAs). The franchise additionally includes light novels, video games, and trading cards. The story continues in Boruto..."
+    },
+    {
+      "chunk_id": "wikipedia:Tony#0000",
+      "doc_id": "wikipedia:Tony",
+      "title": "Tony",
+      "url": "https://en.wikipedia.org/?curid=264960",
+      "source_type": "wikipedia",
+      "score": 0.4333585262298584,
+      "text": "Tony may refer to: People and fictional characters Tony the Tiger, cartoon mascot for Frosted Flakes cereal Tony (given name), including a list of people and fictional characters Gregory Tony (born 1978), American law enforcement officer Motu Tony (born 1981), New Zealand international rugby league footballer Tony (footballer, born 1983), full name Tony Heleno da Costa Pinho, Brazilian football defensive midfielder Tony (footballer, born 1986), full name Antônio de Moura Carvalho, Brazilian football attacking midfielder Tony (footballer, born 1989), full name Tony Ewerton Ramos da Silva, Brazilian football right-back Film, theater and television Tony Awards, a Broadway theatre honor Tony (1982 film), an Indian Kannada-language film Tony (2009 film), a British horror film directed by Gerard Johnson Tony (2013 film), an Indian Kannada-language thriller film \"Tony\" (Skins series 1), the first episode of British comedy-drama Skins \"Tony\" (Skins series 2), episode six of the second series"
+    },
+    {
+      "chunk_id": "wikipedia:Tine#0001",
+      "doc_id": "wikipedia:Tine",
+      "title": "Tine",
+      "url": "https://en.wikipedia.org/?curid=1389414",
+      "source_type": "wikipedia",
+      "score": 0.4196388334035873,
+      "text": "literary critic and poet Tine De Caigny (born 1997), Belgian footballer Tine Eerlingen (born 1976), Belgian politician Tine Fischer, Danish film executive, appointed head of the Danish Film Institute from August 2024 Tine Hribar (born 1941), Slovenian philosopher Tine Kavčič (born 1994), Slovenian footballer Tine Ladefoged (born 1977), Danish handball..."
+    },
+    {
+      "chunk_id": "wikipedia:Play#0001",
+      "doc_id": "wikipedia:Play",
+      "title": "Play",
+      "url": "https://en.wikipedia.org/?curid=923188",
+      "source_type": "wikipedia",
+      "score": 0.41441763043403623,
+      "text": "and also known as Raftaar 24 x 7 The Play (film), a 2013 Indian Bengali-language film Aattam or The Play, a 2024 Indian Malayalam-language film Games and sports Gameplay Play from scrimmage in American and Canadian football The Play (American football), a famous last-second kickoff return by the California Golden Bears to beat the..."
+    },
+    {
+      "chunk_id": "wikipedia:Final#0001",
+      "doc_id": "wikipedia:Final",
+      "title": "Final",
+      "url": "https://en.wikipedia.org/?curid=759020",
+      "source_type": "wikipedia",
+      "score": 0.41089558601379395,
+      "text": "electronic musical group Final (Vol. 1), 2021 album by Enrique Iglesias Final (Vol. 2), 2024 album by Enrique Iglesias The Final (album), by Wham! \"The Final\", a song by Dir en grey on the album Withering to Death Other uses Final case, a grammatical case Part of a syllable NBA Finals, the championship competition of the National Basketball Association..."
+    },
+    {
+      "chunk_id": "wikipedia:Exchange#0000",
+      "doc_id": "wikipedia:Exchange",
+      "title": "Exchange",
+      "url": "https://en.wikipedia.org/?curid=41125",
+      "source_type": "wikipedia",
+      "score": 0.4047762602567673,
+      "text": "Exchange or exchanged may refer to: Arts, entertainment and media Film and television Exchange (film), or Deep Trap, 2015 South Korean psychological thriller Exchanged (film), 2019 Peruvian fantasy comedy Exchange (TV program), 2021 South Korean dating reality show Gaming Exchange (chess), closely related captures of pieces of both players in chess The exchange (chess), an exchange of a minor piece for a rook Music Exchange, a new-age jazz band of Steve Sexton and Gerald O'Brien, and their 1992 self-titled album Exchange (EP), by Against All Authority and The Criminals, 1999 \"Exchange\" (song), by Bryson Tiller, 2015 \"Exchange\" and \"(Exchange)\", songs on Massive Attack's 1998 album Mezzanine (album) Business and economics Bureau de change, or currency exchange Cryptocurrency exchange, to trade cryptocurrencies or digital currencies Exchange (economics), in a market economy Exchange (organized market), where securities etc are bought and sold Places Exchange, Indiana, U.S."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "meme_id": "meme_00586",
+  "queries": [
+    "\"Teacher Spawner\" \"teacher\" \"spawner\" \"aoe\"",
+    "\"Teacher Spawner\" \"the projector\" \"the classroom\" \"teacher\"",
+    "\"the classroom\" \"teacher\" \"spawner\" \"aoe\""
+  ],
+  "primary_terms": [
+    "Teacher Spawner",
+    "teacher",
+    "spawner",
+    "aoe"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Teacher#0000",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 1.2860445141792298,
+      "text": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence, or virtue, via the practice of teaching. Informally the role of teacher may be taken on by anyone (e.g. when showing a colleague how to perform a specific task). In some countries, teaching young people of school age may be carried out in an informal setting, such as within the family (homeschooling), rather than in a formal setting such as a school or college. Some other professions may involve a significant amount of teaching (e.g. youth worker, pastor). In most countries, formal teaching of students is usually carried out by paid professional teachers. This article focuses on those who are employed, as their main role, to teach others in a formal education context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0000",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.8848125040531158,
+      "text": "Class, Classes, or The Class may refer to: Common uses not otherwise categorized Class (biology), a taxonomic rank Class (knowledge representation), a collection of individuals or objects Class (philosophy), an analytical concept used differently from such group phenomena as \"types\" or \"kinds\" Class (set theory), a collection of sets that can be unambiguously defined by a property that all its members share Hazard class, a dangerous goods classification Social class, the hierarchical arrangement of individuals in society, usually defined by wealth and occupation Working class, can be defined by rank, income or collar Arts, entertainment, and media \"The Class\" (song), 1959 Chubby Checker song Character class, in role-playing games and other genres Class 95 (radio station), a Singaporean radio channel Films Class (film), 1983 American film The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff"
+    },
+    {
+      "chunk_id": "wikipedia:Grader#0000",
+      "doc_id": "wikipedia:Grader",
+      "title": "Grader",
+      "url": "https://en.wikipedia.org/?curid=620529",
+      "source_type": "wikipedia",
+      "score": 0.8421906232833862,
+      "text": "A grader, also commonly referred to as a road grader, motor grader, or simply blade, is a form of heavy equipment with a long blade used to create a flat surface during grading. Although the earliest models were towed behind horses, and later tractors, most modern graders are self-propelled and thus technically \"motor graders\". Typical graders have three axles, with the steering wheels in front, followed by the grading blade or mouldboard, then a cab and engine atop tandem rear axles. Some graders also have front-wheel drives for improved performance. Some graders have optional rear attachments, such as a ripper, scarifier, or compactor. A blade forward of the front axle may also be added. For snowplowing and some dirt grading operations, a main blade extension can also be mounted. Capacities range from a blade width of 2.5 to 7.5 m (8 to 24 ft) and engines from 95–375 kW (125–500 hp)."
+    },
+    {
+      "chunk_id": "wikipedia:Student#0001",
+      "doc_id": "wikipedia:Student",
+      "title": "Student",
+      "url": "https://en.wikipedia.org/?curid=155526",
+      "source_type": "wikipedia",
+      "score": 0.7792259216308594,
+      "text": "are referred to as students. The Nigerian system of education also has other recognized categories like the polytechnics and colleges of education. Colleges are more for teaching students how to become teachers, while polytechnics teach students about engineering, industrialization and economics. South Africa In South Africa, education..."
+    },
+    {
+      "chunk_id": "wikipedia:SpongeBob SquarePants#0001",
+      "doc_id": "wikipedia:SpongeBob SquarePants",
+      "title": "SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/?curid=2655089",
+      "source_type": "wikipedia",
+      "score": 0.7163046598434448,
+      "text": "to Nickelodeon. The network's executives wanted SpongeBob to be a child in school, but Hillenburg preferred SpongeBob to be an adult character. He was prepared to abandon the series, but compromised by creating a boating school so SpongeBob could attend school as an adult. SpongeBob SquarePants received widespread critical acclaim in its early years, with praise given to its characters, surreal humor..."
+    },
+    {
+      "chunk_id": "wikipedia:Grader#0001",
+      "doc_id": "wikipedia:Grader",
+      "title": "Grader",
+      "url": "https://en.wikipedia.org/?curid=620529",
+      "source_type": "wikipedia",
+      "score": 0.708293229341507,
+      "text": "a main blade extension can also be mounted. Capacities range from a blade width of 2.5 to 7.5 m (8 to 24 ft) and engines from 95–375 kW (125–500 hp). Certain graders can operate multiple attachments, or be designed for specialized tasks like underground mining. Function In civil engineering \"rough grading\" is performed by heavy equipment such as wheel tractor-scrapers and bulldozers. Graders are used to \"finish grade\", with the angle, tilt..."
+    },
+    {
+      "chunk_id": "wikipedia:Student#0000",
+      "doc_id": "wikipedia:Student",
+      "title": "Student",
+      "url": "https://en.wikipedia.org/?curid=155526",
+      "source_type": "wikipedia",
+      "score": 0.687600165605545,
+      "text": "A student is a person enrolled in a school or other educational institution, or more generally, a person who takes a special interest in a subject. In the United Kingdom and most commonwealth countries, a \"student\" attends a secondary school or higher (e.g., college or university); those in primary or elementary schools are \"pupils\". Africa Nigeria In Nigeria, education is classified into four systems known as a 6-3-3-4 system of education. It implies six years in primary school, three years in junior secondary, three years in senior secondary and four years in the university. However, the number of years to be spent in university is mostly determined by the course of study. Some courses have longer study lengths than others. Those in primary school are often referred to as pupils. Those in university, as well as those in secondary school, are referred to as students. The Nigerian system of education also has other recognized categories like the polytechnics and colleges of education."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0001",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.6651890873908997,
+      "text": "The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff from Doctor Who The Class (TV series), a CBS sitcom Class (2023 TV series), a 2023 Indian Netflix teen drama Literature Class: A Guide Through the American Status System,..."
+    },
+    {
+      "chunk_id": "wikipedia:Artist#0000",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.6340293437242508,
+      "text": "An artist is a person engaged in creating art, or practicing the arts. The most common usage in everyday speech and academic discourse refers to a practitioner in the visual arts only. However, the term is also very widely used in the entertainment business to refer to actors, musicians, singers, dancers , and other performers. The French word artiste is sometimes used in English in this context, although this has become old-fashioned. The use of the term \"artist\" to describe writers is valid, but less common, and mostly restricted to contexts such as critics' reviews; \"author\" is generally used instead. While the use of the word 'artist' is common, there is no agreed upon definition of art—this makes the definition of who is and is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art."
+    },
+    {
+      "chunk_id": "wikipedia:Dungeons & Dragons#0001",
+      "doc_id": "wikipedia:Dungeons & Dragons",
+      "title": "Dungeons & Dragons",
+      "url": "https://en.wikipedia.org/?curid=7940",
+      "source_type": "wikipedia",
+      "score": 0.6167128682136536,
+      "text": "each player to create their own character to play instead of a military formation. These characters embark upon adventures within a fantasy setting. A Dungeon Master (DM) serves as referee and storyteller for the game, while maintaining the setting in which the adventures occur, and playing the role of the inhabitants of the game world, known as non-player characters (NPCs). The characters form a party and they interact with the setting's inhabitants and each other. Together they solve..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A classroom has a cage over the projector.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the projector"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey the projecter using the classroom.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the projecter",
+          "the classroom"
+        ]
+      },
+      "title": {
+        "text": "Teacher Spawner",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Teacher Spawner",
+          "teacher",
+          "spawner"
+        ]
+      },
+      "text": {
+        "text": "—— - ee) ; aoe",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "aoe"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Teacher Spawner",
+      "teacher",
+      "spawner",
+      "aoe"
+    ],
+    "secondary_terms": [
+      "the projector",
+      "the projecter",
+      "the classroom"
+    ],
+    "queries": [
+      "\"Teacher Spawner\" \"teacher\" \"spawner\" \"aoe\"",
+      "\"Teacher Spawner\" \"the projector\" \"the classroom\" \"teacher\"",
+      "\"the classroom\" \"teacher\" \"spawner\" \"aoe\""
+    ]
+  },
+  "source_jsonl_id": null
+}

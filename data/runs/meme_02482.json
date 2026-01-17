@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_02482",
+  "queries": [
+    "\"So Timmy\" \"the gun\" \"timmy\" \"happened\" \"teacher\"",
+    "\"happened\" \"teacher\" \"shooter\" \"shoots\""
+  ],
+  "primary_terms": [
+    "timmy",
+    "happened",
+    "teacher",
+    "the gun",
+    "shooter",
+    "shoots",
+    "comes",
+    "bully",
+    "class",
+    "leaves",
+    "any",
+    "gun"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0001",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.8366335213184357,
+      "text": "Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends. During this time, Craig starts high school and becomes close to Ms. Hart, a teacher who comes to his aid when Kenny Yankovich, a school bully, attempts to intimidate him. After winning $3,000 from a lottery ticket that Harrigan..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.7336773633956909,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Teacher#0000",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.6825965762138366,
+      "text": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence, or virtue, via the practice of teaching. Informally the role of teacher may be taken on by anyone (e.g. when showing a colleague how to perform a specific task). In some countries, teaching young people of school age may be carried out in an informal setting, such as within the family (homeschooling), rather than in a formal setting such as a school or college. Some other professions may involve a significant amount of teaching (e.g. youth worker, pastor). In most countries, formal teaching of students is usually carried out by paid professional teachers. This article focuses on those who are employed, as their main role, to teach others in a formal education context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0001",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.6055951118469238,
+      "text": "by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\". Angered by the suicide of a student who is mocked and refused a loan for her studies, they eventually kill the corrupt bank manager who abetted it. Soon enough, more corrupt individuals are killed, and Rajan Mathew is reinstated as S.P. to nab the group. The team learn..."
+    },
+    {
+      "chunk_id": "wikipedia:Teacher#0001",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.571467062830925,
+      "text": "context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures. Teachers may provide instruction in literacy and numeracy, craftsmanship or vocational training, the arts, religion, civics, community roles, or life skills. Formal teaching tasks include preparing lessons according to agreed curricula, giving lessons..."
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0000",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.5455609709024429,
+      "text": "Kyle Edward Craven (born August 10, 1989), commonly known by his Internet nickname \"Bad Luck Brian\", is an American Internet celebrity known for his photo which was posted on Reddit in 2012, which quickly became a popular Internet meme. Bad Luck Brian is an image macro style of meme. His captions describe a variety of unlucky, embarrassing and tragic events. Meme Origin On January 23, 2012, at 2:15 UTC, Ian Davies uploaded a photo to Reddit of his friend Kyle Craven. Craven and Davies both attended Archbishop Hoban High School in Akron, Ohio. The photo which became Bad Luck Brian was originally taken for the high school's 2005–06 yearbook. Craven stated that he rubbed his face with a sweater to redden it and donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture."
+    },
+    {
+      "chunk_id": "wikipedia:A Reason to Live, a Reason to Die#0000",
+      "doc_id": "wikipedia:A Reason to Live, a Reason to Die",
+      "title": "A Reason to Live, a Reason to Die",
+      "url": "https://en.wikipedia.org/?curid=24235116",
+      "source_type": "wikipedia",
+      "score": 0.5402923285961151,
+      "text": "A Reason to Live, a Reason to Die (originally titled Una Ragione Per Vivere E Una Per Morire, also known as Massacre at Fort Holman) is a 1972 Technicolor Italian spaghetti Western movie starring James Coburn, Bud Spencer, and Telly Savalas. Many exterior scenes were filmed at the Fort Bowie set built in the Province of Almería, Spain, where the desert landscape and climate that characterizes part of the province have made it a much utilized setting for Western films, among those A Fistful of Dollars, The Good, the Bad and the Ugly, Once Upon a Time in the West, and later 800 Bullets. The Fort Bowie set was originally built for the film The Deserter. There are two different English language versions of the movie, shorter with James Coburn's own voice and longer with different voice actors and music. James Coburn was not involved in longer cut dubbing. It also features some of the same songs from Day of Anger starring Lee Van Cleef."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.5157826840877533,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0001",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.5155184119939804,
+      "text": "state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son. The principal, worried for his school's reputation, tries to contain the situation and hides the letter in his office, while the four parents instructs their children to keep quiet. Ho-chang, curious to..."
+    },
+    {
+      "chunk_id": "wikipedia:Walkin#0001",
+      "doc_id": "wikipedia:Walkin",
+      "title": "Walkin",
+      "url": "https://en.wikipedia.org/?curid=33627004",
+      "source_type": "wikipedia",
+      "score": 0.5105629116296768,
+      "text": "barren sand dunes, children playing on a swing set, and villains trying to kill him. He collapses on his knees several times throughout the journey. In the end, Curry faces off with his archenemy John Wayne in a cinematic showdown, successfully defeating him. Remixes An official remix of the song featuring American rapper Key Glock was released on June 1, 2022. In his verse,..."
+    }
+  ]
+}

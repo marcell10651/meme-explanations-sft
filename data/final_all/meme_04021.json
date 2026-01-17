@@ -1,0 +1,213 @@
+{
+  "meme_id": "meme_04021",
+  "queries": [
+    "\"Not\" \"single nugget\" \"chicken nuggies\" \"single\" \"nugget\"",
+    "\"single\" \"nugget\" \"enough\" \"left\""
+  ],
+  "primary_terms": [
+    "single nugget",
+    "single",
+    "nugget",
+    "enough",
+    "left",
+    "over",
+    "fine",
+    "not",
+    "given",
+    "your sister",
+    "lunch",
+    "chicken nuggies",
+    "school",
+    "your parents"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Even#0001",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.6523769557476043,
+      "text": "an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even (band), an Australian alternative rock band \"Even\", a song by Chris Brown from his 2017 album Heartbreak on a Full Moon Even Hotels, one of brands of IHG Hotels & Resorts See also Evens..."
+    },
+    {
+      "chunk_id": "wikipedia:Small Faces#0000",
+      "doc_id": "wikipedia:Small Faces",
+      "title": "Small Faces",
+      "url": "https://en.wikipedia.org/?curid=167663",
+      "source_type": "wikipedia",
+      "score": 0.6451699018478394,
+      "text": "The Small Faces were an English rock band from London, founded in 1965. The group originally consisted of singer/guitarist Steve Marriott, bassist Ronnie Lane, drummer Kenney Jones and keyboardist Jimmy Winston, with Ian McLagan replacing Winston in 1966. The band were initially one of the most acclaimed and influential mod groups of the mid-1960s, with hit singles such as \"Whatcha Gonna Do About It\" (1965), \"Sha-La-La-La-Lee\" and \"All or Nothing\" (both 1966). From 1967, they evolved into one of the UK's most successful psychedelic bands, achieving further hit singles including \"Here Come the Nice\", \"Itchycoo Park\", \"Tin Soldier\" (all 1967) and \"Lazy Sunday\" (1968), the latter taken from their critically-acclaimed concept album Ogdens' Nut Gone Flake (1968), which reached No. 1 on the UK Albums Chart. In 1969, Marriott left to form Humble Pie, while Lane, Jones and McLagan continued under the shortened name the Faces with Rod Stewart and Ronnie Wood."
+    },
+    {
+      "chunk_id": "wikipedia:Only#0000",
+      "doc_id": "wikipedia:Only",
+      "title": "Only",
+      "url": "https://en.wikipedia.org/?curid=1629775",
+      "source_type": "wikipedia",
+      "score": 0.6201708018779755,
+      "text": "Only may refer to: Music Albums Only (album), by Tommy Emmanuel, 2000 The Only, an EP by Dua Lipa, 2017 The Only (EP), by The Boyz Songs \"Only\" (Anthrax song), 1993 \"Only\" (Nine Inch Nails song), 2005 \"Only\" (Nicki Minaj song), 2014 \"Only\" (Lee Hi song), 2021 \"The Only\", by Static-X, 2003 \"Only\", by Ass Ponys from Lohio, 2001 \"Only\", by Fuse ODG, 2015 \"Only\", by Imagine Dragons from Origins, 2018 \"Only\", by NF from The Search, 2019 \"Only\", by Sarah Vaughan from Sarah Slightly Classical, 1963 \"Only\", by Sampha from Lahai, 2023 \"The Only\", a song by Raiden featuring Irene, 2019 \"The Only\", by Sasha Alex Sloan from Loser, 2018 Other uses Only (film), a 2019 post-apocalyptic romance film Only (magazine), a 2000s Canadian news and entertainment magazine Only, Tennessee, US Jerry Only (born 1959), American punk rock bassist and singer See also All pages with titles beginning with Only All pages with titles beginning with The Only Onli, people with this surname Onley (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:With Teeth#0000",
+      "doc_id": "wikipedia:With Teeth",
+      "title": "With Teeth",
+      "url": "https://en.wikipedia.org/?curid=905871",
+      "source_type": "wikipedia",
+      "score": 0.5887666761875152,
+      "text": "With Teeth (stylized as [WITH_TEETH]) is the fourth studio album by American industrial rock band Nine Inch Nails, released by Nothing Records and Interscope Records on May 3, 2005. The album was produced by Nine Inch Nails frontman Trent Reznor and long-time collaborator Alan Moulder. It also features contributions from musician Dave Grohl and future band member Atticus Ross. In line with the band's previous material, the record features introspective songwriting influenced by Reznor's addiction to alcohol and drugs and subsequent sobriety. The album generated three singles: \"The Hand That Feeds\", \"Only\", and \"Every Day Is Exactly the Same\", the latter of which was released as an accompanying remix EP. The album was supported by the Live: With Teeth tour. With Teeth was well received by critics, albeit slightly less than the band's previous work. Some complimented the aggressive composition, while others said the album was bland and criticized Reznor for a lack of originality."
+    },
+    {
+      "chunk_id": "wikipedia:Hand#0001",
+      "doc_id": "wikipedia:Hand",
+      "title": "Hand",
+      "url": "https://en.wikipedia.org/?curid=19166474",
+      "source_type": "wikipedia",
+      "score": 0.5317114651203155,
+      "text": "four fingers plus one thumb; however, these are often referred to collectively as five fingers, whereby the thumb is included as one of the fingers. It has 27 bones, not including the sesamoid bone, the number of which varies among people, 14 of which are the phalanges (proximal, intermediate and distal) of the fingers and thumb. The metacarpal bones connect the fingers and the carpal bones of the wrist. Each human hand has five..."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0000",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.5244992882013321,
+      "text": "Quantity or amount is a property that includes numbers and quantifiable phenomena such as mass, time, distance, heat, angle, and information. Quantities can commonly be compared in terms of \"more\", \"less\", or \"equal\", or by assigning a numerical value multiple of a unit of measurement. Quantity is among the basic classes of things along with quality, substance, change, and relation. Some quantities are such by their inner nature (as number), while others function as states (properties, dimensions, attributes) of things such as heavy and light, long and short, broad and narrow, small and great, or much and little. Under the name of multitude comes what is discontinuous and discrete and divisible ultimately into indivisibles, such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0001",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.5166939258575439,
+      "text": "such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns. Under the name of magnitude comes what is continuous and unified and divisible only into smaller divisibles, such as: matter, mass, energy, liquid, material—all cases of non-collective nouns. Along with analyzing its nature and classification, the issues of quantity involve such closely related topics as dimensionality..."
+    },
+    {
+      "chunk_id": "wikipedia:Helicopter#0001",
+      "doc_id": "wikipedia:Helicopter",
+      "title": "Helicopter",
+      "url": "https://en.wikipedia.org/?curid=8286923",
+      "source_type": "wikipedia",
+      "score": 0.5054587900638581,
+      "text": "the development of the VS-300, which over four iterations, became the basis for modern helicopters with a single main rotor and a single tail rotor. Although most earlier designs used more than one main rotor, the configuration of a single main rotor accompanied by a vertical anti-torque tail rotor (i.e. unicopter, not to be confused with the single-blade monocopter) has become the most common helicopter configuration. However, twin-rotor helicopters (bicopters), in either tandem..."
+    },
+    {
+      "chunk_id": "wikipedia:One half#0000",
+      "doc_id": "wikipedia:One half",
+      "title": "One half",
+      "url": "https://en.wikipedia.org/?curid=464963",
+      "source_type": "wikipedia",
+      "score": 0.4947742074728012,
+      "text": "One half is the multiplicative inverse of 2. It is an irreducible fraction with a numerator of 1 and a denominator of 2. It often appears in mathematical equations, recipes and measurements. As a word One half is one of the few fractions which are commonly expressed in natural languages by suppletion rather than regular derivation. In English, for example, compare the compound \"one half\" with other regular formations like \"one-sixth\". A half can also be said to be one part of something divided into two equal parts. It is acceptable to write one half as a hyphenated word, one-half. Mathematics One half is the rational number that lies midway between 0 and 1 on the number line. Multiplication by one half is equivalent to division by two, or \"halving\"; conversely, division by one half is equivalent to multiplication by two, or \"doubling\". A number raised to the power of one half is equal to its square root. This follows from the fact that when multiplying powers, the exponents add."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Hold Your Hand#0000",
+      "doc_id": "wikipedia:I Want to Hold Your Hand",
+      "title": "I Want to Hold Your Hand",
+      "url": "https://en.wikipedia.org/?curid=615577",
+      "source_type": "wikipedia",
+      "score": 0.49235594570636754,
+      "text": "\"I Want to Hold Your Hand\" is a song by the English rock band the Beatles, written by John Lennon and Paul McCartney. Recorded on 17 October 1963 and released on 29 November 1963 in the United Kingdom, it was the first Beatles record to be made using four-track recording equipment. With advance orders exceeding one million copies in the UK, \"I Want to Hold Your Hand\" would have gone straight to the top of the British record charts on its day of release had it not been blocked by the group's first million-seller \"She Loves You\", their previous UK single, which was having a resurgence of popularity following intense media coverage of the group. Taking two weeks to dislodge its predecessor, \"I Want to Hold Your Hand\" stayed at number one for five weeks and remained in the UK top 50 for 21 weeks in total, and was the Christmas number one of 1963."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A boy is crying in the car while his friend looks concerned beside him.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the car",
+          "his friend",
+          "him"
+        ]
+      },
+      "meme_captions": {
+        "text": "Poster believes mom gave all the nuggets to his sister so he is sad",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "mom",
+          "all the nuggets",
+          "his sister"
+        ]
+      },
+      "title": {
+        "text": "A single nugget is enough, left over is fine, but why!! Not s single nugget is given to me!!!!!",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "single nugget",
+          "single",
+          "nugget",
+          "enough",
+          "left",
+          "over",
+          "fine",
+          "not",
+          "given"
+        ]
+      },
+      "text": {
+        "text": "when your sister had brought lunch of chicken nuggies for school but your parents didn't left a single nuggies for you",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "your sister",
+          "lunch",
+          "chicken nuggies",
+          "school",
+          "your parents"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "single nugget",
+      "single",
+      "nugget",
+      "enough",
+      "left",
+      "over",
+      "fine",
+      "not",
+      "given",
+      "your sister",
+      "lunch",
+      "chicken nuggies",
+      "school",
+      "your parents"
+    ],
+    "secondary_terms": [
+      "the car",
+      "his friend",
+      "him",
+      "mom",
+      "all the nuggets",
+      "his sister"
+    ],
+    "queries": [
+      "\"Not\" \"single nugget\" \"chicken nuggies\" \"single\" \"nugget\"",
+      "\"single\" \"nugget\" \"enough\" \"left\""
+    ]
+  },
+  "source_jsonl_id": null
+}

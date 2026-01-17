@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_00610",
+  "queries": [
+    "\"Pov\" \"Cats\" \"England\" \"Oliver\"",
+    "\"England\" \"Oliver\" \"their humans\" \"birds\""
+  ],
+  "primary_terms": [
+    "Pov",
+    "Cats",
+    "England",
+    "some cats",
+    "their humans",
+    "birds",
+    "mice",
+    "Oliver",
+    "teabags"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:His House#0001",
+      "doc_id": "wikipedia:His House",
+      "title": "His House",
+      "url": "https://en.wikipedia.org/?curid=62897844",
+      "source_type": "wikipedia",
+      "score": 0.65481036901474,
+      "text": "the perilous English Channel from France to seek asylum. Although they survive the treacherous crossing, their daughter and many others do not. When they are finally granted probational asylum in Britain three months later, the government assigns them a shabby house with peeling walls and dismal furnishings on the outskirts of London. They are given strict restrictions or they may face deportation. They experience racism and hatred from their tenement neighbours. They are met by..."
+    },
+    {
+      "chunk_id": "wikipedia:Down#0000",
+      "doc_id": "wikipedia:Down",
+      "title": "Down",
+      "url": "https://en.wikipedia.org/?curid=8550",
+      "source_type": "wikipedia",
+      "score": 0.5839075207710266,
+      "text": "Down most often refers to: Down, the relative direction opposed to up Down (gridiron football), in North American/gridiron football, a period when one play takes place Down feather, a soft bird feather used in bedding and clothing Downland, a type of hill Down may also refer to: Places County Down, Northern Ireland, UK County Down (Parliament of Ireland constituency), abolished 1800 Down (Northern Ireland Parliament constituencies) Down (Northern Ireland Parliament constituency), 1921–1929 Down (UK Parliament constituency), 1801–1885 and 1922–1950 Down (civil parish) Down county football team, Gaelic football Down, County Westmeath, Ireland Downe, Greater London, England, formerly called \"Down\" People Down (surname) John Langdon Down (1828–1896), British physician best known for his description of Down syndrome Down AKA Kilo (born 1985), American rapper Film and television Down (film), a 2001 English remake of the film De Lift \"Down\" (Breaking Bad), an episode of the second season of"
+    },
+    {
+      "chunk_id": "wikipedia:Feline#0000",
+      "doc_id": "wikipedia:Feline",
+      "title": "Feline",
+      "url": "https://en.wikipedia.org/?curid=45339",
+      "source_type": "wikipedia",
+      "score": 0.560457295179367,
+      "text": "Feline may refer to: Zoology Loosely, Felidae, a member of the cat family, which includes the subfamilies Pantherinae and Felinae (conventionally designated a felid). Following the taxonomic convention, Felinae, the subfamily of Felidae that includes domestic cats and smaller wild cats. Cat, the domesticated feline. Music Feline (band), a late-1990s London-based English rock group. Feline (The Stranglers album), 1983. Feline (1998 album), the self-titled album by Feline, expanded release of Save Your Face. Feline (Ella Eyre album) (2015), the debut studio album by Ella Eyre. Feline (song), a song on Delta Goodrem's 2016 album Wings of the Wild. \"Feline\", a song by the Cat Empire Comics Feline (comics), a fictional character from the Malibu comics line. See also FÉLIN, a French infantry combat system Félines (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:British#0000",
+      "doc_id": "wikipedia:British",
+      "title": "British",
+      "url": "https://en.wikipedia.org/?curid=3962",
+      "source_type": "wikipedia",
+      "score": 0.4929197430610657,
+      "text": "British may refer to: Peoples, culture, and language British people, nationals or natives of the United Kingdom, British Overseas Territories and Crown Dependencies. British national identity, the characteristics of British people and culture British English, the English language as spoken and written in United Kingdom of Great Britain and Northern Ireland and, more broadly, throughout the British Isles Celtic Britons, an ancient ethno-linguistic group Brittonic languages, a branch of the Insular Celtic language family (formerly called British) Common Brittonic, an ancient language Other uses People or things associated with: Great Britain, an island British Isles, an island group United Kingdom, a sovereign state British Empire, a historical global colonial empire Kingdom of Great Britain (1707–1800) United Kingdom of Great Britain and Ireland (1801–1922) British Raj, an informal empire ruled directly by the Crown on the Indian subcontinent British Hong Kong, colonial Hong Kong under"
+    },
+    {
+      "chunk_id": "wikipedia:Timon and Pumbaa#0000",
+      "doc_id": "wikipedia:Timon and Pumbaa",
+      "title": "Timon and Pumbaa",
+      "url": "https://en.wikipedia.org/?curid=4449334",
+      "source_type": "wikipedia",
+      "score": 0.4881001263856888,
+      "text": "Timon and Pumbaa are an animated meerkat and warthog duo introduced in Disney's 1994 animated feature film The Lion King and its franchise. Timon was played through his many appearances by Nathan Lane (in all three films and early episodes of the show), Max Casella (the original actor in Broadway musical), Kevin Schon (in certain episodes of the show), Quinton Flynn (in certain episodes of the show), Bruce Lanoil in the Wild About Safety shorts and Kingdom Hearts II, while Pumbaa is voiced by Ernie Sabella (in all of his traditionally animated speaking appearances), and was portrayed by Tom Alan Robbins in the original cast of the Broadway musical. In the CGI remake, the characters are portrayed by Billy Eichner and Seth Rogen, respectively. Nathan Lane and Ernie Sabella first came to audition for the roles of the hyenas, but when the producers saw how well they worked together, they decided to cast them as Timon and Pumbaa."
+    },
+    {
+      "chunk_id": "wikipedia:Welsh Corgi#0000",
+      "doc_id": "wikipedia:Welsh Corgi",
+      "title": "Welsh Corgi",
+      "url": "https://en.wikipedia.org/?curid=247458",
+      "source_type": "wikipedia",
+      "score": 0.4779641926288605,
+      "text": "The Welsh Corgi ( or Corgi (pl. Corgis); occasionally the etymologically consistent Corgwn ) is a small type of herding dog that originated in Wales. The name corgi is thought to be derived from the Welsh words cor and ci (which is mutated to gi), meaning \"dwarf\" and \"dog\", respectively. Two separate breeds are recognised: the Pembroke Welsh Corgi and the Cardigan Welsh Corgi. Physical differences are seen between the two breeds. According to the breed standards, overall, the Cardigan is larger in weight and height and has a much longer tail than the Pembroke. Historically, the Pembroke has been attributed to the influx of dogs alongside Flemish weavers from around the 14th century. In contrast, the Cardigan is attributed to the dogs brought with Norse settlers, in particular a common ancestor of the Swedish Vallhund. The Pembroke is the more popular of the two, yet still appears on the Kennel Club's vulnerable dog breeds of the United Kingdom list."
+    },
+    {
+      "chunk_id": "wikipedia:Timon and Pumbaa#0001",
+      "doc_id": "wikipedia:Timon and Pumbaa",
+      "title": "Timon and Pumbaa",
+      "url": "https://en.wikipedia.org/?curid=4449334",
+      "source_type": "wikipedia",
+      "score": 0.4723016023635864,
+      "text": "came to audition for the roles of the hyenas, but when the producers saw how well they worked together, they decided to cast them as Timon and Pumbaa. As with many characters in The Lion King, Pumbaa's name derives from the East African language Swahili. In Swahili, pumbaa (v.) means \"to be foolish, silly, weakminded, careless, negligent.\" Timon is one of the few characters whose name has no meaning in Swahili..."
+    },
+    {
+      "chunk_id": "wikipedia:Welsh Corgi#0001",
+      "doc_id": "wikipedia:Welsh Corgi",
+      "title": "Welsh Corgi",
+      "url": "https://en.wikipedia.org/?curid=247458",
+      "source_type": "wikipedia",
+      "score": 0.46788206696510315,
+      "text": "Vallhund. The Pembroke is the more popular of the two, yet still appears on the Kennel Club's vulnerable dog breeds of the United Kingdom list. The Pembroke Welsh Corgi gained popularity because Elizabeth II personally owned more than 30 Pembrokes or Corgi-Dachshund crosses (known as dorgis). History Pembrokeshire and Cardiganshire are adjoining historical agricultural counties..."
+    },
+    {
+      "chunk_id": "wikipedia:Care#0001",
+      "doc_id": "wikipedia:Care",
+      "title": "Care",
+      "url": "https://en.wikipedia.org/?curid=246884",
+      "source_type": "wikipedia",
+      "score": 0.46101853251457214,
+      "text": "English rugby union player Henry Care (1646–1688), English political writer and journalist Peter Care (born 1953), British film and video producer Terry John Care (born 1947), American politician Philosophy and science Care or Sorge, a term in Heideggerian terminology Cura (mythology) or Care, figure in ancient Roman Fabulae of Hyginus..."
+    },
+    {
+      "chunk_id": "wikipedia:Common#0000",
+      "doc_id": "wikipedia:Common",
+      "title": "Common",
+      "url": "https://en.wikipedia.org/?curid=568187",
+      "source_type": "wikipedia",
+      "score": 0.4294719099998474,
+      "text": "Common may refer to: As an Irish surname, it is anglicised from Irish Gaelic surname Ó Comáin. Places Common, a townland in County Tyrone, Northern Ireland Boston Common, a central public park in Boston, Massachusetts Cambridge Common, common land area in Cambridge, Massachusetts Clapham Common, originally common land, now a park in London, UK Common Moss, a townland in County Tyrone, Northern Ireland Lexington Common, a common land area in Lexington, Massachusetts Salem Common Historic District, a common land area in Salem, Massachusetts People Common (rapper) (born 1972), American hip hop artist, actor, and poet Andrew Ainslie Common (1841–1903), English amateur astronomer Andrew Common (1889–1953), British shipping director John Common, American songwriter, musician and singer Thomas Common (1850–1919), Scottish translator and literary critic Arts, entertainment, and media Common (film), a 2014 BBC One film, written by Jimmy McGovern, on the UK's Joint Enterprise Law Dol Common, a"
+    }
+  ]
+}

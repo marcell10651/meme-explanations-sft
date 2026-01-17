@@ -1,0 +1,197 @@
+{
+  "meme_id": "meme_03358",
+  "queries": [
+    "\"This news channel\" \"Good News\" \"good\" \"news\"",
+    "\"good\" \"news\" \"channel\" \"likes\""
+  ],
+  "primary_terms": [
+    "Good News",
+    "good",
+    "news",
+    "This news channel",
+    "channel",
+    "likes",
+    "show",
+    "only",
+    "agi"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Television#0000",
+      "doc_id": "wikipedia:Television",
+      "title": "Television",
+      "url": "https://en.wikipedia.org/?curid=29831",
+      "source_type": "wikipedia",
+      "score": 0.7872531235218048,
+      "text": "Television (TV) is a telecommunication medium for transmitting moving images and sound. Additionally, the term can refer to a physical television set rather than the medium of transmission. Television is a mass medium for advertising, entertainment, news, and sports. The medium is capable of more than \"radio broadcasting\", which refers to an audio signal sent to radio receivers. Television became available in crude experimental forms in the 1920s, but only after several years of further development was the new technology marketed to consumers. After World War II, an improved form of black-and-white television broadcasting became popular in the United Kingdom and the United States, and television sets became commonplace in homes, businesses, and institutions. During the 1950s, television was the primary medium for influencing public opinion. In the mid-1960s, color broadcasting was introduced in the U.S. and most other developed countries."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.7592656284570694,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Good#0000",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.7253081619739532,
+      "text": "In most contexts, the concept of good denotes the conduct that should be preferred when posed with a choice between possible actions. Good is generally considered to be the opposite of evil. The specific meaning and etymology of the term and its associated translations among ancient and contemporary languages show substantial variation in its inflection and meaning, depending on circumstances of place and history, or of philosophical or religious context. History of Western ideas Every language has a word expressing good in the sense of \"having the right or desirable quality\" (ἀρετή) and bad in the sense \"undesirable\". A sense of moral judgment and a distinction \"right and wrong, good and bad\" are cultural universals. Plato and Aristotle Although the history of the origin of the use of the concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0001",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.719884780049324,
+      "text": "by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites. The Internet has enabled and accelerated new forms of personal interaction through instant messaging, Internet forums, and social networking services. Online shopping has also grown to occupy a significant market across industries, enabling firms to extend brick and mortar presences..."
+    },
+    {
+      "chunk_id": "wikipedia:Live#0001",
+      "doc_id": "wikipedia:Live",
+      "title": "Live",
+      "url": "https://en.wikipedia.org/?curid=28508507",
+      "source_type": "wikipedia",
+      "score": 0.7035842657089233,
+      "text": "88.5, a radio station in Ottawa, Canada Television Live (South Korean TV series), a 2018 South Korean television series Live (Danish TV series) Live! (TV channel), Italy Live with Kelly and Mark, US TV talk show Types of media Live action (cinematography), a motion picture not produced using animation Live art Live music, a concert Live album, recording of a live music concert..."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0001",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.695001757144928,
+      "text": "officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great! TV, British TV channel group The Great (TV series), an American comedy-drama See also All pages with titles containing great All pages with titles beginning with Great All pages with titles beginning with The Great All pages with titles beginning with The great The Great (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Propaganda#0001",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 0.6583837985992431,
+      "text": "which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites. More recently, the digital age has given rise to new ways of disseminating propaganda, for example, in computational propaganda, bots and algorithms are used to manipulate public opinion, e.g., by creating fake or biased news to spread it on social media or using chatbots to mimic real people in discussions..."
+    },
+    {
+      "chunk_id": "wikipedia:WOUR#0000",
+      "doc_id": "wikipedia:WOUR",
+      "title": "WOUR",
+      "url": "https://en.wikipedia.org/?curid=5292420",
+      "source_type": "wikipedia",
+      "score": 0.6299775302410126,
+      "text": "WOUR (96.9 FM) is a commercial radio station licensed to Utica, New York. It broadcasts a classic rock radio format, with occasional recent rock hits, calling itself \"The Rock of Central New York\". The station is owned by Townsquare Media as part of a cluster with talk station WIBX, country music station WFRG-FM, adult contemporary station WLZW and classic hits station WODZ-FM. The studios and offices are on River Road in Marcy. In morning drive time, WOUR carries the syndicated Free Beer and Hot Wings Show. WOUR has an effective radiated power (ERP) of 19,500 watts. The transmitter is on Smith Hill Road at Cooley Road in Utica, amid the towers for other local FM and TV stations. History Religion to rock WOUR signed on in June 1967. It originally was a Christian radio station, owned by the Brinsfield Broadcasting Company. In 1970, it changed its format to the syndicated automated Adult Top 40 \"Hit Parade '70\" service."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.5856994658708572,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Propaganda#0000",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 0.5800368845462799,
+      "text": "Propaganda is communication that is primarily used to influence or persuade an audience to further an agenda, which may not be objective and may be selectively presenting facts to encourage a particular synthesis or perception, or using loaded language to produce an emotional rather than a rational response to the information that is being presented. Propaganda can be found in a wide variety of different contexts. Beginning in the twentieth century, the English term propaganda became associated with a manipulative approach, but historically, propaganda had been a neutral descriptive term of any material that promotes certain opinions, ideologies or concepts. A wide range of materials and media are used for conveying propaganda messages, which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A dog show on the television.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the television"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster praises their pets as the Good things in his/her life.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their pets",
+          "the Good things",
+          "his/her life"
+        ]
+      },
+      "title": {
+        "text": "Good News",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Good News",
+          "good",
+          "news"
+        ]
+      },
+      "text": {
+        "text": "This news channel likes to show good news, and good news only FE | |] Agi = ———",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "This news channel",
+          "good news",
+          "news",
+          "channel",
+          "likes",
+          "show",
+          "good",
+          "only",
+          "agi"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Good News",
+      "good",
+      "news",
+      "This news channel",
+      "channel",
+      "likes",
+      "show",
+      "only",
+      "agi"
+    ],
+    "secondary_terms": [
+      "the television",
+      "their pets",
+      "the Good things",
+      "his/her life"
+    ],
+    "queries": [
+      "\"This news channel\" \"Good News\" \"good\" \"news\"",
+      "\"good\" \"news\" \"channel\" \"likes\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_02827",
+  "queries": [
+    "\"Cmon guys\" \"Rocket scientists\" \"Its\" \"Anyone\"",
+    "\"Its\" \"Anyone\" \"the urge\" \"rocket science\""
+  ],
+  "primary_terms": [
+    "Cmon guys",
+    "Its",
+    "Anyone",
+    "Rocket scientists",
+    "the urge",
+    "rocket science",
+    "their students"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Physics#0000",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.6241834670305252,
+      "text": "Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist. Physics is one of the oldest academic disciplines. Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0001",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.6076856255531311,
+      "text": "Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs \"No Body\", by Blake Shelton, 2022 \"Nobody\" (1905 song), by Alex Rogers and Bert A. Williams \"Nobody\" (Avenged Sevenfold song), 2023 \"Nobody\" (DJ Neptune song), 2020 \"Nobody..."
+    },
+    {
+      "chunk_id": "wikipedia:Your Game#0001",
+      "doc_id": "wikipedia:Your Game",
+      "title": "Your Game",
+      "url": "https://en.wikipedia.org/?curid=4747095",
+      "source_type": "wikipedia",
+      "score": 0.6016233474016189,
+      "text": "gospel version) UK CD2 \"Your Game\" \"Take Control\" (Young, R. Stannard, J. Gallagher, S. Hale) \"Down\" (Young, S. Morales, R. Shaw, D. Siegel, D. Warner) \"Your Game\" (video) Credits and personnel Neil Conti – drums Taio Cruz – writer Stephen Lipson – producer, programming Bair MacKichan – drums, guitar, programming, writer Heff Moraes – mixing engineer Dave Naughton – Pro Tools Will Young – vocals, writer Charts Release history References External links Music video on YouTube"
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0000",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.5632661730051041,
+      "text": "A scientist is an expert who conducts scientific research to advance knowledge in science. In classical antiquity, there was no real ancient analog of a modern scientist. Instead, philosophers engaged in the philosophical study of nature called natural philosophy. Though Thales (c. 624–545 BC) was arguably the first scientist for describing how cosmic events may be seen as natural, not necessarily caused by gods, it was not until the 19th century that the term scientist came into regular use: it was coined by the theologian, philosopher, and historian of science William Whewell in 1833 to describe Mary Somerville. History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0000",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.5520849823951721,
+      "text": "Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth. The game allows for cross-platform play; it was released on iOS and Android devices in June 2018 and on Windows later that year in November. It was ported to the Nintendo Switch in December 2020 and on the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in December 2021. A virtual reality adaptation, Among Us VR, was released on November 10, 2022. Among Us takes place in space-themed settings where players are colorful, armless cartoon astronauts. Each player takes on one of two roles: most are Crewmates, but a small number are Impostors. Crewmates work to complete assigned tasks in the game while identifying and voting out suspected Impostors (who appear identical to Crewmates) using social deduction, while Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.548832044005394,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    },
+    {
+      "chunk_id": "wikipedia:Flight#0001",
+      "doc_id": "wikipedia:Flight",
+      "title": "Flight",
+      "url": "https://en.wikipedia.org/?curid=159472",
+      "source_type": "wikipedia",
+      "score": 0.543500542640686,
+      "text": "travel through the atmosphere. astronautics — the study of vehicles that travel through space. ballistics — the study of the flight of projectiles. Types of flight Buoyant flight Humans have managed to construct lighter-than-air vehicles that raise off the ground and fly, due to their buoyancy in the air. An aerostat is a system that remains aloft primarily through the use of buoyancy to give an aircraft..."
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0001",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.5261832773685455,
+      "text": "USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the 2014 album Sweet Talker \"Loud\", a 2006 single by Masters at Work with Beto Cuevas \"Loud\", a song by Matt Nathanson from the 1999 album Still Waiting for Spring \"Loud\", an additional..."
+    },
+    {
+      "chunk_id": "wikipedia:Care#0000",
+      "doc_id": "wikipedia:Care",
+      "title": "Care",
+      "url": "https://en.wikipedia.org/?curid=246884",
+      "source_type": "wikipedia",
+      "score": 0.5005973875522614,
+      "text": "Care may refer to: Organizations and projects CARE (New Zealand), Citizens Association for Racial Equality, a former New Zealand organisation CARE (England) West Midlands, Central Accident Resuscitation Emergency team, a team of doctors & paramedics CARE International, Cooperative for Assistance and Relief Everywhere, an international aid and development organization Carpet America Recovery Effort, an American carpet recycling project Charged Aerosol Release Experiment, a NASA project concerning dust in space Christian Action Research and Education, a Christian lobby group in the United Kingdom Credit Abuse Resistance Education, an American national program Crew Module Atmospheric Re-entry Experiment, a 2014 ISRO experimental vehicle People with the surname Danny Care (soccer) (born 1974), American soccer player Danny Care (born 1987), English rugby union player Henry Care (1646–1688), English political writer and journalist Peter Care (born 1953), British film and video producer"
+    },
+    {
+      "chunk_id": "wikipedia:Greedy#0000",
+      "doc_id": "wikipedia:Greedy",
+      "title": "Greedy",
+      "url": "https://en.wikipedia.org/?curid=1376590",
+      "source_type": "wikipedia",
+      "score": 0.49400390684604645,
+      "text": "Someone who is greedy is consumed with selfish desires. Greedy may also refer to: Music Greedy (album), an album by Headless Chickens, 1997 Greedy, an album by Mekdes, 2022 \"Greedy\" (Ariana Grande song), 2016 \"Greedy\" (Tate McRae song), 2023 \"Greedy\", a song by All from Mass Nerder, 1998 \"Greedy\", a song by The Away Team from Training Day, 2007 \"Greedy\", a song by Lyfe Jennings from Lyfe 268‒192, 2004 \"Greedy\", a song by Pure, 1993 \"Greedy\", a song by Rich the Kid from Keep Flexin, 2016 \"Greedy\", a song by PartyNextDoor and Drake from Some Sexy Songs 4 U, 2025 People Greedy Smith (1956–2019), pseudonym of Andrew McArthur Smith, singer, musician and songwriter with the Australian pop/new wave band Mental As Anything Greedy Vance Jr."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A boy is leaning forward with his veins popping out.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "his veins"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that rocket scientists strain making at rocket scientist joke to their students.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "rocket scientists",
+          "rocket scientist joke",
+          "their students"
+        ]
+      },
+      "title": {
+        "text": "Cmon guys. Its really not that hard. Anyone?",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Cmon guys",
+          "Its",
+          "Anyone"
+        ]
+      },
+      "text": {
+        "text": "Rocket scientists trying their best to resist the urge to say “it’s not rocket science” to their students oe = a , ‘ ay - 7\" Ya LO \\ _ . } : ; t/ ack | fo. ‘ : S _ ' wt \\ / \"|e NA .» ‘ ‘ t",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Rocket scientists",
+          "the urge",
+          "rocket science",
+          "their students"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Cmon guys",
+      "Its",
+      "Anyone",
+      "Rocket scientists",
+      "the urge",
+      "rocket science",
+      "their students"
+    ],
+    "secondary_terms": [
+      "his veins",
+      "rocket scientists",
+      "rocket scientist joke",
+      "their students"
+    ],
+    "queries": [
+      "\"Cmon guys\" \"Rocket scientists\" \"Its\" \"Anyone\"",
+      "\"Its\" \"Anyone\" \"the urge\" \"rocket science\""
+    ]
+  },
+  "source_jsonl_id": null
+}

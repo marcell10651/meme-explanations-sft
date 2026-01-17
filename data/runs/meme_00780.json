@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_00780",
+  "queries": [
+    "\"his 4th mansion\" \"the CEO\" \"Ghosts\" \"human stories\"",
+    "\"Ghosts\" \"human stories\" \"the human\" \"their job\""
+  ],
+  "primary_terms": [
+    "Ghosts",
+    "human stories",
+    "telling",
+    "human",
+    "stories",
+    "the human",
+    "their job",
+    "his house",
+    "the CEO",
+    "his 4th mansion"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Ghost#0001",
+      "doc_id": "wikipedia:Ghost",
+      "title": "Ghost",
+      "url": "https://en.wikipedia.org/?curid=12514",
+      "source_type": "wikipedia",
+      "score": 1.144236671924591,
+      "text": "practices—funeral rites, exorcisms, and some practices of spiritualism and ritual magic—are specifically designed to rest the spirits of the dead. Ghosts are generally described as solitary, human-like essences, though stories of ghostly armies and the ghosts of animals other than humans have also been recounted. They are believed to haunt particular locations, objects, or people they were associated..."
+    },
+    {
+      "chunk_id": "wikipedia:Legend#0000",
+      "doc_id": "wikipedia:Legend",
+      "title": "Legend",
+      "url": "https://en.wikipedia.org/?curid=53974",
+      "source_type": "wikipedia",
+      "score": 0.7094884574413299,
+      "text": "A legend is a genre of folklore that consists of a narrative featuring human actions, believed or perceived to have taken place in human history. Narratives in this genre may demonstrate human values, and possess certain qualities that give the tale verisimilitude. Legend, for its active and passive participants, may include miracles. Legends may be transformed over time to keep them fresh and vital. Many legends operate within the realm of uncertainty, never being entirely believed by the participants, but also never being resolutely doubted. Legends are sometimes distinguished from myths in that they concern human beings as the main characters and do not necessarily have supernatural origins, and sometimes in that they have some sort of historical basis whereas myths generally do not. The Brothers Grimm defined legend as \"folktale historically grounded\"."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.6842759907245636,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Arkham#0000",
+      "doc_id": "wikipedia:Arkham",
+      "title": "Arkham",
+      "url": "https://en.wikipedia.org/?curid=65730",
+      "source_type": "wikipedia",
+      "score": 0.5962796419858932,
+      "text": "Arkham () is a fictional city situated in Massachusetts, United States. An integral part of the Lovecraft Country setting created by H. P. Lovecraft, Arkham is featured in many of his stories and those of other Cthulhu Mythos writers. Arkham House, a publishing company started by two of Lovecraft's correspondents, August Derleth and Donald Wandrei, takes its name from this city as a tribute. Arkham Asylum, a fictional mental hospital in DC Comics' Batman mythos, is also named after Lovecraft's Arkham. In Lovecraft's stories Arkham is the home of Miskatonic University, which features prominently in many of Lovecraft's works. The institution finances the expeditions in the novellas, At the Mountains of Madness (1936) and The Shadow Out of Time (1936). Walter Gilman, of \"The Dreams in the Witch House\" (1933), attends classes at the university. Other notable institutions in Arkham are the Arkham Historical Society and the Arkham Sanitarium."
+    },
+    {
+      "chunk_id": "wikipedia:Head#0001",
+      "doc_id": "wikipedia:Head",
+      "title": "Head",
+      "url": "https://en.wikipedia.org/?curid=1209545",
+      "source_type": "wikipedia",
+      "score": 0.5549018740653991,
+      "text": "the cranial cavity, and the facial skeleton, which includes the mandible. There are eight bones in the brain case and fourteen in the facial skeleton. Sculptures of human heads are generally based on a skeletal structure that consists of a cranium, jawbone, and cheekbone. Though the number of muscles making up the face is generally consistent between..."
+    },
+    {
+      "chunk_id": "wikipedia:In His Image#0000",
+      "doc_id": "wikipedia:In His Image",
+      "title": "In His Image",
+      "url": "https://en.wikipedia.org/?curid=4401031",
+      "source_type": "wikipedia",
+      "score": 0.5220215022563934,
+      "text": "\"In His Image\" is an episode of the American television anthology series The Twilight Zone aired on January 3, 1963. This was the first episode of the fourth season. Each episode was expanded to an hour (with commercials) from \"In His Image\" until \"The Bard\". The fourth season is the only season of The Twilight Zone to have each episode one hour long. In this episode, a man finds his hometown is suddenly inconsistent with his memories of it and begins experiencing irrational urges to commit murder, two mysteries which together lead him to an unpleasant discovery about his identity. Opening narration What you have just witnessed could be the end of a particularly terrifying nightmare. It isn't – it's the beginning. Although Alan Talbot doesn't know it, he's about to enter a strange new world, too incredible to be real, too real to be a dream. It's called The Twilight Zone. Plot While waiting in a subway station, Alan Talbot is approached by an evangelist."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0000",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.4998242259025574,
+      "text": "Horror may refer to: Arts, entertainment, and media Genres Horror fiction, a genre of fiction Psychological horror, a subgenre of horror fiction Christmas horror, a subgenre of horror fiction Analog horror, a subgenre of horror fiction Erotic horror, a subgenre of horror fiction Space horror, a subgenre of horror fiction Folk horror, a subgenre of horror fiction Japanese horror, Japanese horror fiction Korean horror, Korean horror fiction Horror film, a film genre Art horror, a subgenre of horror film Body horror, a subgenre of horror film Comedy horror, a subgenre of horror film Erotic horror film, a subgenre of horror film Slasher film, a subgenre of horror film Splatter film, a subgenre of horror film Supernatural horror film, a subgenre of horror film Psychological horror film, a subgenre of horror film Postmodern horror, a subgenre of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a"
+    },
+    {
+      "chunk_id": "wikipedia:User experience#0001",
+      "doc_id": "wikipedia:User experience",
+      "title": "User experience",
+      "url": "https://en.wikipedia.org/?curid=1462876",
+      "source_type": "wikipedia",
+      "score": 0.4928754478693008,
+      "text": "Norman Group, 'user experience' includes all the aspects of the interaction between the end-user with the company, its services, and its products. The international standard on ergonomics of human-system interaction, ISO 9241, defines user experience as a \"user's perceptions and responses that result from the use and/or anticipated use of a system, product or service\". According to the ISO definition, user experience includes all the users' emotions, beliefs, preferences, perceptions, physical and psychological..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.47819676995277405,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.4653189480304718,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    }
+  ]
+}

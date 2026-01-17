@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_00423",
+  "queries": [
+    "\"FAKE SPIDER WEBS\" \"Spooky Spider\" \"spooky\" \"spider\"",
+    "\"spooky\" \"spider\" \"sdecorates\" \"house\""
+  ],
+  "primary_terms": [
+    "Spooky Spider",
+    "spooky",
+    "spider",
+    "FAKE SPIDER WEBS",
+    "sdecorates",
+    "house",
+    "fake",
+    "webs",
+    "spiders"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Spider#0000",
+      "doc_id": "wikipedia:Spider",
+      "title": "Spider",
+      "url": "https://en.wikipedia.org/?curid=28329803",
+      "source_type": "wikipedia",
+      "score": 1.2144996345043182,
+      "text": "Spiders (order Araneae) are air-breathing arthropods that have eight limbs, chelicerae with fangs generally able to inject venom, and spinnerets that extrude silk. They are the largest order of arachnids and rank seventh in total species diversity among all orders of organisms. Spiders are found worldwide on every continent except Antarctica, and have become established in nearly every land habitat. As of December 2025, 53,608 spider species in 139 families have been recorded by taxonomists. However, there has been debate among scientists about how families should be classified, with over 20 different classifications proposed since 1900. Anatomically, spiders (as with all arachnids) differ from other arthropods in that the usual body segments are fused into two tagmata, the cephalothorax or prosoma, and the opisthosoma, or abdomen, and joined by a small, cylindrical pedicel."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0000",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.8681320607662201,
+      "text": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Considered one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays. Spider-Man is the secret identity of Peter Benjamin Parker, who was raised by his Aunt May and Uncle Ben in Queens, New York City, after the death of his parents. Lee, Ditko, and later writers had the character deal with the struggles of adolescence and young adulthood. Readers identified with his self-doubt and loneliness. Unlike previous teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0000",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.65719273686409,
+      "text": "Horror may refer to: Arts, entertainment, and media Genres Horror fiction, a genre of fiction Psychological horror, a subgenre of horror fiction Christmas horror, a subgenre of horror fiction Analog horror, a subgenre of horror fiction Erotic horror, a subgenre of horror fiction Space horror, a subgenre of horror fiction Folk horror, a subgenre of horror fiction Japanese horror, Japanese horror fiction Korean horror, Korean horror fiction Horror film, a film genre Art horror, a subgenre of horror film Body horror, a subgenre of horror film Comedy horror, a subgenre of horror film Erotic horror film, a subgenre of horror film Slasher film, a subgenre of horror film Splatter film, a subgenre of horror film Supernatural horror film, a subgenre of horror film Psychological horror film, a subgenre of horror film Postmodern horror, a subgenre of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a"
+    },
+    {
+      "chunk_id": "wikipedia:Centipede#0000",
+      "doc_id": "wikipedia:Centipede",
+      "title": "Centipede",
+      "url": "https://en.wikipedia.org/?curid=186495",
+      "source_type": "wikipedia",
+      "score": 0.5814830362796783,
+      "text": "Centipedes (from Neo-Latin centi-, \"hundred\", and Latin pes, pedis, \"foot\") are predatory arthropods belonging to the class Chilopoda (Ancient Greek χεῖλος, kheilos, \"lip\", and Neo-Latin suffix -poda, \"foot\", describing the forcipules) of the subphylum Myriapoda, an arthropod group which includes millipedes and other multi-legged animals. Centipedes are elongated segmented (metameric) animals with one pair of legs per body segment. All centipedes are venomous and can inflict painful stings, injecting their venom through pincer-like appendages known as forcipules or toxicognaths, which are actually modified legs instead of fangs. Despite the name, no species of centipede has exactly 100 legs; the number of pairs of legs is an odd number that ranges from 15 pairs to 191 pairs. Centipedes are predominantly generalist carnivores, hunting for a variety of prey items that can be overpowered."
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0001",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.5504183769226074,
+      "text": "a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The Terror (1917 film), an American silent film The Terror (1920 film), an American western film starring Tom Mix Terror (1924 film), a French film starring Pearl White The Terror..."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0001",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.540404325723648,
+      "text": "Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A. Applegate The Other (Tryon novel), a 1971 horror novel by Tom Tryon \"The Other\" (short story), a 1972 short story by Jorge Luis Borges The Other, a 2008 novel by David Guterson Spider-Man: \"The Other\", a 2005–2006..."
+    },
+    {
+      "chunk_id": "wikipedia:Ghost#0000",
+      "doc_id": "wikipedia:Ghost",
+      "title": "Ghost",
+      "url": "https://en.wikipedia.org/?curid=12514",
+      "source_type": "wikipedia",
+      "score": 0.5281029045581818,
+      "text": "In folklore, a ghost is the soul or spirit of a dead person or non-human animal that is believed by some people to be able to appear to the living. In ghostlore, descriptions of ghosts vary widely, from an invisible presence to translucent or barely visible wispy shapes to realistic, lifelike forms, whether they resemble humans or animals. The deliberate attempt to contact the spirit of a deceased person is known as necromancy, or in spiritism as a séance. Other terms associated with it are apparition, haunt, haint, phantom, poltergeist, shade, specter, spirit, spook, wraith, demon, and ghoul. The belief in the existence of an afterlife, as well as manifestations of the spirits of the dead, is widespread, dating back to animism or ancestor worship in pre-literate cultures. Certain religious practices—funeral rites, exorcisms, and some practices of spiritualism and ritual magic—are specifically designed to rest the spirits of the dead."
+    },
+    {
+      "chunk_id": "wikipedia:Corona#0001",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.5138705134391784,
+      "text": "into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities Corona (fictional world), in R. A. Salvatore's DemonWars novels Corona, a character in the game Doraemon: Nobita to Mittsu no Seireiseki Corona, a character in the Spider..."
+    },
+    {
+      "chunk_id": "wikipedia:Fear#0001",
+      "doc_id": "wikipedia:Fear",
+      "title": "Fear",
+      "url": "https://en.wikipedia.org/?curid=10828",
+      "source_type": "wikipedia",
+      "score": 0.5011816173791885,
+      "text": ". Phobias, or exaggerated and often disabling fears, are usually similarly dysfunctional. Fear is often framed as a distinct product of evolution. This hypothesis, however, is becoming increasingly problematic because the psychological, (neuro)physiological, and behavioral changes and features associated with fear are consistently found to be shared with other negative, highly arousing emotional states such as anger, sadness, disgust, and anxiety. A more scientifically defensible product of evolution is flexibility..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0000",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.45298842191696165,
+      "text": "A home, or domicile, is a space used as a permanent or semi-permanent residence for one or more human occupants, and sometimes various companion animals. Homes provide sheltered spaces, for instance rooms, where domestic activity can be performed such as sleeping, preparing food, eating and hygiene as well as providing spaces for work and leisure such as remote working, studying and playing. Physical forms of homes can be static such as a house or an apartment, mobile such as a houseboat, trailer or yurt or digital such as virtual space. The aspect of 'home' can be considered across scales; from the micro scale showcasing the most intimate spaces of the individual dwelling and direct surrounding area to the macro scale of the geographic area such as town, village, city, country or planet. The concept of 'home' has been researched and theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics."
+    }
+  ]
+}

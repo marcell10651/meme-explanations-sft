@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_05131",
+  "queries": [
+    "\"Select game mode\" \"Challenge mode\" \"select\" \"game\"",
+    "\"select\" \"game\" \"mode\" \"challenge\""
+  ],
+  "primary_terms": [
+    "Select game mode",
+    "select",
+    "game",
+    "mode",
+    "Challenge mode",
+    "challenge",
+    "toa",
+    "rae",
+    "ranked",
+    "competitive"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.8302207112312316,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Your Game#0001",
+      "doc_id": "wikipedia:Your Game",
+      "title": "Your Game",
+      "url": "https://en.wikipedia.org/?curid=4747095",
+      "source_type": "wikipedia",
+      "score": 0.6783553481101989,
+      "text": "gospel version) UK CD2 \"Your Game\" \"Take Control\" (Young, R. Stannard, J. Gallagher, S. Hale) \"Down\" (Young, S. Morales, R. Shaw, D. Siegel, D. Warner) \"Your Game\" (video) Credits and personnel Neil Conti – drums Taio Cruz – writer Stephen Lipson – producer, programming Bair MacKichan – drums, guitar, programming, writer Heff Moraes – mixing engineer Dave Naughton – Pro Tools Will Young – vocals, writer Charts Release history References External links Music video on YouTube"
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0000",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.6712628662586212,
+      "text": "Snap or SNAP may refer to: Supplemental Nutrition Assistance Program, a food program for low-income families administered by the United States Department of Agriculture Arts and entertainment Snap (film), the initial release title for the 2013 film Enter the Dangerous Mind The Stanly News and Press, a newspaper in Albemarle, North Carolina, US \"Snap\" (Duty Free), a 1984 TV episode Games and sports Snap (gridiron football), the start of a play in gridiron football Scalable Network Application Package, an online gaming platform Pokémon Snap, a 1999 Japanese video game New Pokémon Snap, the 2021 sequel Snap, any putdown used in the Dozens Card games Snap (card game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap!"
+    },
+    {
+      "chunk_id": "wikipedia:Dungeons & Dragons#0000",
+      "doc_id": "wikipedia:Dungeons & Dragons",
+      "title": "Dungeons & Dragons",
+      "url": "https://en.wikipedia.org/?curid=7940",
+      "source_type": "wikipedia",
+      "score": 0.6376917481422424,
+      "text": "Dungeons & Dragons (commonly abbreviated as D&D or DnD) is a fantasy tabletop role-playing game (TTRPG) originally created and designed by Gary Gygax and Dave Arneson. The game was first published in 1974 by Tactical Studies Rules (TSR). It has been published by Wizards of the Coast, later a subsidiary of Hasbro, since 1997. The game was derived from miniature wargames, with a variation of the 1971 game Chainmail serving as the initial rule system. D&D's publication is commonly recognized as the beginning of modern role-playing games and the role-playing game industry, which also deeply influenced video games, especially the role-playing video game genre. D&D departs from traditional wargaming by allowing each player to create their own character to play instead of a military formation. These characters embark upon adventures within a fantasy setting."
+    },
+    {
+      "chunk_id": "wikipedia:Builder#0001",
+      "doc_id": "wikipedia:Builder",
+      "title": "Builder",
+      "url": "https://en.wikipedia.org/?curid=2518249",
+      "source_type": "wikipedia",
+      "score": 0.5481288701295852,
+      "text": "Builder (detergent), a component of modern detergents Builder (hockey), in ice hockey, manages or builds the game Builder (United States Navy), U.S. Navy Rating Builder pattern, an object-oriented design pattern Interactive Scenario Builder, an RF Tactical Decision Aid often referred to as Builder Build engineer, a software engineer specializing in builds (versions) of large software products See also All pages with titles..."
+    },
+    {
+      "chunk_id": "wikipedia:Switching#0000",
+      "doc_id": "wikipedia:Switching",
+      "title": "Switching",
+      "url": "https://en.wikipedia.org/?curid=9805562",
+      "source_type": "wikipedia",
+      "score": 0.5254082590341568,
+      "text": "Switching may refer to: Computing and technology Switching, functions performed by a switch: Electronic switching Packet switching, a digital networking communications methodology LAN switching, packet switching on Local Area Networks Telephone switching, the activity performed by a telephone exchange (telephone switching machine) Switching, a synonym for shunting in rail transport Other uses Switching (ecology), a pattern of predation describing predators' selection of food based on its abundance Switching (film), a 2003 Danish interactive film Switching (pickleball), when doubles partners switch sides of their court Code-switching, of languages Immunoglobulin class switching, an immunological mechanism that changes the type of antibody produced by B cells Task switching (psychology), an experimental research paradigm used in cognitive psychology See also Switch (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Fallout (video game)#0000",
+      "doc_id": "wikipedia:Fallout (video game)",
+      "title": "Fallout (video game)",
+      "url": "https://en.wikipedia.org/?curid=4508917",
+      "source_type": "wikipedia",
+      "score": 0.5198592603206634,
+      "text": "Fallout (also known as Fallout: A Post Nuclear Role Playing Game) is a 1997 role-playing video game developed and published by Interplay Productions, set in a mid-22nd century post-apocalyptic and retro-futuristic world, decades after a global nuclear war led by the United States and China. Fallout's protagonist, the Vault Dweller, inhabits an underground nuclear shelter. The player must scour the surrounding wasteland for a computer chip that can fix the Vault's failed water supply system. They interact with other survivors, some of whom give them quests, and engage in turn-based combat. Tim Cain began working on Fallout in 1994. It began and was conceptualized as based on the role-playing game GURPS, but after Steve Jackson Games objected to Fallout's violence, Cain and designer Christopher Taylor created a new character customization scheme, SPECIAL. Interplay initially gave the game little attention, but eventually spent $3 million and employed up to thirty people to develop it."
+    },
+    {
+      "chunk_id": "wikipedia:Drama#0000",
+      "doc_id": "wikipedia:Drama",
+      "title": "Drama",
+      "url": "https://en.wikipedia.org/?curid=20913753",
+      "source_type": "wikipedia",
+      "score": 0.5150327205657959,
+      "text": "Drama is the specific mode of fiction represented in performance: a play, opera, mime, ballet, etc., performed in a theatre, or on radio or television. Considered as a genre of poetry in general, the dramatic mode has been contrasted with the epic and the lyrical modes ever since Aristotle's Poetics (c. 335 BC)—the earliest work of dramatic theory. The term \"drama\" comes from a Greek word meaning \"deed\" or \"act\" (δρᾶμα, drâma), which is derived from \"I do\" (δράω, dráō). The two masks associated with drama represent the traditional generic division between comedy and tragedy. In English (as was the analogous case in many other European languages), the word play or game (translating the Anglo-Saxon pleġan or Latin ludus) was the standard term for dramas until William Shakespeare's time—just as its creator was a play-maker rather than a dramatist and the building was a play-house rather than a theatre."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.510918578505516,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    },
+    {
+      "chunk_id": "wikipedia:Dungeons & Dragons#0001",
+      "doc_id": "wikipedia:Dungeons & Dragons",
+      "title": "Dungeons & Dragons",
+      "url": "https://en.wikipedia.org/?curid=7940",
+      "source_type": "wikipedia",
+      "score": 0.4977846950292587,
+      "text": "each player to create their own character to play instead of a military formation. These characters embark upon adventures within a fantasy setting. A Dungeon Master (DM) serves as referee and storyteller for the game, while maintaining the setting in which the adventures occur, and playing the role of the inhabitants of the game world, known as non-player characters (NPCs). The characters form a party and they interact with the setting's inhabitants and each other. Together they solve..."
+    }
+  ]
+}

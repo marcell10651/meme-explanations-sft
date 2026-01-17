@@ -1,0 +1,114 @@
+{
+  "meme_id": "meme_00650",
+  "queries": [
+    "\"Spongebob\" \"Winter Summer\" \"Wee\" \"winter\" \"summer\"",
+    "\"winter\" \"summer\" \"rugking\" \"lovewinters\""
+  ],
+  "primary_terms": [
+    "Winter Summer",
+    "winter",
+    "summer",
+    "Wee",
+    "rugking",
+    "lovewinters",
+    "poe",
+    "sao",
+    "awantsto",
+    "thessnow",
+    "tiemy",
+    "dick",
+    "coca"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Year#0001",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 0.9120020389556884,
+      "text": "of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility. In temperate and subpolar regions around the planet, four seasons are generally recognized: spring, summer, autumn, and winter. In tropical and subtropical regions, several geographical sectors do not present defined seasons; but in the seasonal tropics, the annual wet and dry seasons are recognized..."
+    },
+    {
+      "chunk_id": "wikipedia:SpongeBob SquarePants#0000",
+      "doc_id": "wikipedia:SpongeBob SquarePants",
+      "title": "SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/?curid=2655089",
+      "source_type": "wikipedia",
+      "score": 0.5607472062110901,
+      "text": "SpongeBob SquarePants is an American animated comedy television series created by marine science educator and animator Stephen Hillenburg for Nickelodeon. It first aired as a sneak peek after the 1999 Kids' Choice Awards on May 1, 1999, and officially premiered on July 17, 1999. It chronicles the adventures of the titular character and his aquatic friends in the underwater city of Bikini Bottom. Many of the series' ideas originated in The Intertidal Zone, an unpublished educational comic book Hillenburg created in the 1980s to teach his students about undersea life. Hillenburg joined Nickelodeon in 1992 as an artist on Rocko's Modern Life. After Rocko was cancelled in 1996, he began developing SpongeBob SquarePants into a television series, and in 1997, a seven-minute pilot was pitched to Nickelodeon. The network's executives wanted SpongeBob to be a child in school, but Hillenburg preferred SpongeBob to be an adult character."
+    },
+    {
+      "chunk_id": "wikipedia:Young#0000",
+      "doc_id": "wikipedia:Young",
+      "title": "Young",
+      "url": "https://en.wikipedia.org/?curid=302029",
+      "source_type": "wikipedia",
+      "score": 0.5369571506977081,
+      "text": "Young may refer to: Offspring, the product of reproduction of a new organism produced by one or more parents Youth, the time of life when one's age is low, often meaning the time between childhood and adulthood Music The Young, an American rock band Young, an EP by Charlotte Lawrence, 2018 Songs \"Young\" (Baekhyun and Loco song), 2018 \"Young\" (The Chainsmokers song), 2017 \"Young\" (Hollywood Undead song), 2009 \"Young\" (Kenny Chesney song), 2002 \"Young\" (Place on Earth song), 2018 \"Young\" (Tulisa song), 2012 \"Young\", by Ella Henderson, 2019 \"Young\", by Lil Wayne from Dedication 6, 2017 \"Young\", by Nickel Creek from This Side, 2002 \"Young\", by Sam Smith from Love Goes, 2020 \"Young\", by Silkworm from Italian Platinum, 2002 \"Young\", by Vacations (band), 2016 \"Young\", by Vallis Alps, 2015 \"Young\", by Pixey, 2016 People Surname Young (surname) Given name Young (Korean name), Korean unisex given name and name element Young Boozer (born 1948), American banker and Alabama State Treasurer Young"
+    },
+    {
+      "chunk_id": "wikipedia:His House#0000",
+      "doc_id": "wikipedia:His House",
+      "title": "His House",
+      "url": "https://en.wikipedia.org/?curid=62897844",
+      "source_type": "wikipedia",
+      "score": 0.5125120639801025,
+      "text": "His House is a 2020 folk horror thriller film written and directed by Remi Weekes, from a story by Felicity Evans and Toby Venables. It stars Wunmi Mosaku, Sope Dirisu and Matt Smith. The film tells the story of a refugee couple from South Sudan, struggling to adjust to their new life in an English town that has an evil lurking beneath the surface. It had its world premiere at the 2020 Sundance Film Festival on 27 January 2020. It was released on 30 October 2020 by Netflix, and received widespread acclaim from critics. Plot Bol and Rial are refugees fleeing with their daughter, Nyagak, from war-torn South Sudan. They brave stormy waters on an overcrowded motorboat, along with fellow refugees traversing the perilous English Channel from France to seek asylum. Although they survive the treacherous crossing, their daughter and many others do not."
+    },
+    {
+      "chunk_id": "wikipedia:SpongeBob SquarePants#0001",
+      "doc_id": "wikipedia:SpongeBob SquarePants",
+      "title": "SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/?curid=2655089",
+      "source_type": "wikipedia",
+      "score": 0.5103508234024048,
+      "text": "to Nickelodeon. The network's executives wanted SpongeBob to be a child in school, but Hillenburg preferred SpongeBob to be an adult character. He was prepared to abandon the series, but compromised by creating a boating school so SpongeBob could attend school as an adult. SpongeBob SquarePants received widespread critical acclaim in its early years, with praise given to its characters, surreal humor..."
+    },
+    {
+      "chunk_id": "wikipedia:October#0000",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.4960645198822021,
+      "text": "October is the 10th month of the year in the Julian and Gregorian calendars. Its length is 31 days. The eighth month in the old calendar of Romulus c. 750 BC, October retained its name (from Latin and Greek ôctō meaning \"eight\") after January and February were inserted into the calendar that had originally been created by the Romans. In Ancient Rome, one of three Mundus patet would take place on October 5, Meditrinalia October 11, Augustalia on October 12, October Horse on October 15, and Armilustrium on October 19. These dates do not correspond to the modern Gregorian calendar. Among the Anglo-Saxons, it was known as Winterfylleth (Ƿinterfylleþ), because at this full moon, winter was supposed to begin. October is commonly associated with the season of autumn in parts of the Northern Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa."
+    },
+    {
+      "chunk_id": "wikipedia:April#0000",
+      "doc_id": "wikipedia:April",
+      "title": "April",
+      "url": "https://en.wikipedia.org/?curid=1004",
+      "source_type": "wikipedia",
+      "score": 0.48262183368206024,
+      "text": "April is the fourth month of the year in the Gregorian and Julian calendars. Its length is 30 days. April is commonly associated with the season of spring in the Northern Hemisphere, and autumn in the Southern Hemisphere, where it is the seasonal equivalent to October in the Northern Hemisphere and vice versa. History The Romans gave this month the Latin name Aprilis but the derivation of this name is uncertain. The traditional etymology is from the verb aperire, \"to open\", in allusion to its being the season when trees and flowers begin to \"open\", which is supported by comparison with the modern Greek use of άνοιξη (ánixi) (opening) for spring. Since some of the Roman months were named in honor of divinities, and as April was sacred to the goddess Venus, her Veneralia being held on the first day, it has been suggested that Aprilis was originally her month Aphrilis, from her equivalent Greek goddess name Aphrodite (Aphros), or the Etruscan name Apru."
+    },
+    {
+      "chunk_id": "wikipedia:Snow#0001",
+      "doc_id": "wikipedia:Snow",
+      "title": "Snow",
+      "url": "https://en.wikipedia.org/?curid=28191",
+      "source_type": "wikipedia",
+      "score": 0.46749864518642426,
+      "text": ". As snow accumulates into a snowpack, it may blow into drifts. Over time, accumulated snow metamorphoses, by sintering, sublimation, and freeze-thaw. Where the climate is cold enough for year-to-year accumulation, a glacier may form. Otherwise, snow typically melts seasonally, causing runoff into streams and rivers and recharging groundwater. Major snow-prone areas include the polar regions..."
+    },
+    {
+      "chunk_id": "wikipedia:Working#0000",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.45069819688796997,
+      "text": "Working may refer to: Work (human activity), intentional activity people perform to support themselves, others, or the community Arts and media Working (musical), a 1978 musical Working (TV series), an American sitcom Working (Caro book), a 2019 book by Robert Caro Working (Terkel book), a 1974 book by Studs Terkel Working!!, a manga by Karino Takatsu \"Working\" (song), by Tate McRae and Khalid, 2021 Engineering and technology Cold working or cold forming, the shaping of metal below its recrystallization temperature Hot working, the shaping of metal above its recrystallization temperature Multiple working, having more than one locomotive under the control of one driver Live-line working, the maintenance of electrical equipment while it is energised Single-line working, using one train track out of two Other uses Holbrook Working (1895–1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of"
+    },
+    {
+      "chunk_id": "wikipedia:Charmer#0001",
+      "doc_id": "wikipedia:Charmer",
+      "title": "Charmer",
+      "url": "https://en.wikipedia.org/?curid=40421866",
+      "source_type": "wikipedia",
+      "score": 0.4493264853954315,
+      "text": "2007 \"Charmer\" (N-Dubz song), 2022 Other uses Charmer (folklore), English practitioners of a specific kind of folk magic Charmers, comic strip by Hallmark Cards (1975–1981) See also Charm (disambiguation) Snake charmer (disambiguation)"
+    }
+  ]
+}

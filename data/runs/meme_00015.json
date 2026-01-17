@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_00015",
+  "queries": [
+    "\"Smoking kills\" \"The Australian\" \"Nobody\" \"his cigarette\"",
+    "\"Nobody\" \"his cigarette\" \"the grass\" \"smoking\""
+  ],
+  "primary_terms": [
+    "Smoking kills",
+    "smoking",
+    "kills",
+    "guess",
+    "Nobody",
+    "The Australian",
+    "his cigarette",
+    "the grass"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Smoking#0000",
+      "doc_id": "wikipedia:Smoking",
+      "title": "Smoking",
+      "url": "https://en.wikipedia.org/?curid=12254052",
+      "source_type": "wikipedia",
+      "score": 1.0160813093185426,
+      "text": "Smoking is a human behavior which involves the combustion of a substance, usually plant material, and the inhalation of resulting fumes. Today, smoking is mostly practiced by rolling the dried leaves of the tobacco plant into a cigarette. Other forms of tobacco smoking include the use of a smoking tobacco with a pipe or cigar, or using a bong. Cigarette smokers almost always inhale the smoke; most pipe and cigar smokers do not inhale. Smoking is primarily practiced as a route of administration for psychoactive chemicals because the active substances within the burnt, dried plant leaves (or other chemical) can vaporize into a gaseous state and be delivered into the respiratory tract, where they are rapidly absorbed into the bloodstream through the lungs and can reach the central nervous system."
+    },
+    {
+      "chunk_id": "wikipedia:Cigar#0001",
+      "doc_id": "wikipedia:Cigar",
+      "title": "Cigar",
+      "url": "https://en.wikipedia.org/?curid=38323",
+      "source_type": "wikipedia",
+      "score": 0.8124649286270141,
+      "text": "in the Eastern United States (mostly in Florida, Kentucky, Tennessee, and Virginia) and in the Mediterranean countries of Italy, Greece, Spain (in the Canary Islands), and Turkey, and to a lesser degree in Indonesia and the Philippines of Southeast Asia. Cigar smoking carries serious health risks, including increased risk of developing various types..."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0001",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.768296754360199,
+      "text": "Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs \"No Body\", by Blake Shelton, 2022 \"Nobody\" (1905 song), by Alex Rogers and Bert A. Williams \"Nobody\" (Avenged Sevenfold song), 2023 \"Nobody\" (DJ Neptune song), 2020 \"Nobody..."
+    },
+    {
+      "chunk_id": "wikipedia:Greedy#0001",
+      "doc_id": "wikipedia:Greedy",
+      "title": "Greedy",
+      "url": "https://en.wikipedia.org/?curid=1376590",
+      "source_type": "wikipedia",
+      "score": 0.5294756799936294,
+      "text": "2019), pseudonym of Andrew McArthur Smith, singer, musician and songwriter with the Australian pop/new wave band Mental As Anything Greedy Vance Jr. (born 2001), American football player Greedy Williams (born 1997), American football player nicknamed \"Greedy\" Jack Greedy (1929–1988), Canadian racing driver, member of the Canadian Motorsport Hall of Fame Fictional characters Greedy Gretchen, a character who appeared in episodes of the American TV sitcoms Three's Company and Three's a Crowd Greedy Smurf, a character in The Smurfs franchise Mr. Greedy, title character of a book in the Mr..."
+    },
+    {
+      "chunk_id": "wikipedia:Jerry#0000",
+      "doc_id": "wikipedia:Jerry",
+      "title": "Jerry",
+      "url": "https://en.wikipedia.org/?curid=664776",
+      "source_type": "wikipedia",
+      "score": 0.4792202413082123,
+      "text": "Jerry may refer to: Animals Jerry (Grand National winner), racehorse, winner of the 1840 Grand National Jerry (St Leger winner), racehorse, winner of 1824 St Leger Stakes Arts, entertainment, and media Jerry (play), a 1914 American play \"Jerry\", a song from the album Young and Free by Rock Goddess \"Jerry\" (Adventure Time: Fionna and Cake), an episode of the animated television series Adventure Time: Fionna and Cake Tom and Jerry (disambiguation) Jerry Mouse Jerry, a fictional character who is The Lich BMO named of another universe from Adventure Time Jerry (The Walking Dead), a fictional character from The Walking Dead People Jerry (given name), including a list of people and fictional characters with the name Harold A. Jerry, Jr. (1920–2001), New York politician Thomas Jeremiah (d. 1775), commonly known simply as \"Jerry\", a free Negro in colonial South Carolina Tyson Jerry (born 1983), a Canadian Guinness World Record holder Jerry (born 1964), one half of the Indian filmmaking duo J."
+    },
+    {
+      "chunk_id": "wikipedia:Care#0001",
+      "doc_id": "wikipedia:Care",
+      "title": "Care",
+      "url": "https://en.wikipedia.org/?curid=246884",
+      "source_type": "wikipedia",
+      "score": 0.4192695766687393,
+      "text": "English rugby union player Henry Care (1646–1688), English political writer and journalist Peter Care (born 1953), British film and video producer Terry John Care (born 1947), American politician Philosophy and science Care or Sorge, a term in Heideggerian terminology Cura (mythology) or Care, figure in ancient Roman Fabulae of Hyginus..."
+    },
+    {
+      "chunk_id": "wikipedia:Never#0001",
+      "doc_id": "wikipedia:Never",
+      "title": "Never",
+      "url": "https://en.wikipedia.org/?curid=1433241",
+      "source_type": "wikipedia",
+      "score": 0.4176504760980606,
+      "text": "-sama and Evil Neuro, 2025 \"Never\", by Orbital from Wonky, 2012 \"Never\", by Ozzy Osbourne from The Ultimate Sin, 1986 \"Never\", by Paco from This Is Where We Live, 2004 \"Never\", by Sevendust from Next, 2005 \"Never (These Days)\", by Z-Ro, 2010 Places Never, Amur Oblast, a rural locality in Russia Never, Bryansk Oblast, a rural locality..."
+    },
+    {
+      "chunk_id": "wikipedia:Qantas#0001",
+      "doc_id": "wikipedia:Qantas",
+      "title": "Qantas",
+      "url": "https://en.wikipedia.org/?curid=25254",
+      "source_type": "wikipedia",
+      "score": 0.41047719717025755,
+      "text": "served Queensland and the Northern Territory. Since then, the company has undergone several changes, including nationalisation and privatisation. It is popularly nicknamed \"The Flying Kangaroo\" and has the official slogan \"Spirit of Australia\". Qantas is based in the Sydney suburb of Mascot, adjacent to its main hub at Sydney Airport. As of March 2023, Qantas Group had a 60.8% share of the Australian domestic market. Various..."
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0001",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.4031663239002228,
+      "text": "suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital. Following his recovery, the now-unemployed Tramp is mistakenly arrested in a Communist demonstration. In jail, he accidentally ingests smuggled cocaine, and in his subsequent delirium, he avoids being put back in his cell. When he returns, he stumbles upon a jailbreak and knocks the convicts..."
+    },
+    {
+      "chunk_id": "wikipedia:Trick#0000",
+      "doc_id": "wikipedia:Trick",
+      "title": "Trick",
+      "url": "https://en.wikipedia.org/?curid=274735",
+      "source_type": "wikipedia",
+      "score": 0.3805577754974365,
+      "text": "Trick(s) may refer to: People Trick McSorley (1852–1936), American professional baseball player Armon Trick (born 1978), retired German international rugby union player David Trick (born 1955), former Ontario civil servant and university administrator Marcus Trick (born 1977), retired German international rugby union player Stanley Arthur Trick (1884–1958), English cricketer for Essex Stephanie Trick (born 1987), American stride, ragtime and jazz pianist Trick Daddy (born 1974), American rapper and producer Trick-Trick (born 1973), Detroit rapper Junaid Hussain (1994–2015), British hacker and propagandist who used the alias TriCk Arts, entertainment, and media Films Tricks (1925 film), American silent film Trick (1999 film), American gay romantic-comedy Tricks (1997 film), TV movie; see Jay Friedkin Tricks (2007 film), Polish film by Andrzej Jakimowski Trick (2010 film), Polish film by Jan Hryniak Trick (2019 film), American Halloween-themed horror film The Trick (film), a 2021 BBC"
+    }
+  ]
+}

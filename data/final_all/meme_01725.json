@@ -1,0 +1,198 @@
+{
+  "meme_id": "meme_01725",
+  "queries": [
+    "\"Not an overused template\" \"an Eskimo waiting wtocn\" \"Humans\" \"only vegetables\"",
+    "\"Humans\" \"only vegetables\" \"his lettuce\" \"myself\""
+  ],
+  "primary_terms": [
+    "Not an overused template",
+    "myself",
+    "not",
+    "overused",
+    "template",
+    "say",
+    "Humans",
+    "only vegetables",
+    "vse",
+    "an Eskimo waiting wtocn",
+    "his lettuce"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Food#0000",
+      "doc_id": "wikipedia:Food",
+      "title": "Food",
+      "url": "https://en.wikipedia.org/?curid=10646",
+      "source_type": "wikipedia",
+      "score": 0.637942573428154,
+      "text": "Food is any substance consumed by an organism for nutritional support. Food usually consists of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or support growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill specific ecological niches within specific geographical contexts. Omnivorous humans are highly adaptable and have adapted to obtaining food in many different ecosystems. Humans generally use cooking to prepare food for consumption. The majority of the food energy required is supplied by the industrial food industry, which produces food through intensive agriculture and distributes it through complex food processing and food distribution systems."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0001",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.5753903687000275,
+      "text": "food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting. Their favorite food is cocoa beans. When Willy Wonka arrived, he told the chief he and his people can come live and work at his factory and have all the cocoa beans they want. In the first edition of Charlie..."
+    },
+    {
+      "chunk_id": "wikipedia:Accessory#0001",
+      "doc_id": "wikipedia:Accessory",
+      "title": "Accessory",
+      "url": "https://en.wikipedia.org/?curid=1949788",
+      "source_type": "wikipedia",
+      "score": 0.49760057032108307,
+      "text": "and terminating cables Accessory fruit, in which some of the flesh is derived from tissues other than the flower ovary See also All pages with titles beginning with Accessory All pages with titles containing Accessory Access (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.47390706539154054,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Food#0001",
+      "doc_id": "wikipedia:Food",
+      "title": "Food",
+      "url": "https://en.wikipedia.org/?curid=10646",
+      "source_type": "wikipedia",
+      "score": 0.454233780503273,
+      "text": "food industry, which produces food through intensive agriculture and distributes it through complex food processing and food distribution systems. This system of conventional agriculture relies heavily on fossil fuels, which means that the food and agricultural systems are one of the major contributors to climate change, accounting for as much as 37% of total greenhouse gas emissions. The food system has a..."
+    },
+    {
+      "chunk_id": "wikipedia:Only#0000",
+      "doc_id": "wikipedia:Only",
+      "title": "Only",
+      "url": "https://en.wikipedia.org/?curid=1629775",
+      "source_type": "wikipedia",
+      "score": 0.4464750438928604,
+      "text": "Only may refer to: Music Albums Only (album), by Tommy Emmanuel, 2000 The Only, an EP by Dua Lipa, 2017 The Only (EP), by The Boyz Songs \"Only\" (Anthrax song), 1993 \"Only\" (Nine Inch Nails song), 2005 \"Only\" (Nicki Minaj song), 2014 \"Only\" (Lee Hi song), 2021 \"The Only\", by Static-X, 2003 \"Only\", by Ass Ponys from Lohio, 2001 \"Only\", by Fuse ODG, 2015 \"Only\", by Imagine Dragons from Origins, 2018 \"Only\", by NF from The Search, 2019 \"Only\", by Sarah Vaughan from Sarah Slightly Classical, 1963 \"Only\", by Sampha from Lahai, 2023 \"The Only\", a song by Raiden featuring Irene, 2019 \"The Only\", by Sasha Alex Sloan from Loser, 2018 Other uses Only (film), a 2019 post-apocalyptic romance film Only (magazine), a 2000s Canadian news and entertainment magazine Only, Tennessee, US Jerry Only (born 1959), American punk rock bassist and singer See also All pages with titles beginning with Only All pages with titles beginning with The Only Onli, people with this surname Onley (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0001",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.38664877116680146,
+      "text": "between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another. The dominant philosophical position since the 20th century has been physicalism, which says that everything is material, meaning that minds are certain aspects or features of some material objects. The evolutionary history of the mind is tied to the development of nervous systems, which..."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0001",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.36995719373226166,
+      "text": "A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K. Le Guin, originally published as \"The End\" in the 1970 anthology Orbit 6, edited by Damon Knight Things, a 1981 picture book by Roger Hargreaves The Things, a 1994 novel by Martyn Godfrey Things, a 1997 novel by Rodman Philbrick and Lynn Harnett, the second installment in the Visitors trilogy \"The Things\" (short story), a 2010 short story by Peter Watts Other uses TheThings, a news website Things (Chill), a 1984 role-playing game supplement Things (film), a 1989 Canadian horror film Things (software), task management software The Things, recurring..."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0001",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.3620117723941803,
+      "text": "the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes. In theories of syntax, a phrase is any group of words, or sometimes a single word, which plays a particular role within the syntactic structure of a sentence. It does not have to have any special meaning or significance, or even exist anywhere outside of the sentence being analyzed, but it must function there as a complete grammatical unit..."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0001",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.35637424886226654,
+      "text": "forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota. Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "snow house",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "snow house"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that humans weren't meant to be vegetarians.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "humans",
+          "vegetarians"
+        ]
+      },
+      "title": {
+        "text": "Not an overused template if I say so myself",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Not an overused template",
+          "myself",
+          "not",
+          "overused",
+          "template",
+          "say"
+        ]
+      },
+      "text": {
+        "text": "Mfs be like: \"Humans are supposed to eat only vegetables\" - 2 nes Se Y to nee oe ae a woo 7 _ arn W- vse ° fa . . - % bad . . . a. Ee Lay SOC ae - —_~ a a rea a i. ae Here's an Eskimo waiting wtocn for his lettuce to grow",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Humans",
+          "only vegetables",
+          "vse",
+          "an Eskimo waiting wtocn",
+          "his lettuce"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Not an overused template",
+      "myself",
+      "not",
+      "overused",
+      "template",
+      "say",
+      "Humans",
+      "only vegetables",
+      "vse",
+      "an Eskimo waiting wtocn",
+      "his lettuce"
+    ],
+    "secondary_terms": [
+      "snow house",
+      "humans",
+      "vegetarians"
+    ],
+    "queries": [
+      "\"Not an overused template\" \"an Eskimo waiting wtocn\" \"Humans\" \"only vegetables\"",
+      "\"Humans\" \"only vegetables\" \"his lettuce\" \"myself\""
+    ]
+  },
+  "source_jsonl_id": null
+}

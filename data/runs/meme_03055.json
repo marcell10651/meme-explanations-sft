@@ -1,0 +1,112 @@
+{
+  "meme_id": "meme_03055",
+  "queries": [
+    "\"Asians The\" \"the Asians\" \"The population\" \"the world\" \"asians\"",
+    "\"the world\" \"asians\" \"population\" \"world\""
+  ],
+  "primary_terms": [
+    "the Asians",
+    "asians",
+    "The population",
+    "the world",
+    "population",
+    "world",
+    "has",
+    "now",
+    "surpassed",
+    "billion",
+    "one"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Asia#0000",
+      "doc_id": "wikipedia:Asia",
+      "title": "Asia",
+      "url": "https://en.wikipedia.org/?curid=689",
+      "source_type": "wikipedia",
+      "score": 1.6331440806388855,
+      "text": "Asia ( AY-zhə, UK also AY-shə) is the largest continent in the world by both land area and population. It covers an area of more than 44 million square kilometres, about 30% of Earth's total land area and 8% of Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilisations. Its 4.7 billion people constitute roughly 60% of the world's population. Asia shares the landmass of Eurasia with Europe, and of Afro-Eurasia with both Europe and Africa. In general terms, it is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them."
+    },
+    {
+      "chunk_id": "wikipedia:Japan#0000",
+      "doc_id": "wikipedia:Japan",
+      "title": "Japan",
+      "url": "https://en.wikipedia.org/?curid=15573",
+      "source_type": "wikipedia",
+      "score": 1.2907448053359984,
+      "text": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands alongside 14,121 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of over 123 million as of 2025, it is the world's 11th most populous country. Tokyo is the country's capital and largest city. The first known habitation of the archipelago dates to the Upper Paleolithic, with the beginning of the Japanese Paleolithic dating to c. 36,000 BC. Between the 4th and 6th centuries, its kingdoms were united under an emperor in Nara and later in Heian-kyō."
+    },
+    {
+      "chunk_id": "wikipedia:Americans#0000",
+      "doc_id": "wikipedia:Americans",
+      "title": "Americans",
+      "url": "https://en.wikipedia.org/?curid=19792942",
+      "source_type": "wikipedia",
+      "score": 1.1473730444908141,
+      "text": "Americans are the citizens and nationals of the United States. U.S. federal law does not equate nationality with race or ethnicity but rather with citizenship. The U.S. has 37 ancestry groups with more than one million individuals. White Americans form the largest racial and ethnic group at 61.6% of the U.S. population, with non-Hispanic Whites making up 57.8% of the population. Hispanic and Latino Americans form the second-largest group and are 18.7% of the American population. Black Americans constitute the country's third-largest ancestry group and are 12.4% of the total U.S. population. Asian Americans are the country's fourth-largest group, composing 6% of the American population. The country's 3.7 million Native Americans account for about 1.1%, and some 574 native tribes are recognized by the federal government. People of American descent can be found internationally. As many as seven million Americans are estimated to be living abroad, and make up the American diaspora."
+    },
+    {
+      "chunk_id": "wikipedia:Australia#0000",
+      "doc_id": "wikipedia:Australia",
+      "title": "Australia",
+      "url": "https://en.wikipedia.org/?curid=4689264",
+      "source_type": "wikipedia",
+      "score": 1.0229563951492309,
+      "text": "Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. It has a total area of 7,688,287 km2 (2,968,464 sq mi), making it the sixth-largest country in the world and the largest in Oceania. Australia is the world's flattest and driest inhabited continent. It is a megadiverse country, and its size gives it a wide variety of landscapes and climates including deserts in the interior and tropical rainforests along the coast. The ancestors of Aboriginal Australians began arriving from Southeast Asia 50,000 to 65,000 years ago, during the Last Glacial Period. By the time of British settlement, Aboriginal Australians spoke more than 250 distinct languages and had one of the oldest living cultures in the world. Australia's written history commenced with Dutch exploration of most of the coastline in the 17th century."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 1.006333240866661,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Country#0000",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.9334449350833893,
+      "text": "A country is an area of land, colloquially used as a synonym for sovereign state or other political entities, but also used to refer to the hinterland surrounding urban areas, as well as to describe the culture of people living in these places. Usually, the term country is applied to occupied areas of land, however it can be used to refer to uninhabited areas or wastelands. When referring to a specific polity, the term \"country\" may refer to a sovereign state, a state with limited recognition, a constituent country, or a dependent territory. Most sovereign states, but not all countries, are members of the United Nations. There is no universal agreement on the number of \"countries\" in the world with a range between 193 to 237. This ambiguity is a result of several states having disputed sovereignty status or limited recognition, and a number of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time."
+    },
+    {
+      "chunk_id": "wikipedia:Left- and right-hand traffic#0001",
+      "doc_id": "wikipedia:Left- and right-hand traffic",
+      "title": "Left- and right-hand traffic",
+      "url": "https://en.wikipedia.org/?curid=213380",
+      "source_type": "wikipedia",
+      "score": 0.9264721214771271,
+      "text": "the rear overtakes the one in the front. For example, a driver in an LHT country would typically overtake on the right of the vehicle being overtaken. RHT is used in 165 countries and territories, mainly in the Americas, Continental Europe, most of Africa and mainland Asia (except South Asia and Thailand), while 75 countries use LHT, which account for about a sixth of the world's land area, a quarter of its roads, and about a third of its population. In 1919, 104 of the world's territories were LHT and an equal number were RHT. Between 1919 and 1986, 34 of the LHT territories switched..."
+    },
+    {
+      "chunk_id": "wikipedia:Three Rocks, California#0001",
+      "doc_id": "wikipedia:Three Rocks, California",
+      "title": "Three Rocks, California",
+      "url": "https://en.wikipedia.org/?curid=22780127",
+      "source_type": "wikipedia",
+      "score": 0.8173669099807739,
+      "text": "2020 United States census reported that Three Rocks had a population of 248. The population density was 330.7 inhabitants per square mile (127.7/km2). The racial makeup of Three Rocks was 35 (14.1%) White, 0 (0.0%) African American, 7 (2.8%) Native American, 1 (0.4%) Asian, 0 (0.0%) Pacific Islander, 165 (66.5%) from other races, and 40 (16.1%) from two or more races. Hispanic or Latino of any race were 245 persons (98.8%). The whole population lived in households. There were 63 households, out of which 22 (34.9%) had children..."
+    },
+    {
+      "chunk_id": "wikipedia:Country#0001",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.8142090499401092,
+      "text": "of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time. The Economist wrote in 2010 that \"any attempt to find a clear definition of a country soon runs into a thicket of exceptions and anomalies.\" Areas much smaller than a political entity may be referred..."
+    },
+    {
+      "chunk_id": "wikipedia:Miss Universe#0000",
+      "doc_id": "wikipedia:Miss Universe",
+      "title": "Miss Universe",
+      "url": "https://en.wikipedia.org/?curid=150340",
+      "source_type": "wikipedia",
+      "score": 0.7920149445533753,
+      "text": "Miss Universe is an annual international major beauty pageant that is run by the Thailand and Mexican-based Miss Universe Organization. Along with Miss World, Miss International, and Miss Earth, it is one of the Big Four beauty pageants. The Miss Universe Organization and its brand is owned by JKN Global Group and Legacy Holding Group USA Inc., an American division of Mexican company Legacy Holding through the joint venture company JKN Legacy Inc. Telemundo had the licensing rights to air the pageant through 2023. The pageant's advocacy is \"humanitarian issues and is a voice to affect positive change in the world\". The reigning Miss Universe is Fátima Bosch from Mexico who was crowned on November 20, 2025, in Pak Kret, Thailand. History The title \"Miss Universe\" was first used by the International Pageant of Pulchritude in 1926. This contest was held annually until 1935, when the Great Depression and other events preceding World War II led to its demise."
+    }
+  ]
+}

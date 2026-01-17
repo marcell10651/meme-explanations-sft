@@ -1,0 +1,192 @@
+{
+  "meme_id": "meme_06300",
+  "queries": [
+    "\"English\" \"swear\" \"idea\" \"gros\" \"school\"",
+    "\"regular tutoring\" \"the internet\" \"swear\" \"idea\""
+  ],
+  "primary_terms": [
+    "swear",
+    "idea",
+    "You Gros",
+    "gros",
+    "school"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Teacher#0000",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.6776310265064239,
+      "text": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence, or virtue, via the practice of teaching. Informally the role of teacher may be taken on by anyone (e.g. when showing a colleague how to perform a specific task). In some countries, teaching young people of school age may be carried out in an informal setting, such as within the family (homeschooling), rather than in a formal setting such as a school or college. Some other professions may involve a significant amount of teaching (e.g. youth worker, pastor). In most countries, formal teaching of students is usually carried out by paid professional teachers. This article focuses on those who are employed, as their main role, to teach others in a formal education context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0001",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.6555082261562347,
+      "text": "or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'. History An argument over the underlying nature of ideas was opened by Plato, whose exposition of his theory of forms—which recurs and accumulates over the course of his many dialogs—appropriates and adds a new sense to the Greek word for things that are \"seen\" (re. εἶδος) that highlights those elements of perception which..."
+    },
+    {
+      "chunk_id": "wikipedia:WITS#0000",
+      "doc_id": "wikipedia:WITS",
+      "title": "WITS",
+      "url": "https://en.wikipedia.org/?curid=3083596",
+      "source_type": "wikipedia",
+      "score": 0.6161247104406357,
+      "text": "WITS or Wits may refer to: Acronym Wales Interpretation and Translation Service, a Welsh not-for-profit organisation Water Industry Telemetry Standard, a communications protocol Wellsite Information Transfer Specification, used by the petroleum industry Women in Technology and Science, an Irish organisation Workshop on Information Technologies and Systems, an academic conference on information systems World Integrated Trade Solution, a trade database provided by the World Bank Worldwide Incidents Tracking System, a discontinued publicly accessible terrorism database Worldwide Industrial Telemetry Standards, a suite of public utility protocols Arts and entertainment The Wits, a 17th-century English comedy play by Sir William Davenant The Wits, a 17th-century collection of comic sketches by Francis Kirkman the title school of WITS Academy, a 2015 teen sitcom on Nickelodeon Other uses Herman Wits (1636–1708), Dutch theologian Bidvest Wits F.C., a South African football club University of"
+    },
+    {
+      "chunk_id": "wikipedia:Student#0000",
+      "doc_id": "wikipedia:Student",
+      "title": "Student",
+      "url": "https://en.wikipedia.org/?curid=155526",
+      "source_type": "wikipedia",
+      "score": 0.5941420704126358,
+      "text": "A student is a person enrolled in a school or other educational institution, or more generally, a person who takes a special interest in a subject. In the United Kingdom and most commonwealth countries, a \"student\" attends a secondary school or higher (e.g., college or university); those in primary or elementary schools are \"pupils\". Africa Nigeria In Nigeria, education is classified into four systems known as a 6-3-3-4 system of education. It implies six years in primary school, three years in junior secondary, three years in senior secondary and four years in the university. However, the number of years to be spent in university is mostly determined by the course of study. Some courses have longer study lengths than others. Those in primary school are often referred to as pupils. Those in university, as well as those in secondary school, are referred to as students. The Nigerian system of education also has other recognized categories like the polytechnics and colleges of education."
+    },
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0001",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.5755408465862274,
+      "text": "Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends. During this time, Craig starts high school and becomes close to Ms. Hart, a teacher who comes to his aid when Kenny Yankovich, a school bully, attempts to intimidate him. After winning $3,000 from a lottery ticket that Harrigan..."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.5741778314113617,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Teacher#0001",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.570873013138771,
+      "text": "context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures. Teachers may provide instruction in literacy and numeracy, craftsmanship or vocational training, the arts, religion, civics, community roles, or life skills. Formal teaching tasks include preparing lessons according to agreed curricula, giving lessons..."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0000",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.5642160534858703,
+      "text": "In philosophy and in common usage, an idea (from the Greek word: ἰδέα (idea), meaning 'a form, or a pattern') is the result of thought. Also in philosophy, ideas can also be mental representational images of some object. Many philosophers have considered ideas to be a fundamental ontological category of being. The capacity to create and understand the meaning of ideas is considered to be an essential and defining feature of human beings. An idea arises in a reflexive, spontaneous manner, even without thinking or serious reflection, for example, when we talk about the idea of a person or a place. A new or an original idea can often lead to innovation. Our actions are based upon beliefs, beliefs are patterns or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'."
+    },
+    {
+      "chunk_id": "wikipedia:Nett#0001",
+      "doc_id": "wikipedia:Nett",
+      "title": "Nett",
+      "url": "https://en.wikipedia.org/?curid=9167639",
+      "source_type": "wikipedia",
+      "score": 0.5114952385425567,
+      "text": "Kolonia, which is still claimed by Nett municipality as one of its kousapw. The kousapw are or were further subdivided into peliensapw (farmsteads). Education Pohnpei State Department of Education operates public schools: Nett Elementary School Parem Elementary School Bailey Olter High School (former Pohnpei Island Central School or PICS) in Kolonia serves students from Nett. ��2�..."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0000",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.4854675978422165,
+      "text": "Fuck () is a profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives (such as fucker and fucking) are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off. Offensiveness It is unclear whether the word has always been considered a pejorative or, if not, when it first came to be used to describe (often in an extremely angry, hostile, or belligerent manner) unpleasant circumstances or people in an intentionally offensive way, such as in the term motherfucker, one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A black man in a suit with hand on tie.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "hand",
+          "tie"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is different from people who learned english in school.. Meme poster thinks there is a wide difference between those who learned English through memes and those who learned in it school.. The meme poster praises internet for teaching him English rather than regular tutoring.. Meme poster somehow learned English from the internet.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "people",
+          "english",
+          "school",
+          "internet",
+          "him",
+          "regular tutoring",
+          "the internet"
+        ]
+      },
+      "title": {
+        "text": "I swear I have no idea",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "swear",
+          "idea"
+        ]
+      },
+      "text": {
+        "text": "at NRRL You Gros et school",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "You Gros",
+          "gros",
+          "school"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "swear",
+      "idea",
+      "You Gros",
+      "gros",
+      "school"
+    ],
+    "secondary_terms": [
+      "hand",
+      "tie",
+      "people",
+      "english",
+      "school",
+      "internet",
+      "him",
+      "regular tutoring",
+      "the internet"
+    ],
+    "queries": [
+      "\"English\" \"swear\" \"idea\" \"gros\" \"school\"",
+      "\"regular tutoring\" \"the internet\" \"swear\" \"idea\""
+    ]
+  },
+  "source_jsonl_id": null
+}

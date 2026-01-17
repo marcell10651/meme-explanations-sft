@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_01581",
+  "queries": [
+    "\"a nice French name\" \"Waiter\" \"adult lunchables\" \"nobody\"",
+    "\"adult lunchables\" \"nobody\" \"adult\" \"lunchables\""
+  ],
+  "primary_terms": [
+    "adult lunchables",
+    "nobody",
+    "adult",
+    "lunchables",
+    "can",
+    "convince",
+    "otherwise",
+    "Waiter",
+    "a nice French name",
+    "wood"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Nobody#0000",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.7200088918209075,
+      "text": "Nobody most often refers to: Nobody, an indefinite pronoun Nobody may also refer to: Fictional characters Nobody (Kingdom Hearts), a race of beings in the Kingdom Hearts video game series Nobody (Devil May Cry), a demon appearing in Devil May Cry Nobody, a character in the Jim Jarmusch films Dead Man and Ghost Dog: The Way of the Samurai Nobody, a character in the 1973 Italian film My Name Is Nobody Nobody, a character in the Teenage Mutant Ninja Turtles franchise Odysseus, who used the name \"nobody\" in his battle against Polyphemus Film and television Nobody (1921 film), an American silent film \"The Nobody\" (The Amazing World of Gumball), a 2015 TV episode \"Nobody\" (Folklore), a 2018 TV episode Nobody (2021 film), American thriller film Nobody (2025 film), Chinese animated film Music Nobody (producer) (born 1977), American record producer Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs"
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0000",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.7013707458972931,
+      "text": "A restaurant is a business that prepares and serves food and beverages to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, featuring a wide variety of cuisines and service models — ranging from inexpensive fast-food restaurants and cafeterias to mid-priced family restaurants to high-priced luxury establishments. Etymology The word derives from the early 19th century, taken from the French word restaurer 'provide meat for', literally 'restore to a former state' and, being the present participle of the verb, the term restaurant may have been used in 1507 as a \"restorative beverage\", and in correspondence in 1521 to mean 'that which restores the strength, a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0000",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.6529672354459762,
+      "text": "A name is a term used for identification by an external observer. They can identify a class or category of things, or a single thing, either uniquely, or within a given context. The entity identified by a name is called its referent. A personal name identifies, not necessarily uniquely, a specific individual human. The name of a specific entity is sometimes called a proper name (although that term has a philosophical meaning as well) and is, when consisting of only one word, a proper noun. Other nouns are sometimes called \"common names\" or (obsolete) \"general names\". A name can be given to a person, place, or thing; for example, parents can give their child a name or a scientist can give an element a name. Etymology The word name comes from Old English nama; cognate with Old High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥."
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0001",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.6337425619363785,
+      "text": "musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation for their name in post-nominal letters See also CANT (disambiguation) All pages with titles containing Cant Canté, a commune in Ariège, France Canter (disambiguation) Canticle Kant (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0001",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.6300864219665527,
+      "text": "a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt. It served only one dish, a plate of cereal, wildfowl, and onions. A forerunner for the modern restaurant is the thermopolium, an establishment in Ancient Greece or Ancient Rome that sold and served ready-to-eat food and beverages. These establishments..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.6234698802232742,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Normal People#0000",
+      "doc_id": "wikipedia:Normal People",
+      "title": "Normal People",
+      "url": "https://en.wikipedia.org/?curid=59041422",
+      "source_type": "wikipedia",
+      "score": 0.5725322067737579,
+      "text": "Normal People is a 2018 novel by the Irish author Sally Rooney. Normal People is Rooney's second novel, published after Conversations with Friends (2017). It was first published by Faber & Faber on 30 August 2018. The book became a bestseller in the United States, selling almost 64,000 copies in hardcover in its first four months of release. It was also a bestseller in China, where its coming of age theme was popular with younger readers. A critically acclaimed and Emmy nominated television adaptation of the same name aired from April 2020 on BBC Three and Hulu. A number of publications ranked it one of the best books of the 2010s. Synopsis The novel follows the complex friendship and relationship between two teenagers from different social classes, Connell and Marianne, who both attend the same secondary school in County Sligo, Ireland, and, later, Trinity College Dublin (TCD). It is set during the post-2008 Irish economic downturn, from 2011 through 2015."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0001",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.5712767004966736,
+      "text": "Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs \"No Body\", by Blake Shelton, 2022 \"Nobody\" (1905 song), by Alex Rogers and Bert A. Williams \"Nobody\" (Avenged Sevenfold song), 2023 \"Nobody\" (DJ Neptune song), 2020 \"Nobody..."
+    },
+    {
+      "chunk_id": "wikipedia:Uncle#0001",
+      "doc_id": "wikipedia:Uncle",
+      "title": "Uncle",
+      "url": "https://en.wikipedia.org/?curid=24306566",
+      "source_type": "wikipedia",
+      "score": 0.4995108604431152,
+      "text": "friends, and even total strangers in some cultures, for example Aboriginal Australian elders. Using the term in this way is a form of fictive kinship. Any social institution where a special relationship exists between a man and his sisters' children is known as an avunculate (or avunculism or avuncularism). This relationship can be formal or informal, depending on the society. Early anthropological research focused on the association between the avunculate and matrilineal descent, while later..."
+    },
+    {
+      "chunk_id": "wikipedia:Young#0000",
+      "doc_id": "wikipedia:Young",
+      "title": "Young",
+      "url": "https://en.wikipedia.org/?curid=302029",
+      "source_type": "wikipedia",
+      "score": 0.4919748634099961,
+      "text": "Young may refer to: Offspring, the product of reproduction of a new organism produced by one or more parents Youth, the time of life when one's age is low, often meaning the time between childhood and adulthood Music The Young, an American rock band Young, an EP by Charlotte Lawrence, 2018 Songs \"Young\" (Baekhyun and Loco song), 2018 \"Young\" (The Chainsmokers song), 2017 \"Young\" (Hollywood Undead song), 2009 \"Young\" (Kenny Chesney song), 2002 \"Young\" (Place on Earth song), 2018 \"Young\" (Tulisa song), 2012 \"Young\", by Ella Henderson, 2019 \"Young\", by Lil Wayne from Dedication 6, 2017 \"Young\", by Nickel Creek from This Side, 2002 \"Young\", by Sam Smith from Love Goes, 2020 \"Young\", by Silkworm from Italian Platinum, 2002 \"Young\", by Vacations (band), 2016 \"Young\", by Vallis Alps, 2015 \"Young\", by Pixey, 2016 People Surname Young (surname) Given name Young (Korean name), Korean unisex given name and name element Young Boozer (born 1948), American banker and Alabama State Treasurer Young"
+    }
+  ]
+}

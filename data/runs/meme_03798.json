@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_03798",
+  "queries": [
+    "\"= PLAGIARISM ay ene PERSON\" \"THE PERSON\" \"THE WORD\" \"invented\"",
+    "\"= PLAGIARISM ay ene PERSON\" \"THE PERSON\" \"THE WORD\" \"Three people\"",
+    "\"THE WORD\" \"Three people\" \"Plagiarism\" \"invented\""
+  ],
+  "primary_terms": [
+    "invented",
+    "THE PERSON",
+    "THE WORD",
+    "= PLAGIARISM ay ene PERSON"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Paper#0001",
+      "doc_id": "wikipedia:Paper",
+      "title": "Paper",
+      "url": "https://en.wikipedia.org/?curid=16861908",
+      "source_type": "wikipedia",
+      "score": 1.0278635382652284,
+      "text": "The word paper is etymologically derived from Latin papyrus, which comes from the Greek πᾰ́πῡρος (pápūros), the word for the Cyperus papyrus plant. Papyrus is a thick, paper-like material produced from the pith of the Cyperus papyrus plant, which was used in ancient Egypt and other Mediterranean cultures for writing before the introduction of paper. Although the word paper is etymologically..."
+    },
+    {
+      "chunk_id": "wikipedia:Propaganda#0001",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 1.0241634905338288,
+      "text": "which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites. More recently, the digital age has given rise to new ways of disseminating propaganda, for example, in computational propaganda, bots and algorithms are used to manipulate public opinion, e.g., by creating fake or biased news to spread it on social media or using chatbots to mimic real people in discussions..."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0001",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.9936737477779388,
+      "text": "or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'. History An argument over the underlying nature of ideas was opened by Plato, whose exposition of his theory of forms—which recurs and accumulates over the course of his many dialogs—appropriates and adds a new sense to the Greek word for things that are \"seen\" (re. εἶδος) that highlights those elements of perception which..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0000",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.9543475866317749,
+      "text": "A name is a term used for identification by an external observer. They can identify a class or category of things, or a single thing, either uniquely, or within a given context. The entity identified by a name is called its referent. A personal name identifies, not necessarily uniquely, a specific individual human. The name of a specific entity is sometimes called a proper name (although that term has a philosophical meaning as well) and is, when consisting of only one word, a proper noun. Other nouns are sometimes called \"common names\" or (obsolete) \"general names\". A name can be given to a person, place, or thing; for example, parents can give their child a name or a scientist can give an element a name. Etymology The word name comes from Old English nama; cognate with Old High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥."
+    },
+    {
+      "chunk_id": "wikipedia:Artist#0000",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.9181098848581314,
+      "text": "An artist is a person engaged in creating art, or practicing the arts. The most common usage in everyday speech and academic discourse refers to a practitioner in the visual arts only. However, the term is also very widely used in the entertainment business to refer to actors, musicians, singers, dancers , and other performers. The French word artiste is sometimes used in English in this context, although this has become old-fashioned. The use of the term \"artist\" to describe writers is valid, but less common, and mostly restricted to contexts such as critics' reviews; \"author\" is generally used instead. While the use of the word 'artist' is common, there is no agreed upon definition of art—this makes the definition of who is and is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art."
+    },
+    {
+      "chunk_id": "wikipedia:Perfection#0001",
+      "doc_id": "wikipedia:Perfection",
+      "title": "Perfection",
+      "url": "https://en.wikipedia.org/?curid=1928374",
+      "source_type": "wikipedia",
+      "score": 0.9083044677972794,
+      "text": "such as \"excellence\". The German polymath Leibniz (1646–1716), who thought the world to be the best of all possible worlds, never called it perfect. Paradox The Franco-Italian scholar Joseph Juste Scaliger (1540–1609), the Italian polymath Lucilio Vanini (1585–1619), and (according to Vanini) the Greek philosopher Empedocles (ca. 494 – ca. 434 BCE) held that the greatest perfection was..."
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0001",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.8694294095039368,
+      "text": "the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element. The objective can be clarity or effective communication, association with other cultural elements, or merely the creation of a distinctive style. Graphics can be functional or artistic. The latter can be a recorded version, such as a photograph, or an interpretation by a scientist to highlight..."
+    },
+    {
+      "chunk_id": "wikipedia:Brand#0001",
+      "doc_id": "wikipedia:Brand",
+      "title": "Brand",
+      "url": "https://en.wikipedia.org/?curid=18950900",
+      "source_type": "wikipedia",
+      "score": 0.8382711768150329,
+      "text": "into the animal's skin with a hot branding iron. If a person stole any of the cattle, anyone else who saw the symbol could deduce the actual owner. The etymology of the word “brand” originates from the Old Norse word \"brandr\" from the 10th Century, which means “to burn\". The term \"brand\" has been extended to mean a strategic personality for a product or company, so that \"brand\" now suggests the values and promises that a consumer..."
+    },
+    {
+      "chunk_id": "wikipedia:Perfection#0000",
+      "doc_id": "wikipedia:Perfection",
+      "title": "Perfection",
+      "url": "https://en.wikipedia.org/?curid=1928374",
+      "source_type": "wikipedia",
+      "score": 0.830165684223175,
+      "text": "Perfection is a state, variously, of completeness, flawlessness, or supreme excellence. The term designates a range of diverse, if often kindred, concepts used in a variety of fields. Term and concept The noun \"perfection\", the adjective \"perfect\", and the verb \"to perfect\" derive from the Latin verb \"perficere\" – \"to finish\" or \"to bring to an end\". The ancient Greek word for \"perfection\" was \"teleiotes\". The Greek polymath Aristotle (384–322 BCE) distinguished three concepts of perfection: 1. that which was complete – which contained all the requisite parts; 2. that which was so good that nothing of the kind could be better; 3. that which had attained its purpose. The Polish philosopher Władysław Tatarkiewicz (1886 – 1980) notes that perfection is often confused with other qualities, such as \"excellence\". The German polymath Leibniz (1646–1716), who thought the world to be the best of all possible worlds, never called it perfect."
+    },
+    {
+      "chunk_id": "wikipedia:Drawing#0001",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.8243400156497955,
+      "text": "and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas. The wide availability of drawing instruments makes drawing one of the most common artistic activities. In addition to its more artistic forms, drawing is frequently used in commercial illustration, animation, architecture,..."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_01026",
+  "queries": [
+    "\"Telescopes\" \"shower\" \"now\" \"picture\" \"planet\"",
+    "\"picture\" \"planet\" \"billion\" \"kilometers\""
+  ],
+  "primary_terms": [
+    "shower",
+    "now",
+    "picture",
+    "planet",
+    "billion",
+    "kilometers",
+    "away",
+    "bank",
+    "security",
+    "cameras"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Universe#0001",
+      "doc_id": "wikipedia:Universe",
+      "title": "Universe",
+      "url": "https://en.wikipedia.org/?curid=31880",
+      "source_type": "wikipedia",
+      "score": 1.0030588626861572,
+      "text": "were geocentric, placing Earth at the center. During the European Scientific Revolution, astronomical observations led to a heliocentric model. Further observational improvements led to the realization that the Sun is one of a few hundred billion stars in the Milky Way, which is one of a few hundred billion galaxies in the observable universe. Many of the stars in a galaxy have planets. At the largest scale, galaxies are distributed uniformly and the same in all directions, meaning..."
+    },
+    {
+      "chunk_id": "wikipedia:PICS#0000",
+      "doc_id": "wikipedia:PICS",
+      "title": "PICS",
+      "url": "https://en.wikipedia.org/?curid=1253844",
+      "source_type": "wikipedia",
+      "score": 0.9289259731769561,
+      "text": "PICS may refer to: Passive Inspection CubeSat, two nanosatellites launched in 2021 Platform for Internet Content Selection, a content rating specification for websites Pacific Islands Central School/Pohnpei Island Central School, now Bailey Olter High School Post-intensive care syndrome Private investment capital subscription Protocol implementation conformance statement Punjab Institute of Computer Science Purdue Improved Crop Storage bags Phase Imaging with Computational Specificity Pics or pics, may refer to: Slang abbreviation of pictures .pics, a generic top-level domain name administered by Cayman Islands-based company Uniregistry See also PIC (disambiguation) All pages with titles containing pics"
+    },
+    {
+      "chunk_id": "wikipedia:Earth#0000",
+      "doc_id": "wikipedia:Earth",
+      "title": "Earth",
+      "url": "https://en.wikipedia.org/?curid=9228",
+      "source_type": "wikipedia",
+      "score": 0.7066241323947906,
+      "text": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an ocean world, the only one in the Solar System sustaining liquid surface water. Almost all of Earth's water is contained in its global ocean, covering 70.8% of Earth's crust. The remaining 29.2% of Earth's crust is land, most of which is located in the form of continental landmasses within Earth's land hemisphere. Most of Earth's land is at least somewhat humid and covered by vegetation, while large ice sheets at Earth's polar deserts retain more water than Earth's groundwater, lakes, rivers, and atmospheric water combined. Earth's crust consists of slowly moving tectonic plates, which interact to produce mountain ranges, volcanoes, and earthquakes. Earth has a liquid outer core that generates a magnetosphere capable of deflecting most of the destructive solar winds and cosmic radiation."
+    },
+    {
+      "chunk_id": "wikipedia:Atmosphere#0000",
+      "doc_id": "wikipedia:Atmosphere",
+      "title": "Atmosphere",
+      "url": "https://en.wikipedia.org/?curid=202899",
+      "source_type": "wikipedia",
+      "score": 0.636870276927948,
+      "text": "An atmosphere is a layer of gases that envelop an astronomical object, held in place by the gravity of the object. The name originates from Ancient Greek ἀτμός (atmós) 'vapour, steam' and σφαῖρα (sphaîra) 'sphere'. An object acquires most of its atmosphere during its primordial epoch, either by accretion of matter or by outgassing of volatiles. The chemical interaction of the atmosphere with the solid surface can change its fundamental composition, as can photochemical interaction with the Sun. A planet retains an atmosphere for longer durations when the gravity is high and the temperature is low. The solar wind works to strip away a planet's outer atmosphere, although this process is slowed by a magnetosphere. The further a body is from the Sun, the lower the rate of atmospheric stripping. Aside from Mercury, all Solar System planets have substantial atmospheres, as does the dwarf planet Pluto and the moon Titan."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0001",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.6239150822162628,
+      "text": "astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest. Measurable time is believed to have effectively begun with the Big Bang 13.8 billion years ago, encompassed by the chronology of the universe. Modern physics understands time to be inextricable from space within the concept of spacetime described by general relativity..."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.6057650357484817,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.6053345501422882,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:Atmosphere#0001",
+      "doc_id": "wikipedia:Atmosphere",
+      "title": "Atmosphere",
+      "url": "https://en.wikipedia.org/?curid=202899",
+      "source_type": "wikipedia",
+      "score": 0.5862392097711563,
+      "text": "atmospheric stripping. Aside from Mercury, all Solar System planets have substantial atmospheres, as does the dwarf planet Pluto and the moon Titan. The high gravity and low temperature of Jupiter and the other gas giant planets allow them to retain massive atmospheres of mostly hydrogen and helium. Lower mass terrestrial planets orbit closer to the Sun, and so mainly retain higher density atmospheres made of carbon..."
+    },
+    {
+      "chunk_id": "wikipedia:Space#0000",
+      "doc_id": "wikipedia:Space",
+      "title": "Space",
+      "url": "https://en.wikipedia.org/?curid=27667",
+      "source_type": "wikipedia",
+      "score": 0.5812406003475189,
+      "text": "Space is a three-dimensional continuum containing positions and directions. In classical physics, physical space is often conceived in three linear dimensions. Modern physicists usually consider it, with time, to be part of a boundless four-dimensional continuum known as spacetime. The concept of space is considered to be of fundamental importance to an understanding of the physical universe. However, disagreement continues between philosophers over whether it is itself an entity, a relationship between entities, or part of a conceptual framework. In the 19th and 20th centuries mathematicians began to examine geometries that are non-Euclidean, in which space is conceived as curved, rather than flat, as in the Euclidean space. According to Albert Einstein's theory of general relativity, space around gravitational fields deviates from Euclidean space. Experimental tests of general relativity have confirmed that non-Euclidean geometries provide a better model for the shape of space."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.5805103629827499,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    }
+  ]
+}

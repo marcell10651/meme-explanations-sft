@@ -1,0 +1,192 @@
+{
+  "meme_id": "meme_01360",
+  "queries": [
+    "\"Reddit\" @elonmusk",
+    "\"the most Interesting place\" \"tine Internet\" \"feel\" \"personally\"",
+    "\"feel\" \"personally\" \"attacked\" \"thet\""
+  ],
+  "primary_terms": [
+    "feel",
+    "personally",
+    "attacked",
+    "the most Interesting place",
+    "tine Internet",
+    "this tweet",
+    "thet"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Feel#0001",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.8414070963859558,
+      "text": "2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol. 2, 2019 \"Feel\", by Mahmut Orhan, 2016 \"Feel\", by Måneskin from Rush!, 2023 \"Feel\", by Matchbox Twenty from More Than You Think You Are, 2002 \"Feel\", by Phora, 2018 \"Feel\", by Post Malone from Stoney, 2016 \"Feel\", by Stereophonics from Language. Sex. Violence. Other..."
+    },
+    {
+      "chunk_id": "wikipedia:Feels#0000",
+      "doc_id": "wikipedia:Feels",
+      "title": "Feels",
+      "url": "https://en.wikipedia.org/?curid=68447223",
+      "source_type": "wikipedia",
+      "score": 0.7569433808326721,
+      "text": "Feels or The Feels may refer to: Albums Feels (Animal Collective album), 2005 Feels (Snoh Aalegra album), 2017 Songs \"Feels\" (song), a 2017 song and single by Calvin Harris off the album Funk Wav Bounces Vol. 1 \"Feels\" (Snoh Aalegra song), a 2017 song by Snoh Aalegra, the title track off the eponymous album Feels (Snoh Aalegra album) \"The Feels\" (song), a 2021 song by Twice \"F.E.E.L.S.\", a 2021 music video and song by Tory Lanez Other uses The Feels (film), a 2017 film by Jenée LaMarque See also All the Feels (album), 2019 album by Fitz and the Tantrums Feel (disambiguation) All pages with titles beginning with Feels All pages with titles containing Feels"
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0001",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.7106039524078369,
+      "text": "by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites. The Internet has enabled and accelerated new forms of personal interaction through instant messaging, Internet forums, and social networking services. Online shopping has also grown to occupy a significant market across industries, enabling firms to extend brick and mortar presences..."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0001",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.7103780210018158,
+      "text": ". It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world. According to data provided by Similarweb, 51.75% of the website traffic comes from the United States, followed by Canada at 7.01%, the United Kingdom at 6.97%, Australia at 3.97%, Germany at 3%, and the remaining 28.37% split among other countries. Reddit was founded by University of Virginia roommates Steve Huffman and Alexis Ohanian in June 2005, who were joined..."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.7083477228879929,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.671224057674408,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.6394719183444977,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0000",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.5924428999423981,
+      "text": "The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies. The Internet carries a vast range of information services and resources, such as the interlinked hypertext documents and applications of the World Wide Web (WWW), electronic mail, discussion groups, internet telephony, streaming media and file sharing. Most traditional communication media, including telephone, radio, television, paper mail, newspapers, and print publishing, have been transformed by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites."
+    },
+    {
+      "chunk_id": "wikipedia:Sugar on My Tongue#0001",
+      "doc_id": "wikipedia:Sugar on My Tongue",
+      "title": "Sugar on My Tongue",
+      "url": "https://en.wikipedia.org/?curid=80490800",
+      "source_type": "wikipedia",
+      "score": 0.47765500843524933,
+      "text": "the \"run-on flow\" that is widely used in modern hip-hop and raps about oral sex. Critical reception The song received generally positive reviews. Mackenzie Cummings-Grady of Billboard ranked it as the second best song on Don't Tap the Glass, writing \"The song's intergalactic synths and rumbling 808s make it poised to dominate summertime gatherings, and Tyler offers some truly..."
+    },
+    {
+      "chunk_id": "wikipedia:User experience#0001",
+      "doc_id": "wikipedia:User experience",
+      "title": "User experience",
+      "url": "https://en.wikipedia.org/?curid=1462876",
+      "source_type": "wikipedia",
+      "score": 0.46904225647449493,
+      "text": "Norman Group, 'user experience' includes all the aspects of the interaction between the end-user with the company, its services, and its products. The international standard on ergonomics of human-system interaction, ISO 9241, defines user experience as a \"user's perceptions and responses that result from the use and/or anticipated use of a system, product or service\". According to the ISO definition, user experience includes all the users' emotions, beliefs, preferences, perceptions, physical and psychological..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a tweet and man sitting in a room",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "man"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they get personally upset when people insult Reddit.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "people",
+          "Reddit"
+        ]
+      },
+      "title": {
+        "text": "I feel personally attacked!",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "feel",
+          "personally",
+          "attacked"
+        ]
+      },
+      "text": {
+        "text": "i \\ee-/ @elonmusk Twitter is sinoly the most Interesting place on tine Internet. That’s why you’re reading this tweet right NOW. or fine | took thet personally",
+        "signals": {
+          "handles": [
+            "@elonmusk"
+          ],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the most Interesting place",
+          "tine Internet",
+          "this tweet",
+          "thet"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [
+        "@elonmusk"
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "feel",
+      "personally",
+      "attacked",
+      "the most Interesting place",
+      "tine Internet",
+      "this tweet",
+      "thet"
+    ],
+    "secondary_terms": [
+      "man",
+      "people",
+      "Reddit"
+    ],
+    "queries": [
+      "\"Reddit\" @elonmusk",
+      "\"the most Interesting place\" \"tine Internet\" \"feel\" \"personally\"",
+      "\"feel\" \"personally\" \"attacked\" \"thet\""
+    ]
+  },
+  "source_jsonl_id": null
+}

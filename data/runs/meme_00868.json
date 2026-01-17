@@ -1,0 +1,116 @@
+{
+  "meme_id": "meme_00868",
+  "queries": [
+    "\"Spongebob\" \"the ground\" \"the wine\" \"help\" \"look\"",
+    "\"help\" \"look\" \"ground\" \"keeps\""
+  ],
+  "primary_terms": [
+    "the ground",
+    "help",
+    "look",
+    "ground",
+    "keeps",
+    "moving",
+    "the wine",
+    "drunk",
+    "ass",
+    "helping",
+    "parents",
+    "wine",
+    "went",
+    "missing",
+    "new"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Help#0001",
+      "doc_id": "wikipedia:Help",
+      "title": "Help",
+      "url": "https://en.wikipedia.org/?curid=17344601",
+      "source_type": "wikipedia",
+      "score": 0.6893838405609131,
+      "text": "Slayer) \"Help\" (The Gentle Touch) \"Help\", an episode of The Protector \"Help\" (Spaced) \"The Help\" (Modern Family) Literature Help! (magazine) Help!! (manga) The Help, a historical novel by Kathryn Stockett Music Help (band), an American rock band Albums The Help Album, a musical compilation album to benefit the War Child charity Help (Blackbear album) Help (Thee Oh Sees album) Help!, the 1965..."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.6264794379472732,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:A Reason to Live, a Reason to Die#0000",
+      "doc_id": "wikipedia:A Reason to Live, a Reason to Die",
+      "title": "A Reason to Live, a Reason to Die",
+      "url": "https://en.wikipedia.org/?curid=24235116",
+      "source_type": "wikipedia",
+      "score": 0.5328344017267227,
+      "text": "A Reason to Live, a Reason to Die (originally titled Una Ragione Per Vivere E Una Per Morire, also known as Massacre at Fort Holman) is a 1972 Technicolor Italian spaghetti Western movie starring James Coburn, Bud Spencer, and Telly Savalas. Many exterior scenes were filmed at the Fort Bowie set built in the Province of Almería, Spain, where the desert landscape and climate that characterizes part of the province have made it a much utilized setting for Western films, among those A Fistful of Dollars, The Good, the Bad and the Ugly, Once Upon a Time in the West, and later 800 Bullets. The Fort Bowie set was originally built for the film The Deserter. There are two different English language versions of the movie, shorter with James Coburn's own voice and longer with different voice actors and music. James Coburn was not involved in longer cut dubbing. It also features some of the same songs from Day of Anger starring Lee Van Cleef."
+    },
+    {
+      "chunk_id": "wikipedia:SpongeBob SquarePants#0000",
+      "doc_id": "wikipedia:SpongeBob SquarePants",
+      "title": "SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/?curid=2655089",
+      "source_type": "wikipedia",
+      "score": 0.5223393440246582,
+      "text": "SpongeBob SquarePants is an American animated comedy television series created by marine science educator and animator Stephen Hillenburg for Nickelodeon. It first aired as a sneak peek after the 1999 Kids' Choice Awards on May 1, 1999, and officially premiered on July 17, 1999. It chronicles the adventures of the titular character and his aquatic friends in the underwater city of Bikini Bottom. Many of the series' ideas originated in The Intertidal Zone, an unpublished educational comic book Hillenburg created in the 1980s to teach his students about undersea life. Hillenburg joined Nickelodeon in 1992 as an artist on Rocko's Modern Life. After Rocko was cancelled in 1996, he began developing SpongeBob SquarePants into a television series, and in 1997, a seven-minute pilot was pitched to Nickelodeon. The network's executives wanted SpongeBob to be a child in school, but Hillenburg preferred SpongeBob to be an adult character."
+    },
+    {
+      "chunk_id": "wikipedia:Enough#0001",
+      "doc_id": "wikipedia:Enough",
+      "title": "Enough",
+      "url": "https://en.wikipedia.org/?curid=7209454",
+      "source_type": "wikipedia",
+      "score": 0.4953658044338226,
+      "text": "\", by Jeremy Camp from Carried Me \"Enough\", by Jess Glynne from Jess (2024) \"Enough\", by Jessica Sierra from Rebound \"Enough\", by Keke Wyatt from Unbelievable \"Enough\", by Sara Groves from Floodplain \"Enough\", by Sevendust from Chapter VII: Hope & Sorrow \"Enough\", by Simply Red from A New Flame \"Enough\", from the musical In the Heights..."
+    },
+    {
+      "chunk_id": "wikipedia:Living#0001",
+      "doc_id": "wikipedia:Living",
+      "title": "Living",
+      "url": "https://en.wikipedia.org/?curid=1133759",
+      "source_type": "wikipedia",
+      "score": 0.4920607417821884,
+      "text": "program Living (2007 TV program), a 2007–2009 group of regional Canadian lifestyle programs Living (New Zealand TV channel), a New Zealand television station Living (UK TV channel), now Sky Witness, a British pay TV channel Living2, later Real Lives, a defunct sister channel Living (2012 film), a 2012 Russian drama film Living (2022..."
+    },
+    {
+      "chunk_id": "wikipedia:Stay#0000",
+      "doc_id": "wikipedia:Stay",
+      "title": "Stay",
+      "url": "https://en.wikipedia.org/?curid=1175804",
+      "source_type": "wikipedia",
+      "score": 0.4641340136528015,
+      "text": "Stay may refer to: Places Stay, Kentucky, an unincorporated community in the US Law Stay of execution, a ruling to temporarily suspend the enforcement of a court judgment Stay of proceedings, a ruling halting further legal process in a trial Structures and mechanics Stay (mechanics), a structural element designed to resist forces, usually along its axis. Stay, in a cable-stayed bridge Stay, bone (corsetry), one of the rigid parts of a corset Stays, or corset, a garment worn to mold and shape the torso; See History of corsets Stays (nautical), heavy ropes, wires, or rods that connect the masts of a sailing vessel to the hull Forestay, on a sailing vessel, keeps a mast from falling backwards Boiler stay, an internal structural element of a boiler Chain stay and seat stay, parts of a conventional bicycle frame Collar stay, a small rigid piece used to maintain the point of a shirt collar Guy-wire, or stay, a metal cable used to support a tall structure, such as a radio mast Stay cable,"
+    },
+    {
+      "chunk_id": "wikipedia:SpongeBob SquarePants#0001",
+      "doc_id": "wikipedia:SpongeBob SquarePants",
+      "title": "SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/?curid=2655089",
+      "source_type": "wikipedia",
+      "score": 0.4469810724258423,
+      "text": "to Nickelodeon. The network's executives wanted SpongeBob to be a child in school, but Hillenburg preferred SpongeBob to be an adult character. He was prepared to abandon the series, but compromised by creating a boating school so SpongeBob could attend school as an adult. SpongeBob SquarePants received widespread critical acclaim in its early years, with praise given to its characters, surreal humor..."
+    },
+    {
+      "chunk_id": "wikipedia:Jake Paul#0000",
+      "doc_id": "wikipedia:Jake Paul",
+      "title": "Jake Paul",
+      "url": "https://en.wikipedia.org/?curid=51021695",
+      "source_type": "wikipedia",
+      "score": 0.42267024219036103,
+      "text": "Jake Joseph Paul (born January 17, 1997) is an American professional boxer, influencer and actor. He began his career posting videos on Vine in September 2013 and had amassed 5.3 million followers and 2 billion views before the app was discontinued. He launched his YouTube channel, Jake Paul, in May 2014, and was ranked by Forbes as one of the highest-paid YouTube creators of the 2010s and 2020s. As an actor, Paul's first role in a feature film was in the 2016 film Dance Camp. He went on to star as Dirk Mann on the Disney Channel series Bizaardvark (2016–2018) and appear in the films Airplane Mode (2019), Mainstream (2020), and A Genie's Tail (2022). He has also made guest appearances in the television series Walk the Prank (2016), The Price Is Right (2017), and Ridiculousness (2020). Paul's boxing career began in August 2018 with a white-collar boxing match against Deji Olatunji, which he won via technical knockout. His professional boxing debut was against AnEsonGib in January 2020."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0001",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.4007643908262253,
+      "text": "officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great! TV, British TV channel group The Great (TV series), an American comedy-drama See also All pages with titles containing great All pages with titles beginning with Great All pages with titles beginning with The Great All pages with titles beginning with The great The Great (disambiguation)"
+    }
+  ]
+}

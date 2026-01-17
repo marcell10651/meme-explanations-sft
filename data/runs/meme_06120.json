@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_06120",
+  "queries": [
+    "\"pain\" \"gain\" \"bee\" \"lost\"",
+    "\"bee\" \"lost\" \"job\" \"wife\""
+  ],
+  "primary_terms": [
+    "pain",
+    "gain",
+    "bee",
+    "lost",
+    "job",
+    "wife",
+    "money",
+    "house",
+    "friends",
+    "depressed",
+    "fowl",
+    "tat"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Another Man, Another Chance#0000",
+      "doc_id": "wikipedia:Another Man, Another Chance",
+      "title": "Another Man, Another Chance",
+      "url": "https://en.wikipedia.org/?curid=17874058",
+      "source_type": "wikipedia",
+      "score": 0.5844369024038315,
+      "text": "Another Man, Another Chance (Un autre homme, une autre chance, UK title: Another Man, Another Woman) is a 1977 French western film directed by Claude Lelouch. Plot France in 1870: Napoleon III has just lost the war against Prussia and left the country in poverty. Young Jeanne (Geneviève Bujold) falls in love with photographer Francis (Francis Huster), who soon takes her with him when he emigrates to The United States. In a small town in the still Wild West, they build up a small photo shop. Meanwhile, animal doctor David (James Caan) lives on his lonesome farm with his wife. It takes two years and two tragic accidents until Jeanne and David meet. Alone with a child, Jeanne has decided to return to France and is about to leave but then she and David silently and carefully fall in love for the second time in their lives and hope returns."
+    },
+    {
+      "chunk_id": "wikipedia:Pain#0000",
+      "doc_id": "wikipedia:Pain",
+      "title": "Pain",
+      "url": "https://en.wikipedia.org/?curid=24373",
+      "source_type": "wikipedia",
+      "score": 0.5641104102134704,
+      "text": "Pain is a distressing feeling often caused by intense or damaging stimuli. The International Association for the Study of Pain defines pain as \"an unpleasant sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage.\" Pain motivates organisms to withdraw from damaging situations, to protect a damaged body part while it heals, and to avoid similar experiences in the future. Congenital insensitivity to pain may result in reduced life expectancy. Most pain resolves once the noxious stimulus is removed and the body has healed, but it may persist despite removal of the stimulus and apparent healing of the body. Sometimes pain arises in the absence of any detectable stimulus, damage or disease. Pain is the most common reason for physician consultation in most developed countries. It is a major symptom in many medical conditions, and can interfere with a person's quality of life and general functioning."
+    },
+    {
+      "chunk_id": "wikipedia:Leave#0001",
+      "doc_id": "wikipedia:Leave",
+      "title": "Leave",
+      "url": "https://en.wikipedia.org/?curid=85749",
+      "source_type": "wikipedia",
+      "score": 0.5052499175071716,
+      "text": "of \"Remain\") Arts, entertainment, and media Leave (film), a 2010 film by Robert Celestino Leave (2022 film), a 2022 film by Alex Herron Music Leave (album), a 2002 Mandopop album \"Leave\" (Get Out), a 2004 R&B song by JoJo \"Leave!\", a 2009 soul song performed by the English singer VV Brown \"Leave\", a song by Sertab Erener \"Leave\", a song..."
+    },
+    {
+      "chunk_id": "wikipedia:Mother!#0001",
+      "doc_id": "wikipedia:Mother!",
+      "title": "Mother!",
+      "url": "https://en.wikipedia.org/?curid=48213513",
+      "source_type": "wikipedia",
+      "score": 0.5032848298549653,
+      "text": "States by Paramount Pictures on September 15, 2017. The film grossed $44.5 million worldwide. It received generally positive reviews from critics. Plot In the burned-out remains of a large house, Him, an acclaimed poet struggling with writer's block, places a crystal object on a pedestal in his study, and the building morphs into a beautiful home in an edenic landscape. Mother, the poet's wife and muse, awakens in her bed and wonders aloud where he is. While renovating the house, she occasionally visualizes a beating heart within its walls. One day, a stranger..."
+    },
+    {
+      "chunk_id": "wikipedia:Leave#0000",
+      "doc_id": "wikipedia:Leave",
+      "title": "Leave",
+      "url": "https://en.wikipedia.org/?curid=85749",
+      "source_type": "wikipedia",
+      "score": 0.4847348660230637,
+      "text": "Leave may refer to: Permission (disambiguation) Permitted absence from work Leave of absence, a period of time that one is to be away from one's primary job while maintaining the status of employee Annual leave, allowance of time away from work while continuing to be paid Leave (military), a period of time in which a soldier is allowed to be away from his or her assigned unit Leave to enter, permission for entry to the United Kingdom granted by British immigration officers Leave to remain, permanent residency in the United Kingdom Leave to appeal, granted to the loser in a court case to appeal the verdict Leave to prosecute, permission to bring a private prosecution of a criminal case Leave of the house/senate, the term used to describe unanimous consent in Westminster system parliaments The pro-Brexit side of the Brexit debate (opposite of \"Remain\") Arts, entertainment, and media Leave (film), a 2010 film by Robert Celestino Leave (2022 film), a 2022 film by Alex Herron Music Leave"
+    },
+    {
+      "chunk_id": "wikipedia:Lady#0001",
+      "doc_id": "wikipedia:Lady",
+      "title": "Lady",
+      "url": "https://en.wikipedia.org/?curid=555643",
+      "source_type": "wikipedia",
+      "score": 0.47589529752731324,
+      "text": "comes from Old English hlǣfdige; the first part of the word is a mutated form of hlāf, \"loaf, bread\", also seen in the corresponding hlāford, \"lord\". The second part is usually taken to be from the root dig-, \"to knead\", seen also in dough; the sense development from bread-kneader, or bread-maker, or bread-shaper, to the ordinary meaning, though not clearly to be traced historically, may be illustrated by that of \"lord\". Usage The primary meaning of \"mistress of a household\" is now mostly obsolete, save for the term \"landlady\" and..."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.4640035331249237,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    },
+    {
+      "chunk_id": "wikipedia:Lady#0000",
+      "doc_id": "wikipedia:Lady",
+      "title": "Lady",
+      "url": "https://en.wikipedia.org/?curid=555643",
+      "source_type": "wikipedia",
+      "score": 0.4632911801338196,
+      "text": "A lady is a woman who behaves in a polite way. Once used to describe only women of a high social class or status, the female counterpart of lord, now it may refer to any adult woman, as gentleman can be used for men. \"Lady\" is also a formal title in the United Kingdom. \"Lady\" is used before the family name or peerage of a woman with a title of nobility or honorary title suo jure (in her own right), such as female members of the Order of the Garter and Order of the Thistle, or the wife of a lord, a baronet, Scottish feudal baron, laird, or a knight, and also before the first name of the daughter of a duke, marquess, or earl. Etymology The word comes from Old English hlǣfdige; the first part of the word is a mutated form of hlāf, \"loaf, bread\", also seen in the corresponding hlāford, \"lord\"."
+    },
+    {
+      "chunk_id": "wikipedia:Drama#0000",
+      "doc_id": "wikipedia:Drama",
+      "title": "Drama",
+      "url": "https://en.wikipedia.org/?curid=20913753",
+      "source_type": "wikipedia",
+      "score": 0.46119256019592286,
+      "text": "Drama is the specific mode of fiction represented in performance: a play, opera, mime, ballet, etc., performed in a theatre, or on radio or television. Considered as a genre of poetry in general, the dramatic mode has been contrasted with the epic and the lyrical modes ever since Aristotle's Poetics (c. 335 BC)—the earliest work of dramatic theory. The term \"drama\" comes from a Greek word meaning \"deed\" or \"act\" (δρᾶμα, drâma), which is derived from \"I do\" (δράω, dráō). The two masks associated with drama represent the traditional generic division between comedy and tragedy. In English (as was the analogous case in many other European languages), the word play or game (translating the Anglo-Saxon pleġan or Latin ludus) was the standard term for dramas until William Shakespeare's time—just as its creator was a play-maker rather than a dramatist and the building was a play-house rather than a theatre."
+    },
+    {
+      "chunk_id": "wikipedia:Widow#0000",
+      "doc_id": "wikipedia:Widow",
+      "title": "Widow",
+      "url": "https://en.wikipedia.org/?curid=254879",
+      "source_type": "wikipedia",
+      "score": 0.44835532903671266,
+      "text": "A widow (female) or widower (male) is a person whose spouse has died and who has not remarried. The male form, \"widower\", is first attested in the 14th century, by the 19th century supplanting \"widow\" with reference to men. The adjective for either sex is widowed. These terms are not applied to a divorcé(e) following the death of an ex-spouse. The state of having lost one's spouse to death is termed widowhood. The term widowhood can be used for either sex, at least according to some dictionaries, but the word widowerhood is also listed in some dictionaries. An archaic term for a widow is \"relict\", literally \"someone left over\"; this word can sometimes be found on older gravestones. Occasionally, the word viduity is used. Effects on health The increased mortality rate after the death of a spouse is called the widowhood effect. It is \"strongest during the first three months after a spouse's death, when they had a 66-percent increased chance of dying\"."
+    }
+  ]
+}

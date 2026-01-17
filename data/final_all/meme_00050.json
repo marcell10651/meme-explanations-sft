@@ -1,0 +1,189 @@
+{
+  "meme_id": "meme_00050",
+  "queries": [
+    "\"ros atic\" \"look\" \"laughing\" \"now\"",
+    "\"laughing\" \"now\" \"art\" \"oar\""
+  ],
+  "primary_terms": [
+    "look",
+    "laughing",
+    "now",
+    "art",
+    "ros atic",
+    "oar"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Amusement#0000",
+      "doc_id": "wikipedia:Amusement",
+      "title": "Amusement",
+      "url": "https://en.wikipedia.org/?curid=768817",
+      "source_type": "wikipedia",
+      "score": 0.8968899011611938,
+      "text": "Amusement is the state of experiencing humorous and entertaining events or situations while the person or animal actively maintains the experience, and is associated with enjoyment, happiness, laughter and pleasure. It is an emotion with positive valence and high physiological arousal. Amusement is considered an \"epistemological\" emotion because humor occurs when one experiences a cognitive shift from one knowledge structure about a target to another, such as hearing the punchline of a joke. Emotions perceived overtime are focused on the daily dynamics of life as augment or blunt. The pleasant surprise that happens from learning this new information leads to a state of amusement which people often express through smiling, laughter or chuckling. Current studies have not yet reached consensus on the exact purpose of amusement, though theories have been advanced in the fields of psychology, psychiatry, and sociology."
+    },
+    {
+      "chunk_id": "wikipedia:Joke#0000",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.7255465984344482,
+      "text": "A joke is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh and is usually not meant to be interpreted literally. It usually takes the form of a story, often with dialogue, and ends in a punch line, whereby the humorous element of the story is revealed; this can be done using a pun or other type of word play, irony or sarcasm, logical incompatibility, hyperbole, or other means. Linguist Robert Hetzron offers the definition: A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end. No continuation relieving the tension should be added. As for its being \"oral,\" it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry."
+    },
+    {
+      "chunk_id": "wikipedia:Post-credits scene#0000",
+      "doc_id": "wikipedia:Post-credits scene",
+      "title": "Post-credits scene",
+      "url": "https://en.wikipedia.org/?curid=6107731",
+      "source_type": "wikipedia",
+      "score": 0.706350815296173,
+      "text": "A post-credits scene (also known as a stinger, end tag, or credit cookie) is a short teaser clip that appears after the closing credits have rolled and sometimes after a production logo of a film, TV show, or video game has run. It is usually either written for humor or to set up a sequel. Sometimes, one or more mid-credits scenes are also inserted partly through the closing credits, typically for the purpose of maintaining the audience's attention so they do not need to wait for the entire credits roll to finish for a teaser. History Post-credits scenes may have their origins in encores, an additional performance added to the end of staged shows in response to audience applause. Opera encores were common practice in the 19th century, when the story was often interrupted so a singer could repeat an aria, but fell out of favor in the 1920s due to rising emphasis on dramatic storytelling rather than vocal performance."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.6291398167610168,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Different Times, Different Places#0001",
+      "doc_id": "wikipedia:Different Times, Different Places",
+      "title": "Different Times, Different Places",
+      "url": "https://en.wikipedia.org/?curid=74440146",
+      "source_type": "wikipedia",
+      "score": 0.6283370316028595,
+      "text": "Ogun in 2016. Both volumes showcase Miller's compositions. Reception Mike Hobart of the Financial Times noted the \"pulsating riffs, moments of calm... horns playing with passion and technical flair,\" and stated: \"The powerful and firm-fingered Miller developed a telepathic relationship with drummer and fellow exile Louis Moholo Moholo, and they switch mood in the blink of an eye.\" A reviewer for The Free Jazz Collective wrote: \"it's difficult not to be astounded by..."
+    },
+    {
+      "chunk_id": "wikipedia:Young Boy#0001",
+      "doc_id": "wikipedia:Young Boy",
+      "title": "Young Boy",
+      "url": "https://en.wikipedia.org/?curid=11418335",
+      "source_type": "wikipedia",
+      "score": 0.5940873891115188,
+      "text": "\"Looking for You\" and \"Broomstick\". In the United States, Capitol Records chose to issue \"The World Tonight\" as the album's lead single instead. Track listings UK CD1 and Australian CD single \"Young Boy\" (with Steve Miller) – 3:54 \"Looking for You\" (with Ringo Starr and Jeff Lynne) – 4:38 \"Oobu Joobu\" (Part 1) – 9:54 UK CD2 \"Young Boy\" (with Steve Miller) – 3:54 \"Broomstick\" (with Steve Miller) – 5:09 \"Oobu Joobu\" (Part 2) – 10:19 Japanese CD single \"Young Boy\" (with Steve Miller) – 3:55 \"Looking for You\" (with Ringo Starr and Jeff Lynne) – 4:38 \"Oobu Joobu\" The \"Oobu Joobu\" tracks are a series of home demos, interviews, and unreleased songs..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.5721087604761124,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Calm#0000",
+      "doc_id": "wikipedia:Calm",
+      "title": "Calm",
+      "url": "https://en.wikipedia.org/?curid=3042950",
+      "source_type": "wikipedia",
+      "score": 0.571406877040863,
+      "text": "Calm or CALM may refer to: Arts and entertainment Film and television \"The Calm\" (Arrow), an episode of Arrow The Calm (film), a 1980 film Calm, a fictional city in the Kiba (TV series) anime world Music Calm (group), an American hip hop group Calm (album), a 2020 album by 5 Seconds of Summer The Calm (Kaskade album) The Calm (Hostyle Gospel album) The Calm (EP), by Insane Clown Posse \"The Calm (Interlude)\", a song from the album Aquarius (Tinashe album) by Tinashe A piece of music from the album Neo Cali by Vektroid Businesses and organisations Calm (company), a software company in San Francisco, California Cal-Maine (NASDAQ: CALM), an American egg producer Campaign Against Living Miserably, a UK charity Department of Conservation and Land Management (Western Australia) Laws Commercial Advertisement Loudness Mitigation Act, U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Play#0001",
+      "doc_id": "wikipedia:Play",
+      "title": "Play",
+      "url": "https://en.wikipedia.org/?curid=923188",
+      "source_type": "wikipedia",
+      "score": 0.5599181562662124,
+      "text": "and also known as Raftaar 24 x 7 The Play (film), a 2013 Indian Bengali-language film Aattam or The Play, a 2024 Indian Malayalam-language film Games and sports Gameplay Play from scrimmage in American and Canadian football The Play (American football), a famous last-second kickoff return by the California Golden Bears to beat the..."
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0001",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.5542708992958069,
+      "text": "donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture. The photo quickly became popular on the image board 4chan, and social media networks like Facebook and Twitter, depicting \"a guy who can't catch a break [...] a symbol for a stroke of hilarious bad luck\". Notable depictions In 2013, Bad Luck Brian (depicted by Craven himself) featured in a YouTube video sketch..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a character is resting pleasently observing two others in the background.. an image of an overweight Pikachu sitting down eating an orange, while two characters are seen in back",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "two others",
+          "the background",
+          "two characters"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster proved the naysayers wrong and is enjoying success from their art degree.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the naysayers",
+          "success",
+          "their art degree"
+        ]
+      },
+      "title": {
+        "text": "Look who's laughing now",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "look",
+          "laughing",
+          "now"
+        ]
+      },
+      "text": {
+        "text": "u A de gree in art | Me Is Useless’ as an art maj SERS ajor: ’ XZ 2 ay i reas Nee Rr , ie la a4 ~ Yr: - Re fee : ae . eT <s a tek . ass: ros atic > vo Ge a r 2ST: 4 REPT SY Pek noe o Ran rk okors D ae ane nig ete | ~Y a ee 2 fs “3 ‘oes rm eds Bro ESE NS (oar: SY EE wey ye oie Yk ye: eer OS y* ~ ‘ ‘ \\ . ay me : 4 a 7 ele - ' 2, hype ne",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "art",
+          "ros atic",
+          "oar"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "look",
+      "laughing",
+      "now",
+      "art",
+      "ros atic",
+      "oar"
+    ],
+    "secondary_terms": [
+      "two others",
+      "the background",
+      "two characters",
+      "the naysayers",
+      "success",
+      "their art degree"
+    ],
+    "queries": [
+      "\"ros atic\" \"look\" \"laughing\" \"now\"",
+      "\"laughing\" \"now\" \"art\" \"oar\""
+    ]
+  },
+  "source_jsonl_id": null
+}

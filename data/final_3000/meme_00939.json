@@ -1,0 +1,183 @@
+{
+  "meme_id": "meme_00939",
+  "queries": [
+    "\"Deciding\" \"your tennis balls\" \"each can\" \"mag anit\" \"man\"",
+    "\"mag anit\" \"man\" \"half\" \"space\""
+  ],
+  "primary_terms": [
+    "man",
+    "your tennis balls",
+    "half",
+    "each can",
+    "space",
+    "mag anit"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0000",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.5898616135120391,
+      "text": "Rubeus Hagrid () is a fictional character in the Harry Potter series of novels by J. K. Rowling. He was introduced in Harry Potter and the Philosopher's Stone (1997) as a half-giant who is the gamekeeper and groundskeeper at the wizarding school Hogwarts. He is a member of the Order of the Phoenix and eventually becomes the Care of Magical Creatures professor. Hagrid is portrayed by Robbie Coltrane in all eight Harry Potter films. Creation and development Rubeus Hagrid was one of the first characters Rowling created. In a 1999 interview, she explained that the name \"Hagrid\" is an Old English word, referring to hagridden, meaning 'tormented by hags'. She said it means \"you'd had a bad night\" and she explained that Hagrid \"has a lot of bad nights\" due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\"."
+    },
+    {
+      "chunk_id": "wikipedia:Man on a String#0000",
+      "doc_id": "wikipedia:Man on a String",
+      "title": "Man on a String",
+      "url": "https://en.wikipedia.org/?curid=35028463",
+      "source_type": "wikipedia",
+      "score": 0.5339484721422195,
+      "text": "Man on a String (also known as Confessions of a Counterspy) is a 1960 American spy thriller directed by Andre de Toth and starring Ernest Borgnine and Kerwin Mathews. It was the last film that DeToth directed in the United States. Plot A government intelligence agency in Washington, D.C. wants agent Frank Sanford to follow Boris Mitrov, a film producer who appears to also be a Russian spy. Helen and Adrian Benson, a wealthy American couple with a home in Beverly Hills and a film studio, are communist sympathizers as well, in league with Colonel Vadja Kubelov, the top KGB man in the U.S. Boris's office is bugged by his assistant, Bob Avery, a plant who is working for the Americans. Now that he has been caught red-handed, Boris is willing to turn double agent, going to Berlin under the pretense of making a documentary film there. Helen is having an affair with Kubelov, but the Bensons' home has been bugged and they try to flee to Mexico."
+    },
+    {
+      "chunk_id": "wikipedia:Open#0001",
+      "doc_id": "wikipedia:Open",
+      "title": "Open",
+      "url": "https://en.wikipedia.org/?curid=514174",
+      "source_type": "wikipedia",
+      "score": 0.5146864861249923,
+      "text": "magazine featuring current affairs OPEN (North Dakota magazine), an out-of-print magazine that was printed in the Fargo, North Dakota area of the U.S. Open: An Autobiography, tennis player Andre Agassi's 2009 memoir Computing and mathematics Open (process), a program launcher invoked from the command line in NeXTSTEP or Mac OS X Open (system call), standardized system call for opening files Open set, in mathematics..."
+    },
+    {
+      "chunk_id": "wikipedia:Lady#0000",
+      "doc_id": "wikipedia:Lady",
+      "title": "Lady",
+      "url": "https://en.wikipedia.org/?curid=555643",
+      "source_type": "wikipedia",
+      "score": 0.48820686936378477,
+      "text": "A lady is a woman who behaves in a polite way. Once used to describe only women of a high social class or status, the female counterpart of lord, now it may refer to any adult woman, as gentleman can be used for men. \"Lady\" is also a formal title in the United Kingdom. \"Lady\" is used before the family name or peerage of a woman with a title of nobility or honorary title suo jure (in her own right), such as female members of the Order of the Garter and Order of the Thistle, or the wife of a lord, a baronet, Scottish feudal baron, laird, or a knight, and also before the first name of the daughter of a duke, marquess, or earl. Etymology The word comes from Old English hlǣfdige; the first part of the word is a mutated form of hlāf, \"loaf, bread\", also seen in the corresponding hlāford, \"lord\"."
+    },
+    {
+      "chunk_id": "wikipedia:Universe#0000",
+      "doc_id": "wikipedia:Universe",
+      "title": "Universe",
+      "url": "https://en.wikipedia.org/?curid=31880",
+      "source_type": "wikipedia",
+      "score": 0.44752026796340943,
+      "text": "The universe is all of space and time and their contents. It comprises all of existence, any fundamental interaction, physical process and physical constant, and therefore all forms of matter and energy, and the structures they form, from sub-atomic particles to entire galactic filaments. Since the early 20th century, the field of cosmology establishes that space and time emerged together at the Big Bang 13.787±0.020 billion years ago and that the universe has been expanding since then. The portion of the universe that can be seen by humans is approximately 93 billion light-years in diameter at present, but the total size of the universe is not known. Some of the earliest cosmological models of the universe were geocentric, placing Earth at the center. During the European Scientific Revolution, astronomical observations led to a heliocentric model."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0001",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.437897664308548,
+      "text": "a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly. Where the hall inside the front door of a house is elongated, it may be called a passage, corridor (from Spanish corredor used in El Escorial and 100 years later in Castle Howard), or hallway. History In warmer climates, the houses of the wealthy were often built around a courtyard, but in northern areas manors were built around a great hall. The hall was home to the hearth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Space#0001",
+      "doc_id": "wikipedia:Space",
+      "title": "Space",
+      "url": "https://en.wikipedia.org/?curid=27667",
+      "source_type": "wikipedia",
+      "score": 0.402651971578598,
+      "text": "Euclidean space. Experimental tests of general relativity have confirmed that non-Euclidean geometries provide a better model for the shape of space. Philosophy of space Debates concerning the nature, essence and the mode of existence of space date back to antiquity; namely, to treatises like the Timaeus of Plato, or Socrates in his reflections on..."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0001",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.39693716168403625,
+      "text": "such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns. Under the name of magnitude comes what is continuous and unified and divisible only into smaller divisibles, such as: matter, mass, energy, liquid, material—all cases of non-collective nouns. Along with analyzing its nature and classification, the issues of quantity involve such closely related topics as dimensionality..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0000",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.392537859082222,
+      "text": "A home, or domicile, is a space used as a permanent or semi-permanent residence for one or more human occupants, and sometimes various companion animals. Homes provide sheltered spaces, for instance rooms, where domestic activity can be performed such as sleeping, preparing food, eating and hygiene as well as providing spaces for work and leisure such as remote working, studying and playing. Physical forms of homes can be static such as a house or an apartment, mobile such as a houseboat, trailer or yurt or digital such as virtual space. The aspect of 'home' can be considered across scales; from the micro scale showcasing the most intimate spaces of the individual dwelling and direct surrounding area to the macro scale of the geographic area such as town, village, city, country or planet. The concept of 'home' has been researched and theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics."
+    },
+    {
+      "chunk_id": "wikipedia:Flight#0001",
+      "doc_id": "wikipedia:Flight",
+      "title": "Flight",
+      "url": "https://en.wikipedia.org/?curid=159472",
+      "source_type": "wikipedia",
+      "score": 0.3873442828655243,
+      "text": "travel through the atmosphere. astronautics — the study of vehicles that travel through space. ballistics — the study of the flight of projectiles. Types of flight Buoyant flight Humans have managed to construct lighter-than-air vehicles that raise off the ground and fly, due to their buoyancy in the air. An aerostat is a system that remains aloft primarily through the use of buoyancy to give an aircraft..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "There are two containers of tennis balls.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "two containers",
+          "tennis balls"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that Deciding to make a object unusable just to save space is a bad idea.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "space"
+        ]
+      },
+      "title": {
+        "text": "What tf man",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "man"
+        ]
+      },
+      "text": {
+        "text": "Cutting your tennis balls in half allows you to store 2 more balls in each can, saving space. oO er an ©?) ! \"4 | | \\v PaaS — ! wae ‘ e ; mag anit \\ A AL CV CSRE .",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "your tennis balls",
+          "half",
+          "each can",
+          "space",
+          "mag anit"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "man",
+      "your tennis balls",
+      "half",
+      "each can",
+      "space",
+      "mag anit"
+    ],
+    "secondary_terms": [
+      "two containers",
+      "tennis balls",
+      "space"
+    ],
+    "queries": [
+      "\"Deciding\" \"your tennis balls\" \"each can\" \"mag anit\" \"man\"",
+      "\"mag anit\" \"man\" \"half\" \"space\""
+    ]
+  },
+  "source_jsonl_id": null
+}

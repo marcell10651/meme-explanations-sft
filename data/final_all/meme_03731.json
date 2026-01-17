@@ -1,0 +1,183 @@
+{
+  "meme_id": "meme_03731",
+  "queries": [
+    "\"something\" \"quotes\" \"else\" \"soa\"",
+    "\"else\" \"soa\" \"ans\" \"yous\""
+  ],
+  "primary_terms": [
+    "something",
+    "quotes",
+    "else",
+    "soa",
+    "ans",
+    "yous",
+    "rye"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.5390730857849121,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0000",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.5382069647312164,
+      "text": "Here may refer to: Music Here (Adrian Belew album), 1994 Here (Alicia Keys album), 2016 Here (Cal Tjader album), 1979 Here (Edward Sharpe album), 2012 Here (Idina Menzel album), 2004 Here (Merzbow album), 2008 Here (Nicolay album), 2006 Here (Leo Sayer album), 1979 Here (Teenage Fanclub album), 2016 \"Here\" (Alessia Cara song), 2015 \"Here\" (The Grace song), 2008 \"Here\" (Rascal Flatts song), 2008 \"Here\" (Tom Grennan song), 2023 \"Here\" (1954 song), song with music by Harold Grant and lyrics by Dorcas Cochran Here (Cartoon song), 2016 \"Here (In Your Arms)\", 2006 song by Hellogoodbye \"Here\", a 1971 song by America from their eponymous debut album \"Here\", a 2014 song by Christine and the Queens from Chaleur humaine \"Here\", a 2018 song by David Byrne from American Utopia \"Here\", a 1992 song by Pavement from Slanted and Enchanted \"Here\", a 2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a"
+    },
+    {
+      "chunk_id": "wikipedia:Other#0000",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.5240287244319916,
+      "text": "Other often refers to: Other (philosophy), a concept in psychology and philosophy Other or The Other may also refer to: Film and television The Other (1913 film), a German silent film directed by Max Mack The Other (1930 film), a German film directed by Robert Wiene The Other (1947 film), an Italian film directed by Carlo Ludovico Bragaglia The Other (1972 film), an American film directed by Robert Mulligan The Other (1999 film), a French-Egyptian film directed by Youssef Chahine The Other (2007 film), an Argentine-French-German film by Ariel Rotter The Other (2025 film), an American film directed by Paul Etheredge Other (film), a French/Belgian film directed by David Moreau The Other (Doctor Who), a fictional character in Doctor Who The Other (Marvel Cinematic Universe), a fictional character in the Marvel Cinematic Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A."
+    },
+    {
+      "chunk_id": "wikipedia:Fast#0001",
+      "doc_id": "wikipedia:Fast",
+      "title": "Fast",
+      "url": "https://en.wikipedia.org/?curid=1899768",
+      "source_type": "wikipedia",
+      "score": 0.5105960577726364,
+      "text": "i le Atua Samoa ua Tasi (FAST), a political party in Samoa Fixing America's Surface Transportation Act, passed by the United States Congress Foreign-Deployed Advisory and Support Teams, a former program of the US Drug Enforcement Administration; see Drug Enforcement Administration § Special Response Teams Free and Secure Trade, a Canada..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.49110737442970276,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0001",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.4676499515771866,
+      "text": "Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A. Applegate The Other (Tryon novel), a 1971 horror novel by Tom Tryon \"The Other\" (short story), a 1972 short story by Jorge Luis Borges The Other, a 2008 novel by David Guterson Spider-Man: \"The Other\", a 2005–2006..."
+    },
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.4550451189279556,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.44632939994335175,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0000",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.4348495900630951,
+      "text": "Whatever may refer to: Music Albums Whatever (Adore Delano album), 2017 Whatever (Aimee Mann album), 1993 Whatever (Danny Thompson album), 1987 Whatever (The Friends of Distinction album), 1970 Whatever (Green Velvet album), 2001 Whatever (Hot Chelle Rae album) or the title song, 2011 Whatever (Jennifer Batten album) or the title song, 2007 Whatever..., a comedy album by Guido Hatzis, 2000 Whatever: The '90s Pop & Culture Box, a Rhino Records box set, 2005 Whatever, by Megumi Hayashibara, 1992 Whatever, an EP by bbno$, 2018 Songs \"Whatever\" (Ayumi Hamasaki song), 1999 \"Whatever\" (Cro song), 2013 \"Whatever\" (En Vogue song), 1997 \"Whatever\" (Godsmack song), 1998 \"Whatever\" (Ideal song), 2000 \"Whatever\" (Jill Scott song), 2005 \"Whatever\" (Kygo and Ava Max song), 2024 \"Whatever\" (Oasis song), 1994 \"Whatever\" (The Statler Brothers song), 1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple,"
+    },
+    {
+      "chunk_id": "wikipedia:Even#0001",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.4133289009332657,
+      "text": "an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even (band), an Australian alternative rock band \"Even\", a song by Chris Brown from his 2017 album Heartbreak on a Full Moon Even Hotels, one of brands of IHG Hotels & Resorts See also Evens..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is dancing when sparks are all around him.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "sparks",
+          "him"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they're confused by AI generated images.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "title": {
+        "text": "AI quotes are something else",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "something",
+          "quotes",
+          "else"
+        ]
+      },
+      "text": {
+        "text": "Soa “ \\ f Ss “ ANS SS I f,. iy , _ 1 . NS x) vv ; c ae . vi Yous ~. . rye v¢ as ie SF'3. 75° \\ You &' $= . YO 4] oN \\ \\\\ \\. . QS “ . . \\ « Y \\ \\ \\ 7, \\\\ f *y NV f oN | . \\",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "soa",
+          "ans",
+          "yous",
+          "rye"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "something",
+      "quotes",
+      "else",
+      "soa",
+      "ans",
+      "yous",
+      "rye"
+    ],
+    "secondary_terms": [
+      "sparks",
+      "him"
+    ],
+    "queries": [
+      "\"something\" \"quotes\" \"else\" \"soa\"",
+      "\"else\" \"soa\" \"ans\" \"yous\""
+    ]
+  },
+  "source_jsonl_id": null
+}

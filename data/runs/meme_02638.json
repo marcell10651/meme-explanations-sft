@@ -1,0 +1,112 @@
+{
+  "meme_id": "meme_02638",
+  "queries": [
+    "\"the news\" \"can\" \"even\" \"read\"",
+    "\"even\" \"read\" \"news\" \"cee\""
+  ],
+  "primary_terms": [
+    "the news",
+    "can",
+    "even",
+    "read",
+    "news",
+    "cee",
+    "neo",
+    "meenioving",
+    "muy",
+    "iit",
+    "loose"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.7043772876262665,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Even#0000",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.663948929309845,
+      "text": "Even may refer to: General Even (company), a Brazilian construction and real estate company Even (given name), a Norwegian male personal name Even (surname), a Breton surname Even (people), an ethnic group from Siberia and Russian Far East Even language, a language spoken by the Evens Odd and Even, a solitaire game which is played with two decks of playing cards Evening, the period of a day that begins at the end of daylight and overlaps with the beginning of night Science and technology In mathematics, the term even is used in several senses related to odd: even and odd numbers, an integer is even if dividing by two yields an integer even and odd functions, a function is even if f(−x) = f(x) for all x even and odd permutations, a permutation of a finite set is even if it is composed of an even number of transpositions Singly even number, an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even"
+    },
+    {
+      "chunk_id": "wikipedia:Only#0000",
+      "doc_id": "wikipedia:Only",
+      "title": "Only",
+      "url": "https://en.wikipedia.org/?curid=1629775",
+      "source_type": "wikipedia",
+      "score": 0.6554550051689148,
+      "text": "Only may refer to: Music Albums Only (album), by Tommy Emmanuel, 2000 The Only, an EP by Dua Lipa, 2017 The Only (EP), by The Boyz Songs \"Only\" (Anthrax song), 1993 \"Only\" (Nine Inch Nails song), 2005 \"Only\" (Nicki Minaj song), 2014 \"Only\" (Lee Hi song), 2021 \"The Only\", by Static-X, 2003 \"Only\", by Ass Ponys from Lohio, 2001 \"Only\", by Fuse ODG, 2015 \"Only\", by Imagine Dragons from Origins, 2018 \"Only\", by NF from The Search, 2019 \"Only\", by Sarah Vaughan from Sarah Slightly Classical, 1963 \"Only\", by Sampha from Lahai, 2023 \"The Only\", a song by Raiden featuring Irene, 2019 \"The Only\", by Sasha Alex Sloan from Loser, 2018 Other uses Only (film), a 2019 post-apocalyptic romance film Only (magazine), a 2000s Canadian news and entertainment magazine Only, Tennessee, US Jerry Only (born 1959), American punk rock bassist and singer See also All pages with titles beginning with Only All pages with titles beginning with The Only Onli, people with this surname Onley (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Content#0000",
+      "doc_id": "wikipedia:Content",
+      "title": "Content",
+      "url": "https://en.wikipedia.org/?curid=426094",
+      "source_type": "wikipedia",
+      "score": 0.6197070837020874,
+      "text": "Content or contents may refer to: Media Content (media), information or experience provided to audience or end-users by publishers or media producers Content industry, an umbrella term that encompasses companies owning and providing mass media and media metadata Content provider, a provider of non-core services in the telecommunications industry Free content, published material that can be used, copied, and modified without significant legal restriction Open content, published material licensed to authorize copying and modification by anyone Web content, information published on the World Wide Web Content analysis, a methodology used in the social sciences and humanities for studying the content of communication Content format, an encoded format for converting a specific type of data to displayable information Digital content, content that exists in the form of digital data Table of contents, a list of chapters or sections in a document Places Content (Centreville, Maryland) also"
+    },
+    {
+      "chunk_id": "wikipedia:Even#0001",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.6014673918485641,
+      "text": "an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even (band), an Australian alternative rock band \"Even\", a song by Chris Brown from his 2017 album Heartbreak on a Full Moon Even Hotels, one of brands of IHG Hotels & Resorts See also Evens..."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0001",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.5887391984462738,
+      "text": "by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites. The Internet has enabled and accelerated new forms of personal interaction through instant messaging, Internet forums, and social networking services. Online shopping has also grown to occupy a significant market across industries, enabling firms to extend brick and mortar presences..."
+    },
+    {
+      "chunk_id": "wikipedia:Dyslexia#0000",
+      "doc_id": "wikipedia:Dyslexia",
+      "title": "Dyslexia",
+      "url": "https://en.wikipedia.org/?curid=8305",
+      "source_type": "wikipedia",
+      "score": 0.5671284705400467,
+      "text": "Dyslexia, also known as \"word blindness\", is a learning disability that affects either reading or writing. Different people are affected to different degrees. Problems may include difficulties in spelling words, reading quickly, writing words, \"sounding out\" words in the head, pronouncing words when reading aloud and understanding what one reads. Often these difficulties are first noticed at school. The difficulties are involuntary, and people with this disorder have a normal desire to learn. People with dyslexia have higher rates of attention deficit hyperactivity disorder (ADHD), developmental language disorders, and difficulties with numbers. Dyslexia is believed to be caused by the interaction of genetic and environmental factors. Some cases run in families. Dyslexia that develops due to a traumatic brain injury, stroke, or dementia is sometimes called \"acquired dyslexia\" or alexia."
+    },
+    {
+      "chunk_id": "wikipedia:Perfect#0000",
+      "doc_id": "wikipedia:Perfect",
+      "title": "Perfect",
+      "url": "https://en.wikipedia.org/?curid=217503",
+      "source_type": "wikipedia",
+      "score": 0.5358511567115783,
+      "text": "Perfect commonly refers to: Perfection; completeness, and excellence Perfect (grammar), a grammatical category in some languages Perfect may also refer to: Film and television Perfect (1985 film), a romantic drama Perfect (2018 film), a science fiction thriller \"Perfect\" (Doctors), a 2004 television episode Literature Perfect (Friend novel), a 2004 novel by Natasha Friend Perfect (Hopkins novel), a young adult novel by Ellen Hopkins Perfect (Joyce novel), a 2013 novel by Rachel Joyce Perfect (Shepard novel), a Pretty Little Liars novel by Sara Shepard Perfect, a young adult science fiction novel by Dyan Sheldon Music Perfect interval, in music theory Perfect Records, a record label Artists Perfect (musician) (born 1980), reggae singer Perfect (Polish band) Perfect (American band), an American alternative rock group Albums Perfect (Intwine album) (2004) Perfect (Half Japanese album) (2016) perfecT, an album by Sam Shaber Perfect, an album by True Faith or its title track Perfect, an"
+    },
+    {
+      "chunk_id": "wikipedia:I Have Some Questions for You#0000",
+      "doc_id": "wikipedia:I Have Some Questions for You",
+      "title": "I Have Some Questions for You",
+      "url": "https://en.wikipedia.org/?curid=73141678",
+      "source_type": "wikipedia",
+      "score": 0.5357072234153748,
+      "text": "I Have Some Questions for You is a 2023 literary mystery novel by American writer Rebecca Makkai, published by Viking Press. The novel received universal acclaim from critics upon release, and spent six weeks on the New York Times bestseller list. It was popular among the general public, and placed ninth in the Goodreads Choice Award's Mystery & Thriller category. Its audiobook went on to win an inaugural Libby Book Award, and it was longlisted for prestigious prizes like the Aspen Words Literary Prize and Carol Shields Prize for Fiction. Plot Bodie Kane, a film professor and podcaster, is forced to confront a series of violent events in her past when she is invited to teach a class at the New Hampshire boarding school she graduated from. Publication history I Have Some Questions for You was published on February 21, 2023 by Viking Press. It spent six weeks on the New York Times Bestseller list, after having debuted at #3."
+    },
+    {
+      "chunk_id": "wikipedia:Two Whatevers#0000",
+      "doc_id": "wikipedia:Two Whatevers",
+      "title": "Two Whatevers",
+      "url": "https://en.wikipedia.org/?curid=539766",
+      "source_type": "wikipedia",
+      "score": 0.49900345504283905,
+      "text": "The \"Two Whatevers\" (Chinese: 两个凡是; pinyin: Liǎng gè fán shì) refers to the statement that \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\" (凡是毛主席作出的决策，我们都坚决维护；凡是毛主席的指示，我们都始终不渝地遵循). This statement was contained in a joint editorial, entitled \"Study the Documents Well and Grasp the Key Link\", printed on 7 February 1977 in People's Daily, the journal Red Flag and the PLA Daily. History The policy was advocated by the Chinese Communist Party chairman Hua Guofeng, Mao's successor, who had earlier ended the Cultural Revolution and arrested the Gang of Four. On a 7 February 1977 editorial titled \"Study the Documents Well and Grasp the Key Link\" which appeared in People's Daily, Red Flag, and People's Liberation Army Daily, Hua articulated the \"Two Whatevers\" slogan: \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\"."
+    }
+  ]
+}

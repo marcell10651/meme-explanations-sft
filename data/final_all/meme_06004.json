@@ -1,0 +1,206 @@
+{
+  "meme_id": "meme_06004",
+  "queries": [
+    "\"the smart kid\" \"chill\" \"watching\" \"smart\"",
+    "\"watching\" \"smart\" \"kid\" \"over\""
+  ],
+  "primary_terms": [
+    "chill",
+    "the smart kid",
+    "watching",
+    "smart",
+    "kid",
+    "over",
+    "knowing",
+    "well",
+    "barely",
+    "passed",
+    "aye"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.9024791479110718,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.7249786019325256,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:Expose#0001",
+      "doc_id": "wikipedia:Expose",
+      "title": "Expose",
+      "url": "https://en.wikipedia.org/?curid=591548",
+      "source_type": "wikipedia",
+      "score": 0.662953644990921,
+      "text": "show The Gifted Exposed (American game show), a 2007 American dating game show that aired on MTV Exposed (Canadian TV program), a 2004 Canadian music television program that aired on MuchMusic Exposed (Indian TV series), a 2022 Indian Telugu-language web series \"Exposed\" (Heroes), a 2009 episode of Heroes \"Exposed\" (UFO) (UFO), a 1970..."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0001",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.5957416892051697,
+      "text": "officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great! TV, British TV channel group The Great (TV series), an American comedy-drama See also All pages with titles containing great All pages with titles beginning with Great All pages with titles beginning with The Great All pages with titles beginning with The great The Great (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0000",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.5788463056087494,
+      "text": "A toddler is a child approximately 1 to 3 years old, though definitions vary. The toddler years are a time of great cognitive, emotional and social development. The word is derived from \"toddle\", which means to walk unsteadily, as children at this age do. Developmental milestones Toddler development can be broken down into a number of interrelated areas. There is reasonable consensus about what these areas may include: Physical: growth or an increase in size. Gross motor: the control of large muscles which enable walking, running, jumping and climbing. Fine motor: the ability to control small muscles; enabling the toddler to feed themselves, draw and manipulate objects. Vision: the ability to see near and far and interpret what is seen. Hearing and speech: the ability to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0000",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.5689537644386291,
+      "text": "Over may refer to: Places Over, Cambridgeshire, England Over, Cheshire, England Over Bridge Over, South Gloucestershire, Gloucestershire, England Over, Tewkesbury, Gloucestershire, England Over, Seevetal, Germany Music Albums Over (album), by Peter Hammill, 1977 Over (EP), by Jarboe and Telecognac, 2000 Songs \"Over\" (Blake Shelton song) \"Over\" (Drake song) \"Over\" (Evans Blue song) \"Over\" (Fayray song) \"OVER\" (Hey! Say! JUMP song) \"Over\" (High and Mighty Color song) \"Over\" (Lindsay Lohan song) \"Over\" (Lucky Daye song) \"Over\" (Portishead song) \"Over\", by A Perfect Circle from Mer de Noms \"Over\", by Ashanti from Ashanti \"Over\", by Embrace from If You've Never Been \"Over\", by Ivy from Realistic \"Over\", by James Blunt from The Afterlove \"Over\", by Jimmy Eat World from Stay on My Side Tonight \"Over\", by Kings of Leon from Walls \"Over\", by Lykke Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by"
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0001",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.5643885135650635,
+      "text": "to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively. Social: the ability to interact with the world through playing with others, taking turns and fantasy play. Although it is useful to chart defined periods of development, development exists on a continuum, with considerable differences between individual children. There..."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.562291419506073,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    },
+    {
+      "chunk_id": "wikipedia:Watch#0001",
+      "doc_id": "wikipedia:Watch",
+      "title": "Watch",
+      "url": "https://en.wikipedia.org/?curid=60883",
+      "source_type": "wikipedia",
+      "score": 0.5497715830802917,
+      "text": "of the watch market, in what became known as the quartz revolution (or the quartz crisis in Switzerland, whose renowned watch industry it decimated). In the 2010s, smartwatches emerged, small wrist-worn computers with touchscreens and with functions that go far beyond timekeeping. Modern watches often display the day, date, month, and year. Mechanical watches may have extra features..."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0001",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.5480388849973679,
+      "text": "others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time). These processes are supported by distributed neural networks in frontal, parietal, and subcortical regions and are closely linked to working memory, executive functions, and consciousness. Patterns of attention also vary across cultures, especially in how individuals attend to context versus focal objects and how children are guided to manage attention in everyday activities..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A boy is crying in the car while his friend looks concerned beside him.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the car",
+          "his friend",
+          "him"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is making fun of the smart kid for crying over getting a 95 on a test, while they are happy because they barely passed.. Meme poster thinks that smart kids sad about getting an A need to remember those who barely passed.. Meme poster is trying to convey that they barely passed the test wishing they were the smart kid that got a 95%.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "fun",
+          "the smart kid",
+          "smart kids",
+          "the test"
+        ]
+      },
+      "title": {
+        "text": "Like, chill bro.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "chill"
+        ]
+      },
+      "text": {
+        "text": "me watching the smart kid crying over a 95% knowing damn well i barely passed > (aye",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the smart kid",
+          "watching",
+          "smart",
+          "kid",
+          "over",
+          "knowing",
+          "well",
+          "barely",
+          "passed",
+          "aye"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "chill",
+      "the smart kid",
+      "watching",
+      "smart",
+      "kid",
+      "over",
+      "knowing",
+      "well",
+      "barely",
+      "passed",
+      "aye"
+    ],
+    "secondary_terms": [
+      "the car",
+      "his friend",
+      "him",
+      "fun",
+      "the smart kid",
+      "smart kids",
+      "the test"
+    ],
+    "queries": [
+      "\"the smart kid\" \"chill\" \"watching\" \"smart\"",
+      "\"watching\" \"smart\" \"kid\" \"over\""
+    ]
+  },
+  "source_jsonl_id": null
+}

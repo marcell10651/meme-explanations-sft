@@ -1,0 +1,186 @@
+{
+  "meme_id": "meme_01658",
+  "queries": [
+    "\"Batman\" \"see\" \"friend\" \"agirl\" \"ameme\"",
+    "\"agirl\" \"ameme\" \"oss\" \"esiff\""
+  ],
+  "primary_terms": [
+    "see",
+    "friend",
+    "agirl",
+    "ameme",
+    "oss",
+    "esiff"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Uncle#0001",
+      "doc_id": "wikipedia:Uncle",
+      "title": "Uncle",
+      "url": "https://en.wikipedia.org/?curid=24306566",
+      "source_type": "wikipedia",
+      "score": 0.5772975593805313,
+      "text": "friends, and even total strangers in some cultures, for example Aboriginal Australian elders. Using the term in this way is a form of fictive kinship. Any social institution where a special relationship exists between a man and his sisters' children is known as an avunculate (or avunculism or avuncularism). This relationship can be formal or informal, depending on the society. Early anthropological research focused on the association between the avunculate and matrilineal descent, while later..."
+    },
+    {
+      "chunk_id": "wikipedia:Two-Face#0001",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 0.550310468673706,
+      "text": "the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse. The modern version is also established as having once been an ally of Batman and Commissioner James Gordon, and a close friend of Batman's secret identity, Bruce Wayne. The character has been adapted in various media incarnations, having been portrayed in film by Billy Dee Williams in Batman (1989), Tommy Lee..."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0001",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.47300235629081727,
+      "text": "teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J. Jonah Jameson; friends like Harry Osborn and Flash Thompson; romantic interests like Gwen Stacy, Mary Jane Watson, and the Black Cat; and enemies such as Doctor Octopus, the Green Goblin, and Venom. In his origin story, Peter gets his superhuman spider-powers and abilities after he was bitten..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.4729451835155487,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Mask#0001",
+      "doc_id": "wikipedia:Mask",
+      "title": "Mask",
+      "url": "https://en.wikipedia.org/?curid=247083",
+      "source_type": "wikipedia",
+      "score": 0.46197761595249176,
+      "text": "\"mask, specter, nightmare\". This word is of uncertain origin, perhaps from Arabic maskharah مَسْخَرَۃٌ \"buffoon\", from the verb sakhira \"to ridicule\". However, it may also come from Provençal mascarar \"to black (the face)\" (or the related Catalan mascarar, Old French mascurer). This in turn is of uncertain origin – perhaps from a Germanic source akin to English \"mesh\", but perhaps from mask- \"black\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:Superhero#0000",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 0.45692909359931944,
+      "text": "A superhero or superheroine, is a character who typically possesses superpowers or abilities beyond those of ordinary people; is frequently costumed, concealing their identity; and fits the role of the hero, typically using their powers to help the world become a better place, or dedicating themselves to protecting the public and fighting crime. Superhero fiction is the genre of fiction that is centered on such characters, especially, since the 1930s, in American comic books (and later in Hollywood films, film serials, television and video games), as well as in Japanese media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins."
+    },
+    {
+      "chunk_id": "wikipedia:Timon and Pumbaa#0001",
+      "doc_id": "wikipedia:Timon and Pumbaa",
+      "title": "Timon and Pumbaa",
+      "url": "https://en.wikipedia.org/?curid=4449334",
+      "source_type": "wikipedia",
+      "score": 0.44810929894447327,
+      "text": "came to audition for the roles of the hyenas, but when the producers saw how well they worked together, they decided to cast them as Timon and Pumbaa. As with many characters in The Lion King, Pumbaa's name derives from the East African language Swahili. In Swahili, pumbaa (v.) means \"to be foolish, silly, weakminded, careless, negligent.\" Timon is one of the few characters whose name has no meaning in Swahili..."
+    },
+    {
+      "chunk_id": "wikipedia:Superhero#0001",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 0.43244615793228147,
+      "text": "media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins. Most superheroes (for example, Superman and Spider-Man) usually possess non-human or superhuman biology, while others (such as Batman and Iron Man) derive their status from advanced technology they create and use; others may use or possess objects that have superhuman, mystical, or alien powers (such as Green Lantern and He-Man), or study and practice magic to achieve their abilities (such as Doctor Fate and Doctor Strange). The Dictionary.com definition of \"superhero\" is \"a..."
+    },
+    {
+      "chunk_id": "wikipedia:Comes#0000",
+      "doc_id": "wikipedia:Comes",
+      "title": "Comes",
+      "url": "https://en.wikipedia.org/?curid=1721514",
+      "source_type": "wikipedia",
+      "score": 0.43180985748767853,
+      "text": "Comes (plural comites), translated as count, was a Roman title, generally linked to a comitatus or comital office. The word comes originally meant \"companion\" or \"follower\", deriving from \"com-\" (\"with\") and \"ire\" (\"go\"). The special lasting meaning derives from the position of a follower within a comitatus, which was a retinue, or group of followers, such as those of magnates. In some instances these were sufficiently large and/or formal to justify specific denomination, such as a \"cohors amicorum\". The word comes is the origin of the much later terms for counts within the medieval nobility, and counties as their territorial jurisdictions. Ancient Roman religion Comes was a common epithet or title that was added to the name of a hero or god in order to denote relation with another god. The coinage of Roman Emperor Constantine I declared him \"comes\" to Sol Invictus (\"Unconquered Sun\") qua god."
+    },
+    {
+      "chunk_id": "wikipedia:Two-Face#0000",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 0.41909385323524473,
+      "text": "Two-Face is a supervillain appearing in American comic books published by DC Comics. The character was created by Bob Kane, and first appeared in Detective Comics #66 (August 1942). He has become one of the superhero Batman's most enduring enemies belonging to the collective of adversaries that make up his rogues gallery. In his comic book appearances, Two-Face is the alter ego of Harvey Dent, Gotham City's former district attorney who becomes a criminal mastermind obsessed with duality and the number two. Half of his face is hideously scarred after mob boss Sal Maroni throws acid at him. The resulting disfigurement drives him insane and causes him to make decisions based on the flip of a coin. The Modern Age of Comic Books portrays the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Batman slaps Robin across the face.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Batman",
+          "Robin",
+          "the face"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they'd rather receive memes from their friends than a random girl.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their friends"
+        ]
+      },
+      "title": {
+        "text": "when you see a meme",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "see"
+        ]
+      },
+      "text": {
+        "text": "WHEN YOU SEE AND YOUR FRIEND ~ AGIRL WITH AMEME <&_ MAKES YOU A MEME . | ey WH BS | OSS TE esiff -",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "see",
+          "friend",
+          "agirl",
+          "ameme",
+          "oss",
+          "esiff"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "see",
+      "friend",
+      "agirl",
+      "ameme",
+      "oss",
+      "esiff"
+    ],
+    "secondary_terms": [
+      "Batman",
+      "Robin",
+      "the face",
+      "their friends"
+    ],
+    "queries": [
+      "\"Batman\" \"see\" \"friend\" \"agirl\" \"ameme\"",
+      "\"agirl\" \"ameme\" \"oss\" \"esiff\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,179 @@
+{
+  "meme_id": "meme_05004",
+  "queries": [
+    "\"Elon Musk\" \"billionaire\" \"post\" \"also\"",
+    "\"the usual posting stress\" \"Elon Musk\" \"his hand\" \"his forehead\"",
+    "\"his hand\" \"his forehead\" \"billionaire\" \"post\""
+  ],
+  "primary_terms": [
+    "billionaire",
+    "post",
+    "also"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Post#0000",
+      "doc_id": "wikipedia:Post",
+      "title": "Post",
+      "url": "https://en.wikipedia.org/?curid=230424",
+      "source_type": "wikipedia",
+      "score": 0.8091008722782135,
+      "text": "Post, POST, or posting may refer to: Postal services Mail, the postal system, especially in Commonwealth of Nations countries An Post, the Irish national postal service Canada Post, Canadian postal service Deutsche Post, German postal service Iraqi Post, Iraqi postal service Russian Post, Russian postal service Hotel post, a service formerly offered by remote Swiss hotels for the carriage of mail to the nearest official post office United States Postal Service or USPS Parcel post, a postal service for mail that is heavier than ordinary letters Work Post, a job or occupation Newspaper The Manica Post Regional newspaper in Manicaland province, Zimbabwe The Rakyat Post Malaysian online daily newspaper Bangkok Post English language newspaper in Thailand Architecture and structures Lamppost, a raised source of light on the edge of a road Post (structural), timber framing Post and lintel, a building system Scratch post Steel fence post Trading post Utility pole or utility post Military"
+    },
+    {
+      "chunk_id": "wikipedia:Google#0001",
+      "doc_id": "wikipedia:Google",
+      "title": "Google",
+      "url": "https://en.wikipedia.org/?curid=1092923",
+      "source_type": "wikipedia",
+      "score": 0.7423059701919555,
+      "text": "owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's internet properties and interests. Sundar Pichai was appointed CEO of Google on October 24, 2015, replacing Larry Page, who became the CEO of Alphabet. On December 3, 2019, Pichai also became the CEO of Alphabet. After the success of its original service..."
+    },
+    {
+      "chunk_id": "wikipedia:Emon#0001",
+      "doc_id": "wikipedia:Emon",
+      "title": "Emon",
+      "url": "https://en.wikipedia.org/?curid=52429604",
+      "source_type": "wikipedia",
+      "score": 0.6744163930416107,
+      "text": "(born 1993), Bangladeshi footballer Anisul Islam Emon (born 1994), Bangladeshi cricketer Parvez Hossain Emon (born 2002), Bangladeshi cricketer Abu Shahed Emon (fl. 2000s), Bangladeshi film director Emon Saha (fl. 2000s), Bangladeshi composer Emon Ahmed (fl. 2008–2010), Bangladeshi cricketer Emon Chowdhury, Bangladeshi musician Emon..."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0001",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.664636567234993,
+      "text": "Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture and politics People Múte Bourup Egede (born 1987), Prime Minister of Greenland Shō Gen (1528–1572), king of the Ryukyu Kingdom called Gen the mute Pârvu Mutu (1657–1735),..."
+    },
+    {
+      "chunk_id": "wikipedia:Jake Paul#0000",
+      "doc_id": "wikipedia:Jake Paul",
+      "title": "Jake Paul",
+      "url": "https://en.wikipedia.org/?curid=51021695",
+      "source_type": "wikipedia",
+      "score": 0.624241617321968,
+      "text": "Jake Joseph Paul (born January 17, 1997) is an American professional boxer, influencer and actor. He began his career posting videos on Vine in September 2013 and had amassed 5.3 million followers and 2 billion views before the app was discontinued. He launched his YouTube channel, Jake Paul, in May 2014, and was ranked by Forbes as one of the highest-paid YouTube creators of the 2010s and 2020s. As an actor, Paul's first role in a feature film was in the 2016 film Dance Camp. He went on to star as Dirk Mann on the Disney Channel series Bizaardvark (2016–2018) and appear in the films Airplane Mode (2019), Mainstream (2020), and A Genie's Tail (2022). He has also made guest appearances in the television series Walk the Prank (2016), The Price Is Right (2017), and Ridiculousness (2020). Paul's boxing career began in August 2018 with a white-collar boxing match against Deji Olatunji, which he won via technical knockout. His professional boxing debut was against AnEsonGib in January 2020."
+    },
+    {
+      "chunk_id": "wikipedia:Head#0000",
+      "doc_id": "wikipedia:Head",
+      "title": "Head",
+      "url": "https://en.wikipedia.org/?curid=1209545",
+      "source_type": "wikipedia",
+      "score": 0.5467946887016296,
+      "text": "A head is the part of an organism which usually includes the ears, brain, forehead, cheeks, chin, eyes, nose, and mouth, each of which aid in various sensory functions such as sight, hearing, smell, and taste. Some very simple animals may not have a head, but many bilaterally symmetric forms do, regardless of size. Heads develop in animals by an evolutionary trend known as cephalization. In bilaterally symmetrical animals, nervous tissue concentrate at the anterior region, forming structures responsible for information processing. Through biological evolution, sense organs and feeding structures also concentrate into the anterior region; these collectively form the head. Human head The human head is an anatomical unit that consists of the skull, hyoid bone and cervical vertebrae. The skull consists of the brain case which encloses the cranial cavity, and the facial skeleton, which includes the mandible. There are eight bones in the brain case and fourteen in the facial skeleton."
+    },
+    {
+      "chunk_id": "wikipedia:Emon#0000",
+      "doc_id": "wikipedia:Emon",
+      "title": "Emon",
+      "url": "https://en.wikipedia.org/?curid=52429604",
+      "source_type": "wikipedia",
+      "score": 0.5429541021585464,
+      "text": "Emon is a Bengali and Japanese name. In both cultures it may be both a given name and a surname. Statistics The 2010 United States census found 120 people with the surname Emon, making it the 139,228th-most-common surname in the country. This represented an increase from 107 people (142,819th-most-common) in the 2000 census. In both censuses, slightly less than nine-tenths of the bearers of the surname Emon identified as non-Hispanic white, and about seven percent as Asian. People Bengali The Bengali name (ইমন), originating from the Arabic word iman, means \"religious faith\". People with this name include: Shawkat Ali Emon (born 1941), Bangladeshi composer Salman Shah (actor) (real name Chowdhury Muhammad Shahriar Emon; 1971–1996), Bangladeshi film and television actor Mamnun Hasan Emon (born 1983), Bangladeshi film actor Emon Mahmud Babu (born 1993), Bangladeshi footballer Anisul Islam Emon (born 1994), Bangladeshi cricketer Parvez Hossain Emon (born 2002), Bangladeshi cricketer Abu"
+    },
+    {
+      "chunk_id": "wikipedia:Christ in the House of His Parents#0001",
+      "doc_id": "wikipedia:Christ in the House of His Parents",
+      "title": "Christ in the House of His Parents",
+      "url": "https://en.wikipedia.org/?curid=7684921",
+      "source_type": "wikipedia",
+      "score": 0.535059905052185,
+      "text": "Anne, removes the nail with a pair of pincers, his concerned mother, Mary, offers her cheek for a kiss. Joseph examines Jesus's wounded hand. A young boy, who would later be known as John the Baptist, brings in water to wash the wound, prefiguring his later baptism of Christ. An assistant of Joseph, who represents Jesus's future Apostles, observes these events. In the background of the painting various..."
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0000",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.5303762018680572,
+      "text": "Kyle Edward Craven (born August 10, 1989), commonly known by his Internet nickname \"Bad Luck Brian\", is an American Internet celebrity known for his photo which was posted on Reddit in 2012, which quickly became a popular Internet meme. Bad Luck Brian is an image macro style of meme. His captions describe a variety of unlucky, embarrassing and tragic events. Meme Origin On January 23, 2012, at 2:15 UTC, Ian Davies uploaded a photo to Reddit of his friend Kyle Craven. Craven and Davies both attended Archbishop Hoban High School in Akron, Ohio. The photo which became Bad Luck Brian was originally taken for the high school's 2005–06 yearbook. Craven stated that he rubbed his face with a sweater to redden it and donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture."
+    },
+    {
+      "chunk_id": "wikipedia:He's Got the Whole World in His Hands#0000",
+      "doc_id": "wikipedia:He's Got the Whole World in His Hands",
+      "title": "He's Got the Whole World in His Hands",
+      "url": "https://en.wikipedia.org/?curid=6766784",
+      "source_type": "wikipedia",
+      "score": 0.5226107746362686,
+      "text": "\"He's Got the Whole World in His Hands\" is a traditional African-American spiritual, first published in 1927. It became an international pop hit in 1957–58 in a recording by British singer Laurie London, which is one of the best-selling gospel songs of all time. The song has also been recorded by many other singers and choirs, including Mahalia Jackson, Marian Anderson, Judy Garland and Nina Simone and in Germany by Conny Froboess. Traditional music sources The song was first published in the paperbound hymnal Spirituals Triumphant, Old and New in 1927. In 1933, it was collected by Frank Warner from the singing of Sue Thomas in North Carolina. It was also recorded by other collectors such as Robert Sonkin of the Library of Congress, who recorded it in Gee's Bend, Alabama in 1941. That version is still available at the Library's American Folklife Center. Frank Warner performed the song during the 1940s and 1950s, and introduced it to the American folk scene."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Elon Musk looks disappointed yet amused as he presses his hand against his forehead.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Elon Musk",
+          "his hand",
+          "his forehead"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that Elon Musk doesn't have the usual posting stress because he is a billionaire.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Elon Musk",
+          "the usual posting stress"
+        ]
+      },
+      "title": {
+        "text": "Ah to be a billionaire",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "billionaire"
+        ]
+      },
+      "text": {
+        "text": "ME: SHOULD | POST? ALSO ME: JUST POST —_ a \\ . of | |",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "post",
+          "also"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "billionaire",
+      "post",
+      "also"
+    ],
+    "secondary_terms": [
+      "Elon Musk",
+      "his hand",
+      "his forehead",
+      "the usual posting stress"
+    ],
+    "queries": [
+      "\"Elon Musk\" \"billionaire\" \"post\" \"also\"",
+      "\"the usual posting stress\" \"Elon Musk\" \"his hand\" \"his forehead\"",
+      "\"his hand\" \"his forehead\" \"billionaire\" \"post\""
+    ]
+  },
+  "source_jsonl_id": null
+}

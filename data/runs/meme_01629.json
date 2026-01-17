@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_01629",
+  "queries": [
+    "\"cool India\" \"China\" \"Japan\" \"Britain\"",
+    "\"Japan\" \"Britain\" \"invents tea\" \"give\""
+  ],
+  "primary_terms": [
+    "give",
+    "now",
+    "China",
+    "invents tea",
+    "Japan",
+    "cool India",
+    "Britain"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Japan#0000",
+      "doc_id": "wikipedia:Japan",
+      "title": "Japan",
+      "url": "https://en.wikipedia.org/?curid=15573",
+      "source_type": "wikipedia",
+      "score": 0.9362976431846619,
+      "text": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands alongside 14,121 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of over 123 million as of 2025, it is the world's 11th most populous country. Tokyo is the country's capital and largest city. The first known habitation of the archipelago dates to the Upper Paleolithic, with the beginning of the Japanese Paleolithic dating to c. 36,000 BC. Between the 4th and 6th centuries, its kingdoms were united under an emperor in Nara and later in Heian-kyō."
+    },
+    {
+      "chunk_id": "wikipedia:British#0000",
+      "doc_id": "wikipedia:British",
+      "title": "British",
+      "url": "https://en.wikipedia.org/?curid=3962",
+      "source_type": "wikipedia",
+      "score": 0.8087723016738891,
+      "text": "British may refer to: Peoples, culture, and language British people, nationals or natives of the United Kingdom, British Overseas Territories and Crown Dependencies. British national identity, the characteristics of British people and culture British English, the English language as spoken and written in United Kingdom of Great Britain and Northern Ireland and, more broadly, throughout the British Isles Celtic Britons, an ancient ethno-linguistic group Brittonic languages, a branch of the Insular Celtic language family (formerly called British) Common Brittonic, an ancient language Other uses People or things associated with: Great Britain, an island British Isles, an island group United Kingdom, a sovereign state British Empire, a historical global colonial empire Kingdom of Great Britain (1707–1800) United Kingdom of Great Britain and Ireland (1801–1922) British Raj, an informal empire ruled directly by the Crown on the Indian subcontinent British Hong Kong, colonial Hong Kong under"
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.602721443772316,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Australia#0001",
+      "doc_id": "wikipedia:Australia",
+      "title": "Australia",
+      "url": "https://en.wikipedia.org/?curid=4689264",
+      "source_type": "wikipedia",
+      "score": 0.5351399779319763,
+      "text": "of the oldest living cultures in the world. Australia's written history commenced with Dutch exploration of most of the coastline in the 17th century. British colonisation began in 1788 with the establishment of the penal colony of New South Wales. By the mid-19th century, most of the continent had been explored by European settlers and five additional self-governing British colonies were established, each gaining..."
+    },
+    {
+      "chunk_id": "wikipedia:Japan#0001",
+      "doc_id": "wikipedia:Japan",
+      "title": "Japan",
+      "url": "https://en.wikipedia.org/?curid=15573",
+      "source_type": "wikipedia",
+      "score": 0.5319602102041244,
+      "text": "Paleolithic dating to c. 36,000 BC. Between the 4th and 6th centuries, its kingdoms were united under an emperor in Nara and later in Heian-kyō. From the 12th century, actual power was held by military aristocrats known as shōgun and feudal lords called daimyō, enforced by warrior nobility named samurai. After rule by the Kamakura and Ashikaga shogunates and..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.45800960063934326,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0001",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.44839736819267273,
+      "text": "but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home. Supporting People around Kang-soo Kim Kyung-nam as Sung-jae Kang-soo's friend who is also a deliveryman. Kim Ki-doo as Baek Gong-gi A martial artist who is a leader of the Holy..."
+    },
+    {
+      "chunk_id": "wikipedia:Cool#0000",
+      "doc_id": "wikipedia:Cool",
+      "title": "Cool",
+      "url": "https://en.wikipedia.org/?curid=4175379",
+      "source_type": "wikipedia",
+      "score": 0.42237427830696106,
+      "text": "Cool commonly refers to: Cool, a moderately low temperature Cool (aesthetic), an aesthetic of attitude, behavior, and style Cool or COOL may also refer to: Economics Country of origin labelling mCOOL - US consumer legislation to enforce COOL at the grocery store Computing Cool (programming language) COOL, a computer language used in the CLIPS tool Cool, an internal name of C# An abbreviation for Collabora Online Geography Cool, Rotterdam, Netherlands Cool, California, U.S. Cool, Texas, U.S. Music Cool (band), a South Korean K-pop music group Cool jazz Albums Cool (George Duke album) (2000) Lupe Fiasco's The Cool (2007) The Cool (character), the associated concept character Cool (Joyce album) (2015) Songs \"Cool\" (Alesso song) (2015) \"Cool\" (Anthony Hamilton song) (2008) \"Cool\" (Jonas Brothers song) (2019) \"Cool\" (Le Youth song) (2013) \"Cool\" (Dua Lipa song) (2020) \"Cool\" (Gwen Stefani song) (2005) \"Cool\" (The Time song) (1981), later covered by Snoop Dogg and Prince \"Cool\" (West Side"
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.4147211730480194,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:North Korea#0000",
+      "doc_id": "wikipedia:North Korea",
+      "title": "North Korea",
+      "url": "https://en.wikipedia.org/?curid=21255",
+      "source_type": "wikipedia",
+      "score": 0.3853914558887482,
+      "text": "North Korea, officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia. It constitutes the northern half of the Korean Peninsula and borders China and Russia to the north at the Yalu (Amnok) and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone (DMZ). The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. North Korea, like South Korea, claims to be the sole legitimate government of the Korean Peninsula and adjacent islands. Pyongyang is the capital and largest city. The Korean Peninsula was first inhabited as early as the Lower Paleolithic period. Its first kingdom was noted in Chinese records in the early 7th century BCE. Following the unification of the Three Kingdoms of Korea into Silla and Balhae in the late 7th century, Korea was ruled by the Goryeo dynasty (918–1392) and the Joseon dynasty (1392–1897)."
+    }
+  ]
+}

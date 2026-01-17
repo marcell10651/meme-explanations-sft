@@ -1,0 +1,214 @@
+{
+  "meme_id": "meme_00228",
+  "queries": [
+    "\"Luigi\" \"pizza time\" \"pizza\" \"time\" \"stops\"",
+    "\"time\" \"stops\" \"socks\" \"oss\""
+  ],
+  "primary_terms": [
+    "pizza time",
+    "pizza",
+    "time",
+    "stops",
+    "socks",
+    "oss",
+    "wearing",
+    "won",
+    "hours",
+    "kok",
+    "tto",
+    "rewearing",
+    "after",
+    "taking",
+    "off"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Morning#0000",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.7969631731510163,
+      "text": "Morning is either the period from sunrise to noon, or the period from midnight to noon. In the first definition it is preceded by the twilight period of dawn, and there are no exact times for when morning begins (also true of evening and night) because it can vary according to one's latitude, and the hours of daylight at each time of year. However, morning strictly ends at noon, when afternoon starts. Morning precedes afternoon, evening, and night in the sequence of a day. Originally, the term referred to sunrise. Etymology The Modern English words \"morning\" and \"tomorrow\" began in Middle English as morwening, developing into morwen, then morwe, and eventually morrow. English, unlike some other languages, has separate terms for \"morning\" and \"tomorrow\", despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\"."
+    },
+    {
+      "chunk_id": "wikipedia:Time travel#0000",
+      "doc_id": "wikipedia:Time travel",
+      "title": "Time travel",
+      "url": "https://en.wikipedia.org/?curid=31591",
+      "source_type": "wikipedia",
+      "score": 0.773270171880722,
+      "text": "Time travel is the hypothetical activity of traveling into the past or future. Time travel is a concept in philosophy, space, time and fiction, particularly science fiction. In fiction, time travel is typically achieved through the use of a device known as a time machine. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine. It is uncertain whether time travel to the past would be physically possible. Such travel, if at all feasible, may give rise to questions of causality. Forward time travel, outside the usual sense of the perception of time, is an extensively observed phenomenon and is well understood within the framework of special relativity and general relativity. However, making one body advance or delay more than a few milliseconds compared to another body is not feasible with current technology. As for backward time travel, it is possible to find solutions in general relativity that allow for it, such as a rotating black hole."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0000",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.7708964705467224,
+      "text": "Time is the continuous progression of existence that occurs in an apparently irreversible succession from the past, through the present, and into the future. Time dictates all forms of action, age, and causality, being a component quantity of various measurements used to sequence events, to compare the duration of events (or the intervals between them), and to quantify rates of change of quantities in material reality or in the conscious experience. Time is often referred to as a fourth dimension, along with three spatial dimensions. Time is primarily measured in linear spans or periods, ordered from shortest to longest. Practical, human-scale measurements of time are performed using clocks and calendars, reflecting a 24-hour day collected into a 365-day year linked to the astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest."
+    },
+    {
+      "chunk_id": "wikipedia:Watch#0001",
+      "doc_id": "wikipedia:Watch",
+      "title": "Watch",
+      "url": "https://en.wikipedia.org/?curid=60883",
+      "source_type": "wikipedia",
+      "score": 0.7189761906862259,
+      "text": "of the watch market, in what became known as the quartz revolution (or the quartz crisis in Switzerland, whose renowned watch industry it decimated). In the 2010s, smartwatches emerged, small wrist-worn computers with touchscreens and with functions that go far beyond timekeeping. Modern watches often display the day, date, month, and year. Mechanical watches may have extra features..."
+    },
+    {
+      "chunk_id": "wikipedia:Watch#0000",
+      "doc_id": "wikipedia:Watch",
+      "title": "Watch",
+      "url": "https://en.wikipedia.org/?curid=60883",
+      "source_type": "wikipedia",
+      "score": 0.6811456441879272,
+      "text": "A watch is a timepiece carried or worn by a person. It is designed to maintain a consistent movement despite the motions caused by the person's activities. A wristwatch is worn around the wrist, attached by a watch strap or another type of bracelet, including metal bands or leather straps. A pocket watch is carried in a pocket, often attached to a chain. A stopwatch is a type of watch that measures intervals of time. During most of their history, beginning in the 16th century, watches were mechanical devices, driven by clockwork, powered by winding a mainspring, and keeping time with an oscillating balance wheel. These are known as mechanical watches. In the 1960s the electronic quartz watch was invented, powered by a battery and keeping time with a vibrating quartz crystal. By the 1980s it had taken over most of the watch market, in what became known as the quartz revolution (or the quartz crisis in Switzerland, whose renowned watch industry it decimated)."
+    },
+    {
+      "chunk_id": "wikipedia:Decade#0000",
+      "doc_id": "wikipedia:Decade",
+      "title": "Decade",
+      "url": "https://en.wikipedia.org/?curid=695530",
+      "source_type": "wikipedia",
+      "score": 0.6443573296070099,
+      "text": "A decade (from Ancient Greek: δεκάς, dekas, lit. 'group of 10') is a period of 10 years. It may also be called a decennium (from Latin: decennium, lit. 'ten-year'). Decades may describe any ten-year period, such as those of a person's life, or refer to specific groupings of calendar years. Usage Any period of ten years is a 'decade' or 'decennium'. For example, the statement that \"during his last decade, Mozart explored chromatic harmony to a degree rare at the time\" refers to the last 10 years of Wolfgang Amadeus Mozart's life without regard to which calendar years are encompassed. Also, 'the first decade' of a person's life begins on the day of their birth and ends at the end of their 10th year of life when they have their 10th birthday; the second decade of life starts with their 11th year of life (during which one is typically still referred to as being \"10\") and ends at the end of their 20th year of life, on their 20th birthday; similarly, the third decade of life, when one is in"
+    },
+    {
+      "chunk_id": "wikipedia:Second#0001",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.6000863969326019,
+      "text": "current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks. As the speed of Earth's rotation varies and is slowing ever so slightly, a leap second is added at irregular intervals to civil time to keep clocks in sync with Earth's rotation. The definition that is based on 1⁄86400 of a rotation of the earth is still used by the Universal Time 1 (UT1) system..."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0001",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.5996034204959869,
+      "text": "astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest. Measurable time is believed to have effectively begun with the Big Bang 13.8 billion years ago, encompassed by the chronology of the universe. Modern physics understands time to be inextricable from space within the concept of spacetime described by general relativity..."
+    },
+    {
+      "chunk_id": "wikipedia:Second#0000",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.5579100728034974,
+      "text": "The second (symbol: s) is a unit of time derived from the division of the day first into 24 hours, then to 60 minutes, and lastly to 60 seconds each, for a total of 24 × 60 × 60 = 86,400 seconds per day. The current and formal definition in the International System of Units (SI) is more precise: The second [...] is defined by taking the fixed numerical value of the caesium frequency, ΔνCs, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9192631770 when expressed in the unit Hz, which is equal to s−1. That is saying that a second is the duration of time it takes for 9 192 631 770 of these transitions to occur. Atomic clocks count these transitions, with an uncertainty of 1 second in 300 million years. This current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks."
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0000",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.5071743935346603,
+      "text": "Snap or SNAP may refer to: Supplemental Nutrition Assistance Program, a food program for low-income families administered by the United States Department of Agriculture Arts and entertainment Snap (film), the initial release title for the 2013 film Enter the Dangerous Mind The Stanly News and Press, a newspaper in Albemarle, North Carolina, US \"Snap\" (Duty Free), a 1984 TV episode Games and sports Snap (gridiron football), the start of a play in gridiron football Scalable Network Application Package, an online gaming platform Pokémon Snap, a 1999 Japanese video game New Pokémon Snap, the 2021 sequel Snap, any putdown used in the Dozens Card games Snap (card game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap!"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Luigi is having fun as a DJ then looks unhappy.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Luigi",
+          "fun"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they don't mind wearing the same socks for 9 hours, but they're grossed out by re-wearing the same pair of socks.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the same socks",
+          "the same pair",
+          "socks"
+        ]
+      },
+      "title": {
+        "text": "pizza time stops",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "pizza time",
+          "pizza",
+          "time",
+          "stops"
+        ]
+      },
+      "text": {
+        "text": "wearing socks WON AD for 9 hours KOK “| TTo = ___| rewearing socks oss gb. after taking a them off “Ny",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "socks",
+          "oss",
+          "wearing",
+          "won",
+          "hours",
+          "kok",
+          "tto",
+          "rewearing",
+          "after",
+          "taking",
+          "off"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "pizza time",
+      "pizza",
+      "time",
+      "stops",
+      "socks",
+      "oss",
+      "wearing",
+      "won",
+      "hours",
+      "kok",
+      "tto",
+      "rewearing",
+      "after",
+      "taking",
+      "off"
+    ],
+    "secondary_terms": [
+      "Luigi",
+      "fun",
+      "the same socks",
+      "the same pair",
+      "socks"
+    ],
+    "queries": [
+      "\"Luigi\" \"pizza time\" \"pizza\" \"time\" \"stops\"",
+      "\"time\" \"stops\" \"socks\" \"oss\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_00258",
+  "queries": [
+    "\"Bill Gates\" \"AAS -Rich People\" \"Money\" \"People\" \"look\"",
+    "\"AAS -Rich People\" \"Bill Gates\" \"Money\" \"People\"",
+    "\"Money\" \"People\" \"Angelina\" \"rich people\""
+  ],
+  "primary_terms": [
+    "look",
+    "Money",
+    "AAS -Rich People",
+    "People"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 1.1234795808792115,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:Rich#0000",
+      "doc_id": "wikipedia:Rich",
+      "title": "Rich",
+      "url": "https://en.wikipedia.org/?curid=327881",
+      "source_type": "wikipedia",
+      "score": 0.9976774215698242,
+      "text": "Rich may refer to: Common uses Rich, an entity possessing wealth Rich, an intense flavor, color, sound, texture, or feeling Rich (wine), a descriptor in wine tasting Places United States Rich, Mississippi, an unincorporated community Rich County, Utah Rich Mountain (disambiguation) Rich Township, Cook County, Illinois Rich Township, Anderson County, Kansas Rich Township, Lapeer County, Michigan Elsewhere Er-Rich, Morocco, a town Rich River, Victoria, Australia People Rich (given name), often short for Richard Rich (surname) Arts, entertainment, and media Fictional characters DS Terry Rich, a character in the British soap opera EastEnders Rich, a character in the American sitcom television series The Hogan Family Rich Halke, a character in the TV sitcom Step by Step Rich Hardbeck, a character in the British television series Skins Rich Millar, a character in the British soap opera Doctors Richie Rich (character), a fictional character Music Rich, half of the American country music duo"
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.9849839270114898,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    },
+    {
+      "chunk_id": "wikipedia:Winning#0001",
+      "doc_id": "wikipedia:Winning",
+      "title": "Winning",
+      "url": "https://en.wikipedia.org/?curid=28094145",
+      "source_type": "wikipedia",
+      "score": 0.9627707362174988,
+      "text": "People with surname Charles Winning (1889–1967), Australian cricketer David Winning (born 1961), Canadian and American film director, producer, screenwriter Thomas Winning (1925–2001), Scottish Roman Catholic cardinal See also Charlie Sheen, who used the word as a catchphrase All pages with titles beginning..."
+    },
+    {
+      "chunk_id": "wikipedia:Rich#0001",
+      "doc_id": "wikipedia:Rich",
+      "title": "Rich",
+      "url": "https://en.wikipedia.org/?curid=327881",
+      "source_type": "wikipedia",
+      "score": 0.9408853948116302,
+      "text": "a character in the British soap opera Doctors Richie Rich (character), a fictional character Music Rich, half of the American country music duo Big & Rich Rich Velonskis, half of the American duo Nikki & Rich \"Rich\" (Maren Morris song), 2018 \"Rich\", a song by Jawbreaker from Etc., 2002 \"Rich\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0001",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.8474088221788406,
+      "text": "but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home. Supporting People around Kang-soo Kim Kyung-nam as Sung-jae Kang-soo's friend who is also a deliveryman. Kim Ki-doo as Baek Gong-gi A martial artist who is a leader of the Holy..."
+    },
+    {
+      "chunk_id": "wikipedia:Money#0000",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.8339033037424087,
+      "text": "Money is any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts, such as taxes, in a particular country or socio-economic context. The primary functions which distinguish money are: medium of exchange, a unit of account, a store of value and sometimes, a standard of deferred payment. Money was historically an emergent market phenomenon that possessed intrinsic value as a commodity; nearly all contemporary money systems are based on unbacked fiat money without use value. Its value is consequently derived by social convention, having been declared by a government or regulatory entity to be legal tender; that is, it must be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar."
+    },
+    {
+      "chunk_id": "wikipedia:Money#0001",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.7164470314979553,
+      "text": "be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar. The money supply of a country comprises all currency in circulation (banknotes and coins currently issued) and, depending on the particular definition used, one or more types of bank money (the balances held in checking accounts, savings accounts, and other types of bank accounts). Bank money, whose value exists on the books of financial institutions and can be converted..."
+    },
+    {
+      "chunk_id": "wikipedia:Willy Wonka#0001",
+      "doc_id": "wikipedia:Willy Wonka",
+      "title": "Willy Wonka",
+      "url": "https://en.wikipedia.org/?curid=704925",
+      "source_type": "wikipedia",
+      "score": 0.653746098279953,
+      "text": "praised and criticized. Wilder, Depp, and Chalamet all received Golden Globe nominations for Best Actor in a Comedy or Musical for their performances. Appearances Charlie and the Chocolate Factory In Charlie and the Chocolate Factory, Wonka has hidden five Golden Tickets inside his chocolate bars. The finders are rewarded with a tour of his factory, each accompanied by an adult of their choice, and a lifetime supply of chocolate..."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0000",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.624595707654953,
+      "text": "Great may refer to: Descriptions or measurements Great, a relative measurement in physical space, see Size Greatness, being divine, superior, majestic, or transcendent People List of people known as \"the Great\" Artel Great (born 1981), American actor Great Osobor (born 2002), Spanish-born British basketball player Other uses Great (1975 film), a British animated short about Isambard Kingdom Brunel Great (2013 film), a German short film Great (supermarket), a supermarket in Hong Kong GReAT, Graph Rewriting and Transformation, a Model Transformation Language Gang Resistance Education and Training, or GREAT, a school-based and police officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great!"
+    }
+  ]
+}

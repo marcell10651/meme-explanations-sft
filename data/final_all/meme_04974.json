@@ -1,0 +1,189 @@
+{
+  "meme_id": "meme_04974",
+  "queries": [
+    "\"Pompei\" \"The floor\" \"Aes ify\" \"lava\" \"floor\"",
+    "\"The floor\" \"Aes ify\" \"Pompei\" \"the background\"",
+    "\"Pompei\" \"the background\" \"human bodies\" \"the volcano\""
+  ],
+  "primary_terms": [
+    "The floor",
+    "lava",
+    "floor",
+    "Aes ify"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Room#0001",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.8822458237409592,
+      "text": "the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses. The aforementioned Akrotiri excavations reveal rooms sometimes built above other rooms connected by staircases, bathrooms with alabaster appliances such as washbasins, bathing tubs, and toilets, all connected to an elaborate twin plumbing systems of ceramic pipes for cold and hot water separately. Ancient Rome manifested very complex building forms with a variety of room..."
+    },
+    {
+      "chunk_id": "wikipedia:Lava#0000",
+      "doc_id": "wikipedia:Lava",
+      "title": "Lava",
+      "url": "https://en.wikipedia.org/?curid=21438242",
+      "source_type": "wikipedia",
+      "score": 0.8491257846355438,
+      "text": "Lava is molten or partially molten rock (magma) that has been expelled from the interior of a terrestrial planet (such as Earth) or a moon onto its surface. Lava may be erupted at a volcano or through a fracture in the crust, on land or underwater, usually at temperatures from 800 to 1,200 °C (1,470 to 2,190 °F). Lava may be erupted directly onto the land surface or onto the sea floor or it may be ejected into the atmosphere before falling back down. The solid volcanic rock resulting from subsequent cooling of the molten material is often also called lava. A lava flow is an outpouring of lava during an effusive eruption. (An explosive eruption, by contrast, produces a mixture of volcanic ash and other fragments called tephra, not lava flows.) The viscosity of most molten lava is about that of ketchup, roughly 10,000 to 100,000 times that of water (the latter two substances measured at 25 °C (77 °F) and 1 atm)."
+    },
+    {
+      "chunk_id": "wikipedia:Floor#0000",
+      "doc_id": "wikipedia:Floor",
+      "title": "Floor",
+      "url": "https://en.wikipedia.org/?curid=82926",
+      "source_type": "wikipedia",
+      "score": 0.797752296924591,
+      "text": "A floor is the bottom surface of a room or vehicle. Floors vary from simple dirt in a cave to many layered surfaces made with modern technology. Floors may be stone, wood, bamboo, metal, or any other material that can support the expected load. The levels of a building are often referred to as floors, although sometimes referred to as storeys. Floors typically consist of a subfloor for support and a floor covering used to give a good walking surface. In modern buildings, the subfloor often has electrical wiring, plumbing, and other services built in. As floors must meet many needs, some essential to safety, floors are built to strict building codes in some regions. Special floor structures Where a special floor structure like a floating floor is laid upon another floor, both may be called subfloors."
+    },
+    {
+      "chunk_id": "wikipedia:October#0000",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.6559480577707291,
+      "text": "October is the 10th month of the year in the Julian and Gregorian calendars. Its length is 31 days. The eighth month in the old calendar of Romulus c. 750 BC, October retained its name (from Latin and Greek ôctō meaning \"eight\") after January and February were inserted into the calendar that had originally been created by the Romans. In Ancient Rome, one of three Mundus patet would take place on October 5, Meditrinalia October 11, Augustalia on October 12, October Horse on October 15, and Armilustrium on October 19. These dates do not correspond to the modern Gregorian calendar. Among the Anglo-Saxons, it was known as Winterfylleth (Ƿinterfylleþ), because at this full moon, winter was supposed to begin. October is commonly associated with the season of autumn in parts of the Northern Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa."
+    },
+    {
+      "chunk_id": "wikipedia:Toilet#0001",
+      "doc_id": "wikipedia:Toilet",
+      "title": "Toilet",
+      "url": "https://en.wikipedia.org/?curid=19167644",
+      "source_type": "wikipedia",
+      "score": 0.6296927839517593,
+      "text": "for rooms containing only one or more toilets and hand-basins. Lavatory is an older word for toilet. The technology used for modern toilets varies. Toilets are commonly made of ceramic (porcelain), concrete, plastic, or wood. Newer toilet technologies include dual flushing, low flushing, toilet seat warming, self-cleaning, female urinals and waterless..."
+    },
+    {
+      "chunk_id": "wikipedia:Fists in the Pocket#0001",
+      "doc_id": "wikipedia:Fists in the Pocket",
+      "title": "Fists in the Pocket",
+      "url": "https://en.wikipedia.org/?curid=3654682",
+      "source_type": "wikipedia",
+      "score": 0.593946784734726,
+      "text": "Alessandro shares an incestuous attraction, is mentally disturbed. Augusto, the eldest brother and apparently sane, is the family's only provider. When Augusto's fiancée Lucia receives an anonymous letter whose addressor pretends to be pregnant by him, he immediately realizes that it was written by Giulia. Alessandro, who is disgusted with his family, decides that Augusto would be free to live..."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0001",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.590263620018959,
+      "text": "A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K. Le Guin, originally published as \"The End\" in the 1970 anthology Orbit 6, edited by Damon Knight Things, a 1981 picture book by Roger Hargreaves The Things, a 1994 novel by Martyn Godfrey Things, a 1997 novel by Rodman Philbrick and Lynn Harnett, the second installment in the Visitors trilogy \"The Things\" (short story), a 2010 short story by Peter Watts Other uses TheThings, a news website Things (Chill), a 1984 role-playing game supplement Things (film), a 1989 Canadian horror film Things (software), task management software The Things, recurring..."
+    },
+    {
+      "chunk_id": "wikipedia:Room#0000",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.5862615406513214,
+      "text": "In a building or a ship, a room is any enclosed space within a number of walls to which entry is possible only via a door or other dividing structure. The entrance connects it to either a passageway, another room, or the outdoors. The space is typically large enough for several people to move about. The size, fixtures, furnishings, and sometimes placement of the room within the building or ship (or sometimes a train) support the activity to be conducted in it. History Historically, the use of rooms dates at least to early Minoan cultures about 2200 BC, where excavations at Akrotiri on Santorini reveal clearly defined rooms within certain structures. In early structures, the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.48535585403442383,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:His House#0000",
+      "doc_id": "wikipedia:His House",
+      "title": "His House",
+      "url": "https://en.wikipedia.org/?curid=62897844",
+      "source_type": "wikipedia",
+      "score": 0.48490871489048004,
+      "text": "His House is a 2020 folk horror thriller film written and directed by Remi Weekes, from a story by Felicity Evans and Toby Venables. It stars Wunmi Mosaku, Sope Dirisu and Matt Smith. The film tells the story of a refugee couple from South Sudan, struggling to adjust to their new life in an English town that has an evil lurking beneath the surface. It had its world premiere at the 2020 Sundance Film Festival on 27 January 2020. It was released on 30 October 2020 by Netflix, and received widespread acclaim from critics. Plot Bol and Rial are refugees fleeing with their daughter, Nyagak, from war-torn South Sudan. They brave stormy waters on an overcrowded motorboat, along with fellow refugees traversing the perilous English Channel from France to seek asylum. Although they survive the treacherous crossing, their daughter and many others do not."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a crowd in the background looking at pieces of art that looks like human bodies in the middle",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the background",
+          "pieces",
+          "art",
+          "human bodies"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that people who died in the volcano of Pompei are shown in a art museum.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "that people",
+          "the volcano",
+          "Pompei"
+        ]
+      },
+      "title": {
+        "text": "The floor is lava",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The floor",
+          "lava",
+          "floor"
+        ]
+      },
+      "text": {
+        "text": "\"The floor is lava!\" -Everyone, Pompeii, 79 A.D. Se a saan anas we + Re Aes ify + Ar ~ a. £! Vf ¢ ; Ni ean eircnd rene p ed",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The floor",
+          "lava",
+          "Aes ify"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "The floor",
+      "lava",
+      "floor",
+      "Aes ify"
+    ],
+    "secondary_terms": [
+      "the background",
+      "pieces",
+      "art",
+      "human bodies",
+      "that people",
+      "the volcano",
+      "Pompei"
+    ],
+    "queries": [
+      "\"Pompei\" \"The floor\" \"Aes ify\" \"lava\" \"floor\"",
+      "\"The floor\" \"Aes ify\" \"Pompei\" \"the background\"",
+      "\"Pompei\" \"the background\" \"human bodies\" \"the volcano\""
+    ]
+  },
+  "source_jsonl_id": null
+}

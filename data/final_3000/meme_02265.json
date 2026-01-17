@@ -1,0 +1,189 @@
+{
+  "meme_id": "meme_02265",
+  "queries": [
+    "\"Elf\" \"Pee PEP eee Nc\" \"one ady f ash\" \"Neuve\" \"Eee\"",
+    "\"Neuve\" \"Eee\" \"its\" \"italian\""
+  ],
+  "primary_terms": [
+    "its",
+    "italian",
+    "Neuve",
+    "one ady f ash",
+    "Eee",
+    "[Pee PEP eee Nc"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Pizza#0000",
+      "doc_id": "wikipedia:Pizza",
+      "title": "Pizza",
+      "url": "https://en.wikipedia.org/?curid=24768",
+      "source_type": "wikipedia",
+      "score": 0.6124451279640197,
+      "text": "Pizza is an Italian dish typically consisting of a flat base of leavened wheat-based dough topped with tomato, cheese, and other ingredients, baked at a high temperature, traditionally in a wood-fired oven. The term pizza was first recorded in 997 AD, in a Latin manuscript from the southern Italian town of Gaeta, in Lazio, on the border with Campania. Raffaele Esposito is often credited for creating the modern pizza in Naples. In 2009, Neapolitan pizza was registered with the European Union as a traditional speciality guaranteed (TSG) dish. In 2017, the art of making Neapolitan pizza was included on UNESCO's list of intangible cultural heritage. Pizza and its variants are among the most popular foods in the world. Pizza is sold at a variety of restaurants, including pizzerias, Mediterranean restaurants, via delivery, and as street food. In Italy, pizza served in a restaurant is presented unsliced, and is eaten with the use of a knife and fork."
+    },
+    {
+      "chunk_id": "wikipedia:Tine#0000",
+      "doc_id": "wikipedia:Tine",
+      "title": "Tine",
+      "url": "https://en.wikipedia.org/?curid=1389414",
+      "source_type": "wikipedia",
+      "score": 0.5251563638448715,
+      "text": "Tine may refer to: Tine (structural), a 'prong' on a fork or similar implement, or any similar structure Tine (company), the biggest dairy producer in Norway Tine (film), a 1964 Danish film Tine, Iran, a village in Mazandaran Province, Iran Tiné, a town in Chad near the Mourdi Depression Tine test, a medical test for tuberculosis Tine 2.0, an open source business software covering the software categories groupware and Customer Relationship Management Tine (race), an alien race in the novels A Fire Upon the Deep and The Children of the Sky Given name Tine Asmundsen (born 1963), Norwegian jazz musician Tine Baun (born 1979), Danish badminton player Tine Bossuyt (born 1980), Belgian Olympic swimmer Tine Bryld (1939–2011), Danish social worker and writer Tine Cederkvist (born 1979), Danish footballer Tine Debeljak (1903–1989), Slovenian literary critic and poet Tine De Caigny (born 1997), Belgian footballer Tine Eerlingen (born 1976), Belgian politician Tine Fischer, Danish film"
+    },
+    {
+      "chunk_id": "wikipedia:Italy#0000",
+      "doc_id": "wikipedia:Italy",
+      "title": "Italy",
+      "url": "https://en.wikipedia.org/?curid=14532",
+      "source_type": "wikipedia",
+      "score": 0.5173697590827941,
+      "text": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia. Italy shares land borders with France to the west; Switzerland and Austria to the north; Slovenia to the east; and the two enclaves of Vatican City and San Marino. It is the tenth-largest country in Europe by area, covering 301,340 km2 (116,350 sq mi), and the third-most populous member state of the European Union, with nearly 59 million inhabitants. Italy's capital and largest city is Rome; other major cities include Milan, Naples, Turin, Palermo, Bologna, Florence, Genoa, and Venice. The history of Italy goes back to numerous Italic peoples – notably including the ancient Romans, who conquered the Mediterranean world during the Roman Republic and ruled it for centuries during the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:Easy#0000",
+      "doc_id": "wikipedia:Easy",
+      "title": "Easy",
+      "url": "https://en.wikipedia.org/?curid=7445591",
+      "source_type": "wikipedia",
+      "score": 0.5051689803600311,
+      "text": "Easy is an adjective describing something that is not difficult to do. It may also refer to: Arts and entertainment Film and television Easy (2003 film), an American romantic comedy film Easy (2017 film), a comedy-drama film Easy!, or Scialla!, a 2011 Italian comedy film Easy (TV series), a 2016–2019 American comedy-drama anthology series Music Albums Easy (Easybeats album), 1965 Easy (Grant Green album), 1978 Easy (Grinspoon album), 1999 Easy (Kelly Willis album) or the title song, 2002 Easy (Marvin Gaye and Tammi Terrell album), 1969 Easy (Nancy Wilson album), 1968 Easy (Ralph McTell album), 1974 Easy, by Cowboy Mouth, 2000 EPs Easy (EP), by Le Sserafim, 2024 Songs \"Easy\" (Commodores song), 1977; covered by Faith No More, 1992 \"Easy\" (Camila Cabello song), 2019 \"Easy\" (Cro song), 2012 \"Easy\" (DaniLeigh song), 2019 \"Easy\" (Dragonette song), 2010 \"Easy\" (Ice MC song), 1989 \"Easy\" (Jvke song), 2025 \"Easy\" (KSI, Bugzy Malone and R3hab song), 2023 \"Easy\" (Le Sserafim song), 2024 \"Easy\""
+    },
+    {
+      "chunk_id": "wikipedia:Pisa#0000",
+      "doc_id": "wikipedia:Pisa",
+      "title": "Pisa",
+      "url": "https://en.wikipedia.org/?curid=24636",
+      "source_type": "wikipedia",
+      "score": 0.494792503118515,
+      "text": "Pisa ( PEE-zə; Italian: [ˈpiːza] or [ˈpiːsa]) is a city and comune (municipality) in Tuscany, Central Italy, straddling the Arno just before it empties into the Ligurian Sea. It is the capital city of the Province of Pisa. Although Pisa is known worldwide for the Leaning Tower of Pisa, the city contains more than twenty other historic churches, and several medieval and Renaissance palaces, mostly facing each other on the avenues along the Arno (\"Lungarno\"). Much of the city's architecture was financed from its history as one of the Italian maritime republics. The city is also home to the University of Pisa, which has a history going back to the 12th century, the Scuola Normale Superiore di Pisa, founded by Napoleon in 1810, and its offshoot, the Sant'Anna School of Advanced Studies. History Ancient times Most believe the hypothesis that the origin of the name Pisa comes from Etruscan and means 'mouth', as Pisa is at the mouth of the Arno river."
+    },
+    {
+      "chunk_id": "wikipedia:Never#0001",
+      "doc_id": "wikipedia:Never",
+      "title": "Never",
+      "url": "https://en.wikipedia.org/?curid=1433241",
+      "source_type": "wikipedia",
+      "score": 0.4675600081682205,
+      "text": "-sama and Evil Neuro, 2025 \"Never\", by Orbital from Wonky, 2012 \"Never\", by Ozzy Osbourne from The Ultimate Sin, 1986 \"Never\", by Paco from This Is Where We Live, 2004 \"Never\", by Sevendust from Next, 2005 \"Never (These Days)\", by Z-Ro, 2010 Places Never, Amur Oblast, a rural locality in Russia Never, Bryansk Oblast, a rural locality..."
+    },
+    {
+      "chunk_id": "wikipedia:Tine#0001",
+      "doc_id": "wikipedia:Tine",
+      "title": "Tine",
+      "url": "https://en.wikipedia.org/?curid=1389414",
+      "source_type": "wikipedia",
+      "score": 0.4573099762201309,
+      "text": "literary critic and poet Tine De Caigny (born 1997), Belgian footballer Tine Eerlingen (born 1976), Belgian politician Tine Fischer, Danish film executive, appointed head of the Danish Film Institute from August 2024 Tine Hribar (born 1941), Slovenian philosopher Tine Kavčič (born 1994), Slovenian footballer Tine Ladefoged (born 1977), Danish handball..."
+    },
+    {
+      "chunk_id": "wikipedia:Prophet#0001",
+      "doc_id": "wikipedia:Prophet",
+      "title": "Prophet",
+      "url": "https://en.wikipedia.org/?curid=24805",
+      "source_type": "wikipedia",
+      "score": 0.4548633396625519,
+      "text": "it means advocate or speaker. It is used to translate the Hebrew word נָבִיא (nāvî) in the Septuagint and the Arabic word نبي (nabī). W.F. Albright points to the Akkadian Nabu for the origin of these Hebrew (נָבִיא (nāvî) and the Arabic نبي (nabī) words. The Akkadian nabû means \"announcer\" or \"authorised person\", derived from the Semitic root n-b-y..."
+    },
+    {
+      "chunk_id": "wikipedia:Nice#0000",
+      "doc_id": "wikipedia:Nice",
+      "title": "Nice",
+      "url": "https://en.wikipedia.org/?curid=47088",
+      "source_type": "wikipedia",
+      "score": 0.4411874681711197,
+      "text": "Nice ( NEESS; French pronunciation: [nis] ) is a French city located in the prefecture of the Alpes-Maritimes department. The Nice agglomeration extends beyond the administrative city limits, with a population of nearly one million over an area of 744 km2 (287 sq mi). Located on the French Riviera, the southeastern coast of France on the Mediterranean Sea, at the foot of the French Alps, Nice is the second-largest French city on the Mediterranean coast and second-largest city in the Provence-Alpes-Côte d'Azur region after Marseille. It is approximately 13 kilometres (8 mi) from the principality of Monaco and 30 kilometres (19 mi) from the French–Italian border. Nice's airport serves as a gateway to the region. The city is nicknamed Nice la Belle (Nissa La Bella in Niçard), meaning 'Nice the Beautiful', which is also the title of the unofficial anthem of Nice, written by Menica Rondelly."
+    },
+    {
+      "chunk_id": "wikipedia:The Three Faces#0000",
+      "doc_id": "wikipedia:The Three Faces",
+      "title": "The Three Faces",
+      "url": "https://en.wikipedia.org/?curid=23666731",
+      "source_type": "wikipedia",
+      "score": 0.4156180381774902,
+      "text": "The Three Faces (Italian: I tre volti) is a 1965 Italian anthology film consisting of three segments directed by Michelangelo Antonioni, Mauro Bolognini, and Franco Indovina, starring Soraya either as herself or in fictitious roles. Cast \"Il provino\" Soraya as Herself Ivano Davoli as Davoli - Journalist Alfredo De Laurentiis as Himself Dino De Laurentiis as Himself Piero Tosi as Costumista Giorgio Sartarelli as Fotografo Ralph Serpe as Produttore \"Gli amanti celebri\" Soraya as Linda Richard Harris as Robert Jean Rougeul as Speaker Esmeralda Ruspoli as Edda José Luis de Vilallonga as Rodolph \"Latin Lover\" Soraya as Mrs Melville Alberto Sordi as Armando Tucci Nando Angelini as Fernando Angeli Goffredo Alessandrini as Direttore dell'agenzia Alberto Giubilo as 2nd journalist in Fiumicino Renato Tagliani Background According to Antonioni, producer De Laurentiis had imposed severe cuts on his segment, which in the theatrically released version served as a \"preface\" (Italian \"prefazione\") to"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Guy Fieri is in a bowl of spaghetti with his mouth wide open.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Guy Fieri",
+          "spaghetti",
+          "his mouth"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is making fun of the Elf on a Shelf meme by making their own with Guy Fieri in spaghetti.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "fun",
+          "the Elf",
+          "Guy Fieri",
+          "spaghetti"
+        ]
+      },
+      "title": {
+        "text": "Its Italian",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "its",
+          "italian"
+        ]
+      },
+      "text": {
+        "text": "Neuve he a Now getreadyfor | re on one ady f ash So , a or elf Mee OPE. Sg ws oe fhe A “sey ees : VY NM Wg K y, BBP WAS NWI es Beg A Og) NEES tyes. Eee [Pee PEP eee Nc",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Neuve",
+          "one ady f ash",
+          "Eee",
+          "[Pee PEP eee Nc"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "its",
+      "italian",
+      "Neuve",
+      "one ady f ash",
+      "Eee",
+      "[Pee PEP eee Nc"
+    ],
+    "secondary_terms": [
+      "Guy Fieri",
+      "spaghetti",
+      "his mouth",
+      "fun",
+      "the Elf"
+    ],
+    "queries": [
+      "\"Elf\" \"Pee PEP eee Nc\" \"one ady f ash\" \"Neuve\" \"Eee\"",
+      "\"Neuve\" \"Eee\" \"its\" \"italian\""
+    ]
+  },
+  "source_jsonl_id": null
+}

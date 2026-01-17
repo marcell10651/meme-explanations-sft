@@ -1,0 +1,184 @@
+{
+  "meme_id": "meme_01222",
+  "queries": [
+    "\"Twitter\" \"Oh how the turn\" \"an extremely dangerous attack\" \"our democracy\" \"tables\"",
+    "\"our democracy\" \"tables\" \"turn\" \"whatever\""
+  ],
+  "primary_terms": [
+    "Oh how the turn",
+    "tables",
+    "turn",
+    "whatever",
+    "an extremely dangerous attack",
+    "our democracy"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Table#0000",
+      "doc_id": "wikipedia:Table",
+      "title": "Table",
+      "url": "https://en.wikipedia.org/?curid=274698",
+      "source_type": "wikipedia",
+      "score": 0.7118841916322708,
+      "text": "Table may refer to: Table (database), how the table data arrangement is used within the databases Table (furniture), a piece of furniture with a flat surface and one or more legs Table (information), a data arrangement with rows and columns Table (landform), a flat area of land Table (parliamentary procedure) Table (sports), a ranking of the teams in a sports league Tables (board game) Mathematical table Tables of the skull, a term for the flat bones Table, surface of the sound board (music) of a string instrument Al-Ma'ida, the fifth surah of the Qur'an, occasionally translated as “The Table” Calligra Tables, a spreadsheet application Water table See also Spreadsheet, a computer application Table cut, a type of diamond cut The Table (disambiguation) Table Mountain (disambiguation) Table Rock (disambiguation) Tabler (disambiguation) Tablet (disambiguation) All pages with titles beginning with Table All pages with titles containing Table All pages with titles beginning with Tabular All"
+    },
+    {
+      "chunk_id": "wikipedia:Two Whatevers#0000",
+      "doc_id": "wikipedia:Two Whatevers",
+      "title": "Two Whatevers",
+      "url": "https://en.wikipedia.org/?curid=539766",
+      "source_type": "wikipedia",
+      "score": 0.6462082624435425,
+      "text": "The \"Two Whatevers\" (Chinese: 两个凡是; pinyin: Liǎng gè fán shì) refers to the statement that \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\" (凡是毛主席作出的决策，我们都坚决维护；凡是毛主席的指示，我们都始终不渝地遵循). This statement was contained in a joint editorial, entitled \"Study the Documents Well and Grasp the Key Link\", printed on 7 February 1977 in People's Daily, the journal Red Flag and the PLA Daily. History The policy was advocated by the Chinese Communist Party chairman Hua Guofeng, Mao's successor, who had earlier ended the Cultural Revolution and arrested the Gang of Four. On a 7 February 1977 editorial titled \"Study the Documents Well and Grasp the Key Link\" which appeared in People's Daily, Red Flag, and People's Liberation Army Daily, Hua articulated the \"Two Whatevers\" slogan: \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\"."
+    },
+    {
+      "chunk_id": "wikipedia:Politics#0001",
+      "doc_id": "wikipedia:Politics",
+      "title": "Politics",
+      "url": "https://en.wikipedia.org/?curid=22986",
+      "source_type": "wikipedia",
+      "score": 0.606085479259491,
+      "text": "it should be used extensively or in a limited way, empirically or normatively, and on whether conflict or co-operation is more essential to it. A variety of methods are deployed in politics, which include promoting one's own political views among people, negotiation with other political subjects, making laws, and exercising internal and external force, including warfare against adversaries. Politics is exercised on a wide range of social levels, from clans and tribes of traditional societies, through modern local governments, companies and institutions up to sovereign..."
+    },
+    {
+      "chunk_id": "wikipedia:Propaganda#0001",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 0.5437117218971252,
+      "text": "which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites. More recently, the digital age has given rise to new ways of disseminating propaganda, for example, in computational propaganda, bots and algorithms are used to manipulate public opinion, e.g., by creating fake or biased news to spread it on social media or using chatbots to mimic real people in discussions..."
+    },
+    {
+      "chunk_id": "wikipedia:Success#0001",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.4837581664323807,
+      "text": "a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness. It may also be difficult or impossible to ascertain whether a situation meets criteria for success or failure due to ambiguous or ill-defined definition of those criteria. Finding useful and effective criteria, or heuristics, to judge the failure or success of a situation may itself be a significant task. In American culture DeVitis and Rich link the..."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0001",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.4686995893716812,
+      "text": "by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\". Angered by the suicide of a student who is mocked and refused a loan for her studies, they eventually kill the corrupt bank manager who abetted it. Soon enough, more corrupt individuals are killed, and Rajan Mathew is reinstated as S.P. to nab the group. The team learn..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.43746134638786316,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Pars#0000",
+      "doc_id": "wikipedia:Pars",
+      "title": "Pars",
+      "url": "https://en.wikipedia.org/?curid=531002",
+      "source_type": "wikipedia",
+      "score": 0.3954337239265442,
+      "text": "Pars may refer to: Fars province of Iran, also known as Pars Province Pars (Sasanian province), a province roughly corresponding to the present-day Fars, 224–651 Pars, for Persia or Iran, in the Persian language Pars News Agency, former name of Iranian news agency Pars-e Jonubi (disambiguation), villages in Iran FNSS Pars, a Turkish wheeled armoured vehicle Pars (surname) Pars interarticularis, in spinal anatomy The Pars, nickname for Dunfermline Athletic Football Club PARS may refer to: Point-a-rally scoring in the game of squash Pakistan Amateur Radio Society Programmed Airline Reservations System Russian Mission Airport. Alaska, US, ICAO location indicator Pre-arrival Review System for import into Canada PARS 3 LR, a German anti-tank missile See also Parsa (disambiguation) Fars (disambiguation) Persia (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Together#0000",
+      "doc_id": "wikipedia:Together",
+      "title": "Together",
+      "url": "https://en.wikipedia.org/?curid=341237",
+      "source_type": "wikipedia",
+      "score": 0.3909001797437668,
+      "text": "Together may refer to: Literature Together (book), a 2005 children's book by Dimitrea Tokunbo and Jennifer Gwynne Oliver Together (magazine), an international lifestyle magazine Organizations Together for Mental Wellbeing, a UK mental health charity Together campaign, by US cities, to help consumers fight climate change Together (Australia), a trade union in the state of Queensland, Australia Spolu (Czech Republic) (Together), a centre-right coalition of parties in the Czech Republic Together (Belarus), opposition liberal unregistered party of Belarus Together (political bloc), a pro-European political bloc in Moldova Together (Hungary), a social-liberal political party in Hungary Together (Italy), a progressive coalition of parties in Italy Together (Serbia), a green political party in Serbia Together for Serbia, defunct political party in Serbia Ensemble!"
+    },
+    {
+      "chunk_id": "wikipedia:Joe Biden#0000",
+      "doc_id": "wikipedia:Joe Biden",
+      "title": "Joe Biden",
+      "url": "https://en.wikipedia.org/?curid=145422",
+      "source_type": "wikipedia",
+      "score": 0.3826167434453964,
+      "text": "Joseph Robinette Biden Jr. (born November 20, 1942) is an American politician who was the 46th president of the United States from 2021 to 2025. A member of the Democratic Party, he represented Delaware in the United States Senate from 1973 to 2009 and also served as the 47th vice president under President Barack Obama from 2009 to 2017. Born in Scranton, Pennsylvania, Biden graduated from the University of Delaware in 1965 and the Syracuse University College of Law in 1968. He was elected to the New Castle County Council in 1970 and the U.S. Senate in 1972. As a senator, Biden chaired the Senate Judiciary Committee and Foreign Relations Committee. He drafted and led passage of the Violent Crime Control and Law Enforcement Act and the Violence Against Women Act. Biden also oversaw six U.S. Supreme Court confirmation hearings, including contentious hearings for Robert Bork and Clarence Thomas. He opposed the Gulf War in 1991 but voted in favor of the Iraq War Resolution in 2002."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "This is a picture of a man displacing drawing that he did.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey the hypocrisy of people were content with Twitter being a private company until Elon Musk bought it.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the hypocrisy",
+          "people",
+          "Twitter",
+          "Elon Musk"
+        ]
+      },
+      "title": {
+        "text": "Oh how the turn...tables...",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Oh how the turn",
+          "tables",
+          "turn"
+        ]
+      },
+      "text": {
+        "text": "an NA (4 ny —< —_ => «ai } ae cr ° 4) Private company, bro, does whatever it wants. aa ran | | oe WF WE , % WN X _ x | =< <= Ts A fo This is an extremely dangerous attack on our democracy!!!",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "whatever",
+          "an extremely dangerous attack",
+          "our democracy"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Oh how the turn",
+      "tables",
+      "turn",
+      "whatever",
+      "an extremely dangerous attack",
+      "our democracy"
+    ],
+    "secondary_terms": [
+      "the hypocrisy",
+      "people",
+      "Twitter",
+      "Elon Musk"
+    ],
+    "queries": [
+      "\"Twitter\" \"Oh how the turn\" \"an extremely dangerous attack\" \"our democracy\" \"tables\"",
+      "\"our democracy\" \"tables\" \"turn\" \"whatever\""
+    ]
+  },
+  "source_jsonl_id": null
+}

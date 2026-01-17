@@ -1,0 +1,211 @@
+{
+  "meme_id": "meme_02468",
+  "queries": [
+    "\"The two groups\" \"the perfect plan\" \"the other group\" \"each group\"",
+    "\"the other group\" \"each group\" \"two\" \"groups\""
+  ],
+  "primary_terms": [
+    "The two groups",
+    "the perfect plan",
+    "two",
+    "groups",
+    "don",
+    "know",
+    "each",
+    "other",
+    "perfect",
+    "plan",
+    "each group",
+    "friends",
+    "the other group",
+    "your weekend"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Group#0000",
+      "doc_id": "wikipedia:Group",
+      "title": "Group",
+      "url": "https://en.wikipedia.org/?curid=25874441",
+      "source_type": "wikipedia",
+      "score": 1.1085836052894593,
+      "text": "A group is a number of persons or things that are located, gathered, or classed together. Groups of people Cultural group, a group whose members share the same cultural identity Ethnic group, a group whose members share the same ethnic identity Religious group (disambiguation), a group whose members share the same religious identity Social group, a group whose members share the same social identity Tribal group, a group whose members share the same tribal identity Organization, an entity that has a collective goal and is linked to an external environment Peer group, an entity of three or more people with similar age, ability, experience, and interest Class (education), a group of people which attends a specific course or lesson at an educational institution Social science In-group and out-group Primary, secondary, and reference groups Social group Collectives Philosophy and religion Khandha, a Buddhist concept of five material and mental factors that take part in the rise of craving"
+    },
+    {
+      "chunk_id": "wikipedia:Others#0000",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.8449244856834411,
+      "text": "Others or The Others may refer to: Fictional characters Others (A Song of Ice and Fire), supernatural creatures in the fictional world of George R. R. Martin's fantasy series A Song of Ice and Fire Others (Lost), mysterious inhabitants of a strange island in the South Pacific in the television series Lost Others (Night Watch), a fictional group of people with supernatural abilities in Sergey Lukyanenko's Watches novel pentalogy The Others (Vok), a character from the Beast Wars franchise The Others, a reference to Cro-Magnon peoples in Jean M. Auel's Earth's Children series The Others, a group of allies of Aquaman in comics, introduced in 2012 and featured in a 2014 series The Others, the Ancients who have achieved Ascension in the Stargate universe The Others, a series of alien extraterrestrial species from The 5th Wave novels and film Films The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001"
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.7999932527542114,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    },
+    {
+      "chunk_id": "wikipedia:Society#0000",
+      "doc_id": "wikipedia:Society",
+      "title": "Society",
+      "url": "https://en.wikipedia.org/?curid=37235",
+      "source_type": "wikipedia",
+      "score": 0.7635376274585723,
+      "text": "A society () is a group of individuals involved in persistent social interaction or a large social group sharing the same spatial or social territory, typically subject to the same political authority and dominant cultural expectations. Societies are characterized by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions; a given society may be described as the sum total of such relationships among its constituent members. Human social structures are complex and highly cooperative, featuring the specialization of labor via social roles. Societies construct roles and other patterns of behavior by deeming certain actions or concepts acceptable or unacceptable—these expectations around behavior within a given society are known as societal norms. So far as it is collaborative, a society can enable its members to benefit in ways that would otherwise be difficult on an individual basis."
+    },
+    {
+      "chunk_id": "wikipedia:Others#0001",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.756019926071167,
+      "text": "The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001 film), a 2001 film by Alejandro Amenábar, starring Nicole Kidman Literature Others, a 1999 novel by James Herbert Others: A Magazine of the New Verse, a literary magazine edited by Alfred..."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0001",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.7279075741767883,
+      "text": "Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A. Applegate The Other (Tryon novel), a 1971 horror novel by Tom Tryon \"The Other\" (short story), a 1972 short story by Jorge Luis Borges The Other, a 2008 novel by David Guterson Spider-Man: \"The Other\", a 2005–2006..."
+    },
+    {
+      "chunk_id": "wikipedia:Group#0001",
+      "doc_id": "wikipedia:Group",
+      "title": "Group",
+      "url": "https://en.wikipedia.org/?curid=25874441",
+      "source_type": "wikipedia",
+      "score": 0.7212395668029785,
+      "text": "Social group Collectives Philosophy and religion Khandha, a Buddhist concept of five material and mental factors that take part in the rise of craving and clinging Science and technology Mathematics Group (mathematics), a set together with a binary operation satisfying certain algebraic conditions Chemistry Functional..."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0000",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.6807671248912811,
+      "text": "Other often refers to: Other (philosophy), a concept in psychology and philosophy Other or The Other may also refer to: Film and television The Other (1913 film), a German silent film directed by Max Mack The Other (1930 film), a German film directed by Robert Wiene The Other (1947 film), an Italian film directed by Carlo Ludovico Bragaglia The Other (1972 film), an American film directed by Robert Mulligan The Other (1999 film), a French-Egyptian film directed by Youssef Chahine The Other (2007 film), an Argentine-French-German film by Ariel Rotter The Other (2025 film), an American film directed by Paul Etheredge Other (film), a French/Belgian film directed by David Moreau The Other (Doctor Who), a fictional character in Doctor Who The Other (Marvel Cinematic Universe), a fictional character in the Marvel Cinematic Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A."
+    },
+    {
+      "chunk_id": "wikipedia:Another Man, Another Chance#0000",
+      "doc_id": "wikipedia:Another Man, Another Chance",
+      "title": "Another Man, Another Chance",
+      "url": "https://en.wikipedia.org/?curid=17874058",
+      "source_type": "wikipedia",
+      "score": 0.67502201795578,
+      "text": "Another Man, Another Chance (Un autre homme, une autre chance, UK title: Another Man, Another Woman) is a 1977 French western film directed by Claude Lelouch. Plot France in 1870: Napoleon III has just lost the war against Prussia and left the country in poverty. Young Jeanne (Geneviève Bujold) falls in love with photographer Francis (Francis Huster), who soon takes her with him when he emigrates to The United States. In a small town in the still Wild West, they build up a small photo shop. Meanwhile, animal doctor David (James Caan) lives on his lonesome farm with his wife. It takes two years and two tragic accidents until Jeanne and David meet. Alone with a child, Jeanne has decided to return to France and is about to leave but then she and David silently and carefully fall in love for the second time in their lives and hope returns."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0000",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.6599102586507797,
+      "text": "Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth. The game allows for cross-platform play; it was released on iOS and Android devices in June 2018 and on Windows later that year in November. It was ported to the Nintendo Switch in December 2020 and on the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in December 2021. A virtual reality adaptation, Among Us VR, was released on November 10, 2022. Among Us takes place in space-themed settings where players are colorful, armless cartoon astronauts. Each player takes on one of two roles: most are Crewmates, but a small number are Impostors. Crewmates work to complete assigned tasks in the game while identifying and voting out suspected Impostors (who appear identical to Crewmates) using social deduction, while Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The character is scared of something.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The character",
+          "something"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they lie to each group of friends to get out of hanging out with both groups.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "each group",
+          "friends",
+          "both groups"
+        ]
+      },
+      "title": {
+        "text": "The two groups don't know each other, the perfect plan",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The two groups",
+          "the perfect plan",
+          "two",
+          "groups",
+          "don",
+          "know",
+          "each",
+          "other",
+          "perfect",
+          "plan"
+        ]
+      },
+      "text": {
+        "text": "Telling each group of friends you are going out with the other group so you can enjoy your weekend alone at home - | wes = )) J} madejwith{mematic) = | \\",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "each group",
+          "friends",
+          "the other group",
+          "your weekend"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "The two groups",
+      "the perfect plan",
+      "two",
+      "groups",
+      "don",
+      "know",
+      "each",
+      "other",
+      "perfect",
+      "plan",
+      "each group",
+      "friends",
+      "the other group",
+      "your weekend"
+    ],
+    "secondary_terms": [
+      "The character",
+      "something",
+      "each group",
+      "friends",
+      "both groups"
+    ],
+    "queries": [
+      "\"The two groups\" \"the perfect plan\" \"the other group\" \"each group\"",
+      "\"the other group\" \"each group\" \"two\" \"groups\""
+    ]
+  },
+  "source_jsonl_id": null
+}

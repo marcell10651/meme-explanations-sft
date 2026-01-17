@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_00671",
+  "queries": [
+    "\"Two\" \"finger accuracy\" \"finger\" \"accuracy\" \"meat\"",
+    "\"accuracy\" \"meat\" \"tongue\" \"informing\""
+  ],
+  "primary_terms": [
+    "finger accuracy",
+    "finger",
+    "accuracy",
+    "meat",
+    "tongue",
+    "informing",
+    "exact",
+    "location",
+    "stuck",
+    "tooth"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Tongue#0001",
+      "doc_id": "wikipedia:Tongue",
+      "title": "Tongue",
+      "url": "https://en.wikipedia.org/?curid=55999",
+      "source_type": "wikipedia",
+      "score": 0.6705137252807617,
+      "text": "the tongue's surface. There are two groups of glossal muscles. The four intrinsic muscles alter the shape of the tongue and are not attached to bone. The four paired extrinsic muscles change the position of the tongue and are anchored to bone. Etymology The word tongue derives from the Old English tunge, which comes from Proto-Germanic *tungōn. It has cognates in other Germanic..."
+    },
+    {
+      "chunk_id": "wikipedia:Finger#0000",
+      "doc_id": "wikipedia:Finger",
+      "title": "Finger",
+      "url": "https://en.wikipedia.org/?curid=37618",
+      "source_type": "wikipedia",
+      "score": 0.5500303268432617,
+      "text": "A finger is a prominent digit on the forelimbs of most tetrapod vertebrate animals, especially those with prehensile extremities (i.e. hands) such as humans and other primates. Most tetrapods have five digits (pentadactyly), and short digits (i.e. significantly shorter than the metacarpal/metatarsals) are typically referred to as toes, while those that are notably elongated are called fingers. In humans, the fingers are flexibly articulated and opposable, serving as an important organ of tactile sensation and fine movements, which are crucial to the dexterity of the hands and the ability to grasp and manipulate objects Humans Usually humans have five digits, the bones of which are termed phalanges, on each hand, although some people have more or fewer than five due to congenital disorders such as polydactyly or oligodactyly, or accidental or intentional amputations. The first digit is the thumb, followed by the index finger, middle finger, ring finger, and little finger or pinkie."
+    },
+    {
+      "chunk_id": "wikipedia:Hand#0000",
+      "doc_id": "wikipedia:Hand",
+      "title": "Hand",
+      "url": "https://en.wikipedia.org/?curid=19166474",
+      "source_type": "wikipedia",
+      "score": 0.5451521933078766,
+      "text": "A hand is a prehensile, multi-fingered appendage located at the end of the forearm or forelimb of primates such as humans, chimpanzees, monkeys, and lemurs. A few other vertebrates such as the koala (which has two opposable thumbs on each \"hand\" and fingerprints extremely similar to human fingerprints) are often described as having \"hands\" instead of paws on their front limbs. The raccoon is usually described as having \"hands\" though opposable thumbs are lacking. Some evolutionary anatomists use the term hand to refer to the appendage of digits on the forelimb more generally—for example, in the context of whether the three digits of the bird hand involved the same homologous loss of two digits as in the dinosaur hand. The human hand usually has five digits: four fingers plus one thumb; however, these are often referred to collectively as five fingers, whereby the thumb is included as one of the fingers."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0000",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.5411134272813797,
+      "text": "A restaurant is a business that prepares and serves food and beverages to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, featuring a wide variety of cuisines and service models — ranging from inexpensive fast-food restaurants and cafeterias to mid-priced family restaurants to high-priced luxury establishments. Etymology The word derives from the early 19th century, taken from the French word restaurer 'provide meat for', literally 'restore to a former state' and, being the present participle of the verb, the term restaurant may have been used in 1507 as a \"restorative beverage\", and in correspondence in 1521 to mean 'that which restores the strength, a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt."
+    },
+    {
+      "chunk_id": "wikipedia:Hand#0001",
+      "doc_id": "wikipedia:Hand",
+      "title": "Hand",
+      "url": "https://en.wikipedia.org/?curid=19166474",
+      "source_type": "wikipedia",
+      "score": 0.4902847170829773,
+      "text": "four fingers plus one thumb; however, these are often referred to collectively as five fingers, whereby the thumb is included as one of the fingers. It has 27 bones, not including the sesamoid bone, the number of which varies among people, 14 of which are the phalanges (proximal, intermediate and distal) of the fingers and thumb. The metacarpal bones connect the fingers and the carpal bones of the wrist. Each human hand has five..."
+    },
+    {
+      "chunk_id": "wikipedia:Finger#0001",
+      "doc_id": "wikipedia:Finger",
+      "title": "Finger",
+      "url": "https://en.wikipedia.org/?curid=37618",
+      "source_type": "wikipedia",
+      "score": 0.48587349653244016,
+      "text": "or intentional amputations. The first digit is the thumb, followed by the index finger, middle finger, ring finger, and little finger or pinkie. According to different definitions, the thumb can be called a finger, or not. English dictionaries describe finger as meaning either one of the five digits including the thumb, or one of the four digits..."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0001",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.48255491256713867,
+      "text": "a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt. It served only one dish, a plate of cereal, wildfowl, and onions. A forerunner for the modern restaurant is the thermopolium, an establishment in Ancient Greece or Ancient Rome that sold and served ready-to-eat food and beverages. These establishments..."
+    },
+    {
+      "chunk_id": "wikipedia:Drinking#0001",
+      "doc_id": "wikipedia:Drinking",
+      "title": "Drinking",
+      "url": "https://en.wikipedia.org/?curid=66254",
+      "source_type": "wikipedia",
+      "score": 0.469035929441452,
+      "text": "hands or drinkware may be used as vessels. Drinking can also be by sipping or sucking, typically when imbibing hot liquids or drinking from a spoon. Infants employ a method of suction wherein the lips are pressed tight around a source, as in breastfeeding: a combination of breath and tongue movement creates a vacuum which draws in liquid. In other land mammals By necessity, terrestrial animals in..."
+    },
+    {
+      "chunk_id": "wikipedia:Accent#0001",
+      "doc_id": "wikipedia:Accent",
+      "title": "Accent",
+      "url": "https://en.wikipedia.org/?curid=193493",
+      "source_type": "wikipedia",
+      "score": 0.45694372057914734,
+      "text": "on a particular area or object Accent Records, a record label ACCENT Speakers Bureau, a student-run organization at the University of Florida Ac'cent, brand name for monosodium glutamate (MSG) See also All pages with titles beginning with Accent All pages with titles containing Accent Accenture, company Accentor, a bird..."
+    },
+    {
+      "chunk_id": "wikipedia:Food#0000",
+      "doc_id": "wikipedia:Food",
+      "title": "Food",
+      "url": "https://en.wikipedia.org/?curid=10646",
+      "source_type": "wikipedia",
+      "score": 0.44904445111751556,
+      "text": "Food is any substance consumed by an organism for nutritional support. Food usually consists of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or support growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill specific ecological niches within specific geographical contexts. Omnivorous humans are highly adaptable and have adapted to obtaining food in many different ecosystems. Humans generally use cooking to prepare food for consumption. The majority of the food energy required is supplied by the industrial food industry, which produces food through intensive agriculture and distributes it through complex food processing and food distribution systems."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "meme_id": "meme_01799",
+  "queries": [
+    "\"Mothers\" \"WMaTEN\" \"mum\" \"tie\"",
+    "\"WMaTEN\" \"Mothers\" \"their kids\" \"their usernames\"",
+    "\"their kids\" \"their usernames\" \"mum\" \"tie\""
+  ],
+  "primary_terms": [
+    "Your mum",
+    "mum",
+    "Your UsarmnEnne",
+    "tie",
+    "WMaTEN"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Family#0000",
+      "doc_id": "wikipedia:Family",
+      "title": "Family",
+      "url": "https://en.wikipedia.org/?curid=10401954",
+      "source_type": "wikipedia",
+      "score": 1.0504859745502473,
+      "text": "Family (from Latin: familia) is a group of people related either by consanguinity (by recognized birth) or affinity (by marriage or other relationship). It forms the basis for social order. Ideally, families offer predictability, structure, and safety as members mature and learn to participate in the community. Historically, most human societies use family as the primary purpose of attachment, nurturance, and socialization. Anthropologists classify most family organizations as matrifocal (a mother and her children), patrifocal (a father and his children), conjugal (a married couple with children, also called the nuclear family), avuncular (a man, his sister, and her children), or extended (in addition to parents, spouse and children, may include grandparents, aunts, uncles, or cousins). The field of genealogy aims to trace family lineages through history. The family is also an important economic unit studied in family economics."
+    },
+    {
+      "chunk_id": "wikipedia:Daughter#0000",
+      "doc_id": "wikipedia:Daughter",
+      "title": "Daughter",
+      "url": "https://en.wikipedia.org/?curid=449913",
+      "source_type": "wikipedia",
+      "score": 0.9045066893100738,
+      "text": "A daughter is a female offspring; a girl or a woman in relation to her parents. Daughterhood is the state, condition or quality of being someone's daughter. The male counterpart is a son. Analogously the name is used in several areas to show relations between groups or elements. From biological perspective, a daughter is a first degree relative. The word daughter also has several other connotations attached to it, one of these being used in reference to a female descendant or consanguinity. It can also be used as a term of endearment coming from an elder. In patriarchal societies, daughters often have different or lesser familial rights than sons. A family may prefer to have sons rather than daughters and subject daughters to female infanticide. In some societies, it is the custom for a daughter to be 'sold' to her husband, who must pay a bride price."
+    },
+    {
+      "chunk_id": "wikipedia:Mama#0000",
+      "doc_id": "wikipedia:Mama",
+      "title": "Mama",
+      "url": "https://en.wikipedia.org/?curid=383334",
+      "source_type": "wikipedia",
+      "score": 0.8890223503112793,
+      "text": "Mama(s) or Mamma or Momma may refer to: Roles Mother, a female parent Mama-san, in Japan and East Asia, a woman in a position of authority Maternal uncle, in some parts of South Asia Places Mama, Russia, an urban-type settlement in the Mamsko-Chuysky District of Irkutsk Oblast, Russia Mama Airport, an airport located near the settlement Mama (river), a tributary of the Vitim of which the settlement takes its name Mama Municipality, Yucatán, a municipality Mama, Yucatán, the municipal seat of the Mama Municipality, Yucatán Anatomy The breast, the upper ventral region of a mammal's torso; see: Mamma (anatomy) of humans Mammary gland of female mammals Udder of female quadruped mammals Art, entertainment, and media People and fictional characters Big Bad Mama, stage name of Lynn Braxton, professional wrestler from the Gorgeous Ladies of Wrestling Big Mama, former manager of American professional wrestler Jimmy Valiant (born 1942) Gemma Teller Morrow, a character on The Sons of Anarchy"
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.8868762254714966,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Daughter#0001",
+      "doc_id": "wikipedia:Daughter",
+      "title": "Daughter",
+      "url": "https://en.wikipedia.org/?curid=449913",
+      "source_type": "wikipedia",
+      "score": 0.8864750772714615,
+      "text": "subject daughters to female infanticide. In some societies, it is the custom for a daughter to be 'sold' to her husband, who must pay a bride price. The reverse of this custom, where the parents pay the husband a sum of money to compensate for the financial burden of the woman and is known as a dowry. The payment of a dowry can be found in societies where women do not labour outside the home. Perception In the United States, the birth rate is 105 sons to 100 daughters which..."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0001",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.8793882191181183,
+      "text": "preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child. The adjective \"paternal\" refers to a father and comparatively to \"maternal\" for a mother. The verb \"to father\" means to procreate or to sire a child from which also derives the noun \"fathering\". Biological fathers determine the sex of their child through a sperm cell..."
+    },
+    {
+      "chunk_id": "wikipedia:Mama#0001",
+      "doc_id": "wikipedia:Mama",
+      "title": "Mama",
+      "url": "https://en.wikipedia.org/?curid=383334",
+      "source_type": "wikipedia",
+      "score": 0.8384656310081482,
+      "text": "Wrestling Big Mama, former manager of American professional wrestler Jimmy Valiant (born 1942) Gemma Teller Morrow, a character on The Sons of Anarchy television show, called \"Mama\" by her lover Nero Padilla Mama Fratelli, a character in the 1985 American adventure comedy The Goonies Mama Maybelle Harper, a character in the..."
+    },
+    {
+      "chunk_id": "wikipedia:Uncle#0000",
+      "doc_id": "wikipedia:Uncle",
+      "title": "Uncle",
+      "url": "https://en.wikipedia.org/?curid=24306566",
+      "source_type": "wikipedia",
+      "score": 0.7820995301008224,
+      "text": "An uncle is usually defined as a male relative who is a sibling of a parent or married to a sibling of a parent, as well as the parent of the cousins. Uncles who are related by birth are second-degree relatives. The female counterpart of an uncle is an aunt, and the reciprocal relationship is that of a nephew or niece. The word comes from Latin: avunculus, the diminutive of avus (grandfather), and is a family relationship within an extended or immediate family. A popular colloquial term in English is Unc. In some cultures and families, children may refer to the cousins of their parents as uncle (or aunt). It is also used as a title of respect for older relatives, neighbours, acquaintances, family friends, and even total strangers in some cultures, for example Aboriginal Australian elders. Using the term in this way is a form of fictive kinship."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0000",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.7727762520313263,
+      "text": "A father, dad, or daddy is the male parent of a child. Besides the paternal bonds of a father to his child or children, fathers may have a parental, legal, and social relationship with their child or children that carries with it certain rights and obligations. A biological father is the male genetic contributor to the creation of the child, through sexual intercourse or sperm donation. A biological father may have legal obligations to a child not raised by him, such as an obligation of monetary support. An adoptive father is a man who has become the child's parent through the legal process of adoption. A putative father is a man whose biological relationship to a child is alleged but has not been established. A stepfather is a non-biological male parent married to a child's preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child."
+    },
+    {
+      "chunk_id": "wikipedia:Family#0001",
+      "doc_id": "wikipedia:Family",
+      "title": "Family",
+      "url": "https://en.wikipedia.org/?curid=10401954",
+      "source_type": "wikipedia",
+      "score": 0.7726941853761673,
+      "text": ". The field of genealogy aims to trace family lineages through history. The family is also an important economic unit studied in family economics. The word \"families\" can be used metaphorically to create more inclusive categories such as community, nationhood, and global village. Social One of the primary functions of the family involves providing a framework for the production and reproduction of..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A woman is sitting down smiling in front of a colorful background.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "front"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that Mothers love their kids for their usernames.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Mothers",
+          "their kids",
+          "their usernames"
+        ]
+      },
+      "title": {
+        "text": "Your mum",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Your mum",
+          "mum"
+        ]
+      },
+      "text": {
+        "text": "Your UsarmnEnne IS tie (E2S50R YOUTMUMILOVES p70 WMaTEN, - | ‘ so | Ne . | . ; a oS ( nN ; “YS Wy SLUT UY Can",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Your UsarmnEnne",
+          "tie",
+          "WMaTEN"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Your mum",
+      "mum",
+      "Your UsarmnEnne",
+      "tie",
+      "WMaTEN"
+    ],
+    "secondary_terms": [
+      "front",
+      "Mothers",
+      "their kids",
+      "their usernames"
+    ],
+    "queries": [
+      "\"Mothers\" \"WMaTEN\" \"mum\" \"tie\"",
+      "\"WMaTEN\" \"Mothers\" \"their kids\" \"their usernames\"",
+      "\"their kids\" \"their usernames\" \"mum\" \"tie\""
+    ]
+  },
+  "source_jsonl_id": null
+}

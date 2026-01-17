@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_00961",
+  "queries": [
+    "\"all useful things\" \"Elmo\" \"Students\" \"his head\"",
+    "\"Students\" \"his head\" \"the desk\" \"the bottom\""
+  ],
+  "primary_terms": [
+    "its",
+    "not",
+    "bad",
+    "Students",
+    "Alietuseiell",
+    "yen",
+    "Wee"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.7210692793130875,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Head#0000",
+      "doc_id": "wikipedia:Head",
+      "title": "Head",
+      "url": "https://en.wikipedia.org/?curid=1209545",
+      "source_type": "wikipedia",
+      "score": 0.6905645787715912,
+      "text": "A head is the part of an organism which usually includes the ears, brain, forehead, cheeks, chin, eyes, nose, and mouth, each of which aid in various sensory functions such as sight, hearing, smell, and taste. Some very simple animals may not have a head, but many bilaterally symmetric forms do, regardless of size. Heads develop in animals by an evolutionary trend known as cephalization. In bilaterally symmetrical animals, nervous tissue concentrate at the anterior region, forming structures responsible for information processing. Through biological evolution, sense organs and feeding structures also concentrate into the anterior region; these collectively form the head. Human head The human head is an anatomical unit that consists of the skull, hyoid bone and cervical vertebrae. The skull consists of the brain case which encloses the cranial cavity, and the facial skeleton, which includes the mandible. There are eight bones in the brain case and fourteen in the facial skeleton."
+    },
+    {
+      "chunk_id": "wikipedia:Diligence#0000",
+      "doc_id": "wikipedia:Diligence",
+      "title": "Diligence",
+      "url": "https://en.wikipedia.org/?curid=18483349",
+      "source_type": "wikipedia",
+      "score": 0.6753735065460205,
+      "text": "Diligence—carefulness and persistent effort or work—is listed as one of the seven capital virtues. It can be indicative of a work ethic, the belief that work is good in itself. \"There is a perennial nobleness, and even sacredness, in work. Were he never so benighted, forgetful of his high calling, there is always hope in a man that actually and earnestly works: in idleness alone there is perpetual despair.\" —Thomas Carlyle In students Bernard et al. define diligence in students as the effort they put toward balanced and holistic development in mental, physical, social, and spiritual dimensions. They find that it correlates with academic performance, especially with younger students, and that the support of parents and educators encourages students to be diligent. Other factors that encourage student diligence include motivation, discipline, concentration, responsibility, and devotedness."
+    },
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0001",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.5104982763528824,
+      "text": "Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends. During this time, Craig starts high school and becomes close to Ms. Hart, a teacher who comes to his aid when Kenny Yankovich, a school bully, attempts to intimidate him. After winning $3,000 from a lottery ticket that Harrigan..."
+    },
+    {
+      "chunk_id": "wikipedia:Their Distance#0001",
+      "doc_id": "wikipedia:Their Distance",
+      "title": "Their Distance",
+      "url": "https://en.wikipedia.org/?curid=58630385",
+      "source_type": "wikipedia",
+      "score": 0.48349020481109617,
+      "text": "in Japan. Two years ago, he ran a red light on his bicycle, causing Mikio Arakawa to get hit by a car and be permanently paralyzed below his waist. Overcome with guilt, Leon becomes withdrawn and does not notice that his co-worker, Akiko Kokaze, is in love with him. On April 2, college student Yoo Ji-woo confesses to his Japanese teacher, Kanako..."
+    },
+    {
+      "chunk_id": "wikipedia:Everything#0000",
+      "doc_id": "wikipedia:Everything",
+      "title": "Everything",
+      "url": "https://en.wikipedia.org/?curid=17181902",
+      "source_type": "wikipedia",
+      "score": 0.4583845853805542,
+      "text": "Everything, every-thing, or every thing, is all that exists; it is an antithesis (opposite) of nothing, and its complement. It is the totality of things relevant to some subject matter. The universe is everything that exists theoretically, though a multiverse may exist according to theoretical cosmology predictions. It may refer to an anthropocentric worldview, or the sum of human experience, history, and the human condition in general. Every object and entity is a part of everything, including all physical bodies and in some cases all abstract objects. To describe or know of everything as a spatial consideration in a local environment, such as the world in which humans mostly live, is possible. The detemination of all things in the universe is unknown because of the physics beyond the observed universe and the problem of knowing physics at the range infinite."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0000",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.4237767577171326,
+      "text": "Class, Classes, or The Class may refer to: Common uses not otherwise categorized Class (biology), a taxonomic rank Class (knowledge representation), a collection of individuals or objects Class (philosophy), an analytical concept used differently from such group phenomena as \"types\" or \"kinds\" Class (set theory), a collection of sets that can be unambiguously defined by a property that all its members share Hazard class, a dangerous goods classification Social class, the hierarchical arrangement of individuals in society, usually defined by wealth and occupation Working class, can be defined by rank, income or collar Arts, entertainment, and media \"The Class\" (song), 1959 Chubby Checker song Character class, in role-playing games and other genres Class 95 (radio station), a Singaporean radio channel Films Class (film), 1983 American film The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff"
+    },
+    {
+      "chunk_id": "wikipedia:Grader#0001",
+      "doc_id": "wikipedia:Grader",
+      "title": "Grader",
+      "url": "https://en.wikipedia.org/?curid=620529",
+      "source_type": "wikipedia",
+      "score": 0.42339617013931274,
+      "text": "a main blade extension can also be mounted. Capacities range from a blade width of 2.5 to 7.5 m (8 to 24 ft) and engines from 95–375 kW (125–500 hp). Certain graders can operate multiple attachments, or be designed for specialized tasks like underground mining. Function In civil engineering \"rough grading\" is performed by heavy equipment such as wheel tractor-scrapers and bulldozers. Graders are used to \"finish grade\", with the angle, tilt..."
+    },
+    {
+      "chunk_id": "wikipedia:Face#0000",
+      "doc_id": "wikipedia:Face",
+      "title": "Face",
+      "url": "https://en.wikipedia.org/?curid=53234",
+      "source_type": "wikipedia",
+      "score": 0.4210958480834961,
+      "text": "The face is the front of the head in humans and many other animals that features most of the sense organs including the eyes, nose and mouth. Many animals may express emotions through their face. Sense organs in the faces of different animals are varied such as the snout, and the proboscis. Many animals are flat-faced (brachycephalic) such as the pug dog. The human face is crucial for identity, and damage such as scarring or developmental deformities may adversely affect the psyche. Human face Structure The front of the human head is called the face. It includes several distinct areas, of which the main features are: The forehead, comprising the skin beneath the hairline, bordered laterally by the temples and inferiorly by eyebrows and ears The eyes, sitting in the orbit and protected by eyelids and eyelashes The distinctive human nose shape, nostrils, and nasal septum The cheeks, covering the maxilla and mandible (or jaw), the extremity of which is the chin The mouth, with the upper"
+    },
+    {
+      "chunk_id": "wikipedia:Teacher#0001",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.41731445491313934,
+      "text": "context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures. Teachers may provide instruction in literacy and numeracy, craftsmanship or vocational training, the arts, religion, civics, community roles, or life skills. Formal teaching tasks include preparing lessons according to agreed curricula, giving lessons..."
+    }
+  ]
+}

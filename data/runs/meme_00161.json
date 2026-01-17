@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_00161",
+  "queries": [
+    "\"the velocity\" \"physics\" \"whatever\" \"more\""
+  ],
+  "primary_terms": [
+    "physics",
+    "whatever",
+    "more",
+    "Your BaBY",
+    "math",
+    "How oldisit",
+    "the velocity"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Physics#0000",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.627427589893341,
+      "text": "Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist. Physics is one of the oldest academic disciplines. Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy."
+    },
+    {
+      "chunk_id": "wikipedia:Velocity#0000",
+      "doc_id": "wikipedia:Velocity",
+      "title": "Velocity",
+      "url": "https://en.wikipedia.org/?curid=20491903",
+      "source_type": "wikipedia",
+      "score": 0.6221092104911804,
+      "text": "Velocity is a measurement of speed in a certain direction of motion. It is a fundamental concept in kinematics, the branch of classical mechanics that describes the motion of physical objects. Velocity is a vector quantity, meaning that both magnitude and direction are needed to define it (velocity vector). The scalar absolute value (magnitude) of velocity is called speed, a quantity that is measured in metres per second (m/s or m⋅s−1) in the SI (metric) system. For example, \"5 metres per second\" is a scalar, whereas \"5 metres per second east\" is a vector. If there is a change in speed, direction or both, then the object is said to be undergoing an acceleration. Definition Average velocity The average velocity of an object over a period of time is its change in position, Δ s {\\displaystyle \\Delta s} , divided by the duration of the period, Δ t {\\displaystyle \\Delta t} , given mathematically as v ¯ = Δ..."
+    },
+    {
+      "chunk_id": "wikipedia:Space#0000",
+      "doc_id": "wikipedia:Space",
+      "title": "Space",
+      "url": "https://en.wikipedia.org/?curid=27667",
+      "source_type": "wikipedia",
+      "score": 0.49766327142715455,
+      "text": "Space is a three-dimensional continuum containing positions and directions. In classical physics, physical space is often conceived in three linear dimensions. Modern physicists usually consider it, with time, to be part of a boundless four-dimensional continuum known as spacetime. The concept of space is considered to be of fundamental importance to an understanding of the physical universe. However, disagreement continues between philosophers over whether it is itself an entity, a relationship between entities, or part of a conceptual framework. In the 19th and 20th centuries mathematicians began to examine geometries that are non-Euclidean, in which space is conceived as curved, rather than flat, as in the Euclidean space. According to Albert Einstein's theory of general relativity, space around gravitational fields deviates from Euclidean space. Experimental tests of general relativity have confirmed that non-Euclidean geometries provide a better model for the shape of space."
+    },
+    {
+      "chunk_id": "wikipedia:More#0000",
+      "doc_id": "wikipedia:More",
+      "title": "More",
+      "url": "https://en.wikipedia.org/?curid=43850",
+      "source_type": "wikipedia",
+      "score": 0.44983691573143003,
+      "text": "More may refer to: Computing MORE (application), outline software for Mac OS more (command), a shell command MORE protocol, a routing protocol Missouri Research and Education Network Music Albums More! (album), by Booka Shade, 2010 More (soundtrack), by Pink Floyd with music from the 1969 film More... (Trace Adkins album), or the title song, 1999 More (Mary Alessi album), 2005 More (Beyoncé EP), 2014 More (Michael Bublé EP), 2005 More (Clarke-Boland Big Band album), 1968 More (Double Dagger album), 2009 More... (Montell Jordan album), 1996 More (Crystal Lewis album), 2001 More (Giuseppi Logan album), 1966 More (No Mercy album), 1998 More (No Trend album), 2001 More (Jeremy Riddle album), or the title song, 2017 More (Pulp album), 2025 More (Symphony Number One album), 2016 More (Tamia album), or the title song, 2004 More (Vitamin C album), 2001 More, by Mylon LeFevre, 1983 More, by Resin Dogs, 2007 Songs \"More\" (Alex Alstone and Tom Glazer song), popularized by Perry Como, 1956 \"More\""
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0000",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.4057957291603088,
+      "text": "Quantity or amount is a property that includes numbers and quantifiable phenomena such as mass, time, distance, heat, angle, and information. Quantities can commonly be compared in terms of \"more\", \"less\", or \"equal\", or by assigning a numerical value multiple of a unit of measurement. Quantity is among the basic classes of things along with quality, substance, change, and relation. Some quantities are such by their inner nature (as number), while others function as states (properties, dimensions, attributes) of things such as heavy and light, long and short, broad and narrow, small and great, or much and little. Under the name of multitude comes what is discontinuous and discrete and divisible ultimately into indivisibles, such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns."
+    },
+    {
+      "chunk_id": "wikipedia:Charge#0001",
+      "doc_id": "wikipedia:Charge",
+      "title": "Charge",
+      "url": "https://en.wikipedia.org/?curid=6439",
+      "source_type": "wikipedia",
+      "score": 0.3915448606014252,
+      "text": "charge, information or indictment through a formal legal process Mathematics, science, and technology Charge (physics), the susceptibility (state of being affected) of a body to one of the fundamental forces Color charge, a property of quarks and gluons, related to their strong interactions Electric charge..."
+    },
+    {
+      "chunk_id": "wikipedia:More#0001",
+      "doc_id": "wikipedia:More",
+      "title": "More",
+      "url": "https://en.wikipedia.org/?curid=43850",
+      "source_type": "wikipedia",
+      "score": 0.38340959548950193,
+      "text": "2001 More, by Mylon LeFevre, 1983 More, by Resin Dogs, 2007 Songs \"More\" (Alex Alstone and Tom Glazer song), popularized by Perry Como, 1956 \"More\" (Alison Moyet song), 2003 \"More\" (J-Hope song), 2022 \"More\" (K/DA song), 2020 \"More\" (Matthew West song), 2003 \"More\" (Peaches song), 2009 \"More\" (The Sisters of Mercy song),..."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0001",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.37333557605743406,
+      "text": "astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest. Measurable time is believed to have effectively begun with the Big Bang 13.8 billion years ago, encompassed by the chronology of the universe. Modern physics understands time to be inextricable from space within the concept of spacetime described by general relativity..."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0000",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.35914275646209715,
+      "text": "Science is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe. Modern science is typically divided into two – or three – major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies. While referred to as the formal sciences, the study of logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology. Meanwhile, applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine. The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE)."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0001",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.3445400595664978,
+      "text": "such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns. Under the name of magnitude comes what is continuous and unified and divisible only into smaller divisibles, such as: matter, mass, energy, liquid, material—all cases of non-collective nouns. Along with analyzing its nature and classification, the issues of quantity involve such closely related topics as dimensionality..."
+    }
+  ]
+}

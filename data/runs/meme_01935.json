@@ -1,0 +1,133 @@
+{
+  "meme_id": "meme_01935",
+  "queries": [
+    "\"The best way\" \"new shoes\" \"best\" \"way\"",
+    "\"best\" \"way\" \"save\" \"new\""
+  ],
+  "primary_terms": [
+    "The best way",
+    "new shoes",
+    "best",
+    "way",
+    "save",
+    "new",
+    "shoes",
+    "aan",
+    "loa",
+    "oan",
+    "tos",
+    "too",
+    "sos",
+    "foe",
+    "wate",
+    "sae",
+    "gas",
+    "ete",
+    "vor",
+    "mer",
+    "coe",
+    "con",
+    "soe",
+    "eer",
+    "sue",
+    "pee",
+    "ans",
+    "kes",
+    "isis",
+    "ine",
+    "dae",
+    "ous"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 1.1179272413253785,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:New Shoes#0000",
+      "doc_id": "wikipedia:New Shoes",
+      "title": "New Shoes",
+      "url": "https://en.wikipedia.org/?curid=10317022",
+      "source_type": "wikipedia",
+      "score": 0.9886219531297684,
+      "text": "\"New Shoes\" is a song by Scottish singer-songwriter Paolo Nutini, released as the fourth single from debut album, These Streets. It was used as the headlining single for the US release of the album. The song peaked at number 21 on the UK Singles Chart, number eight on the US Billboard Bubbling Under Hot 100 chart, and number one on the Billboard Triple A chart. The song was used for a 2007 international ad campaign by Puma AG. Charts Weekly charts Year-end charts Certifications Cover versions Lena Meyer-Landrut covered this song on some editions of her album My Cassette Player. A live version is found on the platinum edition of her album Good News and on her DVD \"Good News Live\". References"
+    },
+    {
+      "chunk_id": "wikipedia:Perfection#0000",
+      "doc_id": "wikipedia:Perfection",
+      "title": "Perfection",
+      "url": "https://en.wikipedia.org/?curid=1928374",
+      "source_type": "wikipedia",
+      "score": 0.8713056147098541,
+      "text": "Perfection is a state, variously, of completeness, flawlessness, or supreme excellence. The term designates a range of diverse, if often kindred, concepts used in a variety of fields. Term and concept The noun \"perfection\", the adjective \"perfect\", and the verb \"to perfect\" derive from the Latin verb \"perficere\" – \"to finish\" or \"to bring to an end\". The ancient Greek word for \"perfection\" was \"teleiotes\". The Greek polymath Aristotle (384–322 BCE) distinguished three concepts of perfection: 1. that which was complete – which contained all the requisite parts; 2. that which was so good that nothing of the kind could be better; 3. that which had attained its purpose. The Polish philosopher Władysław Tatarkiewicz (1886 – 1980) notes that perfection is often confused with other qualities, such as \"excellence\". The German polymath Leibniz (1646–1716), who thought the world to be the best of all possible worlds, never called it perfect."
+    },
+    {
+      "chunk_id": "wikipedia:SAFE#0000",
+      "doc_id": "wikipedia:SAFE",
+      "title": "SAFE",
+      "url": "https://en.wikipedia.org/?curid=845195",
+      "source_type": "wikipedia",
+      "score": 0.7562563478946686,
+      "text": "SAFE may stand for: Acts and projects SAFE Act, one of many passed or proposed laws with this name Strategic Action For Emergencies, a fictional group to counter S.H.I.E.L.D. in Marvel Comics Synchronized Armed Forces Europe, the concept of synchronising of the European military forces Organisations SAFE (New Zealand organisation), Save Animals From Exploitation, a New Zealand animal advocacy organisation SAFE Society of Aviation and Flight Educators, a professional aviation organization SAFE Stroke Alliance for Europe, a coalition of charities that support stroke survivors SAFE (Struggle Against Financial Exploitation), a UK Parliamentary Working Group who campaign against financial fraud and deception Safe Ireland, anti-domestic violence organization, fund-raised for by Hozier's song \"Cherry Wine\" Security Action for Europe (SAFE), an EU financial instrument for defense spending State Administration of Foreign Exchange (SAFE), an agency of the People's Republic of China Science and"
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.7161114782094955,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:Legendary#0001",
+      "doc_id": "wikipedia:Legendary",
+      "title": "Legendary",
+      "url": "https://en.wikipedia.org/?curid=541707",
+      "source_type": "wikipedia",
+      "score": 0.6747722506523133,
+      "text": "Daya, 2015 \"Legendary\", by Royce da 5'9\" from Success Is Certain, 2011 \"Legendary\", by Skillet from Victorious, 2019 \"Legendary\", by Joey Badass from All-Amerikkkan Badass, 2017 \"Legendary\", by Jorge Rivera-Herrans from Epic: The Musical, 2024 \"Legendary\" (Bon Jovi song), 2024 Other uses Legendary (video game), a 2008 first..."
+    },
+    {
+      "chunk_id": "wikipedia:Always#0001",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.6593676686286927,
+      "text": "Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu Xiu album), 2012 Always: The Very Best of Erasure or the 1994 title song (see below), 2015 Always, by June Tabor, 2005 Always, by Kelli O'Hara, 2011 Always, by Michael Ball, 1993 Always..."
+    },
+    {
+      "chunk_id": "wikipedia:Better#0000",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.637009447813034,
+      "text": "Better may refer to: \"to better\" as a verb, meaning to undergo betterment better, an alternate spelling of bettor, someone who bets (gambles) Music Albums Better (Chrisette Michele album), 2013 Better (Brian McKnight album), 2016 Better (Haley Reinhart album), 2016 Better (BoA album), 2020 Songs \"Better\" (The Screaming Jets song), 1991 \"Better\" (Brooke Fraser song), 2003 \"Better\" (Tom Baxter song)\", 2007, covered by Boyzone in 2008 \"Better\" (Guns N' Roses song), 2008 \"Better\" (Maggie Rose song), 2012 \"Better\" (Kim Hyung-jun song), 2014 \"Better\" (Banks song), 2015 \"Better\" (Haley Reinhart song), 2016 \"Better\" (Meghan Trainor song), 2016 \"Better\" (Mallrat song), 2017 \"Better\" (Khalid song), 2018 \"Better\" (Lena Meyer-Landrut and Nico Santos song), 2019 \"Better\" (Twice song), 2020 \"Better\" (Zayn song), 2020 \"Better\" (MK and Burns song), 2022 \"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000"
+    },
+    {
+      "chunk_id": "wikipedia:Edit#0000",
+      "doc_id": "wikipedia:Edit",
+      "title": "Edit",
+      "url": "https://en.wikipedia.org/?curid=1239591",
+      "source_type": "wikipedia",
+      "score": 0.6156697064638138,
+      "text": "Edit may refer to: Concepts an action that is part of an editing process (including of images, video, and film) a particular version that is the result of editing, especially of film (for example, fan edit), or music (for example, radio edit) a film transition, also known as a \"cut\" a change to a computer file a change in the genome introduced via gene editing, or in the epigenome via epigenome editing edit., an abbreviation of \"edition\" Music edIT, American electronic DJ and producer Edit (album), a 2008 album by Mark Stewart \"Edit\", a song by Regina Spektor from the 2006 album Begin to Hope Other uses Edit (given name), a list of people and fictional characters Equitas Development Initiatives Trust (EDIT), established by the Equitas Small Finance Bank in India Edit (application), a simple text editor for the Apple Macintosh Edit (MS-DOS), the MS-DOS Editor, a plain-text editor for MS-DOS, included in some versions of Microsoft Windows Edits (app), an American app The Edit (film), a"
+    },
+    {
+      "chunk_id": "wikipedia:Good#0000",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.5975152730941773,
+      "text": "In most contexts, the concept of good denotes the conduct that should be preferred when posed with a choice between possible actions. Good is generally considered to be the opposite of evil. The specific meaning and etymology of the term and its associated translations among ancient and contemporary languages show substantial variation in its inflection and meaning, depending on circumstances of place and history, or of philosophical or religious context. History of Western ideas Every language has a word expressing good in the sense of \"having the right or desirable quality\" (ἀρετή) and bad in the sense \"undesirable\". A sense of moral judgment and a distinction \"right and wrong, good and bad\" are cultural universals. Plato and Aristotle Although the history of the origin of the use of the concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect."
+    }
+  ]
+}

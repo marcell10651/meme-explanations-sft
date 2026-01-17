@@ -1,0 +1,192 @@
+{
+  "meme_id": "meme_04718",
+  "queries": [
+    "\"dirt Family\" \"the Jar\" \"Dad\" \"guess\"",
+    "\"Dad\" \"guess\" \"inside\" \"jar\""
+  ],
+  "primary_terms": [
+    "guess",
+    "inside",
+    "Dad",
+    "dirt Family",
+    "jar",
+    "dirt",
+    "the Jar"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Soap#0001",
+      "doc_id": "wikipedia:Soap",
+      "title": "Soap",
+      "url": "https://en.wikipedia.org/?curid=57875",
+      "source_type": "wikipedia",
+      "score": 0.7877037644386291,
+      "text": "(sodium) or K (potassium). When used for cleaning, soap solubilizes particles and grime, which can then be separated from the article being cleaned. The insoluble oil/fat \"dirt\" become associated inside micelles, tiny spheres formed from soap molecules with polar hydrophilic (water-attracting) groups on the outside and encasing a lipophilic (fat-attracting) pocket..."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.7319965362548828,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0000",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.7076093912124634,
+      "text": "A father, dad, or daddy is the male parent of a child. Besides the paternal bonds of a father to his child or children, fathers may have a parental, legal, and social relationship with their child or children that carries with it certain rights and obligations. A biological father is the male genetic contributor to the creation of the child, through sexual intercourse or sperm donation. A biological father may have legal obligations to a child not raised by him, such as an obligation of monetary support. An adoptive father is a man who has become the child's parent through the legal process of adoption. A putative father is a man whose biological relationship to a child is alleged but has not been established. A stepfather is a non-biological male parent married to a child's preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.6063390374183655,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0000",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.5825805425643921,
+      "text": "Nobody most often refers to: Nobody, an indefinite pronoun Nobody may also refer to: Fictional characters Nobody (Kingdom Hearts), a race of beings in the Kingdom Hearts video game series Nobody (Devil May Cry), a demon appearing in Devil May Cry Nobody, a character in the Jim Jarmusch films Dead Man and Ghost Dog: The Way of the Samurai Nobody, a character in the 1973 Italian film My Name Is Nobody Nobody, a character in the Teenage Mutant Ninja Turtles franchise Odysseus, who used the name \"nobody\" in his battle against Polyphemus Film and television Nobody (1921 film), an American silent film \"The Nobody\" (The Amazing World of Gumball), a 2015 TV episode \"Nobody\" (Folklore), a 2018 TV episode Nobody (2021 film), American thriller film Nobody (2025 film), Chinese animated film Music Nobody (producer) (born 1977), American record producer Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs"
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.5494145601987839,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0001",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.532933384180069,
+      "text": "preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child. The adjective \"paternal\" refers to a father and comparatively to \"maternal\" for a mother. The verb \"to father\" means to procreate or to sire a child from which also derives the noun \"fathering\". Biological fathers determine the sex of their child through a sperm cell..."
+    },
+    {
+      "chunk_id": "wikipedia:Dad Loves His Work#0000",
+      "doc_id": "wikipedia:Dad Loves His Work",
+      "title": "Dad Loves His Work",
+      "url": "https://en.wikipedia.org/?curid=945339",
+      "source_type": "wikipedia",
+      "score": 0.5286958575248718,
+      "text": "Dad Loves His Work is the tenth studio album by James Taylor, released in 1981. The album includes the duet with JD Souther titled \"Her Town Too\", which peaked at number 11 on the Billboard Hot 100 and number 5 on the Billboard Adult Contemporary chart. The album was certified platinum in the United States. It was his first album without any cover versions. Background The album's title was a response by Taylor to then-wife Carly Simon, who had issued an ultimatum to Taylor regarding his constant touring, leaving her home with their two children, Benjamin and Sally. Simon informed Taylor in 1980 that unless he curtailed his schedule to be home more with his family, that she would divorce him. Shortly before the album's release, the pair separated, officially dissolving their 11-year marriage in 1983."
+    },
+    {
+      "chunk_id": "wikipedia:Family#0000",
+      "doc_id": "wikipedia:Family",
+      "title": "Family",
+      "url": "https://en.wikipedia.org/?curid=10401954",
+      "source_type": "wikipedia",
+      "score": 0.522532507777214,
+      "text": "Family (from Latin: familia) is a group of people related either by consanguinity (by recognized birth) or affinity (by marriage or other relationship). It forms the basis for social order. Ideally, families offer predictability, structure, and safety as members mature and learn to participate in the community. Historically, most human societies use family as the primary purpose of attachment, nurturance, and socialization. Anthropologists classify most family organizations as matrifocal (a mother and her children), patrifocal (a father and his children), conjugal (a married couple with children, also called the nuclear family), avuncular (a man, his sister, and her children), or extended (in addition to parents, spouse and children, may include grandparents, aunts, uncles, or cousins). The field of genealogy aims to trace family lineages through history. The family is also an important economic unit studied in family economics."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0000",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.5195087194442749,
+      "text": "Strongest Deliveryman (Korean: 최강 배달꾼; RR: Choegang baedalkkun) is a 2017 South Korean television series starring Go Kyung-pyo, Chae Soo-bin, Kim Seon-ho, and Go Won-hee. It premiered on August 4, 2017, and aired every Friday and Saturday at 23:00 (KST) on KBS2 until September 23, 2017. Synopsis Choi Kang-soo is a deliveryman who wants to become the CEO of his own delivery app company. The series tells of his journey to achieving love and success. Cast Main Go Kyung-pyo as Choi Kang-soo A veteran deliveryman who puts his life on the line at whatever he does. Chae Soo-bin as Lee Dan-ah A delivery woman who is so single-minded about making money and escaping from \"Hell Joseon\" that she turns down all advances from men. Kim Seon-ho as Oh Jin-kyu A rich man's son, the former Head Manager of Jung Family Seollongtang, he is stubborn at first but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Captain Jack is holding a bottle over his head.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Captain Jack",
+          "his head"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that dad has a jar of dirt despite everyone telling him no.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "dad",
+          "dirt",
+          "everyone",
+          "him"
+        ]
+      },
+      "title": {
+        "text": "Guess what's inside it",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "guess",
+          "inside"
+        ]
+      },
+      "text": {
+        "text": "Dad: doesn't want a jar of dirt Family: gets jar of dirt anyway Dad and the Jar: i ’ 1 [ \\’ wie ‘ Sy",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Dad",
+          "dirt Family",
+          "jar",
+          "dirt",
+          "the Jar"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "guess",
+      "inside",
+      "Dad",
+      "dirt Family",
+      "jar",
+      "dirt",
+      "the Jar"
+    ],
+    "secondary_terms": [
+      "Captain Jack",
+      "his head",
+      "dad",
+      "dirt",
+      "everyone",
+      "him"
+    ],
+    "queries": [
+      "\"dirt Family\" \"the Jar\" \"Dad\" \"guess\"",
+      "\"Dad\" \"guess\" \"inside\" \"jar\""
+    ]
+  },
+  "source_jsonl_id": null
+}

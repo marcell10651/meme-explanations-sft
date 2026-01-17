@@ -1,0 +1,120 @@
+{
+  "meme_id": "meme_06099",
+  "queries": [
+    "\"How many other lies\" \"the council\" \"chocolate milk\" \"brown cows\"",
+    "\"chocolate milk\" \"brown cows\" \"many\" \"other\""
+  ],
+  "primary_terms": [
+    "How many other lies",
+    "the council",
+    "many",
+    "other",
+    "lies",
+    "told",
+    "council",
+    "chocolate milk",
+    "brown cows",
+    "year",
+    "old",
+    "learning",
+    "chocolate",
+    "milk",
+    "doesn",
+    "brown",
+    "cows",
+    "thie",
+    "ful"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Milking#0001",
+      "doc_id": "wikipedia:Milking",
+      "title": "Milking",
+      "url": "https://en.wikipedia.org/?curid=1555269",
+      "source_type": "wikipedia",
+      "score": 0.9597483396530151,
+      "text": "milking machines. Teat cups are attached to the cow's teats, and then the cups alternate between vacuum and normal air pressure to extract the milk. The milk is filtered and cooled before being added to a large bulk tank of milk for storage. The average time of milking is 5–7 minutes and a cow can be milked with a machine 2–3 times a day. The existing robotic milking has allowed cows to have the freedom..."
+    },
+    {
+      "chunk_id": "wikipedia:Whole#0000",
+      "doc_id": "wikipedia:Whole",
+      "title": "Whole",
+      "url": "https://en.wikipedia.org/?curid=7197317",
+      "source_type": "wikipedia",
+      "score": 0.7248073697090149,
+      "text": "Whole may refer to: Music Whole note, or semibreve Whole step, or major second Whole (Jessa Anderson album) or the title song, 2014 Whole (Soil album), 2013 Whole, an EP by Pedro the Lion, 1997 \"Whole\", a song by Basement from Colourmeinkindness, 2012 \"Whole\", a song by Flaw from Through the Eyes, 2001 \"Whole\", a song by Jacob Whitesides, 2019 Other uses Whole (campaign), a British anti-stigma mental health campaign. WHOLE – United Queer Festival, a music festival held at Ferropolis, Gräfenhainichen, Germany. Whole (film), a 2003 American documentary by Melody Gilbert. Whole milk, milk which has not had fat removed. See also Holism, a philosophical and social theory Hole (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0001",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.6889118075370788,
+      "text": "food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting. Their favorite food is cocoa beans. When Willy Wonka arrived, he told the chief he and his people can come live and work at his factory and have all the cocoa beans they want. In the first edition of Charlie..."
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0000",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.6475070655345917,
+      "text": "A drink or beverage is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, juice, smoothies and soft drinks. Traditionally warm beverages encompass coffee, tea, and hot chocolate. Caffeinated drinks that contain the stimulant caffeine, have been consumed for centuries. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the psychoactive substance ethanol, have been part of human culture for more than 8,000 years. Non-alcoholic drinks typically refer to beverages that are traditionally alcoholic—such as beer, wine, or cocktails—but are produced with a very low alcohol by volume content. This category includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines."
+    },
+    {
+      "chunk_id": "wikipedia:Color#0000",
+      "doc_id": "wikipedia:Color",
+      "title": "Color",
+      "url": "https://en.wikipedia.org/?curid=5921",
+      "source_type": "wikipedia",
+      "score": 0.6293306916952133,
+      "text": "Color (or colour in Commonwealth English; see spelling differences) is the visual perception based on the electromagnetic spectrum. Though color is not an inherent property of matter, color perception is related to an object's light absorption, emission, reflection and transmission. For most humans, visible wavelengths of light are the ones perceived in the visible light spectrum, with three types of cone cells (trichromacy). Other animals may have a different number of cone cell types or have eyes sensitive to different wavelengths, such as bees that can distinguish ultraviolet, and thus have a different color sensitivity range. Animal perception of color originates from different light wavelength or spectral sensitivity in cone cell types, which is then processed by the brain. Colors have perceived properties such as hue, colorfulness, and lightness. Colors can also be additively mixed (mixing light) or subtractively mixed (mixing pigments)."
+    },
+    {
+      "chunk_id": "wikipedia:Willy Wonka#0001",
+      "doc_id": "wikipedia:Willy Wonka",
+      "title": "Willy Wonka",
+      "url": "https://en.wikipedia.org/?curid=704925",
+      "source_type": "wikipedia",
+      "score": 0.5896335512399673,
+      "text": "praised and criticized. Wilder, Depp, and Chalamet all received Golden Globe nominations for Best Actor in a Comedy or Musical for their performances. Appearances Charlie and the Chocolate Factory In Charlie and the Chocolate Factory, Wonka has hidden five Golden Tickets inside his chocolate bars. The finders are rewarded with a tour of his factory, each accompanied by an adult of their choice, and a lifetime supply of chocolate..."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0000",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.5727586925029755,
+      "text": "The Oompa-Loompas are a fictional race of people in the Charlie and the Chocolate Factory franchise based on the original book by Roald Dahl. In all versions of the story, they are depicted as little people who form the workforce of Willy Wonka's chocolate factory, and are paid in cocoa beans. However, their appearance and backstory change depending on the version. Design and characteristics The Oompa-Loompas are described as being no larger than medium-sized dolls, with rosy-white skin and long golden-brown hair. They wear the same clothes they wore at Loompaland: the men wear deerskins, the women wear leaves and the children wear nothing at all. Before moving to Willy Wonka's chocolate factory, the Oompa-Loompas lived in Loompaland, where they lived in constant fear of the predators that would eat them. Their main source of food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting."
+    },
+    {
+      "chunk_id": "wikipedia:Candy#0000",
+      "doc_id": "wikipedia:Candy",
+      "title": "Candy",
+      "url": "https://en.wikipedia.org/?curid=61230",
+      "source_type": "wikipedia",
+      "score": 0.5371219396591187,
+      "text": "Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. The category, also called sugar confectionery, encompasses any sweet confection, including chocolate, chewing gum, and sugar candy. Vegetables, fruit, or nuts which have been glazed and coated with sugar are said to be candied. Physically, candy is characterized by the use of a significant amount of sugar or sugar substitutes. Unlike a cake or loaf of bread that would be shared among many people, candies are usually made in smaller pieces. However, the definition of candy also depends upon how people treat the food. Unlike sweet pastries served for a dessert course at the end of a meal, candies are normally eaten casually, often with the fingers, as a snack between meals. Each culture has its own ideas of what constitutes candy rather than dessert. The same food may be a candy in one culture and a dessert in another."
+    },
+    {
+      "chunk_id": "wikipedia:Others#0000",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.5354330956935882,
+      "text": "Others or The Others may refer to: Fictional characters Others (A Song of Ice and Fire), supernatural creatures in the fictional world of George R. R. Martin's fantasy series A Song of Ice and Fire Others (Lost), mysterious inhabitants of a strange island in the South Pacific in the television series Lost Others (Night Watch), a fictional group of people with supernatural abilities in Sergey Lukyanenko's Watches novel pentalogy The Others (Vok), a character from the Beast Wars franchise The Others, a reference to Cro-Magnon peoples in Jean M. Auel's Earth's Children series The Others, a group of allies of Aquaman in comics, introduced in 2012 and featured in a 2014 series The Others, the Ancients who have achieved Ascension in the Stargate universe The Others, a series of alien extraterrestrial species from The 5th Wave novels and film Films The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001"
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0000",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5315415561199188,
+      "text": "Two Dogs was a ready-to-drink beverage that was first introduced in Australia in 1993 and went on to become available throughout the world. It was a lemon flavoured alcoholic beverage that is widely considered to have been the \"world’s first brewed alcoholic lemonade\" (despite the pre-existence of traditional drinks like sima), paving the way for similar products such as Hooper's Hooch and Mike's Hard Lemonade. Two Dogs was created in 1993 by the South Australian brewer Duncan MacGillivray. The tale behind the drink says that MacGillivray, an owner of a small brewery and pub in South Australia, was having a beer with some friends who owned a lemon farm. They mentioned that they didn't know what to do with all their lemons that they couldn't sell due to size. Duncan said \"I'll try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_01215",
+  "queries": [
+    "\"gonna\" \"night\" \"fatejfor\" \"dinner\"",
+    "\"two ladies\" \"the burrito\" \"the bathroom\" \"gonna\"",
+    "\"the bathroom\" \"gonna\" \"night\" \"fatejfor\""
+  ],
+  "primary_terms": [
+    "gonna",
+    "night",
+    "fatejfor",
+    "dinner",
+    "tosleep"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.9185010492801666,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    },
+    {
+      "chunk_id": "wikipedia:Toilet#0001",
+      "doc_id": "wikipedia:Toilet",
+      "title": "Toilet",
+      "url": "https://en.wikipedia.org/?curid=19167644",
+      "source_type": "wikipedia",
+      "score": 0.7620992362499237,
+      "text": "for rooms containing only one or more toilets and hand-basins. Lavatory is an older word for toilet. The technology used for modern toilets varies. Toilets are commonly made of ceramic (porcelain), concrete, plastic, or wood. Newer toilet technologies include dual flushing, low flushing, toilet seat warming, self-cleaning, female urinals and waterless..."
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0001",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.7590141952037811,
+      "text": "USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the 2014 album Sweet Talker \"Loud\", a 2006 single by Masters at Work with Beto Cuevas \"Loud\", a song by Matt Nathanson from the 1999 album Still Waiting for Spring \"Loud\", an additional..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.7464965432882309,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.7267488300800323,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    },
+    {
+      "chunk_id": "wikipedia:Toilet#0000",
+      "doc_id": "wikipedia:Toilet",
+      "title": "Toilet",
+      "url": "https://en.wikipedia.org/?curid=19167644",
+      "source_type": "wikipedia",
+      "score": 0.6499426662921906,
+      "text": "A toilet is a piece of sanitary hardware that collects human waste (urine and feces) and sometimes toilet paper, usually for disposal. Flush toilets use water, while dry or non-flush toilets do not. They can be designed for a sitting position popular in Europe and North America with a toilet seat, with additional considerations for those with disabilities, or for a squatting posture more popular in Asia, known as a squat toilet. In urban areas, flush toilets are usually connected to a sewer system; in isolated areas, to a septic tank. The waste is known as blackwater and the combined effluent, including other sources, is sewage. Dry toilets are connected to a pit, removable container, composting chamber, or other storage and treatment device, including urine diversion with a urine-diverting toilet. \"Toilet\" or \"toilets\" is also widely used for rooms containing only one or more toilets and hand-basins. Lavatory is an older word for toilet. The technology used for modern toilets varies."
+    },
+    {
+      "chunk_id": "wikipedia:Quentin Tarantino#0001",
+      "doc_id": "wikipedia:Quentin Tarantino",
+      "title": "Quentin Tarantino",
+      "url": "https://en.wikipedia.org/?curid=25169",
+      "source_type": "wikipedia",
+      "score": 0.6242495775222778,
+      "text": "'s Palme d'Or and the Academy Award for Best Original Screenplay. He next wrote and starred in the action horror film From Dusk till Dawn (1996). His third film as director, Jackie Brown (1997), paid homage to blaxploitation films. Tarantino wrote and directed the martial arts films Kill Bill: Volume 1 (2003) and Kill Bill: Volume 2 (2004), with both volumes combined regarded as a single film..."
+    },
+    {
+      "chunk_id": "wikipedia:Leave#0001",
+      "doc_id": "wikipedia:Leave",
+      "title": "Leave",
+      "url": "https://en.wikipedia.org/?curid=85749",
+      "source_type": "wikipedia",
+      "score": 0.6056190729141235,
+      "text": "of \"Remain\") Arts, entertainment, and media Leave (film), a 2010 film by Robert Celestino Leave (2022 film), a 2022 film by Alex Herron Music Leave (album), a 2002 Mandopop album \"Leave\" (Get Out), a 2004 R&B song by JoJo \"Leave!\", a 2009 soul song performed by the English singer VV Brown \"Leave\", a song by Sertab Erener \"Leave\", a song..."
+    },
+    {
+      "chunk_id": "wikipedia:Morning#0000",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.6038450807332992,
+      "text": "Morning is either the period from sunrise to noon, or the period from midnight to noon. In the first definition it is preceded by the twilight period of dawn, and there are no exact times for when morning begins (also true of evening and night) because it can vary according to one's latitude, and the hours of daylight at each time of year. However, morning strictly ends at noon, when afternoon starts. Morning precedes afternoon, evening, and night in the sequence of a day. Originally, the term referred to sunrise. Etymology The Modern English words \"morning\" and \"tomorrow\" began in Middle English as morwening, developing into morwen, then morwe, and eventually morrow. English, unlike some other languages, has separate terms for \"morning\" and \"tomorrow\", despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\"."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0001",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.5986582994461059,
+      "text": "sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep. Synonyms In boarding schools and on trips or holidays that involve young people, the equivalent of bedtime is lights out or lights-out - this term is also used in prisons, hospitals, in the military, and in sleep research..."
+    }
+  ]
+}

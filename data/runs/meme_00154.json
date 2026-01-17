@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_00154",
+  "queries": [
+    "\"Banks\" \"His Family Farmhouse Rech\" \"some greedy ones\" \"Cas\" \"Silence\"",
+    "\"Cas\" \"Silence\" \"Auction\" \"Bank\""
+  ],
+  "primary_terms": [
+    "some greedy ones",
+    "greedy",
+    "ones",
+    "aaeminota neal",
+    "Cas",
+    "Silence",
+    "Auction",
+    "His Family Farmhouse Rech",
+    "Bank"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Money#0000",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.5854629039764404,
+      "text": "Money is any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts, such as taxes, in a particular country or socio-economic context. The primary functions which distinguish money are: medium of exchange, a unit of account, a store of value and sometimes, a standard of deferred payment. Money was historically an emergent market phenomenon that possessed intrinsic value as a commodity; nearly all contemporary money systems are based on unbacked fiat money without use value. Its value is consequently derived by social convention, having been declared by a government or regulatory entity to be legal tender; that is, it must be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0001",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.5507553726434707,
+      "text": "by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\". Angered by the suicide of a student who is mocked and refused a loan for her studies, they eventually kill the corrupt bank manager who abetted it. Soon enough, more corrupt individuals are killed, and Rajan Mathew is reinstated as S.P. to nab the group. The team learn..."
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0001",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.5038092643022537,
+      "text": "/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers. Cashiers record amounts received, may prepare reports of transactions, and verify cash register totals against cash on hand. A cashier may be required to know value and features of items for which money is received; may cash checks; may give cash refunds..."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.48433918356895445,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    },
+    {
+      "chunk_id": "wikipedia:Auction#0001",
+      "doc_id": "wikipedia:Auction",
+      "title": "Auction",
+      "url": "https://en.wikipedia.org/?curid=62912",
+      "source_type": "wikipedia",
+      "score": 0.4795814514160156,
+      "text": "bid. An auctioneer may announce prices, while bidders submit bids vocally or electronically. Auctions are applied for trade in diverse contexts. These contexts include antiques, paintings, rare collectibles, expensive wines, commodities, livestock, radio spectrum, used cars, real estate, online advertising, vacation packages, emission trading, and many more. Etymology The word \"auction\" is derived from auctus, the past participle of the Latin verb augeō, (\"I increase\"). History Classical antiquity Auctions have been recorded as early..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.4664161801338196,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0000",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.44085848033428193,
+      "text": "A retail cashier or simply a cashier is a person who handles the cash register at various locations such as the point of sale in a retail store. The most common use of the title is in the retail industry, but this job title is also used in the context of accountancy for the person responsible for receiving and disbursing money or within branch banking in the United Kingdom for the job known in the United States as a bank teller. Retail In a shop, a cashier (or checkout operator) is an employee who scans the goods that the customer wishes to purchase through a cash register. In most modern stores, the items are scanned by a barcode positioned on the item with the use of a laser scanner. After all of the items have been scanned, the cashier then collects the payment (in cash, check, and/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers."
+    },
+    {
+      "chunk_id": "wikipedia:Money#0001",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.42921237349510194,
+      "text": "be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar. The money supply of a country comprises all currency in circulation (banknotes and coins currently issued) and, depending on the particular definition used, one or more types of bank money (the balances held in checking accounts, savings accounts, and other types of bank accounts). Bank money, whose value exists on the books of financial institutions and can be converted..."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0001",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.42712490260601044,
+      "text": "by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal Juveniles, 1980 \"Check\", a song by Nas and Rick Ross from the soundtrack to Creed II, 2015 \"Check\", a song by Quin NFN, from 4Nun, 2019 \"Check\", a song by Qveen Herby from EP 8..."
+    },
+    {
+      "chunk_id": "wikipedia:Auction#0000",
+      "doc_id": "wikipedia:Auction",
+      "title": "Auction",
+      "url": "https://en.wikipedia.org/?curid=62912",
+      "source_type": "wikipedia",
+      "score": 0.4239261507987976,
+      "text": "An auction is usually a process of buying and selling goods or services by offering them up for bids, taking bids, and then selling the item to the highest bidder or buying the item from the lowest bidder. Some exceptions to this definition exist and are described in the section about different types. The branch of economic theory dealing with auction types and participants' behavior in auctions is called auction theory. The open ascending price auction is arguably the most common form of auction and has been used throughout history. Participants bid openly against one another, with each subsequent bid being higher than the previous bid. An auctioneer may announce prices, while bidders submit bids vocally or electronically. Auctions are applied for trade in diverse contexts."
+    }
+  ]
+}

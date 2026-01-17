@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_04182",
+  "queries": [
+    "\"the one moving confusedjunga\" \"the facing lane\" \"Something\" \"the train\"",
+    "\"Something\" \"the train\" \"wrong\" \"can\""
+  ],
+  "primary_terms": [
+    "Something",
+    "wrong",
+    "can",
+    "see",
+    "the train",
+    "the facing lane",
+    "the one moving confusedjunga",
+    "bunga"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.7210127234458923,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    },
+    {
+      "chunk_id": "wikipedia:Train#0000",
+      "doc_id": "wikipedia:Train",
+      "title": "Train",
+      "url": "https://en.wikipedia.org/?curid=30598",
+      "source_type": "wikipedia",
+      "score": 0.7086453437805176,
+      "text": "A train (from Old French trahiner, from Latin trahere, \"to pull, to draw\") is a series of connected vehicles that run along a railway track and transport people or freight. Trains are typically pulled or pushed by locomotives (often known simply as \"engines\"), though some are self-propelled, such as multiple units or railcars. Passengers and cargo are carried in railroad cars, also known as wagons or carriages. Trains are designed to a certain gauge, or distance between rails. Most trains operate on steel tracks with steel wheels, the low friction of which makes them more efficient than other forms of transport. Many countries use rail transport. Trains have their roots in wagonways, which used railway tracks and were powered by horses or pulled by cables. Following the invention of the steam locomotive in the United Kingdom in 1802, trains rapidly spread around the world, allowing freight and passengers to move over land faster and cheaper than ever possible before."
+    },
+    {
+      "chunk_id": "wikipedia:Different#0000",
+      "doc_id": "wikipedia:Different",
+      "title": "Different",
+      "url": "https://en.wikipedia.org/?curid=1826536",
+      "source_type": "wikipedia",
+      "score": 0.662735116481781,
+      "text": "Different may refer to: Music Albums Different (Kate Ryan album), 2002 Different (Thomas Anders album), 1989 Different, an EP (2016) and album (2017) by Micah Tyler, or the title song Songs \"Different\" (Band-Maid song), 2020 \"Different\" (Le Sserafim song), 2025 \"Different\" (Robbie Williams song), 2012 \"Different\", by Acceptance from Phantoms, 2005 \"Different\", by Burna Boy from African Giant, 2019 \"Different\", by Cass Elliot from the soundtrack of the film Pufnstuf, 1970 \"Different\", by Dreamscape from 5th Season, 2007 \"Different\", by Egypt Central from Egypt Central, 2005 \"Different\", by Future and Juice Wrld from Wrld on Drugs, 2018 \"Different\", by Jamie Shaw, 2006 \"Different\", by No Malice from Hear Ye Him, 2013 \"Different\", by Pendulum from In Silico, 2008 \"Different\", by Winner from 2014 S/S, 2014 \"Different\", by Ximena Sariñana from Ximena Sariñana, 2011 Other uses Different ideal, or the different, in algebraic number theory See also All pages with titles beginning with"
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.5723751991987228,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:Left- and right-hand traffic#0000",
+      "doc_id": "wikipedia:Left- and right-hand traffic",
+      "title": "Left- and right-hand traffic",
+      "url": "https://en.wikipedia.org/?curid=213380",
+      "source_type": "wikipedia",
+      "score": 0.5552406907081604,
+      "text": "Left-hand traffic (LHT) and right-hand traffic (RHT) are the practices, in bidirectional traffic, of keeping to the left side or to the right side of the road, respectively. They are fundamental to traffic flow, and are sometimes called the rule of the road. The terms right- and left-hand drive refer to the position of the driver and the steering wheel in the vehicle and are, in automobiles, the reverse of the terms right- and left-hand traffic. The rule also includes where on the road a vehicle is to be driven, if there is room for more than one vehicle in one direction, and the side on which the vehicle in the rear overtakes the one in the front. For example, a driver in an LHT country would typically overtake on the right of the vehicle being overtaken."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.5316393256187439,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Train#0001",
+      "doc_id": "wikipedia:Train",
+      "title": "Train",
+      "url": "https://en.wikipedia.org/?curid=30598",
+      "source_type": "wikipedia",
+      "score": 0.5314978957176208,
+      "text": "in 1802, trains rapidly spread around the world, allowing freight and passengers to move over land faster and cheaper than ever possible before. Rapid transit and trams were first built in the late 1800s to transport large numbers of people in and around cities. Beginning in the 1920s, and accelerating following World War II, diesel and electric locomotives replaced..."
+    },
+    {
+      "chunk_id": "wikipedia:Working#0000",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.5229720830917358,
+      "text": "Working may refer to: Work (human activity), intentional activity people perform to support themselves, others, or the community Arts and media Working (musical), a 1978 musical Working (TV series), an American sitcom Working (Caro book), a 2019 book by Robert Caro Working (Terkel book), a 1974 book by Studs Terkel Working!!, a manga by Karino Takatsu \"Working\" (song), by Tate McRae and Khalid, 2021 Engineering and technology Cold working or cold forming, the shaping of metal below its recrystallization temperature Hot working, the shaping of metal above its recrystallization temperature Multiple working, having more than one locomotive under the control of one driver Live-line working, the maintenance of electrical equipment while it is energised Single-line working, using one train track out of two Other uses Holbrook Working (1895–1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of"
+    },
+    {
+      "chunk_id": "wikipedia:Believe#0001",
+      "doc_id": "wikipedia:Believe",
+      "title": "Believe",
+      "url": "https://en.wikipedia.org/?curid=4678533",
+      "source_type": "wikipedia",
+      "score": 0.5163868427276611,
+      "text": "or the title song (see below), 2009 Believe (Disturbed album), or the title song, 2002 Believe (Emerson Drive album), or the title song, 2009 Believe (Girlschool album), 2004 Believe (Jai McDowall album), 2011 Believe (The Jets album), 1989 Believe (Justin Bieber album), or the title song, 2012 Believe (Katherine Jenkins album), 2009..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.514844223856926,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    }
+  ]
+}

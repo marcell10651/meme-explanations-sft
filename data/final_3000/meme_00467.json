@@ -1,0 +1,185 @@
+{
+  "meme_id": "meme_00467",
+  "queries": [
+    "\"Reddit\" \"Interesting emoji\" \"All\" \"interesting\""
+  ],
+  "primary_terms": [
+    "Interesting emoji",
+    "interesting",
+    "emoji",
+    "All",
+    "Reddit",
+    "some reason"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.5565710186958313,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0000",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.42337111234664915,
+      "text": "Even may refer to: General Even (company), a Brazilian construction and real estate company Even (given name), a Norwegian male personal name Even (surname), a Breton surname Even (people), an ethnic group from Siberia and Russian Far East Even language, a language spoken by the Evens Odd and Even, a solitaire game which is played with two decks of playing cards Evening, the period of a day that begins at the end of daylight and overlaps with the beginning of night Science and technology In mathematics, the term even is used in several senses related to odd: even and odd numbers, an integer is even if dividing by two yields an integer even and odd functions, a function is even if f(−x) = f(x) for all x even and odd permutations, a permutation of a finite set is even if it is composed of an even number of transpositions Singly even number, an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even"
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.4228245377540588,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.3618857622146606,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:Instagram#0000",
+      "doc_id": "wikipedia:Instagram",
+      "title": "Instagram",
+      "url": "https://en.wikipedia.org/?curid=31591547",
+      "source_type": "wikipedia",
+      "score": 0.3553265392780304,
+      "text": "Instagram is an American photo and short-form video sharing social networking service owned by Meta Platforms. It allows users to upload media that can be edited with filters, be organized by hashtags, and be associated with a location via geographical tagging. Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tags and locations, view trending content, like photos, and follow other users to add their content to a personal feed. A Meta-operated image-centric social media platform, it is available on iOS, Android, Windows 10, and the web. Users can take photos and edit them using built-in filters and other tools, then share them on other social media platforms like Facebook. It supports 33 languages including English, Hindi, Spanish, French, Japanese, and Korean. Instagram was originally distinguished by allowing content to be framed only in a square (1:1) aspect ratio of 640 pixels to match the display width of the iPhone at the time."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.34293985962867735,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0001",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.3410912066698074,
+      "text": ". Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution. Memes do this through processes analogous to those of variation, mutation, competition, and inheritance, each of which influences a meme's reproductive success. Memes spread through the behavior that they generate in their hosts. Memes that propagate less prolifically may become extinct, while others may survive, spread, and (for..."
+    },
+    {
+      "chunk_id": "wikipedia:Cool#0000",
+      "doc_id": "wikipedia:Cool",
+      "title": "Cool",
+      "url": "https://en.wikipedia.org/?curid=4175379",
+      "source_type": "wikipedia",
+      "score": 0.31227076053619385,
+      "text": "Cool commonly refers to: Cool, a moderately low temperature Cool (aesthetic), an aesthetic of attitude, behavior, and style Cool or COOL may also refer to: Economics Country of origin labelling mCOOL - US consumer legislation to enforce COOL at the grocery store Computing Cool (programming language) COOL, a computer language used in the CLIPS tool Cool, an internal name of C# An abbreviation for Collabora Online Geography Cool, Rotterdam, Netherlands Cool, California, U.S. Cool, Texas, U.S. Music Cool (band), a South Korean K-pop music group Cool jazz Albums Cool (George Duke album) (2000) Lupe Fiasco's The Cool (2007) The Cool (character), the associated concept character Cool (Joyce album) (2015) Songs \"Cool\" (Alesso song) (2015) \"Cool\" (Anthony Hamilton song) (2008) \"Cool\" (Jonas Brothers song) (2019) \"Cool\" (Le Youth song) (2013) \"Cool\" (Dua Lipa song) (2020) \"Cool\" (Gwen Stefani song) (2005) \"Cool\" (The Time song) (1981), later covered by Snoop Dogg and Prince \"Cool\" (West Side"
+    },
+    {
+      "chunk_id": "wikipedia:Amusement#0000",
+      "doc_id": "wikipedia:Amusement",
+      "title": "Amusement",
+      "url": "https://en.wikipedia.org/?curid=768817",
+      "source_type": "wikipedia",
+      "score": 0.3020782172679901,
+      "text": "Amusement is the state of experiencing humorous and entertaining events or situations while the person or animal actively maintains the experience, and is associated with enjoyment, happiness, laughter and pleasure. It is an emotion with positive valence and high physiological arousal. Amusement is considered an \"epistemological\" emotion because humor occurs when one experiences a cognitive shift from one knowledge structure about a target to another, such as hearing the punchline of a joke. Emotions perceived overtime are focused on the daily dynamics of life as augment or blunt. The pleasant surprise that happens from learning this new information leads to a state of amusement which people often express through smiling, laughter or chuckling. Current studies have not yet reached consensus on the exact purpose of amusement, though theories have been advanced in the fields of psychology, psychiatry, and sociology."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0000",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.3000259011983871,
+      "text": "Millennials, also known as Generation Y or Gen Y, are the demographic cohort following Generation X and preceding Generation Z. Researchers and popular media use the early 1980s as starting birth years and the mid-1990s to early 2000s as ending birth years, with the generation typically being defined as people born from 1981 to 1996. Most millennials are the children of baby boomers and older Gen Xers, and are often the parents of Generation Alpha. As children in the late 1980s to 2000s, millennials saw the rise of the Information Age and Internet, being described by some as the first global generation. As adolescents and young adults in the late 1990s to 2010s, the generation was marked by a more upbeat youth culture, elevated familiarity with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Two black and white short haired cats giving thumbs up.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Two black and white short haired cats",
+          "thumbs"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that most people on Reddit agree on everything.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "most people",
+          "Reddit",
+          "everything"
+        ]
+      },
+      "title": {
+        "text": "Interesting emoji",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Interesting emoji",
+          "interesting",
+          "emoji"
+        ]
+      },
+      "text": {
+        "text": "All of Reddit for some reason.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "All",
+          "Reddit",
+          "some reason"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Interesting emoji",
+      "interesting",
+      "emoji",
+      "All",
+      "Reddit",
+      "some reason"
+    ],
+    "secondary_terms": [
+      "Two black and white short haired cats",
+      "thumbs",
+      "most people",
+      "Reddit",
+      "everything"
+    ],
+    "queries": [
+      "\"Reddit\" \"Interesting emoji\" \"All\" \"interesting\""
+    ]
+  },
+  "source_jsonl_id": null
+}

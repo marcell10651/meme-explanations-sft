@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_06115",
+  "queries": [
+    "\"Fall baking season\" \"IAN WECANIMAKEBANANA\" \"fall\" \"baking\"",
+    "\"fall\" \"baking\" \"season\" \"here\""
+  ],
+  "primary_terms": [
+    "Fall baking season",
+    "fall",
+    "baking",
+    "season",
+    "here",
+    "IAN WECANIMAKEBANANA",
+    "ing",
+    "fognore",
+    "ihebananas",
+    "ian",
+    "wecanimakebanana",
+    "bread"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:April#0000",
+      "doc_id": "wikipedia:April",
+      "title": "April",
+      "url": "https://en.wikipedia.org/?curid=1004",
+      "source_type": "wikipedia",
+      "score": 0.9131730139255524,
+      "text": "April is the fourth month of the year in the Gregorian and Julian calendars. Its length is 30 days. April is commonly associated with the season of spring in the Northern Hemisphere, and autumn in the Southern Hemisphere, where it is the seasonal equivalent to October in the Northern Hemisphere and vice versa. History The Romans gave this month the Latin name Aprilis but the derivation of this name is uncertain. The traditional etymology is from the verb aperire, \"to open\", in allusion to its being the season when trees and flowers begin to \"open\", which is supported by comparison with the modern Greek use of άνοιξη (ánixi) (opening) for spring. Since some of the Roman months were named in honor of divinities, and as April was sacred to the goddess Venus, her Veneralia being held on the first day, it has been suggested that Aprilis was originally her month Aphrilis, from her equivalent Greek goddess name Aphrodite (Aphros), or the Etruscan name Apru."
+    },
+    {
+      "chunk_id": "wikipedia:Cake#0000",
+      "doc_id": "wikipedia:Cake",
+      "title": "Cake",
+      "url": "https://en.wikipedia.org/?curid=57572",
+      "source_type": "wikipedia",
+      "score": 0.8977002680301667,
+      "text": "Cake is a baker's confectionery usually made from flour, sugar, and other ingredients and is usually baked. In their oldest forms, cakes were modifications of bread, but cakes now cover a wide range of preparations that can be simple or elaborate and which share features with desserts such as pastries, meringues, custards, and pies. The most common ingredients include flour, sugar, eggs, fat (such as butter, oil, or margarine), a liquid, and a leavening agent, such as baking soda or baking powder. Common additional ingredients include dried, candied, or fresh fruit, nuts, cocoa, and extracts such as vanilla, with numerous substitutions for the primary ingredients. Cakes can also be filled with fruit preserves, nuts, or dessert sauces (like custard, jelly, cooked fruit, whipped cream, or syrups), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit."
+    },
+    {
+      "chunk_id": "wikipedia:Year#0001",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 0.8757514178752899,
+      "text": "of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility. In temperate and subpolar regions around the planet, four seasons are generally recognized: spring, summer, autumn, and winter. In tropical and subtropical regions, several geographical sectors do not present defined seasons; but in the seasonal tropics, the annual wet and dry seasons are recognized..."
+    },
+    {
+      "chunk_id": "wikipedia:Rain#0001",
+      "doc_id": "wikipedia:Rain",
+      "title": "Rain",
+      "url": "https://en.wikipedia.org/?curid=19009110",
+      "source_type": "wikipedia",
+      "score": 0.8750998556613923,
+      "text": "maximized within windward sides of the terrain at elevation which forces moist air to condense and fall out as rainfall along the sides of mountains. On the leeward side of mountains, desert climates can exist due to the dry air caused by downslope flow which causes heating and drying of the air mass. The movement of the monsoon trough, or Intertropical Convergence Zone, brings rainy seasons to savannah..."
+    },
+    {
+      "chunk_id": "wikipedia:Cake#0001",
+      "doc_id": "wikipedia:Cake",
+      "title": "Cake",
+      "url": "https://en.wikipedia.org/?curid=57572",
+      "source_type": "wikipedia",
+      "score": 0.8486558377742768,
+      "text": "jelly, cooked fruit, whipped cream, or syrups), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit. Cake is often served as a celebratory dish on ceremonial occasions, such as weddings, anniversaries, and birthdays. There are countless cake recipes; some are bread-like, some are rich and elaborate, and many are centuries old. Cake making is no longer a complicated procedure; while at one time..."
+    },
+    {
+      "chunk_id": "wikipedia:October#0000",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.793817812204361,
+      "text": "October is the 10th month of the year in the Julian and Gregorian calendars. Its length is 31 days. The eighth month in the old calendar of Romulus c. 750 BC, October retained its name (from Latin and Greek ôctō meaning \"eight\") after January and February were inserted into the calendar that had originally been created by the Romans. In Ancient Rome, one of three Mundus patet would take place on October 5, Meditrinalia October 11, Augustalia on October 12, October Horse on October 15, and Armilustrium on October 19. These dates do not correspond to the modern Gregorian calendar. Among the Anglo-Saxons, it was known as Winterfylleth (Ƿinterfylleþ), because at this full moon, winter was supposed to begin. October is commonly associated with the season of autumn in parts of the Northern Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa."
+    },
+    {
+      "chunk_id": "wikipedia:Snow#0000",
+      "doc_id": "wikipedia:Snow",
+      "title": "Snow",
+      "url": "https://en.wikipedia.org/?curid=28191",
+      "source_type": "wikipedia",
+      "score": 0.7601762890815735,
+      "text": "Snow consists of individual ice crystals that grow while suspended in the atmosphere—usually within clouds—and then fall, accumulating on the ground where they undergo further changes. It consists of frozen crystalline water throughout its life cycle, starting when, under suitable conditions, the ice crystals form in the atmosphere, increase to millimeter size, precipitate and accumulate on surfaces, then metamorphose in place, and ultimately melt, slide, or sublimate away. Snowstorms organize and develop by feeding on sources of atmospheric moisture and cold air. Snowflakes nucleate around particles in the atmosphere by attracting supercooled water droplets, which freeze in hexagonal-shaped crystals. Snowflakes take on a variety of shapes, basic among these are platelets, needles, columns, and rime. As snow accumulates into a snowpack, it may blow into drifts. Over time, accumulated snow metamorphoses, by sintering, sublimation, and freeze-thaw."
+    },
+    {
+      "chunk_id": "wikipedia:October#0001",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.7315515011548996,
+      "text": "Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa. Symbols October's birthstones are the tourmaline and opal. Its birth flower is the calendula. The zodiac signs are Libra (until October 22) and Scorpio (from October 23 onward). Observances This list does not necessarily imply either official status..."
+    },
+    {
+      "chunk_id": "wikipedia:Rain#0000",
+      "doc_id": "wikipedia:Rain",
+      "title": "Rain",
+      "url": "https://en.wikipedia.org/?curid=19009110",
+      "source_type": "wikipedia",
+      "score": 0.7294242858886719,
+      "text": "Rain is a form of precipitation where water droplets that have condensed from atmospheric water vapor fall by gravity. Rain is a major component of the water cycle and is responsible for depositing most of the fresh water on the Earth. It provides water for hydroelectric power plants, crop irrigation, and suitable conditions for many types of ecosystems. The major cause of rain production is moisture moving along three-dimensional zones of temperature and moisture contrasts known as weather fronts. If enough moisture and upward motion is present, precipitation falls from convective clouds (those with strong upward vertical motion) such as cumulonimbus (thunder clouds) which can organize into narrow rainbands. In mountainous areas, heavy precipitation is possible where upslope flow is maximized within windward sides of the terrain at elevation which forces moist air to condense and fall out as rainfall along the sides of mountains."
+    },
+    {
+      "chunk_id": "wikipedia:Year#0000",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 0.6557063639163971,
+      "text": "A year is a unit of time based on how long it takes the Earth to orbit the Sun. In scientific use, the tropical year (approximately 365 solar days, 5 hours, 48 minutes, 45 seconds) and the sidereal year (about 20 minutes longer) are more exact. The modern calendar year, as reckoned according to the Gregorian calendar, approximates the tropical year by using a system of leap years. The term 'year' is also used to indicate other periods of roughly similar duration, such as the lunar year (a roughly 354-day cycle of twelve of the Moon's phases – see lunar calendar), as well as periods loosely associated with the calendar or astronomical year, such as the seasonal year, the fiscal year, the academic year, etc. Due to the Earth's axial tilt, the course of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility."
+    }
+  ]
+}

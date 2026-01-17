@@ -1,0 +1,195 @@
+{
+  "meme_id": "meme_06228",
+  "queries": [
+    "\"Movie Studio\" \"Indiana Jones 5 Villain & Character Details\" \"Mads\" \"time\" \"again\""
+  ],
+  "primary_terms": [
+    "that time",
+    "time",
+    "again",
+    "Indiana Jones 5 Villain & Character Details",
+    "Mads",
+    "ary"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Hero#0001",
+      "doc_id": "wikipedia:Hero",
+      "title": "Hero",
+      "url": "https://en.wikipedia.org/?curid=13706",
+      "source_type": "wikipedia",
+      "score": 0.4807291150093079,
+      "text": "a hero has changed throughout time. Merriam Webster dictionary defines a hero as \"a person who is admired for great or brave acts or fine qualities\". Examples of heroes range from mythological figures, such as Gilgamesh and Iphigenia, to historical and modern figures, such as Joan of Arc, Giuseppe Garibaldi, Sophie Scholl, Alvin York, Audie Murphy, and Chuck Yeager, and fictional \"superheroes\", including Superman..."
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0000",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.47871593832969667,
+      "text": "Modern Times is a 1936 American part-talkie satirical slapstick comedy film produced, written and directed by Charlie Chaplin. In Chaplin's last performance as the iconic Little Tramp, his character struggles to survive in the modern, industrialized world. The film also stars Paulette Goddard, Henry Bergman, Tiny Sandford and Chester Conklin. Modern Times has won many awards and honors, and is widely considered one of the greatest films ever. It was one of the first 25 films selected by the Library of Congress for preservation in the National Film Registry for being \"culturally, historically, or aesthetically significant\". Plot The Tramp works on an assembly line, where he suffers greatly due to the stress and pace of the repetitive work. He eventually suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital."
+    },
+    {
+      "chunk_id": "wikipedia:Another Man, Another Chance#0000",
+      "doc_id": "wikipedia:Another Man, Another Chance",
+      "title": "Another Man, Another Chance",
+      "url": "https://en.wikipedia.org/?curid=17874058",
+      "source_type": "wikipedia",
+      "score": 0.4179274708032608,
+      "text": "Another Man, Another Chance (Un autre homme, une autre chance, UK title: Another Man, Another Woman) is a 1977 French western film directed by Claude Lelouch. Plot France in 1870: Napoleon III has just lost the war against Prussia and left the country in poverty. Young Jeanne (Geneviève Bujold) falls in love with photographer Francis (Francis Huster), who soon takes her with him when he emigrates to The United States. In a small town in the still Wild West, they build up a small photo shop. Meanwhile, animal doctor David (James Caan) lives on his lonesome farm with his wife. It takes two years and two tragic accidents until Jeanne and David meet. Alone with a child, Jeanne has decided to return to France and is about to leave but then she and David silently and carefully fall in love for the second time in their lives and hope returns."
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0000",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.39651516675949094,
+      "text": "Thanos () is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man #55 (cover date February 1973). An Eternal–Deviant warlord from the moon Titan, Thanos is regarded as one of the most powerful beings in the Marvel Universe. Due to his genocidal tendencies, he has clashed with many heroes including the Avengers and the Guardians of the Galaxy. In creating Thanos, Starlin drew inspiration from Jack Kirby's New Gods series for DC Comics, particularly the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0001",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.3888825535774231,
+      "text": "teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J. Jonah Jameson; friends like Harry Osborn and Flash Thompson; romantic interests like Gwen Stacy, Mary Jane Watson, and the Black Cat; and enemies such as Doctor Octopus, the Green Goblin, and Venom. In his origin story, Peter gets his superhuman spider-powers and abilities after he was bitten..."
+    },
+    {
+      "chunk_id": "wikipedia:Superman#0000",
+      "doc_id": "wikipedia:Superman",
+      "title": "Superman",
+      "url": "https://en.wikipedia.org/?curid=28381",
+      "source_type": "wikipedia",
+      "score": 0.35404047966003416,
+      "text": "Superman is a superhero created by writer Jerry Siegel and artist Joe Shuster, first appearing in issue #1 of Action Comics, published in the United States on April 18, 1938. Superman has been regularly published in American comic books since then, and has been adapted to other media including radio serials, novels, films, television shows, theater, and video games. Superman is the archetypal superhero: he wears an outlandish costume, uses a codename, and fights evil and averts disasters with the aid of extraordinary abilities. Although there are earlier characters who arguably fit this definition, it was Superman who popularized the superhero genre and established its conventions. He was the best-selling superhero in American comic books up until the 1980s; it is also the best-selling comic book series in the world with 600 million copies sold. Superman was born Kal-El, on the fictional planet Krypton."
+    },
+    {
+      "chunk_id": "wikipedia:Superhero#0000",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 0.34851632118225095,
+      "text": "A superhero or superheroine, is a character who typically possesses superpowers or abilities beyond those of ordinary people; is frequently costumed, concealing their identity; and fits the role of the hero, typically using their powers to help the world become a better place, or dedicating themselves to protecting the public and fighting crime. Superhero fiction is the genre of fiction that is centered on such characters, especially, since the 1930s, in American comic books (and later in Hollywood films, film serials, television and video games), as well as in Japanese media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins."
+    },
+    {
+      "chunk_id": "wikipedia:A Reason to Live, a Reason to Die#0000",
+      "doc_id": "wikipedia:A Reason to Live, a Reason to Die",
+      "title": "A Reason to Live, a Reason to Die",
+      "url": "https://en.wikipedia.org/?curid=24235116",
+      "source_type": "wikipedia",
+      "score": 0.3477295249700546,
+      "text": "A Reason to Live, a Reason to Die (originally titled Una Ragione Per Vivere E Una Per Morire, also known as Massacre at Fort Holman) is a 1972 Technicolor Italian spaghetti Western movie starring James Coburn, Bud Spencer, and Telly Savalas. Many exterior scenes were filmed at the Fort Bowie set built in the Province of Almería, Spain, where the desert landscape and climate that characterizes part of the province have made it a much utilized setting for Western films, among those A Fistful of Dollars, The Good, the Bad and the Ugly, Once Upon a Time in the West, and later 800 Bullets. The Fort Bowie set was originally built for the film The Deserter. There are two different English language versions of the movie, shorter with James Coburn's own voice and longer with different voice actors and music. James Coburn was not involved in longer cut dubbing. It also features some of the same songs from Day of Anger starring Lee Van Cleef."
+    },
+    {
+      "chunk_id": "wikipedia:Jonathan Demme#0000",
+      "doc_id": "wikipedia:Jonathan Demme",
+      "title": "Jonathan Demme",
+      "url": "https://en.wikipedia.org/?curid=16069",
+      "source_type": "wikipedia",
+      "score": 0.34762377142906187,
+      "text": "Robert Jonathan Demme ( DEM-ee; February 22, 1944 – April 26, 2017) was an American filmmaker, whose career directing, producing, and screenwriting spanned more than 30 years and 70 feature films, documentaries, and television productions. He was an Academy Award and a Directors Guild of America Award winner, and received nominations for a BAFTA Award, a Golden Globe Award, and three Independent Spirit Awards. Beginning his career under B-movie producer Roger Corman, Demme made his directorial debut with the 1974 women-in-prison film Caged Heat, before becoming known for his casually humanist films such as Melvin and Howard (1980), Swing Shift (1984), Something Wild (1986), and Married to the Mob (1988). His 1991 psychological horror film The Silence of the Lambs, based on the novel of the same title, won five Academy Awards, including Best Director and Best Picture."
+    },
+    {
+      "chunk_id": "wikipedia:One Battle After Another#0000",
+      "doc_id": "wikipedia:One Battle After Another",
+      "title": "One Battle After Another",
+      "url": "https://en.wikipedia.org/?curid=73258137",
+      "source_type": "wikipedia",
+      "score": 0.34751675128936765,
+      "text": "One Battle After Another is a 2025 American black comedy action thriller film written, co-produced, and directed by Paul Thomas Anderson. It is loosely based on and inspired by the 1990 novel Vineland by Thomas Pynchon. The film stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti (in her film debut). It follows an ex-revolutionary who is forced back into his former combative lifestyle when he and his daughter are pursued by a corrupt military officer. Anderson had wanted to adapt Vineland since the early 2000s and, eventually, incorporated his own stories into the narrative while writing the screenplay. The film was shot in California between January and June 2024 using VistaVision, becoming one of the first films to use this format for principal photography since the 1960s."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Spongebob opens a case and reveals a man is inside.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Spongebob"
+        ]
+      },
+      "meme_captions": {
+        "text": "Movie Studio announces they are going the safe route and having Mads Mikkelson play another villain.. Meme poster thinks that hollywood believes every franchise needs mads mikkelson as it's villain.. Poster recognizes Mads Mikkelsen as a reliable choice for any role.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Movie Studio",
+          "the safe route",
+          "Mads",
+          "Mikkelson",
+          "another villain",
+          "hollywood",
+          "every franchise",
+          "Mads Mikkelsen",
+          "any role"
+        ]
+      },
+      "title": {
+        "text": "It's that time again.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "that time",
+          "time",
+          "again"
+        ]
+      },
+      "text": {
+        "text": "Indiana Jones 5 Villain & Character Details Revealed In Mads Mikkelsen Image C / - wr ; (7 fd 2 cal ; SZ COONS BS ZEA N\\A oe , yo N AN: sf res OT iy er NOS \\t ary (xp y",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Indiana Jones 5 Villain & Character Details",
+          "Mads",
+          "ary"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "that time",
+      "time",
+      "again",
+      "Indiana Jones 5 Villain & Character Details",
+      "Mads",
+      "ary"
+    ],
+    "secondary_terms": [
+      "Spongebob",
+      "Movie Studio",
+      "the safe route",
+      "Mads",
+      "Mikkelson",
+      "another villain",
+      "hollywood",
+      "every franchise",
+      "Mads Mikkelsen",
+      "any role"
+    ],
+    "queries": [
+      "\"Movie Studio\" \"Indiana Jones 5 Villain & Character Details\" \"Mads\" \"time\" \"again\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_05854",
+  "queries": [
+    "\"real magic Hulk\" \"HULLLLLK SMAAAAASH\" \"Captain America\" \"his enemies\"",
+    "\"Captain America\" \"his enemies\" \"him\" \"summons\""
+  ],
+  "primary_terms": [
+    "HULLLLLK SMAAAAASH",
+    "Captain America",
+    "him",
+    "summons",
+    "his enemies",
+    "real magic Hulk"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Captain#0000",
+      "doc_id": "wikipedia:Captain",
+      "title": "Captain",
+      "url": "https://en.wikipedia.org/?curid=47671806",
+      "source_type": "wikipedia",
+      "score": 0.7559367716312408,
+      "text": "Captain is a title, an appellative for the commanding officer of a military unit; the supreme leader or highest rank officer of a navy ship, merchant ship, aeroplane, spacecraft, or other vessel; or the commander of a port, fire or police department, election precinct, etc. In militaries, the captain is typically at the level of an officer commanding a company or battalion of infantry, a ship, or a battery of artillery, or another distinct unit. It can also be a rank of command in an air force. The term also may be used as an informal or honorary title for persons in similar commanding roles. Etymology The word \"captain\" derives from the Middle English \"capitane\", itself coming from the Latin \"caput\", meaning \"head\". It is considered cognate with the Greek word katepánō (Ancient Greek: κατεπάνω, lit. '[the one placed] at the top', or \"the topmost\"), which was used as title for a senior Byzantine military rank and office. The word was Latinized as Ancient Greek: capetanus or catepan."
+    },
+    {
+      "chunk_id": "wikipedia:Hulk#0000",
+      "doc_id": "wikipedia:Hulk",
+      "title": "Hulk",
+      "url": "https://en.wikipedia.org/?curid=31509",
+      "source_type": "wikipedia",
+      "score": 0.7441475689411163,
+      "text": "The Hulk is a superhero appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962). In his comic book appearances, the character, who has dissociative identity disorder (DID), is primarily represented by the alter ego Hulk, an immense, green-skinned, hulking brute, possessing a limitless degree of physical strength, and the alter ego Dr. Robert Bruce Banner, a physically weak, socially withdrawn, and emotionally reserved physicist, both of whom typically resent each other. Lee stated that the Hulk's creation was inspired by a combination of Frankenstein and Dr. Jekyll and Mr. Hyde. Following his accidental exposure to gamma rays while saving the life of Rick Jones during the detonation of an experimental bomb, Banner is physically transformed into the Hulk when subjected to emotional stress, at or against his will."
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0000",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.7254348754882812,
+      "text": "Thanos () is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man #55 (cover date February 1973). An Eternal–Deviant warlord from the moon Titan, Thanos is regarded as one of the most powerful beings in the Marvel Universe. Due to his genocidal tendencies, he has clashed with many heroes including the Avengers and the Guardians of the Galaxy. In creating Thanos, Starlin drew inspiration from Jack Kirby's New Gods series for DC Comics, particularly the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified."
+    },
+    {
+      "chunk_id": "wikipedia:Superhero#0000",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 0.6377935409545898,
+      "text": "A superhero or superheroine, is a character who typically possesses superpowers or abilities beyond those of ordinary people; is frequently costumed, concealing their identity; and fits the role of the hero, typically using their powers to help the world become a better place, or dedicating themselves to protecting the public and fighting crime. Superhero fiction is the genre of fiction that is centered on such characters, especially, since the 1930s, in American comic books (and later in Hollywood films, film serials, television and video games), as well as in Japanese media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins."
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0001",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.6088272333145142,
+      "text": "a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The Terror (1917 film), an American silent film The Terror (1920 film), an American western film starring Tom Mix Terror (1924 film), a French film starring Pearl White The Terror..."
+    },
+    {
+      "chunk_id": "wikipedia:Walter White (Breaking Bad)#0001",
+      "doc_id": "wikipedia:Walter White (Breaking Bad)",
+      "title": "Walter White (Breaking Bad)",
+      "url": "https://en.wikipedia.org/?curid=22530352",
+      "source_type": "wikipedia",
+      "score": 0.5891090393066406,
+      "text": "his death. Due to his expertise, Walter's \"blue meth\" is purer than any other on the market, and he is pulled deeper into the illicit drug trade. An antihero turned villain protagonist as the series progresses, Walter becomes increasingly ruthless and unsympathetic, as the series' creator, Vince Gilligan, wanted him to turn from \"Mr. Chips into Scarface\". He adopts the alias \"Heisenberg..."
+    },
+    {
+      "chunk_id": "wikipedia:Superhero#0001",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 0.5856614708900452,
+      "text": "media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins. Most superheroes (for example, Superman and Spider-Man) usually possess non-human or superhuman biology, while others (such as Batman and Iron Man) derive their status from advanced technology they create and use; others may use or possess objects that have superhuman, mystical, or alien powers (such as Green Lantern and He-Man), or study and practice magic to achieve their abilities (such as Doctor Fate and Doctor Strange). The Dictionary.com definition of \"superhero\" is \"a..."
+    },
+    {
+      "chunk_id": "wikipedia:Corona#0001",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.5677018463611603,
+      "text": "into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities Corona (fictional world), in R. A. Salvatore's DemonWars novels Corona, a character in the game Doraemon: Nobita to Mittsu no Seireiseki Corona, a character in the Spider..."
+    },
+    {
+      "chunk_id": "wikipedia:Godzilla#0001",
+      "doc_id": "wikipedia:Godzilla",
+      "title": "Godzilla",
+      "url": "https://en.wikipedia.org/?curid=11986",
+      "source_type": "wikipedia",
+      "score": 0.554898202419281,
+      "text": "and Nagasaki and the Lucky Dragon 5 incident still fresh in the Japanese consciousness, Godzilla was conceived as a metaphor for nuclear weapons. Others have suggested that Godzilla is a metaphor for the United States, a \"giant beast\" woken from its \"slumber\" that then takes terrible vengeance on Japan. As the film series expanded, some storylines took on less serious undertones..."
+    },
+    {
+      "chunk_id": "wikipedia:Hero#0000",
+      "doc_id": "wikipedia:Hero",
+      "title": "Hero",
+      "url": "https://en.wikipedia.org/?curid=13706",
+      "source_type": "wikipedia",
+      "score": 0.5294724106788635,
+      "text": "A hero (feminine: heroine) is a real person or fictional character who, in the face of danger, combats adversity through feats of ingenuity, courage, or strength. The original hero type of classical epics did such things for the sake of glory and honor. Post-classical and modern heroes, on the other hand, perform great deeds or selfless acts for the common good instead of the classical goal of wealth, pride, and fame. The antonym of hero is villain. Other terms associated with the concept of hero may include good guy or white hat. In classical literature, the hero is the main or revered character in heroic epic poetry celebrated through ancient legends of a people, often striving for military conquest and living by a continually flawed personal honor code. The definition of a hero has changed throughout time. Merriam Webster dictionary defines a hero as \"a person who is admired for great or brave acts or fine qualities\"."
+    }
+  ]
+}

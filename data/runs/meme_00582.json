@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_00582",
+  "queries": [
+    "\"Two\" #onlyindetroit",
+    "\"Ste\" \"detroit\" \"onit\" \"down\"",
+    "\"onit\" \"down\" \"subway\" \"onlyindetroit\""
+  ],
+  "primary_terms": [
+    "detroit",
+    "Ste",
+    "onit",
+    "down",
+    "subway",
+    "onlyindetroit"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Down#0001",
+      "doc_id": "wikipedia:Down",
+      "title": "Down",
+      "url": "https://en.wikipedia.org/?curid=8550",
+      "source_type": "wikipedia",
+      "score": 0.820778226852417,
+      "text": "American rapper Film and television Down (film), a 2001 English remake of the film De Lift \"Down\" (Breaking Bad), an episode of the second season of Breaking Bad \"Down\" (Into the Dark), an episode of the first season of Into the Dark Literature Down (comics), a comic book published by Top Cow Productions Down (novel), a 1997..."
+    },
+    {
+      "chunk_id": "wikipedia:Sugar on My Tongue#0001",
+      "doc_id": "wikipedia:Sugar on My Tongue",
+      "title": "Sugar on My Tongue",
+      "url": "https://en.wikipedia.org/?curid=80490800",
+      "source_type": "wikipedia",
+      "score": 0.6620737463235855,
+      "text": "the \"run-on flow\" that is widely used in modern hip-hop and raps about oral sex. Critical reception The song received generally positive reviews. Mackenzie Cummings-Grady of Billboard ranked it as the second best song on Don't Tap the Glass, writing \"The song's intergalactic synths and rumbling 808s make it poised to dominate summertime gatherings, and Tyler offers some truly..."
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0001",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.5507778584957123,
+      "text": "\"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV from Oshin, 2012 \"Wait\", by Doechii from Alligator Bites Never Heal, 2024 \"Wait\", by Earth, Wind & Fire from I Am, 1979 \"Wait\", by Everyday Sunday from Sleeper, 2001 \"Wait\", by The Kills..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.5402401834726334,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0001",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.5183793902397156,
+      "text": "an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even (band), an Australian alternative rock band \"Even\", a song by Chris Brown from his 2017 album Heartbreak on a Full Moon Even Hotels, one of brands of IHG Hotels & Resorts See also Evens..."
+    },
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0000",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.4938549309968948,
+      "text": "What Not to Wear is an American makeover reality television series based on the British show of the same name. The show premiered on January 18, 2003, and ended on October 18, 2013, airing on TLC in the United States. What Not to Wear was hosted by Stacy London and Clinton Kelly, though London's Season 1 co-host was Wayne Scot Lukas. Also part of the show was head makeover artist Carmindy and hairstylist Nick Arrojo from season 1 through season 6. Celebrity hairstylist Ted Gibson replaced Arrojo beginning in season 7, through season 10. On March 6, 2013, TLC announced that the tenth season of What Not to Wear would be its last. Format Participants were nominated by friends, co-workers, or relatives. Some episodes involved self-nominations, such as the class reunion specials or mall nominations. In the latter, What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help."
+    },
+    {
+      "chunk_id": "wikipedia:Close#0001",
+      "doc_id": "wikipedia:Close",
+      "title": "Close",
+      "url": "https://en.wikipedia.org/?curid=4583933",
+      "source_type": "wikipedia",
+      "score": 0.47832847237586973,
+      "text": "associated with it Close (2019 film), an action thriller Close (2022 film), a Belgian drama film Close (street), an alley or cul-de-sac Close, old English term for an estate Close, a common stair or entryway in a Scottish tenement Close (system call), a system call in computer software Close, a character in Go! Princess PreCure ��2..."
+    },
+    {
+      "chunk_id": "wikipedia:Live#0000",
+      "doc_id": "wikipedia:Live",
+      "title": "Live",
+      "url": "https://en.wikipedia.org/?curid=28508507",
+      "source_type": "wikipedia",
+      "score": 0.4729493260383606,
+      "text": "Live may refer to: Arts, entertainment, and media Films Live! (2007 film), 2007 American film Live (2014 film), a 2014 Japanese film Live (2023 film), a Malayalam-language film Live: Phát Trực Tiếp, a Vietnamese-language film Live (Apocalyptica DVD) Music Live (band), American alternative rock band List of albums titled Live Extended plays Live (Roxus EP) Live (The Smithereens EP) Live EP (Anal Cunt EP) Live EP (Arcade Fire EP) Live EP (Breaking Benjamin EP) Live EP (The Jam EP) Live E.P. (Led Zeppelin EP) CeCe Peniston (EP Live) Ozzy Osbourne Live E.P., 1980 Live EP (Live at Fashion Rocks), by David Bowie Songs \"Live\" (Russian song) \"Live\" (Superfly song) \"Live\" (The Merry-Go-Round song) \"Live\", by B'z from Highway X, 2022 Radio BBC Radio 5 Live CILV-FM, branded LiVE 88.5, a radio station in Ottawa, Canada Television Live (South Korean TV series), a 2018 South Korean television series Live (Danish TV series) Live!"
+    },
+    {
+      "chunk_id": "wikipedia:Only#0000",
+      "doc_id": "wikipedia:Only",
+      "title": "Only",
+      "url": "https://en.wikipedia.org/?curid=1629775",
+      "source_type": "wikipedia",
+      "score": 0.46993017196655273,
+      "text": "Only may refer to: Music Albums Only (album), by Tommy Emmanuel, 2000 The Only, an EP by Dua Lipa, 2017 The Only (EP), by The Boyz Songs \"Only\" (Anthrax song), 1993 \"Only\" (Nine Inch Nails song), 2005 \"Only\" (Nicki Minaj song), 2014 \"Only\" (Lee Hi song), 2021 \"The Only\", by Static-X, 2003 \"Only\", by Ass Ponys from Lohio, 2001 \"Only\", by Fuse ODG, 2015 \"Only\", by Imagine Dragons from Origins, 2018 \"Only\", by NF from The Search, 2019 \"Only\", by Sarah Vaughan from Sarah Slightly Classical, 1963 \"Only\", by Sampha from Lahai, 2023 \"The Only\", a song by Raiden featuring Irene, 2019 \"The Only\", by Sasha Alex Sloan from Loser, 2018 Other uses Only (film), a 2019 post-apocalyptic romance film Only (magazine), a 2000s Canadian news and entertainment magazine Only, Tennessee, US Jerry Only (born 1959), American punk rock bassist and singer See also All pages with titles beginning with Only All pages with titles beginning with The Only Onli, people with this surname Onley (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0001",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.46458350121974945,
+      "text": "or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover (theater), a walkway across the stage hidden from the audience Crossover thrash, a musical genre combining thrash and punk Crossover (video games) The Crossover..."
+    }
+  ]
+}

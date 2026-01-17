@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_00669",
+  "queries": [
+    "\"THE COUNTRY SON\" \"answers\" \"questions\" \"anevawinne\"",
+    "\"questions\" \"anevawinne\" \"guess\" \"country\""
+  ],
+  "primary_terms": [
+    "some questions",
+    "answers",
+    "questions",
+    "THE COUNTRY SON",
+    "anevawinne",
+    "guess",
+    "country",
+    "son"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:I Have Some Questions for You#0000",
+      "doc_id": "wikipedia:I Have Some Questions for You",
+      "title": "I Have Some Questions for You",
+      "url": "https://en.wikipedia.org/?curid=73141678",
+      "source_type": "wikipedia",
+      "score": 0.7360826253890991,
+      "text": "I Have Some Questions for You is a 2023 literary mystery novel by American writer Rebecca Makkai, published by Viking Press. The novel received universal acclaim from critics upon release, and spent six weeks on the New York Times bestseller list. It was popular among the general public, and placed ninth in the Goodreads Choice Award's Mystery & Thriller category. Its audiobook went on to win an inaugural Libby Book Award, and it was longlisted for prestigious prizes like the Aspen Words Literary Prize and Carol Shields Prize for Fiction. Plot Bodie Kane, a film professor and podcaster, is forced to confront a series of violent events in her past when she is invited to teach a class at the New Hampshire boarding school she graduated from. Publication history I Have Some Questions for You was published on February 21, 2023 by Viking Press. It spent six weeks on the New York Times Bestseller list, after having debuted at #3."
+    },
+    {
+      "chunk_id": "wikipedia:Country#0000",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.6507517158985138,
+      "text": "A country is an area of land, colloquially used as a synonym for sovereign state or other political entities, but also used to refer to the hinterland surrounding urban areas, as well as to describe the culture of people living in these places. Usually, the term country is applied to occupied areas of land, however it can be used to refer to uninhabited areas or wastelands. When referring to a specific polity, the term \"country\" may refer to a sovereign state, a state with limited recognition, a constituent country, or a dependent territory. Most sovereign states, but not all countries, are members of the United Nations. There is no universal agreement on the number of \"countries\" in the world with a range between 193 to 237. This ambiguity is a result of several states having disputed sovereignty status or limited recognition, and a number of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time."
+    },
+    {
+      "chunk_id": "wikipedia:Switzerland#0000",
+      "doc_id": "wikipedia:Switzerland",
+      "title": "Switzerland",
+      "url": "https://en.wikipedia.org/?curid=26748",
+      "source_type": "wikipedia",
+      "score": 0.600152587890625,
+      "text": "Switzerland, officially the Swiss Confederation, is a landlocked country located at the intersection of Central, Western, and Southern Europe. It is bordered by Germany to the north, France to the west, Austria and Liechtenstein to the east, and Italy to the south. Switzerland is geographically divided among the Swiss Alps, the Swiss Plateau, and the Jura mountains; the Alps cover most of the country's territory, whereas the majority of its 9 million people are concentrated on the plateau, which hosts many of the largest cities and economic centres, including Zurich, Geneva, Basel, Bern, Lausanne, Winterthur, and Lucerne. Switzerland is a federal republic composed of 26 cantons, with Bern serving as the federal city and the seat of the national government. The country encompasses four principal linguistic and cultural regions—German, French, Italian, and Romansh—reflecting a long-standing tradition of multilingualism and cultural pluralism."
+    },
+    {
+      "chunk_id": "wikipedia:Eastern Europe#0000",
+      "doc_id": "wikipedia:Eastern Europe",
+      "title": "Eastern Europe",
+      "url": "https://en.wikipedia.org/?curid=37403",
+      "source_type": "wikipedia",
+      "score": 0.5276104271411896,
+      "text": "Eastern Europe is a subregion of the European continent. As a largely ambiguous term, it has a wide range of geopolitical, geographical, ethnic, cultural and socio-economic connotations. Its eastern boundary is marked by the Ural Mountains, and its western boundary is defined in various ways. Narrow definitions, in which Central and Southeast Europe are counted as separate regions, include Belarus, Russia and Ukraine. In contrast, broader definitions include Moldova and Romania, but also some or all of the Balkans, except East Thrace and Greece, generally speaking, the Baltic states, the Caucasus, and the Visegrád group. In Eastern Europe, Russia is the largest and most populous country."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0000",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.47103010714054105,
+      "text": "Over may refer to: Places Over, Cambridgeshire, England Over, Cheshire, England Over Bridge Over, South Gloucestershire, Gloucestershire, England Over, Tewkesbury, Gloucestershire, England Over, Seevetal, Germany Music Albums Over (album), by Peter Hammill, 1977 Over (EP), by Jarboe and Telecognac, 2000 Songs \"Over\" (Blake Shelton song) \"Over\" (Drake song) \"Over\" (Evans Blue song) \"Over\" (Fayray song) \"OVER\" (Hey! Say! JUMP song) \"Over\" (High and Mighty Color song) \"Over\" (Lindsay Lohan song) \"Over\" (Lucky Daye song) \"Over\" (Portishead song) \"Over\", by A Perfect Circle from Mer de Noms \"Over\", by Ashanti from Ashanti \"Over\", by Embrace from If You've Never Been \"Over\", by Ivy from Realistic \"Over\", by James Blunt from The Afterlove \"Over\", by Jimmy Eat World from Stay on My Side Tonight \"Over\", by Kings of Leon from Walls \"Over\", by Lykke Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by"
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0001",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.4615235924720764,
+      "text": "musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation for their name in post-nominal letters See also CANT (disambiguation) All pages with titles containing Cant Canté, a commune in Ariège, France Canter (disambiguation) Canticle Kant (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Pars#0000",
+      "doc_id": "wikipedia:Pars",
+      "title": "Pars",
+      "url": "https://en.wikipedia.org/?curid=531002",
+      "source_type": "wikipedia",
+      "score": 0.4515721797943115,
+      "text": "Pars may refer to: Fars province of Iran, also known as Pars Province Pars (Sasanian province), a province roughly corresponding to the present-day Fars, 224–651 Pars, for Persia or Iran, in the Persian language Pars News Agency, former name of Iranian news agency Pars-e Jonubi (disambiguation), villages in Iran FNSS Pars, a Turkish wheeled armoured vehicle Pars (surname) Pars interarticularis, in spinal anatomy The Pars, nickname for Dunfermline Athletic Football Club PARS may refer to: Point-a-rally scoring in the game of squash Pakistan Amateur Radio Society Programmed Airline Reservations System Russian Mission Airport. Alaska, US, ICAO location indicator Pre-arrival Review System for import into Canada PARS 3 LR, a German anti-tank missile See also Parsa (disambiguation) Fars (disambiguation) Persia (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Nevada#0001",
+      "doc_id": "wikipedia:Nevada",
+      "title": "Nevada",
+      "url": "https://en.wikipedia.org/?curid=21216",
+      "source_type": "wikipedia",
+      "score": 0.441570445895195,
+      "text": "native plant of the same name; and as the \"Sage-hen State\". Native Americans of the Paiute, Shoshone, and Washoe tribes inhabit what is now Nevada. The first Europeans to explore the region were Spanish. They called the region Nevada (snowy) because of the snow which covered the mountains in winter, similar to the Sierra Nevada in Spain. The area formed from mostly Alta California..."
+    },
+    {
+      "chunk_id": "wikipedia:Tanna#0001",
+      "doc_id": "wikipedia:Tanna",
+      "title": "Tanna",
+      "url": "https://en.wikipedia.org/?curid=4651537",
+      "source_type": "wikipedia",
+      "score": 0.4408194571733475,
+      "text": "2015 film set on the island of Tanna, Vanuatu Tanna languages, a subgroup of the South Vanuatu languages See also Tana (disambiguation) All pages with titles beginning with Tanna All pages with titles containing Tanna"
+    },
+    {
+      "chunk_id": "wikipedia:His House#0001",
+      "doc_id": "wikipedia:His House",
+      "title": "His House",
+      "url": "https://en.wikipedia.org/?curid=62897844",
+      "source_type": "wikipedia",
+      "score": 0.43000486493110657,
+      "text": "the perilous English Channel from France to seek asylum. Although they survive the treacherous crossing, their daughter and many others do not. When they are finally granted probational asylum in Britain three months later, the government assigns them a shabby house with peeling walls and dismal furnishings on the outskirts of London. They are given strict restrictions or they may face deportation. They experience racism and hatred from their tenement neighbours. They are met by..."
+    }
+  ]
+}

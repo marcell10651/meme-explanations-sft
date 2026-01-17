@@ -1,0 +1,118 @@
+{
+  "meme_id": "meme_00065",
+  "queries": [
+    "\"14-YEAR OLD STUDENT BUILDS AN ATOMIC BOMB\" \"science fairs\" \"science\" \"fairs\"",
+    "\"science\" \"fairs\" \"wild\" \"mae\""
+  ],
+  "primary_terms": [
+    "science fairs",
+    "science",
+    "fairs",
+    "wild",
+    "14-YEAR OLD STUDENT BUILDS AN ATOMIC BOMB",
+    "mae",
+    "year",
+    "old",
+    "student",
+    "builds",
+    "atomic",
+    "bomb",
+    "project",
+    "sel",
+    "bow",
+    "schoolithoughtwasta",
+    "bombaamal"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Science#0000",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.7640495121479034,
+      "text": "Science is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe. Modern science is typically divided into two – or three – major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies. While referred to as the formal sciences, the study of logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology. Meanwhile, applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine. The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE)."
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0000",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.7256945788860321,
+      "text": "Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist. Physics is one of the oldest academic disciplines. Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.6530066102743148,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0000",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.6199096351861954,
+      "text": "A scientist is an expert who conducts scientific research to advance knowledge in science. In classical antiquity, there was no real ancient analog of a modern scientist. Instead, philosophers engaged in the philosophical study of nature called natural philosophy. Though Thales (c. 624–545 BC) was arguably the first scientist for describing how cosmic events may be seen as natural, not necessarily caused by gods, it was not until the 19th century that the term scientist came into regular use: it was coined by the theologian, philosopher, and historian of science William Whewell in 1833 to describe Mary Somerville. History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time."
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0001",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.5936190247535705,
+      "text": "mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy. Advances in physics often enable new technologies. For example, advances in the understanding of electromagnetism, solid-state physics, and nuclear physics led directly to the development of technologies that have transformed..."
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0001",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.5900772124528885,
+      "text": "History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time. Scientists of different eras (and before them, natural philosophers, mathematicians, natural historians, natural theologians, engineers, and others who contributed to the development of science) have had widely different places in society, and the social norms, ethical values, and epistemic virtues associated with scientists—and expected of them—have changed over time as well. Accordingly, many different historical figures..."
+    },
+    {
+      "chunk_id": "wikipedia:Jenna Marbles#0000",
+      "doc_id": "wikipedia:Jenna Marbles",
+      "title": "Jenna Marbles",
+      "url": "https://en.wikipedia.org/?curid=33101554",
+      "source_type": "wikipedia",
+      "score": 0.5679200828075409,
+      "text": "Jenna Nicole Mourey (born September 15, 1986), better known as Jenna Marbles, is an American former YouTuber. Over the span of ten years, her YouTube channel has accumulated approximately 1.8 billion video views and, at its peak, over 20 million subscribers. After apologizing for a series of accusations involving content in her older videos, Marbles announced her indefinite hiatus from the platform in 2020. Early life and career Jenna Nicole Mourey was born on September 15, 1986 in Rochester, New York, where she was also raised. Marbles attended Brighton High School in the Rochester suburb of Brighton, New York, and graduated in 2004. She then moved to Boston, Massachusetts, where she earned a Bachelor of Science in psychology at Suffolk University and a Master of Education in sport psychology and counseling at Boston University. In the summer of 2010, Marbles was sharing a three-bedroom apartment in Cambridge, Massachusetts."
+    },
+    {
+      "chunk_id": "wikipedia:Wild#0000",
+      "doc_id": "wikipedia:Wild",
+      "title": "Wild",
+      "url": "https://en.wikipedia.org/?curid=1101278",
+      "source_type": "wikipedia",
+      "score": 0.554918360710144,
+      "text": "Wild, wild, wilds or wild may refer to: Common meanings Wilderness, a wild natural environment Wildlife, an undomesticated organism Wildness, the quality of being wild or untamed Art, media and entertainment Film and television Wild (2014 film), a 2014 American film from the 2012 book Wild (2016 film), a 2016 German film The Wild, a 2006 Disney 3D animation film Wild (TV series), a 2006 American documentary television series The Wilds (TV series), a 2020 television series Literature Wild: From Lost to Found on the Pacific Crest Trail a 2012 non-fiction book by Cheryl Strayed Wild, An elemental Journey, a 2006 autobiographical book by Jay Griffiths The Wild (novel), a 1991 novel by Whitley Strieber The Wild, a science fiction novel by David Zindell The Wilds, a 1998 limited-edition horror novel by Richard Laymon Music Wild (band), a five-piece classical female group Albums and EPs Wild (EP), 2015 Wild, a 1999 album by Inkubus Sukkubus Wild, a 2016 album by Joanne Shaw Taylor Wild!, a"
+    },
+    {
+      "chunk_id": "wikipedia:Grade#0000",
+      "doc_id": "wikipedia:Grade",
+      "title": "Grade",
+      "url": "https://en.wikipedia.org/?curid=91313",
+      "source_type": "wikipedia",
+      "score": 0.543730902671814,
+      "text": "Grade often refers to: Grading in education, a student's performance as determined by an educational assessment (e.g. A, pass, etc.) A designation for students, classes and curricula indicating the amount of years a student has completed in an educational stage (e.g. first grade, second grade, K–12, etc.) Grade (slope), the steepness of a slope Graded voting Grade or grading may also refer to: Music Grade (music), a formally assessed level of proficiency in a musical instrument Grade (band), punk rock band Grades (producer), British electronic dance music producer and DJ Science and technology Biology and medicine Grading (tumors), a measure of the aggressiveness of a tumor in medicine The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach Evolutionary grade, a paraphyletic group of organisms Geology Graded bedding, a description of the variation in grain size through a bed in a sedimentary rock Metamorphic grade, an indication of the degree of"
+    },
+    {
+      "chunk_id": "wikipedia:Flight#0000",
+      "doc_id": "wikipedia:Flight",
+      "title": "Flight",
+      "url": "https://en.wikipedia.org/?curid=159472",
+      "source_type": "wikipedia",
+      "score": 0.5129850715398788,
+      "text": "Flight or flying is the motion of an object through an atmosphere or through the vacuum of space, in this case also called spaceflight, without contacting any planetary surface. This can be achieved by generating aerodynamic lift associated with gliding or propulsive thrust, aerostatically using buoyancy, or by ballistic movement. Many things can fly, from animal aviators such as birds, bats and insects, to natural gliders/parachuters such as patagial animals, anemochorous seeds and ballistospores, to human inventions like aircraft (airplanes, helicopters, airships, balloons, etc.) and rockets which may propel spacecraft and spaceplanes. The engineering aspects of flight are the purview of aerospace engineering. It has three subfields: aeronautics — the study of vehicles that travel through the atmosphere. astronautics — the study of vehicles that travel through space. ballistics — the study of the flight of projectiles."
+    }
+  ]
+}

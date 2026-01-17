@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_01943",
+  "queries": [
+    "\"Mr Musk\" \"a pro-gamer move\" \"Arena\" \"musk\" \"does\"",
+    "\"musk\" \"does\" \"pro\" \"gamer\""
+  ],
+  "primary_terms": [
+    "a pro-gamer move",
+    "musk",
+    "does",
+    "pro",
+    "gamer",
+    "move",
+    "Arena",
+    "laa",
+    "rseclark",
+    "tualer"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Rive#0000",
+      "doc_id": "wikipedia:Rive",
+      "title": "Rive",
+      "url": "https://en.wikipedia.org/?curid=6562079",
+      "source_type": "wikipedia",
+      "score": 6.280905125686563,
+      "text": "Rive or La Rive may refer to: Places Rive, Piedmont, Italy Rive d'Arcano, Friuli-Venezia Giulia, Italy Rive Droite, Paris, France Rive Gauche, Paris, France People De la Rive, a surname and list of people Joey Rive (July 8, 1963) American tennis player Julie Rivé-King (1854-1937), American musician Lyndon Rive, cofounder of Solar City and cousin of Elon Musk Richard Rive (1931-1989), South African academic and writer Robert Rive, 19th century photographer Other La Rive, a restaurant in Amsterdam, Netherlands La Rive Condominiums, Minneapolis, Minnesota, US Rive (video game), a 2016 platforming shoot-em-up video game Wood splitting, or riving See also Longue-Rive, Quebec, Canada Belle Rive (disambiguation) Rives (disambiguation) Rivière (disambiguation) Ríos (disambiguation) Rio (disambiguation) Rivers (disambiguation) River (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Play#0000",
+      "doc_id": "wikipedia:Play",
+      "title": "Play",
+      "url": "https://en.wikipedia.org/?curid=923188",
+      "source_type": "wikipedia",
+      "score": 0.7089853703975677,
+      "text": "Play most commonly refers to: Play (activity), an activity done for enjoyment Play (theatre), a work of drama Play may refer also to: Computers and technology Google Play, a digital content service Play Framework, a Java framework Play Mobile, a Polish internet provider Xperia Play, an Android phone Rakuten.co.uk (formerly Play.com), an online retailer Backlash (engineering), or play, non-reversible part of movement Petroleum play, oil fields with same geological circumstances Play symbol, in media control devices Play (hacker group), a ransomware extortion group Film Play (2005 film), Chilean film directed by Alicia Scherson Play, a 2009 short film directed by David Kaplan Play (2011 film), a Swedish film directed by Ruben Östlund Play!, a Japanese film directed by Tomoyuki Furumaya Rush (2012 film), an Indian film earlier titled Play and also known as Raftaar 24 x 7 The Play (film), a 2013 Indian Bengali-language film Aattam or The Play, a 2024 Indian Malayalam-language film Games"
+    },
+    {
+      "chunk_id": "wikipedia:Game#0001",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.7063202619552612,
+      "text": "may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports. All games must have a challenge and a structure; barring certain exceptions like sandbox games, all games also have an objective. Multiplayer games also include interaction between two or more players. Not all forms of play are considered games; toys and puzzles, for instance, are not games, as they do not have a..."
+    },
+    {
+      "chunk_id": "wikipedia:Profit#0000",
+      "doc_id": "wikipedia:Profit",
+      "title": "Profit",
+      "url": "https://en.wikipedia.org/?curid=18487619",
+      "source_type": "wikipedia",
+      "score": 0.6423071384429931,
+      "text": "Profit may refer to: Business and law Profit (accounting), the difference between the purchase price and the costs of bringing to market Profit (economics), normal profit and economic profit Profit (real property), a nonpossessory interest in land Account of profits, a type of equitable remedy in law (also known as an accounting) Arts, entertainment, and media Profit (magazine), Canadian business magazine aimed at entrepreneurs Profit (TV series), U.S. TV series starring Adrian Pasdar The Profit (film), U.S. 2001 feature film by Peter N. Alexander The Profit (TV series), U.S. TV series presented by Marcus Lemonis People Joe Profit (born 1959), former American football player Laron Profit (born 1977), professional basketball player Richard Profit (born 1974), English mountaineer and adventurer Park \"Profit\" Joon-yeong, professional Overwatch player Places Profit, United States Virgin Islands See also All pages with titles beginning with Profit All pages with titles containing Profit"
+    },
+    {
+      "chunk_id": "wikipedia:Spek#0000",
+      "doc_id": "wikipedia:Spek",
+      "title": "Spek",
+      "url": "https://en.wikipedia.org/?curid=6015689",
+      "source_type": "wikipedia",
+      "score": 0.6247072517871857,
+      "text": "Hussain Yoosuf, better known by his stage name Spek, is a Canadian hip hop musician. He is best known for his singles \"Smell the Coffee\" and \"I'm a Hippie\". He is a former member of the Canadian hip hop pioneers, Dream Warriors, and, more recently, known for his work as an entrepreneur and music publisher. Early career Spek started rapping at the age of 14 in his hometown of Montreal, Quebec. He joined the hip hop group Dream Warriors shortly after the release of their hit songs \"My Definition of a Boombastic Jazz Style\" and \"Wash Your Face in My Sink\". At the age of 17, he signed a worldwide record contract with EMI and toured the world before settling in London. Spek soon found himself touring across Europe with the British jazz-rap crew Us3. Working with his musical partner Brian Rose, he collaborated with members of Jamiroquai and with Nitin Sawhney."
+    },
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.6136671960353851,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Arms#0001",
+      "doc_id": "wikipedia:Arms",
+      "title": "Arms",
+      "url": "https://en.wikipedia.org/?curid=9843028",
+      "source_type": "wikipedia",
+      "score": 0.596411919593811,
+      "text": "for the Nintendo Switch ARMS Charity Concerts, a series of charitable rock concerts in support of Action into Research for Multiple Sclerosis in 1983 Project ARMS, a 1997 Japanese manga series also known as ARMS Other uses Alveolar rhabdomyosarcoma, a form of cancer Arms, Amps root mean square, seen in electrical specifications..."
+    },
+    {
+      "chunk_id": "wikipedia:Google#0001",
+      "doc_id": "wikipedia:Google",
+      "title": "Google",
+      "url": "https://en.wikipedia.org/?curid=1092923",
+      "source_type": "wikipedia",
+      "score": 0.5717412889003753,
+      "text": "owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's internet properties and interests. Sundar Pichai was appointed CEO of Google on October 24, 2015, replacing Larry Page, who became the CEO of Alphabet. On December 3, 2019, Pichai also became the CEO of Alphabet. After the success of its original service..."
+    },
+    {
+      "chunk_id": "wikipedia:Your Game#0001",
+      "doc_id": "wikipedia:Your Game",
+      "title": "Your Game",
+      "url": "https://en.wikipedia.org/?curid=4747095",
+      "source_type": "wikipedia",
+      "score": 0.5554917216300964,
+      "text": "gospel version) UK CD2 \"Your Game\" \"Take Control\" (Young, R. Stannard, J. Gallagher, S. Hale) \"Down\" (Young, S. Morales, R. Shaw, D. Siegel, D. Warner) \"Your Game\" (video) Credits and personnel Neil Conti – drums Taio Cruz – writer Stephen Lipson – producer, programming Bair MacKichan – drums, guitar, programming, writer Heff Moraes – mixing engineer Dave Naughton – Pro Tools Will Young – vocals, writer Charts Release history References External links Music video on YouTube"
+    },
+    {
+      "chunk_id": "wikipedia:Appearance#0001",
+      "doc_id": "wikipedia:Appearance",
+      "title": "Appearance",
+      "url": "https://en.wikipedia.org/?curid=8104650",
+      "source_type": "wikipedia",
+      "score": 0.533274894952774,
+      "text": "submits himself to the jurisdiction of the court. Appear or Appears may refer to: \"Appear\" (나타나) a song from Secret Garden OST (2010), by Kim Bum-soo. \"Appears\", a song released by Ayumi Hamasaki in 1999 Appearing may refer to: Appearing (media consultants) - \"Appearing\", broadcast media promotion consultants, a PR agency headed by Scott Piering See also All pages with titles beginning with Appearance All pages with titles containing Appearance Apparition (disambiguation), any instance of appearing, but usually referring to a supernatural phenomenon Cap (sport) in some sports is a metaphorical term for a player's appearance on a select team, such as a national team"
+    }
+  ]
+}

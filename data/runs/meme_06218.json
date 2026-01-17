@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_06218",
+  "queries": [
+    "\"Words\" \"feelings\" \"headphones\" \"say\"",
+    "\"headphones\" \"say\" \"disconnected\" \"shit\""
+  ],
+  "primary_terms": [
+    "Words",
+    "feelings",
+    "your headphones",
+    "that shit",
+    "headphones",
+    "say",
+    "disconnected",
+    "feeling",
+    "shit",
+    "ony"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Headphones#0000",
+      "doc_id": "wikipedia:Headphones",
+      "title": "Headphones",
+      "url": "https://en.wikipedia.org/?curid=191884",
+      "source_type": "wikipedia",
+      "score": 1.0322181344032288,
+      "text": "Headphones are a pair of small loudspeaker drivers worn on or around the head over a user's ears. They are electroacoustic transducers, which convert an electrical signal to a corresponding sound. Headphones let a single user listen to an audio source privately, in contrast to a loudspeaker, which emits sound into the open air for anyone nearby to hear. Headphones are also known as earphones or, colloquially, cans. Circumaural (around the ear) and supra-aural (over the ear) headphones use a band over the top of the head to hold the drivers in place. Another type, known as earbuds or earpieces, consists of individual units that plug into the user's ear canal; within that category have been developed cordless air buds using wireless technology. A third type are bone conduction headphones, which typically wrap around the back of the head and rest in front of the ear canal, leaving the ear canal open."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0000",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.6484455585479736,
+      "text": "Here may refer to: Music Here (Adrian Belew album), 1994 Here (Alicia Keys album), 2016 Here (Cal Tjader album), 1979 Here (Edward Sharpe album), 2012 Here (Idina Menzel album), 2004 Here (Merzbow album), 2008 Here (Nicolay album), 2006 Here (Leo Sayer album), 1979 Here (Teenage Fanclub album), 2016 \"Here\" (Alessia Cara song), 2015 \"Here\" (The Grace song), 2008 \"Here\" (Rascal Flatts song), 2008 \"Here\" (Tom Grennan song), 2023 \"Here\" (1954 song), song with music by Harold Grant and lyrics by Dorcas Cochran Here (Cartoon song), 2016 \"Here (In Your Arms)\", 2006 song by Hellogoodbye \"Here\", a 1971 song by America from their eponymous debut album \"Here\", a 2014 song by Christine and the Queens from Chaleur humaine \"Here\", a 2018 song by David Byrne from American Utopia \"Here\", a 1992 song by Pavement from Slanted and Enchanted \"Here\", a 2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a"
+    },
+    {
+      "chunk_id": "wikipedia:Silence#0000",
+      "doc_id": "wikipedia:Silence",
+      "title": "Silence",
+      "url": "https://en.wikipedia.org/?curid=440579",
+      "source_type": "wikipedia",
+      "score": 0.6206564903259277,
+      "text": "Silence is the absence of ambient audible sound, the emission of sounds of such low intensity that they do not draw attention to themselves, or the state of having ceased to produce sounds; this latter sense can be extended to apply to the cessation or absence of any form of communication, whether through speech or other medium. Remaining mute can be a symptom of mental illness. Sometimes speakers fall silent when they hesitate in searching for a word, or interrupt themselves before correcting themselves. Discourse analysis shows that people use brief silences to mark the boundaries of prosodic units, in turn-taking, or as reactive tokens, for example, as a sign of displeasure, disagreement, embarrassment, desire to think, confusion, and the like. Relatively prolonged intervals of silence can be used in rituals; in some religious disciplines, people maintain silence for protracted periods, or even for the rest of their lives, as an ascetic means of spiritual transformation."
+    },
+    {
+      "chunk_id": "wikipedia:Microphone#0001",
+      "doc_id": "wikipedia:Microphone",
+      "title": "Microphone",
+      "url": "https://en.wikipedia.org/?curid=65886",
+      "source_type": "wikipedia",
+      "score": 0.5714272856712341,
+      "text": "larger groups of people, a need arose to increase the volume of the human voice. The earliest devices used to achieve this were acoustic megaphones. Some of the first examples, from fifth-century-BC Greece, were theater masks with horn-shaped mouth openings that acoustically amplified the voice of actors in amphitheaters. Between 1664 and 1685, the English physicist..."
+    },
+    {
+      "chunk_id": "wikipedia:Silence#0001",
+      "doc_id": "wikipedia:Silence",
+      "title": "Silence",
+      "url": "https://en.wikipedia.org/?curid=440579",
+      "source_type": "wikipedia",
+      "score": 0.5609097480773926,
+      "text": "disciplines, people maintain silence for protracted periods, or even for the rest of their lives, as an ascetic means of spiritual transformation. Perception In the philosophy of perception and the science of perception, there has been a longstanding controversy as to how humans experience silence: \"the perceptual view (we literally hear silence), and..."
+    },
+    {
+      "chunk_id": "wikipedia:Microphone#0000",
+      "doc_id": "wikipedia:Microphone",
+      "title": "Microphone",
+      "url": "https://en.wikipedia.org/?curid=65886",
+      "source_type": "wikipedia",
+      "score": 0.5433171689510345,
+      "text": "A microphone, colloquially called a mic (), or mike, is a transducer that converts sound into an electrical signal. Microphones are used in telecommunication, sound recording, broadcasting, and consumer electronics, including telephones, hearing aids, and mobile devices. Several types of microphone are used today, which employ different methods to convert the air pressure variations of a sound wave to an electrical signal. The most common are the dynamic microphone, which uses a coil of wire suspended in a magnetic field; the condenser microphone, which uses the vibrating diaphragm as a capacitor plate; and the contact microphone, which uses a crystal of piezoelectric material. Microphones typically need to be connected to a preamplifier before the signal can be recorded or reproduced. History In order to speak to larger groups of people, a need arose to increase the volume of the human voice. The earliest devices used to achieve this were acoustic megaphones."
+    },
+    {
+      "chunk_id": "wikipedia:Themselves#0001",
+      "doc_id": "wikipedia:Themselves",
+      "title": "Themselves",
+      "url": "https://en.wikipedia.org/?curid=3237436",
+      "source_type": "wikipedia",
+      "score": 0.5142394006252289,
+      "text": "a mixtape, The Free Houdini, as well as the third studio album, Crowns Down. Another remix album, Crowns Down & Company, was released in 2010. Members Doseone – vocals, production Jel – vocals, production Discography Studio albums Them (2000) The No Music (2002) Crowns Down (2009) Mixtapes The Free Houdini (2009) Remix albums The No Music of AIFFs (2003) Crowns Down & Company (2010) Live albums Live (2003) Live II (2005) Singles \"Joyful Toy of 1001 Faces\" (1999) \"This About the City Too\" (2002) \"P.U.S.H.\" (2004) Compilation appearances \"It's Them\" on Music for the Advancement of Hip Hop..."
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0001",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.5104302167892456,
+      "text": "1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple, 2008 \"Whatever\", by Hüsker Dü from Zen Arcade, 1984 \"Whatever\", by Imogen Heap from I Megaphone, 1998 \"Whatever\", by Lil Tecca from We Love You Tecca 2, 2021 \"Whatever\", by Our Lady Peace..."
+    },
+    {
+      "chunk_id": "wikipedia:Better#0001",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.497552290558815,
+      "text": "\"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000 single for the Erasure song, \"Freedom\" \"Better\", a 2001 song by Hoobastank from the album, Hoobastank \"Better\", a 2005 song by Plumb from the album, Chaotic Resolve \"Better\", a 2005..."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0000",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.4950282096862793,
+      "text": "In grammar, a phrase — called an expression in some contexts — is a group of one or more words acting as a grammatical unit. For instance, the English expression \"the very happy squirrel\" is a noun phrase which contains the adjective phrase \"very happy\". Phrases can consist of a single word or a complete sentence. In theoretical linguistics, phrases are often analyzed as units of syntactic structure such as a constituent. There is a difference between the common use of the term phrase and its technical use in linguistics. In common usage, a phrase is usually a group of words with some special idiomatic meaning or other significance, such as \"all rights reserved\", \"economical with the truth\", or \"kick the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes."
+    }
+  ]
+}

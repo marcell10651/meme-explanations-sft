@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_00123",
+  "queries": [
+    "\"Among Us\" \"the game\" \"doin\" \"over\" \"there\"",
+    "\"over\" \"there\" \"even\" \"though\""
+  ],
+  "primary_terms": [
+    "doin",
+    "over",
+    "there",
+    "the game",
+    "even",
+    "though",
+    "don",
+    "play",
+    "game",
+    "ooks"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Surgeon#0000",
+      "doc_id": "wikipedia:Surgeon",
+      "title": "Surgeon",
+      "url": "https://en.wikipedia.org/?curid=9104734",
+      "source_type": "wikipedia",
+      "score": 12.995444772956827,
+      "text": "In medicine, a surgeon is a medical doctor who performs surgery. Even though there are different traditions in different times and places, a modern surgeon is a licensed physician and received the same medical training as physicians before specializing in surgery. In some countries and jurisdictions, the title of 'surgeon' is restricted to maintain the integrity of the craft group in the medical profession. A specialist regarded as a legally recognized surgeon includes podiatry, dentistry, and veterinary medicine. It is estimated that surgeons perform over 300 million surgical procedures globally each year. History The first person to document a surgery was the 6th century BC Indian physician-surgeon, Sushruta. He specialized in cosmetic plastic surgery and even documented an open rhinoplasty procedure. His magnum opus Suśruta-saṃhitā is one of the most important surviving ancient treatises on medicine and is considered a foundational text of both Ayurveda and surgery."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0000",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 1.0229128420352935,
+      "text": "Over may refer to: Places Over, Cambridgeshire, England Over, Cheshire, England Over Bridge Over, South Gloucestershire, Gloucestershire, England Over, Tewkesbury, Gloucestershire, England Over, Seevetal, Germany Music Albums Over (album), by Peter Hammill, 1977 Over (EP), by Jarboe and Telecognac, 2000 Songs \"Over\" (Blake Shelton song) \"Over\" (Drake song) \"Over\" (Evans Blue song) \"Over\" (Fayray song) \"OVER\" (Hey! Say! JUMP song) \"Over\" (High and Mighty Color song) \"Over\" (Lindsay Lohan song) \"Over\" (Lucky Daye song) \"Over\" (Portishead song) \"Over\", by A Perfect Circle from Mer de Noms \"Over\", by Ashanti from Ashanti \"Over\", by Embrace from If You've Never Been \"Over\", by Ivy from Realistic \"Over\", by James Blunt from The Afterlove \"Over\", by Jimmy Eat World from Stay on My Side Tonight \"Over\", by Kings of Leon from Walls \"Over\", by Lykke Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by"
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0000",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.8193260908126831,
+      "text": "Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth. The game allows for cross-platform play; it was released on iOS and Android devices in June 2018 and on Windows later that year in November. It was ported to the Nintendo Switch in December 2020 and on the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in December 2021. A virtual reality adaptation, Among Us VR, was released on November 10, 2022. Among Us takes place in space-themed settings where players are colorful, armless cartoon astronauts. Each player takes on one of two roles: most are Crewmates, but a small number are Impostors. Crewmates work to complete assigned tasks in the game while identifying and voting out suspected Impostors (who appear identical to Crewmates) using social deduction, while Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0000",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.7206371665000916,
+      "text": "Even may refer to: General Even (company), a Brazilian construction and real estate company Even (given name), a Norwegian male personal name Even (surname), a Breton surname Even (people), an ethnic group from Siberia and Russian Far East Even language, a language spoken by the Evens Odd and Even, a solitaire game which is played with two decks of playing cards Evening, the period of a day that begins at the end of daylight and overlaps with the beginning of night Science and technology In mathematics, the term even is used in several senses related to odd: even and odd numbers, an integer is even if dividing by two yields an integer even and odd functions, a function is even if f(−x) = f(x) for all x even and odd permutations, a permutation of a finite set is even if it is composed of an even number of transpositions Singly even number, an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even"
+    },
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.7091447651386261,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Fallout (video game)#0001",
+      "doc_id": "wikipedia:Fallout (video game)",
+      "title": "Fallout (video game)",
+      "url": "https://en.wikipedia.org/?curid=4508917",
+      "source_type": "wikipedia",
+      "score": 0.6933909893035889,
+      "text": "scheme, SPECIAL. Interplay initially gave the game little attention, but eventually spent $3 million and employed up to thirty people to develop it. Interplay considered Fallout the spiritual successor to its 1988 role-playing game Wasteland and drew artistic inspiration from 1950s literature and media emblematic of the Atomic Age as well as the films..."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0001",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.6095662891864777,
+      "text": "Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing. While the game was initially released in 2018 to little mainstream attention, it received a massive rise in popularity in 2020 due to many Twitch streamers and YouTubers playing it during the COVID-19 pandemic..."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0000",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.5837812721729279,
+      "text": "Here may refer to: Music Here (Adrian Belew album), 1994 Here (Alicia Keys album), 2016 Here (Cal Tjader album), 1979 Here (Edward Sharpe album), 2012 Here (Idina Menzel album), 2004 Here (Merzbow album), 2008 Here (Nicolay album), 2006 Here (Leo Sayer album), 1979 Here (Teenage Fanclub album), 2016 \"Here\" (Alessia Cara song), 2015 \"Here\" (The Grace song), 2008 \"Here\" (Rascal Flatts song), 2008 \"Here\" (Tom Grennan song), 2023 \"Here\" (1954 song), song with music by Harold Grant and lyrics by Dorcas Cochran Here (Cartoon song), 2016 \"Here (In Your Arms)\", 2006 song by Hellogoodbye \"Here\", a 1971 song by America from their eponymous debut album \"Here\", a 2014 song by Christine and the Queens from Chaleur humaine \"Here\", a 2018 song by David Byrne from American Utopia \"Here\", a 1992 song by Pavement from Slanted and Enchanted \"Here\", a 2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a"
+    },
+    {
+      "chunk_id": "wikipedia:Dungeons & Dragons#0001",
+      "doc_id": "wikipedia:Dungeons & Dragons",
+      "title": "Dungeons & Dragons",
+      "url": "https://en.wikipedia.org/?curid=7940",
+      "source_type": "wikipedia",
+      "score": 0.5678684294223786,
+      "text": "each player to create their own character to play instead of a military formation. These characters embark upon adventures within a fantasy setting. A Dungeon Master (DM) serves as referee and storyteller for the game, while maintaining the setting in which the adventures occur, and playing the role of the inhabitants of the game world, known as non-player characters (NPCs). The characters form a party and they interact with the setting's inhabitants and each other. Together they solve..."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0001",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.5675453931093216,
+      "text": "the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes. In theories of syntax, a phrase is any group of words, or sometimes a single word, which plays a particular role within the syntactic structure of a sentence. It does not have to have any special meaning or significance, or even exist anywhere outside of the sentence being analyzed, but it must function there as a complete grammatical unit..."
+    }
+  ]
+}

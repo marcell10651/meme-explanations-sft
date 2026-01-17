@@ -1,0 +1,210 @@
+{
+  "meme_id": "meme_01669",
+  "queries": [
+    "\"my third homemade meme\" \"America\" \"third\" \"homemade\"",
+    "\"third\" \"homemade\" \"mades\" \"clock\""
+  ],
+  "primary_terms": [
+    "my third homemade meme",
+    "third",
+    "homemade",
+    "America",
+    "mades",
+    "clock",
+    "arrested",
+    "also",
+    "atomic",
+    "bomb",
+    "science",
+    "project",
+    "cpoe"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Made#0000",
+      "doc_id": "wikipedia:Made",
+      "title": "Made",
+      "url": "https://en.wikipedia.org/?curid=666961",
+      "source_type": "wikipedia",
+      "score": 0.6832497477531433,
+      "text": "Made or MADE may refer to: Entertainment Film Made (1972 film), United Kingdom Made (2001 film), United States Music Made (Big Bang album), 2016 Made (Hawk Nelson album), 2013 Made (Scarface album), 2007 M.A.D.E., 2003 album by Memphis Bleek \"Made\" (Scuba Dice song), 2006 \"Made\" (The Wanted song), 2010 Made (band), a Toronto lo-fi band Television Made (TV series), United States, 2002 to 2014 Companies Made.com, an online furniture retailer in London, United Kingdom MADE Clothing, an American clothing line around 2005 The MADE or The Museum of Art and Digital Entertainment Geography Made (Netherlands), a town in the Netherlands People van der Made - Dutch family name Dalem Di Made (fl."
+    },
+    {
+      "chunk_id": "wikipedia:Builder#0000",
+      "doc_id": "wikipedia:Builder",
+      "title": "Builder",
+      "url": "https://en.wikipedia.org/?curid=2518249",
+      "source_type": "wikipedia",
+      "score": 0.5871937990188598,
+      "text": "Builder may refer to: Construction Construction worker, who specializes in building work Carpenter, a skilled craftsman who works with wood General contractor, that specializes in building work Subcontractor Real estate developer, who causes buildings to be constructed Media Builders (film), a 1942 British propaganda film The Builder (film), 2010 film The Builder, British magazine now known as Building Builder, American magazine published by Zonda Home \"The Builder\" (short story), a 1953 short story by Philip K. Dick \"The Builders\", an episode in the 1970s British television comedy Fawlty Towers \"Builder\" (Not Going Out), a 2019 television episode Builders, international music group also known as The Bilders, Bilderbergers and Bilderine Other Builder (detergent), a component of modern detergents Builder (hockey), in ice hockey, manages or builds the game Builder (United States Navy), U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Second#0000",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.5418174386024475,
+      "text": "The second (symbol: s) is a unit of time derived from the division of the day first into 24 hours, then to 60 minutes, and lastly to 60 seconds each, for a total of 24 × 60 × 60 = 86,400 seconds per day. The current and formal definition in the International System of Units (SI) is more precise: The second [...] is defined by taking the fixed numerical value of the caesium frequency, ΔνCs, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9192631770 when expressed in the unit Hz, which is equal to s−1. That is saying that a second is the duration of time it takes for 9 192 631 770 of these transitions to occur. Atomic clocks count these transitions, with an uncertainty of 1 second in 300 million years. This current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.5357558101415634,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Success#0001",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.532682079076767,
+      "text": "a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness. It may also be difficult or impossible to ascertain whether a situation meets criteria for success or failure due to ambiguous or ill-defined definition of those criteria. Finding useful and effective criteria, or heuristics, to judge the failure or success of a situation may itself be a significant task. In American culture DeVitis and Rich link the..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5166842699050903,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Second#0001",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.47109774351119993,
+      "text": "current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks. As the speed of Earth's rotation varies and is slowing ever so slightly, a leap second is added at irregular intervals to civil time to keep clocks in sync with Earth's rotation. The definition that is based on 1⁄86400 of a rotation of the earth is still used by the Universal Time 1 (UT1) system..."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0000",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.4436854779720306,
+      "text": "Time is the continuous progression of existence that occurs in an apparently irreversible succession from the past, through the present, and into the future. Time dictates all forms of action, age, and causality, being a component quantity of various measurements used to sequence events, to compare the duration of events (or the intervals between them), and to quantify rates of change of quantities in material reality or in the conscious experience. Time is often referred to as a fourth dimension, along with three spatial dimensions. Time is primarily measured in linear spans or periods, ordered from shortest to longest. Practical, human-scale measurements of time are performed using clocks and calendars, reflecting a 24-hour day collected into a 365-day year linked to the astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest."
+    },
+    {
+      "chunk_id": "wikipedia:Americans#0000",
+      "doc_id": "wikipedia:Americans",
+      "title": "Americans",
+      "url": "https://en.wikipedia.org/?curid=19792942",
+      "source_type": "wikipedia",
+      "score": 0.4101070582866669,
+      "text": "Americans are the citizens and nationals of the United States. U.S. federal law does not equate nationality with race or ethnicity but rather with citizenship. The U.S. has 37 ancestry groups with more than one million individuals. White Americans form the largest racial and ethnic group at 61.6% of the U.S. population, with non-Hispanic Whites making up 57.8% of the population. Hispanic and Latino Americans form the second-largest group and are 18.7% of the American population. Black Americans constitute the country's third-largest ancestry group and are 12.4% of the total U.S. population. Asian Americans are the country's fourth-largest group, composing 6% of the American population. The country's 3.7 million Native Americans account for about 1.1%, and some 574 native tribes are recognized by the federal government. People of American descent can be found internationally. As many as seven million Americans are estimated to be living abroad, and make up the American diaspora."
+    },
+    {
+      "chunk_id": "wikipedia:American#0000",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.40338985323905946,
+      "text": "American(s) may refer to: American, something of, from, or related to the United States of America, commonly known as the \"United States\" or \"America\" Americans, citizens and nationals of the United States of America American ancestry, people who self-identify their ancestry as \"American\" American English, the set of varieties of the English language native to the United States Native Americans in the United States, indigenous peoples of the United States American, something of, from, or related to the Americas, also known as \"America\" Indigenous peoples of the Americas American (word), for analysis and history of the meanings in various contexts Organizations American Airlines, U.S.-based airline headquartered in Fort Worth, Texas American Athletic Conference, an American college athletic conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "the emoji of fear with pointing hands",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the emoji",
+          "fear",
+          "hands"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that America will arrest people for silly things but not if they make a deadly bomb, long as it's for America",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "America",
+          "people",
+          "silly things"
+        ]
+      },
+      "title": {
+        "text": "this is my third homemade meme",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "my third homemade meme",
+          "third",
+          "homemade"
+        ]
+      },
+      "text": {
+        "text": "America: someone mades a clock and gets arrested also America: someone makes and atomic bomb for a science project nA ‘ \\ i ae _& CPOE is for me?",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "America",
+          "mades",
+          "clock",
+          "arrested",
+          "also",
+          "atomic",
+          "bomb",
+          "science",
+          "project",
+          "cpoe"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "my third homemade meme",
+      "third",
+      "homemade",
+      "America",
+      "mades",
+      "clock",
+      "arrested",
+      "also",
+      "atomic",
+      "bomb",
+      "science",
+      "project",
+      "cpoe"
+    ],
+    "secondary_terms": [
+      "the emoji",
+      "fear",
+      "hands",
+      "America",
+      "people",
+      "silly things"
+    ],
+    "queries": [
+      "\"my third homemade meme\" \"America\" \"third\" \"homemade\"",
+      "\"third\" \"homemade\" \"mades\" \"clock\""
+    ]
+  },
+  "source_jsonl_id": null
+}

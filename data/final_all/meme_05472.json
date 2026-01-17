@@ -1,0 +1,186 @@
+{
+  "meme_id": "meme_05472",
+  "queries": [
+    "\"new flying squirrels\" \"Calories\" \"dad\" \"got\"",
+    "\"dad\" \"got\" \"new\" \"squirrels\""
+  ],
+  "primary_terms": [
+    "new flying squirrels",
+    "dad",
+    "got",
+    "new",
+    "squirrels",
+    "Calories",
+    "will",
+    "eat"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Squirrel#0000",
+      "doc_id": "wikipedia:Squirrel",
+      "title": "Squirrel",
+      "url": "https://en.wikipedia.org/?curid=28492",
+      "source_type": "wikipedia",
+      "score": 1.045699989795685,
+      "text": "Squirrels are members of the family Sciuridae (), a family that includes small or medium-sized rodents. The squirrel family includes tree squirrels, ground squirrels (including chipmunks and prairie dogs, among others), and flying squirrels. Squirrels are indigenous to the Americas, Eurasia, and Africa, and were introduced by humans to Australia. The earliest known fossilized squirrels date from the Eocene epoch, and among other living rodent families, the squirrels are most closely related to the mountain beaver and dormice. Etymology The word squirrel, first attested in 1327, comes from the Anglo-Norman esquirel which is from the Old French escureil, the reflex of a Latin word sciurus, which was taken from the Ancient Greek word σκίουρος (skiouros; from σκιᾱ́ ('shade') and οὐρᾱ́ ('tail')), referring to the long bushy tail which many of its members have. Sciurus is also the name of one of its genera."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0000",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.6819630831480026,
+      "text": "A father, dad, or daddy is the male parent of a child. Besides the paternal bonds of a father to his child or children, fathers may have a parental, legal, and social relationship with their child or children that carries with it certain rights and obligations. A biological father is the male genetic contributor to the creation of the child, through sexual intercourse or sperm donation. A biological father may have legal obligations to a child not raised by him, such as an obligation of monetary support. An adoptive father is a man who has become the child's parent through the legal process of adoption. A putative father is a man whose biological relationship to a child is alleged but has not been established. A stepfather is a non-biological male parent married to a child's preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child."
+    },
+    {
+      "chunk_id": "wikipedia:Sneaky Pete#0000",
+      "doc_id": "wikipedia:Sneaky Pete",
+      "title": "Sneaky Pete",
+      "url": "https://en.wikipedia.org/?curid=47942695",
+      "source_type": "wikipedia",
+      "score": 0.5402667194604873,
+      "text": "Sneaky Pete is an American comedy crime drama television series created by David Shore and Bryan Cranston. The series follows Marius Josipović (Giovanni Ribisi), a released convict who adopts the identity of his cellmate, Pete Murphy, to avoid his past life. The series also stars Marin Ireland, Shane McRae, Libe Barer, Michael Drayer, Peter Gerety and Margo Martindale. The pilot episode premiered on August 7, 2015, and was followed by a full series order that September. Shore left the project in early 2016 and was replaced by Graham Yost, who served as executive producer and showrunner for the remaining nine episodes. The first season premiered in its entirety on January 13, 2017, exclusively on Amazon Prime Video. On January 19, 2017, Amazon announced that Sneaky Pete had been renewed for a second season, which was released on March 9, 2018. On July 28, 2018, Amazon announced that the series had been renewed for a third season, which was released on May 10, 2019."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0000",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5359380751848221,
+      "text": "Two Dogs was a ready-to-drink beverage that was first introduced in Australia in 1993 and went on to become available throughout the world. It was a lemon flavoured alcoholic beverage that is widely considered to have been the \"world’s first brewed alcoholic lemonade\" (despite the pre-existence of traditional drinks like sima), paving the way for similar products such as Hooper's Hooch and Mike's Hard Lemonade. Two Dogs was created in 1993 by the South Australian brewer Duncan MacGillivray. The tale behind the drink says that MacGillivray, an owner of a small brewery and pub in South Australia, was having a beer with some friends who owned a lemon farm. They mentioned that they didn't know what to do with all their lemons that they couldn't sell due to size. Duncan said \"I'll try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well."
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0000",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.5143642038106918,
+      "text": "A toddler is a child approximately 1 to 3 years old, though definitions vary. The toddler years are a time of great cognitive, emotional and social development. The word is derived from \"toddle\", which means to walk unsteadily, as children at this age do. Developmental milestones Toddler development can be broken down into a number of interrelated areas. There is reasonable consensus about what these areas may include: Physical: growth or an increase in size. Gross motor: the control of large muscles which enable walking, running, jumping and climbing. Fine motor: the ability to control small muscles; enabling the toddler to feed themselves, draw and manipulate objects. Vision: the ability to see near and far and interpret what is seen. Hearing and speech: the ability to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.49146969616413116,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0001",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.487430727481842,
+      "text": "preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child. The adjective \"paternal\" refers to a father and comparatively to \"maternal\" for a mother. The verb \"to father\" means to procreate or to sire a child from which also derives the noun \"fathering\". Biological fathers determine the sex of their child through a sperm cell..."
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0000",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.4763131499290466,
+      "text": "Rubeus Hagrid () is a fictional character in the Harry Potter series of novels by J. K. Rowling. He was introduced in Harry Potter and the Philosopher's Stone (1997) as a half-giant who is the gamekeeper and groundskeeper at the wizarding school Hogwarts. He is a member of the Order of the Phoenix and eventually becomes the Care of Magical Creatures professor. Hagrid is portrayed by Robbie Coltrane in all eight Harry Potter films. Creation and development Rubeus Hagrid was one of the first characters Rowling created. In a 1999 interview, she explained that the name \"Hagrid\" is an Old English word, referring to hagridden, meaning 'tormented by hags'. She said it means \"you'd had a bad night\" and she explained that Hagrid \"has a lot of bad nights\" due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\"."
+    },
+    {
+      "chunk_id": "wikipedia:Spot#0000",
+      "doc_id": "wikipedia:Spot",
+      "title": "Spot",
+      "url": "https://en.wikipedia.org/?curid=67090",
+      "source_type": "wikipedia",
+      "score": 0.4538711071014404,
+      "text": "Spot or SPOT may refer to: Places Spot, North Carolina, a community in the United States The Spot, New South Wales, a locality in Sydney, Australia South Pole Traverse, sometimes called the South Pole Overland Traverse People Spot Collins (1922-1996), American football player and coach Jack Comer (1912–1996), Polish-born English gangster nicknamed \"Spot\" Jerry Chamberlain (known as \"Spot\"), the guitarist for the rock group the Swirling Eddies Scott Draves (known as \"Spot\"), digital artist and VJ Spot (producer), Glenn Michael Lockett (1951–2023), house producer and engineer for the label SST Records Spot (rapper) (born 1987), American rapper Moondog Spot, a ring name for professional wrestler Larry Booker Advertising Radio spot, an over-the-air advertisement TV spot, a televised advertisement Underwriting spot, an announcement made on public broadcasting outlets, especially in the United States, in exchange for funding Animals Spot, a dog that remained faithful after his master's"
+    },
+    {
+      "chunk_id": "wikipedia:Hawk#0000",
+      "doc_id": "wikipedia:Hawk",
+      "title": "Hawk",
+      "url": "https://en.wikipedia.org/?curid=56890",
+      "source_type": "wikipedia",
+      "score": 0.44453173875808716,
+      "text": "Hawks are birds of prey of the family Accipitridae. They are very widely distributed and are found on all continents, except Antarctica. The subfamily Accipitrinae includes goshawks, sparrowhawks, sharp-shinned hawks, and others. This subfamily are mainly woodland birds with short broad wings, long tails, and high visual acuity. They hunt by dashing suddenly from a concealed perch. In the United States, members of the Buteo group are also called hawks, though birds of this group are called buzzards in other parts of the world. Generally, buteos have broad wings and sturdy builds. They are relatively larger-winged and shorter-tailed than accipiters, and fly further distances in open areas. Buteos descend or pounce on their prey rather than engaging in fast, horizontal pursuit. The terms accipitrine hawk and buteonine hawk are used to distinguish between the types in regions where hawk applies to both."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A squirrel is trying to get up a pantleg.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that pets are ready to help us to burn calories by playing with them.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "pets",
+          "calories"
+        ]
+      },
+      "title": {
+        "text": "my dad got new flying squirrels",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "new flying squirrels",
+          "dad",
+          "got",
+          "new",
+          "squirrels"
+        ]
+      },
+      "text": {
+        "text": "i will eat your ___ Calories",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Calories",
+          "will",
+          "eat"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "new flying squirrels",
+      "dad",
+      "got",
+      "new",
+      "squirrels",
+      "Calories",
+      "will",
+      "eat"
+    ],
+    "secondary_terms": [
+      "pets",
+      "calories"
+    ],
+    "queries": [
+      "\"new flying squirrels\" \"Calories\" \"dad\" \"got\"",
+      "\"dad\" \"got\" \"new\" \"squirrels\""
+    ]
+  },
+  "source_jsonl_id": null
+}

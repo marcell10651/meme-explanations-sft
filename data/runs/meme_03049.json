@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_03049",
+  "queries": [
+    "\"ITS NOT EVEN TIME\" \"! THANKSGIVING YETI\" \"ITS NOVEMBER\" \"Walmart\"",
+    "\"ITS NOT EVEN TIME\" \"! THANKSGIVING YETI\" \"ITS NOVEMBER\" \"Christmas decorations\"",
+    "\"ITS NOVEMBER\" \"Christmas decorations\" \"Walmart\" \"Batman\""
+  ],
+  "primary_terms": [
+    "Walmart",
+    "looking",
+    "ITS NOVEMBER",
+    "ITS NOT EVEN TIME",
+    "! THANKSGIVING YETI"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Pennsylvania#0000",
+      "doc_id": "wikipedia:Pennsylvania",
+      "title": "Pennsylvania",
+      "url": "https://en.wikipedia.org/?curid=23332",
+      "source_type": "wikipedia",
+      "score": 6.322291523004007,
+      "text": "Pennsylvania, officially the Commonwealth of Pennsylvania, is a state spanning the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States. It borders Delaware to its southeast, Maryland to its south, West Virginia to its southwest, Ohio to its west, the Canadian province of Ontario to its northwest via Lake Erie, New York to its north, and the Delaware River and New Jersey to its east. Pennsylvania's capital is Harrisburg and its most populous city is Philadelphia.. Among all US states, Pennsylvania is the fifth-most populous with over 13 million residents as of the 2020 United States census, the ninth-highest by population density, and the 33rd-largest by land area. The largest metropolitan statistical area is the southeastern Philadelphia metropolitan area, centered on Philadelphia, the commonwealth's most populous and the sixth-most populous city in the US."
+    },
+    {
+      "chunk_id": "wikipedia:Pixar#0000",
+      "doc_id": "wikipedia:Pixar",
+      "title": "Pixar",
+      "url": "https://en.wikipedia.org/?curid=78969",
+      "source_type": "wikipedia",
+      "score": 6.2576166565941325,
+      "text": "Pixar (), doing business as Pixar Animation Studios, is an American animation studio based in Emeryville, California, known for its commercially successful computer-animated feature films. Pixar is a subsidiary of Walt Disney Studios, a division of the Disney Entertainment segment of the Walt Disney Company. The studio started in 1979 as part of the Lucasfilm computer division. It was known as the Graphics Group before its spin-off as a corporation in 1986, with funding from Apple co-founder Steve Jobs, who became its majority shareholder. The studio's mascot is Luxo Jr., a desk lamp from the studio's 1986 short film of the same name. Disney announced its acquisition of Pixar in January 2006, and completed it in May 2006. Pixar is best known for its feature films, technologically powered by its RenderMan software."
+    },
+    {
+      "chunk_id": "wikipedia:Ecosystem#0001",
+      "doc_id": "wikipedia:Ecosystem",
+      "title": "Ecosystem",
+      "url": "https://en.wikipedia.org/?curid=9632",
+      "source_type": "wikipedia",
+      "score": 6.1909489161397895,
+      "text": "in the process of recovering from past disturbances. The tendency of an ecosystem to remain close to its equilibrium state, is termed its resistance. Its capacity to absorb disturbance and reorganize, while undergoing change so as to retain essentially the same function, structure, identity, is termed its ecological resilience. Ecosystems can be studied through a variety of approaches—theoretical studies, studies..."
+    },
+    {
+      "chunk_id": "wikipedia:Water#0000",
+      "doc_id": "wikipedia:Water",
+      "title": "Water",
+      "url": "https://en.wikipedia.org/?curid=33306",
+      "source_type": "wikipedia",
+      "score": 5.91673975387761,
+      "text": "Water is an inorganic compound with the chemical formula H2O. It is a transparent, tasteless, odorless, and nearly colorless chemical substance. It is the main constituent of Earth's streams, lakes, and oceans and the fluids of all known living organisms, in which it acts as a solvent. Water, being a polar molecule, undergoes strong intermolecular hydrogen bonding which is a large contributor to its physical and chemical properties. It is vital for all known forms of life, despite not providing food energy or being an organic micronutrient. Due to its presence in all organisms, its chemical stability, its worldwide abundance, and its strong polarity relative to its small molecular size, water is often referred to as the \"universal solvent\". Because Earth's environment is relatively close to water's triple point, water exists on Earth as a solid, a liquid, and a gas. It forms precipitation in the form of rain and aerosols in the form of fog."
+    },
+    {
+      "chunk_id": "wikipedia:Pixar#0001",
+      "doc_id": "wikipedia:Pixar",
+      "title": "Pixar",
+      "url": "https://en.wikipedia.org/?curid=78969",
+      "source_type": "wikipedia",
+      "score": 5.609709288784569,
+      "text": "of Pixar in January 2006, and completed it in May 2006. Pixar is best known for its feature films, technologically powered by its RenderMan software. RenderMan began as Pixar's implementation of the industry-standard RenderMan Interface Specification (RISpec) image-rendering API, which came out in 1988; support for RISpec was dropped in 2016. RenderMan became fully path-traced and physically based (PBR). In addition to producing short films, Pixar has produced 29 feature films, with its first film being Toy Story (1995..."
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0000",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 5.457524322530064,
+      "text": "Finally may refer to: Albums Finally (Namie Amuro album) (2017) Finally!, a 2024 album by The Aquabats Finally (Blackstreet album) or its title song Finally (Sean Ensign album) or its title song \"It's My Life (Finally)\" Finally (Layzie Bone & A.K. album) (2008) Finally... (EP), a 1996 EP by Low Finally... (album), a 2002 album by One True Thing Finally (CeCe Peniston album) or its title song Finally! (T. G. Sheppard album) (1982) Finally (Velvet album) (2006) Finally!, a 2008 album by Iya Villania ...finally, a 1996 album by Too Much Joy Songs \"Finally\" (CeCe Peniston song) (1991) \"Finally\" (D'banj song) (2013) \"Finally\" (Fergie song) (2008) \"Finally\" (Kings of Tomorrow song) (2001) \"Finally\" (T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A."
+    },
+    {
+      "chunk_id": "wikipedia:Perfect#0001",
+      "doc_id": "wikipedia:Perfect",
+      "title": "Perfect",
+      "url": "https://en.wikipedia.org/?curid=217503",
+      "source_type": "wikipedia",
+      "score": 5.44693699273402,
+      "text": "album) (2004) Perfect (Half Japanese album) (2016) perfecT, an album by Sam Shaber Perfect, an album by True Faith or its title track Perfect, an album by Benny Hester or its title track EPs Perfect (Mannequin Pussy EP) (2021) Songs \"Perfect\" (Vanessa Amorosi song) (2008) \"Perfect\" (Anne-Marie song) (2018..."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 5.357339171667298,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Trinity#0001",
+      "doc_id": "wikipedia:Trinity",
+      "title": "Trinity",
+      "url": "https://en.wikipedia.org/?curid=30511",
+      "source_type": "wikipedia",
+      "score": 5.357339171667298,
+      "text": "the attributes unique to them in the Trinity, thereby proving that everything comes \"from the Father\", \"through the Son\", and \"in the Holy Spirit\". This doctrine is called Trinitarianism, and its adherents are called Trinitarians, while its opponents are called antitrinitarians or nontrinitarians and are considered non-Christian by many mainline groups. Nontrinitarian positions include Unitarianism..."
+    },
+    {
+      "chunk_id": "wikipedia:Point#0001",
+      "doc_id": "wikipedia:Point",
+      "title": "Point",
+      "url": "https://en.wikipedia.org/?curid=48221",
+      "source_type": "wikipedia",
+      "score": 5.328124687574963,
+      "text": "rainfall in Australia Point (typography) Points, an antler's size by the number of its tips Printer point, an unit of relative exposure in photography Navigation One of the 32 directional points of the compass Point of sail, a sailing craft's direction of travel in relation to wind direction Point, the direction of an object by its..."
+    }
+  ]
+}

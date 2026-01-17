@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_01050",
+  "queries": [
+    "\"the Brithish\" \"your cultural heritige\" \"now\" \"artwork\"",
+    "\"now\" \"artwork\" \"brithish\" \"return\""
+  ],
+  "primary_terms": [
+    "now",
+    "artwork",
+    "the Brithish",
+    "your cultural heritige",
+    "brithish",
+    "return",
+    "cultural",
+    "heritige",
+    "mysprecious"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Artist#0001",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.670006513595581,
+      "text": "is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art. I am only pointing out that my project, like Collingwood's, Osborne's, and others', is metaphysical in nature. I am interested in trying to find out what a work of art is and what it is essentially. Dictionary definitions The Oxford English Dictionary defines the older, broader meanings of the word..."
+    },
+    {
+      "chunk_id": "wikipedia:Floating Figure#0000",
+      "doc_id": "wikipedia:Floating Figure",
+      "title": "Floating Figure",
+      "url": "https://en.wikipedia.org/?curid=56677540",
+      "source_type": "wikipedia",
+      "score": 0.5498138666152954,
+      "text": "Floating Figure is a 1927 sculpture by Gaston Lachaise. Gaston Lachaise’s Floating Figure is a modernist allegorical statue of the artist’s muse as an enlightened, ‘floating’ nude woman. It is ultimately based on a portrait statuette of the artist’s wife, Isabel Dutaud Nagle (1872–1957), made in about 1919, that was broken sometime after the spring of 1921 and reworked by Lachaise in about 1924 to create a new statuette of a schematized, fragmentary figure. The damage to the initial statuette had fortuitously freed his imagination from a more literal representation of Isabel at home with a book, and enabled him to envisage a soaring, semiabstract work that explicitly conveys a universal meaning. Lachaise created the larger-than-life plaster model of Floating Figure at his country home in Georgetown, Maine, in three weeks’ time."
+    },
+    {
+      "chunk_id": "wikipedia:Drawing#0001",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.5485292971134186,
+      "text": "and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas. The wide availability of drawing instruments makes drawing one of the most common artistic activities. In addition to its more artistic forms, drawing is frequently used in commercial illustration, animation, architecture,..."
+    },
+    {
+      "chunk_id": "wikipedia:Use Your Fingers#0001",
+      "doc_id": "wikipedia:Use Your Fingers",
+      "title": "Use Your Fingers",
+      "url": "https://en.wikipedia.org/?curid=2317950",
+      "source_type": "wikipedia",
+      "score": 0.5434662759304046,
+      "text": "two decades later is how much this album not only shouldn't exist from a legal perspective, but how it managed to predict so much of the 20 years of musical trends that followed it,\" and praising it as a \"unique entry in the hip-hop canon from a sampling production standpoint, an impressive assortment of acknowledgments from a pop culture junkie..."
+    },
+    {
+      "chunk_id": "wikipedia:Artist#0000",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.5274177491664886,
+      "text": "An artist is a person engaged in creating art, or practicing the arts. The most common usage in everyday speech and academic discourse refers to a practitioner in the visual arts only. However, the term is also very widely used in the entertainment business to refer to actors, musicians, singers, dancers , and other performers. The French word artiste is sometimes used in English in this context, although this has become old-fashioned. The use of the term \"artist\" to describe writers is valid, but less common, and mostly restricted to contexts such as critics' reviews; \"author\" is generally used instead. While the use of the word 'artist' is common, there is no agreed upon definition of art—this makes the definition of who is and is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art."
+    },
+    {
+      "chunk_id": "wikipedia:His House#0001",
+      "doc_id": "wikipedia:His House",
+      "title": "His House",
+      "url": "https://en.wikipedia.org/?curid=62897844",
+      "source_type": "wikipedia",
+      "score": 0.5262296497821808,
+      "text": "the perilous English Channel from France to seek asylum. Although they survive the treacherous crossing, their daughter and many others do not. When they are finally granted probational asylum in Britain three months later, the government assigns them a shabby house with peeling walls and dismal furnishings on the outskirts of London. They are given strict restrictions or they may face deportation. They experience racism and hatred from their tenement neighbours. They are met by..."
+    },
+    {
+      "chunk_id": "wikipedia:Charmer#0001",
+      "doc_id": "wikipedia:Charmer",
+      "title": "Charmer",
+      "url": "https://en.wikipedia.org/?curid=40421866",
+      "source_type": "wikipedia",
+      "score": 0.4962923228740692,
+      "text": "2007 \"Charmer\" (N-Dubz song), 2022 Other uses Charmer (folklore), English practitioners of a specific kind of folk magic Charmers, comic strip by Hallmark Cards (1975–1981) See also Charm (disambiguation) Snake charmer (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.4909702390432358,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:Sexy, Sexy, Sexy#0001",
+      "doc_id": "wikipedia:Sexy, Sexy, Sexy",
+      "title": "Sexy, Sexy, Sexy",
+      "url": "https://en.wikipedia.org/?curid=38590761",
+      "source_type": "wikipedia",
+      "score": 0.4787827730178833,
+      "text": "the typical funk hallmarks of his more popular work. The song performed strongly on three separate Billboard charts as well as the Cashbox chart. It appeared in three separate releases under music label Polydor Records and reissued in 2020. Background In the early 1970s the United States saw the rise of ethnic blaxploitation films focussed on the contemporary experience and oppression of African Americans. The films pioneered..."
+    },
+    {
+      "chunk_id": "wikipedia:Made#0000",
+      "doc_id": "wikipedia:Made",
+      "title": "Made",
+      "url": "https://en.wikipedia.org/?curid=666961",
+      "source_type": "wikipedia",
+      "score": 0.47730982303619385,
+      "text": "Made or MADE may refer to: Entertainment Film Made (1972 film), United Kingdom Made (2001 film), United States Music Made (Big Bang album), 2016 Made (Hawk Nelson album), 2013 Made (Scarface album), 2007 M.A.D.E., 2003 album by Memphis Bleek \"Made\" (Scuba Dice song), 2006 \"Made\" (The Wanted song), 2010 Made (band), a Toronto lo-fi band Television Made (TV series), United States, 2002 to 2014 Companies Made.com, an online furniture retailer in London, United Kingdom MADE Clothing, an American clothing line around 2005 The MADE or The Museum of Art and Digital Entertainment Geography Made (Netherlands), a town in the Netherlands People van der Made - Dutch family name Dalem Di Made (fl."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_02465",
+  "queries": [
+    "\"Not THE Batman\" \"NoNO\" \"not\" \"batman\"",
+    "\"not\" \"batman\" \"cce\" \"odd\""
+  ],
+  "primary_terms": [
+    "NoNO",
+    "Not THE Batman",
+    "not",
+    "batman",
+    "cce",
+    "odd"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Two-Face#0001",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 0.9020357191562652,
+      "text": "the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse. The modern version is also established as having once been an ally of Batman and Commissioner James Gordon, and a close friend of Batman's secret identity, Bruce Wayne. The character has been adapted in various media incarnations, having been portrayed in film by Billy Dee Williams in Batman (1989), Tommy Lee..."
+    },
+    {
+      "chunk_id": "wikipedia:Superhero#0001",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 0.7714255809783935,
+      "text": "media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins. Most superheroes (for example, Superman and Spider-Man) usually possess non-human or superhuman biology, while others (such as Batman and Iron Man) derive their status from advanced technology they create and use; others may use or possess objects that have superhuman, mystical, or alien powers (such as Green Lantern and He-Man), or study and practice magic to achieve their abilities (such as Doctor Fate and Doctor Strange). The Dictionary.com definition of \"superhero\" is \"a..."
+    },
+    {
+      "chunk_id": "wikipedia:Corona#0001",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.5850516259670258,
+      "text": "into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities Corona (fictional world), in R. A. Salvatore's DemonWars novels Corona, a character in the game Doraemon: Nobita to Mittsu no Seireiseki Corona, a character in the Spider..."
+    },
+    {
+      "chunk_id": "wikipedia:Trinity#0001",
+      "doc_id": "wikipedia:Trinity",
+      "title": "Trinity",
+      "url": "https://en.wikipedia.org/?curid=30511",
+      "source_type": "wikipedia",
+      "score": 0.5619795024394989,
+      "text": "the attributes unique to them in the Trinity, thereby proving that everything comes \"from the Father\", \"through the Son\", and \"in the Holy Spirit\". This doctrine is called Trinitarianism, and its adherents are called Trinitarians, while its opponents are called antitrinitarians or nontrinitarians and are considered non-Christian by many mainline groups. Nontrinitarian positions include Unitarianism..."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0000",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.5518310785293579,
+      "text": "Even may refer to: General Even (company), a Brazilian construction and real estate company Even (given name), a Norwegian male personal name Even (surname), a Breton surname Even (people), an ethnic group from Siberia and Russian Far East Even language, a language spoken by the Evens Odd and Even, a solitaire game which is played with two decks of playing cards Evening, the period of a day that begins at the end of daylight and overlaps with the beginning of night Science and technology In mathematics, the term even is used in several senses related to odd: even and odd numbers, an integer is even if dividing by two yields an integer even and odd functions, a function is even if f(−x) = f(x) for all x even and odd permutations, a permutation of a finite set is even if it is composed of an even number of transpositions Singly even number, an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even"
+    },
+    {
+      "chunk_id": "wikipedia:Censor#0001",
+      "doc_id": "wikipedia:Censor",
+      "title": "Censor",
+      "url": "https://en.wikipedia.org/?curid=3775525",
+      "source_type": "wikipedia",
+      "score": 0.5512704163789749,
+      "text": "Cambridge Censor of St Cuthbert's Society, employed by University of Durham to oversee Society members Censor Librorum, an expert called on to advise the bishop of a diocese whether or not to grant an imprimatur Chief Censor of New Zealand, the head of the government's Office of Film and Literature Classification Roman censor,..."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0001",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.5299902260303497,
+      "text": "Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs \"No Body\", by Blake Shelton, 2022 \"Nobody\" (1905 song), by Alex Rogers and Bert A. Williams \"Nobody\" (Avenged Sevenfold song), 2023 \"Nobody\" (DJ Neptune song), 2020 \"Nobody..."
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0000",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.5228965789079666,
+      "text": "Cant, CANT, canting, or canted may refer to: Language Cant (language), a secret language Beurla Reagaird, a language of the Scottish Highland Travellers Scottish Cant, a language of the Scottish Lowland Travellers Shelta or the Cant, a language of the Irish Travellers Thieves' cant, a language of criminals Canting arms, heraldic puns on the bearer's name Can't, contraction of cannot Other uses Cant (architecture), part of a facade CANT (aviation) (Cantieri Aeronautici e Navali Triestini), an aircraft manufacturer Cant (log), a log partially processed in a sawmill Cant (road/rail), an angle of a road or track Cant (shooting), referring to a gun being tilted around the longitudinal axis, rather than being horizontally levelled Cant (surname), a family name and persons with it Canting, a tool used in making batik Chris Taylor (Grizzly Bear musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation"
+    },
+    {
+      "chunk_id": "wikipedia:Following#0000",
+      "doc_id": "wikipedia:Following",
+      "title": "Following",
+      "url": "https://en.wikipedia.org/?curid=23011287",
+      "source_type": "wikipedia",
+      "score": 0.5093788504600525,
+      "text": "Following is a 1998 British independent neo-noir crime thriller film written, produced, directed, photographed, and edited by Christopher Nolan in his feature film directorial debut. It tells the story of a young man who follows strangers around the streets of London and is drawn into a criminal underworld when he fails to keep his distance. The film was designed to be as inexpensive as possible to make. Scenes were heavily rehearsed so just one or two takes were needed to economise on 16mm film stock, the production's greatest expense, and for which Nolan was paying from his salary. Unable to afford expensive professional lighting equipment, Nolan mostly used available light. Along with writing, directing, and photographing the film, Nolan helped in editing and production. The film was released by The Criterion Collection on both Blu-ray and DVD in North America on 11 December 2012."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0000",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.48737598955631256,
+      "text": "Other often refers to: Other (philosophy), a concept in psychology and philosophy Other or The Other may also refer to: Film and television The Other (1913 film), a German silent film directed by Max Mack The Other (1930 film), a German film directed by Robert Wiene The Other (1947 film), an Italian film directed by Carlo Ludovico Bragaglia The Other (1972 film), an American film directed by Robert Mulligan The Other (1999 film), a French-Egyptian film directed by Youssef Chahine The Other (2007 film), an Argentine-French-German film by Ariel Rotter The Other (2025 film), an American film directed by Paul Etheredge Other (film), a French/Belgian film directed by David Moreau The Other (Doctor Who), a fictional character in Doctor Who The Other (Marvel Cinematic Universe), a fictional character in the Marvel Cinematic Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A."
+    }
+  ]
+}

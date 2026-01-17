@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_04645",
+  "queries": [
+    "\"Lacies ancl gantlemen\" \"people matics\" \"now\" \"did\"",
+    "\"Lacies ancl gantlemen\" \"people matics\" \"the fanciness\" \"their fly\"",
+    "\"the fanciness\" \"their fly\" \"now\" \"did\""
+  ],
+  "primary_terms": [
+    "now",
+    "did",
+    "Lacies ancl gantlemen",
+    "none",
+    "people matics"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Some People#0000",
+      "doc_id": "wikipedia:Some People",
+      "title": "Some People",
+      "url": "https://en.wikipedia.org/?curid=38582232",
+      "source_type": "wikipedia",
+      "score": 0.8349666893482208,
+      "text": "Some People may refer to: Some People (film), 1962 Some People, a 1927 novel by Harold Nicolson \"Some People\", song by LeAnn Rimes Music Albums Some People (Jon English album), 1983 Some People (Belouis Some album), 1985 Songs \"Some People\" (Belouis Some song), 1985 \"Some People\" (Cliff Richard song), 1987 \"Some People\" (LeAnn Rimes song), 2006 \"Some People\" (E. G. Daily song), 1989 \"Some People\", by Janis Ian from her 1978 self-titled album \"Some People\", by Fra Lippo Lippi from the 1987 album Light and Shade \"Some People (Ton désir)\", by Ocean Drive, 2009 \"Some People\", by James Reyne from the 1991 album Electric Digger Dandy \"Some People\", from the 1959 musical Gypsy \"Some People\", by Anne-Marie from the deluxe edition of the 2018 album Speak Your Mind \"Some People\", by Goldfrapp from the 2008 album Seventh Tree"
+    },
+    {
+      "chunk_id": "wikipedia:Others#0000",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.733167976140976,
+      "text": "Others or The Others may refer to: Fictional characters Others (A Song of Ice and Fire), supernatural creatures in the fictional world of George R. R. Martin's fantasy series A Song of Ice and Fire Others (Lost), mysterious inhabitants of a strange island in the South Pacific in the television series Lost Others (Night Watch), a fictional group of people with supernatural abilities in Sergey Lukyanenko's Watches novel pentalogy The Others (Vok), a character from the Beast Wars franchise The Others, a reference to Cro-Magnon peoples in Jean M. Auel's Earth's Children series The Others, a group of allies of Aquaman in comics, introduced in 2012 and featured in a 2014 series The Others, the Ancients who have achieved Ascension in the Stargate universe The Others, a series of alien extraterrestrial species from The 5th Wave novels and film Films The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001"
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0001",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.6891588866710663,
+      "text": "by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\". Angered by the suicide of a student who is mocked and refused a loan for her studies, they eventually kill the corrupt bank manager who abetted it. Soon enough, more corrupt individuals are killed, and Rajan Mathew is reinstated as S.P. to nab the group. The team learn..."
+    },
+    {
+      "chunk_id": "wikipedia:Mara#0001",
+      "doc_id": "wikipedia:Mara",
+      "title": "Mara",
+      "url": "https://en.wikipedia.org/?curid=89150",
+      "source_type": "wikipedia",
+      "score": 0.6565289258956909,
+      "text": "1894 novel by Ioan Slavici Dance Club Mara, a formation dance team, Minsk, Belarus Cultural and language groupings Mara (Tagin), a tribe in Arunachal Pradesh Mara language, a language spoken by the Mara people of India and Burma Mara people Maric languages, a group of Aboriginal Australian languages also known as Mara or Maran..."
+    },
+    {
+      "chunk_id": "wikipedia:Mona#0000",
+      "doc_id": "wikipedia:Mona",
+      "title": "Mona",
+      "url": "https://en.wikipedia.org/?curid=55441",
+      "source_type": "wikipedia",
+      "score": 0.6544560551643371,
+      "text": "Mona may refer to: People Mona (name), a female given name, nickname and surname Mona (Angolan footballer) (born 1997) Mona (Brazilian footballer), Marcelo Alexandre Pires Correia (born 1973) Mona, ring name of American wrestler Nora Greenwald Museums Museum of Nebraska Art, Kearney, Nebraska, US Museum of Neon Art, Los Angeles, California, United States Museum of Northwest Art, La Conner, Washington, United States Museum of Old and New Art, Hobart, Tasmania, Australia Music Mona (band), a Nashville-located alternative rock band Mona (album), released in 2011 Mona – The Carnivorous Circus, a 1970 album by The Deviants \"Mona (I Need You Baby)\", a 1957 song by Bo Diddley \"Mona\", a song by James Taylor from his 1985 album That's Why I'm Here \"Mona\", a song by the Beach Boys from their 1977 album Love You \"Mona\", a song by Nick Mulvey from his 2022 album New Mythology Mona (opera), a 1912 opera by Horatio Parker Places Settlements Mona, Anglesey, a village on the Welsh island of Anglesey"
+    },
+    {
+      "chunk_id": "wikipedia:Care#0001",
+      "doc_id": "wikipedia:Care",
+      "title": "Care",
+      "url": "https://en.wikipedia.org/?curid=246884",
+      "source_type": "wikipedia",
+      "score": 0.6008813381195068,
+      "text": "English rugby union player Henry Care (1646–1688), English political writer and journalist Peter Care (born 1953), British film and video producer Terry John Care (born 1947), American politician Philosophy and science Care or Sorge, a term in Heideggerian terminology Cura (mythology) or Care, figure in ancient Roman Fabulae of Hyginus..."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.5783170461654663,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    },
+    {
+      "chunk_id": "wikipedia:Play#0001",
+      "doc_id": "wikipedia:Play",
+      "title": "Play",
+      "url": "https://en.wikipedia.org/?curid=923188",
+      "source_type": "wikipedia",
+      "score": 0.5376129955053329,
+      "text": "and also known as Raftaar 24 x 7 The Play (film), a 2013 Indian Bengali-language film Aattam or The Play, a 2024 Indian Malayalam-language film Games and sports Gameplay Play from scrimmage in American and Canadian football The Play (American football), a famous last-second kickoff return by the California Golden Bears to beat the..."
+    },
+    {
+      "chunk_id": "wikipedia:Others#0001",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.5120552331209183,
+      "text": "The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001 film), a 2001 film by Alejandro Amenábar, starring Nicole Kidman Literature Others, a 1999 novel by James Herbert Others: A Magazine of the New Verse, a literary magazine edited by Alfred..."
+    },
+    {
+      "chunk_id": "wikipedia:Floating Figure#0001",
+      "doc_id": "wikipedia:Floating Figure",
+      "title": "Floating Figure",
+      "url": "https://en.wikipedia.org/?curid=56677540",
+      "source_type": "wikipedia",
+      "score": 0.5087297707796097,
+      "text": "meaning. Lachaise created the larger-than-life plaster model of Floating Figure at his country home in Georgetown, Maine, in three weeks’ time. The full-scale plaster model of Floating Figure was exhibited as Woman in Lachaise’s important show at the Brummer Gallery, New York, in early 1928, when it was described as “a seated woman who by the power of her gestures seems suspended in space,” and envisioned in a garden setting. Lachaise had the full-scale model cast in bronze in December 1934/January 1935..."
+    }
+  ]
+}

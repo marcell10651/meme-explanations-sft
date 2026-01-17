@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_04349",
+  "queries": [
+    "\"Any group\" \"Germany\" \"Italy\" \"Japan\"",
+    "\"Italy\" \"Japan\" \"Russia\" \"odd mix\""
+  ],
+  "primary_terms": [
+    "uhmm",
+    "sure",
+    "Any group",
+    "odd mix",
+    "Germany",
+    "Italy",
+    "Japan",
+    "Russia"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Together#0001",
+      "doc_id": "wikipedia:Together",
+      "title": "Together",
+      "url": "https://en.wikipedia.org/?curid=341237",
+      "source_type": "wikipedia",
+      "score": 0.7875227689743042,
+      "text": "coalition of parties in Italy Together (Serbia), a green political party in Serbia Together for Serbia, defunct political party in Serbia Ensemble! (Together!), a left-wing political party in France Ensemble Citoyens (Together), a liberal political coalition in France Left Together, a leftist political party in Poland TOGETHER – Civic Democracy, a liberal-conservative party in Slovakia Film and TV Film Together (1943 film), a Hungarian comedy film Together..."
+    },
+    {
+      "chunk_id": "wikipedia:Japan#0000",
+      "doc_id": "wikipedia:Japan",
+      "title": "Japan",
+      "url": "https://en.wikipedia.org/?curid=15573",
+      "source_type": "wikipedia",
+      "score": 0.7677286922931671,
+      "text": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands alongside 14,121 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of over 123 million as of 2025, it is the world's 11th most populous country. Tokyo is the country's capital and largest city. The first known habitation of the archipelago dates to the Upper Paleolithic, with the beginning of the Japanese Paleolithic dating to c. 36,000 BC. Between the 4th and 6th centuries, its kingdoms were united under an emperor in Nara and later in Heian-kyō."
+    },
+    {
+      "chunk_id": "wikipedia:Italy#0000",
+      "doc_id": "wikipedia:Italy",
+      "title": "Italy",
+      "url": "https://en.wikipedia.org/?curid=14532",
+      "source_type": "wikipedia",
+      "score": 0.7549272835254669,
+      "text": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia. Italy shares land borders with France to the west; Switzerland and Austria to the north; Slovenia to the east; and the two enclaves of Vatican City and San Marino. It is the tenth-largest country in Europe by area, covering 301,340 km2 (116,350 sq mi), and the third-most populous member state of the European Union, with nearly 59 million inhabitants. Italy's capital and largest city is Rome; other major cities include Milan, Naples, Turin, Palermo, Bologna, Florence, Genoa, and Venice. The history of Italy goes back to numerous Italic peoples – notably including the ancient Romans, who conquered the Mediterranean world during the Roman Republic and ruled it for centuries during the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:Eastern Europe#0001",
+      "doc_id": "wikipedia:Eastern Europe",
+      "title": "Eastern Europe",
+      "url": "https://en.wikipedia.org/?curid=37403",
+      "source_type": "wikipedia",
+      "score": 0.7249197423458099,
+      "text": "generally speaking, the Baltic states, the Caucasus, and the Visegrád group. In Eastern Europe, Russia is the largest and most populous country. The region represents a significant part of European culture; the main socio-cultural characteristics of Eastern Europe have historically largely been defined by the traditions of the Slavs, as well as by the influence of Eastern Christianity as it developed through the Eastern Roman Empire and the Ottoman Empire. Another definition was created by the Cold War, as Europe was ideologically divided by the Iron Curtain, with \"Eastern Europe\" being synonymous with communist states constituting the Eastern..."
+    },
+    {
+      "chunk_id": "wikipedia:Together#0000",
+      "doc_id": "wikipedia:Together",
+      "title": "Together",
+      "url": "https://en.wikipedia.org/?curid=341237",
+      "source_type": "wikipedia",
+      "score": 0.7210137009620666,
+      "text": "Together may refer to: Literature Together (book), a 2005 children's book by Dimitrea Tokunbo and Jennifer Gwynne Oliver Together (magazine), an international lifestyle magazine Organizations Together for Mental Wellbeing, a UK mental health charity Together campaign, by US cities, to help consumers fight climate change Together (Australia), a trade union in the state of Queensland, Australia Spolu (Czech Republic) (Together), a centre-right coalition of parties in the Czech Republic Together (Belarus), opposition liberal unregistered party of Belarus Together (political bloc), a pro-European political bloc in Moldova Together (Hungary), a social-liberal political party in Hungary Together (Italy), a progressive coalition of parties in Italy Together (Serbia), a green political party in Serbia Together for Serbia, defunct political party in Serbia Ensemble!"
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo#0000",
+      "doc_id": "wikipedia:Leonardo",
+      "title": "Leonardo",
+      "url": "https://en.wikipedia.org/?curid=11525478",
+      "source_type": "wikipedia",
+      "score": 0.7071057379245758,
+      "text": "Leonardo or The Leonardo may refer to: Arts and entertainment Leonardo Journal, an arts journal Leonardo (Italian magazine), a philosophy magazine published in Florence, Italy, in 1903–1907 Leonardo (journal), published by the MIT Press Leonardo (Teenage Mutant Ninja Turtles), one of the main characters in the Teenage Mutant Ninja Turtles franchise Leonardo (TV channel), an Italian television channel Leonardo (2011 TV series), a CBBC television series which centers around teenage Leonardo da Vinci played by Jonathan Bailey Leonardo (2021 TV series), an Italian-American television series Leonardo the Musical: A Portrait of Love, a 1993 musical Leonardo/ISAST, the International Society for the Arts, Sciences and Technology \"The Leonardo\", a 1933 short story written in Russian by Vladimir Nabokov Leonardo, the assistant of inventor Clyde Crashcup People Leonardo da Vinci (1452–1519), Italian polymath Leonardo Araújo, Brazilian former footballer and manager, most recently the sporting"
+    },
+    {
+      "chunk_id": "wikipedia:Switzerland#0001",
+      "doc_id": "wikipedia:Switzerland",
+      "title": "Switzerland",
+      "url": "https://en.wikipedia.org/?curid=26748",
+      "source_type": "wikipedia",
+      "score": 0.612512618303299,
+      "text": "linguistic and cultural regions—German, French, Italian, and Romansh—reflecting a long-standing tradition of multilingualism and cultural pluralism. Swiss national identity nonetheless remains fairly cohesive, rooted in a shared historical background, common values such as federalism and direct democracy, and Alpine symbolism. Swiss nationhood transcends language, ethnicity, and religion, leading..."
+    },
+    {
+      "chunk_id": "wikipedia:Eastern Europe#0000",
+      "doc_id": "wikipedia:Eastern Europe",
+      "title": "Eastern Europe",
+      "url": "https://en.wikipedia.org/?curid=37403",
+      "source_type": "wikipedia",
+      "score": 0.6080225318670273,
+      "text": "Eastern Europe is a subregion of the European continent. As a largely ambiguous term, it has a wide range of geopolitical, geographical, ethnic, cultural and socio-economic connotations. Its eastern boundary is marked by the Ural Mountains, and its western boundary is defined in various ways. Narrow definitions, in which Central and Southeast Europe are counted as separate regions, include Belarus, Russia and Ukraine. In contrast, broader definitions include Moldova and Romania, but also some or all of the Balkans, except East Thrace and Greece, generally speaking, the Baltic states, the Caucasus, and the Visegrád group. In Eastern Europe, Russia is the largest and most populous country."
+    },
+    {
+      "chunk_id": "wikipedia:Live#0001",
+      "doc_id": "wikipedia:Live",
+      "title": "Live",
+      "url": "https://en.wikipedia.org/?curid=28508507",
+      "source_type": "wikipedia",
+      "score": 0.6074237585067749,
+      "text": "88.5, a radio station in Ottawa, Canada Television Live (South Korean TV series), a 2018 South Korean television series Live (Danish TV series) Live! (TV channel), Italy Live with Kelly and Mark, US TV talk show Types of media Live action (cinematography), a motion picture not produced using animation Live art Live music, a concert Live album, recording of a live music concert..."
+    },
+    {
+      "chunk_id": "wikipedia:North Korea#0001",
+      "doc_id": "wikipedia:North Korea",
+      "title": "North Korea",
+      "url": "https://en.wikipedia.org/?curid=21255",
+      "source_type": "wikipedia",
+      "score": 0.6004001259803772,
+      "text": "Kingdoms of Korea into Silla and Balhae in the late 7th century, Korea was ruled by the Goryeo dynasty (918–1392) and the Joseon dynasty (1392–1897). The succeeding Korean Empire (1897–1910) was annexed in 1910 into the Empire of Japan. In 1945, after the Japanese surrender at the end of World War II, Korea was divided into two zones along the 38th parallel, with the north occupied by the Soviet Union and the south..."
+    }
+  ]
+}

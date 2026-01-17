@@ -1,0 +1,114 @@
+{
+  "meme_id": "meme_01001",
+  "queries": [
+    "\"1 bar* YouTube Video quality\" \"Sir Boris Attenborough\" \"youtube\" \"Aor\"",
+    "\"youtube\" \"Aor\" \"sir\" \"boris\""
+  ],
+  "primary_terms": [
+    "Sir Boris Attenborough",
+    "sir",
+    "boris",
+    "attenborough",
+    "1 bar* YouTube Video quality",
+    "Aor",
+    "wifi",
+    "drops",
+    "down",
+    "bar",
+    "youtube",
+    "video",
+    "quality"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:YouTube#0000",
+      "doc_id": "wikipedia:YouTube",
+      "title": "YouTube",
+      "url": "https://en.wikipedia.org/?curid=3524766",
+      "source_type": "wikipedia",
+      "score": 0.930054348707199,
+      "text": "YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen, who were former employees of PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google. In January 2024, YouTube had more than 2.7 billion monthly active users, who collectively watched more than one billion hours of videos every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of content per minute, and as of mid-2024, there were approximately 14.8 billion videos in total. On November 13, 2006, YouTube was purchased by Google for US$1.65 billion (equivalent to $2.39 billion in 2024). Google expanded YouTube's business model from generating revenue through advertisements alone to offering paid content such as movies and exclusive content explicitly produced for YouTube."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube Premium#0000",
+      "doc_id": "wikipedia:YouTube Premium",
+      "title": "YouTube Premium",
+      "url": "https://en.wikipedia.org/?curid=44382466",
+      "source_type": "wikipedia",
+      "score": 0.9269091069698334,
+      "text": "YouTube Premium (formerly Music Key and YouTube Red) is a subscription service offered by the American video platform YouTube. The service provides ad-free access to content across the service, as well as access to exclusive YouTube Originals programming produced in collaboration with the site's creators, ability to download videos and listen background playback of videos on mobile devices, and access to the music streaming service, YouTube Music, along with other benefits. It has over 125 million subscribers. The service was launched on November 14, 2014, as Music Key, offering advertisement-free streaming of music videos from participating labels on YouTube and Google Play Music. The service was then revised and relaunched as YouTube Red on October 21, 2015, expanding its scope to offer advertisement-free access to all YouTube videos, as opposed to just music."
+    },
+    {
+      "chunk_id": "wikipedia:Video#0000",
+      "doc_id": "wikipedia:Video",
+      "title": "Video",
+      "url": "https://en.wikipedia.org/?curid=32441",
+      "source_type": "wikipedia",
+      "score": 0.6183629393577575,
+      "text": "Video is an electronic medium for the recording, copying, playback, broadcast, and display of moving-image media. Video was first developed for mechanical television systems, which were quickly replaced by cathode-ray tube (CRT) systems, which, in turn, were replaced by flat-panel displays. Video systems vary in display resolution, aspect ratio, refresh rate, color reproduction, and other qualities. Both analog and digital video can be carried on a variety of media, including radio, magnetic tape, optical discs, computer files, and network streaming. Etymology The word video comes from the Latin video, \"I see,\" the first-person singular present indicative of videre, \"to see\". History Analog video Video developed from facsimile systems developed in the mid-19th century. Mechanical video scanners, such as the Nipkow disk, were patented as early as 1884, but it took several decades before practical video systems could be developed."
+    },
+    {
+      "chunk_id": "wikipedia:Man on a String#0001",
+      "doc_id": "wikipedia:Man on a String",
+      "title": "Man on a String",
+      "url": "https://en.wikipedia.org/?curid=35028463",
+      "source_type": "wikipedia",
+      "score": 0.5777007699012756,
+      "text": "of making a documentary film there. Helen is having an affair with Kubelov, but the Bensons' home has been bugged and they try to flee to Mexico. In the meantime, Boris is sent to Moscow to be entrusted with a new assignment, so Avery gives him a code word (\"cinerama\") to use should he find himself in danger. Upon learning that Adrian intends to publicly expose Boris and Kubelov, Avery is..."
+    },
+    {
+      "chunk_id": "wikipedia:Doctor#0001",
+      "doc_id": "wikipedia:Doctor",
+      "title": "Doctor",
+      "url": "https://en.wikipedia.org/?curid=662249",
+      "source_type": "wikipedia",
+      "score": 0.5768652617931366,
+      "text": "Doctor, in video game Cave Story The Doctor (Star Trek) The Doctor, or Scalpel, in the Transformers film series The Doctor or Cobra Commander, in G.I. Joe: A Real American Hero The Doctor, in Little Nightmares II Minoru Kamiya, also known as Doctor, in YuYu Hakusho The Doctor (Squid Game), also known as Byeong-yi or Player 111 Film Doctor (film series), British comedy films of the 1950s–1960s Doctor (1963 film), an Indian Malayalam-language film Doctor (2013 film), a South Korean horror film Doctor (2021 film), an Indian Tamil-language film Doctor (2023 film), a Russian drama The Doctor (1991 film), an American drama The Doctor (2013 film), about basketball player Julius Erving Music ��4�..."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0000",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.5712474644184112,
+      "text": "Great may refer to: Descriptions or measurements Great, a relative measurement in physical space, see Size Greatness, being divine, superior, majestic, or transcendent People List of people known as \"the Great\" Artel Great (born 1981), American actor Great Osobor (born 2002), Spanish-born British basketball player Other uses Great (1975 film), a British animated short about Isambard Kingdom Brunel Great (2013 film), a German short film Great (supermarket), a supermarket in Hong Kong GReAT, Graph Rewriting and Transformation, a Model Transformation Language Gang Resistance Education and Training, or GREAT, a school-based and police officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great!"
+    },
+    {
+      "chunk_id": "wikipedia:Living#0001",
+      "doc_id": "wikipedia:Living",
+      "title": "Living",
+      "url": "https://en.wikipedia.org/?curid=1133759",
+      "source_type": "wikipedia",
+      "score": 0.538154661655426,
+      "text": "program Living (2007 TV program), a 2007–2009 group of regional Canadian lifestyle programs Living (New Zealand TV channel), a New Zealand television station Living (UK TV channel), now Sky Witness, a British pay TV channel Living2, later Real Lives, a defunct sister channel Living (2012 film), a 2012 Russian drama film Living (2022..."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0001",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.5055142194032669,
+      "text": "officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great! TV, British TV channel group The Great (TV series), an American comedy-drama See also All pages with titles containing great All pages with titles beginning with Great All pages with titles beginning with The Great All pages with titles beginning with The great The Great (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Most#0001",
+      "doc_id": "wikipedia:Most",
+      "title": "Most",
+      "url": "https://en.wikipedia.org/?curid=26476214",
+      "source_type": "wikipedia",
+      "score": 0.4748999774456024,
+      "text": "(MoST), a defunct American fabless semiconductor company Most (Croatian political party), a party founded in 2012 Most Radio 105.8 FM, an Indonesian radio station See also MOST (disambiguation) The Most (disambiguation) Must (disambiguation) Moest (disambiguation) All pages with titles beginning with Most All pages with titles beginning..."
+    },
+    {
+      "chunk_id": "wikipedia:Rost#0001",
+      "doc_id": "wikipedia:Rost",
+      "title": "Rost",
+      "url": "https://en.wikipedia.org/?curid=16503566",
+      "source_type": "wikipedia",
+      "score": 0.4662013649940491,
+      "text": "1962), a Hungarian lyric soprano Burkhard Rost (born 1961), a German scientist - computational biologists Christina Rost (born 1952), a German former women's team handball player Clarence Rost (1914–2008), a former Canadian professional ice hockey player Erik Rost (born 1985), a Swedish ski-orienteering competitor Frank Rost..."
+    }
+  ]
+}

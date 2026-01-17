@@ -1,0 +1,183 @@
+{
+  "meme_id": "meme_03323",
+  "queries": [
+    "\"World Cup The\" \"World Cup\" \"world\" \"cup\" \"tine\"",
+    "\"World Cup\" \"Qatar\" \"the rules\" \"their wish\"",
+    "\"the rules\" \"their wish\" \"the ethics\" \"world\""
+  ],
+  "primary_terms": [
+    "World Cup",
+    "world",
+    "cup",
+    "tine",
+    "ffeotoall"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:State#0000",
+      "doc_id": "wikipedia:State",
+      "title": "State",
+      "url": "https://en.wikipedia.org/?curid=290282",
+      "source_type": "wikipedia",
+      "score": 0.593264251947403,
+      "text": "State most commonly refers to: State (polity), a centralized political organization that regulates law and society within a territory Sovereign state, a sovereign polity in international law, commonly referred to as a country Nation state, a state where the majority identify with a single nation (with shared culture or ethnic group) Constituent state, a political subdivision of a state Federated state, constituent states part of a federation (examples below) State of nature, a concept within philosophy that describes the way humans acted before forming societies or civilizations State may also refer to: Arts, entertainment, and media Literature State Magazine, a monthly magazine published by the U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Society#0000",
+      "doc_id": "wikipedia:Society",
+      "title": "Society",
+      "url": "https://en.wikipedia.org/?curid=37235",
+      "source_type": "wikipedia",
+      "score": 0.5922828614711761,
+      "text": "A society () is a group of individuals involved in persistent social interaction or a large social group sharing the same spatial or social territory, typically subject to the same political authority and dominant cultural expectations. Societies are characterized by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions; a given society may be described as the sum total of such relationships among its constituent members. Human social structures are complex and highly cooperative, featuring the specialization of labor via social roles. Societies construct roles and other patterns of behavior by deeming certain actions or concepts acceptable or unacceptable—these expectations around behavior within a given society are known as societal norms. So far as it is collaborative, a society can enable its members to benefit in ways that would otherwise be difficult on an individual basis."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.5914653450250625,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Country#0000",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.5650660812854766,
+      "text": "A country is an area of land, colloquially used as a synonym for sovereign state or other political entities, but also used to refer to the hinterland surrounding urban areas, as well as to describe the culture of people living in these places. Usually, the term country is applied to occupied areas of land, however it can be used to refer to uninhabited areas or wastelands. When referring to a specific polity, the term \"country\" may refer to a sovereign state, a state with limited recognition, a constituent country, or a dependent territory. Most sovereign states, but not all countries, are members of the United Nations. There is no universal agreement on the number of \"countries\" in the world with a range between 193 to 237. This ambiguity is a result of several states having disputed sovereignty status or limited recognition, and a number of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0001",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.5130450040102005,
+      "text": "thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references. Major themes in the series include prejudice, corruption, madness, love, and death. Since the release of the first novel, Harry Potter and the Philosopher's Stone, on 26 June 1997, the books have found immense popularity and commercial success worldwide..."
+    },
+    {
+      "chunk_id": "wikipedia:Hope#0000",
+      "doc_id": "wikipedia:Hope",
+      "title": "Hope",
+      "url": "https://en.wikipedia.org/?curid=50020",
+      "source_type": "wikipedia",
+      "score": 0.5111625701189041,
+      "text": "Hope is an optimistic state of mind that is based on an expectation of positive outcomes with respect to events and circumstances in one's own life, or the world at large. As a verb, Merriam-Webster defines hope as \"to expect with confidence\" or \"to cherish a desire with anticipation\". Among its opposites are dejection, hopelessness, and despair. Hope finds expression through many dimensions of human life, including practical reasoning, the religious virtue of hope, legal doctrine, and literature, alongside cultural and mythological aspects. In psychology American professor of psychology Barbara Fredrickson argues that hope comes into its own when crisis looms, opening us to new creative possibilities. Frederickson argues that with great need comes an unusually wide range of ideas, as well as such positive emotions as happiness and joy, courage, and empowerment, drawn from four different areas of one's self: from a cognitive, psychological, social, or physical perspective."
+    },
+    {
+      "chunk_id": "wikipedia:Tine#0001",
+      "doc_id": "wikipedia:Tine",
+      "title": "Tine",
+      "url": "https://en.wikipedia.org/?curid=1389414",
+      "source_type": "wikipedia",
+      "score": 0.5020273983478546,
+      "text": "literary critic and poet Tine De Caigny (born 1997), Belgian footballer Tine Eerlingen (born 1976), Belgian politician Tine Fischer, Danish film executive, appointed head of the Danish Film Institute from August 2024 Tine Hribar (born 1941), Slovenian philosopher Tine Kavčič (born 1994), Slovenian footballer Tine Ladefoged (born 1977), Danish handball..."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0000",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.46835454404354093,
+      "text": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Granger, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's conflict with Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and non-magical people, known in-universe as Muggles. The series was originally published in English by Bloomsbury in the United Kingdom and Scholastic Press in the United States. A series of many genres, including fantasy, drama, coming-of-age fiction, and the British school story (which includes elements of mystery, thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references."
+    },
+    {
+      "chunk_id": "wikipedia:Tine#0000",
+      "doc_id": "wikipedia:Tine",
+      "title": "Tine",
+      "url": "https://en.wikipedia.org/?curid=1389414",
+      "source_type": "wikipedia",
+      "score": 0.46792242527008054,
+      "text": "Tine may refer to: Tine (structural), a 'prong' on a fork or similar implement, or any similar structure Tine (company), the biggest dairy producer in Norway Tine (film), a 1964 Danish film Tine, Iran, a village in Mazandaran Province, Iran Tiné, a town in Chad near the Mourdi Depression Tine test, a medical test for tuberculosis Tine 2.0, an open source business software covering the software categories groupware and Customer Relationship Management Tine (race), an alien race in the novels A Fire Upon the Deep and The Children of the Sky Given name Tine Asmundsen (born 1963), Norwegian jazz musician Tine Baun (born 1979), Danish badminton player Tine Bossuyt (born 1980), Belgian Olympic swimmer Tine Bryld (1939–2011), Danish social worker and writer Tine Cederkvist (born 1979), Danish footballer Tine Debeljak (1903–1989), Slovenian literary critic and poet Tine De Caigny (born 1997), Belgian footballer Tine Eerlingen (born 1976), Belgian politician Tine Fischer, Danish film"
+    },
+    {
+      "chunk_id": "wikipedia:Two Whatevers#0001",
+      "doc_id": "wikipedia:Two Whatevers",
+      "title": "Two Whatevers",
+      "url": "https://en.wikipedia.org/?curid=539766",
+      "source_type": "wikipedia",
+      "score": 0.466056689620018,
+      "text": "\" slogan: \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\". The slogan was underscoring Mao's testament that designated Hua as his successor. It proved a trigger for Deng's manoeuvre in 1978 to implement economic reform policy in China, and eventually led to..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A soccer player is about to stomp on a large ball.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "The meme poster mocks Qatar for changing the rules according to their wish against the ethics..",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Qatar",
+          "the rules",
+          "their wish",
+          "the ethics"
+        ]
+      },
+      "title": {
+        "text": "World Cup",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "World Cup",
+          "world",
+          "cup"
+        ]
+      },
+      "text": {
+        "text": "Tine ffeotoall,:",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "tine",
+          "ffeotoall"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "World Cup",
+      "world",
+      "cup",
+      "tine",
+      "ffeotoall"
+    ],
+    "secondary_terms": [
+      "Qatar",
+      "the rules",
+      "their wish",
+      "the ethics"
+    ],
+    "queries": [
+      "\"World Cup The\" \"World Cup\" \"world\" \"cup\" \"tine\"",
+      "\"World Cup\" \"Qatar\" \"the rules\" \"their wish\"",
+      "\"the rules\" \"their wish\" \"the ethics\" \"world\""
+    ]
+  },
+  "source_jsonl_id": null
+}

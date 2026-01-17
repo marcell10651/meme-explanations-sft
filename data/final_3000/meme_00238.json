@@ -1,0 +1,195 @@
+{
+  "meme_id": "meme_00238",
+  "queries": [
+    "\"The shirt\" \"Its\" \"always\" \"best\"",
+    "\"always\" \"best\" \"buys\" \"shirt\""
+  ],
+  "primary_terms": [
+    "Its",
+    "always",
+    "best",
+    "The shirt",
+    "buys",
+    "shirt",
+    "cool",
+    "design",
+    "week",
+    "later"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.8460307478904724,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Always#0001",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.8336849629878997,
+      "text": "Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu Xiu album), 2012 Always: The Very Best of Erasure or the 1994 title song (see below), 2015 Always, by June Tabor, 2005 Always, by Kelli O'Hara, 2011 Always, by Michael Ball, 1993 Always..."
+    },
+    {
+      "chunk_id": "wikipedia:Suit#0001",
+      "doc_id": "wikipedia:Suit",
+      "title": "Suit",
+      "url": "https://en.wikipedia.org/?curid=339784",
+      "source_type": "wikipedia",
+      "score": 0.7142321288585662,
+      "text": "clothes. After replacing the black frock coat in the early 20th century as regular daywear, a sober one-coloured suit became known as a lounge suit. Suits are offered in different designs and constructions. Cut and cloth, whether two- or three-piece, single- or double-breasted, vary, in addition to various accessories. A two-piece suit has a jacket and trousers..."
+    },
+    {
+      "chunk_id": "wikipedia:Perfection#0000",
+      "doc_id": "wikipedia:Perfection",
+      "title": "Perfection",
+      "url": "https://en.wikipedia.org/?curid=1928374",
+      "source_type": "wikipedia",
+      "score": 0.6792721629142762,
+      "text": "Perfection is a state, variously, of completeness, flawlessness, or supreme excellence. The term designates a range of diverse, if often kindred, concepts used in a variety of fields. Term and concept The noun \"perfection\", the adjective \"perfect\", and the verb \"to perfect\" derive from the Latin verb \"perficere\" – \"to finish\" or \"to bring to an end\". The ancient Greek word for \"perfection\" was \"teleiotes\". The Greek polymath Aristotle (384–322 BCE) distinguished three concepts of perfection: 1. that which was complete – which contained all the requisite parts; 2. that which was so good that nothing of the kind could be better; 3. that which had attained its purpose. The Polish philosopher Władysław Tatarkiewicz (1886 – 1980) notes that perfection is often confused with other qualities, such as \"excellence\". The German polymath Leibniz (1646–1716), who thought the world to be the best of all possible worlds, never called it perfect."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.6695465505123138,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:Stay#0001",
+      "doc_id": "wikipedia:Stay",
+      "title": "Stay",
+      "url": "https://en.wikipedia.org/?curid=1175804",
+      "source_type": "wikipedia",
+      "score": 0.5776128232479095,
+      "text": "piece used to maintain the point of a shirt collar Guy-wire, or stay, a metal cable used to support a tall structure, such as a radio mast Stay cable, used to hold up a weight Arts, entertainment, and media Films Stay (2005 film), a psychological thriller directed by Marc Forster Stay (2006 film), also known as Sleeping Dogs..."
+    },
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0000",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.561146667599678,
+      "text": "What Not to Wear is an American makeover reality television series based on the British show of the same name. The show premiered on January 18, 2003, and ended on October 18, 2013, airing on TLC in the United States. What Not to Wear was hosted by Stacy London and Clinton Kelly, though London's Season 1 co-host was Wayne Scot Lukas. Also part of the show was head makeover artist Carmindy and hairstylist Nick Arrojo from season 1 through season 6. Celebrity hairstylist Ted Gibson replaced Arrojo beginning in season 7, through season 10. On March 6, 2013, TLC announced that the tenth season of What Not to Wear would be its last. Format Participants were nominated by friends, co-workers, or relatives. Some episodes involved self-nominations, such as the class reunion specials or mall nominations. In the latter, What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help."
+    },
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0001",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.5467062056064605,
+      "text": "What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help. Early episodes featured both men and women; however, as the men's transformations did not prove to be as remarkable, all later episodes featured women exclusively. Some episodes featured both the nominee and the nominator being..."
+    },
+    {
+      "chunk_id": "wikipedia:Everytime#0000",
+      "doc_id": "wikipedia:Everytime",
+      "title": "Everytime",
+      "url": "https://en.wikipedia.org/?curid=870269",
+      "source_type": "wikipedia",
+      "score": 0.5314101487398147,
+      "text": "\"Everytime\" is a song by American singer Britney Spears from her fourth studio album, In the Zone (2003). It was released as the third single from In the Zone on May 10, 2004, by Jive Records. After her relationship with Justin Timberlake ended in 2002, Spears became friends with her background singer Annet Artani. They started writing songs together at Spears' house in Los Angeles, and then traveled to Lombardy, Italy, where they collaborated on \"Everytime\". Musically, it is a piano-driven pop ballad, which lyrically pleas for forgiveness for inadvertently hurting a former lover. Spears composed the music herself and wrote the lyrics with Artani about a romantic breakup. \"Everytime\" received universal acclaim from music critics, who praised its lyrics, composition, and Spears' breathy vocals and songwriting, deeming it amongst the highlights of In the Zone."
+    },
+    {
+      "chunk_id": "wikipedia:White Shirt#0000",
+      "doc_id": "wikipedia:White Shirt",
+      "title": "White Shirt",
+      "url": "https://en.wikipedia.org/?curid=77833636",
+      "source_type": "wikipedia",
+      "score": 0.5267464280128479,
+      "text": "White Shirt is a 2017 Indian Hindi-language drama short film written and directed by Sumit Arora. Produced under the banner of Highway Films, it stars Kunal Kapoor and Kritika Kamra. It was released on YouTube on 20 February 2017. Cast Kunal Kapoor as Aveek Kritika Kamra as Vani Vaibhav Raj Gupta as Vibhor Production The film was announced in February 2017, starring Kunal Kapoor and Kritika Kamra. A special screening of the film was held at Mumbai on 20 February 2017. Reception Surabhi Redkar of Koimoi.com gave the film 3/5 stars. A critic from Scroll.in reviewed the film. References External links White Shirt on Large Short Films White Shirt on YouTube"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The ground is just cracked dirt.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The ground",
+          "dirt"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is conveying shirts are made nowadays",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "shirts"
+        ]
+      },
+      "title": {
+        "text": "Its always with my best shirts",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Its",
+          "always",
+          "best"
+        ]
+      },
+      "text": {
+        "text": "Me: *buys a shirt with a cool design* The shirt a week later: ro? — ee i as f- a ; en ~ a We oN",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The shirt",
+          "buys",
+          "shirt",
+          "cool",
+          "design",
+          "week",
+          "later"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Its",
+      "always",
+      "best",
+      "The shirt",
+      "buys",
+      "shirt",
+      "cool",
+      "design",
+      "week",
+      "later"
+    ],
+    "secondary_terms": [
+      "The ground",
+      "dirt",
+      "shirts"
+    ],
+    "queries": [
+      "\"The shirt\" \"Its\" \"always\" \"best\"",
+      "\"always\" \"best\" \"buys\" \"shirt\""
+    ]
+  },
+  "source_jsonl_id": null
+}

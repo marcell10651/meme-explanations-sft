@@ -1,0 +1,202 @@
+{
+  "meme_id": "meme_04224",
+  "queries": [
+    "\"Bowser\" \"sometimes\" \"explaining\" \"maths\" \"teacner\"",
+    "\"maths\" \"teacner\" \"didn\" \"bring\""
+  ],
+  "primary_terms": [
+    "sometimes",
+    "explaining",
+    "maths",
+    "teacner",
+    "didn",
+    "bring",
+    "homework",
+    "rele",
+    "momiewons"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Table#0000",
+      "doc_id": "wikipedia:Table",
+      "title": "Table",
+      "url": "https://en.wikipedia.org/?curid=274698",
+      "source_type": "wikipedia",
+      "score": 0.4560747444629669,
+      "text": "Table may refer to: Table (database), how the table data arrangement is used within the databases Table (furniture), a piece of furniture with a flat surface and one or more legs Table (information), a data arrangement with rows and columns Table (landform), a flat area of land Table (parliamentary procedure) Table (sports), a ranking of the teams in a sports league Tables (board game) Mathematical table Tables of the skull, a term for the flat bones Table, surface of the sound board (music) of a string instrument Al-Ma'ida, the fifth surah of the Qur'an, occasionally translated as “The Table” Calligra Tables, a spreadsheet application Water table See also Spreadsheet, a computer application Table cut, a type of diamond cut The Table (disambiguation) Table Mountain (disambiguation) Table Rock (disambiguation) Tabler (disambiguation) Tablet (disambiguation) All pages with titles beginning with Table All pages with titles containing Table All pages with titles beginning with Tabular All"
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0001",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.4504643827676773,
+      "text": "musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation for their name in post-nominal letters See also CANT (disambiguation) All pages with titles containing Cant Canté, a commune in Ariège, France Canter (disambiguation) Canticle Kant (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Support#0000",
+      "doc_id": "wikipedia:Support",
+      "title": "Support",
+      "url": "https://en.wikipedia.org/?curid=1185931",
+      "source_type": "wikipedia",
+      "score": 0.4444772809743881,
+      "text": "Support may refer to: Arts, entertainment, and media Supporting character Support (art), a solid surface upon which a painting is executed Business and finance Support (technical analysis) Child support Customer support Income Support Construction Support (structure), or lateral support, a type of structural support to help prevent sideways movement Structural support, architectural components that include arches, beams, columns, balconies, and stretchers Law and politics Advocacy, in politics, support for constituencies, issues, or legislation Lateral and subjacent support, a legal term Mathematics Mathematics (generally) Support (mathematics), subset of the domain of a function where it is non-zero valued Support (measure theory), a subset of a measurable space Supporting hyperplane, sometimes referred to as support Support of a module, a set of prime ideals in commutative algebra Statistics Support, the natural logarithm of the likelihood ratio, as used in phylogenetics Method of"
+    },
+    {
+      "chunk_id": "wikipedia:Milking#0001",
+      "doc_id": "wikipedia:Milking",
+      "title": "Milking",
+      "url": "https://en.wikipedia.org/?curid=1555269",
+      "source_type": "wikipedia",
+      "score": 0.426432266831398,
+      "text": "milking machines. Teat cups are attached to the cow's teats, and then the cups alternate between vacuum and normal air pressure to extract the milk. The milk is filtered and cooled before being added to a large bulk tank of milk for storage. The average time of milking is 5–7 minutes and a cow can be milked with a machine 2–3 times a day. The existing robotic milking has allowed cows to have the freedom..."
+    },
+    {
+      "chunk_id": "wikipedia:Support#0001",
+      "doc_id": "wikipedia:Support",
+      "title": "Support",
+      "url": "https://en.wikipedia.org/?curid=1185931",
+      "source_type": "wikipedia",
+      "score": 0.4198579490184784,
+      "text": "a set of prime ideals in commutative algebra Statistics Support, the natural logarithm of the likelihood ratio, as used in phylogenetics Method of support, in statistics, a technique that is used to make inferences from datasets Support of a distribution where the probability or probability density is positive..."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0000",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.41734103858470917,
+      "text": "Science is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe. Modern science is typically divided into two – or three – major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies. While referred to as the formal sciences, the study of logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology. Meanwhile, applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine. The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE)."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.402871310710907,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0000",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.39565807580947876,
+      "text": "A scientist is an expert who conducts scientific research to advance knowledge in science. In classical antiquity, there was no real ancient analog of a modern scientist. Instead, philosophers engaged in the philosophical study of nature called natural philosophy. Though Thales (c. 624–545 BC) was arguably the first scientist for describing how cosmic events may be seen as natural, not necessarily caused by gods, it was not until the 19th century that the term scientist came into regular use: it was coined by the theologian, philosopher, and historian of science William Whewell in 1833 to describe Mary Somerville. History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time."
+    },
+    {
+      "chunk_id": "wikipedia:Relaxation#0001",
+      "doc_id": "wikipedia:Relaxation",
+      "title": "Relaxation",
+      "url": "https://en.wikipedia.org/?curid=392638",
+      "source_type": "wikipedia",
+      "score": 0.39409618079662323,
+      "text": "for a natural extension in mathematical optimization or variational problems In computer science: Relaxation (computing), the act of substituting alternative program code during linking In physiology, hypnosis, meditation, recreation: Relaxation (psychology), the emotional state of low tension Relaxation technique, an activity that helps a person to relax..."
+    },
+    {
+      "chunk_id": "wikipedia:Group#0001",
+      "doc_id": "wikipedia:Group",
+      "title": "Group",
+      "url": "https://en.wikipedia.org/?curid=25874441",
+      "source_type": "wikipedia",
+      "score": 0.3924901634454727,
+      "text": "Social group Collectives Philosophy and religion Khandha, a Buddhist concept of five material and mental factors that take part in the rise of craving and clinging Science and technology Mathematics Group (mathematics), a set together with a binary operation satisfying certain algebraic conditions Chemistry Functional..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A ninja turtle is on top with Bowser looking for fun below.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "top",
+          "Bowser",
+          "fun"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster is trying to convey that when they don't bring in their homework to class, their teacher doesn't not accept their excuses for why they were unable to complete their homework assignments.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their homework",
+          "class",
+          "their teacher",
+          "their excuses",
+          "their homework assignments"
+        ]
+      },
+      "title": {
+        "text": "It do be like that sometimes.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "sometimes"
+        ]
+      },
+      "text": {
+        "text": "me explaining my maths teacner why | didn't bring my homework | rele Li , MOMIEWONS /",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "explaining",
+          "maths",
+          "teacner",
+          "didn",
+          "bring",
+          "homework",
+          "rele",
+          "momiewons"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "sometimes",
+      "explaining",
+      "maths",
+      "teacner",
+      "didn",
+      "bring",
+      "homework",
+      "rele",
+      "momiewons"
+    ],
+    "secondary_terms": [
+      "top",
+      "Bowser",
+      "fun",
+      "their homework",
+      "class",
+      "their teacher",
+      "their excuses",
+      "their homework assignments"
+    ],
+    "queries": [
+      "\"Bowser\" \"sometimes\" \"explaining\" \"maths\" \"teacner\"",
+      "\"maths\" \"teacner\" \"didn\" \"bring\""
+    ]
+  },
+  "source_jsonl_id": null
+}

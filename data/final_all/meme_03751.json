@@ -1,0 +1,199 @@
+{
+  "meme_id": "meme_03751",
+  "queries": [
+    "\"ASMR youtuber\" \"*sad sounds\" \"sad\" \"sounds\"",
+    "\"sad\" \"sounds\" \"love\" \"affection\""
+  ],
+  "primary_terms": [
+    "*sad sounds",
+    "sad",
+    "sounds",
+    "ASMR youtuber",
+    "love",
+    "affection"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Here#0001",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.7871787309646606,
+      "text": "2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a Singaporean film directed by Tzu Nyen Ho Here (2011 film), an American drama directed by Braden King Here (2023 film), a Belgian film directed by Bas Devos Here (2024 film), an American drama directed..."
+    },
+    {
+      "chunk_id": "wikipedia:Love#0000",
+      "doc_id": "wikipedia:Love",
+      "title": "Love",
+      "url": "https://en.wikipedia.org/?curid=17547",
+      "source_type": "wikipedia",
+      "score": 0.7521528720855712,
+      "text": "Love is an emotion involving strong attraction, affection, emotional attachment or concern for a person, animal, or thing. It is expressed in many forms, encompassing a range of strong and positive emotional and mental states, from the most sublime virtue, good habit, deepest interpersonal affection, to the simplest pleasure. An example of this range of meanings is that the love of a mother differs from the love of a spouse, which differs from the love of food. Love is considered to be both positive and negative, with its virtue representing kindness, compassion, and affection—\"the unselfish, loyal, and benevolent concern for the good of another\"—and its vice representing a moral flaw akin to vanity, selfishness, amour-propre, and egotism. It may also describe compassionate and affectionate actions towards other humans, oneself, or animals."
+    },
+    {
+      "chunk_id": "wikipedia:Silence#0000",
+      "doc_id": "wikipedia:Silence",
+      "title": "Silence",
+      "url": "https://en.wikipedia.org/?curid=440579",
+      "source_type": "wikipedia",
+      "score": 0.675985312461853,
+      "text": "Silence is the absence of ambient audible sound, the emission of sounds of such low intensity that they do not draw attention to themselves, or the state of having ceased to produce sounds; this latter sense can be extended to apply to the cessation or absence of any form of communication, whether through speech or other medium. Remaining mute can be a symptom of mental illness. Sometimes speakers fall silent when they hesitate in searching for a word, or interrupt themselves before correcting themselves. Discourse analysis shows that people use brief silences to mark the boundaries of prosodic units, in turn-taking, or as reactive tokens, for example, as a sign of displeasure, disagreement, embarrassment, desire to think, confusion, and the like. Relatively prolonged intervals of silence can be used in rituals; in some religious disciplines, people maintain silence for protracted periods, or even for the rest of their lives, as an ascetic means of spiritual transformation."
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0000",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.5999428629875183,
+      "text": "Feel may refer to: Feeling Music Bands Feel (New York band), a 1980s dance and R&B band Feel (Polish band), a pop rock band Albums Feel (Feel album), 2007 Feel (George Duke album) or the title song, 1974 Feel (Glenn Hughes album), 1995 Feel (Human Drama album), 1989 Feel (Namie Amuro album), 2013 Feel (Roachford album), 1997 Feel (Sleeping with Sirens album) or the title song, 2013 Feel, by Nagisa ni te, 2002 Feel (A-Mei EP), 1999 Feel (Junho EP), 2014 Songs \"Feel\" (Kendrick Lamar song), 2017 \"Feel\" (Koda Kumi song), 2006 \"Feel\" (Robbie Williams song), 2002 \"Feel\" (Chicago song), 2006 \"Feel\", by Asking Alexandria from Where Do We Go from Here?, 2023 \"Feel\", by Big Star from #1 Record, 1972 \"Feel\", by Bombay Bicycle Club from So Long, See You Tomorrow, 2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol."
+    },
+    {
+      "chunk_id": "wikipedia:Feels#0000",
+      "doc_id": "wikipedia:Feels",
+      "title": "Feels",
+      "url": "https://en.wikipedia.org/?curid=68447223",
+      "source_type": "wikipedia",
+      "score": 0.5963872075080872,
+      "text": "Feels or The Feels may refer to: Albums Feels (Animal Collective album), 2005 Feels (Snoh Aalegra album), 2017 Songs \"Feels\" (song), a 2017 song and single by Calvin Harris off the album Funk Wav Bounces Vol. 1 \"Feels\" (Snoh Aalegra song), a 2017 song by Snoh Aalegra, the title track off the eponymous album Feels (Snoh Aalegra album) \"The Feels\" (song), a 2021 song by Twice \"F.E.E.L.S.\", a 2021 music video and song by Tory Lanez Other uses The Feels (film), a 2017 film by Jenée LaMarque See also All the Feels (album), 2019 album by Fitz and the Tantrums Feel (disambiguation) All pages with titles beginning with Feels All pages with titles containing Feels"
+    },
+    {
+      "chunk_id": "wikipedia:Hear, hear#0000",
+      "doc_id": "wikipedia:Hear, hear",
+      "title": "Hear, hear",
+      "url": "https://en.wikipedia.org/?curid=2182621",
+      "source_type": "wikipedia",
+      "score": 0.5917638838291168,
+      "text": "Hear, hear is an expression which represents a listener's agreement with the point being made by a speaker or in response to a toast. Origins The phrase hear him, hear him! was used in Parliament from late in the 17th century, and was reduced to hear! or hear, hear! by the late 18th century. The verb hear had earlier been used in the King James Bible as a command for others to listen. Other phrases have been derived from hear, hear, such as a hear, hear (a cheer), to hear-hear (to shout the expression), and hear-hearer (a person who does the same). Usage It was originally an imperative for directing attention to speakers, and has since been used, according to the Oxford English Dictionary, as \"the regular form of cheering in the House of Commons\", with many purposes, depending on the intonation of its user. Its use in Parliament is linked to the fact that applause is normally (though not always) forbidden in the chambers of the House of Commons and House of Lords."
+    },
+    {
+      "chunk_id": "wikipedia:Quiet#0000",
+      "doc_id": "wikipedia:Quiet",
+      "title": "Quiet",
+      "url": "https://en.wikipedia.org/?curid=1612819",
+      "source_type": "wikipedia",
+      "score": 0.5736108422279358,
+      "text": "Quiet may refer to: Silence, a relative or total lack of sound In music The Quiett (born 1985), South Korean rapper Quiet (album), a 1996 John Scofield album \"Quiet\", a song by Lights, from her album The Listening (2009) \"Quiet\" (MILCK song), a 2017 song written for the 2017 Women's March in Washington, D.C. Quiet (EP), a 2007 EP by Jim Ward \"Quiet\" (This Will Destroy You song), 2006 \"Quiet\" (Lil' Kim song), a song by Lil' Kim \"Quiet\", a song by Alien Ant Farm, from their 2003 albumTruant \"Quiet\", a song by Camila Cabello, from her album Familia (2022) \"Quiet\", a song by Demi Lovato, from her album Here We Go Again (2009) \"Quiet\", a song by The Smashing Pumpkins, from their album Siamese Dream (1993) \"Quiet\", a song by the Player Piano from their album Satellite (2007) \"Quiet\", a song by Royce da 5'9\", from his album Layers (2016) The Quiet, an album by Bella Morte \"Quiet\", a song by Tim Minchin from the musical Matilda In religion Prayer of Quiet, a term from Christian theology"
+    },
+    {
+      "chunk_id": "wikipedia:Sorry#0001",
+      "doc_id": "wikipedia:Sorry",
+      "title": "Sorry",
+      "url": "https://en.wikipedia.org/?curid=343641",
+      "source_type": "wikipedia",
+      "score": 0.5728924125432968,
+      "text": "a novel by Zoran Drvenkar Music Performers Sorry (band), an English indie band Scott Sorry (1978–2025), American singer-songwriter Albums Sorry! (album) or the title song, by Catherine, 1994 Sorry (Meg Myers album) or the title song, 2015 Sorry (White Lung album), 2012 Sorry, by Mai Yamane, 1981 Sorry, by Severina, 2023 Songs \"Sorry\" (Beyoncé song), 2016 \"Sorry\" (Bic Runga song), 1999 \"Sorry\" (Buckcherry song), 2007 \"Sorry\" (Ciara song), 2012 \"Sorry\" (Doris Day song), 1967 \"Sorry\" (Easybeats song), 1966 \"Sorry\" (Grace Jones song), 1976 \"Sorry\" (Halsey song), 2017 \"Sorry\" (IDER song), 2016 \"Sorry\" (Justin Bieber song), 2015 \"Sorry\" (Madness song), 2007 \"Sorry\" (Madonna song), 2006 \"Sorry..."
+    },
+    {
+      "chunk_id": "wikipedia:Distress#0000",
+      "doc_id": "wikipedia:Distress",
+      "title": "Distress",
+      "url": "https://en.wikipedia.org/?curid=775089",
+      "source_type": "wikipedia",
+      "score": 0.5505652129650116,
+      "text": "Distress may refer to: Distress (medicine), an aversive state in which a person shows maladaptive behaviors Mental distress (or psychological distress) Distress, or distraint, the act of seizing goods to compel payment Distress (novel), a novel by Greg Egan Distress (1946 film), a 1946 French film Distress (1929 film), a 1929 French silent film Distress signal, a recognized means for obtaining help Distressed inventory, goods or materials whose potential to be sold at a normal cost has passed Distressing, the process of making an object appear aged Stone washing, a similar technique used on apparel See also Distressor, an audio compression unit All pages with titles beginning with Distress All pages with titles containing Distress"
+    },
+    {
+      "chunk_id": "wikipedia:A Reason to Live, a Reason to Die#0000",
+      "doc_id": "wikipedia:A Reason to Live, a Reason to Die",
+      "title": "A Reason to Live, a Reason to Die",
+      "url": "https://en.wikipedia.org/?curid=24235116",
+      "source_type": "wikipedia",
+      "score": 0.5037737488746643,
+      "text": "A Reason to Live, a Reason to Die (originally titled Una Ragione Per Vivere E Una Per Morire, also known as Massacre at Fort Holman) is a 1972 Technicolor Italian spaghetti Western movie starring James Coburn, Bud Spencer, and Telly Savalas. Many exterior scenes were filmed at the Fort Bowie set built in the Province of Almería, Spain, where the desert landscape and climate that characterizes part of the province have made it a much utilized setting for Western films, among those A Fistful of Dollars, The Good, the Bad and the Ugly, Once Upon a Time in the West, and later 800 Bullets. The Fort Bowie set was originally built for the film The Deserter. There are two different English language versions of the movie, shorter with James Coburn's own voice and longer with different voice actors and music. James Coburn was not involved in longer cut dubbing. It also features some of the same songs from Day of Anger starring Lee Van Cleef."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Eight smaller images on the left that are pictures of peoples faces and on the right is a sketched drawing of a dark face creature with black eyes.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Eight smaller images",
+          "the left",
+          "pictures",
+          "peoples",
+          "the right",
+          "a dark face creature",
+          "black eyes"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster thinks ASMR videos are not the best way to stimulate yourself because it gives bad sounds.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "ASMR videos",
+          "the best way",
+          "yourself",
+          "bad sounds"
+        ]
+      },
+      "title": {
+        "text": "*sad sounds*",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "*sad sounds",
+          "sad",
+          "sounds"
+        ]
+      },
+      "text": {
+        "text": "Vie: ASMR youtuber: \"Thank F . , ank you for your literally just touching the camera Y Y ; love and affection ZS py se Ft [ELEN we tLe WS | ERE Ns ay eh \\ o or. : RG USE ONG . WS eateean teen = ee, ihe ON ‘ ot ae SN Ne Cea gt else , Nery a! at OS ‘ , ‘23 y) . aa \\> _ I",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "ASMR youtuber",
+          "love",
+          "affection"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "*sad sounds",
+      "sad",
+      "sounds",
+      "ASMR youtuber",
+      "love",
+      "affection"
+    ],
+    "secondary_terms": [
+      "Eight smaller images",
+      "the left",
+      "pictures",
+      "peoples",
+      "the right",
+      "a dark face creature",
+      "black eyes",
+      "ASMR videos",
+      "the best way",
+      "yourself",
+      "bad sounds"
+    ],
+    "queries": [
+      "\"ASMR youtuber\" \"*sad sounds\" \"sad\" \"sounds\"",
+      "\"sad\" \"sounds\" \"love\" \"affection\""
+    ]
+  },
+  "source_jsonl_id": null
+}

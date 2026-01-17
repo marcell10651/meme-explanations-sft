@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_00653",
+  "queries": [
+    "\"noise cancellin headphones\" \"the voices\" \"not\" \"recommend\"",
+    "\"noise cancellin headphones\" \"the voices\" \"two men\" \"white clothes\"",
+    "\"two men\" \"white clothes\" \"not\" \"recommend\""
+  ],
+  "primary_terms": [
+    "not",
+    "recommend",
+    "noise cancellin headphones",
+    "the voices",
+    "your head"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Headphones#0000",
+      "doc_id": "wikipedia:Headphones",
+      "title": "Headphones",
+      "url": "https://en.wikipedia.org/?curid=191884",
+      "source_type": "wikipedia",
+      "score": 0.9299565613269806,
+      "text": "Headphones are a pair of small loudspeaker drivers worn on or around the head over a user's ears. They are electroacoustic transducers, which convert an electrical signal to a corresponding sound. Headphones let a single user listen to an audio source privately, in contrast to a loudspeaker, which emits sound into the open air for anyone nearby to hear. Headphones are also known as earphones or, colloquially, cans. Circumaural (around the ear) and supra-aural (over the ear) headphones use a band over the top of the head to hold the drivers in place. Another type, known as earbuds or earpieces, consists of individual units that plug into the user's ear canal; within that category have been developed cordless air buds using wireless technology. A third type are bone conduction headphones, which typically wrap around the back of the head and rest in front of the ear canal, leaving the ear canal open."
+    },
+    {
+      "chunk_id": "wikipedia:Themselves#0001",
+      "doc_id": "wikipedia:Themselves",
+      "title": "Themselves",
+      "url": "https://en.wikipedia.org/?curid=3237436",
+      "source_type": "wikipedia",
+      "score": 0.6339319705963135,
+      "text": "a mixtape, The Free Houdini, as well as the third studio album, Crowns Down. Another remix album, Crowns Down & Company, was released in 2010. Members Doseone – vocals, production Jel – vocals, production Discography Studio albums Them (2000) The No Music (2002) Crowns Down (2009) Mixtapes The Free Houdini (2009) Remix albums The No Music of AIFFs (2003) Crowns Down & Company (2010) Live albums Live (2003) Live II (2005) Singles \"Joyful Toy of 1001 Faces\" (1999) \"This About the City Too\" (2002) \"P.U.S.H.\" (2004) Compilation appearances \"It's Them\" on Music for the Advancement of Hip Hop..."
+    },
+    {
+      "chunk_id": "wikipedia:Post-credits scene#0001",
+      "doc_id": "wikipedia:Post-credits scene",
+      "title": "Post-credits scene",
+      "url": "https://en.wikipedia.org/?curid=6107731",
+      "source_type": "wikipedia",
+      "score": 0.6041576266288757,
+      "text": "so a singer could repeat an aria, but fell out of favor in the 1920s due to rising emphasis on dramatic storytelling rather than vocal performance. The first general release film to feature a post-credits scene is The Silencers, released in March 1966. The scene depicts lead character Matt Helm (played by Dean Martin) lying shirtless on what appears to be a rotating sofa along with 10 scantily-clad women. He kisses..."
+    },
+    {
+      "chunk_id": "wikipedia:Microphone#0001",
+      "doc_id": "wikipedia:Microphone",
+      "title": "Microphone",
+      "url": "https://en.wikipedia.org/?curid=65886",
+      "source_type": "wikipedia",
+      "score": 0.5995270907878876,
+      "text": "larger groups of people, a need arose to increase the volume of the human voice. The earliest devices used to achieve this were acoustic megaphones. Some of the first examples, from fifth-century-BC Greece, were theater masks with horn-shaped mouth openings that acoustically amplified the voice of actors in amphitheaters. Between 1664 and 1685, the English physicist..."
+    },
+    {
+      "chunk_id": "wikipedia:Quiet#0000",
+      "doc_id": "wikipedia:Quiet",
+      "title": "Quiet",
+      "url": "https://en.wikipedia.org/?curid=1612819",
+      "source_type": "wikipedia",
+      "score": 0.5819699168205261,
+      "text": "Quiet may refer to: Silence, a relative or total lack of sound In music The Quiett (born 1985), South Korean rapper Quiet (album), a 1996 John Scofield album \"Quiet\", a song by Lights, from her album The Listening (2009) \"Quiet\" (MILCK song), a 2017 song written for the 2017 Women's March in Washington, D.C. Quiet (EP), a 2007 EP by Jim Ward \"Quiet\" (This Will Destroy You song), 2006 \"Quiet\" (Lil' Kim song), a song by Lil' Kim \"Quiet\", a song by Alien Ant Farm, from their 2003 albumTruant \"Quiet\", a song by Camila Cabello, from her album Familia (2022) \"Quiet\", a song by Demi Lovato, from her album Here We Go Again (2009) \"Quiet\", a song by The Smashing Pumpkins, from their album Siamese Dream (1993) \"Quiet\", a song by the Player Piano from their album Satellite (2007) \"Quiet\", a song by Royce da 5'9\", from his album Layers (2016) The Quiet, an album by Bella Morte \"Quiet\", a song by Tim Minchin from the musical Matilda In religion Prayer of Quiet, a term from Christian theology"
+    },
+    {
+      "chunk_id": "wikipedia:Final#0001",
+      "doc_id": "wikipedia:Final",
+      "title": "Final",
+      "url": "https://en.wikipedia.org/?curid=759020",
+      "source_type": "wikipedia",
+      "score": 0.5810446739196777,
+      "text": "electronic musical group Final (Vol. 1), 2021 album by Enrique Iglesias Final (Vol. 2), 2024 album by Enrique Iglesias The Final (album), by Wham! \"The Final\", a song by Dir en grey on the album Withering to Death Other uses Final case, a grammatical case Part of a syllable NBA Finals, the championship competition of the National Basketball Association..."
+    },
+    {
+      "chunk_id": "wikipedia:Jonathan Demme#0001",
+      "doc_id": "wikipedia:Jonathan Demme",
+      "title": "Jonathan Demme",
+      "url": "https://en.wikipedia.org/?curid=16069",
+      "source_type": "wikipedia",
+      "score": 0.562368756532669,
+      "text": "horror film The Silence of the Lambs, based on the novel of the same title, won five Academy Awards, including Best Director and Best Picture. His subsequent films earned similar acclaim, notably the HIV/AIDS-themed drama Philadelphia (1993), the supernatural Gothic horror Beloved (1998), the conspiracy thriller The Manchurian Candidate (2004), and the independent drama Rachel Getting Married (2008). Demme also directed numerous concert films such as Stop Making..."
+    },
+    {
+      "chunk_id": "wikipedia:Close#0000",
+      "doc_id": "wikipedia:Close",
+      "title": "Close",
+      "url": "https://en.wikipedia.org/?curid=4583933",
+      "source_type": "wikipedia",
+      "score": 0.5500763952732086,
+      "text": "Close may refer to: Music Close (Kim Wilde album), 1988 Close (Marvin Sapp album), 2017 Close (Sean Bonniwell album), 1969 \"Close\" (Sub Focus song), 2014 \"Close\" (Nick Jonas song), 2016 \"Close\" (Rae Sremmurd song), 2018 \"Close\" (Jade Eagleson song), 2020 \"Close (to the Edit)\", a 1984 song by Art of Noise \"Close\", song by Aaron Lines from Living Out Loud \"Close\", song by AB6IX from Mo' Complete: Have A Dream \"Close\", song by Drumsound & Bassline Smith from Wall of Sound \"Close\", song by Rascal Flatts from Unstoppable \"Close\", song by Soul Asylum from Candy from a Stranger \"Close\", song by Westlife from Coast to Coast \"Close\", song by French electronic group Telepopmusik and English vocalist Deborah Anderson, from their album Angel Milk Other uses Close (surname) Cathedral close, the area surrounding a cathedral, typically occupied by buildings associated with it Close (2019 film), an action thriller Close (2022 film), a Belgian drama film Close (street), an alley or cul-de-sac Close,"
+    },
+    {
+      "chunk_id": "wikipedia:Accent#0001",
+      "doc_id": "wikipedia:Accent",
+      "title": "Accent",
+      "url": "https://en.wikipedia.org/?curid=193493",
+      "source_type": "wikipedia",
+      "score": 0.5499662756919861,
+      "text": "on a particular area or object Accent Records, a record label ACCENT Speakers Bureau, a student-run organization at the University of Florida Ac'cent, brand name for monosodium glutamate (MSG) See also All pages with titles beginning with Accent All pages with titles containing Accent Accenture, company Accentor, a bird..."
+    },
+    {
+      "chunk_id": "wikipedia:Sorry#0001",
+      "doc_id": "wikipedia:Sorry",
+      "title": "Sorry",
+      "url": "https://en.wikipedia.org/?curid=343641",
+      "source_type": "wikipedia",
+      "score": 0.5086871385574341,
+      "text": "a novel by Zoran Drvenkar Music Performers Sorry (band), an English indie band Scott Sorry (1978–2025), American singer-songwriter Albums Sorry! (album) or the title song, by Catherine, 1994 Sorry (Meg Myers album) or the title song, 2015 Sorry (White Lung album), 2012 Sorry, by Mai Yamane, 1981 Sorry, by Severina, 2023 Songs \"Sorry\" (Beyoncé song), 2016 \"Sorry\" (Bic Runga song), 1999 \"Sorry\" (Buckcherry song), 2007 \"Sorry\" (Ciara song), 2012 \"Sorry\" (Doris Day song), 1967 \"Sorry\" (Easybeats song), 1966 \"Sorry\" (Grace Jones song), 1976 \"Sorry\" (Halsey song), 2017 \"Sorry\" (IDER song), 2016 \"Sorry\" (Justin Bieber song), 2015 \"Sorry\" (Madness song), 2007 \"Sorry\" (Madonna song), 2006 \"Sorry..."
+    }
+  ]
+}

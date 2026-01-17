@@ -1,0 +1,114 @@
+{
+  "meme_id": "meme_04461",
+  "queries": [
+    "\"can\" \"only\" \"one\" \"gear\"",
+    "\"one\" \"gear\" \"setting\" \"volume\""
+  ],
+  "primary_terms": [
+    "can",
+    "only",
+    "one",
+    "gear",
+    "setting",
+    "volume",
+    "gyi",
+    "anodd",
+    "number",
+    "ese",
+    "ove",
+    "lok",
+    "amultiple"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Quantity#0000",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.9094350278377533,
+      "text": "Quantity or amount is a property that includes numbers and quantifiable phenomena such as mass, time, distance, heat, angle, and information. Quantities can commonly be compared in terms of \"more\", \"less\", or \"equal\", or by assigning a numerical value multiple of a unit of measurement. Quantity is among the basic classes of things along with quality, substance, change, and relation. Some quantities are such by their inner nature (as number), while others function as states (properties, dimensions, attributes) of things such as heavy and light, long and short, broad and narrow, small and great, or much and little. Under the name of multitude comes what is discontinuous and discrete and divisible ultimately into indivisibles, such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.8439340233802796,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:One half#0000",
+      "doc_id": "wikipedia:One half",
+      "title": "One half",
+      "url": "https://en.wikipedia.org/?curid=464963",
+      "source_type": "wikipedia",
+      "score": 0.7666492402553559,
+      "text": "One half is the multiplicative inverse of 2. It is an irreducible fraction with a numerator of 1 and a denominator of 2. It often appears in mathematical equations, recipes and measurements. As a word One half is one of the few fractions which are commonly expressed in natural languages by suppletion rather than regular derivation. In English, for example, compare the compound \"one half\" with other regular formations like \"one-sixth\". A half can also be said to be one part of something divided into two equal parts. It is acceptable to write one half as a hyphenated word, one-half. Mathematics One half is the rational number that lies midway between 0 and 1 on the number line. Multiplication by one half is equivalent to division by two, or \"halving\"; conversely, division by one half is equivalent to multiplication by two, or \"doubling\". A number raised to the power of one half is equal to its square root. This follows from the fact that when multiplying powers, the exponents add."
+    },
+    {
+      "chunk_id": "wikipedia:Only#0000",
+      "doc_id": "wikipedia:Only",
+      "title": "Only",
+      "url": "https://en.wikipedia.org/?curid=1629775",
+      "source_type": "wikipedia",
+      "score": 0.7619687736034393,
+      "text": "Only may refer to: Music Albums Only (album), by Tommy Emmanuel, 2000 The Only, an EP by Dua Lipa, 2017 The Only (EP), by The Boyz Songs \"Only\" (Anthrax song), 1993 \"Only\" (Nine Inch Nails song), 2005 \"Only\" (Nicki Minaj song), 2014 \"Only\" (Lee Hi song), 2021 \"The Only\", by Static-X, 2003 \"Only\", by Ass Ponys from Lohio, 2001 \"Only\", by Fuse ODG, 2015 \"Only\", by Imagine Dragons from Origins, 2018 \"Only\", by NF from The Search, 2019 \"Only\", by Sarah Vaughan from Sarah Slightly Classical, 1963 \"Only\", by Sampha from Lahai, 2023 \"The Only\", a song by Raiden featuring Irene, 2019 \"The Only\", by Sasha Alex Sloan from Loser, 2018 Other uses Only (film), a 2019 post-apocalyptic romance film Only (magazine), a 2000s Canadian news and entertainment magazine Only, Tennessee, US Jerry Only (born 1959), American punk rock bassist and singer See also All pages with titles beginning with Only All pages with titles beginning with The Only Onli, people with this surname Onley (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0001",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.748225924372673,
+      "text": "or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover (theater), a walkway across the stage hidden from the audience Crossover thrash, a musical genre combining thrash and punk Crossover (video games) The Crossover..."
+    },
+    {
+      "chunk_id": "wikipedia:RAID#0000",
+      "doc_id": "wikipedia:RAID",
+      "title": "RAID",
+      "url": "https://en.wikipedia.org/?curid=54695",
+      "source_type": "wikipedia",
+      "score": 0.7146236330270768,
+      "text": "RAID (redundant array of inexpensive disks or redundant array of independent disks) is a data storage virtualization technology that combines multiple physical data storage components into one or more logical units for the purposes of data redundancy, performance improvement, or both. This is in contrast to the previous concept of highly reliable mainframe disk drives known as single large expensive disk (SLED). Data is distributed across the drives in one of several ways, referred to as RAID levels, depending on the required level of redundancy and performance. The different schemes, or data distribution layouts, are named by the word \"RAID\" followed by a number, for example RAID 0 or RAID 1. Each scheme, or RAID level, provides a different balance among the key goals: reliability, availability, performance, and capacity. RAID levels greater than RAID 0 provide protection against unrecoverable sector read errors, as well as against failures of whole physical drives."
+    },
+    {
+      "chunk_id": "wikipedia:Setup#0000",
+      "doc_id": "wikipedia:Setup",
+      "title": "Setup",
+      "url": "https://en.wikipedia.org/?curid=15988526",
+      "source_type": "wikipedia",
+      "score": 0.6671667337417603,
+      "text": "Setup (the noun) or set up (the verb) may refer to: Arts, entertainment, and media Films Set Up (2005 film), a 2005 Hong Kong horror film Setup (2011 film), a 2011 action thriller heist film Literature Set Up, a 1992 novel by Peter Corris Set Up, a 1999 novel by Claire McNab Music Setup (album), a 1994 album by jazz pianist Stanley Cowell Setup (music) Sports Racing setup, in auto racing Setup pitcher Other uses Setup (storytelling), the introduction in a plot of an element that will be useful to the story only later, when the payoff comes Setup, also called frameup, providing false evidence or false testimony in order to falsely prove someone guilty of a crime Setup, installation (computer programs) Setup, power-on self-test Setup, on page 104 of The Black Ice, delivery of an alcoholic drink in a bar Setup cost, the cost of a step in manufacturing changeover See also Setting up to fail, a manipulative technique to engineer failure Set (disambiguation) Setting (disambiguation) The"
+    },
+    {
+      "chunk_id": "wikipedia:With Teeth#0000",
+      "doc_id": "wikipedia:With Teeth",
+      "title": "With Teeth",
+      "url": "https://en.wikipedia.org/?curid=905871",
+      "source_type": "wikipedia",
+      "score": 0.6111125171184539,
+      "text": "With Teeth (stylized as [WITH_TEETH]) is the fourth studio album by American industrial rock band Nine Inch Nails, released by Nothing Records and Interscope Records on May 3, 2005. The album was produced by Nine Inch Nails frontman Trent Reznor and long-time collaborator Alan Moulder. It also features contributions from musician Dave Grohl and future band member Atticus Ross. In line with the band's previous material, the record features introspective songwriting influenced by Reznor's addiction to alcohol and drugs and subsequent sobriety. The album generated three singles: \"The Hand That Feeds\", \"Only\", and \"Every Day Is Exactly the Same\", the latter of which was released as an accompanying remix EP. The album was supported by the Live: With Teeth tour. With Teeth was well received by critics, albeit slightly less than the band's previous work. Some complimented the aggressive composition, while others said the album was bland and criticized Reznor for a lack of originality."
+    },
+    {
+      "chunk_id": "wikipedia:Setup#0001",
+      "doc_id": "wikipedia:Setup",
+      "title": "Setup",
+      "url": "https://en.wikipedia.org/?curid=15988526",
+      "source_type": "wikipedia",
+      "score": 0.6107231497764587,
+      "text": "manufacturing changeover See also Setting up to fail, a manipulative technique to engineer failure Set (disambiguation) Setting (disambiguation) The Set-Up (disambiguation) All pages with titles beginning with Setup All pages with titles containing Setup All pages with titles beginning with Set up All pages with..."
+    },
+    {
+      "chunk_id": "wikipedia:Arms#0001",
+      "doc_id": "wikipedia:Arms",
+      "title": "Arms",
+      "url": "https://en.wikipedia.org/?curid=9843028",
+      "source_type": "wikipedia",
+      "score": 0.6076650142669677,
+      "text": "for the Nintendo Switch ARMS Charity Concerts, a series of charitable rock concerts in support of Action into Research for Multiple Sclerosis in 1983 Project ARMS, a 1997 Japanese manga series also known as ARMS Other uses Alveolar rhabdomyosarcoma, a form of cancer Arms, Amps root mean square, seen in electrical specifications..."
+    }
+  ]
+}

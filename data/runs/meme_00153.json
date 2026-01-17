@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_00153",
+  "queries": [
+    "\"Pennsylvania\" \"the most iconic state\" \"the last few days\" \"The one\" \"Nevada\"",
+    "\"The one\" \"Nevada\" \"the myth\" \"the legend\""
+  ],
+  "primary_terms": [
+    "The one",
+    "the myth",
+    "the legend",
+    "Nevada",
+    "the most iconic state",
+    "the last few days"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Nevada#0000",
+      "doc_id": "wikipedia:Nevada",
+      "title": "Nevada",
+      "url": "https://en.wikipedia.org/?curid=21216",
+      "source_type": "wikipedia",
+      "score": 1.0919666051864625,
+      "text": "Nevada ( nə-VAD-ə; Spanish: [neˈβaða] ) is a landlocked state in the Western United States. It is also sometimes placed in the Mountain West and Southwestern United States. It borders Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east. Nevada is the seventh-most extensive and the 32nd-most populous U.S. state. Nearly three-quarters of Nevada's population live in Clark County, which contains the Las Vegas–Paradise metropolitan area. Nevada's capital is Carson City. Las Vegas is the largest city in the state. Nevada is officially known as the \"Silver State\" because of the importance of silver to its history and economy. It is also known as the \"Battle Born State\" because it achieved statehood during the Civil War; as the \"Sagebrush State\", for the native plant of the same name; and as the \"Sage-hen State\". Native Americans of the Paiute, Shoshone, and Washoe tribes inhabit what is now Nevada."
+    },
+    {
+      "chunk_id": "wikipedia:Phoenix#0000",
+      "doc_id": "wikipedia:Phoenix",
+      "title": "Phoenix",
+      "url": "https://en.wikipedia.org/?curid=23689",
+      "source_type": "wikipedia",
+      "score": 0.6422651410102844,
+      "text": "Phoenix most often refers to: Phoenix (mythology), an immortal bird in ancient Greek mythology Phoenix, Arizona, the capital of the U.S. state of Arizona and the most populous state capital in the United States Phoenix may also refer to: Greek mythology Phoenix (Greek mythology), several other figures in Greek mythology, including: Phoenix (son of Agenor), brother or father of Europa Phoenix (son of Amyntor), king of the Dolopians who raises Achilles Places Canada Phoenix, Alberta, a ghost town Phoenix, British Columbia, a ghost town United States Phoenix, Arizona, capital of Arizona and most populous city in the state Phoenix metropolitan area, Arizona Phoenix, Georgia, an unincorporated community Phoenix, Illinois, a village Phoenix, Louisiana, an unincorporated community Phoenix, Maryland, an unincorporated community Phoenix, Michigan, an unincorporated community Phoenix, Mississippi, an unincorporated community Phoenix, Edison, New Jersey, a neighborhood of the township of Edison"
+    },
+    {
+      "chunk_id": "wikipedia:Legendary#0000",
+      "doc_id": "wikipedia:Legendary",
+      "title": "Legendary",
+      "url": "https://en.wikipedia.org/?curid=541707",
+      "source_type": "wikipedia",
+      "score": 0.5725522994995117,
+      "text": "Legendary may refer to: Legend, a folklore genre Legendary (hagiography) J. R. R. Tolkien's legendarium Film and television Legendary (2010 film), a 2010 American sports drama film Legendary (2013 film), a 2013 film featuring Dolph Lundgren Legendary (TV series), a 2020 American reality competition series \"Legendary\" (Legends of Tomorrow), a television episode Music Albums Legendary (AZ album), 2009 Legendary (The Summer Set album) or the title song, 2013 Legendary (TQ album) or the title song, 2013 Legendary (Tyga album) or the title song, 2019 Legendary (Z-Ro album), 2016 Legendary (Zao album), 2003 Legendary, by Kaysha, 2006 The Legendary, an EP by the Roots, 1999 Songs \"Legendary\" (Deadmau5 and Shotty Horroh song), 2017 \"Legendary\" (Welshly Arms song), 2016 \"Legendary\", by Alaska Thunderfuck from Anus, 2015 \"Legendary\", by Daya from Daya, 2015 \"Legendary\", by Royce da 5'9\" from Success Is Certain, 2011 \"Legendary\", by Skillet from Victorious, 2019 \"Legendary\", by Joey Badass from"
+    },
+    {
+      "chunk_id": "wikipedia:Legend#0000",
+      "doc_id": "wikipedia:Legend",
+      "title": "Legend",
+      "url": "https://en.wikipedia.org/?curid=53974",
+      "source_type": "wikipedia",
+      "score": 0.5276161432266235,
+      "text": "A legend is a genre of folklore that consists of a narrative featuring human actions, believed or perceived to have taken place in human history. Narratives in this genre may demonstrate human values, and possess certain qualities that give the tale verisimilitude. Legend, for its active and passive participants, may include miracles. Legends may be transformed over time to keep them fresh and vital. Many legends operate within the realm of uncertainty, never being entirely believed by the participants, but also never being resolutely doubted. Legends are sometimes distinguished from myths in that they concern human beings as the main characters and do not necessarily have supernatural origins, and sometimes in that they have some sort of historical basis whereas myths generally do not. The Brothers Grimm defined legend as \"folktale historically grounded\"."
+    },
+    {
+      "chunk_id": "wikipedia:State#0001",
+      "doc_id": "wikipedia:State",
+      "title": "State",
+      "url": "https://en.wikipedia.org/?curid=290282",
+      "source_type": "wikipedia",
+      "score": 0.5269957035779953,
+      "text": "societies or civilizations State may also refer to: Arts, entertainment, and media Literature State Magazine, a monthly magazine published by the U.S. Department of State The State (newspaper), a daily newspaper in Columbia, South Carolina, United States Our State, a monthly magazine published in North Carolina and formerly called The State The State (Larry Niven), a fictional future government in three novels by Larry Niven Music Groups and labels States Records, an American record label The State (band), Australian band previously known as the Cutters Albums State (album), a 2013 album by Todd Rundgren..."
+    },
+    {
+      "chunk_id": "wikipedia:Pennsylvania#0000",
+      "doc_id": "wikipedia:Pennsylvania",
+      "title": "Pennsylvania",
+      "url": "https://en.wikipedia.org/?curid=23332",
+      "source_type": "wikipedia",
+      "score": 0.5206998586654663,
+      "text": "Pennsylvania, officially the Commonwealth of Pennsylvania, is a state spanning the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States. It borders Delaware to its southeast, Maryland to its south, West Virginia to its southwest, Ohio to its west, the Canadian province of Ontario to its northwest via Lake Erie, New York to its north, and the Delaware River and New Jersey to its east. Pennsylvania's capital is Harrisburg and its most populous city is Philadelphia.. Among all US states, Pennsylvania is the fifth-most populous with over 13 million residents as of the 2020 United States census, the ninth-highest by population density, and the 33rd-largest by land area. The largest metropolitan statistical area is the southeastern Philadelphia metropolitan area, centered on Philadelphia, the commonwealth's most populous and the sixth-most populous city in the US."
+    },
+    {
+      "chunk_id": "wikipedia:Legend#0001",
+      "doc_id": "wikipedia:Legend",
+      "title": "Legend",
+      "url": "https://en.wikipedia.org/?curid=53974",
+      "source_type": "wikipedia",
+      "score": 0.5017809867858887,
+      "text": "in that they have some sort of historical basis whereas myths generally do not. The Brothers Grimm defined legend as \"folktale historically grounded\". A by-product of the \"concern with human beings\" is the long list of legendary creatures, leaving no \"resolute doubt\" that legends are \"historically grounded.\" A modern folklorist's professional definition of legend was proposed by Timothy R. Tangherlini in 1990: Legend, typically, is a short (mono-) episodic, traditional, highly..."
+    },
+    {
+      "chunk_id": "wikipedia:Utah#0001",
+      "doc_id": "wikipedia:Utah",
+      "title": "Utah",
+      "url": "https://en.wikipedia.org/?curid=31716",
+      "source_type": "wikipedia",
+      "score": 0.3969346880912781,
+      "text": "the Great Basin. Utah has been inhabited for thousands of years by various Indigenous peoples, such as the ancient Puebloans, the Navajo, and the Ute. The first Europeans to arrive – in the mid-16th century – were the Spanish. Because of the region's challenging geography and harsh climate, it only became a peripheral part of New Spain (and later of Mexico). Even while it was Mexican territory..."
+    },
+    {
+      "chunk_id": "wikipedia:Pennsylvania#0001",
+      "doc_id": "wikipedia:Pennsylvania",
+      "title": "Pennsylvania",
+      "url": "https://en.wikipedia.org/?curid=23332",
+      "source_type": "wikipedia",
+      "score": 0.39530205726623535,
+      "text": "southeastern Philadelphia metropolitan area, centered on Philadelphia, the commonwealth's most populous and the sixth-most populous city in the US. The second-largest metropolitan area, Greater Pittsburgh, is centered in and around Pittsburgh, the commonwealth's second-largest city. Pennsylvania was founded in 1681 through a royal land grant to William Penn, the son of the commonwealth's namesake. Before that, between 1638 and 1655, a southeast..."
+    },
+    {
+      "chunk_id": "wikipedia:Legendary#0001",
+      "doc_id": "wikipedia:Legendary",
+      "title": "Legendary",
+      "url": "https://en.wikipedia.org/?curid=541707",
+      "source_type": "wikipedia",
+      "score": 0.3879205286502838,
+      "text": "Daya, 2015 \"Legendary\", by Royce da 5'9\" from Success Is Certain, 2011 \"Legendary\", by Skillet from Victorious, 2019 \"Legendary\", by Joey Badass from All-Amerikkkan Badass, 2017 \"Legendary\", by Jorge Rivera-Herrans from Epic: The Musical, 2024 \"Legendary\" (Bon Jovi song), 2024 Other uses Legendary (video game), a 2008 first..."
+    }
+  ]
+}

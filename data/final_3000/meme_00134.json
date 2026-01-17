@@ -1,0 +1,194 @@
+{
+  "meme_id": "meme_00134",
+  "queries": [
+    "\"Green\" \"the oompa loompas\" \"chocolate river\" \"the kid\" \"the parents\"",
+    "\"the kid\" \"the parents\" \"movie\" \"kid\""
+  ],
+  "primary_terms": [
+    "this movie",
+    "movie",
+    "kid",
+    "chocolate river",
+    "the kid",
+    "the parents",
+    "the oompa loompas"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.8323023915290833,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:Young#0000",
+      "doc_id": "wikipedia:Young",
+      "title": "Young",
+      "url": "https://en.wikipedia.org/?curid=302029",
+      "source_type": "wikipedia",
+      "score": 0.6454497575759888,
+      "text": "Young may refer to: Offspring, the product of reproduction of a new organism produced by one or more parents Youth, the time of life when one's age is low, often meaning the time between childhood and adulthood Music The Young, an American rock band Young, an EP by Charlotte Lawrence, 2018 Songs \"Young\" (Baekhyun and Loco song), 2018 \"Young\" (The Chainsmokers song), 2017 \"Young\" (Hollywood Undead song), 2009 \"Young\" (Kenny Chesney song), 2002 \"Young\" (Place on Earth song), 2018 \"Young\" (Tulisa song), 2012 \"Young\", by Ella Henderson, 2019 \"Young\", by Lil Wayne from Dedication 6, 2017 \"Young\", by Nickel Creek from This Side, 2002 \"Young\", by Sam Smith from Love Goes, 2020 \"Young\", by Silkworm from Italian Platinum, 2002 \"Young\", by Vacations (band), 2016 \"Young\", by Vallis Alps, 2015 \"Young\", by Pixey, 2016 People Surname Young (surname) Given name Young (Korean name), Korean unisex given name and name element Young Boozer (born 1948), American banker and Alabama State Treasurer Young"
+    },
+    {
+      "chunk_id": "wikipedia:Mother!#0000",
+      "doc_id": "wikipedia:Mother!",
+      "title": "Mother!",
+      "url": "https://en.wikipedia.org/?curid=48213513",
+      "source_type": "wikipedia",
+      "score": 0.6383329927921295,
+      "text": "Mother! (stylized as mother!) is a 2017 American psychological horror film written and directed by Darren Aronofsky, and starring Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer, Domhnall Gleeson, Brian Gleeson, and Kristen Wiig. Its plot follows a young woman whose tranquil life with her husband at their country home is disrupted by the arrival of a mysterious couple, leading to a series of increasingly chaotic and destructive events. The film premiered on September 5, 2017, at the 74th Venice International Film Festival, where it was selected to compete for the Golden Lion. It was released in the United States by Paramount Pictures on September 15, 2017. The film grossed $44.5 million worldwide. It received generally positive reviews from critics."
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo DiCaprio#0000",
+      "doc_id": "wikipedia:Leonardo DiCaprio",
+      "title": "Leonardo DiCaprio",
+      "url": "https://en.wikipedia.org/?curid=52711",
+      "source_type": "wikipedia",
+      "score": 0.6371568143367767,
+      "text": "Leonardo Wilhelm DiCaprio ( ; Italian: [diˈkaːprjo]; born November 11, 1974) is an American actor and film producer. Known for his work in biographical and period films, he is the recipient of numerous accolades, including an Academy Award, a British Academy Film Award, a Silver Bear and three Golden Globe Awards. His films as a leading actor have grossed $7 billion worldwide, and he has been placed eight times in annual rankings of the world's highest-paid actors. Born in Los Angeles, DiCaprio began his career in the late 1980s by appearing in television commercials. He had a recurring role in the sitcom Parenthood (1990–1991), and had his first major film part as author Tobias Wolff in This Boy's Life (1993). He received critical acclaim and his first Academy Award nomination for playing a developmentally disabled boy in What's Eating Gilbert Grape (1993). DiCaprio achieved international stardom with the star-crossed romances Romeo + Juliet (1996) and Titanic (1997)."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0000",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.576402097940445,
+      "text": "A father, dad, or daddy is the male parent of a child. Besides the paternal bonds of a father to his child or children, fathers may have a parental, legal, and social relationship with their child or children that carries with it certain rights and obligations. A biological father is the male genetic contributor to the creation of the child, through sexual intercourse or sperm donation. A biological father may have legal obligations to a child not raised by him, such as an obligation of monetary support. An adoptive father is a man who has become the child's parent through the legal process of adoption. A putative father is a man whose biological relationship to a child is alleged but has not been established. A stepfather is a non-biological male parent married to a child's preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child."
+    },
+    {
+      "chunk_id": "wikipedia:SpongeBob SquarePants#0001",
+      "doc_id": "wikipedia:SpongeBob SquarePants",
+      "title": "SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/?curid=2655089",
+      "source_type": "wikipedia",
+      "score": 0.5685146450996399,
+      "text": "to Nickelodeon. The network's executives wanted SpongeBob to be a child in school, but Hillenburg preferred SpongeBob to be an adult character. He was prepared to abandon the series, but compromised by creating a boating school so SpongeBob could attend school as an adult. SpongeBob SquarePants received widespread critical acclaim in its early years, with praise given to its characters, surreal humor..."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0001",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.5568531453609467,
+      "text": "state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son. The principal, worried for his school's reputation, tries to contain the situation and hides the letter in his office, while the four parents instructs their children to keep quiet. Ho-chang, curious to..."
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0000",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.5427135676145554,
+      "text": "A toddler is a child approximately 1 to 3 years old, though definitions vary. The toddler years are a time of great cognitive, emotional and social development. The word is derived from \"toddle\", which means to walk unsteadily, as children at this age do. Developmental milestones Toddler development can be broken down into a number of interrelated areas. There is reasonable consensus about what these areas may include: Physical: growth or an increase in size. Gross motor: the control of large muscles which enable walking, running, jumping and climbing. Fine motor: the ability to control small muscles; enabling the toddler to feed themselves, draw and manipulate objects. Vision: the ability to see near and far and interpret what is seen. Hearing and speech: the ability to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively."
+    },
+    {
+      "chunk_id": "wikipedia:Willy Wonka#0000",
+      "doc_id": "wikipedia:Willy Wonka",
+      "title": "Willy Wonka",
+      "url": "https://en.wikipedia.org/?curid=704925",
+      "source_type": "wikipedia",
+      "score": 0.5317932665348053,
+      "text": "Willy Wonka is a fictional character appearing in British author Roald Dahl's 1964 children's novel Charlie and the Chocolate Factory and its 1972 sequel Charlie and the Great Glass Elevator. He is the eccentric founder and proprietor of the Wonka Chocolate Factory. Wonka has been depicted in film several times. In 1971, Willy Wonka was portrayed by Gene Wilder in Willy Wonka & the Chocolate Factory. Wilder's portrayal in the film is widely beloved and is considered one of his greatest roles. Johnny Depp played the character in 2005's Charlie and the Chocolate Factory which polarized critics and audiences. In 2023, Timothée Chalamet portrayed the character in a standalone film that tells his origin story titled Wonka. Chalamet's performance was both praised and criticized. Wilder, Depp, and Chalamet all received Golden Globe nominations for Best Actor in a Comedy or Musical for their performances."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0000",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.5265032052993774,
+      "text": "The Oompa-Loompas are a fictional race of people in the Charlie and the Chocolate Factory franchise based on the original book by Roald Dahl. In all versions of the story, they are depicted as little people who form the workforce of Willy Wonka's chocolate factory, and are paid in cocoa beans. However, their appearance and backstory change depending on the version. Design and characteristics The Oompa-Loompas are described as being no larger than medium-sized dolls, with rosy-white skin and long golden-brown hair. They wear the same clothes they wore at Loompaland: the men wear deerskins, the women wear leaves and the children wear nothing at all. Before moving to Willy Wonka's chocolate factory, the Oompa-Loompas lived in Loompaland, where they lived in constant fear of the predators that would eat them. Their main source of food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Green guy starts losing his marbles in the top while he seems calmer when Willy Wonka is mentioned",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Green guy",
+          "his marbles",
+          "the top",
+          "Willy Wonka"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that the kid drowning in the chocolate river are often ignored in the chocolate factory",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the kid",
+          "the chocolate river",
+          "the chocolate factory"
+        ]
+      },
+      "title": {
+        "text": "what was this movie",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "this movie",
+          "movie"
+        ]
+      },
+      "text": {
+        "text": "kid: starts drowning in chocolate river the kid: the parents: = — ‘ ACS 6 yO Ta willy wonka: the oompa loompas: ee te ‘ye i “ a. \\ Lf . 7 Viti ~ “",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "kid",
+          "chocolate river",
+          "the kid",
+          "the parents",
+          "the oompa loompas"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "this movie",
+      "movie",
+      "kid",
+      "chocolate river",
+      "the kid",
+      "the parents",
+      "the oompa loompas"
+    ],
+    "secondary_terms": [
+      "Green guy",
+      "his marbles",
+      "the top",
+      "Willy Wonka",
+      "the kid",
+      "the chocolate river",
+      "the chocolate factory"
+    ],
+    "queries": [
+      "\"Green\" \"the oompa loompas\" \"chocolate river\" \"the kid\" \"the parents\"",
+      "\"the kid\" \"the parents\" \"movie\" \"kid\""
+    ]
+  },
+  "source_jsonl_id": null
+}

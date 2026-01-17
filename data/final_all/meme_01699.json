@@ -1,0 +1,197 @@
+{
+  "meme_id": "meme_01699",
+  "queries": [
+    "\"For\" \"years\" \"everything\" \"thought\" \"solves\"",
+    "\"thought\" \"solves\" \"realize\" \"does\""
+  ],
+  "primary_terms": [
+    "years",
+    "everything",
+    "thought",
+    "solves",
+    "realize",
+    "does",
+    "not",
+    "solve",
+    "phishing",
+    "ever"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.927177232503891,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0000",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.8189590036869049,
+      "text": "In philosophy and in common usage, an idea (from the Greek word: ἰδέα (idea), meaning 'a form, or a pattern') is the result of thought. Also in philosophy, ideas can also be mental representational images of some object. Many philosophers have considered ideas to be a fundamental ontological category of being. The capacity to create and understand the meaning of ideas is considered to be an essential and defining feature of human beings. An idea arises in a reflexive, spontaneous manner, even without thinking or serious reflection, for example, when we talk about the idea of a person or a place. A new or an original idea can often lead to innovation. Our actions are based upon beliefs, beliefs are patterns or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'."
+    },
+    {
+      "chunk_id": "wikipedia:Everything#0001",
+      "doc_id": "wikipedia:Everything",
+      "title": "Everything",
+      "url": "https://en.wikipedia.org/?curid=17181902",
+      "source_type": "wikipedia",
+      "score": 0.7642658174037933,
+      "text": "of all things in the universe is unknown because of the physics beyond the observed universe and the problem of knowing physics at the range infinite. To know universally everything as a temporal and spatial consideration isn't possible because of the unavailabilty of information at a certain time before the beginning of the universe and because of the problem of eternal causality. Scope In ordinary conversation, everything usually refers only to the totality of things..."
+    },
+    {
+      "chunk_id": "wikipedia:Hope#0001",
+      "doc_id": "wikipedia:Hope",
+      "title": "Hope",
+      "url": "https://en.wikipedia.org/?curid=50020",
+      "source_type": "wikipedia",
+      "score": 0.7619980335235595,
+      "text": "and joy, courage, and empowerment, drawn from four different areas of one's self: from a cognitive, psychological, social, or physical perspective. Such positive thinking bears fruit when based on a realistic sense of optimism, not on a naive \"false hope\". The psychologist Charles R. Snyder linked hope to the existence of a goal, combined with a determined..."
+    },
+    {
+      "chunk_id": "wikipedia:Reason#0001",
+      "doc_id": "wikipedia:Reason",
+      "title": "Reason",
+      "url": "https://en.wikipedia.org/?curid=42446",
+      "source_type": "wikipedia",
+      "score": 0.7568618714809418,
+      "text": "conclusions. Reasoning may be subdivided into forms of logical reasoning, such as deductive reasoning, inductive reasoning, and abductive reasoning. Aristotle drew a distinction between logical discursive reasoning (reason proper), and intuitive reasoning, in which the reasoning process through intuition—however valid—may tend toward the personal and the subjectively opaque. In some social and political settings logical and intuitive..."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.7208715051412582,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Information#0001",
+      "doc_id": "wikipedia:Information",
+      "title": "Information",
+      "url": "https://en.wikipedia.org/?curid=18985062",
+      "source_type": "wikipedia",
+      "score": 0.6649683117866516,
+      "text": "control, data, form, education, knowledge, meaning, understanding, mental stimuli, pattern, perception, proposition, representation, and entropy. Information is often processed iteratively: Data available at one step are processed into information to be interpreted and processed at the next step. For example, in written text each symbol or letter conveys information..."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0001",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.6605341136455536,
+      "text": "or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'. History An argument over the underlying nature of ideas was opened by Plato, whose exposition of his theory of forms—which recurs and accumulates over the course of his many dialogs—appropriates and adds a new sense to the Greek word for things that are \"seen\" (re. εἶδος) that highlights those elements of perception which..."
+    },
+    {
+      "chunk_id": "wikipedia:Reason#0000",
+      "doc_id": "wikipedia:Reason",
+      "title": "Reason",
+      "url": "https://en.wikipedia.org/?curid=42446",
+      "source_type": "wikipedia",
+      "score": 0.6501840353012085,
+      "text": "Reason is the capacity of consciously applying logic by drawing valid conclusions from new or existing information, with the aim of seeking truth. It is associated with such characteristically human activities as philosophy, religion, science, language, and mathematics, and is normally considered to be a distinguishing ability possessed by humans. Reason is sometimes referred to as rationality, although the latter is more about its application. Reasoning involves using more-or-less rational processes of thinking and cognition to extrapolate from one's existing knowledge to generate new knowledge, and involves the use of one's intellect. The field of logic studies the ways in which humans can use formal reasoning to produce logically valid arguments and true conclusions. Reasoning may be subdivided into forms of logical reasoning, such as deductive reasoning, inductive reasoning, and abductive reasoning."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0001",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.6310541868209839,
+      "text": "between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another. The dominant philosophical position since the 20th century has been physicalism, which says that everything is material, meaning that minds are certain aspects or features of some material objects. The evolutionary history of the mind is tied to the development of nervous systems, which..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Squidward on the left with his eyes shut, and Squidward on the right with his eyes wide open.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the left",
+          "his eyes",
+          "the right"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster trying to convey that 2FA does not solve everything",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "everything"
+        ]
+      },
+      "title": {
+        "text": "For years I thought 2FA solves everything :(",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "years",
+          "everything",
+          "thought",
+          "solves"
+        ]
+      },
+      "text": {
+        "text": "When you realize 2FA does not solve phishing what so ever A",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "realize",
+          "does",
+          "not",
+          "solve",
+          "phishing",
+          "ever"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "years",
+      "everything",
+      "thought",
+      "solves",
+      "realize",
+      "does",
+      "not",
+      "solve",
+      "phishing",
+      "ever"
+    ],
+    "secondary_terms": [
+      "the left",
+      "his eyes",
+      "the right",
+      "everything"
+    ],
+    "queries": [
+      "\"For\" \"years\" \"everything\" \"thought\" \"solves\"",
+      "\"thought\" \"solves\" \"realize\" \"does\""
+    ]
+  },
+  "source_jsonl_id": null
+}

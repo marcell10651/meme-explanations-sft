@@ -1,0 +1,195 @@
+{
+  "meme_id": "meme_06355",
+  "queries": [
+    "\"Titanic\" \"know\" \"men\" \"feelings\"",
+    "\"Jeremy Clarkson's review\" \"Two women\" \"Top Gear\" \"the video clip\"",
+    "\"Top Gear\" \"the video clip\" \"Titanic\" \"the society\""
+  ],
+  "primary_terms": [
+    "know",
+    "men",
+    "Titanic",
+    "feelings"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0001",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 1.0263284355401994,
+      "text": "What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help. Early episodes featured both men and women; however, as the men's transformations did not prove to be as remarkable, all later episodes featured women exclusively. Some episodes featured both the nominee and the nominator being..."
+    },
+    {
+      "chunk_id": "wikipedia:Post-credits scene#0001",
+      "doc_id": "wikipedia:Post-credits scene",
+      "title": "Post-credits scene",
+      "url": "https://en.wikipedia.org/?curid=6107731",
+      "source_type": "wikipedia",
+      "score": 0.8092538177967071,
+      "text": "so a singer could repeat an aria, but fell out of favor in the 1920s due to rising emphasis on dramatic storytelling rather than vocal performance. The first general release film to feature a post-credits scene is The Silencers, released in March 1966. The scene depicts lead character Matt Helm (played by Dean Martin) lying shirtless on what appears to be a rotating sofa along with 10 scantily-clad women. He kisses..."
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0001",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.7594086676836014,
+      "text": "2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol. 2, 2019 \"Feel\", by Mahmut Orhan, 2016 \"Feel\", by Måneskin from Rush!, 2023 \"Feel\", by Matchbox Twenty from More Than You Think You Are, 2002 \"Feel\", by Phora, 2018 \"Feel\", by Post Malone from Stoney, 2016 \"Feel\", by Stereophonics from Language. Sex. Violence. Other..."
+    },
+    {
+      "chunk_id": "wikipedia:Sexy, Sexy, Sexy#0001",
+      "doc_id": "wikipedia:Sexy, Sexy, Sexy",
+      "title": "Sexy, Sexy, Sexy",
+      "url": "https://en.wikipedia.org/?curid=38590761",
+      "source_type": "wikipedia",
+      "score": 0.7494130432605743,
+      "text": "the typical funk hallmarks of his more popular work. The song performed strongly on three separate Billboard charts as well as the Cashbox chart. It appeared in three separate releases under music label Polydor Records and reissued in 2020. Background In the early 1970s the United States saw the rise of ethnic blaxploitation films focussed on the contemporary experience and oppression of African Americans. The films pioneered..."
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo DiCaprio#0001",
+      "doc_id": "wikipedia:Leonardo DiCaprio",
+      "title": "Leonardo DiCaprio",
+      "url": "https://en.wikipedia.org/?curid=52711",
+      "source_type": "wikipedia",
+      "score": 0.7491996943950653,
+      "text": "What's Eating Gilbert Grape (1993). DiCaprio achieved international stardom with the star-crossed romances Romeo + Juliet (1996) and Titanic (1997). After the latter became the highest-grossing film in the world at the time, he reduced his workload for a few years. In an attempt to shed his image of a romantic hero, DiCaprio sought roles in other genres, including..."
+    },
+    {
+      "chunk_id": "wikipedia:Jaws (film)#0001",
+      "doc_id": "wikipedia:Jaws (film)",
+      "title": "Jaws (film)",
+      "url": "https://en.wikipedia.org/?curid=74830",
+      "source_type": "wikipedia",
+      "score": 0.696241682767868,
+      "text": "1974, Jaws was the first major motion picture to be shot on the ocean and consequently had a troubled production, going over budget and schedule. As the art department's mechanical sharks often malfunctioned, Spielberg decided to mostly suggest the shark's presence, employing an ominous and minimalist theme created by composer John Williams to indicate its impending appearances. Spielberg and others have compared this suggestive approach to that of director Alfred Hitchcock. Universal Pictures released the film..."
+    },
+    {
+      "chunk_id": "wikipedia:Ready#0001",
+      "doc_id": "wikipedia:Ready",
+      "title": "Ready",
+      "url": "https://en.wikipedia.org/?curid=9285499",
+      "source_type": "wikipedia",
+      "score": 0.6948927491903305,
+      "text": "and the Chocolate Box, 1974 \"Ready\", by Cherie from the Confessions of a Teenage Drama Queen soundtrack album, 2004 \"Ready\", by Jagged Edge from J.E. Heartbreak 2, 2014 \"Ready\", by Kelly Clarkson from All I Ever Wanted, 2009 \"Ready\", by Kovas, 2010 \"Ready\", by Montaigne from Complex, 2019 \"Ready\", by N-Toon from Toon Time, 2000 \"Ready\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0000",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.6338891446590423,
+      "text": "What Not to Wear is an American makeover reality television series based on the British show of the same name. The show premiered on January 18, 2003, and ended on October 18, 2013, airing on TLC in the United States. What Not to Wear was hosted by Stacy London and Clinton Kelly, though London's Season 1 co-host was Wayne Scot Lukas. Also part of the show was head makeover artist Carmindy and hairstylist Nick Arrojo from season 1 through season 6. Celebrity hairstylist Ted Gibson replaced Arrojo beginning in season 7, through season 10. On March 6, 2013, TLC announced that the tenth season of What Not to Wear would be its last. Format Participants were nominated by friends, co-workers, or relatives. Some episodes involved self-nominations, such as the class reunion specials or mall nominations. In the latter, What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0000",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.6233184397220611,
+      "text": "To look is to use sight to perceive an object. Look or The Look may refer to: Businesses and products Look (modeling agency), an Israeli modeling agency Look (American magazine), a defunct general-interest magazine Look (the UK magazine), a defunct fashion and celebrity magazine Look (cigarette), a Danish brand Look!, a candy bar made by Annabelle Candy Company Look (company), a French bicycle components and frames Film and television The Look, a 2003 American film starring Teresa Hill Look (2007 film), an American drama by Adam Rifkin Look: The Series, an American television drama series, also by Adam Rifkin, related to the film Look (2009 film), an American avant-garde short film directed by Ryan Pickett \"The Look\", an episode of American television sitcom Home Improvement Music Look (Beth Nielsen Chapman album) Look (EP), by Apink (2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by"
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.6101952701807022,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Two women are across from each other above a man frustrated by driving and a bearded man.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Two women"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster thinks that the society is labeling men for not having bad emotions, but in reality, the meme poster is sad about Jeremy Clarkson's review.. Meme poster is conveying that women wonder what makes men cry when it really is just Top Gear.. While people complains the meme poster for not having any feelings, the meme poster feels sad after seeing the video clip.. Meme poster finds it funny that women find men unemotional as they don't cry at Titanic, but in reality he felt very sad while watching a scene from a driving related TV show.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the society",
+          "men",
+          "bad emotions",
+          "reality",
+          "Jeremy Clarkson's review",
+          "women",
+          "Top Gear",
+          "people",
+          "any feelings",
+          "the video clip"
+        ]
+      },
+      "title": {
+        "text": "If you know, you know.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "know"
+        ]
+      },
+      "text": {
+        "text": "~\\ 1 ie So ee on 3 any | can't believe he didn't Do men even cry during Titanic! have feelings? — SSN a eh: ~ Fs: Ff 4a fe\\9_, vrs oy , ;",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "men",
+          "Titanic",
+          "feelings"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "know",
+      "men",
+      "Titanic",
+      "feelings"
+    ],
+    "secondary_terms": [
+      "Two women",
+      "the society",
+      "men",
+      "bad emotions",
+      "reality",
+      "Jeremy Clarkson's review",
+      "women",
+      "Top Gear",
+      "people",
+      "any feelings",
+      "the video clip"
+    ],
+    "queries": [
+      "\"Titanic\" \"know\" \"men\" \"feelings\"",
+      "\"Jeremy Clarkson's review\" \"Two women\" \"Top Gear\" \"the video clip\"",
+      "\"Top Gear\" \"the video clip\" \"Titanic\" \"the society\""
+    ]
+  },
+  "source_jsonl_id": null
+}

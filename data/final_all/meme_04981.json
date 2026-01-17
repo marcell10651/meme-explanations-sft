@@ -1,0 +1,220 @@
+{
+  "meme_id": "meme_04981",
+  "queries": [
+    "\"THE GAME\" \"WEHAVETO GOIBACKYUA\" \"something\" \"know\"",
+    "\"something\" \"know\" \"missing\" \"progresses\""
+  ],
+  "primary_terms": [
+    "something",
+    "know",
+    "missing",
+    "THE GAME",
+    "WEHAVETO GOIBACKYUA",
+    "progresses",
+    "game",
+    "without",
+    "getting",
+    "explore",
+    "hain",
+    "aws",
+    "hey",
+    "bass",
+    "kees",
+    "wehaveto",
+    "goibackyua",
+    "tet",
+    "dal"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Information#0000",
+      "doc_id": "wikipedia:Information",
+      "title": "Information",
+      "url": "https://en.wikipedia.org/?curid=18985062",
+      "source_type": "wikipedia",
+      "score": 0.7555092990398407,
+      "text": "Information is an abstract concept that refers to something which has the power to inform. At the most fundamental level, it pertains to the interpretation (perhaps formally) of that which may be sensed, or their abstractions. Any natural process that is not completely random and any observable pattern in any medium can be said to convey some amount of information. Whereas digital signals and other data use discrete signs to convey information, other phenomena and artifacts such as analogue signals, poems, pictures, music or other sounds, and currents convey information in a more continuous form. Information is not knowledge itself, but the meaning that may be derived from a representation through interpretation. The concept of information is relevant or connected to various concepts, including constraint, communication, control, data, form, education, knowledge, meaning, understanding, mental stimuli, pattern, perception, proposition, representation, and entropy."
+    },
+    {
+      "chunk_id": "wikipedia:Everything#0001",
+      "doc_id": "wikipedia:Everything",
+      "title": "Everything",
+      "url": "https://en.wikipedia.org/?curid=17181902",
+      "source_type": "wikipedia",
+      "score": 0.7367222368717193,
+      "text": "of all things in the universe is unknown because of the physics beyond the observed universe and the problem of knowing physics at the range infinite. To know universally everything as a temporal and spatial consideration isn't possible because of the unavailabilty of information at a certain time before the beginning of the universe and because of the problem of eternal causality. Scope In ordinary conversation, everything usually refers only to the totality of things..."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0001",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.6774314999580383,
+      "text": "A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K. Le Guin, originally published as \"The End\" in the 1970 anthology Orbit 6, edited by Damon Knight Things, a 1981 picture book by Roger Hargreaves The Things, a 1994 novel by Martyn Godfrey Things, a 1997 novel by Rodman Philbrick and Lynn Harnett, the second installment in the Visitors trilogy \"The Things\" (short story), a 2010 short story by Peter Watts Other uses TheThings, a news website Things (Chill), a 1984 role-playing game supplement Things (film), a 1989 Canadian horror film Things (software), task management software The Things, recurring..."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.6347653090953826,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0000",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.5665879249572754,
+      "text": "Things or The Things may refer to: Music Things (album), by Uri Caine and Paolo Fresu, 2006 \"Things\" (Bobby Darin song), 1962; covered by Ronnie Dove, 1975 \"Things\", a song by Joe Walsh from There Goes the Neighborhood, 1981 \"Things\", a song by John Cale from HoboSapiens, 2003 \"Things\", a song by Split Enz, 1979 \"Things\", a song by Paul Westerberg from 14 Songs, 1993 \"The Things\", a song by Audio Bullys from Ego War, 2003 Literature Things, a 1914 novel by Alice Duer Miller Things: A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K."
+    },
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.5587887346744538,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Play#0001",
+      "doc_id": "wikipedia:Play",
+      "title": "Play",
+      "url": "https://en.wikipedia.org/?curid=923188",
+      "source_type": "wikipedia",
+      "score": 0.5333633244037628,
+      "text": "and also known as Raftaar 24 x 7 The Play (film), a 2013 Indian Bengali-language film Aattam or The Play, a 2024 Indian Malayalam-language film Games and sports Gameplay Play from scrimmage in American and Canadian football The Play (American football), a famous last-second kickoff return by the California Golden Bears to beat the..."
+    },
+    {
+      "chunk_id": "wikipedia:Your Game#0000",
+      "doc_id": "wikipedia:Your Game",
+      "title": "Your Game",
+      "url": "https://en.wikipedia.org/?curid=4747095",
+      "source_type": "wikipedia",
+      "score": 0.5167049586772918,
+      "text": "\"Your Game\" is a song by British singer Will Young. It was written by Young, Taio Cruz and Blair MacKichan for his second studio album, Friday's Child (2003), while production was helmed by Stephen Lipson and MacKichan. The song was released as the album's second single on 15 March 2004, reaching number three on the UK Singles Chart. \"Your Game\" won the Brit Award for Song of the Year in 2005. Music video A music video for \"Your Game\" was directed by Michael Gracey and Pete Commins. After their collaboration, they were invited to direct Will's live tour at Wembley in 2004. Track listings UK CD1 \"Your Game\" (Will Young, Blair MacKichan, Tayo Onile-Ere) \"Your Game\" (acoustic gospel version) UK CD2 \"Your Game\" \"Take Control\" (Young, R. Stannard, J. Gallagher, S. Hale) \"Down\" (Young, S. Morales, R. Shaw, D. Siegel, D."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0001",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.48992056846618653,
+      "text": "Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing. While the game was initially released in 2018 to little mainstream attention, it received a massive rise in popularity in 2020 due to many Twitch streamers and YouTubers playing it during the COVID-19 pandemic..."
+    },
+    {
+      "chunk_id": "wikipedia:Play#0000",
+      "doc_id": "wikipedia:Play",
+      "title": "Play",
+      "url": "https://en.wikipedia.org/?curid=923188",
+      "source_type": "wikipedia",
+      "score": 0.4876984775066376,
+      "text": "Play most commonly refers to: Play (activity), an activity done for enjoyment Play (theatre), a work of drama Play may refer also to: Computers and technology Google Play, a digital content service Play Framework, a Java framework Play Mobile, a Polish internet provider Xperia Play, an Android phone Rakuten.co.uk (formerly Play.com), an online retailer Backlash (engineering), or play, non-reversible part of movement Petroleum play, oil fields with same geological circumstances Play symbol, in media control devices Play (hacker group), a ransomware extortion group Film Play (2005 film), Chilean film directed by Alicia Scherson Play, a 2009 short film directed by David Kaplan Play (2011 film), a Swedish film directed by Ruben Östlund Play!, a Japanese film directed by Tomoyuki Furumaya Rush (2012 film), an Indian film earlier titled Play and also known as Raftaar 24 x 7 The Play (film), a 2013 Indian Bengali-language film Aattam or The Play, a 2024 Indian Malayalam-language film Games"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A young man looks at a older man in disbelief.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "disbelief"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster describes the regret when progressing too fast in a video game.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the regret"
+        ]
+      },
+      "title": {
+        "text": "I just know I'm missing something",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "something",
+          "know",
+          "missing"
+        ]
+      },
+      "text": {
+        "text": "THAT PROGRESSES THE GAME WITHOUT GETTING TO EXPLORE ak an LS iw | pe, w- ae HAIN “ LT Sp AS ER ON in . # \\f yi | AWS eg hey A) oN TL | i Bass XS: . Kees WEHAVETO GOIBACKYUA. et Le ee” Tet N DAL OE",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "THE GAME",
+          "WEHAVETO GOIBACKYUA",
+          "progresses",
+          "game",
+          "without",
+          "getting",
+          "explore",
+          "hain",
+          "aws",
+          "hey",
+          "bass",
+          "kees",
+          "wehaveto",
+          "goibackyua",
+          "tet",
+          "dal"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "something",
+      "know",
+      "missing",
+      "THE GAME",
+      "WEHAVETO GOIBACKYUA",
+      "progresses",
+      "game",
+      "without",
+      "getting",
+      "explore",
+      "hain",
+      "aws",
+      "hey",
+      "bass",
+      "kees",
+      "wehaveto",
+      "goibackyua",
+      "tet",
+      "dal"
+    ],
+    "secondary_terms": [
+      "disbelief",
+      "the regret"
+    ],
+    "queries": [
+      "\"THE GAME\" \"WEHAVETO GOIBACKYUA\" \"something\" \"know\"",
+      "\"something\" \"know\" \"missing\" \"progresses\""
+    ]
+  },
+  "source_jsonl_id": null
+}

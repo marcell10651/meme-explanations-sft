@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_02761",
+  "queries": [
+    "\"The new paradise\" \"Billionaires\" \"new\" \"paradise\"",
+    "\"new\" \"paradise\" \"space\" \"going\""
+  ],
+  "primary_terms": [
+    "The new paradise",
+    "new",
+    "paradise",
+    "Billionaires",
+    "space",
+    "going",
+    "claim",
+    "extraterresirial",
+    "tax",
+    "residence"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.6921045899391174,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:LOTS#0000",
+      "doc_id": "wikipedia:LOTS",
+      "title": "LOTS",
+      "url": "https://en.wikipedia.org/?curid=20629362",
+      "source_type": "wikipedia",
+      "score": 0.591029679775238,
+      "text": "LOTS may refer to: LOTS (personality psychology), an acronym providing a broad classification of data source for personality psychology assessment London Omnibus Traction Society, a bus society Legend of the Seeker, a television series based on novels in the Sword of Truth series by Terry Goodkind Legends of the Superheroes, a 1979 television series based on DC Comics characters. Lucifer on the Sofa, a 2022 album by American rock band Spoon A linearly ordered topological space. See also All pages with titles beginning with LOTS All pages with titles containing LOTS All pages with titles beginning with lots Lot (disambiguation) Lotts (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.5732456803321838,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Living#0001",
+      "doc_id": "wikipedia:Living",
+      "title": "Living",
+      "url": "https://en.wikipedia.org/?curid=1133759",
+      "source_type": "wikipedia",
+      "score": 0.5554889500141144,
+      "text": "program Living (2007 TV program), a 2007–2009 group of regional Canadian lifestyle programs Living (New Zealand TV channel), a New Zealand television station Living (UK TV channel), now Sky Witness, a British pay TV channel Living2, later Real Lives, a defunct sister channel Living (2012 film), a 2012 Russian drama film Living (2022..."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.5523800313472748,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:World#0001",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.5333866775035858,
+      "text": "horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind. Theology conceptualizes the world in relation to God, for example, as God's creation, as identical to God, or as the two being interdependent. In religions, there is a tendency to downgrade the material or sensory world in favor of a spiritual world to be sought through religious practice. A comprehensive..."
+    },
+    {
+      "chunk_id": "wikipedia:Qantas#0000",
+      "doc_id": "wikipedia:Qantas",
+      "title": "Qantas",
+      "url": "https://en.wikipedia.org/?curid=25254",
+      "source_type": "wikipedia",
+      "score": 0.5129261374473572,
+      "text": "Qantas Airways Limited ( KWON-təs), doing business as QANTAS or Qantas, is the flag carrier of Australia, and the largest airline by fleet size, international flights, and international destinations in Oceania. A founding member of the Oneworld airline alliance, it is the only airline in the world that flies to all seven continents, with it operating flights to Africa, Antarctica, Asia, Europe, North America, and South America from its hubs in Sydney, Perth, Melbourne, and Brisbane. It also flies to over 60 domestic destinations across Australia. Qantas is one of the world's oldest airlines still in operation, originally founded in November 1920. Qantas is an acronym of the airline's original name, Queensland and Northern Territory Aerial Services, as it originally served Queensland and the Northern Territory. Since then, the company has undergone several changes, including nationalisation and privatisation."
+    },
+    {
+      "chunk_id": "wikipedia:Already#0000",
+      "doc_id": "wikipedia:Already",
+      "title": "Already",
+      "url": "https://en.wikipedia.org/?curid=57931026",
+      "source_type": "wikipedia",
+      "score": 0.4479624032974243,
+      "text": "Already may refer to: Albums Already (Jesus Jones album), 1997 Already (Edison Lighthouse album), 1971 Songs \"Already\" (song), 2019 song by Beyoncé, Shatta Wale and Major Lazer \"Already\", 2009 song by Mannie Fresh on his album Return of the Ballin' \"Already\", 2011 song by Freddie Gibbs on his album Lord Giveth, Lord Taketh Away \"Already\", 2011 song by Samiyam on his album Sam Baker's Album \"Already\", 2013 song by Gucci Mane on his mixtape Trap House 4 \"Already\", 2014 song by Anderson Paak on his album Venice \"Already\", 2014 song by Chief Keef on his album Nobody \"Already\", 2022 song by (G)I-dle on their album I Never Die"
+    },
+    {
+      "chunk_id": "wikipedia:Tanna#0001",
+      "doc_id": "wikipedia:Tanna",
+      "title": "Tanna",
+      "url": "https://en.wikipedia.org/?curid=4651537",
+      "source_type": "wikipedia",
+      "score": 0.43286801874637604,
+      "text": "2015 film set on the island of Tanna, Vanuatu Tanna languages, a subgroup of the South Vanuatu languages See also Tana (disambiguation) All pages with titles beginning with Tanna All pages with titles containing Tanna"
+    },
+    {
+      "chunk_id": "wikipedia:Legendary#0001",
+      "doc_id": "wikipedia:Legendary",
+      "title": "Legendary",
+      "url": "https://en.wikipedia.org/?curid=541707",
+      "source_type": "wikipedia",
+      "score": 0.418393537402153,
+      "text": "Daya, 2015 \"Legendary\", by Royce da 5'9\" from Success Is Certain, 2011 \"Legendary\", by Skillet from Victorious, 2019 \"Legendary\", by Joey Badass from All-Amerikkkan Badass, 2017 \"Legendary\", by Jorge Rivera-Herrans from Epic: The Musical, 2024 \"Legendary\" (Bon Jovi song), 2024 Other uses Legendary (video game), a 2008 first..."
+    }
+  ]
+}

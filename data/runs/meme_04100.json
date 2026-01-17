@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_04100",
+  "queries": [
+    "@70008",
+    "\"Hat\" \"guard\" \"catches\" \"off\"",
+    "\"catches\" \"off\" \"every\" \"time\""
+  ],
+  "primary_terms": [
+    "guard",
+    "catches",
+    "off",
+    "every",
+    "time",
+    "yan",
+    "Hat",
+    "hee",
+    "wiaee",
+    "nective",
+    "episodels"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Watch#0000",
+      "doc_id": "wikipedia:Watch",
+      "title": "Watch",
+      "url": "https://en.wikipedia.org/?curid=60883",
+      "source_type": "wikipedia",
+      "score": 0.6973905593156815,
+      "text": "A watch is a timepiece carried or worn by a person. It is designed to maintain a consistent movement despite the motions caused by the person's activities. A wristwatch is worn around the wrist, attached by a watch strap or another type of bracelet, including metal bands or leather straps. A pocket watch is carried in a pocket, often attached to a chain. A stopwatch is a type of watch that measures intervals of time. During most of their history, beginning in the 16th century, watches were mechanical devices, driven by clockwork, powered by winding a mainspring, and keeping time with an oscillating balance wheel. These are known as mechanical watches. In the 1960s the electronic quartz watch was invented, powered by a battery and keeping time with a vibrating quartz crystal. By the 1980s it had taken over most of the watch market, in what became known as the quartz revolution (or the quartz crisis in Switzerland, whose renowned watch industry it decimated)."
+    },
+    {
+      "chunk_id": "wikipedia:Staring#0000",
+      "doc_id": "wikipedia:Staring",
+      "title": "Staring",
+      "url": "https://en.wikipedia.org/?curid=4409451",
+      "source_type": "wikipedia",
+      "score": 0.6160470515489578,
+      "text": "Staring is a prolonged gaze or fixed look. In staring, one subject or person is the continual focus of visual interest, for a long amount of time. The meaning, purpose, and rudeness, of staring varies widely between cultures. Staring can be interpreted as being either hostile like disapproval of another's behavior, or the result of intense concentration, interest or affection. Staring behavior can be considered as a form of aggression like when it is an invasion of an individual's privacy in certain contexts, or as a nonverbal cue to convey feelings of attraction in a social setting. The resultant behavior or action defines whether it is aggressive in nature (e.g. leering that results in street harassment), passive or active expression of attraction, etc. However, to some extent staring often occurs accidentally, and often a person would be simply staring into a space for awareness, or could be lost in thought (sometimes known as daydreaming), stupefied, or be unable to see."
+    },
+    {
+      "chunk_id": "wikipedia:Post-credits scene#0000",
+      "doc_id": "wikipedia:Post-credits scene",
+      "title": "Post-credits scene",
+      "url": "https://en.wikipedia.org/?curid=6107731",
+      "source_type": "wikipedia",
+      "score": 0.5984089344739913,
+      "text": "A post-credits scene (also known as a stinger, end tag, or credit cookie) is a short teaser clip that appears after the closing credits have rolled and sometimes after a production logo of a film, TV show, or video game has run. It is usually either written for humor or to set up a sequel. Sometimes, one or more mid-credits scenes are also inserted partly through the closing credits, typically for the purpose of maintaining the audience's attention so they do not need to wait for the entire credits roll to finish for a teaser. History Post-credits scenes may have their origins in encores, an additional performance added to the end of staged shows in response to audience applause. Opera encores were common practice in the 19th century, when the story was often interrupted so a singer could repeat an aria, but fell out of favor in the 1920s due to rising emphasis on dramatic storytelling rather than vocal performance."
+    },
+    {
+      "chunk_id": "wikipedia:Lockdown#0000",
+      "doc_id": "wikipedia:Lockdown",
+      "title": "Lockdown",
+      "url": "https://en.wikipedia.org/?curid=2530301",
+      "source_type": "wikipedia",
+      "score": 0.5935046434402466,
+      "text": "A lockdown ( ) is a restriction policy for people, community or a country to stay where they are, usually due to specific risks that could possibly harm the people if they move and interact freely. The term is used for a prison protocol that usually prevents people, information or objects from leaving an area. The protocol can usually only be initiated by someone in a position of authority. A lockdown can also be used to protect people inside a facility or, for example, a computing system, from a threat or other external event. In buildings doors leading outside are usually locked so that no person may enter or exit. Types Lockdowns may be adopted as a preventative measure or in response to a crisis as an emergency measure. Preventive lockdown A preventive lockdown is a preemptive action plan implemented to address an unusual scenario or a weakness in system to preempt any danger to ensure the safety and security of people, organisation and system."
+    },
+    {
+      "chunk_id": "wikipedia:Stay#0000",
+      "doc_id": "wikipedia:Stay",
+      "title": "Stay",
+      "url": "https://en.wikipedia.org/?curid=1175804",
+      "source_type": "wikipedia",
+      "score": 0.5828056991100311,
+      "text": "Stay may refer to: Places Stay, Kentucky, an unincorporated community in the US Law Stay of execution, a ruling to temporarily suspend the enforcement of a court judgment Stay of proceedings, a ruling halting further legal process in a trial Structures and mechanics Stay (mechanics), a structural element designed to resist forces, usually along its axis. Stay, in a cable-stayed bridge Stay, bone (corsetry), one of the rigid parts of a corset Stays, or corset, a garment worn to mold and shape the torso; See History of corsets Stays (nautical), heavy ropes, wires, or rods that connect the masts of a sailing vessel to the hull Forestay, on a sailing vessel, keeps a mast from falling backwards Boiler stay, an internal structural element of a boiler Chain stay and seat stay, parts of a conventional bicycle frame Collar stay, a small rigid piece used to maintain the point of a shirt collar Guy-wire, or stay, a metal cable used to support a tall structure, such as a radio mast Stay cable,"
+    },
+    {
+      "chunk_id": "wikipedia:Staring#0001",
+      "doc_id": "wikipedia:Staring",
+      "title": "Staring",
+      "url": "https://en.wikipedia.org/?curid=4409451",
+      "source_type": "wikipedia",
+      "score": 0.5753442257642746,
+      "text": "would be simply staring into a space for awareness, or could be lost in thought (sometimes known as daydreaming), stupefied, or be unable to see. As such, the meaning of a person's staring behavior depends upon the attributions made by the observer. When caught staring, the moment can be a source of embarrassment depending on the reason for staring. For example..."
+    },
+    {
+      "chunk_id": "wikipedia:Glasses#0001",
+      "doc_id": "wikipedia:Glasses",
+      "title": "Glasses",
+      "url": "https://en.wikipedia.org/?curid=74844",
+      "source_type": "wikipedia",
+      "score": 0.5615571022033692,
+      "text": "the sides of the eyes as well as in the lenses. Some types of safety glasses are used to protect against visible and near-visible light or radiation. Glasses are worn for eye protection in some sports, such as squash. Glasses wearers may use a strap to prevent the glasses from falling off. Wearers of glasses that are used only part of the time may have the glasses attached to..."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.5580063134431839,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0001",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.5553282022476196,
+      "text": "sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep. Synonyms In boarding schools and on trips or holidays that involve young people, the equivalent of bedtime is lights out or lights-out - this term is also used in prisons, hospitals, in the military, and in sleep research..."
+    },
+    {
+      "chunk_id": "wikipedia:Rescue#0000",
+      "doc_id": "wikipedia:Rescue",
+      "title": "Rescue",
+      "url": "https://en.wikipedia.org/?curid=363258",
+      "source_type": "wikipedia",
+      "score": 0.5483638167381286,
+      "text": "Rescue comprises responsive operations that usually involve the saving of life, removal from danger, liberation from restraint, or the urgent treatment of injuries after an incident. It may be facilitated by a range of tools and equipment necessary to deal with the specific circumstances. Rescues may be necessary in a wide range of circumstances and environments, and specialised procedures have been developed for many of these. A rescue may also be performed on an ad hoc basis by the people who are available on site, using equipment available on site or assembled from available materials, particularly when the rescue is urgent or it is unlikely that specialist assistance will be available within a reasonable time. First aid medical attention is often closely associated with rescue, and may be a necessary part of a rescue."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_01864",
+  "queries": [
+    "\"yourself\" \"while\" \"touching\" \"neighbors\"",
+    "\"touching\" \"neighbors\" \"watching\" \"birdbath\""
+  ],
+  "primary_terms": [
+    "yourself",
+    "while",
+    "touching",
+    "neighbors",
+    "watching",
+    "birdbath"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Uncle#0001",
+      "doc_id": "wikipedia:Uncle",
+      "title": "Uncle",
+      "url": "https://en.wikipedia.org/?curid=24306566",
+      "source_type": "wikipedia",
+      "score": 0.745687997341156,
+      "text": "friends, and even total strangers in some cultures, for example Aboriginal Australian elders. Using the term in this way is a form of fictive kinship. Any social institution where a special relationship exists between a man and his sisters' children is known as an avunculate (or avunculism or avuncularism). This relationship can be formal or informal, depending on the society. Early anthropological research focused on the association between the avunculate and matrilineal descent, while later..."
+    },
+    {
+      "chunk_id": "wikipedia:Use Your Fingers#0000",
+      "doc_id": "wikipedia:Use Your Fingers",
+      "title": "Use Your Fingers",
+      "url": "https://en.wikipedia.org/?curid=2317950",
+      "source_type": "wikipedia",
+      "score": 0.5956689029932022,
+      "text": "Use Your Fingers is the debut studio album by Bloodhound Gang. It was released on July 18, 1995, by Cheese Factory Records. Some of the songs on the album were reworked version of demos from Bloodhound Gang's earlier demo tapes. The album has sold 250,000 copies to date. Reception In a review for Amazon, music journalist Roni Sarig said \"BG back up their obnoxious idiocy with some fairly wise musical maneuvering. While their age and background lead them to repeatedly mine the '80s for material--Duran Duran and Cure samples, Michael Jackson and Blondie interpolations, a \"Kids in America\" cover—their sly comments and ingenious a cappella snippets prove they're surprisingly sharp and able lads.\" On August 7, 2015, OC Weekly published a 20-year anniversary write-up of the album, stating \"what makes Use Your Fingers worthy of re-examining two decades later is how much this album not only shouldn't exist from a legal perspective, but how it managed to predict so much of the 20 years of"
+    },
+    {
+      "chunk_id": "wikipedia:Hand#0000",
+      "doc_id": "wikipedia:Hand",
+      "title": "Hand",
+      "url": "https://en.wikipedia.org/?curid=19166474",
+      "source_type": "wikipedia",
+      "score": 0.5783829987049103,
+      "text": "A hand is a prehensile, multi-fingered appendage located at the end of the forearm or forelimb of primates such as humans, chimpanzees, monkeys, and lemurs. A few other vertebrates such as the koala (which has two opposable thumbs on each \"hand\" and fingerprints extremely similar to human fingerprints) are often described as having \"hands\" instead of paws on their front limbs. The raccoon is usually described as having \"hands\" though opposable thumbs are lacking. Some evolutionary anatomists use the term hand to refer to the appendage of digits on the forelimb more generally—for example, in the context of whether the three digits of the bird hand involved the same homologous loss of two digits as in the dinosaur hand. The human hand usually has five digits: four fingers plus one thumb; however, these are often referred to collectively as five fingers, whereby the thumb is included as one of the fingers."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0000",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.5501720815896988,
+      "text": "Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth. The game allows for cross-platform play; it was released on iOS and Android devices in June 2018 and on Windows later that year in November. It was ported to the Nintendo Switch in December 2020 and on the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in December 2021. A virtual reality adaptation, Among Us VR, was released on November 10, 2022. Among Us takes place in space-themed settings where players are colorful, armless cartoon astronauts. Each player takes on one of two roles: most are Crewmates, but a small number are Impostors. Crewmates work to complete assigned tasks in the game while identifying and voting out suspected Impostors (who appear identical to Crewmates) using social deduction, while Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0000",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.5339882582426071,
+      "text": "Attention is the concentration of awareness directed at some phenomenon while excluding others. Across disciplines, the nature of this directedness is conceptualized in different ways. In cognitive psychology, attention is often described as the allocation of limited cognitive processing resources to a subset of information, thoughts, or tasks. In neuropsychology, attention is understood as a set of mechanisms by which sensory cues and internal goals modulate neuronal tuning and orient behavioral and cognitive processes. Attention is not a unitary phenomenon but an umbrella term for multiple related processes, including selective attention (prioritizing some stimuli over others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time)."
+    },
+    {
+      "chunk_id": "wikipedia:House#0001",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.5280308723449707,
+      "text": "agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans. The social unit that lives in a house is known as a household. Most commonly, a household is a family unit of some kind, although households may also have other social groups, such as roommates or, in a rooming..."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.48945605754852295,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Help#0001",
+      "doc_id": "wikipedia:Help",
+      "title": "Help",
+      "url": "https://en.wikipedia.org/?curid=17344601",
+      "source_type": "wikipedia",
+      "score": 0.48633813858032227,
+      "text": "Slayer) \"Help\" (The Gentle Touch) \"Help\", an episode of The Protector \"Help\" (Spaced) \"The Help\" (Modern Family) Literature Help! (magazine) Help!! (manga) The Help, a historical novel by Kathryn Stockett Music Help (band), an American rock band Albums The Help Album, a musical compilation album to benefit the War Child charity Help (Blackbear album) Help (Thee Oh Sees album) Help!, the 1965..."
+    },
+    {
+      "chunk_id": "wikipedia:Their Distance#0000",
+      "doc_id": "wikipedia:Their Distance",
+      "title": "Their Distance",
+      "url": "https://en.wikipedia.org/?curid=58630385",
+      "source_type": "wikipedia",
+      "score": 0.4807851016521454,
+      "text": "Their Distance (知らない、ふたり, Shiranai, Futari; lit. \"Two Strangers\"), is a 2015 Japanese independent film written, edited, and directed by Rikiya Imaizumi, featuring the South Korean boy band NU'EST in their Japanese film debut. Their Distance stars Ren, Fumiko Aoyagi, Minhyun, Hanae Kan, JR, Haruka Kinami, and Tateto Serizawa. The plot is centered around different ideas of love, from generational to cultural, told in a nonlinear narrative switching from various days in April to illustrate the perspectives of all the characters. Part of the film is in spoken Korean, with the film using actors who were fluent in Korean. The film was first screened at the 28th Tokyo International Film Festival on October 23, 2015, before being released to the general public on January 9, 2016. Plot Kim Leon is a quiet apprentice working at a custom shoe shop in Japan. Two years ago, he ran a red light on his bicycle, causing Mikio Arakawa to get hit by a car and be permanently paralyzed below his waist."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Hold Your Hand#0001",
+      "doc_id": "wikipedia:I Want to Hold Your Hand",
+      "title": "I Want to Hold Your Hand",
+      "url": "https://en.wikipedia.org/?curid=615577",
+      "source_type": "wikipedia",
+      "score": 0.46004538238048553,
+      "text": "to Hold Your Hand\" stayed at number one for five weeks and remained in the UK top 50 for 21 weeks in total, and was the Christmas number one of 1963. It was also the group's first American number-one hit, entering the Billboard Hot 100 chart on 18 January 1964 at number 45 and starting the British Invasion of the American music industry. By 1 February, it topped the Hot 100 and stayed there for seven weeks before being replaced by \"She Loves You\". It remained on the Billboard chart for 15 weeks..."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "meme_id": "meme_03348",
+  "queries": [
+    "\"Seal eee ern\" \"Traffic Light\" \"yellow means\" \"yellow\"",
+    "\"yellow means\" \"yellow\" \"means\" \"hurry\""
+  ],
+  "primary_terms": [
+    "yellow means",
+    "yellow",
+    "means",
+    "hurry",
+    "Traffic Light",
+    "Seal eee ern",
+    "traffic",
+    "light",
+    "turns",
+    "seal",
+    "ern",
+    "bee"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Green#0000",
+      "doc_id": "wikipedia:Green",
+      "title": "Green",
+      "url": "https://en.wikipedia.org/?curid=12460",
+      "source_type": "wikipedia",
+      "score": 0.8449179947376251,
+      "text": "Green is the color between cyan and yellow on the visible spectrum. It is evoked by light which has a dominant wavelength of roughly 495–570 nm. In subtractive color systems, used in painting and color printing, it is created by a combination of yellow and cyan; in the RGB color model, used on television and computer screens, it is one of the additive primary colors, along with red and blue, which are mixed in different combinations to create all other colors. By far the largest contributor to green in nature is chlorophyll, the chemical by which plants photosynthesize and convert sunlight into chemical energy. Many creatures have adapted to their green environments by taking on a green hue themselves as camouflage. Several minerals have a green color, including the emerald, which is colored green by its chromium content."
+    },
+    {
+      "chunk_id": "wikipedia:Black#0000",
+      "doc_id": "wikipedia:Black",
+      "title": "Black",
+      "url": "https://en.wikipedia.org/?curid=4035",
+      "source_type": "wikipedia",
+      "score": 0.8174809992313385,
+      "text": "Black is a color that results from the absence or complete absorption of visible light. It is an achromatic color, without chroma, like white and grey. It is often used symbolically or figuratively to represent darkness. Black and white have often been used to describe opposites such as good and evil, the Dark Ages versus the Age of Enlightenment, and night versus day. Since the Middle Ages, black has been the symbolic color of solemnity and authority, and for this reason it is still commonly worn by judges and magistrates. Black was one of the first colors used by artists in Neolithic cave paintings. It was used in ancient Egypt and Greece as the color of the underworld. In the Roman Empire, it became the color of mourning, and over the centuries it was frequently associated with death, evil, witches, and magic. In the 14th century, it was worn by royalty, clergy, judges, and government officials in much of Europe."
+    },
+    {
+      "chunk_id": "wikipedia:Color#0000",
+      "doc_id": "wikipedia:Color",
+      "title": "Color",
+      "url": "https://en.wikipedia.org/?curid=5921",
+      "source_type": "wikipedia",
+      "score": 0.7954179167747497,
+      "text": "Color (or colour in Commonwealth English; see spelling differences) is the visual perception based on the electromagnetic spectrum. Though color is not an inherent property of matter, color perception is related to an object's light absorption, emission, reflection and transmission. For most humans, visible wavelengths of light are the ones perceived in the visible light spectrum, with three types of cone cells (trichromacy). Other animals may have a different number of cone cell types or have eyes sensitive to different wavelengths, such as bees that can distinguish ultraviolet, and thus have a different color sensitivity range. Animal perception of color originates from different light wavelength or spectral sensitivity in cone cell types, which is then processed by the brain. Colors have perceived properties such as hue, colorfulness, and lightness. Colors can also be additively mixed (mixing light) or subtractively mixed (mixing pigments)."
+    },
+    {
+      "chunk_id": "wikipedia:White#0000",
+      "doc_id": "wikipedia:White",
+      "title": "White",
+      "url": "https://en.wikipedia.org/?curid=17599355",
+      "source_type": "wikipedia",
+      "score": 0.7251634955406189,
+      "text": "White is the lightest color and is achromatic (having no chroma). It is the color of objects such as snow, chalk, and milk, and is the opposite of black. White objects fully (or almost fully) reflect and scatter all the visible wavelengths of light. White on television and computer screens is created by a mixture of red, blue, and green light. The color white can be given with white pigments, especially titanium dioxide. In ancient Egypt and ancient Rome, priestesses wore white as a symbol of purity, and Romans wore white togas as symbols of citizenship. In the Middle Ages and Renaissance a white unicorn symbolized chastity, and a white lamb sacrifice and purity. It was the royal color of the kings of France as well as the flag of monarchist France from 1815 to 1830, and of the monarchist movement that opposed the Bolsheviks during the Russian Civil War (1917–1922)."
+    },
+    {
+      "chunk_id": "wikipedia:Green#0001",
+      "doc_id": "wikipedia:Green",
+      "title": "Green",
+      "url": "https://en.wikipedia.org/?curid=12460",
+      "source_type": "wikipedia",
+      "score": 0.694220757484436,
+      "text": "on a green hue themselves as camouflage. Several minerals have a green color, including the emerald, which is colored green by its chromium content. During post-classical and early modern Europe, green was the color commonly associated with wealth, merchants, bankers, and the gentry, while red was reserved for the nobility. For this reason, the costume of the Mona Lisa by Leonardo da Vinci and the benches in the British House of Commons are green while those in the House of Lords are red. It also has a long historical..."
+    },
+    {
+      "chunk_id": "wikipedia:Morning#0000",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.6856018424034118,
+      "text": "Morning is either the period from sunrise to noon, or the period from midnight to noon. In the first definition it is preceded by the twilight period of dawn, and there are no exact times for when morning begins (also true of evening and night) because it can vary according to one's latitude, and the hours of daylight at each time of year. However, morning strictly ends at noon, when afternoon starts. Morning precedes afternoon, evening, and night in the sequence of a day. Originally, the term referred to sunrise. Etymology The Modern English words \"morning\" and \"tomorrow\" began in Middle English as morwening, developing into morwen, then morwe, and eventually morrow. English, unlike some other languages, has separate terms for \"morning\" and \"tomorrow\", despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\"."
+    },
+    {
+      "chunk_id": "wikipedia:Black#0001",
+      "doc_id": "wikipedia:Black",
+      "title": "Black",
+      "url": "https://en.wikipedia.org/?curid=4035",
+      "source_type": "wikipedia",
+      "score": 0.6703892111778259,
+      "text": "with death, evil, witches, and magic. In the 14th century, it was worn by royalty, clergy, judges, and government officials in much of Europe. It became the color worn by English romantic poets, businessmen and statesmen in the 19th century, and a high fashion color in the 20th century. According to surveys in Europe and North America, it is the color most commonly associated with mourning, the end, secrets, magic..."
+    },
+    {
+      "chunk_id": "wikipedia:Prophet#0001",
+      "doc_id": "wikipedia:Prophet",
+      "title": "Prophet",
+      "url": "https://en.wikipedia.org/?curid=24805",
+      "source_type": "wikipedia",
+      "score": 0.6459285378456116,
+      "text": "it means advocate or speaker. It is used to translate the Hebrew word נָבִיא (nāvî) in the Septuagint and the Arabic word نبي (nabī). W.F. Albright points to the Akkadian Nabu for the origin of these Hebrew (נָבִיא (nāvî) and the Arabic نبي (nabī) words. The Akkadian nabû means \"announcer\" or \"authorised person\", derived from the Semitic root n-b-y..."
+    },
+    {
+      "chunk_id": "wikipedia:Color#0001",
+      "doc_id": "wikipedia:Color",
+      "title": "Color",
+      "url": "https://en.wikipedia.org/?curid=5921",
+      "source_type": "wikipedia",
+      "score": 0.6133501291275024,
+      "text": "properties such as hue, colorfulness, and lightness. Colors can also be additively mixed (mixing light) or subtractively mixed (mixing pigments). If one color is mixed in the right proportions, because of metamerism, they may look the same as another stimulus with a different reflection or emission spectrum. For convenience, colors can be organized in a color space, which when being abstracted..."
+    },
+    {
+      "chunk_id": "wikipedia:Sunglasses#0000",
+      "doc_id": "wikipedia:Sunglasses",
+      "title": "Sunglasses",
+      "url": "https://en.wikipedia.org/?curid=173759",
+      "source_type": "wikipedia",
+      "score": 0.5929408341646194,
+      "text": "Sunglasses or sun glasses (informally called shades or sunnies; more names below) are a form of protective eyewear designed primarily to prevent bright sunlight and high-energy visible light from damaging or discomforting the eyes. They can sometimes also function as a visual aid, as variously termed spectacles or glasses exist, featuring lenses that are colored, polarized or darkened. In the early 20th century, they were also known as sun cheaters (cheaters then being an American slang term for glasses). Since the 1930s, sunglasses have been a popular fashion accessory, especially on the beach. The American Optometric Association recommends wearing sunglasses that block ultraviolet radiation (UV) whenever a person is in the sunlight to protect the eyes from UV and blue light, which can cause several serious eye problems."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A woman picks up and kisses a man against a chain-link fence.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a chain-link fence"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster speeds up when they see a yellow light.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "title": {
+        "text": "yellow means hurry tf up",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "yellow means",
+          "yellow",
+          "means",
+          "hurry"
+        ]
+      },
+      "text": {
+        "text": "Traffic Light: *turns yellow* Seal eee ern A eT Bee",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Traffic Light",
+          "Seal eee ern",
+          "traffic",
+          "light",
+          "turns",
+          "yellow",
+          "seal",
+          "ern",
+          "bee"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "yellow means",
+      "yellow",
+      "means",
+      "hurry",
+      "Traffic Light",
+      "Seal eee ern",
+      "traffic",
+      "light",
+      "turns",
+      "seal",
+      "ern",
+      "bee"
+    ],
+    "secondary_terms": [
+      "a chain-link fence"
+    ],
+    "queries": [
+      "\"Seal eee ern\" \"Traffic Light\" \"yellow means\" \"yellow\"",
+      "\"yellow means\" \"yellow\" \"means\" \"hurry\""
+    ]
+  },
+  "source_jsonl_id": null
+}

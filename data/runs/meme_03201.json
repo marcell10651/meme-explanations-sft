@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_03201",
+  "queries": [
+    "\"Tom Cruise\" \"COM Office Workers\" \"Average\" \"Study\" \"the army\"",
+    "\"Study\" \"the army\" \"small\" \"number\""
+  ],
+  "primary_terms": [
+    "the army",
+    "small",
+    "number",
+    "army",
+    "COM Office Workers",
+    "Average",
+    "Study",
+    "fen"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Quantity#0000",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.5976729273796082,
+      "text": "Quantity or amount is a property that includes numbers and quantifiable phenomena such as mass, time, distance, heat, angle, and information. Quantities can commonly be compared in terms of \"more\", \"less\", or \"equal\", or by assigning a numerical value multiple of a unit of measurement. Quantity is among the basic classes of things along with quality, substance, change, and relation. Some quantities are such by their inner nature (as number), while others function as states (properties, dimensions, attributes) of things such as heavy and light, long and short, broad and narrow, small and great, or much and little. Under the name of multitude comes what is discontinuous and discrete and divisible ultimately into indivisibles, such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns."
+    },
+    {
+      "chunk_id": "wikipedia:Infinity#0000",
+      "doc_id": "wikipedia:Infinity",
+      "title": "Infinity",
+      "url": "https://en.wikipedia.org/?curid=20110824",
+      "source_type": "wikipedia",
+      "score": 0.4882657557725907,
+      "text": "Infinity is something which is boundless, limitless, endless. It is denoted by ∞, called the infinity symbol. From the time of the ancient Greeks, the philosophical nature of infinity has been the subject of many discussions. In the 17th century, with the introduction of the infinity symbol and the infinitesimal calculus, mathematicians began to work with infinite series and what some mathematicians (including l'Hôpital and Bernoulli) regarded as infinitely small quantities, but infinity continued to be associated with endless processes. As mathematicians struggled with the foundation of calculus, it remained unclear whether infinity could be considered as a number or magnitude and, if so, how this could be done. At the end of the 19th century, Georg Cantor enlarged the mathematical study of infinity by studying infinite sets and infinite numbers, showing that they can be of various sizes."
+    },
+    {
+      "chunk_id": "wikipedia:Student#0000",
+      "doc_id": "wikipedia:Student",
+      "title": "Student",
+      "url": "https://en.wikipedia.org/?curid=155526",
+      "source_type": "wikipedia",
+      "score": 0.47959156036376954,
+      "text": "A student is a person enrolled in a school or other educational institution, or more generally, a person who takes a special interest in a subject. In the United Kingdom and most commonwealth countries, a \"student\" attends a secondary school or higher (e.g., college or university); those in primary or elementary schools are \"pupils\". Africa Nigeria In Nigeria, education is classified into four systems known as a 6-3-3-4 system of education. It implies six years in primary school, three years in junior secondary, three years in senior secondary and four years in the university. However, the number of years to be spent in university is mostly determined by the course of study. Some courses have longer study lengths than others. Those in primary school are often referred to as pupils. Those in university, as well as those in secondary school, are referred to as students. The Nigerian system of education also has other recognized categories like the polytechnics and colleges of education."
+    },
+    {
+      "chunk_id": "wikipedia:Two Whatevers#0000",
+      "doc_id": "wikipedia:Two Whatevers",
+      "title": "Two Whatevers",
+      "url": "https://en.wikipedia.org/?curid=539766",
+      "source_type": "wikipedia",
+      "score": 0.46620694100856785,
+      "text": "The \"Two Whatevers\" (Chinese: 两个凡是; pinyin: Liǎng gè fán shì) refers to the statement that \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\" (凡是毛主席作出的决策，我们都坚决维护；凡是毛主席的指示，我们都始终不渝地遵循). This statement was contained in a joint editorial, entitled \"Study the Documents Well and Grasp the Key Link\", printed on 7 February 1977 in People's Daily, the journal Red Flag and the PLA Daily. History The policy was advocated by the Chinese Communist Party chairman Hua Guofeng, Mao's successor, who had earlier ended the Cultural Revolution and arrested the Gang of Four. On a 7 February 1977 editorial titled \"Study the Documents Well and Grasp the Key Link\" which appeared in People's Daily, Red Flag, and People's Liberation Army Daily, Hua articulated the \"Two Whatevers\" slogan: \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\"."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0000",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.422010999917984,
+      "text": "Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth. The game allows for cross-platform play; it was released on iOS and Android devices in June 2018 and on Windows later that year in November. It was ported to the Nintendo Switch in December 2020 and on the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in December 2021. A virtual reality adaptation, Among Us VR, was released on November 10, 2022. Among Us takes place in space-themed settings where players are colorful, armless cartoon astronauts. Each player takes on one of two roles: most are Crewmates, but a small number are Impostors. Crewmates work to complete assigned tasks in the game while identifying and voting out suspected Impostors (who appear identical to Crewmates) using social deduction, while Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing."
+    },
+    {
+      "chunk_id": "wikipedia:Working#0001",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.4189760833978653,
+      "text": "1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of occult rituals See also Workin' (disambiguation) Work (disambiguation) Works (disambiguation) All pages with titles containing Working All pages with titles beginning with Working"
+    },
+    {
+      "chunk_id": "wikipedia:Class#0001",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.41897282004356384,
+      "text": "The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff from Doctor Who The Class (TV series), a CBS sitcom Class (2023 TV series), a 2023 Indian Netflix teen drama Literature Class: A Guide Through the American Status System,..."
+    },
+    {
+      "chunk_id": "wikipedia:Infinity#0001",
+      "doc_id": "wikipedia:Infinity",
+      "title": "Infinity",
+      "url": "https://en.wikipedia.org/?curid=20110824",
+      "source_type": "wikipedia",
+      "score": 0.4159443199634552,
+      "text": "Georg Cantor enlarged the mathematical study of infinity by studying infinite sets and infinite numbers, showing that they can be of various sizes. For example, if a line is viewed as the set of all of its points, their infinite number (i.e., the cardinality of the line) is larger than the number of integers. In this usage, infinity is a mathematical concept, and infinite mathematical objects can be studied, manipulated, and used just like any..."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0000",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.4122683256864548,
+      "text": "Class, Classes, or The Class may refer to: Common uses not otherwise categorized Class (biology), a taxonomic rank Class (knowledge representation), a collection of individuals or objects Class (philosophy), an analytical concept used differently from such group phenomena as \"types\" or \"kinds\" Class (set theory), a collection of sets that can be unambiguously defined by a property that all its members share Hazard class, a dangerous goods classification Social class, the hierarchical arrangement of individuals in society, usually defined by wealth and occupation Working class, can be defined by rank, income or collar Arts, entertainment, and media \"The Class\" (song), 1959 Chubby Checker song Character class, in role-playing games and other genres Class 95 (radio station), a Singaporean radio channel Films Class (film), 1983 American film The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff"
+    },
+    {
+      "chunk_id": "wikipedia:Civil war#0001",
+      "doc_id": "wikipedia:Civil war",
+      "title": "Civil war",
+      "url": "https://en.wikipedia.org/?curid=7085",
+      "source_type": "wikipedia",
+      "score": 0.3902284175157547,
+      "text": "that is sustained, organized and large-scale. Civil wars may result in large numbers of casualties and the consumption of significant resources. Civil wars since the end of World War II have lasted on average just over four years, a dramatic rise from the one-and-a-half-year average of the 1900–1944 period. While the rate of emergence of new civil wars has been relatively..."
+    }
+  ]
+}

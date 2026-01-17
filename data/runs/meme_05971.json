@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_05971",
+  "queries": [
+    "\"Hank Green\" \"hank\" \"green\" \"best\"",
+    "\"green\" \"best\" \"ans\" \"wletibeoplettalksfreely\""
+  ],
+  "primary_terms": [
+    "Hank Green",
+    "hank",
+    "green",
+    "best",
+    "ans",
+    "wletibeoplettalksfreely",
+    "apetred",
+    "ake",
+    "oye",
+    "soc"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Green#0000",
+      "doc_id": "wikipedia:Green",
+      "title": "Green",
+      "url": "https://en.wikipedia.org/?curid=12460",
+      "source_type": "wikipedia",
+      "score": 0.788642293214798,
+      "text": "Green is the color between cyan and yellow on the visible spectrum. It is evoked by light which has a dominant wavelength of roughly 495–570 nm. In subtractive color systems, used in painting and color printing, it is created by a combination of yellow and cyan; in the RGB color model, used on television and computer screens, it is one of the additive primary colors, along with red and blue, which are mixed in different combinations to create all other colors. By far the largest contributor to green in nature is chlorophyll, the chemical by which plants photosynthesize and convert sunlight into chemical energy. Many creatures have adapted to their green environments by taking on a green hue themselves as camouflage. Several minerals have a green color, including the emerald, which is colored green by its chromium content."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.7038653910160064,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:Different Colors#0000",
+      "doc_id": "wikipedia:Different Colors",
+      "title": "Different Colors",
+      "url": "https://en.wikipedia.org/?curid=47055403",
+      "source_type": "wikipedia",
+      "score": 0.6199180841445923,
+      "text": "\"Different Colors\" is a song written and recorded by American rock band Walk the Moon for their second studio album, Talking Is Hard (2014). The song was released to US alternative radio stations by RCA Records as the album's second single on May 5, 2015. Described as an alternative rock, electropop, indie rock, and pop song, it is lyrically about celebrating and embracing each other's differences by speaking out against discrimination of any kind. Some music critics gave \"Different Colors\" praise for its chorus and production; others felt it was a step down from the band's earlier singles. The song peaked at number seven on the Billboard Alternative Songs chart, becoming Walk the Moon's third top ten track on the chart. A music video for the song was released on June 11, 2015, featuring footage of the band touring with colorful visuals. The song was performed live by Walk the Moon at award shows, including the 2015 MTV Video Music Awards."
+    },
+    {
+      "chunk_id": "wikipedia:Color#0000",
+      "doc_id": "wikipedia:Color",
+      "title": "Color",
+      "url": "https://en.wikipedia.org/?curid=5921",
+      "source_type": "wikipedia",
+      "score": 0.5194971024990082,
+      "text": "Color (or colour in Commonwealth English; see spelling differences) is the visual perception based on the electromagnetic spectrum. Though color is not an inherent property of matter, color perception is related to an object's light absorption, emission, reflection and transmission. For most humans, visible wavelengths of light are the ones perceived in the visible light spectrum, with three types of cone cells (trichromacy). Other animals may have a different number of cone cell types or have eyes sensitive to different wavelengths, such as bees that can distinguish ultraviolet, and thus have a different color sensitivity range. Animal perception of color originates from different light wavelength or spectral sensitivity in cone cell types, which is then processed by the brain. Colors have perceived properties such as hue, colorfulness, and lightness. Colors can also be additively mixed (mixing light) or subtractively mixed (mixing pigments)."
+    },
+    {
+      "chunk_id": "wikipedia:Small Faces#0000",
+      "doc_id": "wikipedia:Small Faces",
+      "title": "Small Faces",
+      "url": "https://en.wikipedia.org/?curid=167663",
+      "source_type": "wikipedia",
+      "score": 0.4610858768224716,
+      "text": "The Small Faces were an English rock band from London, founded in 1965. The group originally consisted of singer/guitarist Steve Marriott, bassist Ronnie Lane, drummer Kenney Jones and keyboardist Jimmy Winston, with Ian McLagan replacing Winston in 1966. The band were initially one of the most acclaimed and influential mod groups of the mid-1960s, with hit singles such as \"Whatcha Gonna Do About It\" (1965), \"Sha-La-La-La-Lee\" and \"All or Nothing\" (both 1966). From 1967, they evolved into one of the UK's most successful psychedelic bands, achieving further hit singles including \"Here Come the Nice\", \"Itchycoo Park\", \"Tin Soldier\" (all 1967) and \"Lazy Sunday\" (1968), the latter taken from their critically-acclaimed concept album Ogdens' Nut Gone Flake (1968), which reached No. 1 on the UK Albums Chart. In 1969, Marriott left to form Humble Pie, while Lane, Jones and McLagan continued under the shortened name the Faces with Rod Stewart and Ronnie Wood."
+    },
+    {
+      "chunk_id": "wikipedia:Different Times, Different Places#0001",
+      "doc_id": "wikipedia:Different Times, Different Places",
+      "title": "Different Times, Different Places",
+      "url": "https://en.wikipedia.org/?curid=74440146",
+      "source_type": "wikipedia",
+      "score": 0.45597897469997406,
+      "text": "Ogun in 2016. Both volumes showcase Miller's compositions. Reception Mike Hobart of the Financial Times noted the \"pulsating riffs, moments of calm... horns playing with passion and technical flair,\" and stated: \"The powerful and firm-fingered Miller developed a telepathic relationship with drummer and fellow exile Louis Moholo Moholo, and they switch mood in the blink of an eye.\" A reviewer for The Free Jazz Collective wrote: \"it's difficult not to be astounded by..."
+    },
+    {
+      "chunk_id": "wikipedia:Different Colors#0001",
+      "doc_id": "wikipedia:Different Colors",
+      "title": "Different Colors",
+      "url": "https://en.wikipedia.org/?curid=47055403",
+      "source_type": "wikipedia",
+      "score": 0.44931165874004364,
+      "text": "of the band touring with colorful visuals. The song was performed live by Walk the Moon at award shows, including the 2015 MTV Video Music Awards. It was included on the setlist for the band's Talking Is Hard Tour (2015) and was used in campaigns of Pepsi, AT&T & Apple. Background and composition \"Different Colors\" was written by all four members of Walk the Moon, while recorded at Rancho..."
+    },
+    {
+      "chunk_id": "wikipedia:Better#0000",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.44889621436595917,
+      "text": "Better may refer to: \"to better\" as a verb, meaning to undergo betterment better, an alternate spelling of bettor, someone who bets (gambles) Music Albums Better (Chrisette Michele album), 2013 Better (Brian McKnight album), 2016 Better (Haley Reinhart album), 2016 Better (BoA album), 2020 Songs \"Better\" (The Screaming Jets song), 1991 \"Better\" (Brooke Fraser song), 2003 \"Better\" (Tom Baxter song)\", 2007, covered by Boyzone in 2008 \"Better\" (Guns N' Roses song), 2008 \"Better\" (Maggie Rose song), 2012 \"Better\" (Kim Hyung-jun song), 2014 \"Better\" (Banks song), 2015 \"Better\" (Haley Reinhart song), 2016 \"Better\" (Meghan Trainor song), 2016 \"Better\" (Mallrat song), 2017 \"Better\" (Khalid song), 2018 \"Better\" (Lena Meyer-Landrut and Nico Santos song), 2019 \"Better\" (Twice song), 2020 \"Better\" (Zayn song), 2020 \"Better\" (MK and Burns song), 2022 \"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000"
+    },
+    {
+      "chunk_id": "wikipedia:Yeah Yeah Yeahs#0000",
+      "doc_id": "wikipedia:Yeah Yeah Yeahs",
+      "title": "Yeah Yeah Yeahs",
+      "url": "https://en.wikipedia.org/?curid=314405",
+      "source_type": "wikipedia",
+      "score": 0.4432149589061737,
+      "text": "Yeah Yeah Yeahs are an American indie rock band formed in New York City in 2000. The group consists of vocalist/pianist Karen O, guitarist/keyboardist Nick Zinner, and drummer Brian Chase; they do not have a bassist but have been complemented during live shows by David Pajo and Imaad Wasif. They are known for energetic performances and a blend of genres, including art rock and dance-rock. Yeah Yeah Yeahs found critical and commercial success with their debut album, Fever to Tell (2003), which is cited as their best work. It produced the breakthrough single \"Maps\", which became the band's signature song. They issued a second album, Show Your Bones (2006), and shifted to dance-punk with their third, It's Blitz! (2009). Both records received positive reviews, and the latter spawned the hit single \"Heads Will Roll\". The band's fourth album, Mosquito (2013), became their highest-charting record in the United States but did not match the reception of its predecessors."
+    },
+    {
+      "chunk_id": "wikipedia:Sugar on My Tongue#0001",
+      "doc_id": "wikipedia:Sugar on My Tongue",
+      "title": "Sugar on My Tongue",
+      "url": "https://en.wikipedia.org/?curid=80490800",
+      "source_type": "wikipedia",
+      "score": 0.4251058965921402,
+      "text": "the \"run-on flow\" that is widely used in modern hip-hop and raps about oral sex. Critical reception The song received generally positive reviews. Mackenzie Cummings-Grady of Billboard ranked it as the second best song on Don't Tap the Glass, writing \"The song's intergalactic synths and rumbling 808s make it poised to dominate summertime gatherings, and Tyler offers some truly..."
+    }
+  ]
+}

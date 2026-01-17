@@ -1,0 +1,123 @@
+{
+  "meme_id": "meme_01009",
+  "queries": [
+    "\"Post-halloween Spooktober meme\" \"post\" \"halloween\" \"spooktober\"",
+    "\"halloween\" \"spooktober\" \"alt\" \"goods\""
+  ],
+  "primary_terms": [
+    "Post-halloween Spooktober meme",
+    "post",
+    "halloween",
+    "spooktober",
+    "alt",
+    "goods",
+    "mteistey",
+    "ojto",
+    "hell",
+    "gsi",
+    "wow",
+    "ehorr",
+    "people",
+    "dress",
+    "still",
+    "trick",
+    "treat",
+    "nees",
+    "aici",
+    "good",
+    "makesime",
+    "happy"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Trick#0001",
+      "doc_id": "wikipedia:Trick",
+      "title": "Trick",
+      "url": "https://en.wikipedia.org/?curid=274735",
+      "source_type": "wikipedia",
+      "score": 0.8614207029342651,
+      "text": "Andrzej Jakimowski Trick (2010 film), Polish film by Jan Hryniak Trick (2019 film), American Halloween-themed horror film The Trick (film), a 2021 BBC film about the Climatic Research Unit email controversy Literature Trick (novel), a 2015 novel by Natalia Jaster Tricks, a 1979 chronicle of homosexual encounters by Renaud Camus Tricks..."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0000",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.8431946992874145,
+      "text": "Horror may refer to: Arts, entertainment, and media Genres Horror fiction, a genre of fiction Psychological horror, a subgenre of horror fiction Christmas horror, a subgenre of horror fiction Analog horror, a subgenre of horror fiction Erotic horror, a subgenre of horror fiction Space horror, a subgenre of horror fiction Folk horror, a subgenre of horror fiction Japanese horror, Japanese horror fiction Korean horror, Korean horror fiction Horror film, a film genre Art horror, a subgenre of horror film Body horror, a subgenre of horror film Comedy horror, a subgenre of horror film Erotic horror film, a subgenre of horror film Slasher film, a subgenre of horror film Splatter film, a subgenre of horror film Supernatural horror film, a subgenre of horror film Psychological horror film, a subgenre of horror film Postmodern horror, a subgenre of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a"
+    },
+    {
+      "chunk_id": "wikipedia:Ghost#0000",
+      "doc_id": "wikipedia:Ghost",
+      "title": "Ghost",
+      "url": "https://en.wikipedia.org/?curid=12514",
+      "source_type": "wikipedia",
+      "score": 0.7488659381866455,
+      "text": "In folklore, a ghost is the soul or spirit of a dead person or non-human animal that is believed by some people to be able to appear to the living. In ghostlore, descriptions of ghosts vary widely, from an invisible presence to translucent or barely visible wispy shapes to realistic, lifelike forms, whether they resemble humans or animals. The deliberate attempt to contact the spirit of a deceased person is known as necromancy, or in spiritism as a séance. Other terms associated with it are apparition, haunt, haint, phantom, poltergeist, shade, specter, spirit, spook, wraith, demon, and ghoul. The belief in the existence of an afterlife, as well as manifestations of the spirits of the dead, is widespread, dating back to animism or ancestor worship in pre-literate cultures. Certain religious practices—funeral rites, exorcisms, and some practices of spiritualism and ritual magic—are specifically designed to rest the spirits of the dead."
+    },
+    {
+      "chunk_id": "wikipedia:Candy#0000",
+      "doc_id": "wikipedia:Candy",
+      "title": "Candy",
+      "url": "https://en.wikipedia.org/?curid=61230",
+      "source_type": "wikipedia",
+      "score": 0.6928303062915802,
+      "text": "Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. The category, also called sugar confectionery, encompasses any sweet confection, including chocolate, chewing gum, and sugar candy. Vegetables, fruit, or nuts which have been glazed and coated with sugar are said to be candied. Physically, candy is characterized by the use of a significant amount of sugar or sugar substitutes. Unlike a cake or loaf of bread that would be shared among many people, candies are usually made in smaller pieces. However, the definition of candy also depends upon how people treat the food. Unlike sweet pastries served for a dessert course at the end of a meal, candies are normally eaten casually, often with the fingers, as a snack between meals. Each culture has its own ideas of what constitutes candy rather than dessert. The same food may be a candy in one culture and a dessert in another."
+    },
+    {
+      "chunk_id": "wikipedia:Costume#0000",
+      "doc_id": "wikipedia:Costume",
+      "title": "Costume",
+      "url": "https://en.wikipedia.org/?curid=7673",
+      "source_type": "wikipedia",
+      "score": 0.6827344715595245,
+      "text": "Costume is the distinctive style of dress and/or makeup of an individual or group that reflects class, gender, occupation, ethnicity, nationality, activity or epoch—in short, culture. The term also was traditionally used to describe typical appropriate clothing for certain activities, such as riding costume, swimming costume, dance costume, and evening costume. Appropriate and acceptable costume is subject to changes in fashion and local cultural norms. \"But sable is worn more in carriages, lined with real lace over ivory satin, and worn over some smart costume suitable for an afternoon reception.\" A Woman's Letter from London (23 November 1899). This general usage has gradually been replaced by the terms \"dress\", \"attire\", \"robes\" or \"wear\" and usage of \"costume\" has become more limited to unusual or out-of-date clothing and to attire intended to evoke a change in identity, such as theatrical, Halloween, and mascot costumes."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.6786478757858276,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.6505203813314437,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Quarantine#0000",
+      "doc_id": "wikipedia:Quarantine",
+      "title": "Quarantine",
+      "url": "https://en.wikipedia.org/?curid=25237",
+      "source_type": "wikipedia",
+      "score": 0.5925269067287445,
+      "text": "A quarantine is a restriction on the movement of people, animals, and goods which is intended to prevent the spread of disease or pests. It is often used in connection to disease and illness, preventing the movement of those who may have been exposed to a communicable disease, yet do not have a confirmed medical diagnosis. It is distinct from medical isolation, in which those confirmed to be infected with a communicable disease are isolated from the healthy population. The concept of quarantine is known to have been practised through history in various places. Notable quarantines in modern history include the village of Eyam in 1665 during the bubonic plague outbreak in England; East Samoa during the 1918 flu pandemic; the Diphtheria outbreak during the 1925 serum run to Nome, the 1972 Yugoslav smallpox outbreak, the SARS pandemic, the Ebola pandemic and extensive quarantines applied throughout the world during the COVID-19 pandemic since 2020."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0001",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.5903319180011749,
+      "text": "food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting. Their favorite food is cocoa beans. When Willy Wonka arrived, he told the chief he and his people can come live and work at his factory and have all the cocoa beans they want. In the first edition of Charlie..."
+    },
+    {
+      "chunk_id": "wikipedia:Charmer#0001",
+      "doc_id": "wikipedia:Charmer",
+      "title": "Charmer",
+      "url": "https://en.wikipedia.org/?curid=40421866",
+      "source_type": "wikipedia",
+      "score": 0.5576569437980652,
+      "text": "2007 \"Charmer\" (N-Dubz song), 2022 Other uses Charmer (folklore), English practitioners of a specific kind of folk magic Charmers, comic strip by Hallmark Cards (1975–1981) See also Charm (disambiguation) Snake charmer (disambiguation)"
+    }
+  ]
+}

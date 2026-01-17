@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_01517",
+  "queries": [
+    "\"One Frame\" \"one\" \"frame\" \"speedrunner\"",
+    "\"frame\" \"speedrunner\" \"beats\" \"hour\""
+  ],
+  "primary_terms": [
+    "One Frame",
+    "one",
+    "frame",
+    "speedrunner",
+    "beats",
+    "hour",
+    "game",
+    "minutes",
+    "lhave",
+    "gert",
+    "sirongerl",
+    "tmetilfeniootseckia"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Fast#0000",
+      "doc_id": "wikipedia:Fast",
+      "title": "Fast",
+      "url": "https://en.wikipedia.org/?curid=1899768",
+      "source_type": "wikipedia",
+      "score": 0.7853036820888519,
+      "text": "Fast or FAST may refer to: Arts and entertainment \"Fast\" (Juice Wrld song), 2019 \"Fast\" (Luke Bryan song), 2016 \"Fast\" (Sueco song), 2019 \"Fast\" (GloToven song), 2019 Fast, an album by Custom, 2002 Fast, a 2010 short film starring Charlyne Yi \"Fast (Motion)\", 2021 song by Saweetie Fast & Furious, an action franchise \"Fast\" (Demi Lovato song), 2025 Computing and software FAST protocol, an adaptation of the FIX protocol, optimized for streaming FAST TCP, a TCP congestion avoidance algorithm Facilitated Application Specification Techniques, a team-oriented approach for requirement gathering Fatigue Avoidance Scheduling Tool, software to develop work schedules Features from accelerated segment test, computer vision method for corner detection Feedback arc set in Tournaments, a computational problem in graph theory Government Faʻatuatua i le Atua Samoa ua Tasi (FAST), a political party in Samoa Fixing America's Surface Transportation Act, passed by the United States Congress"
+    },
+    {
+      "chunk_id": "wikipedia:Time#0000",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.6783030152320861,
+      "text": "Time is the continuous progression of existence that occurs in an apparently irreversible succession from the past, through the present, and into the future. Time dictates all forms of action, age, and causality, being a component quantity of various measurements used to sequence events, to compare the duration of events (or the intervals between them), and to quantify rates of change of quantities in material reality or in the conscious experience. Time is often referred to as a fourth dimension, along with three spatial dimensions. Time is primarily measured in linear spans or periods, ordered from shortest to longest. Practical, human-scale measurements of time are performed using clocks and calendars, reflecting a 24-hour day collected into a 365-day year linked to the astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest."
+    },
+    {
+      "chunk_id": "wikipedia:Second#0000",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.6348816573619842,
+      "text": "The second (symbol: s) is a unit of time derived from the division of the day first into 24 hours, then to 60 minutes, and lastly to 60 seconds each, for a total of 24 × 60 × 60 = 86,400 seconds per day. The current and formal definition in the International System of Units (SI) is more precise: The second [...] is defined by taking the fixed numerical value of the caesium frequency, ΔνCs, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9192631770 when expressed in the unit Hz, which is equal to s−1. That is saying that a second is the duration of time it takes for 9 192 631 770 of these transitions to occur. Atomic clocks count these transitions, with an uncertainty of 1 second in 300 million years. This current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks."
+    },
+    {
+      "chunk_id": "wikipedia:Post-credits scene#0000",
+      "doc_id": "wikipedia:Post-credits scene",
+      "title": "Post-credits scene",
+      "url": "https://en.wikipedia.org/?curid=6107731",
+      "source_type": "wikipedia",
+      "score": 0.627899420261383,
+      "text": "A post-credits scene (also known as a stinger, end tag, or credit cookie) is a short teaser clip that appears after the closing credits have rolled and sometimes after a production logo of a film, TV show, or video game has run. It is usually either written for humor or to set up a sequel. Sometimes, one or more mid-credits scenes are also inserted partly through the closing credits, typically for the purpose of maintaining the audience's attention so they do not need to wait for the entire credits roll to finish for a teaser. History Post-credits scenes may have their origins in encores, an additional performance added to the end of staged shows in response to audience applause. Opera encores were common practice in the 19th century, when the story was often interrupted so a singer could repeat an aria, but fell out of favor in the 1920s due to rising emphasis on dramatic storytelling rather than vocal performance."
+    },
+    {
+      "chunk_id": "wikipedia:Velocity#0000",
+      "doc_id": "wikipedia:Velocity",
+      "title": "Velocity",
+      "url": "https://en.wikipedia.org/?curid=20491903",
+      "source_type": "wikipedia",
+      "score": 0.6249775588512421,
+      "text": "Velocity is a measurement of speed in a certain direction of motion. It is a fundamental concept in kinematics, the branch of classical mechanics that describes the motion of physical objects. Velocity is a vector quantity, meaning that both magnitude and direction are needed to define it (velocity vector). The scalar absolute value (magnitude) of velocity is called speed, a quantity that is measured in metres per second (m/s or m⋅s−1) in the SI (metric) system. For example, \"5 metres per second\" is a scalar, whereas \"5 metres per second east\" is a vector. If there is a change in speed, direction or both, then the object is said to be undergoing an acceleration. Definition Average velocity The average velocity of an object over a period of time is its change in position, Δ s {\\displaystyle \\Delta s} , divided by the duration of the period, Δ t {\\displaystyle \\Delta t} , given mathematically as v ¯ = Δ..."
+    },
+    {
+      "chunk_id": "wikipedia:Time travel#0000",
+      "doc_id": "wikipedia:Time travel",
+      "title": "Time travel",
+      "url": "https://en.wikipedia.org/?curid=31591",
+      "source_type": "wikipedia",
+      "score": 0.6014617949724197,
+      "text": "Time travel is the hypothetical activity of traveling into the past or future. Time travel is a concept in philosophy, space, time and fiction, particularly science fiction. In fiction, time travel is typically achieved through the use of a device known as a time machine. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine. It is uncertain whether time travel to the past would be physically possible. Such travel, if at all feasible, may give rise to questions of causality. Forward time travel, outside the usual sense of the perception of time, is an extensively observed phenomenon and is well understood within the framework of special relativity and general relativity. However, making one body advance or delay more than a few milliseconds compared to another body is not feasible with current technology. As for backward time travel, it is possible to find solutions in general relativity that allow for it, such as a rotating black hole."
+    },
+    {
+      "chunk_id": "wikipedia:Builder#0001",
+      "doc_id": "wikipedia:Builder",
+      "title": "Builder",
+      "url": "https://en.wikipedia.org/?curid=2518249",
+      "source_type": "wikipedia",
+      "score": 0.598370549082756,
+      "text": "Builder (detergent), a component of modern detergents Builder (hockey), in ice hockey, manages or builds the game Builder (United States Navy), U.S. Navy Rating Builder pattern, an object-oriented design pattern Interactive Scenario Builder, an RF Tactical Decision Aid often referred to as Builder Build engineer, a software engineer specializing in builds (versions) of large software products See also All pages with titles..."
+    },
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.5159346461296082,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    },
+    {
+      "chunk_id": "wikipedia:Doomed#0000",
+      "doc_id": "wikipedia:Doomed",
+      "title": "Doomed",
+      "url": "https://en.wikipedia.org/?curid=9401997",
+      "source_type": "wikipedia",
+      "score": 0.5037143886089325,
+      "text": "Doomed may refer to: \"Doomed\" (Buffy the Vampire Slayer), a 1999 episode of the television series Buffy the Vampire Slayer \"Doomed\", an episode of the 2006 television series Fantastic Four: World's Greatest Heroes Doomed!: The Untold Story of Roger Corman's The Fantastic Four, a 2015 documentary film Doomed (novel), a 2013 novel by Chuck Palahniuk \"Doomed\" (Bring Me the Horizon song), 2015 \"Doomed\" (Moses Sumney song), 2017 DoomEd, an editor for the video game Doom Doomed, a 1975 performance art piece by Chris Burden The Doomed (film), a 1924 German silent drama film \"The Doomed\", a 2017 song by A Perfect Circle See also Doom (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0001",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.4769090175628662,
+      "text": "(T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A. from AIM \"Finally\", a song by Yes from The Ladder \"Finally\", a 2019 single by Thabsie \"Finally\", a 2023 single by Jonas Blue and Rani Other uses Finally (company), an American light bulb company Finally (film), a 1991 documentary about Eric Burdon Finally, a keyword in exception handling syntax See also Final (disambiguation..."
+    }
+  ]
+}

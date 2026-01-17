@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_01098",
+  "queries": [
+    "\"Halloween\" \"trading candy\" \"got\" \"snickers\"",
+    "\"got\" \"snickers\" \"skittles\" \"ees\""
+  ],
+  "primary_terms": [
+    "got",
+    "snickers",
+    "skittles",
+    "trading candy",
+    "Halloween",
+    "ees"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Candy#0000",
+      "doc_id": "wikipedia:Candy",
+      "title": "Candy",
+      "url": "https://en.wikipedia.org/?curid=61230",
+      "source_type": "wikipedia",
+      "score": 0.8317025899887085,
+      "text": "Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. The category, also called sugar confectionery, encompasses any sweet confection, including chocolate, chewing gum, and sugar candy. Vegetables, fruit, or nuts which have been glazed and coated with sugar are said to be candied. Physically, candy is characterized by the use of a significant amount of sugar or sugar substitutes. Unlike a cake or loaf of bread that would be shared among many people, candies are usually made in smaller pieces. However, the definition of candy also depends upon how people treat the food. Unlike sweet pastries served for a dessert course at the end of a meal, candies are normally eaten casually, often with the fingers, as a snack between meals. Each culture has its own ideas of what constitutes candy rather than dessert. The same food may be a candy in one culture and a dessert in another."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0001",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.5995674729347229,
+      "text": "food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting. Their favorite food is cocoa beans. When Willy Wonka arrived, he told the chief he and his people can come live and work at his factory and have all the cocoa beans they want. In the first edition of Charlie..."
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0001",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.5794389545917511,
+      "text": "game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap! (album), by the Jam, 1983 \"Snap\" (song), by Rosa Linn, 2022 \"Snap\", a song by Kevin Federline from Playing with Fire, 2006 \"Snap\", a song by Nav from Bad Habits, 2019 \"Snap\", a song by Slipknot from Slipknot, 2009 reissue \"Snap!\", a song from the British preschool TV series Boo! Fictional entities Snap, a character from the Nickelodeon animated television..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5424415171146393,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Homies (toy)#0000",
+      "doc_id": "wikipedia:Homies (toy)",
+      "title": "Homies (toy)",
+      "url": "https://en.wikipedia.org/?curid=1380153",
+      "source_type": "wikipedia",
+      "score": 0.5412690341472626,
+      "text": "Homies are a series of two-inch plastic collectible figurines representing various Chicano Mexican American characters. The line of toys was created by David Gonzales and based on a comic strip that Gonzales created featuring a cast of characters from his youth. Introduced in the year 1998, Homies were initially sold in grocery store vending machines and have become a highly collectible item, and have spawned many imitation toys. Background and history Gonzales began drawing comics while he was in high school. His amateur comic strip was called The Adventures of Chico Loco, and the characters were based on \"barrio guys,\" as Gonzales grew up on the tough streets of a poverty-ridden Mexican-American neighborhood. The main character, based on Gonzales himself, was called \"Hollywood.\" The strip, which later changed its title to The Adventures of Hollywood, was picked up by Lowrider magazine and published monthly."
+    },
+    {
+      "chunk_id": "wikipedia:Charmer#0001",
+      "doc_id": "wikipedia:Charmer",
+      "title": "Charmer",
+      "url": "https://en.wikipedia.org/?curid=40421866",
+      "source_type": "wikipedia",
+      "score": 0.5388756096363068,
+      "text": "2007 \"Charmer\" (N-Dubz song), 2022 Other uses Charmer (folklore), English practitioners of a specific kind of folk magic Charmers, comic strip by Hallmark Cards (1975–1981) See also Charm (disambiguation) Snake charmer (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0001",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.5327109843492508,
+      "text": "but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home. Supporting People around Kang-soo Kim Kyung-nam as Sung-jae Kang-soo's friend who is also a deliveryman. Kim Ki-doo as Baek Gong-gi A martial artist who is a leader of the Holy..."
+    },
+    {
+      "chunk_id": "wikipedia:Willy Wonka#0001",
+      "doc_id": "wikipedia:Willy Wonka",
+      "title": "Willy Wonka",
+      "url": "https://en.wikipedia.org/?curid=704925",
+      "source_type": "wikipedia",
+      "score": 0.48261721432209015,
+      "text": "praised and criticized. Wilder, Depp, and Chalamet all received Golden Globe nominations for Best Actor in a Comedy or Musical for their performances. Appearances Charlie and the Chocolate Factory In Charlie and the Chocolate Factory, Wonka has hidden five Golden Tickets inside his chocolate bars. The finders are rewarded with a tour of his factory, each accompanied by an adult of their choice, and a lifetime supply of chocolate..."
+    },
+    {
+      "chunk_id": "wikipedia:Exchange#0000",
+      "doc_id": "wikipedia:Exchange",
+      "title": "Exchange",
+      "url": "https://en.wikipedia.org/?curid=41125",
+      "source_type": "wikipedia",
+      "score": 0.4774114489555359,
+      "text": "Exchange or exchanged may refer to: Arts, entertainment and media Film and television Exchange (film), or Deep Trap, 2015 South Korean psychological thriller Exchanged (film), 2019 Peruvian fantasy comedy Exchange (TV program), 2021 South Korean dating reality show Gaming Exchange (chess), closely related captures of pieces of both players in chess The exchange (chess), an exchange of a minor piece for a rook Music Exchange, a new-age jazz band of Steve Sexton and Gerald O'Brien, and their 1992 self-titled album Exchange (EP), by Against All Authority and The Criminals, 1999 \"Exchange\" (song), by Bryson Tiller, 2015 \"Exchange\" and \"(Exchange)\", songs on Massive Attack's 1998 album Mezzanine (album) Business and economics Bureau de change, or currency exchange Cryptocurrency exchange, to trade cryptocurrencies or digital currencies Exchange (economics), in a market economy Exchange (organized market), where securities etc are bought and sold Places Exchange, Indiana, U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Bing#0000",
+      "doc_id": "wikipedia:Bing",
+      "title": "Bing",
+      "url": "https://en.wikipedia.org/?curid=23443579",
+      "source_type": "wikipedia",
+      "score": 0.46727731823921204,
+      "text": "Bing most often refers to: Bing Crosby (1903–1977), American singer Microsoft Bing, a web search engine Bing may also refer to: Food and drink Bing (bread), a Chinese flatbread Bing (soft drink), a UK brand Bing cherry, a variety of cherry Twin Bing or Bing, a candy made by Palmer Candy Company Names Bing (German surname), a German-language surname Bing (Chinese surname) (邴), a Chinese surname Places Bing Prefecture, an ancient Chinese province Bing, Hormozgan, a village in Hormozgan Province, Iran Binag, Sistan and Baluchestan, a village in Sistan and Baluchestan Province, Iran Manor of Byng, Suffolk, England Television Bing (TV series), a British children's television series Bada Bing or the Bing, a fictional strip club in The Sopranos Bing or Evan Chambers, a character in Greek Bing, a character in The Angry Beavers Other uses Bing (company), a German company that manufactured toys and kitchen utensils Bing (dog), a British dog who served in World War II Bing (mining), a Scottish"
+    }
+  ]
+}

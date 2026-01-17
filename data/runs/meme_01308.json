@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_01308",
+  "queries": [
+    "\"the bed\" \"fart\" \"did\" \"shit\"",
+    "\"did\" \"shit\" \"bed\" \"diarrhealuntillyoufcantrisklalfant\""
+  ],
+  "primary_terms": [
+    "the bed",
+    "fart",
+    "did",
+    "shit",
+    "bed",
+    "diarrhealuntillyoufcantrisklalfant"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Shit#0000",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 1.192385470867157,
+      "text": "Shit is an English-language profanity. As a noun, it refers to fecal matter, and as a verb it means to defecate; in the plural (\"the shits\"), it means diarrhea. Shite is a common variant in British and Irish English. As a slang term, shit has many meanings, including: nonsense, foolishness, something of little value or quality, trivial and usually boastful or inaccurate talk or a contemptible person. It could also be used to refer to any other noun in general or as an expression of annoyance, concern, surprise or anger. Etymology The word is likely derived from Old English, having the nouns scite (dung, attested only in place names) and scitte (diarrhoea) and the verb scītan (to defecate, attested only in bescītan, to cover with excrement); eventually it morphed into Middle English schītte (excrement), schyt (diarrhoea) and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 1.05048788189888,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0000",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.8064215898513794,
+      "text": "Bedtime (also called putting to bed or tucking in) is a ritual part of parenting to help children feel more secure and become accustomed to a more rigid schedule of sleep than they might prefer. The ritual of bedtime is aimed at facilitating the transition from wakefulness to sleep. It may involve bedtime stories, children's songs, nursery rhymes, bed-making and getting children to change into nightwear. In some religious households, prayers are said shortly before going to bed. Sleep training may be part of the bedtime ritual for babies and toddlers. In adult use, the term means simply \"time for bed\", similar to curfew, as in \"It's past my bedtime\". Some people are accustomed to drinking a nightcap or herbal tea at bedtime. Sleeping coaches are also used to help individuals reach their bedtime goals. Researchers studying sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.74994957447052,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0000",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.6432458758354187,
+      "text": "Fuck () is a profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives (such as fucker and fucking) are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off. Offensiveness It is unclear whether the word has always been considered a pejorative or, if not, when it first came to be used to describe (often in an extremely angry, hostile, or belligerent manner) unpleasant circumstances or people in an intentionally offensive way, such as in the term motherfucker, one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0001",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.6120364427566528,
+      "text": "sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep. Synonyms In boarding schools and on trips or holidays that involve young people, the equivalent of bedtime is lights out or lights-out - this term is also used in prisons, hospitals, in the military, and in sleep research..."
+    },
+    {
+      "chunk_id": "wikipedia:Toilet#0000",
+      "doc_id": "wikipedia:Toilet",
+      "title": "Toilet",
+      "url": "https://en.wikipedia.org/?curid=19167644",
+      "source_type": "wikipedia",
+      "score": 0.5322741270065308,
+      "text": "A toilet is a piece of sanitary hardware that collects human waste (urine and feces) and sometimes toilet paper, usually for disposal. Flush toilets use water, while dry or non-flush toilets do not. They can be designed for a sitting position popular in Europe and North America with a toilet seat, with additional considerations for those with disabilities, or for a squatting posture more popular in Asia, known as a squat toilet. In urban areas, flush toilets are usually connected to a sewer system; in isolated areas, to a septic tank. The waste is known as blackwater and the combined effluent, including other sources, is sewage. Dry toilets are connected to a pit, removable container, composting chamber, or other storage and treatment device, including urine diversion with a urine-diverting toilet. \"Toilet\" or \"toilets\" is also widely used for rooms containing only one or more toilets and hand-basins. Lavatory is an older word for toilet. The technology used for modern toilets varies."
+    },
+    {
+      "chunk_id": "wikipedia:Rock Your Baby#0001",
+      "doc_id": "wikipedia:Rock Your Baby",
+      "title": "Rock Your Baby",
+      "url": "https://en.wikipedia.org/?curid=7758996",
+      "source_type": "wikipedia",
+      "score": 0.5291159212589264,
+      "text": "and drums, and their fellow Sunshine Band member Jerome Smith on electric guitar. The song became one of the first pop hits to use a drum machine. The track was not originally intended for McCrae, but he happened to be in the studio at the time and added his distinct falsetto vocals. Music critic Robert Christgau has described the result as \"irresistibly Memphis-cum-disco-with-a-hook.\" Legacy \"Rock Your Baby\" influenced John Lennon's \"Whatever Gets You thru the Night..."
+    },
+    {
+      "chunk_id": "wikipedia:Grade#0001",
+      "doc_id": "wikipedia:Grade",
+      "title": "Grade",
+      "url": "https://en.wikipedia.org/?curid=91313",
+      "source_type": "wikipedia",
+      "score": 0.5139965176582336,
+      "text": "Graded bedding, a description of the variation in grain size through a bed in a sedimentary rock Metamorphic grade, an indication of the degree of metamorphism of rocks Ore grade, a measure that describes the concentration of a valuable natural material in the surrounding ore Engineering and technology Grade (fasteners), the..."
+    },
+    {
+      "chunk_id": "wikipedia:Cunt#0000",
+      "doc_id": "wikipedia:Cunt",
+      "title": "Cunt",
+      "url": "https://en.wikipedia.org/?curid=46963",
+      "source_type": "wikipedia",
+      "score": 0.5024375021457672,
+      "text": "Cunt ( ) is a vulgar word for the vulva in its primary sense, and it is used in a variety of ways, including as a term of disparagement. It is often used as a disparaging and obscene term for a woman in the United States, an unpleasant or objectionable person (regardless of gender) in the United Kingdom and Ireland, or a contemptible man in Australia and New Zealand. In Australia and New Zealand, it can also be a neutral or positive term when used with a positive qualifier (e.g., \"He's a good cunt\"). The term has various derivative senses, including adjective and verb uses. History The earliest known use of the word, according to the Oxford English Dictionary, was as part of a placename: an Oxford street called Gropecunt Lane, c. 1230, now by the name of Grove Passage or Magpie Lane. Use of the word as a term of abuse is relatively recent, dating from the late nineteenth century."
+    }
+  ]
+}

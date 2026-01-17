@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_01642",
+  "queries": [
+    "\"owner\" \"does\" \"hypocrite\" \"ods\"",
+    "\"hypocrite\" \"ods\" \"mye\" \"bverage\""
+  ],
+  "primary_terms": [
+    "owner",
+    "does",
+    "hypocrite",
+    "ods",
+    "mye",
+    "bverage",
+    "fantaverageps",
+    "enjoyer"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.6013830900192261,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Harold#0000",
+      "doc_id": "wikipedia:Harold",
+      "title": "Harold",
+      "url": "https://en.wikipedia.org/?curid=555297",
+      "source_type": "wikipedia",
+      "score": 0.4852790832519531,
+      "text": "Harold may refer to: People Harold (given name), including a list of persons and fictional characters with the name Harold (surname), surname in the English language András Arató, known in meme culture as \"Hide the Pain Harold\" Arts and entertainment Harold (film), a 2008 comedy film Harold, an 1876 poem by Alfred, Lord Tennyson Harold, the Last of the Saxons, an 1848 book by Edward Bulwer-Lytton, 1st Baron Lytton Harold or the Norman Conquest, an opera by Frederic Cowen Harold, an 1885 opera by Eduard Nápravník Harold, a character from the cartoon The Grim Adventures of Billy & Mandy Harold & Kumar, a US movie; Harold/Harry is the main actor in the show."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.4767308235168457,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.4529283344745636,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Position#0001",
+      "doc_id": "wikipedia:Position",
+      "title": "Position",
+      "url": "https://en.wikipedia.org/?curid=268217",
+      "source_type": "wikipedia",
+      "score": 0.43326227366924286,
+      "text": "of beliefs about questions in philosophy Position (finance), commitments in a financial marketplace Social position, the position of an individual in a society and culture Political position within a political spectrum Science and mathematics Position (vector), a mathematical identification of relative location Position in positional..."
+    },
+    {
+      "chunk_id": "wikipedia:Sales#0001",
+      "doc_id": "wikipedia:Sales",
+      "title": "Sales",
+      "url": "https://en.wikipedia.org/?curid=155698",
+      "source_type": "wikipedia",
+      "score": 0.42950881719589235,
+      "text": "of the item will occur. The seller, not the purchaser, typically executes the sale and it may be completed prior to the obligation of payment. In the case of indirect interaction, a person who sells goods or service on behalf of the owner is known as a salesman or saleswoman or salesperson, but this often refers to someone selling goods in a store/shop, in which case other terms are also common, including salesclerk, shop assistant, and retail clerk. In common law countries, sales are governed generally by the common law and commercial codes. In the United States, the laws governing..."
+    },
+    {
+      "chunk_id": "wikipedia:Brand#0000",
+      "doc_id": "wikipedia:Brand",
+      "title": "Brand",
+      "url": "https://en.wikipedia.org/?curid=18950900",
+      "source_type": "wikipedia",
+      "score": 0.4243569940328598,
+      "text": "A brand is a name, term, design, symbol or any other feature that distinguishes one seller's goods or service from those of other sellers. Brands are used in business, marketing, and advertising for recognition and, importantly, to create and store value as brand equity for the object identified, to the benefit of the brand's customers, its owners and shareholders. Brand names are sometimes distinguished from generic or store brands. The practice of branding—in the original literal sense of marking by burning—is thought to have begun with the ancient Egyptians, who are known to have engaged in livestock branding and branded slaves as early as 2,700 BCE. Branding was used to differentiate one person's cattle from another's by means of a distinctive symbol burned into the animal's skin with a hot branding iron. If a person stole any of the cattle, anyone else who saw the symbol could deduce the actual owner."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0000",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.41560356318950653,
+      "text": "Disorder may refer to randomness, a lack of intelligible pattern, or: Healthcare Disorder (medicine), a functional abnormality or disturbance Mental disorder or psychological disorder, a psychological pattern associated with distress or disability that occurs in a person and is not a part of normal development or culture: Anxiety disorder, different forms of abnormal and pathological fear and anxiety Attention-deficit hyperactivity disorder Autism spectrum disorder Conversion disorder, neurological symptoms such as numbness, blindness, paralysis, or fits, where no neurological explanation is possible Obsessive–compulsive disorder, an anxiety disorder characterized by repetitive behaviors aimed at reducing anxiety Obsessive–compulsive personality disorder, obsession with perfection, rules, and organization Personality disorder, an enduring pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement"
+    },
+    {
+      "chunk_id": "wikipedia:Success#0001",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.41559430956840515,
+      "text": "a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness. It may also be difficult or impossible to ascertain whether a situation meets criteria for success or failure due to ambiguous or ill-defined definition of those criteria. Finding useful and effective criteria, or heuristics, to judge the failure or success of a situation may itself be a significant task. In American culture DeVitis and Rich link the..."
+    },
+    {
+      "chunk_id": "wikipedia:Diligence#0000",
+      "doc_id": "wikipedia:Diligence",
+      "title": "Diligence",
+      "url": "https://en.wikipedia.org/?curid=18483349",
+      "source_type": "wikipedia",
+      "score": 0.41526181995868683,
+      "text": "Diligence—carefulness and persistent effort or work—is listed as one of the seven capital virtues. It can be indicative of a work ethic, the belief that work is good in itself. \"There is a perennial nobleness, and even sacredness, in work. Were he never so benighted, forgetful of his high calling, there is always hope in a man that actually and earnestly works: in idleness alone there is perpetual despair.\" —Thomas Carlyle In students Bernard et al. define diligence in students as the effort they put toward balanced and holistic development in mental, physical, social, and spiritual dimensions. They find that it correlates with academic performance, especially with younger students, and that the support of parents and educators encourages students to be diligent. Other factors that encourage student diligence include motivation, discipline, concentration, responsibility, and devotedness."
+    }
+  ]
+}

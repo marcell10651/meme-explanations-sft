@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_01260",
+  "queries": [
+    "\"Russia and Iran Iran\" \"Saudi Arabia\" \"Saudi Saudi\" \"oil supply\"",
+    "\"Saudi Saudi\" \"oil supply\" \"sorry\" \"can\""
+  ],
+  "primary_terms": [
+    "sorry",
+    "can",
+    "hear",
+    "Saudi Arabia",
+    "oil supply",
+    "ties",
+    "Russia and Iran Iran",
+    "Saudi Saudi",
+    "help"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Google#0000",
+      "doc_id": "wikipedia:Google",
+      "title": "Google",
+      "url": "https://en.wikipedia.org/?curid=1092923",
+      "source_type": "wikipedia",
+      "score": 0.5761923611164093,
+      "text": "Google LLC ( , GOO-gəl) is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI). It has been referred to as \"the most powerful company in the world\" by BBC, and is one of the world's most valuable brands. Google's parent company Alphabet Inc. has been described as a Big Tech company. Google was founded on September 4, 1998, by American computer scientists Larry Page and Sergey Brin. Together, they own about 14% of its publicly listed shares and control 56% of its stockholder voting power through super-voting stock. The company went public via an initial public offering (IPO) in 2004. In 2015, Google was reorganized as a wholly owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's internet properties and interests."
+    },
+    {
+      "chunk_id": "wikipedia:Pars#0000",
+      "doc_id": "wikipedia:Pars",
+      "title": "Pars",
+      "url": "https://en.wikipedia.org/?curid=531002",
+      "source_type": "wikipedia",
+      "score": 0.5581969529390335,
+      "text": "Pars may refer to: Fars province of Iran, also known as Pars Province Pars (Sasanian province), a province roughly corresponding to the present-day Fars, 224–651 Pars, for Persia or Iran, in the Persian language Pars News Agency, former name of Iranian news agency Pars-e Jonubi (disambiguation), villages in Iran FNSS Pars, a Turkish wheeled armoured vehicle Pars (surname) Pars interarticularis, in spinal anatomy The Pars, nickname for Dunfermline Athletic Football Club PARS may refer to: Point-a-rally scoring in the game of squash Pakistan Amateur Radio Society Programmed Airline Reservations System Russian Mission Airport. Alaska, US, ICAO location indicator Pre-arrival Review System for import into Canada PARS 3 LR, a German anti-tank missile See also Parsa (disambiguation) Fars (disambiguation) Persia (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Well#0000",
+      "doc_id": "wikipedia:Well",
+      "title": "Well",
+      "url": "https://en.wikipedia.org/?curid=15105978",
+      "source_type": "wikipedia",
+      "score": 0.5432239592075347,
+      "text": "A well () is an excavation or structure created on the earth by digging, driving, or drilling to access liquid resources, usually water. The oldest and most common kind of well is a water well, to access groundwater in underground aquifers. The well water is drawn up by a pump, or using containers, such as buckets that are raised mechanically or by hand. Water can also be injected back into the aquifer through the well. Wells were first constructed at least eight thousand years ago and historically vary in construction from a sediment of a dry watercourse to the qanats of Iran, and the stepwells and sakiehs of India. Placing a lining in the well shaft helps create stability, and linings of wood or wickerwork date back at least as far as the Iron Age. Wells have traditionally been sunk by hand digging, as is still the case in rural areas of the developing world."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5339214473962783,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Country#0000",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.5027738779783248,
+      "text": "A country is an area of land, colloquially used as a synonym for sovereign state or other political entities, but also used to refer to the hinterland surrounding urban areas, as well as to describe the culture of people living in these places. Usually, the term country is applied to occupied areas of land, however it can be used to refer to uninhabited areas or wastelands. When referring to a specific polity, the term \"country\" may refer to a sovereign state, a state with limited recognition, a constituent country, or a dependent territory. Most sovereign states, but not all countries, are members of the United Nations. There is no universal agreement on the number of \"countries\" in the world with a range between 193 to 237. This ambiguity is a result of several states having disputed sovereignty status or limited recognition, and a number of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time."
+    },
+    {
+      "chunk_id": "wikipedia:Google#0001",
+      "doc_id": "wikipedia:Google",
+      "title": "Google",
+      "url": "https://en.wikipedia.org/?curid=1092923",
+      "source_type": "wikipedia",
+      "score": 0.47142170965671537,
+      "text": "owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's internet properties and interests. Sundar Pichai was appointed CEO of Google on October 24, 2015, replacing Larry Page, who became the CEO of Alphabet. On December 3, 2019, Pichai also became the CEO of Alphabet. After the success of its original service..."
+    },
+    {
+      "chunk_id": "wikipedia:Country#0001",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.4575836420059204,
+      "text": "of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time. The Economist wrote in 2010 that \"any attempt to find a clear definition of a country soon runs into a thicket of exceptions and anomalies.\" Areas much smaller than a political entity may be referred..."
+    },
+    {
+      "chunk_id": "wikipedia:Soap#0001",
+      "doc_id": "wikipedia:Soap",
+      "title": "Soap",
+      "url": "https://en.wikipedia.org/?curid=57875",
+      "source_type": "wikipedia",
+      "score": 0.44665937721729276,
+      "text": "(sodium) or K (potassium). When used for cleaning, soap solubilizes particles and grime, which can then be separated from the article being cleaned. The insoluble oil/fat \"dirt\" become associated inside micelles, tiny spheres formed from soap molecules with polar hydrophilic (water-attracting) groups on the outside and encasing a lipophilic (fat-attracting) pocket..."
+    },
+    {
+      "chunk_id": "wikipedia:Aladdin#0000",
+      "doc_id": "wikipedia:Aladdin",
+      "title": "Aladdin",
+      "url": "https://en.wikipedia.org/?curid=166604",
+      "source_type": "wikipedia",
+      "score": 0.4431632965803146,
+      "text": "Aladdin ( ə-LAD-in; Arabic: علاء الدين, romanized: ʻAlāʼu d-Dīn/ʻAlāʼ ad-Dīn, IPA: [ʕalaːʔ adˈdiːn], ATU 561, 'Aladdin') is a Middle-Eastern folk tale. It is one of the best-known tales associated with One Thousand and One Nights (often known in English as The Arabian Nights), despite not being part of the original text; it was added by the Frenchman Antoine Galland, based on a folk tale that he heard from the Syrian storyteller Hanna Diyab. Sources Known along with Ali Baba as one of the \"orphan tales\", the story was not part of the original Nights collection and has no authentic Arabic textual source, but was incorporated into the book Les mille et une nuits by its French translator, Antoine Galland. John Payne quotes passages from Galland's unpublished diary recording Galland's encounter with a Maronite storyteller from Aleppo, Hanna Diyab."
+    },
+    {
+      "chunk_id": "wikipedia:Delivery#0000",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.43342979848384855,
+      "text": "Delivery may refer to: Biology and medicine Childbirth Drug delivery Gene delivery Business and law Delivery (commerce), of goods, e.g.: Pizza delivery Milk delivery Food delivery Online grocer Deed (\"delivery\" in contract law), as in \"signed, sealed and delivered\" Power delivery or electricity delivery, the process that goes from generation of electricity in the power station to use by the consumer Film and television Delivering (film), a 1993 short film by Todd Field Delivery (1976 film), a Soviet Armenian biographical film Delivery (2005 film), an animated short film Delivery (2013 film), an American horror film The Delivery, a 1999 film directed by Roel Reiné \"Delivery\", the final episode of Men Behaving Badly Julia Zemiro's Home Delivery, a 2013 Australian television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama."
+    }
+  ]
+}

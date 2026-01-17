@@ -1,0 +1,186 @@
+{
+  "meme_id": "meme_03411",
+  "queries": [
+    "\"flirting back\" \"didn\" \"plan\" \"flirt\"",
+    "\"plan\" \"flirt\" \"joke\" \"start\""
+  ],
+  "primary_terms": [
+    "didn",
+    "plan",
+    "flirting back",
+    "flirt",
+    "joke",
+    "start",
+    "flirting",
+    "back"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Joke#0000",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.6737597495317459,
+      "text": "A joke is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh and is usually not meant to be interpreted literally. It usually takes the form of a story, often with dialogue, and ends in a punch line, whereby the humorous element of the story is revealed; this can be done using a pun or other type of word play, irony or sarcasm, logical incompatibility, hyperbole, or other means. Linguist Robert Hetzron offers the definition: A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end. No continuation relieving the tension should be added. As for its being \"oral,\" it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry."
+    },
+    {
+      "chunk_id": "wikipedia:Walkin#0000",
+      "doc_id": "wikipedia:Walkin",
+      "title": "Walkin",
+      "url": "https://en.wikipedia.org/?curid=33627004",
+      "source_type": "wikipedia",
+      "score": 0.5400575459003448,
+      "text": "\"Walkin\" is a song by American rapper Denzel Curry, released on January 24, 2022 as the lead single from his fifth studio album Melt My Eyez See Your Future (2022). It was produced by Kal Banx. Composition The production in the song changes from the style of boom bap to that of southern rap, juxtaposed with vocals. Lyrically, Denzel Curry raps about the struggles and changing of everyday life as the state of the world is regressing, such as racial and wealth inequality, and striving for success through difficult times, switching his flows as well. Music video A music video for the song was directed by Adrian Villagomez and released alongside the single. Taking on a sci-fi western theme, it finds Denzel Curry trekking across a desert planet alone, first walking through a village and moving past barren sand dunes, children playing on a swing set, and villains trying to kill him. He collapses on his knees several times throughout the journey."
+    },
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0001",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.5018066972494125,
+      "text": "Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends. During this time, Craig starts high school and becomes close to Ms. Hart, a teacher who comes to his aid when Kenny Yankovich, a school bully, attempts to intimidate him. After winning $3,000 from a lottery ticket that Harrigan..."
+    },
+    {
+      "chunk_id": "wikipedia:Broccoli haircut#0000",
+      "doc_id": "wikipedia:Broccoli haircut",
+      "title": "Broccoli haircut",
+      "url": "https://en.wikipedia.org/?curid=77594266",
+      "source_type": "wikipedia",
+      "score": 0.4728819191455841,
+      "text": "A broccoli haircut (also known as a Zoomer perm, bird's nest, in the UK as the meet me at McDonald's haircut or alpaca back and sides) is a type of haircut with tapered sides and layered curls on top, usually achieved with a perm. It became popular among teenage and tween boys during the latter part of the 2010s and into the 2020s, particularly due to its spread on TikTok, and became an Internet meme around the same time. Definition The broccoli haircut is a hairstyle with tapered sides and short, uneven layered curls on top, which are often permed. It is referred to as such due to its resemblance to a floret of broccoli. It has also been referred to as the \"Zoomer perm\" for its popularity among members of Generation Z, as well as \"bird's nest hair\", \"bussin haircut\" or \"alpaca hair\". It has been described as a variation on a bowl cut."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.44669043719768525,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Joke#0001",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.4068382143974304,
+      "text": "is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry. It is generally held that jokes benefit from brevity, containing no more detail than is needed to set the scene for the punchline at the end. In the case of riddle jokes or one-liners, the setting is implicitly understood, leaving only the dialogue..."
+    },
+    {
+      "chunk_id": "wikipedia:Post-credits scene#0000",
+      "doc_id": "wikipedia:Post-credits scene",
+      "title": "Post-credits scene",
+      "url": "https://en.wikipedia.org/?curid=6107731",
+      "source_type": "wikipedia",
+      "score": 0.400164857506752,
+      "text": "A post-credits scene (also known as a stinger, end tag, or credit cookie) is a short teaser clip that appears after the closing credits have rolled and sometimes after a production logo of a film, TV show, or video game has run. It is usually either written for humor or to set up a sequel. Sometimes, one or more mid-credits scenes are also inserted partly through the closing credits, typically for the purpose of maintaining the audience's attention so they do not need to wait for the entire credits roll to finish for a teaser. History Post-credits scenes may have their origins in encores, an additional performance added to the end of staged shows in response to audience applause. Opera encores were common practice in the 19th century, when the story was often interrupted so a singer could repeat an aria, but fell out of favor in the 1920s due to rising emphasis on dramatic storytelling rather than vocal performance."
+    },
+    {
+      "chunk_id": "wikipedia:Call#0000",
+      "doc_id": "wikipedia:Call",
+      "title": "Call",
+      "url": "https://en.wikipedia.org/?curid=40829",
+      "source_type": "wikipedia",
+      "score": 0.39936837553977966,
+      "text": "Call or Calls may refer to: Arts, entertainment, and media Games Call (poker), a bet matching an opponent's Call, in the game of contract bridge, a bid, pass, double, or redouble in the bidding stage Music and dance Call (band), from Lahore, Pakistan Call, a command in square dancing, delivered by a caller \"Call / I4U\", a 2011 single by Japanese music group AAA \"Call\", a 2002 song by Ashanti from her album Ashanti \"Call\" (Stray Kids song), 2021 Film Call (film), or The Call, 2020 South Korean film Calls (film), 2021 Indian Tamil-language crime thriller film Television Calls (TV series), a mystery thriller TV series on Apple TV+ Finance Call on shares, a request for a further payment on partly paid share capital Call option, a term in stock trading Places Call, North Carolina, United States Call, Texas, United States Science and technology Computing Call, a shell command in DOS, OS/2 and Microsoft Windows command-line interpreters Call, a method of invoking a subroutine, including"
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0001",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.3821740001440048,
+      "text": "\"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV from Oshin, 2012 \"Wait\", by Doechii from Alligator Bites Never Heal, 2024 \"Wait\", by Earth, Wind & Fire from I Am, 1979 \"Wait\", by Everyday Sunday from Sleeper, 2001 \"Wait\", by The Kills..."
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0001",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.3715730756521225,
+      "text": "(T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A. from AIM \"Finally\", a song by Yes from The Ladder \"Finally\", a 2019 single by Thabsie \"Finally\", a 2023 single by Jonas Blue and Rani Other uses Finally (company), an American light bulb company Finally (film), a 1991 documentary about Eric Burdon Finally, a keyword in exception handling syntax See also Final (disambiguation..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a brown elongated object with blurry white object",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a brown elongated object",
+          "blurry white object"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that now that they flirted back they don't know how to respond.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "title": {
+        "text": "Didn't plan for this.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "didn",
+          "plan"
+        ]
+      },
+      "text": {
+        "text": "When you flirt with someone as a Joke and they start flirting back.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "flirting back",
+          "flirt",
+          "joke",
+          "start",
+          "flirting",
+          "back"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "didn",
+      "plan",
+      "flirting back",
+      "flirt",
+      "joke",
+      "start",
+      "flirting",
+      "back"
+    ],
+    "secondary_terms": [
+      "a brown elongated object",
+      "blurry white object"
+    ],
+    "queries": [
+      "\"flirting back\" \"didn\" \"plan\" \"flirt\"",
+      "\"plan\" \"flirt\" \"joke\" \"start\""
+    ]
+  },
+  "source_jsonl_id": null
+}

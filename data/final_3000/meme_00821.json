@@ -1,0 +1,192 @@
+{
+  "meme_id": "meme_00821",
+  "queries": [
+    "\"Poor puppy\" \"Puppy\" \"Miktegedicttotan\" \"ocean water\"",
+    "\"Miktegedicttotan\" \"ocean water\" \"poor\" \"oan\""
+  ],
+  "primary_terms": [
+    "Poor puppy",
+    "poor",
+    "puppy",
+    "oan",
+    "ocean water",
+    "ety",
+    "Miktegedicttotan",
+    ",wategputs"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Water#0000",
+      "doc_id": "wikipedia:Water",
+      "title": "Water",
+      "url": "https://en.wikipedia.org/?curid=33306",
+      "source_type": "wikipedia",
+      "score": 0.5747125148773193,
+      "text": "Water is an inorganic compound with the chemical formula H2O. It is a transparent, tasteless, odorless, and nearly colorless chemical substance. It is the main constituent of Earth's streams, lakes, and oceans and the fluids of all known living organisms, in which it acts as a solvent. Water, being a polar molecule, undergoes strong intermolecular hydrogen bonding which is a large contributor to its physical and chemical properties. It is vital for all known forms of life, despite not providing food energy or being an organic micronutrient. Due to its presence in all organisms, its chemical stability, its worldwide abundance, and its strong polarity relative to its small molecular size, water is often referred to as the \"universal solvent\". Because Earth's environment is relatively close to water's triple point, water exists on Earth as a solid, a liquid, and a gas. It forms precipitation in the form of rain and aerosols in the form of fog."
+    },
+    {
+      "chunk_id": "wikipedia:Earth#0000",
+      "doc_id": "wikipedia:Earth",
+      "title": "Earth",
+      "url": "https://en.wikipedia.org/?curid=9228",
+      "source_type": "wikipedia",
+      "score": 0.4486062228679657,
+      "text": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an ocean world, the only one in the Solar System sustaining liquid surface water. Almost all of Earth's water is contained in its global ocean, covering 70.8% of Earth's crust. The remaining 29.2% of Earth's crust is land, most of which is located in the form of continental landmasses within Earth's land hemisphere. Most of Earth's land is at least somewhat humid and covered by vegetation, while large ice sheets at Earth's polar deserts retain more water than Earth's groundwater, lakes, rivers, and atmospheric water combined. Earth's crust consists of slowly moving tectonic plates, which interact to produce mountain ranges, volcanoes, and earthquakes. Earth has a liquid outer core that generates a magnetosphere capable of deflecting most of the destructive solar winds and cosmic radiation."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0001",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.44295117259025574,
+      "text": "network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story, one of the main characters in the 2006 film Lady in the Water Kahaani, or Story, a 2012 Indian film by Sujoy Ghosh The Story (film documentary short), a 2000 short film by John Little The..."
+    },
+    {
+      "chunk_id": "wikipedia:Tanna#0001",
+      "doc_id": "wikipedia:Tanna",
+      "title": "Tanna",
+      "url": "https://en.wikipedia.org/?curid=4651537",
+      "source_type": "wikipedia",
+      "score": 0.4261680692434311,
+      "text": "2015 film set on the island of Tanna, Vanuatu Tanna languages, a subgroup of the South Vanuatu languages See also Tana (disambiguation) All pages with titles beginning with Tanna All pages with titles containing Tanna"
+    },
+    {
+      "chunk_id": "wikipedia:Young Man#0001",
+      "doc_id": "wikipedia:Young Man",
+      "title": "Young Man",
+      "url": "https://en.wikipedia.org/?curid=16302334",
+      "source_type": "wikipedia",
+      "score": 0.41845354437828064,
+      "text": "a lake in Montana, US Young Man (film), a 2022 Russian comedy film See also All pages with titles containing Young Man Naujawan (disambiguation) (lit. 'Young Man') Young Mans Butte, a mountain in North Dakota Young adult (psychology) Youngman, a Chinese manufacturer of buses and trucks Youngman (MC), British MC Youngman (surname) Man Young, an American blues singer, mandolin player and guitarist Young Omni-Man, a fictional character in the Image Universe franchise Invincible"
+    },
+    {
+      "chunk_id": "wikipedia:Asia#0001",
+      "doc_id": "wikipedia:Asia",
+      "title": "Asia",
+      "url": "https://en.wikipedia.org/?curid=689",
+      "source_type": "wikipedia",
+      "score": 0.41183409094810486,
+      "text": "Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them. A commonly accepted division places Asia to the east of the Suez Canal separating it from Africa; and to the east of the Turkish straits, the Ural Mountains and Ural River, and to the south of the Caucasus Mountains and the Caspian and Black seas, separating it from Europe. Since the concept of Asia derives from the term for the eastern region from a European perspective, Asia..."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0001",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.3951197862625122,
+      "text": "forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota. Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species..."
+    },
+    {
+      "chunk_id": "wikipedia:Jaws (film)#0001",
+      "doc_id": "wikipedia:Jaws (film)",
+      "title": "Jaws (film)",
+      "url": "https://en.wikipedia.org/?curid=74830",
+      "source_type": "wikipedia",
+      "score": 0.3930816352367401,
+      "text": "1974, Jaws was the first major motion picture to be shot on the ocean and consequently had a troubled production, going over budget and schedule. As the art department's mechanical sharks often malfunctioned, Spielberg decided to mostly suggest the shark's presence, employing an ominous and minimalist theme created by composer John Williams to indicate its impending appearances. Spielberg and others have compared this suggestive approach to that of director Alfred Hitchcock. Universal Pictures released the film..."
+    },
+    {
+      "chunk_id": "wikipedia:Useless#0000",
+      "doc_id": "wikipedia:Useless",
+      "title": "Useless",
+      "url": "https://en.wikipedia.org/?curid=25714209",
+      "source_type": "wikipedia",
+      "score": 0.38377411663532257,
+      "text": "Useless may refer to: Useless (film), a 2007 Chinese documentary by Jia Zhangke Useless (EP), a 2000 EP by Unloco \"Useless\" (song), a 1997 song by Depeche Mode \"Useless\", a 2009 song by Cavo from Bright Nights Dark Days \"Useless\", a song by Faster Pussycat from The Power and the Glory Hole \"Useless\", a song by Myka Relocate from Lies to Light the Way \"Useless (I Don't Need You Now)\", a song by Kym Mazelle \"Useless (The Little Horse That Didn't Grow)\", a song by Waylon Jennings from Cowboys, Sisters, Rascals & Dirt \"Inútil\" (\"Useless\"), a song from the musical In the Heights \"Useless\", the sixth episode of the 2024 miniseries Manhunt See also All pages with titles beginning with Useless"
+    },
+    {
+      "chunk_id": "wikipedia:Nett#0001",
+      "doc_id": "wikipedia:Nett",
+      "title": "Nett",
+      "url": "https://en.wikipedia.org/?curid=9167639",
+      "source_type": "wikipedia",
+      "score": 0.3762682378292084,
+      "text": "Kolonia, which is still claimed by Nett municipality as one of its kousapw. The kousapw are or were further subdivided into peliensapw (farmsteads). Education Pohnpei State Department of Education operates public schools: Nett Elementary School Parem Elementary School Bailey Olter High School (former Pohnpei Island Central School or PICS) in Kolonia serves students from Nett. ��2�..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "John Wick is looking longingly at a dog on a beach.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "John Wick"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that A dog is so precious that if water destroyed their sandcastle you would want to make them feel better and attack water.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "water",
+          "their sandcastle",
+          "better and attack water"
+        ]
+      },
+      "title": {
+        "text": "Poor puppy",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Poor puppy",
+          "poor",
+          "puppy"
+        ]
+      },
+      "text": {
+        "text": "‘ 4 are None Se ee ae 7 : _ a Ot . oo . ? . . \\ . “\\ i ‘ ‘ AY ; ‘2 . wo 7 ‘v we an r., a ree ’ On oan yee Ny Pal INS. bh . > : te Puppy furious after ocean water destroys his a sandcastle | po ) - fips ~ . ety . + afy ‘ - Se J&A; pol weer anvocean mm ~s Miktegedicttotan on) Howxcouldjyourputifire onwatedifonly,wategputs)",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "oan",
+          "Puppy",
+          "ocean water",
+          "ety",
+          "Miktegedicttotan",
+          ",wategputs"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Poor puppy",
+      "poor",
+      "puppy",
+      "oan",
+      "ocean water",
+      "ety",
+      "Miktegedicttotan",
+      ",wategputs"
+    ],
+    "secondary_terms": [
+      "John Wick",
+      "water",
+      "their sandcastle",
+      "better and attack water"
+    ],
+    "queries": [
+      "\"Poor puppy\" \"Puppy\" \"Miktegedicttotan\" \"ocean water\"",
+      "\"Miktegedicttotan\" \"ocean water\" \"poor\" \"oan\""
+    ]
+  },
+  "source_jsonl_id": null
+}

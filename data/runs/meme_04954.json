@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_04954",
+  "queries": [
+    "\"Laws\" \"The Law\" \"Bacteria\" \"five seconds\" \"second\"",
+    "\"The Law\" \"Tilda Swinton\" \"Bacteria\" \"Laws\"",
+    "\"Bacteria\" \"Laws\" \"five seconds\" \"too restraint\""
+  ],
+  "primary_terms": [
+    "second",
+    "rule",
+    "Bacteria",
+    "The Law",
+    "five seconds"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.9767215549945831,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0000",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.7843234837055206,
+      "text": "Life is matter that has biological processes, such as signaling and the ability to sustain itself. It is defined descriptively by the capacity for homeostasis, organisation, metabolism, growth, adaptation, response to stimuli, and reproduction. All life over time eventually reaches a state of death, and none is immortal. Many philosophical definitions of living systems have been proposed, such as self-organizing systems. Defining life is further complicated by viruses, which replicate only in host cells, and the possibility of extraterrestrial life, which could be very different from life on Earth. Life exists all over the Earth in air, water, and soil, with many ecosystems forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota."
+    },
+    {
+      "chunk_id": "wikipedia:Charge#0001",
+      "doc_id": "wikipedia:Charge",
+      "title": "Charge",
+      "url": "https://en.wikipedia.org/?curid=6439",
+      "source_type": "wikipedia",
+      "score": 0.7653409838676453,
+      "text": "charge, information or indictment through a formal legal process Mathematics, science, and technology Charge (physics), the susceptibility (state of being affected) of a body to one of the fundamental forces Color charge, a property of quarks and gluons, related to their strong interactions Electric charge..."
+    },
+    {
+      "chunk_id": "wikipedia:Police#0000",
+      "doc_id": "wikipedia:Police",
+      "title": "Police",
+      "url": "https://en.wikipedia.org/?curid=23627",
+      "source_type": "wikipedia",
+      "score": 0.6635677874088287,
+      "text": "The police are a constituted body of people empowered by a state with the aim of enforcing the law and protecting the public order as well as the public itself. This commonly includes ensuring the safety, health, and possessions of citizens, and to prevent crime and civil disorder. Their lawful powers encompass arrest and the use of force legitimized by the state's monopoly on violence. The term is most commonly associated with the police forces of a sovereign state that are authorized to exercise the police power of that state within a defined legal or territorial area of responsibility. Police forces are often defined as being separate from the military and other organizations involved in the defense of the state against foreign aggressors; however, gendarmerie are military units charged with civil policing. Police forces are usually public sector services, funded through taxes. Law enforcement is only part of policing activity."
+    },
+    {
+      "chunk_id": "wikipedia:Suits LA#0000",
+      "doc_id": "wikipedia:Suits LA",
+      "title": "Suits LA",
+      "url": "https://en.wikipedia.org/?curid=77433138",
+      "source_type": "wikipedia",
+      "score": 0.6534268915653229,
+      "text": "Suits LA is an American legal drama television series created by Aaron Korsh for NBC. It is the second spin-off of Suits and premiered on February 23, 2025. In May 2025, the series was cancelled after one season. Premise Ex-New York City federal prosecutor turned Los Angeles entertainment lawyer Ted Black and his Black Lane Law firm represent powerful clients in LA while Ted and his associates navigate personal and professional challenges. Cast and characters Main Stephen Amell as Ted Black, a former federal prosecutor in New York City who decides to restart his legal career by becoming an entertainment lawyer in Los Angeles with the Black Lane Law firm Lex Scott Davis as Erica Rollins, Ted's law partner at Black & Associates Josh McDermitt as Stuart Lane, criminal defense lawyer and Ted's former partner, who betrays him by leaving their firm, taking some of the firm's lawyers and clients with him Bryan Greenberg as Rick Dodsen Recurring Maggie Grace as Amanda Stevens, a pro bono"
+    },
+    {
+      "chunk_id": "wikipedia:Quarantine#0001",
+      "doc_id": "wikipedia:Quarantine",
+      "title": "Quarantine",
+      "url": "https://en.wikipedia.org/?curid=25237",
+      "source_type": "wikipedia",
+      "score": 0.6485636830329895,
+      "text": "outbreak, the SARS pandemic, the Ebola pandemic and extensive quarantines applied throughout the world during the COVID-19 pandemic since 2020. Ethical and practical considerations need to be considered when applying quarantine to people. Practice differs from country to country; in some countries, quarantine is just one of many measures governed by legislation relating to the broader..."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0001",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.6401523798704147,
+      "text": "The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff from Doctor Who The Class (TV series), a CBS sitcom Class (2023 TV series), a 2023 Indian Netflix teen drama Literature Class: A Guide Through the American Status System,..."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0001",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.6329292058944702,
+      "text": "forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota. Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species..."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0000",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.6304031610488892,
+      "text": "Class, Classes, or The Class may refer to: Common uses not otherwise categorized Class (biology), a taxonomic rank Class (knowledge representation), a collection of individuals or objects Class (philosophy), an analytical concept used differently from such group phenomena as \"types\" or \"kinds\" Class (set theory), a collection of sets that can be unambiguously defined by a property that all its members share Hazard class, a dangerous goods classification Social class, the hierarchical arrangement of individuals in society, usually defined by wealth and occupation Working class, can be defined by rank, income or collar Arts, entertainment, and media \"The Class\" (song), 1959 Chubby Checker song Character class, in role-playing games and other genres Class 95 (radio station), a Singaporean radio channel Films Class (film), 1983 American film The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff"
+    },
+    {
+      "chunk_id": "wikipedia:Lockdown#0001",
+      "doc_id": "wikipedia:Lockdown",
+      "title": "Lockdown",
+      "url": "https://en.wikipedia.org/?curid=2530301",
+      "source_type": "wikipedia",
+      "score": 0.5071705877780914,
+      "text": "to address an unusual scenario or a weakness in system to preempt any danger to ensure the safety and security of people, organisation and system. The focus for preventive actions is to avoid dangers and risks arising from the nonconformity to the normal circumstances, but also commonly includes improvements in efficiency. Preventive lockdowns are preemptive lockdowns..."
+    }
+  ]
+}

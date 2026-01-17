@@ -1,0 +1,194 @@
+{
+  "meme_id": "meme_04659",
+  "queries": [
+    "\"all the memes\" \"Ahaha\" \"Ohio\" \"totally\"",
+    "\"Ohio\" \"totally\" \"european\" \"seeing\""
+  ],
+  "primary_terms": [
+    "Ahaha",
+    "totally",
+    "all the memes",
+    "Ohio",
+    "european",
+    "seeing",
+    "all"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Utah#0001",
+      "doc_id": "wikipedia:Utah",
+      "title": "Utah",
+      "url": "https://en.wikipedia.org/?curid=31716",
+      "source_type": "wikipedia",
+      "score": 0.6669575542211532,
+      "text": "the Great Basin. Utah has been inhabited for thousands of years by various Indigenous peoples, such as the ancient Puebloans, the Navajo, and the Ute. The first Europeans to arrive – in the mid-16th century – were the Spanish. Because of the region's challenging geography and harsh climate, it only became a peripheral part of New Spain (and later of Mexico). Even while it was Mexican territory..."
+    },
+    {
+      "chunk_id": "wikipedia:American#0000",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.5284098982810974,
+      "text": "American(s) may refer to: American, something of, from, or related to the United States of America, commonly known as the \"United States\" or \"America\" Americans, citizens and nationals of the United States of America American ancestry, people who self-identify their ancestry as \"American\" American English, the set of varieties of the English language native to the United States Native Americans in the United States, indigenous peoples of the United States American, something of, from, or related to the Americas, also known as \"America\" Indigenous peoples of the Americas American (word), for analysis and history of the meanings in various contexts Organizations American Airlines, U.S.-based airline headquartered in Fort Worth, Texas American Athletic Conference, an American college athletic conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0001",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.47439630031585694,
+      "text": "looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act. Looking versus seeing \"Looking\" and \"seeing\" are traditionally contrasted in a number of ways, although their usage often overlaps. Looking can be characterized as \"the action precedent to seeing\". Any kind of looking or viewing actually implies \"seeing\" certain things within the range..."
+    },
+    {
+      "chunk_id": "wikipedia:Eastern Europe#0000",
+      "doc_id": "wikipedia:Eastern Europe",
+      "title": "Eastern Europe",
+      "url": "https://en.wikipedia.org/?curid=37403",
+      "source_type": "wikipedia",
+      "score": 0.4649716138839722,
+      "text": "Eastern Europe is a subregion of the European continent. As a largely ambiguous term, it has a wide range of geopolitical, geographical, ethnic, cultural and socio-economic connotations. Its eastern boundary is marked by the Ural Mountains, and its western boundary is defined in various ways. Narrow definitions, in which Central and Southeast Europe are counted as separate regions, include Belarus, Russia and Ukraine. In contrast, broader definitions include Moldova and Romania, but also some or all of the Balkans, except East Thrace and Greece, generally speaking, the Baltic states, the Caucasus, and the Visegrád group. In Eastern Europe, Russia is the largest and most populous country."
+    },
+    {
+      "chunk_id": "wikipedia:Absolutely#0001",
+      "doc_id": "wikipedia:Absolutely",
+      "title": "Absolutely",
+      "url": "https://en.wikipedia.org/?curid=1914454",
+      "source_type": "wikipedia",
+      "score": 0.4462044984102249,
+      "text": "Hard Way Absolutely (TV series), a British comedy sketch show Abso Lutely Productions, a production company started by Tim Heidecker and Eric Wareheim See also Absolute (disambiguation) Absoluteness, a description of formulas that have the same truth value in each of some class of structures Absolution (disambiguation) Definitely (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Eastern Europe#0001",
+      "doc_id": "wikipedia:Eastern Europe",
+      "title": "Eastern Europe",
+      "url": "https://en.wikipedia.org/?curid=37403",
+      "source_type": "wikipedia",
+      "score": 0.44441812932491304,
+      "text": "generally speaking, the Baltic states, the Caucasus, and the Visegrád group. In Eastern Europe, Russia is the largest and most populous country. The region represents a significant part of European culture; the main socio-cultural characteristics of Eastern Europe have historically largely been defined by the traditions of the Slavs, as well as by the influence of Eastern Christianity as it developed through the Eastern Roman Empire and the Ottoman Empire. Another definition was created by the Cold War, as Europe was ideologically divided by the Iron Curtain, with \"Eastern Europe\" being synonymous with communist states constituting the Eastern..."
+    },
+    {
+      "chunk_id": "wikipedia:Nevada#0000",
+      "doc_id": "wikipedia:Nevada",
+      "title": "Nevada",
+      "url": "https://en.wikipedia.org/?curid=21216",
+      "source_type": "wikipedia",
+      "score": 0.44184660017490385,
+      "text": "Nevada ( nə-VAD-ə; Spanish: [neˈβaða] ) is a landlocked state in the Western United States. It is also sometimes placed in the Mountain West and Southwestern United States. It borders Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east. Nevada is the seventh-most extensive and the 32nd-most populous U.S. state. Nearly three-quarters of Nevada's population live in Clark County, which contains the Las Vegas–Paradise metropolitan area. Nevada's capital is Carson City. Las Vegas is the largest city in the state. Nevada is officially known as the \"Silver State\" because of the importance of silver to its history and economy. It is also known as the \"Battle Born State\" because it achieved statehood during the Civil War; as the \"Sagebrush State\", for the native plant of the same name; and as the \"Sage-hen State\". Native Americans of the Paiute, Shoshone, and Washoe tribes inhabit what is now Nevada."
+    },
+    {
+      "chunk_id": "wikipedia:Nevada#0001",
+      "doc_id": "wikipedia:Nevada",
+      "title": "Nevada",
+      "url": "https://en.wikipedia.org/?curid=21216",
+      "source_type": "wikipedia",
+      "score": 0.43826827108860017,
+      "text": "native plant of the same name; and as the \"Sage-hen State\". Native Americans of the Paiute, Shoshone, and Washoe tribes inhabit what is now Nevada. The first Europeans to explore the region were Spanish. They called the region Nevada (snowy) because of the snow which covered the mountains in winter, similar to the Sierra Nevada in Spain. The area formed from mostly Alta California..."
+    },
+    {
+      "chunk_id": "wikipedia:Americans#0001",
+      "doc_id": "wikipedia:Americans",
+      "title": "Americans",
+      "url": "https://en.wikipedia.org/?curid=19792942",
+      "source_type": "wikipedia",
+      "score": 0.43019304871559144,
+      "text": "descent can be found internationally. As many as seven million Americans are estimated to be living abroad, and make up the American diaspora. The majority of Americans trace their roots to immigrants who arrived in what is now the United States, starting with European colonization in the 16th century. This includes diverse groups such as the English..."
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0000",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.40925508439540864,
+      "text": "Kyle Edward Craven (born August 10, 1989), commonly known by his Internet nickname \"Bad Luck Brian\", is an American Internet celebrity known for his photo which was posted on Reddit in 2012, which quickly became a popular Internet meme. Bad Luck Brian is an image macro style of meme. His captions describe a variety of unlucky, embarrassing and tragic events. Meme Origin On January 23, 2012, at 2:15 UTC, Ian Davies uploaded a photo to Reddit of his friend Kyle Craven. Craven and Davies both attended Archbishop Hoban High School in Akron, Ohio. The photo which became Bad Luck Brian was originally taken for the high school's 2005–06 yearbook. Craven stated that he rubbed his face with a sweater to redden it and donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Two men one is saying he loves inside jokes and what's to be a part of one someday and the other guy with the glasses is looking at him stupidly.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Two men",
+          "inside jokes",
+          "the other guy",
+          "the glasses",
+          "him"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they don't understand all of the Ohio memes as a European.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "all",
+          "the Ohio memes"
+        ]
+      },
+      "title": {
+        "text": "Ahaha totally",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Ahaha",
+          "totally"
+        ]
+      },
+      "text": {
+        "text": "me, a european, seeing all the memes about Ohio: an 7 v/",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "all the memes",
+          "Ohio",
+          "european",
+          "seeing",
+          "all"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Ahaha",
+      "totally",
+      "all the memes",
+      "Ohio",
+      "european",
+      "seeing",
+      "all"
+    ],
+    "secondary_terms": [
+      "Two men",
+      "inside jokes",
+      "the other guy",
+      "the glasses",
+      "him",
+      "all",
+      "the Ohio memes"
+    ],
+    "queries": [
+      "\"all the memes\" \"Ahaha\" \"Ohio\" \"totally\"",
+      "\"Ohio\" \"totally\" \"european\" \"seeing\""
+    ]
+  },
+  "source_jsonl_id": null
+}

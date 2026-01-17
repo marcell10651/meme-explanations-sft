@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_06027",
+  "queries": [
+    "\"the past 5 miles\" \"The BMW\" \"the speed limit\" \"Nobody\"",
+    "\"the speed limit\" \"Nobody\" \"him\" \"apparently\""
+  ],
+  "primary_terms": [
+    "the speed limit",
+    "him",
+    "apparently",
+    "going",
+    "over",
+    "speed",
+    "limit",
+    "wasn",
+    "enough",
+    "Nobody",
+    "The BMW",
+    "the past 5 miles"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Velocity#0000",
+      "doc_id": "wikipedia:Velocity",
+      "title": "Velocity",
+      "url": "https://en.wikipedia.org/?curid=20491903",
+      "source_type": "wikipedia",
+      "score": 0.7920780956745148,
+      "text": "Velocity is a measurement of speed in a certain direction of motion. It is a fundamental concept in kinematics, the branch of classical mechanics that describes the motion of physical objects. Velocity is a vector quantity, meaning that both magnitude and direction are needed to define it (velocity vector). The scalar absolute value (magnitude) of velocity is called speed, a quantity that is measured in metres per second (m/s or m⋅s−1) in the SI (metric) system. For example, \"5 metres per second\" is a scalar, whereas \"5 metres per second east\" is a vector. If there is a change in speed, direction or both, then the object is said to be undergoing an acceleration. Definition Average velocity The average velocity of an object over a period of time is its change in position, Δ s {\\displaystyle \\Delta s} , divided by the duration of the period, Δ t {\\displaystyle \\Delta t} , given mathematically as v ¯ = Δ..."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0001",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.7767463982105255,
+      "text": "Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs \"No Body\", by Blake Shelton, 2022 \"Nobody\" (1905 song), by Alex Rogers and Bert A. Williams \"Nobody\" (Avenged Sevenfold song), 2023 \"Nobody\" (DJ Neptune song), 2020 \"Nobody..."
+    },
+    {
+      "chunk_id": "wikipedia:Fast#0000",
+      "doc_id": "wikipedia:Fast",
+      "title": "Fast",
+      "url": "https://en.wikipedia.org/?curid=1899768",
+      "source_type": "wikipedia",
+      "score": 0.7388677656650543,
+      "text": "Fast or FAST may refer to: Arts and entertainment \"Fast\" (Juice Wrld song), 2019 \"Fast\" (Luke Bryan song), 2016 \"Fast\" (Sueco song), 2019 \"Fast\" (GloToven song), 2019 Fast, an album by Custom, 2002 Fast, a 2010 short film starring Charlyne Yi \"Fast (Motion)\", 2021 song by Saweetie Fast & Furious, an action franchise \"Fast\" (Demi Lovato song), 2025 Computing and software FAST protocol, an adaptation of the FIX protocol, optimized for streaming FAST TCP, a TCP congestion avoidance algorithm Facilitated Application Specification Techniques, a team-oriented approach for requirement gathering Fatigue Avoidance Scheduling Tool, software to develop work schedules Features from accelerated segment test, computer vision method for corner detection Feedback arc set in Tournaments, a computational problem in graph theory Government Faʻatuatua i le Atua Samoa ua Tasi (FAST), a political party in Samoa Fixing America's Surface Transportation Act, passed by the United States Congress"
+    },
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.5545536577701569,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    },
+    {
+      "chunk_id": "wikipedia:Only#0000",
+      "doc_id": "wikipedia:Only",
+      "title": "Only",
+      "url": "https://en.wikipedia.org/?curid=1629775",
+      "source_type": "wikipedia",
+      "score": 0.5439578294754028,
+      "text": "Only may refer to: Music Albums Only (album), by Tommy Emmanuel, 2000 The Only, an EP by Dua Lipa, 2017 The Only (EP), by The Boyz Songs \"Only\" (Anthrax song), 1993 \"Only\" (Nine Inch Nails song), 2005 \"Only\" (Nicki Minaj song), 2014 \"Only\" (Lee Hi song), 2021 \"The Only\", by Static-X, 2003 \"Only\", by Ass Ponys from Lohio, 2001 \"Only\", by Fuse ODG, 2015 \"Only\", by Imagine Dragons from Origins, 2018 \"Only\", by NF from The Search, 2019 \"Only\", by Sarah Vaughan from Sarah Slightly Classical, 1963 \"Only\", by Sampha from Lahai, 2023 \"The Only\", a song by Raiden featuring Irene, 2019 \"The Only\", by Sasha Alex Sloan from Loser, 2018 Other uses Only (film), a 2019 post-apocalyptic romance film Only (magazine), a 2000s Canadian news and entertainment magazine Only, Tennessee, US Jerry Only (born 1959), American punk rock bassist and singer See also All pages with titles beginning with Only All pages with titles beginning with The Only Onli, people with this surname Onley (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.5230098068714142,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    },
+    {
+      "chunk_id": "wikipedia:Already#0000",
+      "doc_id": "wikipedia:Already",
+      "title": "Already",
+      "url": "https://en.wikipedia.org/?curid=57931026",
+      "source_type": "wikipedia",
+      "score": 0.5142345488071441,
+      "text": "Already may refer to: Albums Already (Jesus Jones album), 1997 Already (Edison Lighthouse album), 1971 Songs \"Already\" (song), 2019 song by Beyoncé, Shatta Wale and Major Lazer \"Already\", 2009 song by Mannie Fresh on his album Return of the Ballin' \"Already\", 2011 song by Freddie Gibbs on his album Lord Giveth, Lord Taketh Away \"Already\", 2011 song by Samiyam on his album Sam Baker's Album \"Already\", 2013 song by Gucci Mane on his mixtape Trap House 4 \"Already\", 2014 song by Anderson Paak on his album Venice \"Already\", 2014 song by Chief Keef on his album Nobody \"Already\", 2022 song by (G)I-dle on their album I Never Die"
+    },
+    {
+      "chunk_id": "wikipedia:Ability#0001",
+      "doc_id": "wikipedia:Ability",
+      "title": "Ability",
+      "url": "https://en.wikipedia.org/?curid=68698578",
+      "source_type": "wikipedia",
+      "score": 0.5087776482105255,
+      "text": "Phelps has the ability to swim 200 meters in under 2 minutes because he would do so if he tried to. This approach has been criticized in various ways. Some counterexamples involve cases in which the agent is physically able to do something but unable to try, due to a strong aversion. In order to avoid these and other counterexamples, various alternative approaches have been suggested. Modal theories of ability, for example, focus on what is possible..."
+    },
+    {
+      "chunk_id": "wikipedia:Never#0001",
+      "doc_id": "wikipedia:Never",
+      "title": "Never",
+      "url": "https://en.wikipedia.org/?curid=1433241",
+      "source_type": "wikipedia",
+      "score": 0.49525927007198334,
+      "text": "-sama and Evil Neuro, 2025 \"Never\", by Orbital from Wonky, 2012 \"Never\", by Ozzy Osbourne from The Ultimate Sin, 1986 \"Never\", by Paco from This Is Where We Live, 2004 \"Never\", by Sevendust from Next, 2005 \"Never (These Days)\", by Z-Ro, 2010 Places Never, Amur Oblast, a rural locality in Russia Never, Bryansk Oblast, a rural locality..."
+    },
+    {
+      "chunk_id": "wikipedia:Time travel#0000",
+      "doc_id": "wikipedia:Time travel",
+      "title": "Time travel",
+      "url": "https://en.wikipedia.org/?curid=31591",
+      "source_type": "wikipedia",
+      "score": 0.480241134762764,
+      "text": "Time travel is the hypothetical activity of traveling into the past or future. Time travel is a concept in philosophy, space, time and fiction, particularly science fiction. In fiction, time travel is typically achieved through the use of a device known as a time machine. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine. It is uncertain whether time travel to the past would be physically possible. Such travel, if at all feasible, may give rise to questions of causality. Forward time travel, outside the usual sense of the perception of time, is an extensively observed phenomenon and is well understood within the framework of special relativity and general relativity. However, making one body advance or delay more than a few milliseconds compared to another body is not feasible with current technology. As for backward time travel, it is possible to find solutions in general relativity that allow for it, such as a rotating black hole."
+    }
+  ]
+}

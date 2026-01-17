@@ -1,0 +1,186 @@
+{
+  "meme_id": "meme_05157",
+  "queries": [
+    "\"THE CRAFTING TABLE\" \"four\" \"pallies\" \"use\"",
+    "\"pallies\" \"use\" \"torch\" \"crafting\""
+  ],
+  "primary_terms": [
+    "four",
+    "THE CRAFTING TABLE",
+    "pallies",
+    "use",
+    "torch",
+    "crafting",
+    "table"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Glass#0000",
+      "doc_id": "wikipedia:Glass",
+      "title": "Glass",
+      "url": "https://en.wikipedia.org/?curid=12581",
+      "source_type": "wikipedia",
+      "score": 0.818935614824295,
+      "text": "Glass is an amorphous (non-crystalline) solid. Because it is often transparent and chemically inert, glass has found widespread practical, technological, and decorative use in window panes, tableware, and optics. Some common objects made of glass are named after the material, e.g., a \"glass\" for drinking, \"glasses\" for vision correction, and a \"magnifying glass\". Glass is most often formed by rapid cooling (quenching) of the molten form. Some glasses such as volcanic glass are naturally occurring, and obsidian has been used to make arrowheads and knives since the Stone Age. Archaeological evidence suggests glassmaking dates back to at least 3600 BC in Mesopotamia, Egypt, or Syria. The earliest known glass objects were beads, perhaps created accidentally during metalworking or the production of faience, which is a form of pottery using lead glazes."
+    },
+    {
+      "chunk_id": "wikipedia:Relief#0001",
+      "doc_id": "wikipedia:Relief",
+      "title": "Relief",
+      "url": "https://en.wikipedia.org/?curid=545811",
+      "source_type": "wikipedia",
+      "score": 0.7126323938369751,
+      "text": ". In other materials such as metal, clay, plaster stucco, ceramics or papier-mâché the form can be simply added to or raised up from the background. Monumental bronze reliefs are made by casting. There are different degrees of relief depending on the degree of projection of the sculpted form from the field, for which the Italian and French terms are still sometimes used..."
+    },
+    {
+      "chunk_id": "wikipedia:Forge#0000",
+      "doc_id": "wikipedia:Forge",
+      "title": "Forge",
+      "url": "https://en.wikipedia.org/?curid=11057",
+      "source_type": "wikipedia",
+      "score": 0.6696629285812378,
+      "text": "A forge is a type of hearth used for heating metals, or the workplace (smithy) where such a hearth is located. The forge is used by the smith to heat a piece of metal to a temperature at which it becomes easier to shape by forging, or to the point at which work hardening no longer occurs. The metal (known as the \"workpiece\") is transported to and from the forge using tongs, which are also used to hold the workpiece on the smithy's anvil while the smith works it with a hammer. Sometimes, such as when hardening steel or cooling the work so that it may be handled with bare hands, the workpiece is transported to the slack tub, which rapidly cools the workpiece in a large body of water. However, depending on the metal type, it may require an oil quench or a salt brine instead; many metals require more than plain water hardening. The slack tub also provides water to control the fire in the forge."
+    },
+    {
+      "chunk_id": "wikipedia:Table#0000",
+      "doc_id": "wikipedia:Table",
+      "title": "Table",
+      "url": "https://en.wikipedia.org/?curid=274698",
+      "source_type": "wikipedia",
+      "score": 0.6687173962593078,
+      "text": "Table may refer to: Table (database), how the table data arrangement is used within the databases Table (furniture), a piece of furniture with a flat surface and one or more legs Table (information), a data arrangement with rows and columns Table (landform), a flat area of land Table (parliamentary procedure) Table (sports), a ranking of the teams in a sports league Tables (board game) Mathematical table Tables of the skull, a term for the flat bones Table, surface of the sound board (music) of a string instrument Al-Ma'ida, the fifth surah of the Qur'an, occasionally translated as “The Table” Calligra Tables, a spreadsheet application Water table See also Spreadsheet, a computer application Table cut, a type of diamond cut The Table (disambiguation) Table Mountain (disambiguation) Table Rock (disambiguation) Tabler (disambiguation) Tablet (disambiguation) All pages with titles beginning with Table All pages with titles containing Table All pages with titles beginning with Tabular All"
+    },
+    {
+      "chunk_id": "wikipedia:Drawing#0000",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.6567274302244186,
+      "text": "Drawing is a visual art that uses an instrument to mark paper or another two-dimensional surface, or a digital representation of such. Traditionally, the instruments used to create a drawing include pencils, crayons, and ink pens, sometimes in combination. More modern tools include computer styluses with mice and graphics tablets and gamepads in VR drawing software. A drawing instrument releases a small amount of material onto a surface, leaving a visible mark. There are many drawing instruments such as pen, pencils, pastel, crayons, markers, color pencils, water color, and more. The most common support for drawing is paper, although other materials, such as cardboard, vellum, wood, plastic, leather, canvas, and board, have been used. Temporary drawings may be made on a blackboard or whiteboard. Drawing has been a popular and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas."
+    },
+    {
+      "chunk_id": "wikipedia:Template#0000",
+      "doc_id": "wikipedia:Template",
+      "title": "Template",
+      "url": "https://en.wikipedia.org/?curid=20627717",
+      "source_type": "wikipedia",
+      "score": 0.6229484498500824,
+      "text": "Template may refer to: Tools Die (manufacturing), used to cut or shape material Mold, in a molding process Stencil, a pattern or overlay used in graphic arts (drawing, painting, etc.) and sewing to replicate letters, shapes or designs Computing The main document from which mail merge documents are created Style sheet (web development) or master page, a sheet or page on which a user can globally edit and format graphic elements and text common to each page of a document Template (C++), a tool for generic programming in the C++ language Template (file format), a standardized, non-executable file type used by computer software as a pre-formatted example on which to base other files, especially documents Template (word processing), a standard document containing layout and styles used to configure electronic word processing documents Template metaprogramming, a programming technique used by a compiler to generate temporary source code Template method pattern, an object-oriented"
+    },
+    {
+      "chunk_id": "wikipedia:Relief#0000",
+      "doc_id": "wikipedia:Relief",
+      "title": "Relief",
+      "url": "https://en.wikipedia.org/?curid=545811",
+      "source_type": "wikipedia",
+      "score": 0.603559672832489,
+      "text": "Relief is a sculptural method in which the sculpted pieces remain attached to a solid background of the same material. The term relief is from the Latin verb relevare, to raise (lit. 'to lift back'). To create a sculpture in relief is to give the impression that the sculpted material has been raised above the background plane. When a relief is carved into a flat surface of stone (relief sculpture) or wood (relief carving), the field is actually lowered, leaving the unsculpted areas seeming higher. The approach requires chiselling away of the background, which can be time-intensive. On the other hand, a relief saves forming the rear of a subject, and is less fragile and more securely fixed than a sculpture in the round, especially one of a standing figure where the ankles are a potential weak point, particularly in stone. In other materials such as metal, clay, plaster stucco, ceramics or papier-mâché the form can be simply added to or raised up from the background."
+    },
+    {
+      "chunk_id": "wikipedia:Setup#0001",
+      "doc_id": "wikipedia:Setup",
+      "title": "Setup",
+      "url": "https://en.wikipedia.org/?curid=15988526",
+      "source_type": "wikipedia",
+      "score": 0.5197827219963074,
+      "text": "manufacturing changeover See also Setting up to fail, a manipulative technique to engineer failure Set (disambiguation) Setting (disambiguation) The Set-Up (disambiguation) All pages with titles beginning with Setup All pages with titles containing Setup All pages with titles beginning with Set up All pages with..."
+    },
+    {
+      "chunk_id": "wikipedia:Working#0000",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.5184740036725998,
+      "text": "Working may refer to: Work (human activity), intentional activity people perform to support themselves, others, or the community Arts and media Working (musical), a 1978 musical Working (TV series), an American sitcom Working (Caro book), a 2019 book by Robert Caro Working (Terkel book), a 1974 book by Studs Terkel Working!!, a manga by Karino Takatsu \"Working\" (song), by Tate McRae and Khalid, 2021 Engineering and technology Cold working or cold forming, the shaping of metal below its recrystallization temperature Hot working, the shaping of metal above its recrystallization temperature Multiple working, having more than one locomotive under the control of one driver Live-line working, the maintenance of electrical equipment while it is energised Single-line working, using one train track out of two Other uses Holbrook Working (1895–1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of"
+    },
+    {
+      "chunk_id": "wikipedia:Minutes#0000",
+      "doc_id": "wikipedia:Minutes",
+      "title": "Minutes",
+      "url": "https://en.wikipedia.org/?curid=901046",
+      "source_type": "wikipedia",
+      "score": 0.5092649221420288,
+      "text": "Minutes (), also known as minutes of meeting, protocols or, informally, notes, are the instant written record of a meeting or hearing. They typically describe the events of the meeting and may include a list of attendees, a statement of the activities considered by the participants, and related responses or decisions for the activities. The word \"minutes\" here means \"notes\", rather than sixtieths of an hour. Creation Minutes may be created during the meeting by a typist or court reporter, who may use shorthand notation and then prepare the minutes and issue them to the participants afterwards. Alternatively, the meeting can be audio recorded, video recorded, or a group's appointed or informally assigned secretary may take notes, with minutes prepared later. Many government agencies use minutes recording software to record and prepare all minutes in real-time. Purpose Minutes are the official written record of the meetings of an organization or group."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A minecraft character is offering candy.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "candy"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster wants to set their crafting table on fire.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their crafting table",
+          "fire"
+        ]
+      },
+      "title": {
+        "text": "You get four",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "four"
+        ]
+      },
+      "text": {
+        "text": "ME: 1 COULD REALLY USE A TORCH RN THE CRAFTING TABLE: pallies ae ee al ytf We | ttf Cae St XY RD | | | ot",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "THE CRAFTING TABLE",
+          "pallies",
+          "use",
+          "torch",
+          "crafting",
+          "table"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "four",
+      "THE CRAFTING TABLE",
+      "pallies",
+      "use",
+      "torch",
+      "crafting",
+      "table"
+    ],
+    "secondary_terms": [
+      "candy",
+      "their crafting table",
+      "fire"
+    ],
+    "queries": [
+      "\"THE CRAFTING TABLE\" \"four\" \"pallies\" \"use\"",
+      "\"pallies\" \"use\" \"torch\" \"crafting\""
+    ]
+  },
+  "source_jsonl_id": null
+}

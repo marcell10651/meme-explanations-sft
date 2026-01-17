@@ -1,0 +1,184 @@
+{
+  "meme_id": "meme_04041",
+  "queries": [
+    "\"Batman\" \"Gal\" \"Sane\" \"hell\" \"naw\"",
+    "\"The man\" \"Gal\" \"Sane\" \"Batman\"",
+    "\"Sane\" \"Batman\" \"the top\" \"the bottom\""
+  ],
+  "primary_terms": [
+    "hell",
+    "naw",
+    "trouble",
+    "Gal",
+    "Sane"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Two-Face#0001",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 1.2885650098323822,
+      "text": "the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse. The modern version is also established as having once been an ally of Batman and Commissioner James Gordon, and a close friend of Batman's secret identity, Bruce Wayne. The character has been adapted in various media incarnations, having been portrayed in film by Billy Dee Williams in Batman (1989), Tommy Lee..."
+    },
+    {
+      "chunk_id": "wikipedia:Superhero#0000",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 1.0263293087482452,
+      "text": "A superhero or superheroine, is a character who typically possesses superpowers or abilities beyond those of ordinary people; is frequently costumed, concealing their identity; and fits the role of the hero, typically using their powers to help the world become a better place, or dedicating themselves to protecting the public and fighting crime. Superhero fiction is the genre of fiction that is centered on such characters, especially, since the 1930s, in American comic books (and later in Hollywood films, film serials, television and video games), as well as in Japanese media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins."
+    },
+    {
+      "chunk_id": "wikipedia:Hero#0001",
+      "doc_id": "wikipedia:Hero",
+      "title": "Hero",
+      "url": "https://en.wikipedia.org/?curid=13706",
+      "source_type": "wikipedia",
+      "score": 0.901982456445694,
+      "text": "a hero has changed throughout time. Merriam Webster dictionary defines a hero as \"a person who is admired for great or brave acts or fine qualities\". Examples of heroes range from mythological figures, such as Gilgamesh and Iphigenia, to historical and modern figures, such as Joan of Arc, Giuseppe Garibaldi, Sophie Scholl, Alvin York, Audie Murphy, and Chuck Yeager, and fictional \"superheroes\", including Superman..."
+    },
+    {
+      "chunk_id": "wikipedia:Arkham#0000",
+      "doc_id": "wikipedia:Arkham",
+      "title": "Arkham",
+      "url": "https://en.wikipedia.org/?curid=65730",
+      "source_type": "wikipedia",
+      "score": 0.8734336495399475,
+      "text": "Arkham () is a fictional city situated in Massachusetts, United States. An integral part of the Lovecraft Country setting created by H. P. Lovecraft, Arkham is featured in many of his stories and those of other Cthulhu Mythos writers. Arkham House, a publishing company started by two of Lovecraft's correspondents, August Derleth and Donald Wandrei, takes its name from this city as a tribute. Arkham Asylum, a fictional mental hospital in DC Comics' Batman mythos, is also named after Lovecraft's Arkham. In Lovecraft's stories Arkham is the home of Miskatonic University, which features prominently in many of Lovecraft's works. The institution finances the expeditions in the novellas, At the Mountains of Madness (1936) and The Shadow Out of Time (1936). Walter Gilman, of \"The Dreams in the Witch House\" (1933), attends classes at the university. Other notable institutions in Arkham are the Arkham Historical Society and the Arkham Sanitarium."
+    },
+    {
+      "chunk_id": "wikipedia:Immortal#0001",
+      "doc_id": "wikipedia:Immortal",
+      "title": "Immortal",
+      "url": "https://en.wikipedia.org/?curid=277492",
+      "source_type": "wikipedia",
+      "score": 0.8587615489959717,
+      "text": "by Christopher Golden and Nancy Holder Immortal (Image Comics), a comic book superhero character from the Image Comics series Invincible Immortal (trilogy), a series of three science fiction graphic novels Immortals (anthology), a 1998 anthology edited by Jack Dann and Gardner Dozois Immortality (novel), a 1990 novel by Milan Kundera \"The..."
+    },
+    {
+      "chunk_id": "wikipedia:Hulk#0000",
+      "doc_id": "wikipedia:Hulk",
+      "title": "Hulk",
+      "url": "https://en.wikipedia.org/?curid=31509",
+      "source_type": "wikipedia",
+      "score": 0.8484708964824677,
+      "text": "The Hulk is a superhero appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962). In his comic book appearances, the character, who has dissociative identity disorder (DID), is primarily represented by the alter ego Hulk, an immense, green-skinned, hulking brute, possessing a limitless degree of physical strength, and the alter ego Dr. Robert Bruce Banner, a physically weak, socially withdrawn, and emotionally reserved physicist, both of whom typically resent each other. Lee stated that the Hulk's creation was inspired by a combination of Frankenstein and Dr. Jekyll and Mr. Hyde. Following his accidental exposure to gamma rays while saving the life of Rick Jones during the detonation of an experimental bomb, Banner is physically transformed into the Hulk when subjected to emotional stress, at or against his will."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0000",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.8448844850063324,
+      "text": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Considered one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays. Spider-Man is the secret identity of Peter Benjamin Parker, who was raised by his Aunt May and Uncle Ben in Queens, New York City, after the death of his parents. Lee, Ditko, and later writers had the character deal with the struggles of adolescence and young adulthood. Readers identified with his self-doubt and loneliness. Unlike previous teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J."
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0001",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.81072698533535,
+      "text": "a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The Terror (1917 film), an American silent film The Terror (1920 film), an American western film starring Tom Mix Terror (1924 film), a French film starring Pearl White The Terror..."
+    },
+    {
+      "chunk_id": "wikipedia:Superman#0000",
+      "doc_id": "wikipedia:Superman",
+      "title": "Superman",
+      "url": "https://en.wikipedia.org/?curid=28381",
+      "source_type": "wikipedia",
+      "score": 0.7554303854703903,
+      "text": "Superman is a superhero created by writer Jerry Siegel and artist Joe Shuster, first appearing in issue #1 of Action Comics, published in the United States on April 18, 1938. Superman has been regularly published in American comic books since then, and has been adapted to other media including radio serials, novels, films, television shows, theater, and video games. Superman is the archetypal superhero: he wears an outlandish costume, uses a codename, and fights evil and averts disasters with the aid of extraordinary abilities. Although there are earlier characters who arguably fit this definition, it was Superman who popularized the superhero genre and established its conventions. He was the best-selling superhero in American comic books up until the 1980s; it is also the best-selling comic book series in the world with 600 million copies sold. Superman was born Kal-El, on the fictional planet Krypton."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0001",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.7321260124444962,
+      "text": "teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J. Jonah Jameson; friends like Harry Osborn and Flash Thompson; romantic interests like Gwen Stacy, Mary Jane Watson, and the Black Cat; and enemies such as Doctor Octopus, the Green Goblin, and Venom. In his origin story, Peter gets his superhuman spider-powers and abilities after he was bitten..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The man is happy at the top, but not at the bottom.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The man",
+          "the top",
+          "the bottom"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster was happy to see Batman until they learned Batman was after them.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Batman"
+        ]
+      },
+      "title": {
+        "text": "oh hell naw",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "hell",
+          "naw"
+        ]
+      },
+      "text": {
+        "text": "You’re in trouble [fis and you sees [Aas 7 Batman eT YA. approaching | -.\\-\" ie WAN He starts Gal , } 1 RSA ee : laughing Sane fo ‘ ;",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "trouble",
+          "Gal",
+          "Sane"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "hell",
+      "naw",
+      "trouble",
+      "Gal",
+      "Sane"
+    ],
+    "secondary_terms": [
+      "The man",
+      "the top",
+      "the bottom",
+      "Batman"
+    ],
+    "queries": [
+      "\"Batman\" \"Gal\" \"Sane\" \"hell\" \"naw\"",
+      "\"The man\" \"Gal\" \"Sane\" \"Batman\"",
+      "\"Sane\" \"Batman\" \"the top\" \"the bottom\""
+    ]
+  },
+  "source_jsonl_id": null
+}

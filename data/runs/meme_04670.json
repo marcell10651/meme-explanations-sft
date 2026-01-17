@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_04670",
+  "queries": [
+    "\"More smoke\" \"The Toles\" \"OMpyattident\" \"the burning\"",
+    "\"OMpyattident\" \"the burning\" \"the books\" \"bec\""
+  ],
+  "primary_terms": [
+    "More smoke",
+    "the burning",
+    "the books",
+    "OMpyattident",
+    "The Toles",
+    "bec",
+    "letts",
+    "boen",
+    "toles"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Fire#0000",
+      "doc_id": "wikipedia:Fire",
+      "title": "Fire",
+      "url": "https://en.wikipedia.org/?curid=11145",
+      "source_type": "wikipedia",
+      "score": 0.6657084882259369,
+      "text": "Fire is the rapid oxidation of a fuel in the exothermic chemical process of combustion, releasing heat, light, and various reaction products. Flames, the most visible portion of the fire, are produced in the combustion reaction when the fuel reaches its ignition point temperature. Flames from hydrocarbon fuels consist primarily of carbon dioxide, water vapor, oxygen, and nitrogen. If hot enough, the gases may become ionized to produce plasma. The color and intensity of the flame depend on the type of fuel and composition of the surrounding gases. Fire, in its most common form, has the potential to result in conflagration, which can lead to permanent physical damage. Fire directly impacts land-based ecological systems worldwide. The positive effects of fire include stimulating plant growth and maintaining ecological balance. Its negative effects include hazards to life and property, atmospheric pollution, and water contamination."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0000",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.6205661654472351,
+      "text": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Granger, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's conflict with Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and non-magical people, known in-universe as Muggles. The series was originally published in English by Bloomsbury in the United Kingdom and Scholastic Press in the United States. A series of many genres, including fantasy, drama, coming-of-age fiction, and the British school story (which includes elements of mystery, thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references."
+    },
+    {
+      "chunk_id": "wikipedia:A Reason to Live, a Reason to Die#0001",
+      "doc_id": "wikipedia:A Reason to Live, a Reason to Die",
+      "title": "A Reason to Live, a Reason to Die",
+      "url": "https://en.wikipedia.org/?curid=24235116",
+      "source_type": "wikipedia",
+      "score": 0.5905575156211853,
+      "text": "and music. James Coburn was not involved in longer cut dubbing. It also features some of the same songs from Day of Anger starring Lee Van Cleef. Plot The plot line is derivative of The Dirty Dozen, but set during the American Civil War. In 1862, disgraced former US colonel Pembroke (James Coburn) wants to recapture Fort Holman, which he had previously surrendered to the Confederate army ten..."
+    },
+    {
+      "chunk_id": "wikipedia:Mother!#0001",
+      "doc_id": "wikipedia:Mother!",
+      "title": "Mother!",
+      "url": "https://en.wikipedia.org/?curid=48213513",
+      "source_type": "wikipedia",
+      "score": 0.5415528565645218,
+      "text": "States by Paramount Pictures on September 15, 2017. The film grossed $44.5 million worldwide. It received generally positive reviews from critics. Plot In the burned-out remains of a large house, Him, an acclaimed poet struggling with writer's block, places a crystal object on a pedestal in his study, and the building morphs into a beautiful home in an edenic landscape. Mother, the poet's wife and muse, awakens in her bed and wonders aloud where he is. While renovating the house, she occasionally visualizes a beating heart within its walls. One day, a stranger..."
+    },
+    {
+      "chunk_id": "wikipedia:Final#0001",
+      "doc_id": "wikipedia:Final",
+      "title": "Final",
+      "url": "https://en.wikipedia.org/?curid=759020",
+      "source_type": "wikipedia",
+      "score": 0.5296330153942108,
+      "text": "electronic musical group Final (Vol. 1), 2021 album by Enrique Iglesias Final (Vol. 2), 2024 album by Enrique Iglesias The Final (album), by Wham! \"The Final\", a song by Dir en grey on the album Withering to Death Other uses Final case, a grammatical case Part of a syllable NBA Finals, the championship competition of the National Basketball Association..."
+    },
+    {
+      "chunk_id": "wikipedia:Open Fire#0000",
+      "doc_id": "wikipedia:Open Fire",
+      "title": "Open Fire",
+      "url": "https://en.wikipedia.org/?curid=16460000",
+      "source_type": "wikipedia",
+      "score": 0.5066748559474945,
+      "text": "Open Fire may refer to: Film and TV Open Fire (1994 film), a 1994 British television film based on the shooting of Stephen Waldorf Open Fire (1989 film), an American action film Open Fire, a 1994 film with Jeff Wincott Music Open Fire (Ronnie Montrose album), 1978 Open Fire (Y&T album), 1985 Open Fire (Alabama Thunderpussy album), 2007 Open Fire, a 2011 album by Leehom Wang \"Open Fire\", a 1994 song by Gotthard from Dial Hard \"Open Fire\", a 2003 song by Krokus from Rock the Block \"Open Fire\", a 2015 song by The Darkness from Last of Our Kind Other uses Open Fire (horse) (1961–1980), American Thoroughbred champion racehorse Openfire, an XMPP server (formerly known as Wildfire)"
+    },
+    {
+      "chunk_id": "wikipedia:Potter#0001",
+      "doc_id": "wikipedia:Potter",
+      "title": "Potter",
+      "url": "https://en.wikipedia.org/?curid=170486",
+      "source_type": "wikipedia",
+      "score": 0.48237723112106323,
+      "text": "Lowe Harry and the Potters, an American rock band Harry Potter, worldwide bestselling book and film series Miss Potter, a 2006 film by Chris Noonan The Potters (artists group), a women's artistic and literary group in St. Louis, Missouri The Potters (film), a lost 1927 silent film Sports Stoke City F.C or The Potters..."
+    },
+    {
+      "chunk_id": "wikipedia:Smoking#0000",
+      "doc_id": "wikipedia:Smoking",
+      "title": "Smoking",
+      "url": "https://en.wikipedia.org/?curid=12254052",
+      "source_type": "wikipedia",
+      "score": 0.4658638000488281,
+      "text": "Smoking is a human behavior which involves the combustion of a substance, usually plant material, and the inhalation of resulting fumes. Today, smoking is mostly practiced by rolling the dried leaves of the tobacco plant into a cigarette. Other forms of tobacco smoking include the use of a smoking tobacco with a pipe or cigar, or using a bong. Cigarette smokers almost always inhale the smoke; most pipe and cigar smokers do not inhale. Smoking is primarily practiced as a route of administration for psychoactive chemicals because the active substances within the burnt, dried plant leaves (or other chemical) can vaporize into a gaseous state and be delivered into the respiratory tract, where they are rapidly absorbed into the bloodstream through the lungs and can reach the central nervous system."
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0001",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.46134957671165466,
+      "text": "(T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A. from AIM \"Finally\", a song by Yes from The Ladder \"Finally\", a 2019 single by Thabsie \"Finally\", a 2023 single by Jonas Blue and Rani Other uses Finally (company), an American light bulb company Finally (film), a 1991 documentary about Eric Burdon Finally, a keyword in exception handling syntax See also Final (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Rover#0001",
+      "doc_id": "wikipedia:Rover",
+      "title": "Rover",
+      "url": "https://en.wikipedia.org/?curid=1747355",
+      "source_type": "wikipedia",
+      "score": 0.4437660276889801,
+      "text": "University of California Los Angeles \"The Rover\" (Led Zeppelin song), a song by Led Zeppelin on their 1975 double album Physical Graffiti \"The Irish Rover\", an Irish folk song about a magnificent sailing ship that reaches an unfortunate end The Wild Rover, an English folk song about a rover Rover (EP), a 2023 extended..."
+    }
+  ]
+}

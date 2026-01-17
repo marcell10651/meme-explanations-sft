@@ -1,0 +1,192 @@
+{
+  "meme_id": "meme_01183",
+  "queries": [
+    "\"don\" \"know\" \"mechanical\" \"pencil\"",
+    "\"mechanical\" \"pencil\" \"plastic\" \"handle\""
+  ],
+  "primary_terms": [
+    "don",
+    "know",
+    "mechanical",
+    "pencil",
+    "plastic",
+    "handle",
+    "woe",
+    "poo",
+    "als"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Drawing#0000",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 1.285536962747574,
+      "text": "Drawing is a visual art that uses an instrument to mark paper or another two-dimensional surface, or a digital representation of such. Traditionally, the instruments used to create a drawing include pencils, crayons, and ink pens, sometimes in combination. More modern tools include computer styluses with mice and graphics tablets and gamepads in VR drawing software. A drawing instrument releases a small amount of material onto a surface, leaving a visible mark. There are many drawing instruments such as pen, pencils, pastel, crayons, markers, color pencils, water color, and more. The most common support for drawing is paper, although other materials, such as cardboard, vellum, wood, plastic, leather, canvas, and board, have been used. Temporary drawings may be made on a blackboard or whiteboard. Drawing has been a popular and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas."
+    },
+    {
+      "chunk_id": "wikipedia:Forge#0000",
+      "doc_id": "wikipedia:Forge",
+      "title": "Forge",
+      "url": "https://en.wikipedia.org/?curid=11057",
+      "source_type": "wikipedia",
+      "score": 0.9058955639600754,
+      "text": "A forge is a type of hearth used for heating metals, or the workplace (smithy) where such a hearth is located. The forge is used by the smith to heat a piece of metal to a temperature at which it becomes easier to shape by forging, or to the point at which work hardening no longer occurs. The metal (known as the \"workpiece\") is transported to and from the forge using tongs, which are also used to hold the workpiece on the smithy's anvil while the smith works it with a hammer. Sometimes, such as when hardening steel or cooling the work so that it may be handled with bare hands, the workpiece is transported to the slack tub, which rapidly cools the workpiece in a large body of water. However, depending on the metal type, it may require an oil quench or a salt brine instead; many metals require more than plain water hardening. The slack tub also provides water to control the fire in the forge."
+    },
+    {
+      "chunk_id": "wikipedia:Watch#0000",
+      "doc_id": "wikipedia:Watch",
+      "title": "Watch",
+      "url": "https://en.wikipedia.org/?curid=60883",
+      "source_type": "wikipedia",
+      "score": 0.7798306524753571,
+      "text": "A watch is a timepiece carried or worn by a person. It is designed to maintain a consistent movement despite the motions caused by the person's activities. A wristwatch is worn around the wrist, attached by a watch strap or another type of bracelet, including metal bands or leather straps. A pocket watch is carried in a pocket, often attached to a chain. A stopwatch is a type of watch that measures intervals of time. During most of their history, beginning in the 16th century, watches were mechanical devices, driven by clockwork, powered by winding a mainspring, and keeping time with an oscillating balance wheel. These are known as mechanical watches. In the 1960s the electronic quartz watch was invented, powered by a battery and keeping time with a vibrating quartz crystal. By the 1980s it had taken over most of the watch market, in what became known as the quartz revolution (or the quartz crisis in Switzerland, whose renowned watch industry it decimated)."
+    },
+    {
+      "chunk_id": "wikipedia:Finger#0000",
+      "doc_id": "wikipedia:Finger",
+      "title": "Finger",
+      "url": "https://en.wikipedia.org/?curid=37618",
+      "source_type": "wikipedia",
+      "score": 0.6276177823543548,
+      "text": "A finger is a prominent digit on the forelimbs of most tetrapod vertebrate animals, especially those with prehensile extremities (i.e. hands) such as humans and other primates. Most tetrapods have five digits (pentadactyly), and short digits (i.e. significantly shorter than the metacarpal/metatarsals) are typically referred to as toes, while those that are notably elongated are called fingers. In humans, the fingers are flexibly articulated and opposable, serving as an important organ of tactile sensation and fine movements, which are crucial to the dexterity of the hands and the ability to grasp and manipulate objects Humans Usually humans have five digits, the bones of which are termed phalanges, on each hand, although some people have more or fewer than five due to congenital disorders such as polydactyly or oligodactyly, or accidental or intentional amputations. The first digit is the thumb, followed by the index finger, middle finger, ring finger, and little finger or pinkie."
+    },
+    {
+      "chunk_id": "wikipedia:Forge#0001",
+      "doc_id": "wikipedia:Forge",
+      "title": "Forge",
+      "url": "https://en.wikipedia.org/?curid=11057",
+      "source_type": "wikipedia",
+      "score": 0.6262503921985626,
+      "text": "or a salt brine instead; many metals require more than plain water hardening. The slack tub also provides water to control the fire in the forge. Types Coal/coke/charcoal forge A forge typically uses bituminous coal, industrial coke or charcoal as the fuel to heat metal. The designs of these forges have varied over time, but whether the fuel is coal, coke or charcoal the basic design has remained the same. A forge of this type..."
+    },
+    {
+      "chunk_id": "wikipedia:Glass#0000",
+      "doc_id": "wikipedia:Glass",
+      "title": "Glass",
+      "url": "https://en.wikipedia.org/?curid=12581",
+      "source_type": "wikipedia",
+      "score": 0.5800916016101837,
+      "text": "Glass is an amorphous (non-crystalline) solid. Because it is often transparent and chemically inert, glass has found widespread practical, technological, and decorative use in window panes, tableware, and optics. Some common objects made of glass are named after the material, e.g., a \"glass\" for drinking, \"glasses\" for vision correction, and a \"magnifying glass\". Glass is most often formed by rapid cooling (quenching) of the molten form. Some glasses such as volcanic glass are naturally occurring, and obsidian has been used to make arrowheads and knives since the Stone Age. Archaeological evidence suggests glassmaking dates back to at least 3600 BC in Mesopotamia, Egypt, or Syria. The earliest known glass objects were beads, perhaps created accidentally during metalworking or the production of faience, which is a form of pottery using lead glazes."
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0000",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.5424313843250275,
+      "text": "Graphics (from Ancient Greek γραφικός (التصميم) 'pertaining to drawing, painting, writing, etc.') are visual images or designs on some surface, such as a wall, canvas, screen, paper, or stone, to inform, illustrate, or entertain. In contemporary usage, it includes a pictorial representation of data, as in design and manufacture, in typesetting and the graphic arts, and in educational and recreational software. Images that are generated by a computer are called computer graphics. Examples are photographs, drawings, line art, mathematical graphs, line graphs, charts, diagrams, typography, numbers, symbols, geometric designs, maps, engineering drawings, or other images. Graphics often combine text, illustration, and color. Graphic design may consist of the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element."
+    },
+    {
+      "chunk_id": "wikipedia:Finish#0000",
+      "doc_id": "wikipedia:Finish",
+      "title": "Finish",
+      "url": "https://en.wikipedia.org/?curid=3438624",
+      "source_type": "wikipedia",
+      "score": 0.5373942136764527,
+      "text": "Finish may refer to: Finishing (whisky), in the distillation of Scotch The aftertaste of an alcoholic beverage, particularly for: wine Finished good, a good that is completed as to manufacturing but not yet sold or distributed to the end-user Surface finishing, various industrial processes for modifying a workpiece's surface Mechanical finish, processes that modify a surface using mechanical means Wood finishing, the process of embellishing and/or protecting the surface of wooden objects People Eli Finish (born 1975), Israeli comedian Brands Finish, A dishwasher detergent brand owned by Reckitt and known as Calgonit in Continental Europe, formerly known as Electrasol. See also Finishing (disambiguation) Finish line (disambiguation) Finnish (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0000",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.5354854941368103,
+      "text": "A retail cashier or simply a cashier is a person who handles the cash register at various locations such as the point of sale in a retail store. The most common use of the title is in the retail industry, but this job title is also used in the context of accountancy for the person responsible for receiving and disbursing money or within branch banking in the United Kingdom for the job known in the United States as a bank teller. Retail In a shop, a cashier (or checkout operator) is an employee who scans the goods that the customer wishes to purchase through a cash register. In most modern stores, the items are scanned by a barcode positioned on the item with the use of a laser scanner. After all of the items have been scanned, the cashier then collects the payment (in cash, check, and/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers."
+    },
+    {
+      "chunk_id": "wikipedia:Paper#0000",
+      "doc_id": "wikipedia:Paper",
+      "title": "Paper",
+      "url": "https://en.wikipedia.org/?curid=16861908",
+      "source_type": "wikipedia",
+      "score": 0.5306707173585892,
+      "text": "Paper is a thin sheet of matted cellulose fibers. Largely derived from lignocellulose, paper is created from a pulp dissolved into a slurry that is drained and dried into sheets. Different types of paper are defined by constituent fiber, paper pulp, sizing, coating, paper size, paper density and grammage. The papermaking process developed in East Asia at least as early as 105 CE by the Han court eunuch Cai Lun, although archaeological evidence exists of 2nd century BCE paper-like material in China. Before the industrialization of paper production, the most common paper was rag paper, made from discarded natural fiber textiles collected by ragpickers. The 1843 invention of wood pulp, coupled with the Second Industrial Revolution, made pulpwood paper the dominant variety to this day. Etymology The word paper is etymologically derived from Latin papyrus, which comes from the Greek πᾰ́πῡρος (pápūros), the word for the Cyperus papyrus plant."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The leaves on the plant are purple.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The leaves",
+          "the plant"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that mechanical pencils are fragile",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "mechanical pencils"
+        ]
+      },
+      "title": {
+        "text": "I don't know why I like to do this",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "don",
+          "know"
+        ]
+      },
+      "text": {
+        "text": "Me: *gets a mechanical pencil* The plastic handle: “ , woe aN Poo ~ ALS o, A ; ; Do (fo come",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "mechanical",
+          "pencil",
+          "plastic",
+          "handle",
+          "woe",
+          "poo",
+          "als"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "don",
+      "know",
+      "mechanical",
+      "pencil",
+      "plastic",
+      "handle",
+      "woe",
+      "poo",
+      "als"
+    ],
+    "secondary_terms": [
+      "The leaves",
+      "the plant",
+      "mechanical pencils"
+    ],
+    "queries": [
+      "\"don\" \"know\" \"mechanical\" \"pencil\"",
+      "\"mechanical\" \"pencil\" \"plastic\" \"handle\""
+    ]
+  },
+  "source_jsonl_id": null
+}

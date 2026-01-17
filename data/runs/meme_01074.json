@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_01074",
+  "queries": [
+    "\"MADEAIRRODUCT vas LO COMEETE\" \"business\" \"fail\" \"madeairroduct\"",
+    "\"fail\" \"madeairroduct\" \"vas\" \"comeete\""
+  ],
+  "primary_terms": [
+    "business",
+    "fail",
+    "MADEAIRRODUCT vas LO COMEETE",
+    "madeairroduct",
+    "vas",
+    "comeete",
+    "brealitesiny",
+    "productusesthat",
+    "product"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Setup#0001",
+      "doc_id": "wikipedia:Setup",
+      "title": "Setup",
+      "url": "https://en.wikipedia.org/?curid=15988526",
+      "source_type": "wikipedia",
+      "score": 0.7148548424243927,
+      "text": "manufacturing changeover See also Setting up to fail, a manipulative technique to engineer failure Set (disambiguation) Setting (disambiguation) The Set-Up (disambiguation) All pages with titles beginning with Setup All pages with titles containing Setup All pages with titles beginning with Set up All pages with..."
+    },
+    {
+      "chunk_id": "wikipedia:Success#0000",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.6498004257678985,
+      "text": "Success is the state or condition of meeting a defined range of expectations. It may be viewed as the opposite of failure. The criteria for success depend on context, and may be relative to a particular observer or belief system. One person might consider a success what another person considers a failure, particularly in cases of direct competition or a zero-sum game. Similarly, the degree of success or failure in a situation may be differently viewed by distinct observers or participants, such that a situation that one considers to be a success, another might consider to be a failure, a qualified success or a neutral situation. For example, a film that is a commercial failure or even a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness."
+    },
+    {
+      "chunk_id": "wikipedia:Flight#0000",
+      "doc_id": "wikipedia:Flight",
+      "title": "Flight",
+      "url": "https://en.wikipedia.org/?curid=159472",
+      "source_type": "wikipedia",
+      "score": 0.5194967836141586,
+      "text": "Flight or flying is the motion of an object through an atmosphere or through the vacuum of space, in this case also called spaceflight, without contacting any planetary surface. This can be achieved by generating aerodynamic lift associated with gliding or propulsive thrust, aerostatically using buoyancy, or by ballistic movement. Many things can fly, from animal aviators such as birds, bats and insects, to natural gliders/parachuters such as patagial animals, anemochorous seeds and ballistospores, to human inventions like aircraft (airplanes, helicopters, airships, balloons, etc.) and rockets which may propel spacecraft and spaceplanes. The engineering aspects of flight are the purview of aerospace engineering. It has three subfields: aeronautics — the study of vehicles that travel through the atmosphere. astronautics — the study of vehicles that travel through space. ballistics — the study of the flight of projectiles."
+    },
+    {
+      "chunk_id": "wikipedia:Cigar#0000",
+      "doc_id": "wikipedia:Cigar",
+      "title": "Cigar",
+      "url": "https://en.wikipedia.org/?curid=38323",
+      "source_type": "wikipedia",
+      "score": 0.47188632786273954,
+      "text": "A cigar is a rolled bundle of dried and fermented tobacco leaves made to be smoked. Cigars are produced in a variety of sizes and shapes. Since the 20th century, almost all cigars are made of three distinct components: the filler, the binder leaf which holds the filler together, and a wrapper leaf, which is often the highest quality leaf used. Often there will be a cigar band printed with the cigar manufacturer's logo. Modern cigars can come with two or more bands, especially Cuban cigars, showing Limited Edition (Edición Limitada) bands displaying the year of production. Cigar tobacco is grown in significant quantities primarily in Brazil, Central America (Costa Rica, Ecuador, Guatemala, Honduras, Mexico, Nicaragua, and Panama), and the islands of the Caribbean (Cuba, the Dominican Republic, Haiti, and Puerto Rico); it is also produced in the Eastern United States (mostly in Florida, Kentucky, Tennessee, and Virginia) and in the Mediterranean countries of Italy, Greece, Spain (in the"
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.465442082285881,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Made#0000",
+      "doc_id": "wikipedia:Made",
+      "title": "Made",
+      "url": "https://en.wikipedia.org/?curid=666961",
+      "source_type": "wikipedia",
+      "score": 0.46338680386543274,
+      "text": "Made or MADE may refer to: Entertainment Film Made (1972 film), United Kingdom Made (2001 film), United States Music Made (Big Bang album), 2016 Made (Hawk Nelson album), 2013 Made (Scarface album), 2007 M.A.D.E., 2003 album by Memphis Bleek \"Made\" (Scuba Dice song), 2006 \"Made\" (The Wanted song), 2010 Made (band), a Toronto lo-fi band Television Made (TV series), United States, 2002 to 2014 Companies Made.com, an online furniture retailer in London, United Kingdom MADE Clothing, an American clothing line around 2005 The MADE or The Museum of Art and Digital Entertainment Geography Made (Netherlands), a town in the Netherlands People van der Made - Dutch family name Dalem Di Made (fl."
+    },
+    {
+      "chunk_id": "wikipedia:Flight#0001",
+      "doc_id": "wikipedia:Flight",
+      "title": "Flight",
+      "url": "https://en.wikipedia.org/?curid=159472",
+      "source_type": "wikipedia",
+      "score": 0.4617069512605667,
+      "text": "travel through the atmosphere. astronautics — the study of vehicles that travel through space. ballistics — the study of the flight of projectiles. Types of flight Buoyant flight Humans have managed to construct lighter-than-air vehicles that raise off the ground and fly, due to their buoyancy in the air. An aerostat is a system that remains aloft primarily through the use of buoyancy to give an aircraft..."
+    },
+    {
+      "chunk_id": "wikipedia:Perfection#0000",
+      "doc_id": "wikipedia:Perfection",
+      "title": "Perfection",
+      "url": "https://en.wikipedia.org/?curid=1928374",
+      "source_type": "wikipedia",
+      "score": 0.4170335382223129,
+      "text": "Perfection is a state, variously, of completeness, flawlessness, or supreme excellence. The term designates a range of diverse, if often kindred, concepts used in a variety of fields. Term and concept The noun \"perfection\", the adjective \"perfect\", and the verb \"to perfect\" derive from the Latin verb \"perficere\" – \"to finish\" or \"to bring to an end\". The ancient Greek word for \"perfection\" was \"teleiotes\". The Greek polymath Aristotle (384–322 BCE) distinguished three concepts of perfection: 1. that which was complete – which contained all the requisite parts; 2. that which was so good that nothing of the kind could be better; 3. that which had attained its purpose. The Polish philosopher Władysław Tatarkiewicz (1886 – 1980) notes that perfection is often confused with other qualities, such as \"excellence\". The German polymath Leibniz (1646–1716), who thought the world to be the best of all possible worlds, never called it perfect."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.41054463386535645,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Profit#0001",
+      "doc_id": "wikipedia:Profit",
+      "title": "Profit",
+      "url": "https://en.wikipedia.org/?curid=18487619",
+      "source_type": "wikipedia",
+      "score": 0.39934414625167847,
+      "text": "player Places Profit, United States Virgin Islands See also All pages with titles beginning with Profit All pages with titles containing Profit Proffit (disambiguation) Proffitt (disambiguation) Prophet (disambiguation)"
+    }
+  ]
+}

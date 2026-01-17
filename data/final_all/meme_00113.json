@@ -1,0 +1,242 @@
+{
+  "meme_id": "meme_00113",
+  "queries": [
+    "\"a few dozen catastrophic events\" \"3 major economic crisis\" \"edit\" \"took\"",
+    "\"edit\" \"took\" \"millenials\" \"after\""
+  ],
+  "primary_terms": [
+    "this edit",
+    "edit",
+    "took",
+    "3 major economic crisis",
+    "a few dozen catastrophic events",
+    "millenials",
+    "after",
+    "getting",
+    "through",
+    "major",
+    "economic",
+    "crisis",
+    "few",
+    "dozen",
+    "catastrophic",
+    "events",
+    "all",
+    "before",
+    "hitting",
+    "aay",
+    "toe",
+    "ose",
+    "een",
+    "idea",
+    "granted"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.7680279612541199,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.6962240159511566,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:Disaster#0001",
+      "doc_id": "wikipedia:Disaster",
+      "title": "Disaster",
+      "url": "https://en.wikipedia.org/?curid=8137",
+      "source_type": "wikipedia",
+      "score": 0.669144082069397,
+      "text": "because human actions can make natural disasters worse. Climate change also affects how often disasters due to extreme weather hazards happen. Disasters usually affect people in developing countries more than people in wealthy countries. Over 95% of deaths from disasters happen in low-income countries, and those countries have higher economic losses compared to higher-income countries. For example, the damage from natural..."
+    },
+    {
+      "chunk_id": "wikipedia:Century#0001",
+      "doc_id": "wikipedia:Century",
+      "title": "Century",
+      "url": "https://en.wikipedia.org/?curid=5881",
+      "source_type": "wikipedia",
+      "score": 0.64438716173172,
+      "text": "a multiple of 100 (except the first century as it began after the year 1 BC) and ends with the next coming year with a multiple of 100 (100n), i.e. the 20th century comprises the years 1901 to 2000, and the 21st century comprises the years 2001 to 2100 in strict usage. In common perception and practice, centuries are structured by grouping years based on sharing..."
+    },
+    {
+      "chunk_id": "wikipedia:Disaster#0000",
+      "doc_id": "wikipedia:Disaster",
+      "title": "Disaster",
+      "url": "https://en.wikipedia.org/?curid=8137",
+      "source_type": "wikipedia",
+      "score": 0.6404232203960418,
+      "text": "A disaster is an event that causes such serious harm to people, buildings, economies, or the environment that the affected community cannot handle it alone. The United Nations Office for Disaster Risk Reduction defines a disaster as \"a serious disruption of the functioning of a community or a society at any scale due to hazardous events interacting with conditions of exposure, vulnerability and capacity, leading to one or more of the following: human, material, economic and environmental losses and impacts\". Natural disasters like avalanches, floods, earthquakes, and wildfires are caused by natural hazards. Human-made disasters like oil spills, terrorist attacks and power outages are caused by people. It may be difficult to separate natural and human-made disasters because human actions can make natural disasters worse. Climate change also affects how often disasters due to extreme weather hazards happen."
+    },
+    {
+      "chunk_id": "wikipedia:Before#0000",
+      "doc_id": "wikipedia:Before",
+      "title": "Before",
+      "url": "https://en.wikipedia.org/?curid=39628822",
+      "source_type": "wikipedia",
+      "score": 0.6172712326049805,
+      "text": "Before is the opposite of after, and may refer to: Literature \"Before\" (short story) by Gael Baudino, 1996 Before by Anna Todd, 2015 Music Before (Gold Panda EP), 2009 Before (James Blake EP), 2020 \"Before\" (song), a 1996 song by the Pet Shop Boys \"Before\", a song by the Empire of the Sun from Two Vines \"Before\", a song by Anastacia from Evolution Television and film Before trilogy, by Richard Linklater Before Sunrise, 1995 Before Sunset, 2004 Before Midnight, 2013 Before (TV series), 2024 See also Before Christ (BC), an epoch used in dating years prior to the estimated birth of Jesus Before Common Era (BCE), an alternative naming of the traditional calendar era primarily used in academic circles Before Present (BP), a timescale used mainly in geology All pages with titles beginning with Before All pages with titles containing Before"
+    },
+    {
+      "chunk_id": "wikipedia:Century#0000",
+      "doc_id": "wikipedia:Century",
+      "title": "Century",
+      "url": "https://en.wikipedia.org/?curid=5881",
+      "source_type": "wikipedia",
+      "score": 0.6132661581039429,
+      "text": "A century is a period of 100 years or 10 decades. Centuries are numbered ordinally in English and many other languages. The word century comes from the Latin centum, meaning one hundred. Century is sometimes abbreviated as c. A centennial or centenary is a hundredth anniversary, or a celebration of this, typically the remembrance of an event which took place a hundred years earlier. Start and end of centuries Although a century can mean any arbitrary period of 100 years, there are two viewpoints on the nature of standard centuries. One is based on strict construction, while the other is based on popular perception. According to the strict construction, the 1st century AD, which began with AD 1, ended with AD 100, and the 2nd century with AD 200; in this model, the n-th century starts with a year that follows a year with a multiple of 100 (except the first century as it began after the year 1 BC) and ends with the next coming year with a multiple of 100 (100n), i.e."
+    },
+    {
+      "chunk_id": "wikipedia:Take That#0001",
+      "doc_id": "wikipedia:Take That",
+      "title": "Take That",
+      "url": "https://en.wikipedia.org/?curid=371370",
+      "source_type": "wikipedia",
+      "score": 0.5897286117076874,
+      "text": "According to the British Phonographic Industry (BPI), Take That has been certified for sales of 14.4 million albums and 14 million singles in the UK. Williams left the band in 1995, while the four remaining members completed their world tour and released a final single before splitting up in 1996. After filming a 2005 documentary about the group and releasing..."
+    },
+    {
+      "chunk_id": "wikipedia:Rescue#0000",
+      "doc_id": "wikipedia:Rescue",
+      "title": "Rescue",
+      "url": "https://en.wikipedia.org/?curid=363258",
+      "source_type": "wikipedia",
+      "score": 0.5614349037408829,
+      "text": "Rescue comprises responsive operations that usually involve the saving of life, removal from danger, liberation from restraint, or the urgent treatment of injuries after an incident. It may be facilitated by a range of tools and equipment necessary to deal with the specific circumstances. Rescues may be necessary in a wide range of circumstances and environments, and specialised procedures have been developed for many of these. A rescue may also be performed on an ad hoc basis by the people who are available on site, using equipment available on site or assembled from available materials, particularly when the rescue is urgent or it is unlikely that specialist assistance will be available within a reasonable time. First aid medical attention is often closely associated with rescue, and may be a necessary part of a rescue."
+    },
+    {
+      "chunk_id": "wikipedia:Quarantine#0000",
+      "doc_id": "wikipedia:Quarantine",
+      "title": "Quarantine",
+      "url": "https://en.wikipedia.org/?curid=25237",
+      "source_type": "wikipedia",
+      "score": 0.5612732708454132,
+      "text": "A quarantine is a restriction on the movement of people, animals, and goods which is intended to prevent the spread of disease or pests. It is often used in connection to disease and illness, preventing the movement of those who may have been exposed to a communicable disease, yet do not have a confirmed medical diagnosis. It is distinct from medical isolation, in which those confirmed to be infected with a communicable disease are isolated from the healthy population. The concept of quarantine is known to have been practised through history in various places. Notable quarantines in modern history include the village of Eyam in 1665 during the bubonic plague outbreak in England; East Samoa during the 1918 flu pandemic; the Diphtheria outbreak during the 1925 serum run to Nome, the 1972 Yugoslav smallpox outbreak, the SARS pandemic, the Ebola pandemic and extensive quarantines applied throughout the world during the COVID-19 pandemic since 2020."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is looking into the distance.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the distance"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that millennials all look old and sad now because we have survived a lot of bad things.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "millennials",
+          "all",
+          "bad things"
+        ]
+      },
+      "title": {
+        "text": "Damn this edit took me long",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "this edit",
+          "edit",
+          "took"
+        ]
+      },
+      "text": {
+        "text": "Millenials after getting through 3 major economic crisis and a few dozen catastrophic events all before hitting 35 “, TN, . aay “ Toe wy on Le . (4 = are i ' 7} fo. ae J ose an een ‘ ( -e _ ' oo, _ oO , idea4granted \\ 1 : .",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "3 major economic crisis",
+          "a few dozen catastrophic events",
+          "millenials",
+          "after",
+          "getting",
+          "through",
+          "major",
+          "economic",
+          "crisis",
+          "few",
+          "dozen",
+          "catastrophic",
+          "events",
+          "all",
+          "before",
+          "hitting",
+          "aay",
+          "toe",
+          "ose",
+          "een",
+          "idea",
+          "granted"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "this edit",
+      "edit",
+      "took",
+      "3 major economic crisis",
+      "a few dozen catastrophic events",
+      "millenials",
+      "after",
+      "getting",
+      "through",
+      "major",
+      "economic",
+      "crisis",
+      "few",
+      "dozen",
+      "catastrophic",
+      "events",
+      "all",
+      "before",
+      "hitting",
+      "aay",
+      "toe",
+      "ose",
+      "een",
+      "idea",
+      "granted"
+    ],
+    "secondary_terms": [
+      "the distance",
+      "millennials",
+      "all",
+      "bad things"
+    ],
+    "queries": [
+      "\"a few dozen catastrophic events\" \"3 major economic crisis\" \"edit\" \"took\"",
+      "\"edit\" \"took\" \"millenials\" \"after\""
+    ]
+  },
+  "source_jsonl_id": null
+}

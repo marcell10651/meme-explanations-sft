@@ -1,0 +1,199 @@
+{
+  "meme_id": "meme_01065",
+  "queries": [
+    "\"One Breakfast Time\" \"Wakes\" \"Pace\" \"one\"",
+    "\"Pace\" \"one\" \"breakfast\" \"time\""
+  ],
+  "primary_terms": [
+    "One Breakfast Time",
+    "one",
+    "breakfast",
+    "time",
+    "ahead",
+    "Wakes",
+    "school",
+    "bed",
+    "Pace"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Bedtime#0000",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 1.0590074241161347,
+      "text": "Bedtime (also called putting to bed or tucking in) is a ritual part of parenting to help children feel more secure and become accustomed to a more rigid schedule of sleep than they might prefer. The ritual of bedtime is aimed at facilitating the transition from wakefulness to sleep. It may involve bedtime stories, children's songs, nursery rhymes, bed-making and getting children to change into nightwear. In some religious households, prayers are said shortly before going to bed. Sleep training may be part of the bedtime ritual for babies and toddlers. In adult use, the term means simply \"time for bed\", similar to curfew, as in \"It's past my bedtime\". Some people are accustomed to drinking a nightcap or herbal tea at bedtime. Sleeping coaches are also used to help individuals reach their bedtime goals. Researchers studying sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep."
+    },
+    {
+      "chunk_id": "wikipedia:Morning#0000",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.9983178496360778,
+      "text": "Morning is either the period from sunrise to noon, or the period from midnight to noon. In the first definition it is preceded by the twilight period of dawn, and there are no exact times for when morning begins (also true of evening and night) because it can vary according to one's latitude, and the hours of daylight at each time of year. However, morning strictly ends at noon, when afternoon starts. Morning precedes afternoon, evening, and night in the sequence of a day. Originally, the term referred to sunrise. Etymology The Modern English words \"morning\" and \"tomorrow\" began in Middle English as morwening, developing into morwen, then morwe, and eventually morrow. English, unlike some other languages, has separate terms for \"morning\" and \"tomorrow\", despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\"."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0000",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.8480814218521118,
+      "text": "Time is the continuous progression of existence that occurs in an apparently irreversible succession from the past, through the present, and into the future. Time dictates all forms of action, age, and causality, being a component quantity of various measurements used to sequence events, to compare the duration of events (or the intervals between them), and to quantify rates of change of quantities in material reality or in the conscious experience. Time is often referred to as a fourth dimension, along with three spatial dimensions. Time is primarily measured in linear spans or periods, ordered from shortest to longest. Practical, human-scale measurements of time are performed using clocks and calendars, reflecting a 24-hour day collected into a 365-day year linked to the astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest."
+    },
+    {
+      "chunk_id": "wikipedia:Time travel#0000",
+      "doc_id": "wikipedia:Time travel",
+      "title": "Time travel",
+      "url": "https://en.wikipedia.org/?curid=31591",
+      "source_type": "wikipedia",
+      "score": 0.8028367340564728,
+      "text": "Time travel is the hypothetical activity of traveling into the past or future. Time travel is a concept in philosophy, space, time and fiction, particularly science fiction. In fiction, time travel is typically achieved through the use of a device known as a time machine. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine. It is uncertain whether time travel to the past would be physically possible. Such travel, if at all feasible, may give rise to questions of causality. Forward time travel, outside the usual sense of the perception of time, is an extensively observed phenomenon and is well understood within the framework of special relativity and general relativity. However, making one body advance or delay more than a few milliseconds compared to another body is not feasible with current technology. As for backward time travel, it is possible to find solutions in general relativity that allow for it, such as a rotating black hole."
+    },
+    {
+      "chunk_id": "wikipedia:First Time#0000",
+      "doc_id": "wikipedia:First Time",
+      "title": "First Time",
+      "url": "https://en.wikipedia.org/?curid=2039755",
+      "source_type": "wikipedia",
+      "score": 0.7798841714859008,
+      "text": "First Time or The First Time may refer to: Film and television Films The First Time (1952 film), an American comedy-drama directed by Frank Tashlin The First Time (1969 film), an American coming-of-age film directed by James Neilson The First Time (1981 film), an American coming of age comedy film The First Time, a 1982 American television film starring Jennifer Jason Leigh First Time, a 1983 Hong Kong film produced by Peter Yang The First Time, a 1983 comedy featuring Wendie Jo Sperber First Time, a 2003 Philippine film featuring Ryan Eigenmann The First Time (2012 film), an American teen romantic comedy by Jon Kasdan First Time (2012 film), a Chinese romance film directed by Han Yan Television First Time (TV series), a 2010 Philippine romantic drama Episodes \"First Time\" (South of Nowhere) \"The First Time\" (Glee) \"The First Time\" (One Day at a Time) \"The First Time\" (That '70s Show) Literature The First Time (memoir), a 1998 book by Cher and Jeff Coplon First Time, a 2008 novel by"
+    },
+    {
+      "chunk_id": "wikipedia:First Time#0001",
+      "doc_id": "wikipedia:First Time",
+      "title": "First Time",
+      "url": "https://en.wikipedia.org/?curid=2039755",
+      "source_type": "wikipedia",
+      "score": 0.7635196208953857,
+      "text": "Day at a Time) \"The First Time\" (That '70s Show) Literature The First Time (memoir), a 1998 book by Cher and Jeff Coplon First Time, a 2008 novel by Meg Tilly First-Time: The Historical Vision of an Afro-American People, a 1983 book by Richard Price Music Albums First Time (Maya Simantov album) or the title song..."
+    },
+    {
+      "chunk_id": "wikipedia:Second#0001",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.7413540840148926,
+      "text": "current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks. As the speed of Earth's rotation varies and is slowing ever so slightly, a leap second is added at irregular intervals to civil time to keep clocks in sync with Earth's rotation. The definition that is based on 1⁄86400 of a rotation of the earth is still used by the Universal Time 1 (UT1) system..."
+    },
+    {
+      "chunk_id": "wikipedia:House#0000",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.6934713155031205,
+      "text": "A house is a single-unit residential building. It may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems. Houses use a range of different roofing systems to keep precipitation such as rain from getting into the dwelling space. Houses generally have doors or locks to secure the dwelling space and protect its inhabitants and contents from burglars or other trespassers. Most conventional modern houses in Western cultures will contain one or more bedrooms and bathrooms, a kitchen or cooking area, and a living room. A house may have a separate dining room, or the eating area may be integrated into the kitchen or another room. Some large houses in North America have a recreation room. In traditional agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans."
+    },
+    {
+      "chunk_id": "wikipedia:Second#0000",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.6625716507434845,
+      "text": "The second (symbol: s) is a unit of time derived from the division of the day first into 24 hours, then to 60 minutes, and lastly to 60 seconds each, for a total of 24 × 60 × 60 = 86,400 seconds per day. The current and formal definition in the International System of Units (SI) is more precise: The second [...] is defined by taking the fixed numerical value of the caesium frequency, ΔνCs, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9192631770 when expressed in the unit Hz, which is equal to s−1. That is saying that a second is the duration of time it takes for 9 192 631 770 of these transitions to occur. Atomic clocks count these transitions, with an uncertainty of 1 second in 300 million years. This current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0001",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.632122066617012,
+      "text": "others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time). These processes are supported by distributed neural networks in frontal, parietal, and subcortical regions and are closely linked to working memory, executive functions, and consciousness. Patterns of attention also vary across cultures, especially in how individuals attend to context versus focal objects and how children are guided to manage attention in everyday activities..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "One of the Sanderson sisters from Hocus Pocus standing in the street with people walking by.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the Sanderson sisters",
+          "Hocus Pocus",
+          "the street",
+          "people"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme posters friend is an amateur because they wake up early to eat breakfast when the poster eats at night.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "breakfast",
+          "night"
+        ]
+      },
+      "title": {
+        "text": "I Am One Breakfast Time Ahead Of You",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "One Breakfast Time",
+          "one",
+          "breakfast",
+          "time",
+          "ahead"
+        ]
+      },
+      "text": {
+        "text": "My Friend: Wakes up and eats breakfast before school Me who eats breakfast before bed so | can sleep in: ta tanec | Pace 4 sy 4: 95 / at a . . ? , is y ° on ri ; fF Bg af ie Cece —a Jf ve ‘ ° “7 NS amet ene ea Ao ot OR eek ; - ae ; ‘£m : Ar Mh re \\ | See vp \\ (| —_ . ? \\ NV . . iS -™~ ~ 7 f",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Wakes",
+          "breakfast",
+          "school",
+          "bed",
+          "Pace"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "One Breakfast Time",
+      "one",
+      "breakfast",
+      "time",
+      "ahead",
+      "Wakes",
+      "school",
+      "bed",
+      "Pace"
+    ],
+    "secondary_terms": [
+      "the Sanderson sisters",
+      "Hocus Pocus",
+      "the street",
+      "people",
+      "breakfast",
+      "night"
+    ],
+    "queries": [
+      "\"One Breakfast Time\" \"Wakes\" \"Pace\" \"one\"",
+      "\"Pace\" \"one\" \"breakfast\" \"time\""
+    ]
+  },
+  "source_jsonl_id": null
+}

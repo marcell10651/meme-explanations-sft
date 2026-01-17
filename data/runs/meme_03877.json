@@ -1,0 +1,114 @@
+{
+  "meme_id": "meme_03877",
+  "queries": [
+    "\"Sonic\" \"tHe qUaTaRi gOvErMeNt\" \"couldn\" \"care\" \"less\"",
+    "\"care\" \"less\" \"alcohol\" \"quatari\""
+  ],
+  "primary_terms": [
+    "couldn",
+    "care",
+    "less",
+    "tHe qUaTaRi gOvErMeNt",
+    "alcohol",
+    "quatari",
+    "goverment",
+    "banned",
+    "beer",
+    "world",
+    "cup",
+    "doesn",
+    "drink"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Concern#0000",
+      "doc_id": "wikipedia:Concern",
+      "title": "Concern",
+      "url": "https://en.wikipedia.org/?curid=6769649",
+      "source_type": "wikipedia",
+      "score": 0.6396692514419555,
+      "text": "Concern may refer to: Constructs Worry, an emotion Concern (computer science), an abstract concept about program behavior Enterprises and organizations Concern (business), a German type of group company Concern (organisation), a student society at the Indian Institute of Science, India CONCERN Program, a Con Edison program that offers eligible customers a specially trained representative and advice about government aid programs, safety tips, and ways to save money on one's energy bill Concern Worldwide, an Irish charity Other uses Concern (horse), an American Thoroughbred racehorse See also Care (disambiguation) Concerned, a webcomic parodying the video game Half-Life 2 Travel concerns travel guide from Wikivoyage"
+    },
+    {
+      "chunk_id": "wikipedia:Care#0001",
+      "doc_id": "wikipedia:Care",
+      "title": "Care",
+      "url": "https://en.wikipedia.org/?curid=246884",
+      "source_type": "wikipedia",
+      "score": 0.5778128117322922,
+      "text": "English rugby union player Henry Care (1646–1688), English political writer and journalist Peter Care (born 1953), British film and video producer Terry John Care (born 1947), American politician Philosophy and science Care or Sorge, a term in Heideggerian terminology Cura (mythology) or Care, figure in ancient Roman Fabulae of Hyginus..."
+    },
+    {
+      "chunk_id": "wikipedia:Most#0001",
+      "doc_id": "wikipedia:Most",
+      "title": "Most",
+      "url": "https://en.wikipedia.org/?curid=26476214",
+      "source_type": "wikipedia",
+      "score": 0.5730467796325683,
+      "text": "(MoST), a defunct American fabless semiconductor company Most (Croatian political party), a party founded in 2012 Most Radio 105.8 FM, an Indonesian radio station See also MOST (disambiguation) The Most (disambiguation) Must (disambiguation) Moest (disambiguation) All pages with titles beginning with Most All pages with titles beginning..."
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0000",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.5423124164342881,
+      "text": "A drink or beverage is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, juice, smoothies and soft drinks. Traditionally warm beverages encompass coffee, tea, and hot chocolate. Caffeinated drinks that contain the stimulant caffeine, have been consumed for centuries. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the psychoactive substance ethanol, have been part of human culture for more than 8,000 years. Non-alcoholic drinks typically refer to beverages that are traditionally alcoholic—such as beer, wine, or cocktails—but are produced with a very low alcohol by volume content. This category includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines."
+    },
+    {
+      "chunk_id": "wikipedia:Mater#0000",
+      "doc_id": "wikipedia:Mater",
+      "title": "Mater",
+      "url": "https://en.wikipedia.org/?curid=4910553",
+      "source_type": "wikipedia",
+      "score": 0.541362202167511,
+      "text": "Mater is a formal Latin term for mother and may refer to: Places Mater, Belgium, a village near Oudenaarde Health care Australia Mater Hospital, North Sydney, New South Wales Mater Group, Brisbane, Queensland Mater Health Services North Queensland, which incorporates: Mater Hospital Pimlico, Townsville, Queensland Mater Women's and Children's Hospital UK and Ireland Mater Infirmorum Hospital, Belfast, Northern Ireland Mater Misericordiae University Hospital, Dublin, Ireland (the best-known hospital in Ireland that is referred to as the Mater) Mater Private Hospital, Dublin, Ireland New Zealand Mater Misericordiae Hospital, Auckland, now Allevia Hospital Epsom Music Mater, an album by Vladimír Godár \"Mater\", a song by The Beat Fleet from Pistaccio Metallic, 2011 Other uses Mater (Cars), a character in the Disney/Pixar animated film Cars Mater, a major part of an astrolabe M.A.T.E.R., a football (soccer) club in Rome People Juris Māters (1845–1885), Latvian writer and journalist Rudy"
+    },
+    {
+      "chunk_id": "wikipedia:Care#0000",
+      "doc_id": "wikipedia:Care",
+      "title": "Care",
+      "url": "https://en.wikipedia.org/?curid=246884",
+      "source_type": "wikipedia",
+      "score": 0.5362407028675079,
+      "text": "Care may refer to: Organizations and projects CARE (New Zealand), Citizens Association for Racial Equality, a former New Zealand organisation CARE (England) West Midlands, Central Accident Resuscitation Emergency team, a team of doctors & paramedics CARE International, Cooperative for Assistance and Relief Everywhere, an international aid and development organization Carpet America Recovery Effort, an American carpet recycling project Charged Aerosol Release Experiment, a NASA project concerning dust in space Christian Action Research and Education, a Christian lobby group in the United Kingdom Credit Abuse Resistance Education, an American national program Crew Module Atmospheric Re-entry Experiment, a 2014 ISRO experimental vehicle People with the surname Danny Care (soccer) (born 1974), American soccer player Danny Care (born 1987), English rugby union player Henry Care (1646–1688), English political writer and journalist Peter Care (born 1953), British film and video producer"
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0001",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.5348003685474396,
+      "text": "includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines. Biology When the human body becomes dehydrated, a person experiences thirst. This craving of fluids results in an instinctive need to drink. Thirst is regulated by the hypothalamus in response to subtle changes in the body's electrolyte levels, and also as a result..."
+    },
+    {
+      "chunk_id": "wikipedia:Good#0001",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.45070189237594604,
+      "text": "concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect. The first references that are seen in Plato's The Republic to the Form of the Good are within the conversation between Glaucon and Socrates (454c–d). When trying to answer such difficult questions pertaining to the definition of justice..."
+    },
+    {
+      "chunk_id": "wikipedia:Fast#0001",
+      "doc_id": "wikipedia:Fast",
+      "title": "Fast",
+      "url": "https://en.wikipedia.org/?curid=1899768",
+      "source_type": "wikipedia",
+      "score": 0.41358573734760284,
+      "text": "i le Atua Samoa ua Tasi (FAST), a political party in Samoa Fixing America's Surface Transportation Act, passed by the United States Congress Foreign-Deployed Advisory and Support Teams, a former program of the US Drug Enforcement Administration; see Drug Enforcement Administration § Special Response Teams Free and Secure Trade, a Canada..."
+    },
+    {
+      "chunk_id": "wikipedia:More#0001",
+      "doc_id": "wikipedia:More",
+      "title": "More",
+      "url": "https://en.wikipedia.org/?curid=43850",
+      "source_type": "wikipedia",
+      "score": 0.4133511632680893,
+      "text": "2001 More, by Mylon LeFevre, 1983 More, by Resin Dogs, 2007 Songs \"More\" (Alex Alstone and Tom Glazer song), popularized by Perry Como, 1956 \"More\" (Alison Moyet song), 2003 \"More\" (J-Hope song), 2022 \"More\" (K/DA song), 2020 \"More\" (Matthew West song), 2003 \"More\" (Peaches song), 2009 \"More\" (The Sisters of Mercy song),..."
+    }
+  ]
+}

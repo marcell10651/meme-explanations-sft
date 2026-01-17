@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_03527",
+  "queries": [
+    "\"Mrbeast\" \"inthe cookie\" \"money\" \"can\"",
+    "\"money\" \"can\" \"instead\" \"roy\""
+  ],
+  "primary_terms": [
+    "money",
+    "can",
+    "instead",
+    "roy",
+    "Mrbeast",
+    "fax",
+    "inthe cookie"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Money#0001",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.761087816953659,
+      "text": "be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar. The money supply of a country comprises all currency in circulation (banknotes and coins currently issued) and, depending on the particular definition used, one or more types of bank money (the balances held in checking accounts, savings accounts, and other types of bank accounts). Bank money, whose value exists on the books of financial institutions and can be converted..."
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0000",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.6932848453521728,
+      "text": "Cant, CANT, canting, or canted may refer to: Language Cant (language), a secret language Beurla Reagaird, a language of the Scottish Highland Travellers Scottish Cant, a language of the Scottish Lowland Travellers Shelta or the Cant, a language of the Irish Travellers Thieves' cant, a language of criminals Canting arms, heraldic puns on the bearer's name Can't, contraction of cannot Other uses Cant (architecture), part of a facade CANT (aviation) (Cantieri Aeronautici e Navali Triestini), an aircraft manufacturer Cant (log), a log partially processed in a sawmill Cant (road/rail), an angle of a road or track Cant (shooting), referring to a gun being tilted around the longitudinal axis, rather than being horizontally levelled Cant (surname), a family name and persons with it Canting, a tool used in making batik Chris Taylor (Grizzly Bear musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation"
+    },
+    {
+      "chunk_id": "wikipedia:Greedy#0001",
+      "doc_id": "wikipedia:Greedy",
+      "title": "Greedy",
+      "url": "https://en.wikipedia.org/?curid=1376590",
+      "source_type": "wikipedia",
+      "score": 0.5610783755779266,
+      "text": "2019), pseudonym of Andrew McArthur Smith, singer, musician and songwriter with the Australian pop/new wave band Mental As Anything Greedy Vance Jr. (born 2001), American football player Greedy Williams (born 1997), American football player nicknamed \"Greedy\" Jack Greedy (1929–1988), Canadian racing driver, member of the Canadian Motorsport Hall of Fame Fictional characters Greedy Gretchen, a character who appeared in episodes of the American TV sitcoms Three's Company and Three's a Crowd Greedy Smurf, a character in The Smurfs franchise Mr. Greedy, title character of a book in the Mr..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5333996176719665,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0001",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.5056634157896042,
+      "text": "/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers. Cashiers record amounts received, may prepare reports of transactions, and verify cash register totals against cash on hand. A cashier may be required to know value and features of items for which money is received; may cash checks; may give cash refunds..."
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.49693483710289,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:Brand#0001",
+      "doc_id": "wikipedia:Brand",
+      "title": "Brand",
+      "url": "https://en.wikipedia.org/?curid=18950900",
+      "source_type": "wikipedia",
+      "score": 0.45863670110702515,
+      "text": "into the animal's skin with a hot branding iron. If a person stole any of the cattle, anyone else who saw the symbol could deduce the actual owner. The etymology of the word “brand” originates from the Old Norse word \"brandr\" from the 10th Century, which means “to burn\". The term \"brand\" has been extended to mean a strategic personality for a product or company, so that \"brand\" now suggests the values and promises that a consumer..."
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0000",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.4407127171754837,
+      "text": "A retail cashier or simply a cashier is a person who handles the cash register at various locations such as the point of sale in a retail store. The most common use of the title is in the retail industry, but this job title is also used in the context of accountancy for the person responsible for receiving and disbursing money or within branch banking in the United Kingdom for the job known in the United States as a bank teller. Retail In a shop, a cashier (or checkout operator) is an employee who scans the goods that the customer wishes to purchase through a cash register. In most modern stores, the items are scanned by a barcode positioned on the item with the use of a laser scanner. After all of the items have been scanned, the cashier then collects the payment (in cash, check, and/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers."
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0001",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.4401604443788528,
+      "text": "donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture. The photo quickly became popular on the image board 4chan, and social media networks like Facebook and Twitter, depicting \"a guy who can't catch a break [...] a symbol for a stroke of hilarious bad luck\". Notable depictions In 2013, Bad Luck Brian (depicted by Craven himself) featured in a YouTube video sketch..."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.43072709441185,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_04853",
+  "queries": [
+    "\"Water\" \"the same method\" \"the math teacher\" \"work\" \"works\"",
+    "\"the same method\" \"the math teacher\" \"the easier opening\" \"the correct answer\"",
+    "\"the easier opening\" \"the correct answer\" \"the teacher's method\" \"Water\""
+  ],
+  "primary_terms": [
+    "work",
+    "works",
+    "the same method",
+    "the math teacher",
+    "aly"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Working#0001",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.9312901616096496,
+      "text": "1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of occult rituals See also Workin' (disambiguation) Work (disambiguation) Works (disambiguation) All pages with titles containing Working All pages with titles beginning with Working"
+    },
+    {
+      "chunk_id": "wikipedia:Diligence#0000",
+      "doc_id": "wikipedia:Diligence",
+      "title": "Diligence",
+      "url": "https://en.wikipedia.org/?curid=18483349",
+      "source_type": "wikipedia",
+      "score": 0.8660818457603454,
+      "text": "Diligence—carefulness and persistent effort or work—is listed as one of the seven capital virtues. It can be indicative of a work ethic, the belief that work is good in itself. \"There is a perennial nobleness, and even sacredness, in work. Were he never so benighted, forgetful of his high calling, there is always hope in a man that actually and earnestly works: in idleness alone there is perpetual despair.\" —Thomas Carlyle In students Bernard et al. define diligence in students as the effort they put toward balanced and holistic development in mental, physical, social, and spiritual dimensions. They find that it correlates with academic performance, especially with younger students, and that the support of parents and educators encourages students to be diligent. Other factors that encourage student diligence include motivation, discipline, concentration, responsibility, and devotedness."
+    },
+    {
+      "chunk_id": "wikipedia:Teacher#0000",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.8145712673664093,
+      "text": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence, or virtue, via the practice of teaching. Informally the role of teacher may be taken on by anyone (e.g. when showing a colleague how to perform a specific task). In some countries, teaching young people of school age may be carried out in an informal setting, such as within the family (homeschooling), rather than in a formal setting such as a school or college. Some other professions may involve a significant amount of teaching (e.g. youth worker, pastor). In most countries, formal teaching of students is usually carried out by paid professional teachers. This article focuses on those who are employed, as their main role, to teach others in a formal education context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures."
+    },
+    {
+      "chunk_id": "wikipedia:Relaxation#0001",
+      "doc_id": "wikipedia:Relaxation",
+      "title": "Relaxation",
+      "url": "https://en.wikipedia.org/?curid=392638",
+      "source_type": "wikipedia",
+      "score": 0.7825944125652313,
+      "text": "for a natural extension in mathematical optimization or variational problems In computer science: Relaxation (computing), the act of substituting alternative program code during linking In physiology, hypnosis, meditation, recreation: Relaxation (psychology), the emotional state of low tension Relaxation technique, an activity that helps a person to relax..."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0000",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.7329120635986328,
+      "text": "Science is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe. Modern science is typically divided into two – or three – major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies. While referred to as the formal sciences, the study of logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology. Meanwhile, applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine. The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE)."
+    },
+    {
+      "chunk_id": "wikipedia:Reason#0001",
+      "doc_id": "wikipedia:Reason",
+      "title": "Reason",
+      "url": "https://en.wikipedia.org/?curid=42446",
+      "source_type": "wikipedia",
+      "score": 0.7126029580831528,
+      "text": "conclusions. Reasoning may be subdivided into forms of logical reasoning, such as deductive reasoning, inductive reasoning, and abductive reasoning. Aristotle drew a distinction between logical discursive reasoning (reason proper), and intuitive reasoning, in which the reasoning process through intuition—however valid—may tend toward the personal and the subjectively opaque. In some social and political settings logical and intuitive..."
+    },
+    {
+      "chunk_id": "wikipedia:Diligence#0001",
+      "doc_id": "wikipedia:Diligence",
+      "title": "Diligence",
+      "url": "https://en.wikipedia.org/?curid=18483349",
+      "source_type": "wikipedia",
+      "score": 0.7078527361154556,
+      "text": "to be diligent. Other factors that encourage student diligence include motivation, discipline, concentration, responsibility, and devotedness. In Buddhism The last words of the Buddha were, \"Strive on with diligence.\" Diligence is an integral part of all Buddhist teaching, and is considered the fourth of the pāramitā. In Mahayana tradition, diligence is the third pāramitā and the first said to lead to liberation, and it is said..."
+    },
+    {
+      "chunk_id": "wikipedia:Teacher#0001",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.7073594629764557,
+      "text": "context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures. Teachers may provide instruction in literacy and numeracy, craftsmanship or vocational training, the arts, religion, civics, community roles, or life skills. Formal teaching tasks include preparing lessons according to agreed curricula, giving lessons..."
+    },
+    {
+      "chunk_id": "wikipedia:Reason#0000",
+      "doc_id": "wikipedia:Reason",
+      "title": "Reason",
+      "url": "https://en.wikipedia.org/?curid=42446",
+      "source_type": "wikipedia",
+      "score": 0.6806250810623169,
+      "text": "Reason is the capacity of consciously applying logic by drawing valid conclusions from new or existing information, with the aim of seeking truth. It is associated with such characteristically human activities as philosophy, religion, science, language, and mathematics, and is normally considered to be a distinguishing ability possessed by humans. Reason is sometimes referred to as rationality, although the latter is more about its application. Reasoning involves using more-or-less rational processes of thinking and cognition to extrapolate from one's existing knowledge to generate new knowledge, and involves the use of one's intellect. The field of logic studies the ways in which humans can use formal reasoning to produce logically valid arguments and true conclusions. Reasoning may be subdivided into forms of logical reasoning, such as deductive reasoning, inductive reasoning, and abductive reasoning."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0001",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.6286203563213348,
+      "text": "or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'. History An argument over the underlying nature of ideas was opened by Plato, whose exposition of his theory of forms—which recurs and accumulates over the course of his many dialogs—appropriates and adds a new sense to the Greek word for things that are \"seen\" (re. εἶδος) that highlights those elements of perception which..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Water from one pipe missed the easier opening instead falling in a smaller hole.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Water",
+          "one pipe",
+          "the easier opening"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they can arrive at the correct answer in math without using the teacher's method.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the correct answer",
+          "math",
+          "the teacher's method"
+        ]
+      },
+      "title": {
+        "text": "If it work it works",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "work",
+          "works"
+        ]
+      },
+      "text": {
+        "text": "I When you don't use the same method e as the math teacher but you still get e the right answer “t . Ne : \\- . — t. , IN ; of! ~ “. - \" ™! j ; aly aA al a i be ; ) OSS. oe - rN .. be ‘ - al : , an “AD s, uP oon ON SO, . Te Pg Ary fk Ve \\ IX . * sg o A WAL ee UF vJi~ \\ . \\. nie Ss ue pry MeC ly /- Cane \\ 1 NN : ; oR, a a aed Fo é Ny wo: oe s.. Nn) -_ , Nae ( a0 Vs s . ON “ “SSA at Vg , a ‘ . is > * \\ \\ \\ SY He ' / ON EBS if. lox \\ wt ty",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the same method",
+          "the math teacher",
+          "aly"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "work",
+      "works",
+      "the same method",
+      "the math teacher",
+      "aly"
+    ],
+    "secondary_terms": [
+      "Water",
+      "one pipe",
+      "the easier opening",
+      "the correct answer",
+      "math",
+      "the teacher's method"
+    ],
+    "queries": [
+      "\"Water\" \"the same method\" \"the math teacher\" \"work\" \"works\"",
+      "\"the same method\" \"the math teacher\" \"the easier opening\" \"the correct answer\"",
+      "\"the easier opening\" \"the correct answer\" \"the teacher's method\" \"Water\""
+    ]
+  },
+  "source_jsonl_id": null
+}

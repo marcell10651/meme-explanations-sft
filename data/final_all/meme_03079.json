@@ -1,0 +1,215 @@
+{
+  "meme_id": "meme_03079",
+  "queries": [
+    "\"Not a long meaningful think\" \"Reddit\" \"person reddit\" \"reddit made\"",
+    "\"person reddit\" \"reddit made\" \"made\" \"think\""
+  ],
+  "primary_terms": [
+    "Not a long meaningful think",
+    "made",
+    "think",
+    "not",
+    "meaningful",
+    "less",
+    "Reddit",
+    "person reddit",
+    "reddit made",
+    "reading",
+    "sad",
+    "story",
+    "random",
+    "person",
+    "karma",
+    "awe"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.8357646226882934,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0000",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.7957837402820587,
+      "text": "In philosophy and in common usage, an idea (from the Greek word: ἰδέα (idea), meaning 'a form, or a pattern') is the result of thought. Also in philosophy, ideas can also be mental representational images of some object. Many philosophers have considered ideas to be a fundamental ontological category of being. The capacity to create and understand the meaning of ideas is considered to be an essential and defining feature of human beings. An idea arises in a reflexive, spontaneous manner, even without thinking or serious reflection, for example, when we talk about the idea of a person or a place. A new or an original idea can often lead to innovation. Our actions are based upon beliefs, beliefs are patterns or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'."
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.7380781590938568,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Made#0000",
+      "doc_id": "wikipedia:Made",
+      "title": "Made",
+      "url": "https://en.wikipedia.org/?curid=666961",
+      "source_type": "wikipedia",
+      "score": 0.7144891083240509,
+      "text": "Made or MADE may refer to: Entertainment Film Made (1972 film), United Kingdom Made (2001 film), United States Music Made (Big Bang album), 2016 Made (Hawk Nelson album), 2013 Made (Scarface album), 2007 M.A.D.E., 2003 album by Memphis Bleek \"Made\" (Scuba Dice song), 2006 \"Made\" (The Wanted song), 2010 Made (band), a Toronto lo-fi band Television Made (TV series), United States, 2002 to 2014 Companies Made.com, an online furniture retailer in London, United Kingdom MADE Clothing, an American clothing line around 2005 The MADE or The Museum of Art and Digital Entertainment Geography Made (Netherlands), a town in the Netherlands People van der Made - Dutch family name Dalem Di Made (fl."
+    },
+    {
+      "chunk_id": "wikipedia:Hope#0001",
+      "doc_id": "wikipedia:Hope",
+      "title": "Hope",
+      "url": "https://en.wikipedia.org/?curid=50020",
+      "source_type": "wikipedia",
+      "score": 0.6828738272190094,
+      "text": "and joy, courage, and empowerment, drawn from four different areas of one's self: from a cognitive, psychological, social, or physical perspective. Such positive thinking bears fruit when based on a realistic sense of optimism, not on a naive \"false hope\". The psychologist Charles R. Snyder linked hope to the existence of a goal, combined with a determined..."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0001",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.667186176776886,
+      "text": "or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'. History An argument over the underlying nature of ideas was opened by Plato, whose exposition of his theory of forms—which recurs and accumulates over the course of his many dialogs—appropriates and adds a new sense to the Greek word for things that are \"seen\" (re. εἶδος) that highlights those elements of perception which..."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.6516765773296356,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0001",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.6178918749094009,
+      "text": "2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol. 2, 2019 \"Feel\", by Mahmut Orhan, 2016 \"Feel\", by Måneskin from Rush!, 2023 \"Feel\", by Matchbox Twenty from More Than You Think You Are, 2002 \"Feel\", by Phora, 2018 \"Feel\", by Post Malone from Stoney, 2016 \"Feel\", by Stereophonics from Language. Sex. Violence. Other..."
+    },
+    {
+      "chunk_id": "wikipedia:Reason#0000",
+      "doc_id": "wikipedia:Reason",
+      "title": "Reason",
+      "url": "https://en.wikipedia.org/?curid=42446",
+      "source_type": "wikipedia",
+      "score": 0.6087433218955993,
+      "text": "Reason is the capacity of consciously applying logic by drawing valid conclusions from new or existing information, with the aim of seeking truth. It is associated with such characteristically human activities as philosophy, religion, science, language, and mathematics, and is normally considered to be a distinguishing ability possessed by humans. Reason is sometimes referred to as rationality, although the latter is more about its application. Reasoning involves using more-or-less rational processes of thinking and cognition to extrapolate from one's existing knowledge to generate new knowledge, and involves the use of one's intellect. The field of logic studies the ways in which humans can use formal reasoning to produce logically valid arguments and true conclusions. Reasoning may be subdivided into forms of logical reasoning, such as deductive reasoning, inductive reasoning, and abductive reasoning."
+    },
+    {
+      "chunk_id": "wikipedia:Praise#0000",
+      "doc_id": "wikipedia:Praise",
+      "title": "Praise",
+      "url": "https://en.wikipedia.org/?curid=44749915",
+      "source_type": "wikipedia",
+      "score": 0.5964845091104507,
+      "text": "Praise as a form of social interaction expresses recognition, reassurance or admiration. Praise is expressed verbally as well as by body language (facial expression and gestures). Verbal praise consists of a positive evaluations of another's attributes or actions, where the evaluator presumes the validity of the standards on which the evaluation is based. As a form of social manipulation, praise becomes a form of reward and furthers behavioral reinforcement by conditioning. The influence of praise on an individual can depend on many factors, including the context, the meanings the praise may convey, and the characteristics and interpretations of the recipient. While praise may share some predictive relationships (both positive and negative) with tangible (material) rewards, praise tends to be less salient and expected, conveys more information about competence, and is typically given more immediately after the desired behavior."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A woman is crying tears that go directly into glasses in front of her keyboard.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "tears",
+          "glasses",
+          "front",
+          "her keyboard"
+        ]
+      },
+      "meme_captions": {
+        "text": "meme poster has to intentionally do what is expected but in a strange way.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "title": {
+        "text": "This made me do a think. Not a long meaningful think, but a think no less.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Not a long meaningful think",
+          "made",
+          "think",
+          "not",
+          "meaningful",
+          "less"
+        ]
+      },
+      "text": {
+        "text": "Me reading a sad story a random person on Reddit made up for karma: ee -N - of. ’ . : v = \\ VQ VY aN Nt : | awe iy ee ~ x ) _————— — a",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Reddit",
+          "person reddit",
+          "reddit made",
+          "reading",
+          "sad",
+          "story",
+          "random",
+          "person",
+          "made",
+          "karma",
+          "awe"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Not a long meaningful think",
+      "made",
+      "think",
+      "not",
+      "meaningful",
+      "less",
+      "Reddit",
+      "person reddit",
+      "reddit made",
+      "reading",
+      "sad",
+      "story",
+      "random",
+      "person",
+      "karma",
+      "awe"
+    ],
+    "secondary_terms": [
+      "tears",
+      "glasses",
+      "front",
+      "her keyboard"
+    ],
+    "queries": [
+      "\"Not a long meaningful think\" \"Reddit\" \"person reddit\" \"reddit made\"",
+      "\"person reddit\" \"reddit made\" \"made\" \"think\""
+    ]
+  },
+  "source_jsonl_id": null
+}

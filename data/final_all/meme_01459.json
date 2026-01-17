@@ -1,0 +1,211 @@
+{
+  "meme_id": "meme_01459",
+  "queries": [
+    "\"the floor\" \"cleaning\" \"floor\" \"jaya\"",
+    "\"floor\" \"jaya\" \"nothing\" \"see\""
+  ],
+  "primary_terms": [
+    "the floor",
+    "cleaning",
+    "floor",
+    "jaya",
+    "nothing",
+    "see",
+    "here",
+    "yoy",
+    "fas",
+    "somone",
+    "usesra",
+    "bee",
+    "cowks",
+    "wuc"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Floor#0000",
+      "doc_id": "wikipedia:Floor",
+      "title": "Floor",
+      "url": "https://en.wikipedia.org/?curid=82926",
+      "source_type": "wikipedia",
+      "score": 1.0455254435539245,
+      "text": "A floor is the bottom surface of a room or vehicle. Floors vary from simple dirt in a cave to many layered surfaces made with modern technology. Floors may be stone, wood, bamboo, metal, or any other material that can support the expected load. The levels of a building are often referred to as floors, although sometimes referred to as storeys. Floors typically consist of a subfloor for support and a floor covering used to give a good walking surface. In modern buildings, the subfloor often has electrical wiring, plumbing, and other services built in. As floors must meet many needs, some essential to safety, floors are built to strict building codes in some regions. Special floor structures Where a special floor structure like a floating floor is laid upon another floor, both may be called subfloors."
+    },
+    {
+      "chunk_id": "wikipedia:Soap#0001",
+      "doc_id": "wikipedia:Soap",
+      "title": "Soap",
+      "url": "https://en.wikipedia.org/?curid=57875",
+      "source_type": "wikipedia",
+      "score": 0.7658201873302459,
+      "text": "(sodium) or K (potassium). When used for cleaning, soap solubilizes particles and grime, which can then be separated from the article being cleaned. The insoluble oil/fat \"dirt\" become associated inside micelles, tiny spheres formed from soap molecules with polar hydrophilic (water-attracting) groups on the outside and encasing a lipophilic (fat-attracting) pocket..."
+    },
+    {
+      "chunk_id": "wikipedia:Room#0000",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.6190925300121307,
+      "text": "In a building or a ship, a room is any enclosed space within a number of walls to which entry is possible only via a door or other dividing structure. The entrance connects it to either a passageway, another room, or the outdoors. The space is typically large enough for several people to move about. The size, fixtures, furnishings, and sometimes placement of the room within the building or ship (or sometimes a train) support the activity to be conducted in it. History Historically, the use of rooms dates at least to early Minoan cultures about 2200 BC, where excavations at Akrotiri on Santorini reveal clearly defined rooms within certain structures. In early structures, the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses."
+    },
+    {
+      "chunk_id": "wikipedia:Naruto#0000",
+      "doc_id": "wikipedia:Naruto",
+      "title": "Naruto",
+      "url": "https://en.wikipedia.org/?curid=232190",
+      "source_type": "wikipedia",
+      "score": 0.5401543140411377,
+      "text": "Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young, socially isolated ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village. The story is told in two parts: the first is set in Naruto's pre-teen years (volumes 1–27), and the second in his teens (volumes 28–72). The series is based on two one-shot manga by Kishimoto: Karakuri (1995), which earned Kishimoto an honorable mention in Shueisha's monthly Hop Step Award the following year, and Naruto (1997). Naruto was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from September 1999 to November 2014, with its 700 chapters collected in 72 tankōbon volumes. Viz Media licensed the manga for North American production and serialized Naruto in their digital Weekly Shonen Jump magazine."
+    },
+    {
+      "chunk_id": "wikipedia:Maybe#0001",
+      "doc_id": "wikipedia:Maybe",
+      "title": "Maybe",
+      "url": "https://en.wikipedia.org/?curid=3627756",
+      "source_type": "wikipedia",
+      "score": 0.5222674965858459,
+      "text": "from 22, 2022 \"Maybe\", a song by Dave Gahan released as a B-side on the single \"Dirty Sticky Floors\", 2003 \"Maybe\", a song by Estelle from The 18th Day, 2004 \"Maybe\", a song by (G)I-dle from I Trust, 2020 \"Maybe (Duet Version)\", a song by Gotthard from Bang!, 2014 \"Maybe\", a song by Harry Nilsson from Harry, 1969 \"Maybe\", a song by..."
+    },
+    {
+      "chunk_id": "wikipedia:Room#0001",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.5054534375667572,
+      "text": "the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses. The aforementioned Akrotiri excavations reveal rooms sometimes built above other rooms connected by staircases, bathrooms with alabaster appliances such as washbasins, bathing tubs, and toilets, all connected to an elaborate twin plumbing systems of ceramic pipes for cold and hot water separately. Ancient Rome manifested very complex building forms with a variety of room..."
+    },
+    {
+      "chunk_id": "wikipedia:Tanna#0001",
+      "doc_id": "wikipedia:Tanna",
+      "title": "Tanna",
+      "url": "https://en.wikipedia.org/?curid=4651537",
+      "source_type": "wikipedia",
+      "score": 0.5003441333770752,
+      "text": "2015 film set on the island of Tanna, Vanuatu Tanna languages, a subgroup of the South Vanuatu languages See also Tana (disambiguation) All pages with titles beginning with Tanna All pages with titles containing Tanna"
+    },
+    {
+      "chunk_id": "wikipedia:Table#0000",
+      "doc_id": "wikipedia:Table",
+      "title": "Table",
+      "url": "https://en.wikipedia.org/?curid=274698",
+      "source_type": "wikipedia",
+      "score": 0.4832542598247528,
+      "text": "Table may refer to: Table (database), how the table data arrangement is used within the databases Table (furniture), a piece of furniture with a flat surface and one or more legs Table (information), a data arrangement with rows and columns Table (landform), a flat area of land Table (parliamentary procedure) Table (sports), a ranking of the teams in a sports league Tables (board game) Mathematical table Tables of the skull, a term for the flat bones Table, surface of the sound board (music) of a string instrument Al-Ma'ida, the fifth surah of the Qur'an, occasionally translated as “The Table” Calligra Tables, a spreadsheet application Water table See also Spreadsheet, a computer application Table cut, a type of diamond cut The Table (disambiguation) Table Mountain (disambiguation) Table Rock (disambiguation) Tabler (disambiguation) Tablet (disambiguation) All pages with titles beginning with Table All pages with titles containing Table All pages with titles beginning with Tabular All"
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.47449323534965515,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.47431482970714567,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A animal is carrying some cleaning product with him.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "some cleaning product",
+          "him"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they have ulterior motives for their bleach and alcohol.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "ulterior motives",
+          "their bleach",
+          "alcohol"
+        ]
+      },
+      "title": {
+        "text": "Just cleaning the floor.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the floor",
+          "cleaning",
+          "floor"
+        ]
+      },
+      "text": {
+        "text": "~jaYa o Nothing to see here ! f; fa a me ’ , : ~ 425 ao _ + & oo : | , ee yoy fas — somone usesra=e ~ ; or os Bee! \" a | | COWKS) te WUC Ja",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "jaya",
+          "nothing",
+          "see",
+          "here",
+          "yoy",
+          "fas",
+          "somone",
+          "usesra",
+          "bee",
+          "cowks",
+          "wuc"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the floor",
+      "cleaning",
+      "floor",
+      "jaya",
+      "nothing",
+      "see",
+      "here",
+      "yoy",
+      "fas",
+      "somone",
+      "usesra",
+      "bee",
+      "cowks",
+      "wuc"
+    ],
+    "secondary_terms": [
+      "some cleaning product",
+      "him",
+      "ulterior motives",
+      "their bleach",
+      "alcohol"
+    ],
+    "queries": [
+      "\"the floor\" \"cleaning\" \"floor\" \"jaya\"",
+      "\"floor\" \"jaya\" \"nothing\" \"see\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,190 @@
+{
+  "meme_id": "meme_03786",
+  "queries": [
+    "\"the World Cup\" \"Paint Dry\" \"Person\" \"watching\"",
+    "\"Person\" \"watching\" \"paint\" \"better\""
+  ],
+  "primary_terms": [
+    "Paint Dry",
+    "watching",
+    "paint",
+    "better",
+    "the World Cup",
+    "Person",
+    "pov",
+    "went",
+    "world",
+    "cup"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Artist#0000",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.6945897102355957,
+      "text": "An artist is a person engaged in creating art, or practicing the arts. The most common usage in everyday speech and academic discourse refers to a practitioner in the visual arts only. However, the term is also very widely used in the entertainment business to refer to actors, musicians, singers, dancers , and other performers. The French word artiste is sometimes used in English in this context, although this has become old-fashioned. The use of the term \"artist\" to describe writers is valid, but less common, and mostly restricted to contexts such as critics' reviews; \"author\" is generally used instead. While the use of the word 'artist' is common, there is no agreed upon definition of art—this makes the definition of who is and is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art."
+    },
+    {
+      "chunk_id": "wikipedia:Drawing#0001",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.5368238091468811,
+      "text": "and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas. The wide availability of drawing instruments makes drawing one of the most common artistic activities. In addition to its more artistic forms, drawing is frequently used in commercial illustration, animation, architecture,..."
+    },
+    {
+      "chunk_id": "wikipedia:Game#0001",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.5073282122612,
+      "text": "may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports. All games must have a challenge and a structure; barring certain exceptions like sandbox games, all games also have an objective. Multiplayer games also include interaction between two or more players. Not all forms of play are considered games; toys and puzzles, for instance, are not games, as they do not have a..."
+    },
+    {
+      "chunk_id": "wikipedia:Christ in the House of His Parents#0001",
+      "doc_id": "wikipedia:Christ in the House of His Parents",
+      "title": "Christ in the House of His Parents",
+      "url": "https://en.wikipedia.org/?curid=7684921",
+      "source_type": "wikipedia",
+      "score": 0.5059527814388275,
+      "text": "Anne, removes the nail with a pair of pincers, his concerned mother, Mary, offers her cheek for a kiss. Joseph examines Jesus's wounded hand. A young boy, who would later be known as John the Baptist, brings in water to wash the wound, prefiguring his later baptism of Christ. An assistant of Joseph, who represents Jesus's future Apostles, observes these events. In the background of the painting various..."
+    },
+    {
+      "chunk_id": "wikipedia:Medium#0001",
+      "doc_id": "wikipedia:Medium",
+      "title": "Medium",
+      "url": "https://en.wikipedia.org/?curid=19967",
+      "source_type": "wikipedia",
+      "score": 0.4940497577190399,
+      "text": "media List of art media (plural: media), materials and techniques used by an artist to produce a work Medium (band), an American rock band Medium (TV series), an American television series starring Patricia Arquette about a medium (psychic intermediary) working as a consultant for a district attorney's office Medium Productions..."
+    },
+    {
+      "chunk_id": "wikipedia:Appearance#0000",
+      "doc_id": "wikipedia:Appearance",
+      "title": "Appearance",
+      "url": "https://en.wikipedia.org/?curid=8104650",
+      "source_type": "wikipedia",
+      "score": 0.48134157061576843,
+      "text": "Appearance may refer to: Visual appearance, the way in which objects reflect and transmit light Human physical appearance, what someone looks like Appearances (film), a 1921 film directed by Donald Crisp Appearance (philosophy), or phenomenon Phantasiai, a term in ancient Greek philosophy variously translated as \"appearances,\" \"impressions,\" \"presentations,\" and \"representations.\" Appearance (law), the coming into court of either of the parties to a suit, and/or the formal act by which a defendant submits himself to the jurisdiction of the court. Appear or Appears may refer to: \"Appear\" (나타나) a song from Secret Garden OST (2010), by Kim Bum-soo."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.4795569896697998,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Drawing#0000",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.46553030610084534,
+      "text": "Drawing is a visual art that uses an instrument to mark paper or another two-dimensional surface, or a digital representation of such. Traditionally, the instruments used to create a drawing include pencils, crayons, and ink pens, sometimes in combination. More modern tools include computer styluses with mice and graphics tablets and gamepads in VR drawing software. A drawing instrument releases a small amount of material onto a surface, leaving a visible mark. There are many drawing instruments such as pen, pencils, pastel, crayons, markers, color pencils, water color, and more. The most common support for drawing is paper, although other materials, such as cardboard, vellum, wood, plastic, leather, canvas, and board, have been used. Temporary drawings may be made on a blackboard or whiteboard. Drawing has been a popular and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas."
+    },
+    {
+      "chunk_id": "wikipedia:Better#0000",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.45947635769844053,
+      "text": "Better may refer to: \"to better\" as a verb, meaning to undergo betterment better, an alternate spelling of bettor, someone who bets (gambles) Music Albums Better (Chrisette Michele album), 2013 Better (Brian McKnight album), 2016 Better (Haley Reinhart album), 2016 Better (BoA album), 2020 Songs \"Better\" (The Screaming Jets song), 1991 \"Better\" (Brooke Fraser song), 2003 \"Better\" (Tom Baxter song)\", 2007, covered by Boyzone in 2008 \"Better\" (Guns N' Roses song), 2008 \"Better\" (Maggie Rose song), 2012 \"Better\" (Kim Hyung-jun song), 2014 \"Better\" (Banks song), 2015 \"Better\" (Haley Reinhart song), 2016 \"Better\" (Meghan Trainor song), 2016 \"Better\" (Mallrat song), 2017 \"Better\" (Khalid song), 2018 \"Better\" (Lena Meyer-Landrut and Nico Santos song), 2019 \"Better\" (Twice song), 2020 \"Better\" (Zayn song), 2020 \"Better\" (MK and Burns song), 2022 \"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000"
+    },
+    {
+      "chunk_id": "wikipedia:Appearance#0001",
+      "doc_id": "wikipedia:Appearance",
+      "title": "Appearance",
+      "url": "https://en.wikipedia.org/?curid=8104650",
+      "source_type": "wikipedia",
+      "score": 0.45104122161865234,
+      "text": "submits himself to the jurisdiction of the court. Appear or Appears may refer to: \"Appear\" (나타나) a song from Secret Garden OST (2010), by Kim Bum-soo. \"Appears\", a song released by Ayumi Hamasaki in 1999 Appearing may refer to: Appearing (media consultants) - \"Appearing\", broadcast media promotion consultants, a PR agency headed by Scott Piering See also All pages with titles beginning with Appearance All pages with titles containing Appearance Apparition (disambiguation), any instance of appearing, but usually referring to a supernatural phenomenon Cap (sport) in some sports is a metaphorical term for a player's appearance on a select team, such as a national team"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "4 men sit in a dark room looking disinterested.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that the World Cup is boring.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the World Cup"
+        ]
+      },
+      "title": {
+        "text": "Watching Paint Dry would be better.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Paint Dry",
+          "watching",
+          "paint",
+          "better"
+        ]
+      },
+      "text": {
+        "text": "POV: You went to the World Cup in Person —_—_,, U | 1 i| a rn Ez a - { Ly Sy",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the World Cup",
+          "Person",
+          "pov",
+          "went",
+          "world",
+          "cup"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Paint Dry",
+      "watching",
+      "paint",
+      "better",
+      "the World Cup",
+      "Person",
+      "pov",
+      "went",
+      "world",
+      "cup"
+    ],
+    "secondary_terms": [
+      "the World Cup"
+    ],
+    "queries": [
+      "\"the World Cup\" \"Paint Dry\" \"Person\" \"watching\"",
+      "\"Person\" \"watching\" \"paint\" \"better\""
+    ]
+  },
+  "source_jsonl_id": null
+}

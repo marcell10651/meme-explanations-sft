@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_00794",
+  "queries": [
+    "\"When the toy\" \"know\" \"tons\" \"accesories\"",
+    "\"When the toy\" \"a well paying job\" \"his sunglasses\" \"his shirt\"",
+    "\"his sunglasses\" \"his shirt\" \"his chest\" \"the kind\""
+  ],
+  "primary_terms": [
+    "know",
+    "When the toy",
+    "tons",
+    "accesories",
+    "ajob"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Sunglasses#0000",
+      "doc_id": "wikipedia:Sunglasses",
+      "title": "Sunglasses",
+      "url": "https://en.wikipedia.org/?curid=173759",
+      "source_type": "wikipedia",
+      "score": 0.7150362193584442,
+      "text": "Sunglasses or sun glasses (informally called shades or sunnies; more names below) are a form of protective eyewear designed primarily to prevent bright sunlight and high-energy visible light from damaging or discomforting the eyes. They can sometimes also function as a visual aid, as variously termed spectacles or glasses exist, featuring lenses that are colored, polarized or darkened. In the early 20th century, they were also known as sun cheaters (cheaters then being an American slang term for glasses). Since the 1930s, sunglasses have been a popular fashion accessory, especially on the beach. The American Optometric Association recommends wearing sunglasses that block ultraviolet radiation (UV) whenever a person is in the sunlight to protect the eyes from UV and blue light, which can cause several serious eye problems."
+    },
+    {
+      "chunk_id": "wikipedia:Glasses#0000",
+      "doc_id": "wikipedia:Glasses",
+      "title": "Glasses",
+      "url": "https://en.wikipedia.org/?curid=74844",
+      "source_type": "wikipedia",
+      "score": 0.6859131515026092,
+      "text": "Glasses, also known as eyeglasses, spectacles, or colloquially as specs, are vision eyewear with clear or tinted lenses mounted in a frame that holds them in front of a person's eyes, typically utilizing a bridge over the nose and hinged arms, known as temples or temple pieces, that rest over the ears for support. Glasses are typically used for vision correction, such as with reading glasses and glasses used for nearsightedness; however, without the specialized lenses, they are also at times used for cosmetic purposes. Safety glasses are eye protection, a form of personal protective equipment (PPE) that are worn by workers around their eyes for protection. Safety glasses act as a shield to protect the eyes from any type of foreign debris that may cause irritation or injury; these glasses may have protection on the sides of the eyes as well as in the lenses. Some types of safety glasses are used to protect against visible and near-visible light or radiation."
+    },
+    {
+      "chunk_id": "wikipedia:Praise#0000",
+      "doc_id": "wikipedia:Praise",
+      "title": "Praise",
+      "url": "https://en.wikipedia.org/?curid=44749915",
+      "source_type": "wikipedia",
+      "score": 0.6097539812326431,
+      "text": "Praise as a form of social interaction expresses recognition, reassurance or admiration. Praise is expressed verbally as well as by body language (facial expression and gestures). Verbal praise consists of a positive evaluations of another's attributes or actions, where the evaluator presumes the validity of the standards on which the evaluation is based. As a form of social manipulation, praise becomes a form of reward and furthers behavioral reinforcement by conditioning. The influence of praise on an individual can depend on many factors, including the context, the meanings the praise may convey, and the characteristics and interpretations of the recipient. While praise may share some predictive relationships (both positive and negative) with tangible (material) rewards, praise tends to be less salient and expected, conveys more information about competence, and is typically given more immediately after the desired behavior."
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0000",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.60045907497406,
+      "text": "Kyle Edward Craven (born August 10, 1989), commonly known by his Internet nickname \"Bad Luck Brian\", is an American Internet celebrity known for his photo which was posted on Reddit in 2012, which quickly became a popular Internet meme. Bad Luck Brian is an image macro style of meme. His captions describe a variety of unlucky, embarrassing and tragic events. Meme Origin On January 23, 2012, at 2:15 UTC, Ian Davies uploaded a photo to Reddit of his friend Kyle Craven. Craven and Davies both attended Archbishop Hoban High School in Akron, Ohio. The photo which became Bad Luck Brian was originally taken for the high school's 2005–06 yearbook. Craven stated that he rubbed his face with a sweater to redden it and donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture."
+    },
+    {
+      "chunk_id": "wikipedia:Glasses#0001",
+      "doc_id": "wikipedia:Glasses",
+      "title": "Glasses",
+      "url": "https://en.wikipedia.org/?curid=74844",
+      "source_type": "wikipedia",
+      "score": 0.5752007514238358,
+      "text": "the sides of the eyes as well as in the lenses. Some types of safety glasses are used to protect against visible and near-visible light or radiation. Glasses are worn for eye protection in some sports, such as squash. Glasses wearers may use a strap to prevent the glasses from falling off. Wearers of glasses that are used only part of the time may have the glasses attached to..."
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0001",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.5349607765674591,
+      "text": "donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture. The photo quickly became popular on the image board 4chan, and social media networks like Facebook and Twitter, depicting \"a guy who can't catch a break [...] a symbol for a stroke of hilarious bad luck\". Notable depictions In 2013, Bad Luck Brian (depicted by Craven himself) featured in a YouTube video sketch..."
+    },
+    {
+      "chunk_id": "wikipedia:In His Image#0000",
+      "doc_id": "wikipedia:In His Image",
+      "title": "In His Image",
+      "url": "https://en.wikipedia.org/?curid=4401031",
+      "source_type": "wikipedia",
+      "score": 0.5276597499847412,
+      "text": "\"In His Image\" is an episode of the American television anthology series The Twilight Zone aired on January 3, 1963. This was the first episode of the fourth season. Each episode was expanded to an hour (with commercials) from \"In His Image\" until \"The Bard\". The fourth season is the only season of The Twilight Zone to have each episode one hour long. In this episode, a man finds his hometown is suddenly inconsistent with his memories of it and begins experiencing irrational urges to commit murder, two mysteries which together lead him to an unpleasant discovery about his identity. Opening narration What you have just witnessed could be the end of a particularly terrifying nightmare. It isn't – it's the beginning. Although Alan Talbot doesn't know it, he's about to enter a strange new world, too incredible to be real, too real to be a dream. It's called The Twilight Zone. Plot While waiting in a subway station, Alan Talbot is approached by an evangelist."
+    },
+    {
+      "chunk_id": "wikipedia:Sunglasses#0001",
+      "doc_id": "wikipedia:Sunglasses",
+      "title": "Sunglasses",
+      "url": "https://en.wikipedia.org/?curid=173759",
+      "source_type": "wikipedia",
+      "score": 0.503866970539093,
+      "text": "radiation (UV) whenever a person is in the sunlight to protect the eyes from UV and blue light, which can cause several serious eye problems. Their usage is mandatory immediately after some surgical procedures, such as LASIK, and recommended for a certain time period in dusty areas, when leaving the house and in front of a TV screen or computer monitor after LASEK. Dark glasses that do not block UV radiation can be more damaging to the eyes than not wearing eye protection at all, because they tend to open..."
+    },
+    {
+      "chunk_id": "wikipedia:Homies (toy)#0000",
+      "doc_id": "wikipedia:Homies (toy)",
+      "title": "Homies (toy)",
+      "url": "https://en.wikipedia.org/?curid=1380153",
+      "source_type": "wikipedia",
+      "score": 0.5035975724458694,
+      "text": "Homies are a series of two-inch plastic collectible figurines representing various Chicano Mexican American characters. The line of toys was created by David Gonzales and based on a comic strip that Gonzales created featuring a cast of characters from his youth. Introduced in the year 1998, Homies were initially sold in grocery store vending machines and have become a highly collectible item, and have spawned many imitation toys. Background and history Gonzales began drawing comics while he was in high school. His amateur comic strip was called The Adventures of Chico Loco, and the characters were based on \"barrio guys,\" as Gonzales grew up on the tough streets of a poverty-ridden Mexican-American neighborhood. The main character, based on Gonzales himself, was called \"Hollywood.\" The strip, which later changed its title to The Adventures of Hollywood, was picked up by Lowrider magazine and published monthly."
+    },
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0001",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.4895436465740204,
+      "text": "What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help. Early episodes featured both men and women; however, as the men's transformations did not prove to be as remarkable, all later episodes featured women exclusively. Some episodes featured both the nominee and the nominator being..."
+    }
+  ]
+}

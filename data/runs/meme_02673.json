@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_02673",
+  "queries": [
+    "\"the very best N Pokemon trainer\" \"Pokemon Journeys\" \"Ash\" \"Leon\"",
+    "\"the very best N Pokemon trainer\" \"the best Pokemon trainer\" \"Pokemon Journeys\" \"The man\"",
+    "\"Pokemon Journeys\" \"The man\" \"Pokemon fan\" \"Ash\""
+  ],
+  "primary_terms": [
+    "Ash",
+    "Leon",
+    "Today",
+    "Pokemon Journeys",
+    "the very best N Pokemon trainer"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0000",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.8434848189353943,
+      "text": "Rubeus Hagrid () is a fictional character in the Harry Potter series of novels by J. K. Rowling. He was introduced in Harry Potter and the Philosopher's Stone (1997) as a half-giant who is the gamekeeper and groundskeeper at the wizarding school Hogwarts. He is a member of the Order of the Phoenix and eventually becomes the Care of Magical Creatures professor. Hagrid is portrayed by Robbie Coltrane in all eight Harry Potter films. Creation and development Rubeus Hagrid was one of the first characters Rowling created. In a 1999 interview, she explained that the name \"Hagrid\" is an Old English word, referring to hagridden, meaning 'tormented by hags'. She said it means \"you'd had a bad night\" and she explained that Hagrid \"has a lot of bad nights\" due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\"."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0000",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.8088802248239517,
+      "text": "Strongest Deliveryman (Korean: 최강 배달꾼; RR: Choegang baedalkkun) is a 2017 South Korean television series starring Go Kyung-pyo, Chae Soo-bin, Kim Seon-ho, and Go Won-hee. It premiered on August 4, 2017, and aired every Friday and Saturday at 23:00 (KST) on KBS2 until September 23, 2017. Synopsis Choi Kang-soo is a deliveryman who wants to become the CEO of his own delivery app company. The series tells of his journey to achieving love and success. Cast Main Go Kyung-pyo as Choi Kang-soo A veteran deliveryman who puts his life on the line at whatever he does. Chae Soo-bin as Lee Dan-ah A delivery woman who is so single-minded about making money and escaping from \"Hell Joseon\" that she turns down all advances from men. Kim Seon-ho as Oh Jin-kyu A rich man's son, the former Head Manager of Jung Family Seollongtang, he is stubborn at first but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home."
+    },
+    {
+      "chunk_id": "wikipedia:Albus Dumbledore#0000",
+      "doc_id": "wikipedia:Albus Dumbledore",
+      "title": "Albus Dumbledore",
+      "url": "https://en.wikipedia.org/?curid=45322",
+      "source_type": "wikipedia",
+      "score": 0.7616175711154938,
+      "text": "Albus Dumbledore is a fictional character in the Harry Potter series of novels by J. K. Rowling. For most of the series, he is the headmaster of the wizarding school Hogwarts. He is also the founder and leader of the Order of the Phoenix, an organisation dedicated to fighting the Dark wizard Lord Voldemort. In the novels, Dumbledore is widely regarded as one of the most powerful and influential wizards of his time. Renowned for his wisdom, kindness, and formidable magical abilities, he plays a crucial role in shaping the events of the wizarding world. As a mentor to Harry Potter, he provides guidance and crucial knowledge in the fight against Voldemort. Despite his benevolent image, Dumbledore's past is marked by tragedy and complexity, including his youthful association with Gellert Grindelwald, a dark wizard he later defeated. His philosophical views on power, love, and death are central themes in the series."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.6213476657867432,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0000",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.6021128743886948,
+      "text": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Granger, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's conflict with Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and non-magical people, known in-universe as Muggles. The series was originally published in English by Bloomsbury in the United Kingdom and Scholastic Press in the United States. A series of many genres, including fantasy, drama, coming-of-age fiction, and the British school story (which includes elements of mystery, thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0001",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.5944369733333588,
+      "text": "but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home. Supporting People around Kang-soo Kim Kyung-nam as Sung-jae Kang-soo's friend who is also a deliveryman. Kim Ki-doo as Baek Gong-gi A martial artist who is a leader of the Holy..."
+    },
+    {
+      "chunk_id": "wikipedia:Doctor#0001",
+      "doc_id": "wikipedia:Doctor",
+      "title": "Doctor",
+      "url": "https://en.wikipedia.org/?curid=662249",
+      "source_type": "wikipedia",
+      "score": 0.5669632703065872,
+      "text": "Doctor, in video game Cave Story The Doctor (Star Trek) The Doctor, or Scalpel, in the Transformers film series The Doctor or Cobra Commander, in G.I. Joe: A Real American Hero The Doctor, in Little Nightmares II Minoru Kamiya, also known as Doctor, in YuYu Hakusho The Doctor (Squid Game), also known as Byeong-yi or Player 111 Film Doctor (film series), British comedy films of the 1950s–1960s Doctor (1963 film), an Indian Malayalam-language film Doctor (2013 film), a South Korean horror film Doctor (2021 film), an Indian Tamil-language film Doctor (2023 film), a Russian drama The Doctor (1991 film), an American drama The Doctor (2013 film), about basketball player Julius Erving Music ��4�..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.5608254671096802,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Adian Pitkeev#0000",
+      "doc_id": "wikipedia:Adian Pitkeev",
+      "title": "Adian Pitkeev",
+      "url": "https://en.wikipedia.org/?curid=40409795",
+      "source_type": "wikipedia",
+      "score": 0.5270670354366302,
+      "text": "Adian Yuryevich Pitkeev (Russian: Адьян Юрьевич Питкеев; born 16 May 1998) is a Russian former figure skater. The 2015 Russian national bronze medalist, he has won one medal on the Grand Prix series and two on the ISU Challenger Series. On the junior level, he is the 2014 World Junior silver medalist, the 2013–14 JGP Final silver medalist, and the 2013 European Youth Olympic champion. Personal life Adian Pitkeev was born on 16 May 1998 in Moscow. Career After watching Alexei Yagudin at the 2002 Olympics, Pitkeev expressed interest in skating to his mother, who brought him to an ice rink. Olga Volobueva coached him until 2009. He then joined Eteri Tutberidze's group at Olympic School No. 37. 2012–13 season Pitkeev debuted internationally in the 2012–13 season, placing sixth in the United States and eighth in Slovenia on the Junior Grand Prix (JGP) series. At the Russian Nationals, he was 15th in his senior-level debut and then fourth behind Alexander Petrov on the junior level."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0000",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.5171990245580673,
+      "text": "Nobody most often refers to: Nobody, an indefinite pronoun Nobody may also refer to: Fictional characters Nobody (Kingdom Hearts), a race of beings in the Kingdom Hearts video game series Nobody (Devil May Cry), a demon appearing in Devil May Cry Nobody, a character in the Jim Jarmusch films Dead Man and Ghost Dog: The Way of the Samurai Nobody, a character in the 1973 Italian film My Name Is Nobody Nobody, a character in the Teenage Mutant Ninja Turtles franchise Odysseus, who used the name \"nobody\" in his battle against Polyphemus Film and television Nobody (1921 film), an American silent film \"The Nobody\" (The Amazing World of Gumball), a 2015 TV episode \"Nobody\" (Folklore), a 2018 TV episode Nobody (2021 film), American thriller film Nobody (2025 film), Chinese animated film Music Nobody (producer) (born 1977), American record producer Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs"
+    }
+  ]
+}

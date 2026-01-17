@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_00886",
+  "queries": [
+    "\"Tom Brady's kids\" \"Madden\" \"real catch\" \"someday\"",
+    "\"real catch\" \"someday\" \"play\" \"catch\""
+  ],
+  "primary_terms": [
+    "real catch",
+    "someday",
+    "play",
+    "catch",
+    "Tom Brady's kids",
+    "Madden",
+    "time",
+    "dad"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Play#0001",
+      "doc_id": "wikipedia:Play",
+      "title": "Play",
+      "url": "https://en.wikipedia.org/?curid=923188",
+      "source_type": "wikipedia",
+      "score": 0.6319003164768219,
+      "text": "and also known as Raftaar 24 x 7 The Play (film), a 2013 Indian Bengali-language film Aattam or The Play, a 2024 Indian Malayalam-language film Games and sports Gameplay Play from scrimmage in American and Canadian football The Play (American football), a famous last-second kickoff return by the California Golden Bears to beat the..."
+    },
+    {
+      "chunk_id": "wikipedia:Ever#0001",
+      "doc_id": "wikipedia:Ever",
+      "title": "Ever",
+      "url": "https://en.wikipedia.org/?curid=749143",
+      "source_type": "wikipedia",
+      "score": 0.6033653080463409,
+      "text": "footballer Ever Anderson (born 2007), actress and model Ever Caballero (born 1982), Paraguayan footballer Ever Cantero (born 1985), Paraguayan footballer Ever Carradine (born 1974), American actress and the daughter of Robert Carradine Éver Guzmán (born 1988), Mexican football (soccer) player Ever Hernández (born 1958), retired football..."
+    },
+    {
+      "chunk_id": "wikipedia:Walkin#0001",
+      "doc_id": "wikipedia:Walkin",
+      "title": "Walkin",
+      "url": "https://en.wikipedia.org/?curid=33627004",
+      "source_type": "wikipedia",
+      "score": 0.5988751620054245,
+      "text": "barren sand dunes, children playing on a swing set, and villains trying to kill him. He collapses on his knees several times throughout the journey. In the end, Curry faces off with his archenemy John Wayne in a cinematic showdown, successfully defeating him. Remixes An official remix of the song featuring American rapper Key Glock was released on June 1, 2022. In his verse,..."
+    },
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.5987682908773422,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0000",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.5833190143108368,
+      "text": "Snap or SNAP may refer to: Supplemental Nutrition Assistance Program, a food program for low-income families administered by the United States Department of Agriculture Arts and entertainment Snap (film), the initial release title for the 2013 film Enter the Dangerous Mind The Stanly News and Press, a newspaper in Albemarle, North Carolina, US \"Snap\" (Duty Free), a 1984 TV episode Games and sports Snap (gridiron football), the start of a play in gridiron football Scalable Network Application Package, an online gaming platform Pokémon Snap, a 1999 Japanese video game New Pokémon Snap, the 2021 sequel Snap, any putdown used in the Dozens Card games Snap (card game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap!"
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0001",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.5730311274528503,
+      "text": "\"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV from Oshin, 2012 \"Wait\", by Doechii from Alligator Bites Never Heal, 2024 \"Wait\", by Earth, Wind & Fire from I Am, 1979 \"Wait\", by Everyday Sunday from Sleeper, 2001 \"Wait\", by The Kills..."
+    },
+    {
+      "chunk_id": "wikipedia:Trick#0000",
+      "doc_id": "wikipedia:Trick",
+      "title": "Trick",
+      "url": "https://en.wikipedia.org/?curid=274735",
+      "source_type": "wikipedia",
+      "score": 0.554870891571045,
+      "text": "Trick(s) may refer to: People Trick McSorley (1852–1936), American professional baseball player Armon Trick (born 1978), retired German international rugby union player David Trick (born 1955), former Ontario civil servant and university administrator Marcus Trick (born 1977), retired German international rugby union player Stanley Arthur Trick (1884–1958), English cricketer for Essex Stephanie Trick (born 1987), American stride, ragtime and jazz pianist Trick Daddy (born 1974), American rapper and producer Trick-Trick (born 1973), Detroit rapper Junaid Hussain (1994–2015), British hacker and propagandist who used the alias TriCk Arts, entertainment, and media Films Tricks (1925 film), American silent film Trick (1999 film), American gay romantic-comedy Tricks (1997 film), TV movie; see Jay Friedkin Tricks (2007 film), Polish film by Andrzej Jakimowski Trick (2010 film), Polish film by Jan Hryniak Trick (2019 film), American Halloween-themed horror film The Trick (film), a 2021 BBC"
+    },
+    {
+      "chunk_id": "wikipedia:Legendary#0001",
+      "doc_id": "wikipedia:Legendary",
+      "title": "Legendary",
+      "url": "https://en.wikipedia.org/?curid=541707",
+      "source_type": "wikipedia",
+      "score": 0.5495864897966385,
+      "text": "Daya, 2015 \"Legendary\", by Royce da 5'9\" from Success Is Certain, 2011 \"Legendary\", by Skillet from Victorious, 2019 \"Legendary\", by Joey Badass from All-Amerikkkan Badass, 2017 \"Legendary\", by Jorge Rivera-Herrans from Epic: The Musical, 2024 \"Legendary\" (Bon Jovi song), 2024 Other uses Legendary (video game), a 2008 first..."
+    },
+    {
+      "chunk_id": "wikipedia:Sneaky Pete#0000",
+      "doc_id": "wikipedia:Sneaky Pete",
+      "title": "Sneaky Pete",
+      "url": "https://en.wikipedia.org/?curid=47942695",
+      "source_type": "wikipedia",
+      "score": 0.5484031438827515,
+      "text": "Sneaky Pete is an American comedy crime drama television series created by David Shore and Bryan Cranston. The series follows Marius Josipović (Giovanni Ribisi), a released convict who adopts the identity of his cellmate, Pete Murphy, to avoid his past life. The series also stars Marin Ireland, Shane McRae, Libe Barer, Michael Drayer, Peter Gerety and Margo Martindale. The pilot episode premiered on August 7, 2015, and was followed by a full series order that September. Shore left the project in early 2016 and was replaced by Graham Yost, who served as executive producer and showrunner for the remaining nine episodes. The first season premiered in its entirety on January 13, 2017, exclusively on Amazon Prime Video. On January 19, 2017, Amazon announced that Sneaky Pete had been renewed for a second season, which was released on March 9, 2018. On July 28, 2018, Amazon announced that the series had been renewed for a third season, which was released on May 10, 2019."
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0001",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.5462751150131225,
+      "text": "game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap! (album), by the Jam, 1983 \"Snap\" (song), by Rosa Linn, 2022 \"Snap\", a song by Kevin Federline from Playing with Fire, 2006 \"Snap\", a song by Nav from Bad Habits, 2019 \"Snap\", a song by Slipknot from Slipknot, 2009 reissue \"Snap!\", a song from the British preschool TV series Boo! Fictional entities Snap, a character from the Nickelodeon animated television..."
+    }
+  ]
+}

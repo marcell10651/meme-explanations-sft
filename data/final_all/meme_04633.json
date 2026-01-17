@@ -1,0 +1,198 @@
+{
+  "meme_id": "meme_04633",
+  "queries": [
+    "\"Reddit\" \"does\" \"happen\" \"ansy\" \"upvs\"",
+    "\"ansy\" \"upvs\" \"ting\" \"quesiion\""
+  ],
+  "primary_terms": [
+    "does",
+    "happen",
+    "ansy",
+    "upvs",
+    "ting",
+    "quesiion",
+    "post",
+    "ion",
+    "answering",
+    "red",
+    "tkors"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.752880859375,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Update#0000",
+      "doc_id": "wikipedia:Update",
+      "title": "Update",
+      "url": "https://en.wikipedia.org/?curid=1237226",
+      "source_type": "wikipedia",
+      "score": 0.6697643369436264,
+      "text": "Update(s) or updated may refer to: Music Update (Anouk album), 2004 Update (Berlin Jazz Orchestra album), 2004 Update (Jane Zhang album), 2007 Update (Mal Waldron album), 1987 Update (Yandel album), 2017 Updated (M. Pokora album), an English-language version of Mise à jour, 2011 Other uses DR Update, a defunct Danish television news channel Software update, modifying installed software to be more up-to-date Update (SQL), a statement for changing database records Updates, a program broadcast by CNN Philippines See also Bayesian inference, a type of reasoning described as updating Patch (computing), a form of software update Upgrade, replacing or adding to improve"
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.6524827063083649,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Gangnam Style#0000",
+      "doc_id": "wikipedia:Gangnam Style",
+      "title": "Gangnam Style",
+      "url": "https://en.wikipedia.org/?curid=36584679",
+      "source_type": "wikipedia",
+      "score": 0.6383131563663482,
+      "text": "\"Gangnam Style\" (Korean: 강남스타일; pronounced [kaŋ.nam sɯ.tʰa.il]) is a K-pop song by South Korean singer Psy, released on July 15, 2012, by YG Entertainment as the lead single of his sixth studio album, Psy 6 (Six Rules), Part 1. The term \"Gangnam Style\" is a neologism that refers to the nouveau riche lifestyles associated with the Gangnam region of Seoul. \"Gangnam Style\" was released on to Psy's YouTube channel and debuted at number one on South Korea's Gaon Chart, receiving generally positive reviews, with praise for its catchy beat and Psy's amusing dancing during live performances and in various locations around the world in its music video. The song and its music video went viral in August 2012 and have influenced popular culture worldwide. In the United States, \"Gangnam Style\" peaked at number two on the Billboard Hot 100, which at the time, was the highest charting song by a South Korean artist."
+    },
+    {
+      "chunk_id": "wikipedia:Instagram#0000",
+      "doc_id": "wikipedia:Instagram",
+      "title": "Instagram",
+      "url": "https://en.wikipedia.org/?curid=31591547",
+      "source_type": "wikipedia",
+      "score": 0.6300139367580414,
+      "text": "Instagram is an American photo and short-form video sharing social networking service owned by Meta Platforms. It allows users to upload media that can be edited with filters, be organized by hashtags, and be associated with a location via geographical tagging. Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tags and locations, view trending content, like photos, and follow other users to add their content to a personal feed. A Meta-operated image-centric social media platform, it is available on iOS, Android, Windows 10, and the web. Users can take photos and edit them using built-in filters and other tools, then share them on other social media platforms like Facebook. It supports 33 languages including English, Hindi, Spanish, French, Japanese, and Korean. Instagram was originally distinguished by allowing content to be framed only in a square (1:1) aspect ratio of 640 pixels to match the display width of the iPhone at the time."
+    },
+    {
+      "chunk_id": "wikipedia:Post#0000",
+      "doc_id": "wikipedia:Post",
+      "title": "Post",
+      "url": "https://en.wikipedia.org/?curid=230424",
+      "source_type": "wikipedia",
+      "score": 0.6103792726993561,
+      "text": "Post, POST, or posting may refer to: Postal services Mail, the postal system, especially in Commonwealth of Nations countries An Post, the Irish national postal service Canada Post, Canadian postal service Deutsche Post, German postal service Iraqi Post, Iraqi postal service Russian Post, Russian postal service Hotel post, a service formerly offered by remote Swiss hotels for the carriage of mail to the nearest official post office United States Postal Service or USPS Parcel post, a postal service for mail that is heavier than ordinary letters Work Post, a job or occupation Newspaper The Manica Post Regional newspaper in Manicaland province, Zimbabwe The Rakyat Post Malaysian online daily newspaper Bangkok Post English language newspaper in Thailand Architecture and structures Lamppost, a raised source of light on the edge of a road Post (structural), timber framing Post and lintel, a building system Scratch post Steel fence post Trading post Utility pole or utility post Military"
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0000",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.6086415886878968,
+      "text": "Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth. The game allows for cross-platform play; it was released on iOS and Android devices in June 2018 and on Windows later that year in November. It was ported to the Nintendo Switch in December 2020 and on the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in December 2021. A virtual reality adaptation, Among Us VR, was released on November 10, 2022. Among Us takes place in space-themed settings where players are colorful, armless cartoon astronauts. Each player takes on one of two roles: most are Crewmates, but a small number are Impostors. Crewmates work to complete assigned tasks in the game while identifying and voting out suspected Impostors (who appear identical to Crewmates) using social deduction, while Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing."
+    },
+    {
+      "chunk_id": "wikipedia:Disaster#0000",
+      "doc_id": "wikipedia:Disaster",
+      "title": "Disaster",
+      "url": "https://en.wikipedia.org/?curid=8137",
+      "source_type": "wikipedia",
+      "score": 0.6063561379909516,
+      "text": "A disaster is an event that causes such serious harm to people, buildings, economies, or the environment that the affected community cannot handle it alone. The United Nations Office for Disaster Risk Reduction defines a disaster as \"a serious disruption of the functioning of a community or a society at any scale due to hazardous events interacting with conditions of exposure, vulnerability and capacity, leading to one or more of the following: human, material, economic and environmental losses and impacts\". Natural disasters like avalanches, floods, earthquakes, and wildfires are caused by natural hazards. Human-made disasters like oil spills, terrorist attacks and power outages are caused by people. It may be difficult to separate natural and human-made disasters because human actions can make natural disasters worse. Climate change also affects how often disasters due to extreme weather hazards happen."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.5969241440296174,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0001",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.5968984484672546,
+      "text": "suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital. Following his recovery, the now-unemployed Tramp is mistakenly arrested in a Communist demonstration. In jail, he accidentally ingests smuggled cocaine, and in his subsequent delirium, he avoids being put back in his cell. When he returns, he stumbles upon a jailbreak and knocks the convicts..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is happily ready to press one of two buttons.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "two buttons"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that on Reddit, the meme poster is just upvoting the questions rather than answering them to help someone.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Reddit",
+          "the questions"
+        ]
+      },
+      "title": {
+        "text": "Why does this happen",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "does",
+          "happen"
+        ]
+      },
+      "text": {
+        "text": "ansyéri \\ upvs ting a quesiion post qu ion p st 2 answering it A\\\\e . Cp RED TKORS ; |",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "ansy",
+          "upvs",
+          "ting",
+          "quesiion",
+          "post",
+          "ion",
+          "answering",
+          "red",
+          "tkors"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "does",
+      "happen",
+      "ansy",
+      "upvs",
+      "ting",
+      "quesiion",
+      "post",
+      "ion",
+      "answering",
+      "red",
+      "tkors"
+    ],
+    "secondary_terms": [
+      "two buttons",
+      "Reddit",
+      "the questions"
+    ],
+    "queries": [
+      "\"Reddit\" \"does\" \"happen\" \"ansy\" \"upvs\"",
+      "\"ansy\" \"upvs\" \"ting\" \"quesiion\""
+    ]
+  },
+  "source_jsonl_id": null
+}

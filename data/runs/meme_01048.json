@@ -1,0 +1,105 @@
+{
+  "meme_id": "meme_01048",
+  "queries": [
+    "\"Plaintiff\" \"the judge\" \"the case\"",
+    "\"Plaintiff\" \"the judge\" \"the case\" \"the air\"",
+    "\"the case\" \"the air\" \"court corruption\" \"his case\""
+  ],
+  "primary_terms": [
+    "your country",
+    "the judge",
+    "the case"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Trial#0001",
+      "doc_id": "wikipedia:Trial",
+      "title": "Trial",
+      "url": "https://en.wikipedia.org/?curid=3276812",
+      "source_type": "wikipedia",
+      "score": 1.2262977063655853,
+      "text": "proceedings are usually restricted to a review of the evidence presented before the trial court, and do not permit the introduction of new evidence. Types by dispute Criminal A criminal trial is designed to resolve accusations brought (usually by a government) against a person accused of a crime. In common law systems, most criminal defendants are entitled to a trial held before a jury. Because the..."
+    },
+    {
+      "chunk_id": "wikipedia:Suits LA#0000",
+      "doc_id": "wikipedia:Suits LA",
+      "title": "Suits LA",
+      "url": "https://en.wikipedia.org/?curid=77433138",
+      "source_type": "wikipedia",
+      "score": 1.1406384706497192,
+      "text": "Suits LA is an American legal drama television series created by Aaron Korsh for NBC. It is the second spin-off of Suits and premiered on February 23, 2025. In May 2025, the series was cancelled after one season. Premise Ex-New York City federal prosecutor turned Los Angeles entertainment lawyer Ted Black and his Black Lane Law firm represent powerful clients in LA while Ted and his associates navigate personal and professional challenges. Cast and characters Main Stephen Amell as Ted Black, a former federal prosecutor in New York City who decides to restart his legal career by becoming an entertainment lawyer in Los Angeles with the Black Lane Law firm Lex Scott Davis as Erica Rollins, Ted's law partner at Black & Associates Josh McDermitt as Stuart Lane, criminal defense lawyer and Ted's former partner, who betrays him by leaving their firm, taking some of the firm's lawyers and clients with him Bryan Greenberg as Rick Dodsen Recurring Maggie Grace as Amanda Stevens, a pro bono"
+    },
+    {
+      "chunk_id": "wikipedia:Proof#0001",
+      "doc_id": "wikipedia:Proof",
+      "title": "Proof",
+      "url": "https://en.wikipedia.org/?curid=62384",
+      "source_type": "wikipedia",
+      "score": 1.0031556189060211,
+      "text": "to establish the truth of facts in a trial Philosophic burden of proof, obligation on a party in a dispute to provide sufficient warrant for their position Probate, the judicial process whereby a will is \"proved\" in a court of law and accepted as valid Manufacturing and printing Artist's proof, a single print taken during the printmaking..."
+    },
+    {
+      "chunk_id": "wikipedia:The Lady Doctor#0001",
+      "doc_id": "wikipedia:The Lady Doctor",
+      "title": "The Lady Doctor",
+      "url": "https://en.wikipedia.org/?curid=46194248",
+      "source_type": "wikipedia",
+      "score": 0.8799548357725143,
+      "text": "the case, which will turn out to be a mess. Cast Totò as Michele Spillone aka Mike Vittorio De Sica as Marquis Vittorio de Vitti Abbe Lane as Dr. Brigitte Baker Titina De Filippo as Marquise de Vitti Germán Cobos as Lawyer Otello Bellomo Pierre Mondy as Romeo Agostino Salvietti as Gennaro Tecla Scarano as Ada Barbalunga Darry Cowl as Egisto Rafael Bardem as Elia Vagoni Luigi Pavese as Head of the investigative agency Franco Coop as La Conchiglia's Maitre Giulio Calì as Fool from Villa Valeria Dante Maggio as La Conchiglia's Waiter Teddy Reno as Himself Antonio..."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.8472325205802917,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Charge#0001",
+      "doc_id": "wikipedia:Charge",
+      "title": "Charge",
+      "url": "https://en.wikipedia.org/?curid=6439",
+      "source_type": "wikipedia",
+      "score": 0.6868063658475876,
+      "text": "charge, information or indictment through a formal legal process Mathematics, science, and technology Charge (physics), the susceptibility (state of being affected) of a body to one of the fundamental forces Color charge, a property of quarks and gluons, related to their strong interactions Electric charge..."
+    },
+    {
+      "chunk_id": "wikipedia:Joe Biden#0000",
+      "doc_id": "wikipedia:Joe Biden",
+      "title": "Joe Biden",
+      "url": "https://en.wikipedia.org/?curid=145422",
+      "source_type": "wikipedia",
+      "score": 0.6569335162639618,
+      "text": "Joseph Robinette Biden Jr. (born November 20, 1942) is an American politician who was the 46th president of the United States from 2021 to 2025. A member of the Democratic Party, he represented Delaware in the United States Senate from 1973 to 2009 and also served as the 47th vice president under President Barack Obama from 2009 to 2017. Born in Scranton, Pennsylvania, Biden graduated from the University of Delaware in 1965 and the Syracuse University College of Law in 1968. He was elected to the New Castle County Council in 1970 and the U.S. Senate in 1972. As a senator, Biden chaired the Senate Judiciary Committee and Foreign Relations Committee. He drafted and led passage of the Violent Crime Control and Law Enforcement Act and the Violence Against Women Act. Biden also oversaw six U.S. Supreme Court confirmation hearings, including contentious hearings for Robert Bork and Clarence Thomas. He opposed the Gulf War in 1991 but voted in favor of the Iraq War Resolution in 2002."
+    },
+    {
+      "chunk_id": "wikipedia:Suits LA#0001",
+      "doc_id": "wikipedia:Suits LA",
+      "title": "Suits LA",
+      "url": "https://en.wikipedia.org/?curid=77433138",
+      "source_type": "wikipedia",
+      "score": 0.5818006694316864,
+      "text": "their firm, taking some of the firm's lawyers and clients with him Bryan Greenberg as Rick Dodsen Recurring Maggie Grace as Amanda Stevens, a pro bono attorney who rents an office at Ted and Erica's law firm. Ted hires her as the head of criminal defense after he sees what she can do for his law firm. Troy Winbush as Kevin, a private..."
+    },
+    {
+      "chunk_id": "wikipedia:Drama#0001",
+      "doc_id": "wikipedia:Drama",
+      "title": "Drama",
+      "url": "https://en.wikipedia.org/?curid=20913753",
+      "source_type": "wikipedia",
+      "score": 0.5736413151025772,
+      "text": "until William Shakespeare's time—just as its creator was a play-maker rather than a dramatist and the building was a play-house rather than a theatre. The use of \"drama\" in a more narrow sense to designate a specific type of play dates from the modern era. \"Drama\" in this sense refers to a play that is neither a comedy nor a tragedy—for example, Zola's Thérèse Raquin (1873) or Chekhov's Ivanov (1887). It is this narrower sense that the..."
+    },
+    {
+      "chunk_id": "wikipedia:Good#0001",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.5492939203977585,
+      "text": "concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect. The first references that are seen in Plato's The Republic to the Form of the Good are within the conversation between Glaucon and Socrates (454c–d). When trying to answer such difficult questions pertaining to the definition of justice..."
+    }
+  ]
+}

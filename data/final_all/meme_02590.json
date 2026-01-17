@@ -1,0 +1,192 @@
+{
+  "meme_id": "meme_02590",
+  "queries": [
+    "\"close\" \"young\" \"picks\" \"water\"",
+    "\"picks\" \"water\" \"drop\" \"after\""
+  ],
+  "primary_terms": [
+    "close",
+    "young",
+    "picks",
+    "water",
+    "drop",
+    "after",
+    "loses",
+    "iol",
+    "aan"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Water#0000",
+      "doc_id": "wikipedia:Water",
+      "title": "Water",
+      "url": "https://en.wikipedia.org/?curid=33306",
+      "source_type": "wikipedia",
+      "score": 0.6765969067811965,
+      "text": "Water is an inorganic compound with the chemical formula H2O. It is a transparent, tasteless, odorless, and nearly colorless chemical substance. It is the main constituent of Earth's streams, lakes, and oceans and the fluids of all known living organisms, in which it acts as a solvent. Water, being a polar molecule, undergoes strong intermolecular hydrogen bonding which is a large contributor to its physical and chemical properties. It is vital for all known forms of life, despite not providing food energy or being an organic micronutrient. Due to its presence in all organisms, its chemical stability, its worldwide abundance, and its strong polarity relative to its small molecular size, water is often referred to as the \"universal solvent\". Because Earth's environment is relatively close to water's triple point, water exists on Earth as a solid, a liquid, and a gas. It forms precipitation in the form of rain and aerosols in the form of fog."
+    },
+    {
+      "chunk_id": "wikipedia:Your Choice#0000",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.6476620197296142,
+      "text": "Your Choice is the ninth Korean extended play (EP) and eleventh overall by South Korean boy band Seventeen. Released through Pledis Entertainment on June 18, 2021, the album comes eight months after its predecessor, Semicolon. Characterized by hip hop and R&B elements, the album consists of six tracks, including the lead single, \"Ready to Love\". As part of the group's \"Power of 'Love'\" project, the album depicts the nature of love, and experiments with various genres, including disco funk, rock, and retro R&B. Seventeen promoted the album through performances on several South Korean and American music shows. Although the album received mixed reviews from critics, it achieved commercial success, selling over a million copies within its first four days of release. Your Choice topped the Gaon Album Chart and Billboard's World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia."
+    },
+    {
+      "chunk_id": "wikipedia:Drinking#0000",
+      "doc_id": "wikipedia:Drinking",
+      "title": "Drinking",
+      "url": "https://en.wikipedia.org/?curid=66254",
+      "source_type": "wikipedia",
+      "score": 0.6371015727519989,
+      "text": "Drinking is the act of ingesting water or other liquids into the body through the mouth, proboscis, or elsewhere. Humans drink by swallowing, completed by peristalsis in the esophagus. The physiological processes of drinking vary widely among other animals. Most animals drink water to maintain bodily hydration, although many can survive on the water gained from their food. Water is required for many physiological processes. Both inadequate and (less commonly) excessive water intake are associated with health problems. Methods of drinking In humans When a liquid enters a human mouth, the swallowing process is completed by peristalsis which delivers the liquid through the esophagus to the stomach; much of the activity is assisted by gravity. The liquid may be poured from the hands or drinkware may be used as vessels. Drinking can also be by sipping or sucking, typically when imbibing hot liquids or drinking from a spoon."
+    },
+    {
+      "chunk_id": "wikipedia:Finish#0000",
+      "doc_id": "wikipedia:Finish",
+      "title": "Finish",
+      "url": "https://en.wikipedia.org/?curid=3438624",
+      "source_type": "wikipedia",
+      "score": 0.5475926905870437,
+      "text": "Finish may refer to: Finishing (whisky), in the distillation of Scotch The aftertaste of an alcoholic beverage, particularly for: wine Finished good, a good that is completed as to manufacturing but not yet sold or distributed to the end-user Surface finishing, various industrial processes for modifying a workpiece's surface Mechanical finish, processes that modify a surface using mechanical means Wood finishing, the process of embellishing and/or protecting the surface of wooden objects People Eli Finish (born 1975), Israeli comedian Brands Finish, A dishwasher detergent brand owned by Reckitt and known as Calgonit in Continental Europe, formerly known as Electrasol. See also Finishing (disambiguation) Finish line (disambiguation) Finnish (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0001",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.5294203072786331,
+      "text": "includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines. Biology When the human body becomes dehydrated, a person experiences thirst. This craving of fluids results in an instinctive need to drink. Thirst is regulated by the hypothalamus in response to subtle changes in the body's electrolyte levels, and also as a result..."
+    },
+    {
+      "chunk_id": "wikipedia:Drinking#0001",
+      "doc_id": "wikipedia:Drinking",
+      "title": "Drinking",
+      "url": "https://en.wikipedia.org/?curid=66254",
+      "source_type": "wikipedia",
+      "score": 0.5004251897335052,
+      "text": "hands or drinkware may be used as vessels. Drinking can also be by sipping or sucking, typically when imbibing hot liquids or drinking from a spoon. Infants employ a method of suction wherein the lips are pressed tight around a source, as in breastfeeding: a combination of breath and tongue movement creates a vacuum which draws in liquid. In other land mammals By necessity, terrestrial animals in..."
+    },
+    {
+      "chunk_id": "wikipedia:Rain#0000",
+      "doc_id": "wikipedia:Rain",
+      "title": "Rain",
+      "url": "https://en.wikipedia.org/?curid=19009110",
+      "source_type": "wikipedia",
+      "score": 0.4782617807388306,
+      "text": "Rain is a form of precipitation where water droplets that have condensed from atmospheric water vapor fall by gravity. Rain is a major component of the water cycle and is responsible for depositing most of the fresh water on the Earth. It provides water for hydroelectric power plants, crop irrigation, and suitable conditions for many types of ecosystems. The major cause of rain production is moisture moving along three-dimensional zones of temperature and moisture contrasts known as weather fronts. If enough moisture and upward motion is present, precipitation falls from convective clouds (those with strong upward vertical motion) such as cumulonimbus (thunder clouds) which can organize into narrow rainbands. In mountainous areas, heavy precipitation is possible where upslope flow is maximized within windward sides of the terrain at elevation which forces moist air to condense and fall out as rainfall along the sides of mountains."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.47018091976642606,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    },
+    {
+      "chunk_id": "wikipedia:Close#0000",
+      "doc_id": "wikipedia:Close",
+      "title": "Close",
+      "url": "https://en.wikipedia.org/?curid=4583933",
+      "source_type": "wikipedia",
+      "score": 0.459262615442276,
+      "text": "Close may refer to: Music Close (Kim Wilde album), 1988 Close (Marvin Sapp album), 2017 Close (Sean Bonniwell album), 1969 \"Close\" (Sub Focus song), 2014 \"Close\" (Nick Jonas song), 2016 \"Close\" (Rae Sremmurd song), 2018 \"Close\" (Jade Eagleson song), 2020 \"Close (to the Edit)\", a 1984 song by Art of Noise \"Close\", song by Aaron Lines from Living Out Loud \"Close\", song by AB6IX from Mo' Complete: Have A Dream \"Close\", song by Drumsound & Bassline Smith from Wall of Sound \"Close\", song by Rascal Flatts from Unstoppable \"Close\", song by Soul Asylum from Candy from a Stranger \"Close\", song by Westlife from Coast to Coast \"Close\", song by French electronic group Telepopmusik and English vocalist Deborah Anderson, from their album Angel Milk Other uses Close (surname) Cathedral close, the area surrounding a cathedral, typically occupied by buildings associated with it Close (2019 film), an action thriller Close (2022 film), a Belgian drama film Close (street), an alley or cul-de-sac Close,"
+    },
+    {
+      "chunk_id": "wikipedia:Water#0001",
+      "doc_id": "wikipedia:Water",
+      "title": "Water",
+      "url": "https://en.wikipedia.org/?curid=33306",
+      "source_type": "wikipedia",
+      "score": 0.45812417268753053,
+      "text": "'s triple point, water exists on Earth as a solid, a liquid, and a gas. It forms precipitation in the form of rain and aerosols in the form of fog. Clouds consist of suspended droplets of water and ice, its solid state. When finely divided, crystalline ice may precipitate in the form of snow. The gaseous state of water is steam or water vapor. Water covers about 71.0% of the Earth's surface..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is standing with his hands on his hips.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "his hands",
+          "his hips"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster is being sassy about how the water droplet he picked lost.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the water droplet"
+        ]
+      },
+      "title": {
+        "text": "It was so close",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "close"
+        ]
+      },
+      "text": {
+        "text": "Young me:picks a water drop Me after it loses: ~ , : oN 4 iol ~~ —\"- ia 58 | ~ ? so ‘ . <> y om ar a aan",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "young",
+          "picks",
+          "water",
+          "drop",
+          "after",
+          "loses",
+          "iol",
+          "aan"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "close",
+      "young",
+      "picks",
+      "water",
+      "drop",
+      "after",
+      "loses",
+      "iol",
+      "aan"
+    ],
+    "secondary_terms": [
+      "his hands",
+      "his hips",
+      "the water droplet"
+    ],
+    "queries": [
+      "\"close\" \"young\" \"picks\" \"water\"",
+      "\"picks\" \"water\" \"drop\" \"after\""
+    ]
+  },
+  "source_jsonl_id": null
+}

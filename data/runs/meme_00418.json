@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_00418",
+  "queries": [
+    "\"Mario Mario’s literal voice actor\" \"itsa\" \"disappointment\" \"nintendo\"",
+    "\"disappointment\" \"nintendo\" \"voice\" \"actor\""
+  ],
+  "primary_terms": [
+    "itsa",
+    "disappointment",
+    "Mario Mario’s literal voice actor",
+    "nintendo",
+    "voice",
+    "actor",
+    "play",
+    "mario",
+    "literal",
+    "wae"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Timon and Pumbaa#0000",
+      "doc_id": "wikipedia:Timon and Pumbaa",
+      "title": "Timon and Pumbaa",
+      "url": "https://en.wikipedia.org/?curid=4449334",
+      "source_type": "wikipedia",
+      "score": 0.9217105388641358,
+      "text": "Timon and Pumbaa are an animated meerkat and warthog duo introduced in Disney's 1994 animated feature film The Lion King and its franchise. Timon was played through his many appearances by Nathan Lane (in all three films and early episodes of the show), Max Casella (the original actor in Broadway musical), Kevin Schon (in certain episodes of the show), Quinton Flynn (in certain episodes of the show), Bruce Lanoil in the Wild About Safety shorts and Kingdom Hearts II, while Pumbaa is voiced by Ernie Sabella (in all of his traditionally animated speaking appearances), and was portrayed by Tom Alan Robbins in the original cast of the Broadway musical. In the CGI remake, the characters are portrayed by Billy Eichner and Seth Rogen, respectively. Nathan Lane and Ernie Sabella first came to audition for the roles of the hyenas, but when the producers saw how well they worked together, they decided to cast them as Timon and Pumbaa."
+    },
+    {
+      "chunk_id": "wikipedia:Doctor#0001",
+      "doc_id": "wikipedia:Doctor",
+      "title": "Doctor",
+      "url": "https://en.wikipedia.org/?curid=662249",
+      "source_type": "wikipedia",
+      "score": 0.7946586072444916,
+      "text": "Doctor, in video game Cave Story The Doctor (Star Trek) The Doctor, or Scalpel, in the Transformers film series The Doctor or Cobra Commander, in G.I. Joe: A Real American Hero The Doctor, in Little Nightmares II Minoru Kamiya, also known as Doctor, in YuYu Hakusho The Doctor (Squid Game), also known as Byeong-yi or Player 111 Film Doctor (film series), British comedy films of the 1950s–1960s Doctor (1963 film), an Indian Malayalam-language film Doctor (2013 film), a South Korean horror film Doctor (2021 film), an Indian Tamil-language film Doctor (2023 film), a Russian drama The Doctor (1991 film), an American drama The Doctor (2013 film), about basketball player Julius Erving Music ��4�..."
+    },
+    {
+      "chunk_id": "wikipedia:Willy Wonka#0000",
+      "doc_id": "wikipedia:Willy Wonka",
+      "title": "Willy Wonka",
+      "url": "https://en.wikipedia.org/?curid=704925",
+      "source_type": "wikipedia",
+      "score": 0.7824140012264251,
+      "text": "Willy Wonka is a fictional character appearing in British author Roald Dahl's 1964 children's novel Charlie and the Chocolate Factory and its 1972 sequel Charlie and the Great Glass Elevator. He is the eccentric founder and proprietor of the Wonka Chocolate Factory. Wonka has been depicted in film several times. In 1971, Willy Wonka was portrayed by Gene Wilder in Willy Wonka & the Chocolate Factory. Wilder's portrayal in the film is widely beloved and is considered one of his greatest roles. Johnny Depp played the character in 2005's Charlie and the Chocolate Factory which polarized critics and audiences. In 2023, Timothée Chalamet portrayed the character in a standalone film that tells his origin story titled Wonka. Chalamet's performance was both praised and criticized. Wilder, Depp, and Chalamet all received Golden Globe nominations for Best Actor in a Comedy or Musical for their performances."
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo DiCaprio#0000",
+      "doc_id": "wikipedia:Leonardo DiCaprio",
+      "title": "Leonardo DiCaprio",
+      "url": "https://en.wikipedia.org/?curid=52711",
+      "source_type": "wikipedia",
+      "score": 0.7492510497570037,
+      "text": "Leonardo Wilhelm DiCaprio ( ; Italian: [diˈkaːprjo]; born November 11, 1974) is an American actor and film producer. Known for his work in biographical and period films, he is the recipient of numerous accolades, including an Academy Award, a British Academy Film Award, a Silver Bear and three Golden Globe Awards. His films as a leading actor have grossed $7 billion worldwide, and he has been placed eight times in annual rankings of the world's highest-paid actors. Born in Los Angeles, DiCaprio began his career in the late 1980s by appearing in television commercials. He had a recurring role in the sitcom Parenthood (1990–1991), and had his first major film part as author Tobias Wolff in This Boy's Life (1993). He received critical acclaim and his first Academy Award nomination for playing a developmentally disabled boy in What's Eating Gilbert Grape (1993). DiCaprio achieved international stardom with the star-crossed romances Romeo + Juliet (1996) and Titanic (1997)."
+    },
+    {
+      "chunk_id": "wikipedia:Willy Wonka#0001",
+      "doc_id": "wikipedia:Willy Wonka",
+      "title": "Willy Wonka",
+      "url": "https://en.wikipedia.org/?curid=704925",
+      "source_type": "wikipedia",
+      "score": 0.6809431076049804,
+      "text": "praised and criticized. Wilder, Depp, and Chalamet all received Golden Globe nominations for Best Actor in a Comedy or Musical for their performances. Appearances Charlie and the Chocolate Factory In Charlie and the Chocolate Factory, Wonka has hidden five Golden Tickets inside his chocolate bars. The finders are rewarded with a tour of his factory, each accompanied by an adult of their choice, and a lifetime supply of chocolate..."
+    },
+    {
+      "chunk_id": "wikipedia:Post-credits scene#0001",
+      "doc_id": "wikipedia:Post-credits scene",
+      "title": "Post-credits scene",
+      "url": "https://en.wikipedia.org/?curid=6107731",
+      "source_type": "wikipedia",
+      "score": 0.6519968271255493,
+      "text": "so a singer could repeat an aria, but fell out of favor in the 1920s due to rising emphasis on dramatic storytelling rather than vocal performance. The first general release film to feature a post-credits scene is The Silencers, released in March 1966. The scene depicts lead character Matt Helm (played by Dean Martin) lying shirtless on what appears to be a rotating sofa along with 10 scantily-clad women. He kisses..."
+    },
+    {
+      "chunk_id": "wikipedia:Brandy Norwood#0000",
+      "doc_id": "wikipedia:Brandy Norwood",
+      "title": "Brandy Norwood",
+      "url": "https://en.wikipedia.org/?curid=144809",
+      "source_type": "wikipedia",
+      "score": 0.5918386191129684,
+      "text": "Brandy Rayana Norwood (born February 11, 1979) is an American singer, songwriter, and actress. Dubbed the \"Vocal Bible\", she is known for her distinctive sound, characterized by her peculiar timbre, voice-layering, and intricate riffs. Brandy is often regarded as an influential figure in contemporary R&B. Born into a musical family in McComb, Mississippi, Brandy was raised in Carson, California, where she began her career as a backing vocalist for youth music groups. After signing to Atlantic Records, she rose to prominence in the mid-1990s with her debut studio album, Brandy (1994), which spawned the US Billboard Hot 100 top-ten singles \"I Wanna Be Down\", \"Baby\", and \"Brokenhearted\". She became a television star with her lead role on the UPN sitcom Moesha (1996–2001) and portrayed the titular character in the television film Rodgers & Hammerstein's Cinderella (1997)."
+    },
+    {
+      "chunk_id": "wikipedia:Jake Paul#0000",
+      "doc_id": "wikipedia:Jake Paul",
+      "title": "Jake Paul",
+      "url": "https://en.wikipedia.org/?curid=51021695",
+      "source_type": "wikipedia",
+      "score": 0.5829121679067611,
+      "text": "Jake Joseph Paul (born January 17, 1997) is an American professional boxer, influencer and actor. He began his career posting videos on Vine in September 2013 and had amassed 5.3 million followers and 2 billion views before the app was discontinued. He launched his YouTube channel, Jake Paul, in May 2014, and was ranked by Forbes as one of the highest-paid YouTube creators of the 2010s and 2020s. As an actor, Paul's first role in a feature film was in the 2016 film Dance Camp. He went on to star as Dirk Mann on the Disney Channel series Bizaardvark (2016–2018) and appear in the films Airplane Mode (2019), Mainstream (2020), and A Genie's Tail (2022). He has also made guest appearances in the television series Walk the Prank (2016), The Price Is Right (2017), and Ridiculousness (2020). Paul's boxing career began in August 2018 with a white-collar boxing match against Deji Olatunji, which he won via technical knockout. His professional boxing debut was against AnEsonGib in January 2020."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.5818200707435608,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Kirby#0000",
+      "doc_id": "wikipedia:Kirby",
+      "title": "Kirby",
+      "url": "https://en.wikipedia.org/?curid=706419",
+      "source_type": "wikipedia",
+      "score": 0.5705752730369568,
+      "text": "Kirby may refer to: Arts and entertainment Fictional characters Kirby (character), the titular character of the Kirby video game series Kirby, in the 2005 film Chicken Little Kirby, the title character of Rip Kirby, an American comic strip Sir Kirby, from Doc McStuffins Kirby Buckets, the titular character in the live-action series of the same name Kirby Morris, from the sitcom The Suite Life on Deck Kirby Reed, from the Scream franchise the Kirby family in the play You Can't Take It with You Officer Kirby, from the TV series Chip 'n Dale: Rescue Rangers Colonel Mike Kirby in the 1968 film The Green Berets, played by John Wayne Paul, Amanda and Eric Kirby, a family in the 2001 film Jurassic Park III Other arts and entertainment Kirby (series), a video game series \"Kirby\", a song from the album The Impossible Kid by Aesop Rock \"Kirby\" (Dynasty), an episode of the television series Dynasty Kirby: King of Comics, a 2008 biography by Mark Evanier Buildings Kirby Building, a skyscraper in"
+    }
+  ]
+}

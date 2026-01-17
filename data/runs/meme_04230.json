@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_04230",
+  "queries": [
+    "\"Things\" \"smoking\" \"wafer\" \"roll\"",
+    "\"wafer\" \"roll\" \"akid\" \"used\""
+  ],
+  "primary_terms": [
+    "smoking",
+    "wafer",
+    "roll",
+    "Things",
+    "akid",
+    "used",
+    "smoke"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Smoking#0000",
+      "doc_id": "wikipedia:Smoking",
+      "title": "Smoking",
+      "url": "https://en.wikipedia.org/?curid=12254052",
+      "source_type": "wikipedia",
+      "score": 0.6698460459709168,
+      "text": "Smoking is a human behavior which involves the combustion of a substance, usually plant material, and the inhalation of resulting fumes. Today, smoking is mostly practiced by rolling the dried leaves of the tobacco plant into a cigarette. Other forms of tobacco smoking include the use of a smoking tobacco with a pipe or cigar, or using a bong. Cigarette smokers almost always inhale the smoke; most pipe and cigar smokers do not inhale. Smoking is primarily practiced as a route of administration for psychoactive chemicals because the active substances within the burnt, dried plant leaves (or other chemical) can vaporize into a gaseous state and be delivered into the respiratory tract, where they are rapidly absorbed into the bloodstream through the lungs and can reach the central nervous system."
+    },
+    {
+      "chunk_id": "wikipedia:Cigar#0000",
+      "doc_id": "wikipedia:Cigar",
+      "title": "Cigar",
+      "url": "https://en.wikipedia.org/?curid=38323",
+      "source_type": "wikipedia",
+      "score": 0.6196087181568146,
+      "text": "A cigar is a rolled bundle of dried and fermented tobacco leaves made to be smoked. Cigars are produced in a variety of sizes and shapes. Since the 20th century, almost all cigars are made of three distinct components: the filler, the binder leaf which holds the filler together, and a wrapper leaf, which is often the highest quality leaf used. Often there will be a cigar band printed with the cigar manufacturer's logo. Modern cigars can come with two or more bands, especially Cuban cigars, showing Limited Edition (Edición Limitada) bands displaying the year of production. Cigar tobacco is grown in significant quantities primarily in Brazil, Central America (Costa Rica, Ecuador, Guatemala, Honduras, Mexico, Nicaragua, and Panama), and the islands of the Caribbean (Cuba, the Dominican Republic, Haiti, and Puerto Rico); it is also produced in the Eastern United States (mostly in Florida, Kentucky, Tennessee, and Virginia) and in the Mediterranean countries of Italy, Greece, Spain (in the"
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0000",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.5723559319972992,
+      "text": "A retail cashier or simply a cashier is a person who handles the cash register at various locations such as the point of sale in a retail store. The most common use of the title is in the retail industry, but this job title is also used in the context of accountancy for the person responsible for receiving and disbursing money or within branch banking in the United Kingdom for the job known in the United States as a bank teller. Retail In a shop, a cashier (or checkout operator) is an employee who scans the goods that the customer wishes to purchase through a cash register. In most modern stores, the items are scanned by a barcode positioned on the item with the use of a laser scanner. After all of the items have been scanned, the cashier then collects the payment (in cash, check, and/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers."
+    },
+    {
+      "chunk_id": "wikipedia:Soap#0001",
+      "doc_id": "wikipedia:Soap",
+      "title": "Soap",
+      "url": "https://en.wikipedia.org/?curid=57875",
+      "source_type": "wikipedia",
+      "score": 0.5548887312412262,
+      "text": "(sodium) or K (potassium). When used for cleaning, soap solubilizes particles and grime, which can then be separated from the article being cleaned. The insoluble oil/fat \"dirt\" become associated inside micelles, tiny spheres formed from soap molecules with polar hydrophilic (water-attracting) groups on the outside and encasing a lipophilic (fat-attracting) pocket..."
+    },
+    {
+      "chunk_id": "wikipedia:Drawing#0000",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.5342652857303619,
+      "text": "Drawing is a visual art that uses an instrument to mark paper or another two-dimensional surface, or a digital representation of such. Traditionally, the instruments used to create a drawing include pencils, crayons, and ink pens, sometimes in combination. More modern tools include computer styluses with mice and graphics tablets and gamepads in VR drawing software. A drawing instrument releases a small amount of material onto a surface, leaving a visible mark. There are many drawing instruments such as pen, pencils, pastel, crayons, markers, color pencils, water color, and more. The most common support for drawing is paper, although other materials, such as cardboard, vellum, wood, plastic, leather, canvas, and board, have been used. Temporary drawings may be made on a blackboard or whiteboard. Drawing has been a popular and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas."
+    },
+    {
+      "chunk_id": "wikipedia:Bing#0001",
+      "doc_id": "wikipedia:Bing",
+      "title": "Bing",
+      "url": "https://en.wikipedia.org/?curid=23443579",
+      "source_type": "wikipedia",
+      "score": 0.5076324939727783,
+      "text": "(company), a German company that manufactured toys and kitchen utensils Bing (dog), a British dog who served in World War II Bing (mining), a Scottish term for mining waste Bing & Bing, a former New York real estate development company Bing Concert Hall, a building on the Stanford University campus Barbershop in Germany or..."
+    },
+    {
+      "chunk_id": "wikipedia:Table#0000",
+      "doc_id": "wikipedia:Table",
+      "title": "Table",
+      "url": "https://en.wikipedia.org/?curid=274698",
+      "source_type": "wikipedia",
+      "score": 0.47986838817596433,
+      "text": "Table may refer to: Table (database), how the table data arrangement is used within the databases Table (furniture), a piece of furniture with a flat surface and one or more legs Table (information), a data arrangement with rows and columns Table (landform), a flat area of land Table (parliamentary procedure) Table (sports), a ranking of the teams in a sports league Tables (board game) Mathematical table Tables of the skull, a term for the flat bones Table, surface of the sound board (music) of a string instrument Al-Ma'ida, the fifth surah of the Qur'an, occasionally translated as “The Table” Calligra Tables, a spreadsheet application Water table See also Spreadsheet, a computer application Table cut, a type of diamond cut The Table (disambiguation) Table Mountain (disambiguation) Table Rock (disambiguation) Tabler (disambiguation) Tablet (disambiguation) All pages with titles beginning with Table All pages with titles containing Table All pages with titles beginning with Tabular All"
+    },
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.4768512696027756,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    },
+    {
+      "chunk_id": "wikipedia:Brand#0000",
+      "doc_id": "wikipedia:Brand",
+      "title": "Brand",
+      "url": "https://en.wikipedia.org/?curid=18950900",
+      "source_type": "wikipedia",
+      "score": 0.47557356059551237,
+      "text": "A brand is a name, term, design, symbol or any other feature that distinguishes one seller's goods or service from those of other sellers. Brands are used in business, marketing, and advertising for recognition and, importantly, to create and store value as brand equity for the object identified, to the benefit of the brand's customers, its owners and shareholders. Brand names are sometimes distinguished from generic or store brands. The practice of branding—in the original literal sense of marking by burning—is thought to have begun with the ancient Egyptians, who are known to have engaged in livestock branding and branded slaves as early as 2,700 BCE. Branding was used to differentiate one person's cattle from another's by means of a distinctive symbol burned into the animal's skin with a hot branding iron. If a person stole any of the cattle, anyone else who saw the symbol could deduce the actual owner."
+    },
+    {
+      "chunk_id": "wikipedia:Smoking#0001",
+      "doc_id": "wikipedia:Smoking",
+      "title": "Smoking",
+      "url": "https://en.wikipedia.org/?curid=12254052",
+      "source_type": "wikipedia",
+      "score": 0.45083985328674314,
+      "text": "delivered into the respiratory tract, where they are rapidly absorbed into the bloodstream through the lungs and can reach the central nervous system. In the case of tobacco smoking, these active substances are a mixture of aerosol particles that include the pharmacologically active alkaloid nicotine, which stimulates the nicotinic acetylcholine receptors in the brain, and other non-psychoactive chemicals that result from combustion. Other notable drugs inhaled via smoking include tetrahydrocannabinol (from cannabis), morphine (from opium),..."
+    }
+  ]
+}

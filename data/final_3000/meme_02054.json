@@ -1,0 +1,204 @@
+{
+  "meme_id": "meme_02054",
+  "queries": [
+    "\"Squidward\" \"the toilet seat werm\" \"MYROOMMATE WHENITHE\" \"think\" \"likes\"",
+    "\"think\" \"likes\" \"toilet\" \"seat\""
+  ],
+  "primary_terms": [
+    "the toilet seat werm",
+    "think",
+    "likes",
+    "toilet",
+    "seat",
+    "werm",
+    "MYROOMMATE WHENITHE",
+    "myroommate",
+    "whenithe",
+    "bathroomsibeen",
+    "emetv",
+    "forghours",
+    "roommate"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Toilet#0001",
+      "doc_id": "wikipedia:Toilet",
+      "title": "Toilet",
+      "url": "https://en.wikipedia.org/?curid=19167644",
+      "source_type": "wikipedia",
+      "score": 1.0087201416492462,
+      "text": "for rooms containing only one or more toilets and hand-basins. Lavatory is an older word for toilet. The technology used for modern toilets varies. Toilets are commonly made of ceramic (porcelain), concrete, plastic, or wood. Newer toilet technologies include dual flushing, low flushing, toilet seat warming, self-cleaning, female urinals and waterless..."
+    },
+    {
+      "chunk_id": "wikipedia:Backseat#0000",
+      "doc_id": "wikipedia:Backseat",
+      "title": "Backseat",
+      "url": "https://en.wikipedia.org/?curid=8201491",
+      "source_type": "wikipedia",
+      "score": 0.6852878391742706,
+      "text": "Backseat or back seat may refer to: a car seat located at the rear of a vehicle Backseat (band), Danish pop / rock group Backseat (album), a 1986 album by Finnish hard rock band Peer Günt \"Backseat\" (song), a 2011 single by the New Boyz featuring The Cataracs and Dev \"Back Seat (of My Jeep)\",by LL Cool J, 1993 \"Backseat\", a song by Charli XCX from the 2017 mixtape Pop 2 \"Backseat\", a song by K.A.R.D's BM and Somin \"Back Seat (Wit No Sheets)\", a song by H-Town from the 1994 album Beggin' After Dark See also \"The Back Seat of My Car\", a 1971 single release from the Paul McCartney album Ram Back-seat driver, a passenger in a vehicle who is not the driver that gives unwanted advice and/or criticism to the driver Back Seat Drivers, an Australian television program"
+    },
+    {
+      "chunk_id": "wikipedia:Maybe#0001",
+      "doc_id": "wikipedia:Maybe",
+      "title": "Maybe",
+      "url": "https://en.wikipedia.org/?curid=3627756",
+      "source_type": "wikipedia",
+      "score": 0.6457698345184326,
+      "text": "from 22, 2022 \"Maybe\", a song by Dave Gahan released as a B-side on the single \"Dirty Sticky Floors\", 2003 \"Maybe\", a song by Estelle from The 18th Day, 2004 \"Maybe\", a song by (G)I-dle from I Trust, 2020 \"Maybe (Duet Version)\", a song by Gotthard from Bang!, 2014 \"Maybe\", a song by Harry Nilsson from Harry, 1969 \"Maybe\", a song by..."
+    },
+    {
+      "chunk_id": "wikipedia:Room#0001",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.635340279340744,
+      "text": "the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses. The aforementioned Akrotiri excavations reveal rooms sometimes built above other rooms connected by staircases, bathrooms with alabaster appliances such as washbasins, bathing tubs, and toilets, all connected to an elaborate twin plumbing systems of ceramic pipes for cold and hot water separately. Ancient Rome manifested very complex building forms with a variety of room..."
+    },
+    {
+      "chunk_id": "wikipedia:Room#0000",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.5380668640136719,
+      "text": "In a building or a ship, a room is any enclosed space within a number of walls to which entry is possible only via a door or other dividing structure. The entrance connects it to either a passageway, another room, or the outdoors. The space is typically large enough for several people to move about. The size, fixtures, furnishings, and sometimes placement of the room within the building or ship (or sometimes a train) support the activity to be conducted in it. History Historically, the use of rooms dates at least to early Minoan cultures about 2200 BC, where excavations at Akrotiri on Santorini reveal clearly defined rooms within certain structures. In early structures, the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0001",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.5264265835285187,
+      "text": "a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly. Where the hall inside the front door of a house is elongated, it may be called a passage, corridor (from Spanish corredor used in El Escorial and 100 years later in Castle Howard), or hallway. History In warmer climates, the houses of the wealthy were often built around a courtyard, but in northern areas manors were built around a great hall. The hall was home to the hearth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit#0000",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 0.523512065410614,
+      "text": "Shit is an English-language profanity. As a noun, it refers to fecal matter, and as a verb it means to defecate; in the plural (\"the shits\"), it means diarrhea. Shite is a common variant in British and Irish English. As a slang term, shit has many meanings, including: nonsense, foolishness, something of little value or quality, trivial and usually boastful or inaccurate talk or a contemptible person. It could also be used to refer to any other noun in general or as an expression of annoyance, concern, surprise or anger. Etymology The word is likely derived from Old English, having the nouns scite (dung, attested only in place names) and scitte (diarrhoea) and the verb scītan (to defecate, attested only in bescītan, to cover with excrement); eventually it morphed into Middle English schītte (excrement), schyt (diarrhoea) and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.4703630656003952,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Staring#0001",
+      "doc_id": "wikipedia:Staring",
+      "title": "Staring",
+      "url": "https://en.wikipedia.org/?curid=4409451",
+      "source_type": "wikipedia",
+      "score": 0.4616038203239441,
+      "text": "would be simply staring into a space for awareness, or could be lost in thought (sometimes known as daydreaming), stupefied, or be unable to see. As such, the meaning of a person's staring behavior depends upon the attributions made by the observer. When caught staring, the moment can be a source of embarrassment depending on the reason for staring. For example..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.44373250007629395,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Squidward is sleeping normally above him sleeping scared in red.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "him",
+          "red"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster is trying to convey they get gross out from their roommate",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their roommate"
+        ]
+      },
+      "title": {
+        "text": "I think he likes the toilet seat werm",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the toilet seat werm",
+          "think",
+          "likes",
+          "toilet",
+          "seat",
+          "werm"
+        ]
+      },
+      "text": {
+        "text": "MYROOMMATE WHENITHE BATHROOMSIBEEN EMETV/FORGHOURS 7 MV/ROOMMATE ne",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "MYROOMMATE WHENITHE",
+          "myroommate",
+          "whenithe",
+          "bathroomsibeen",
+          "emetv",
+          "forghours",
+          "roommate"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the toilet seat werm",
+      "think",
+      "likes",
+      "toilet",
+      "seat",
+      "werm",
+      "MYROOMMATE WHENITHE",
+      "myroommate",
+      "whenithe",
+      "bathroomsibeen",
+      "emetv",
+      "forghours",
+      "roommate"
+    ],
+    "secondary_terms": [
+      "him",
+      "red",
+      "their roommate"
+    ],
+    "queries": [
+      "\"Squidward\" \"the toilet seat werm\" \"MYROOMMATE WHENITHE\" \"think\" \"likes\"",
+      "\"think\" \"likes\" \"toilet\" \"seat\""
+    ]
+  },
+  "source_jsonl_id": null
+}

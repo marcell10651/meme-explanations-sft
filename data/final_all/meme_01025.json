@@ -1,0 +1,181 @@
+{
+  "meme_id": "meme_01025",
+  "queries": [
+    "\"FAMILY aaa\" \"hurts\" \"oneoryour\" \"family\"",
+    "\"oneoryour\" \"family\" \"members\" \"uses\""
+  ],
+  "primary_terms": [
+    "hurts",
+    "FAMILY aaa",
+    "oneoryour",
+    "family",
+    "members",
+    "uses",
+    "vourtoothbrush"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Family#0000",
+      "doc_id": "wikipedia:Family",
+      "title": "Family",
+      "url": "https://en.wikipedia.org/?curid=10401954",
+      "source_type": "wikipedia",
+      "score": 1.1050051867961883,
+      "text": "Family (from Latin: familia) is a group of people related either by consanguinity (by recognized birth) or affinity (by marriage or other relationship). It forms the basis for social order. Ideally, families offer predictability, structure, and safety as members mature and learn to participate in the community. Historically, most human societies use family as the primary purpose of attachment, nurturance, and socialization. Anthropologists classify most family organizations as matrifocal (a mother and her children), patrifocal (a father and his children), conjugal (a married couple with children, also called the nuclear family), avuncular (a man, his sister, and her children), or extended (in addition to parents, spouse and children, may include grandparents, aunts, uncles, or cousins). The field of genealogy aims to trace family lineages through history. The family is also an important economic unit studied in family economics."
+    },
+    {
+      "chunk_id": "wikipedia:His Family#0000",
+      "doc_id": "wikipedia:His Family",
+      "title": "His Family",
+      "url": "https://en.wikipedia.org/?curid=3241257",
+      "source_type": "wikipedia",
+      "score": 0.7530373990535736,
+      "text": "His Family is a novel by Ernest Poole published in 1917 about the life of a New York widower and his three daughters in the 1910s. It received the first Pulitzer Prize for the Novel in 1918. Plot introduction His Family tells the story of a middle-class family in New York City in the 1910s. The family's patriarch, widower Roger Gale, struggles to deal with the way his daughters and grandchildren respond to the changing society. Each of his daughters responds in a distinctively different way to the circumstances of their lives, forcing Roger into attempting to calm the increasingly challenging family disputes that erupt. Synopsis The story begins in the spring of 1913 with Roger Gale, a New York businessman and a widower, owner of a media monitoring service, reflecting on the changes that have come to New York since his arrival in the city as a young man from a New Hampshire farm somewhere near the time of the Civil War."
+    },
+    {
+      "chunk_id": "wikipedia:Uncle#0000",
+      "doc_id": "wikipedia:Uncle",
+      "title": "Uncle",
+      "url": "https://en.wikipedia.org/?curid=24306566",
+      "source_type": "wikipedia",
+      "score": 0.7379655599594116,
+      "text": "An uncle is usually defined as a male relative who is a sibling of a parent or married to a sibling of a parent, as well as the parent of the cousins. Uncles who are related by birth are second-degree relatives. The female counterpart of an uncle is an aunt, and the reciprocal relationship is that of a nephew or niece. The word comes from Latin: avunculus, the diminutive of avus (grandfather), and is a family relationship within an extended or immediate family. A popular colloquial term in English is Unc. In some cultures and families, children may refer to the cousins of their parents as uncle (or aunt). It is also used as a title of respect for older relatives, neighbours, acquaintances, family friends, and even total strangers in some cultures, for example Aboriginal Australian elders. Using the term in this way is a form of fictive kinship."
+    },
+    {
+      "chunk_id": "wikipedia:Society#0000",
+      "doc_id": "wikipedia:Society",
+      "title": "Society",
+      "url": "https://en.wikipedia.org/?curid=37235",
+      "source_type": "wikipedia",
+      "score": 0.6696293413639068,
+      "text": "A society () is a group of individuals involved in persistent social interaction or a large social group sharing the same spatial or social territory, typically subject to the same political authority and dominant cultural expectations. Societies are characterized by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions; a given society may be described as the sum total of such relationships among its constituent members. Human social structures are complex and highly cooperative, featuring the specialization of labor via social roles. Societies construct roles and other patterns of behavior by deeming certain actions or concepts acceptable or unacceptable—these expectations around behavior within a given society are known as societal norms. So far as it is collaborative, a society can enable its members to benefit in ways that would otherwise be difficult on an individual basis."
+    },
+    {
+      "chunk_id": "wikipedia:House#0001",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.6236117094755173,
+      "text": "agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans. The social unit that lives in a house is known as a household. Most commonly, a household is a family unit of some kind, although households may also have other social groups, such as roommates or, in a rooming..."
+    },
+    {
+      "chunk_id": "wikipedia:Group#0000",
+      "doc_id": "wikipedia:Group",
+      "title": "Group",
+      "url": "https://en.wikipedia.org/?curid=25874441",
+      "source_type": "wikipedia",
+      "score": 0.6100961774587631,
+      "text": "A group is a number of persons or things that are located, gathered, or classed together. Groups of people Cultural group, a group whose members share the same cultural identity Ethnic group, a group whose members share the same ethnic identity Religious group (disambiguation), a group whose members share the same religious identity Social group, a group whose members share the same social identity Tribal group, a group whose members share the same tribal identity Organization, an entity that has a collective goal and is linked to an external environment Peer group, an entity of three or more people with similar age, ability, experience, and interest Class (education), a group of people which attends a specific course or lesson at an educational institution Social science In-group and out-group Primary, secondary, and reference groups Social group Collectives Philosophy and religion Khandha, a Buddhist concept of five material and mental factors that take part in the rise of craving"
+    },
+    {
+      "chunk_id": "wikipedia:Brother#0000",
+      "doc_id": "wikipedia:Brother",
+      "title": "Brother",
+      "url": "https://en.wikipedia.org/?curid=4098495",
+      "source_type": "wikipedia",
+      "score": 0.5821847319602966,
+      "text": "A brother (pl.: brothers or brethren) is a man or boy who shares one or more parents with another; a male sibling. The female counterpart is a sister. Although the term typically refers to a familial relationship, it is sometimes used endearingly to refer to non-familial relationships. A full brother is a first degree relative. Overview The term brother comes from the Proto-Indo-European *bʰréh₂tēr, which becomes Latin frater, of the same meaning. Sibling warmth or affection between male siblings has been correlated to some more negative effects. In pairs of brothers, higher sibling warmth is related to more risk taking behaviour, although risk taking behaviour is not related to sibling warmth in any other type of sibling pair. The cause of this phenomenon in which sibling warmth is only correlated with risk taking behaviours in brother pairs still is unclear."
+    },
+    {
+      "chunk_id": "wikipedia:WITS#0001",
+      "doc_id": "wikipedia:WITS",
+      "title": "WITS",
+      "url": "https://en.wikipedia.org/?curid=3083596",
+      "source_type": "wikipedia",
+      "score": 0.5280595630407333,
+      "text": "a 2015 teen sitcom on Nickelodeon Other uses Herman Wits (1636–1708), Dutch theologian Bidvest Wits F.C., a South African football club University of the Witwatersrand, Johannesburg, South Africa WITS (AM), an AM radio station in Sebring, Florida See also Wit (disambiguation) Witts, a surname Witz (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Brother#0001",
+      "doc_id": "wikipedia:Brother",
+      "title": "Brother",
+      "url": "https://en.wikipedia.org/?curid=4098495",
+      "source_type": "wikipedia",
+      "score": 0.4878906160593033,
+      "text": "sibling pair. The cause of this phenomenon in which sibling warmth is only correlated with risk taking behaviours in brother pairs still is unclear. This finding does, however, suggest that although sibling conflict is a risk factor for risk taking behaviour, sibling warmth does not serve as a protective factor. Some studies suggest that girls having an older brother delays the onset of menarche by roughly one year. Research also suggests that the likelihood of being..."
+    },
+    {
+      "chunk_id": "wikipedia:Uncle#0001",
+      "doc_id": "wikipedia:Uncle",
+      "title": "Uncle",
+      "url": "https://en.wikipedia.org/?curid=24306566",
+      "source_type": "wikipedia",
+      "score": 0.4856235831975937,
+      "text": "friends, and even total strangers in some cultures, for example Aboriginal Australian elders. Using the term in this way is a form of fictive kinship. Any social institution where a special relationship exists between a man and his sisters' children is known as an avunculate (or avunculism or avuncularism). This relationship can be formal or informal, depending on the society. Early anthropological research focused on the association between the avunculate and matrilineal descent, while later..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A drama artist performs well.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "The meme poster is made someone else used their toothbrush.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their toothbrush"
+        ]
+      },
+      "title": {
+        "text": "It hurts",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "hurts"
+        ]
+      },
+      "text": {
+        "text": "WHEN|ONEORYOUR FAMILY aaa MEMBERS|USES)VOURTOOTHBRUSH ae | ~~ NODDOOOOOOOND",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "FAMILY aaa",
+          "oneoryour",
+          "family",
+          "members",
+          "uses",
+          "vourtoothbrush"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "hurts",
+      "FAMILY aaa",
+      "oneoryour",
+      "family",
+      "members",
+      "uses",
+      "vourtoothbrush"
+    ],
+    "secondary_terms": [
+      "their toothbrush"
+    ],
+    "queries": [
+      "\"FAMILY aaa\" \"hurts\" \"oneoryour\" \"family\"",
+      "\"oneoryour\" \"family\" \"members\" \"uses\""
+    ]
+  },
+  "source_jsonl_id": null
+}

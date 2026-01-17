@@ -1,0 +1,117 @@
+{
+  "meme_id": "meme_01337",
+  "queries": [
+    "\"Ngl\" \"Time traveller\" \"The timeline\" \"The snake\" \"The boy\"",
+    "\"The snake\" \"The boy\" \"an eight-year-old boy\" \"the boy's hand\""
+  ],
+  "primary_terms": [
+    "thats",
+    "fucked",
+    "Time traveller",
+    "The timeline",
+    "Cobra",
+    "an eight-year-old boy",
+    "Pandrapath",
+    "village",
+    "Chhattisgarh",
+    "The snake",
+    "the boy's hand",
+    "him",
+    "the reptile",
+    "which",
+    "The boy",
+    "anti-snake venom"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Hand#0000",
+      "doc_id": "wikipedia:Hand",
+      "title": "Hand",
+      "url": "https://en.wikipedia.org/?curid=19166474",
+      "source_type": "wikipedia",
+      "score": 0.5702390491962432,
+      "text": "A hand is a prehensile, multi-fingered appendage located at the end of the forearm or forelimb of primates such as humans, chimpanzees, monkeys, and lemurs. A few other vertebrates such as the koala (which has two opposable thumbs on each \"hand\" and fingerprints extremely similar to human fingerprints) are often described as having \"hands\" instead of paws on their front limbs. The raccoon is usually described as having \"hands\" though opposable thumbs are lacking. Some evolutionary anatomists use the term hand to refer to the appendage of digits on the forelimb more generally—for example, in the context of whether the three digits of the bird hand involved the same homologous loss of two digits as in the dinosaur hand. The human hand usually has five digits: four fingers plus one thumb; however, these are often referred to collectively as five fingers, whereby the thumb is included as one of the fingers."
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo#0000",
+      "doc_id": "wikipedia:Leonardo",
+      "title": "Leonardo",
+      "url": "https://en.wikipedia.org/?curid=11525478",
+      "source_type": "wikipedia",
+      "score": 0.5693250209093094,
+      "text": "Leonardo or The Leonardo may refer to: Arts and entertainment Leonardo Journal, an arts journal Leonardo (Italian magazine), a philosophy magazine published in Florence, Italy, in 1903–1907 Leonardo (journal), published by the MIT Press Leonardo (Teenage Mutant Ninja Turtles), one of the main characters in the Teenage Mutant Ninja Turtles franchise Leonardo (TV channel), an Italian television channel Leonardo (2011 TV series), a CBBC television series which centers around teenage Leonardo da Vinci played by Jonathan Bailey Leonardo (2021 TV series), an Italian-American television series Leonardo the Musical: A Portrait of Love, a 1993 musical Leonardo/ISAST, the International Society for the Arts, Sciences and Technology \"The Leonardo\", a 1933 short story written in Russian by Vladimir Nabokov Leonardo, the assistant of inventor Clyde Crashcup People Leonardo da Vinci (1452–1519), Italian polymath Leonardo Araújo, Brazilian former footballer and manager, most recently the sporting"
+    },
+    {
+      "chunk_id": "wikipedia:Young#0000",
+      "doc_id": "wikipedia:Young",
+      "title": "Young",
+      "url": "https://en.wikipedia.org/?curid=302029",
+      "source_type": "wikipedia",
+      "score": 0.5050531029701233,
+      "text": "Young may refer to: Offspring, the product of reproduction of a new organism produced by one or more parents Youth, the time of life when one's age is low, often meaning the time between childhood and adulthood Music The Young, an American rock band Young, an EP by Charlotte Lawrence, 2018 Songs \"Young\" (Baekhyun and Loco song), 2018 \"Young\" (The Chainsmokers song), 2017 \"Young\" (Hollywood Undead song), 2009 \"Young\" (Kenny Chesney song), 2002 \"Young\" (Place on Earth song), 2018 \"Young\" (Tulisa song), 2012 \"Young\", by Ella Henderson, 2019 \"Young\", by Lil Wayne from Dedication 6, 2017 \"Young\", by Nickel Creek from This Side, 2002 \"Young\", by Sam Smith from Love Goes, 2020 \"Young\", by Silkworm from Italian Platinum, 2002 \"Young\", by Vacations (band), 2016 \"Young\", by Vallis Alps, 2015 \"Young\", by Pixey, 2016 People Surname Young (surname) Given name Young (Korean name), Korean unisex given name and name element Young Boozer (born 1948), American banker and Alabama State Treasurer Young"
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0000",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.46782968044281004,
+      "text": "A toddler is a child approximately 1 to 3 years old, though definitions vary. The toddler years are a time of great cognitive, emotional and social development. The word is derived from \"toddle\", which means to walk unsteadily, as children at this age do. Developmental milestones Toddler development can be broken down into a number of interrelated areas. There is reasonable consensus about what these areas may include: Physical: growth or an increase in size. Gross motor: the control of large muscles which enable walking, running, jumping and climbing. Fine motor: the ability to control small muscles; enabling the toddler to feed themselves, draw and manipulate objects. Vision: the ability to see near and far and interpret what is seen. Hearing and speech: the ability to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively."
+    },
+    {
+      "chunk_id": "wikipedia:Timon#0001",
+      "doc_id": "wikipedia:Timon",
+      "title": "Timon",
+      "url": "https://en.wikipedia.org/?curid=358706",
+      "source_type": "wikipedia",
+      "score": 0.46720564365386963,
+      "text": "the title character of The History of Timon of Athens the Man-hater, a rewrite of Shakespeare's original play by Thomas Shadwell Timon, a film and television character, originally from the film The Lion King Timon (Rome character), in the 2005 television series Rome Timon, one of the minor characters in the 2017 Netflix series, Big Mouth (American..."
+    },
+    {
+      "chunk_id": "wikipedia:Snake#0001",
+      "doc_id": "wikipedia:Snake",
+      "title": "Snake",
+      "url": "https://en.wikipedia.org/?curid=29370",
+      "source_type": "wikipedia",
+      "score": 0.4580610156059265,
+      "text": "bodies without limbs or with greatly reduced limbs at least twenty-five times via convergent evolution, leading to many lineages of legless lizards. These resemble snakes, but several common groups of legless lizards have eyelids and external ears, which snakes lack, although this rule is not universal (see Amphisbaenia, Dibamidae, and Pygopodidae). Living snakes are found on every continent except Antarctica, and on most smaller land masses; exceptions include some large islands, such as Ireland..."
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0000",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.44924259185791016,
+      "text": "Rubeus Hagrid () is a fictional character in the Harry Potter series of novels by J. K. Rowling. He was introduced in Harry Potter and the Philosopher's Stone (1997) as a half-giant who is the gamekeeper and groundskeeper at the wizarding school Hogwarts. He is a member of the Order of the Phoenix and eventually becomes the Care of Magical Creatures professor. Hagrid is portrayed by Robbie Coltrane in all eight Harry Potter films. Creation and development Rubeus Hagrid was one of the first characters Rowling created. In a 1999 interview, she explained that the name \"Hagrid\" is an Old English word, referring to hagridden, meaning 'tormented by hags'. She said it means \"you'd had a bad night\" and she explained that Hagrid \"has a lot of bad nights\" due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\"."
+    },
+    {
+      "chunk_id": "wikipedia:Young Man#0000",
+      "doc_id": "wikipedia:Young Man",
+      "title": "Young Man",
+      "url": "https://en.wikipedia.org/?curid=16302334",
+      "source_type": "wikipedia",
+      "score": 0.445502907037735,
+      "text": "Young Man may refer to: Boy or young adult man Music Young Man (Billy Dean album) or the title song, 1990 Young Man, an album by Jack Ingram, 2004 \"Young Man\", a song by the Chicks from Gaslighter, 2020 \"Young Man\", a song by Justin Timberlake from Man of the Woods, 2018 \"Young Man\", a song by Living Colour from The Chair in the Doorway, 2009 \"Young Man\", a song by Rodney Atkins from Caught Up in the Country, 2019 Other uses The Young Man a 1984 novel by Botho Strauß Young Man of Arévalo (fl. 16th century), Spanish Morisco crypto-Muslim writer Young Man Kang (born 1966), South Korean filmmaker Young Man Lake, a lake in Montana, US Young Man (film), a 2022 Russian comedy film See also All pages with titles containing Young Man Naujawan (disambiguation) (lit."
+    },
+    {
+      "chunk_id": "wikipedia:Finger#0000",
+      "doc_id": "wikipedia:Finger",
+      "title": "Finger",
+      "url": "https://en.wikipedia.org/?curid=37618",
+      "source_type": "wikipedia",
+      "score": 0.4172122240066528,
+      "text": "A finger is a prominent digit on the forelimbs of most tetrapod vertebrate animals, especially those with prehensile extremities (i.e. hands) such as humans and other primates. Most tetrapods have five digits (pentadactyly), and short digits (i.e. significantly shorter than the metacarpal/metatarsals) are typically referred to as toes, while those that are notably elongated are called fingers. In humans, the fingers are flexibly articulated and opposable, serving as an important organ of tactile sensation and fine movements, which are crucial to the dexterity of the hands and the ability to grasp and manipulate objects Humans Usually humans have five digits, the bones of which are termed phalanges, on each hand, although some people have more or fewer than five due to congenital disorders such as polydactyly or oligodactyly, or accidental or intentional amputations. The first digit is the thumb, followed by the index finger, middle finger, ring finger, and little finger or pinkie."
+    },
+    {
+      "chunk_id": "wikipedia:Timon and Pumbaa#0000",
+      "doc_id": "wikipedia:Timon and Pumbaa",
+      "title": "Timon and Pumbaa",
+      "url": "https://en.wikipedia.org/?curid=4449334",
+      "source_type": "wikipedia",
+      "score": 0.4161667376756668,
+      "text": "Timon and Pumbaa are an animated meerkat and warthog duo introduced in Disney's 1994 animated feature film The Lion King and its franchise. Timon was played through his many appearances by Nathan Lane (in all three films and early episodes of the show), Max Casella (the original actor in Broadway musical), Kevin Schon (in certain episodes of the show), Quinton Flynn (in certain episodes of the show), Bruce Lanoil in the Wild About Safety shorts and Kingdom Hearts II, while Pumbaa is voiced by Ernie Sabella (in all of his traditionally animated speaking appearances), and was portrayed by Tom Alan Robbins in the original cast of the Broadway musical. In the CGI remake, the characters are portrayed by Billy Eichner and Seth Rogen, respectively. Nathan Lane and Ernie Sabella first came to audition for the roles of the hyenas, but when the producers saw how well they worked together, they decided to cast them as Timon and Pumbaa."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_00293",
+  "queries": [
+    "\"dog* Family\" \"Dad\" \"the dog\" \"looks\"",
+    "\"the dog\" \"looks\" \"very\" \"polite\""
+  ],
+  "primary_terms": [
+    "looks",
+    "very",
+    "polite",
+    "Dad",
+    "dog* Family",
+    "dog",
+    "the dog"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Spot#0001",
+      "doc_id": "wikipedia:Spot",
+      "title": "Spot",
+      "url": "https://en.wikipedia.org/?curid=67090",
+      "source_type": "wikipedia",
+      "score": 0.8764893174171448,
+      "text": "on public broadcasting outlets, especially in the United States, in exchange for funding Animals Spot, a dog that remained faithful after his master's death, described in the List of individual dogs Spot Fetcher, a dog owned by U.S. President George W. Bush Arts and entertainment Fictional characters Spot, a character..."
+    },
+    {
+      "chunk_id": "wikipedia:Face#0000",
+      "doc_id": "wikipedia:Face",
+      "title": "Face",
+      "url": "https://en.wikipedia.org/?curid=53234",
+      "source_type": "wikipedia",
+      "score": 0.7548017561435699,
+      "text": "The face is the front of the head in humans and many other animals that features most of the sense organs including the eyes, nose and mouth. Many animals may express emotions through their face. Sense organs in the faces of different animals are varied such as the snout, and the proboscis. Many animals are flat-faced (brachycephalic) such as the pug dog. The human face is crucial for identity, and damage such as scarring or developmental deformities may adversely affect the psyche. Human face Structure The front of the human head is called the face. It includes several distinct areas, of which the main features are: The forehead, comprising the skin beneath the hairline, bordered laterally by the temples and inferiorly by eyebrows and ears The eyes, sitting in the orbit and protected by eyelids and eyelashes The distinctive human nose shape, nostrils, and nasal septum The cheeks, covering the maxilla and mandible (or jaw), the extremity of which is the chin The mouth, with the upper"
+    },
+    {
+      "chunk_id": "wikipedia:Welsh Corgi#0000",
+      "doc_id": "wikipedia:Welsh Corgi",
+      "title": "Welsh Corgi",
+      "url": "https://en.wikipedia.org/?curid=247458",
+      "source_type": "wikipedia",
+      "score": 0.6749939441680908,
+      "text": "The Welsh Corgi ( or Corgi (pl. Corgis); occasionally the etymologically consistent Corgwn ) is a small type of herding dog that originated in Wales. The name corgi is thought to be derived from the Welsh words cor and ci (which is mutated to gi), meaning \"dwarf\" and \"dog\", respectively. Two separate breeds are recognised: the Pembroke Welsh Corgi and the Cardigan Welsh Corgi. Physical differences are seen between the two breeds. According to the breed standards, overall, the Cardigan is larger in weight and height and has a much longer tail than the Pembroke. Historically, the Pembroke has been attributed to the influx of dogs alongside Flemish weavers from around the 14th century. In contrast, the Cardigan is attributed to the dogs brought with Norse settlers, in particular a common ancestor of the Swedish Vallhund. The Pembroke is the more popular of the two, yet still appears on the Kennel Club's vulnerable dog breeds of the United Kingdom list."
+    },
+    {
+      "chunk_id": "wikipedia:Bing#0001",
+      "doc_id": "wikipedia:Bing",
+      "title": "Bing",
+      "url": "https://en.wikipedia.org/?curid=23443579",
+      "source_type": "wikipedia",
+      "score": 0.6285626947879791,
+      "text": "(company), a German company that manufactured toys and kitchen utensils Bing (dog), a British dog who served in World War II Bing (mining), a Scottish term for mining waste Bing & Bing, a former New York real estate development company Bing Concert Hall, a building on the Stanford University campus Barbershop in Germany or..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5645770192146301,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Bing#0000",
+      "doc_id": "wikipedia:Bing",
+      "title": "Bing",
+      "url": "https://en.wikipedia.org/?curid=23443579",
+      "source_type": "wikipedia",
+      "score": 0.5369289577007293,
+      "text": "Bing most often refers to: Bing Crosby (1903–1977), American singer Microsoft Bing, a web search engine Bing may also refer to: Food and drink Bing (bread), a Chinese flatbread Bing (soft drink), a UK brand Bing cherry, a variety of cherry Twin Bing or Bing, a candy made by Palmer Candy Company Names Bing (German surname), a German-language surname Bing (Chinese surname) (邴), a Chinese surname Places Bing Prefecture, an ancient Chinese province Bing, Hormozgan, a village in Hormozgan Province, Iran Binag, Sistan and Baluchestan, a village in Sistan and Baluchestan Province, Iran Manor of Byng, Suffolk, England Television Bing (TV series), a British children's television series Bada Bing or the Bing, a fictional strip club in The Sopranos Bing or Evan Chambers, a character in Greek Bing, a character in The Angry Beavers Other uses Bing (company), a German company that manufactured toys and kitchen utensils Bing (dog), a British dog who served in World War II Bing (mining), a Scottish"
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.5266341269016266,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Head#0000",
+      "doc_id": "wikipedia:Head",
+      "title": "Head",
+      "url": "https://en.wikipedia.org/?curid=1209545",
+      "source_type": "wikipedia",
+      "score": 0.5138389527797699,
+      "text": "A head is the part of an organism which usually includes the ears, brain, forehead, cheeks, chin, eyes, nose, and mouth, each of which aid in various sensory functions such as sight, hearing, smell, and taste. Some very simple animals may not have a head, but many bilaterally symmetric forms do, regardless of size. Heads develop in animals by an evolutionary trend known as cephalization. In bilaterally symmetrical animals, nervous tissue concentrate at the anterior region, forming structures responsible for information processing. Through biological evolution, sense organs and feeding structures also concentrate into the anterior region; these collectively form the head. Human head The human head is an anatomical unit that consists of the skull, hyoid bone and cervical vertebrae. The skull consists of the brain case which encloses the cranial cavity, and the facial skeleton, which includes the mandible. There are eight bones in the brain case and fourteen in the facial skeleton."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0001",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.4673152565956116,
+      "text": "state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son. The principal, worried for his school's reputation, tries to contain the situation and hides the letter in his office, while the four parents instructs their children to keep quiet. Ho-chang, curious to..."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0001",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.4446067065000534,
+      "text": "looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act. Looking versus seeing \"Looking\" and \"seeing\" are traditionally contrasted in a number of ways, although their usage often overlaps. Looking can be characterized as \"the action precedent to seeing\". Any kind of looking or viewing actually implies \"seeing\" certain things within the range..."
+    }
+  ]
+}

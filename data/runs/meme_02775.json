@@ -1,0 +1,105 @@
+{
+  "meme_id": "meme_02775",
+  "queries": [
+    "\"spiders\" \"hate\" \"something\"",
+    "\"The hamster\" \"spiders\" \"hate\" \"something\""
+  ],
+  "primary_terms": [
+    "spiders",
+    "hate",
+    "something",
+    "your leg"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Spider#0000",
+      "doc_id": "wikipedia:Spider",
+      "title": "Spider",
+      "url": "https://en.wikipedia.org/?curid=28329803",
+      "source_type": "wikipedia",
+      "score": 0.9220199346542358,
+      "text": "Spiders (order Araneae) are air-breathing arthropods that have eight limbs, chelicerae with fangs generally able to inject venom, and spinnerets that extrude silk. They are the largest order of arachnids and rank seventh in total species diversity among all orders of organisms. Spiders are found worldwide on every continent except Antarctica, and have become established in nearly every land habitat. As of December 2025, 53,608 spider species in 139 families have been recorded by taxonomists. However, there has been debate among scientists about how families should be classified, with over 20 different classifications proposed since 1900. Anatomically, spiders (as with all arachnids) differ from other arthropods in that the usual body segments are fused into two tagmata, the cephalothorax or prosoma, and the opisthosoma, or abdomen, and joined by a small, cylindrical pedicel."
+    },
+    {
+      "chunk_id": "wikipedia:Centipede#0000",
+      "doc_id": "wikipedia:Centipede",
+      "title": "Centipede",
+      "url": "https://en.wikipedia.org/?curid=186495",
+      "source_type": "wikipedia",
+      "score": 0.6997582316398621,
+      "text": "Centipedes (from Neo-Latin centi-, \"hundred\", and Latin pes, pedis, \"foot\") are predatory arthropods belonging to the class Chilopoda (Ancient Greek χεῖλος, kheilos, \"lip\", and Neo-Latin suffix -poda, \"foot\", describing the forcipules) of the subphylum Myriapoda, an arthropod group which includes millipedes and other multi-legged animals. Centipedes are elongated segmented (metameric) animals with one pair of legs per body segment. All centipedes are venomous and can inflict painful stings, injecting their venom through pincer-like appendages known as forcipules or toxicognaths, which are actually modified legs instead of fangs. Despite the name, no species of centipede has exactly 100 legs; the number of pairs of legs is an odd number that ranges from 15 pairs to 191 pairs. Centipedes are predominantly generalist carnivores, hunting for a variety of prey items that can be overpowered."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0001",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.6428046524524689,
+      "text": "teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J. Jonah Jameson; friends like Harry Osborn and Flash Thompson; romantic interests like Gwen Stacy, Mary Jane Watson, and the Black Cat; and enemies such as Doctor Octopus, the Green Goblin, and Venom. In his origin story, Peter gets his superhuman spider-powers and abilities after he was bitten..."
+    },
+    {
+      "chunk_id": "wikipedia:Fear#0001",
+      "doc_id": "wikipedia:Fear",
+      "title": "Fear",
+      "url": "https://en.wikipedia.org/?curid=10828",
+      "source_type": "wikipedia",
+      "score": 0.6409489512443542,
+      "text": ". Phobias, or exaggerated and often disabling fears, are usually similarly dysfunctional. Fear is often framed as a distinct product of evolution. This hypothesis, however, is becoming increasingly problematic because the psychological, (neuro)physiological, and behavioral changes and features associated with fear are consistently found to be shared with other negative, highly arousing emotional states such as anger, sadness, disgust, and anxiety. A more scientifically defensible product of evolution is flexibility..."
+    },
+    {
+      "chunk_id": "wikipedia:Fear#0000",
+      "doc_id": "wikipedia:Fear",
+      "title": "Fear",
+      "url": "https://en.wikipedia.org/?curid=10828",
+      "source_type": "wikipedia",
+      "score": 0.6176064908504486,
+      "text": "Fear is an unpleasant subjective emotional state arising in response to perceived dangers or threats and which, when experienced, is typically associated with physiological and psychological changes. These changes frequently lead to behavioral reactions such as fight-or-flight responses or, in extreme cases, immobilization (freeze response). Unlike most (perhaps all) other animals, humans can experience fear in response to a present or anticipated stimulus and to imagined events. Most internalizing psychopathologies (depression, anxiety, suicidal thoughts and behaviors, and so forth) are associated with and maintained by dysfunctional, anxious, or fearful feelings and thoughts. Phobias, or exaggerated and often disabling fears, are usually similarly dysfunctional. Fear is often framed as a distinct product of evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0000",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.5763433277606964,
+      "text": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Considered one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays. Spider-Man is the secret identity of Peter Benjamin Parker, who was raised by his Aunt May and Uncle Ben in Queens, New York City, after the death of his parents. Lee, Ditko, and later writers had the character deal with the struggles of adolescence and young adulthood. Readers identified with his self-doubt and loneliness. Unlike previous teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J."
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0001",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.5585868120193481,
+      "text": "1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple, 2008 \"Whatever\", by Hüsker Dü from Zen Arcade, 1984 \"Whatever\", by Imogen Heap from I Megaphone, 1998 \"Whatever\", by Lil Tecca from We Love You Tecca 2, 2021 \"Whatever\", by Our Lady Peace..."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0000",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.5580624938011169,
+      "text": "Things or The Things may refer to: Music Things (album), by Uri Caine and Paolo Fresu, 2006 \"Things\" (Bobby Darin song), 1962; covered by Ronnie Dove, 1975 \"Things\", a song by Joe Walsh from There Goes the Neighborhood, 1981 \"Things\", a song by John Cale from HoboSapiens, 2003 \"Things\", a song by Split Enz, 1979 \"Things\", a song by Paul Westerberg from 14 Songs, 1993 \"The Things\", a song by Audio Bullys from Ego War, 2003 Literature Things, a 1914 novel by Alice Duer Miller Things: A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0001",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.5447046756744385,
+      "text": "food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting. Their favorite food is cocoa beans. When Willy Wonka arrived, he told the chief he and his people can come live and work at his factory and have all the cocoa beans they want. In the first edition of Charlie..."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0001",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.5396938323974609,
+      "text": "Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A. Applegate The Other (Tryon novel), a 1971 horror novel by Tom Tryon \"The Other\" (short story), a 1972 short story by Jorge Luis Borges The Other, a 2008 novel by David Guterson Spider-Man: \"The Other\", a 2005–2006..."
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "meme_id": "meme_02919",
+  "queries": [
+    "\"Hello there, retail workers\" \"Miia\" \"roe fri\" \"hello\"",
+    "\"roe fri\" \"hello\" \"there\" \"retail\""
+  ],
+  "primary_terms": [
+    "Hello there, retail workers",
+    "hello",
+    "there",
+    "retail",
+    "workers",
+    "roe fri",
+    "Miia",
+    "vos",
+    "tas"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Store#0000",
+      "doc_id": "wikipedia:Store",
+      "title": "Store",
+      "url": "https://en.wikipedia.org/?curid=43365305",
+      "source_type": "wikipedia",
+      "score": 0.7883264780044555,
+      "text": "Store may refer to: Enterprises Retail store, a shop where merchandise is sold, usually products and usually on a retail basis, and where wares are often kept App store, an online retail store where apps are sold, included in many mobile operating systems Department store, a retail store offering a wide range of consumer goods Warehouse club (or wholesale club), a no-frills retail store, usually selling a wide variety of merchandise, in which customers may buy large, wholesale quantities at low prices Warehouse, a location where items are stored, e.g., a ship's paint store, and sometimes sold, e.g., Costco Warehouse Club Arts, entertainment, and media The Store (ITV), a British shopping television programming on ITV1 The Store (novel), a 1932 novel by Thomas Sigismund Stribling \"Store\", a song by Carly Rae Jepsen from the EP Emotion: Side B Other uses Data store, a repository for persistently storing and managing collections of data Štore, a town and a municipality in eastern Slovenia"
+    },
+    {
+      "chunk_id": "wikipedia:Sales#0001",
+      "doc_id": "wikipedia:Sales",
+      "title": "Sales",
+      "url": "https://en.wikipedia.org/?curid=155698",
+      "source_type": "wikipedia",
+      "score": 0.6179943293333053,
+      "text": "of the item will occur. The seller, not the purchaser, typically executes the sale and it may be completed prior to the obligation of payment. In the case of indirect interaction, a person who sells goods or service on behalf of the owner is known as a salesman or saleswoman or salesperson, but this often refers to someone selling goods in a store/shop, in which case other terms are also common, including salesclerk, shop assistant, and retail clerk. In common law countries, sales are governed generally by the common law and commercial codes. In the United States, the laws governing..."
+    },
+    {
+      "chunk_id": "wikipedia:Premium#0000",
+      "doc_id": "wikipedia:Premium",
+      "title": "Premium",
+      "url": "https://en.wikipedia.org/?curid=769137",
+      "source_type": "wikipedia",
+      "score": 0.6091452896595001,
+      "text": "Premium may refer to: Marketing Premium (marketing), a promotional item that can be received for a small fee when redeeming proofs of purchase that come with or on retail products Premium segment, high-price brands or services in marketing, e.g.: Premium business model, offering high end products and services Premium domain Premium email, a marketing term used by for-profit email services Premium fare, a higher fare on a public transport service Premium gasoline, a grade of gasoline, with the highest octane rating Premium beer, marketing term for beer Premium Processing Service, service offered by the United States Citizenship and Immigration Services Premium Residency, a Saudi residence permit Premium station, a class of railway stations on Metlink in Melbourne Premium television, a class of subscription-based television service Premium texting, SMS used for delivering digital content Premium-rate telephone number, telephone numbers for which prices higher than normal are charged"
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0000",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.570773845911026,
+      "text": "A retail cashier or simply a cashier is a person who handles the cash register at various locations such as the point of sale in a retail store. The most common use of the title is in the retail industry, but this job title is also used in the context of accountancy for the person responsible for receiving and disbursing money or within branch banking in the United Kingdom for the job known in the United States as a bank teller. Retail In a shop, a cashier (or checkout operator) is an employee who scans the goods that the customer wishes to purchase through a cash register. In most modern stores, the items are scanned by a barcode positioned on the item with the use of a laser scanner. After all of the items have been scanned, the cashier then collects the payment (in cash, check, and/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers."
+    },
+    {
+      "chunk_id": "wikipedia:Premium#0001",
+      "doc_id": "wikipedia:Premium",
+      "title": "Premium",
+      "url": "https://en.wikipedia.org/?curid=769137",
+      "source_type": "wikipedia",
+      "score": 0.5492317229509354,
+      "text": "texting, SMS used for delivering digital content Premium-rate telephone number, telephone numbers for which prices higher than normal are charged Brands Premium-Cola, a brand of cola from Germany Premium Brands Holdings Corporation, a Canadian specialty food manufacturing and distribution company Premium Outlets, a brand of shopping malls..."
+    },
+    {
+      "chunk_id": "wikipedia:Morning#0001",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.545186460018158,
+      "text": "despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\". Significance Cultural implications Morning prayer is a common practice in several religions. The morning period includes specific phases of the Liturgy of the Hours of Christianity. Some languages that use the time of day in greeting have a special greeting for morning..."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0001",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.5368608295917511,
+      "text": "2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a Singaporean film directed by Tzu Nyen Ho Here (2011 film), an American drama directed by Braden King Here (2023 film), a Belgian film directed by Bas Devos Here (2024 film), an American drama directed..."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0000",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.535487613081932,
+      "text": "Here may refer to: Music Here (Adrian Belew album), 1994 Here (Alicia Keys album), 2016 Here (Cal Tjader album), 1979 Here (Edward Sharpe album), 2012 Here (Idina Menzel album), 2004 Here (Merzbow album), 2008 Here (Nicolay album), 2006 Here (Leo Sayer album), 1979 Here (Teenage Fanclub album), 2016 \"Here\" (Alessia Cara song), 2015 \"Here\" (The Grace song), 2008 \"Here\" (Rascal Flatts song), 2008 \"Here\" (Tom Grennan song), 2023 \"Here\" (1954 song), song with music by Harold Grant and lyrics by Dorcas Cochran Here (Cartoon song), 2016 \"Here (In Your Arms)\", 2006 song by Hellogoodbye \"Here\", a 1971 song by America from their eponymous debut album \"Here\", a 2014 song by Christine and the Queens from Chaleur humaine \"Here\", a 2018 song by David Byrne from American Utopia \"Here\", a 1992 song by Pavement from Slanted and Enchanted \"Here\", a 2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a"
+    },
+    {
+      "chunk_id": "wikipedia:Miss#0001",
+      "doc_id": "wikipedia:Miss",
+      "title": "Miss",
+      "url": "https://en.wikipedia.org/?curid=23807088",
+      "source_type": "wikipedia",
+      "score": 0.5252714157104492,
+      "text": "and usage The meanings of both Miss and Mrs underwent transformations over time. Historically, these titles did not solely indicate marital status. Even after the adoption of Miss by many adult single women in 18th-century England, Mrs continued to signify social or business standing, rather than merely marital status, until at least the mid-19th century. Racial discrimination Being addressed with..."
+    },
+    {
+      "chunk_id": "wikipedia:Accent#0001",
+      "doc_id": "wikipedia:Accent",
+      "title": "Accent",
+      "url": "https://en.wikipedia.org/?curid=193493",
+      "source_type": "wikipedia",
+      "score": 0.5125958621501923,
+      "text": "on a particular area or object Accent Records, a record label ACCENT Speakers Bureau, a student-run organization at the University of Florida Ac'cent, brand name for monosodium glutamate (MSG) See also All pages with titles beginning with Accent All pages with titles containing Accent Accenture, company Accentor, a bird..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A woman is posing in while has on a michael myers mask.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a michael myers mask"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that retail workers are trying to market both Halloween and Christmas at the same time.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "retail workers",
+          "both Halloween",
+          "Christmas",
+          "the same time"
+        ]
+      },
+      "title": {
+        "text": "Hello there, retail workers!",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Hello there, retail workers",
+          "hello",
+          "there",
+          "retail",
+          "workers"
+        ]
+      },
+      "text": {
+        "text": "for Chri ' sO istmas! re os NY oF a eTBN, NY: = : ™ roe fri. ° om : “~~ ~ . a “ytae, ad “3 Y..~ Sey ~ ' coo TN 3 _? ANY va ; Wi SES; y, . ANA a , - gh\\) —o MMSE ny ° ’ ta & Za ene aoa a Lhye . ! oh. oy ane ‘ . \\ ar - fe _-” : oo 4a \\' a . ry Y. pias /: Z oa) ° \\ . i ae “ . ‘ Pa . ve ; . / hay Miia \\ | ol} ‘ . A ‘ - ; areAy, = Uso X - “— — os ote o we. jj , \\ SS (oo ee pee at 7 _ 7 \\ _ A os QM : . ao AN ret os oan’. ¥ 7 porn) : , ANG ‘ iy: wef A . vos, 2 ey, os h . \\ EN oan spe - Aes od .- ow vy Syren 9) ly wy 3 fe 7 oye en tas! pm ~O AL ve en a? raw thats. ‘ BON gd : ee ry * ,? ° a se e e ~° Ne re So te a ke . ~male f wee, oe a. ~ oe a8 oe acata egy. . wwe vag ~°¢ - at et ees . . ‘% 2° 6. a A ca - a4 oer @ eo *e® Aen . oy ~~ ee oe “us -7 . - ue eS -. ets. \\ aan ven. - af . “ . eo . 7 . J a ° a s? wf Nan greeets .. aS ™ -* \\ ‘ ZS a4 *, > aw. ™® . 7 ef oe @ % AS See 7 ~~ . i owt . \\ ce 4 . - owe %, A es Oe ’ \\ ~ Por. . _ 86, eo, etsit ° ° . 7 SA TEN “v4 cry % e at, w~ ie . . .- ae bd A e? 4 e 5 a¢ . eo. . Pa v4 7° . an . “oes y. . LAE te, an : ; » OMA Le ° (Oo at Oy ~ 1: avta. - \\ ; TD , as _ :",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "roe fri",
+          "Miia",
+          "vos",
+          "tas"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Hello there, retail workers",
+      "hello",
+      "there",
+      "retail",
+      "workers",
+      "roe fri",
+      "Miia",
+      "vos",
+      "tas"
+    ],
+    "secondary_terms": [
+      "a michael myers mask",
+      "retail workers",
+      "both Halloween",
+      "Christmas",
+      "the same time"
+    ],
+    "queries": [
+      "\"Hello there, retail workers\" \"Miia\" \"roe fri\" \"hello\"",
+      "\"roe fri\" \"hello\" \"there\" \"retail\""
+    ]
+  },
+  "source_jsonl_id": null
+}

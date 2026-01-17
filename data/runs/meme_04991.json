@@ -1,0 +1,103 @@
+{
+  "meme_id": "meme_04991",
+  "queries": [
+    "\"their experience\" \"simp\" \"meaning\""
+  ],
+  "primary_terms": [
+    "True meaning",
+    "meaning",
+    "nan"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.3400526106357574,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Luck#0001",
+      "doc_id": "wikipedia:Luck",
+      "title": "Luck",
+      "url": "https://en.wikipedia.org/?curid=192727",
+      "source_type": "wikipedia",
+      "score": 0.30709455013275144,
+      "text": "often prescribe how luckiness or unluckiness can be obtained, such as by carrying a lucky charm or offering sacrifices or prayers to a deity. Saying someone is \"born lucky\" may hold different meanings, depending on the interpretation: it could simply mean that they have been born into a good family or circumstance; or that they habitually experience improbably positive events, due to some inherent property, or due..."
+    },
+    {
+      "chunk_id": "wikipedia:User experience#0001",
+      "doc_id": "wikipedia:User experience",
+      "title": "User experience",
+      "url": "https://en.wikipedia.org/?curid=1462876",
+      "source_type": "wikipedia",
+      "score": 0.30577680468559265,
+      "text": "Norman Group, 'user experience' includes all the aspects of the interaction between the end-user with the company, its services, and its products. The international standard on ergonomics of human-system interaction, ISO 9241, defines user experience as a \"user's perceptions and responses that result from the use and/or anticipated use of a system, product or service\". According to the ISO definition, user experience includes all the users' emotions, beliefs, preferences, perceptions, physical and psychological..."
+    },
+    {
+      "chunk_id": "wikipedia:Care#0000",
+      "doc_id": "wikipedia:Care",
+      "title": "Care",
+      "url": "https://en.wikipedia.org/?curid=246884",
+      "source_type": "wikipedia",
+      "score": 0.2891826927661896,
+      "text": "Care may refer to: Organizations and projects CARE (New Zealand), Citizens Association for Racial Equality, a former New Zealand organisation CARE (England) West Midlands, Central Accident Resuscitation Emergency team, a team of doctors & paramedics CARE International, Cooperative for Assistance and Relief Everywhere, an international aid and development organization Carpet America Recovery Effort, an American carpet recycling project Charged Aerosol Release Experiment, a NASA project concerning dust in space Christian Action Research and Education, a Christian lobby group in the United Kingdom Credit Abuse Resistance Education, an American national program Crew Module Atmospheric Re-entry Experiment, a 2014 ISRO experimental vehicle People with the surname Danny Care (soccer) (born 1974), American soccer player Danny Care (born 1987), English rugby union player Henry Care (1646–1688), English political writer and journalist Peter Care (born 1953), British film and video producer"
+    },
+    {
+      "chunk_id": "wikipedia:Position#0000",
+      "doc_id": "wikipedia:Position",
+      "title": "Position",
+      "url": "https://en.wikipedia.org/?curid=268217",
+      "source_type": "wikipedia",
+      "score": 0.2871863305568695,
+      "text": "Position often refers to: Position (geometry), the spatial location (rather than orientation) of an entity Position, a job or occupation Position may also refer to: Games and recreation Position (poker), location relative to the dealer Position (team sports), a player role within a team Human body Human position, the spatial relation of the human body to itself and the environment Position (obstetrics), the orientation of a baby prior to birth Positions of the feet in ballet Position (music), the location of the hand on a musical instrument Proprioception, the sense of the relative position of neighbouring parts of the body Asana (yoga), the location and posture of the body while practicing yoga Sex position, the arrangement of bodies during sexual intercourse Humanities, law, economics and politics Philosophical theory, a belief or set of beliefs about questions in philosophy Position (finance), commitments in a financial marketplace Social position, the position of an individual in"
+    },
+    {
+      "chunk_id": "wikipedia:Information#0001",
+      "doc_id": "wikipedia:Information",
+      "title": "Information",
+      "url": "https://en.wikipedia.org/?curid=18985062",
+      "source_type": "wikipedia",
+      "score": 0.2765931099653244,
+      "text": "control, data, form, education, knowledge, meaning, understanding, mental stimuli, pattern, perception, proposition, representation, and entropy. Information is often processed iteratively: Data available at one step are processed into information to be interpreted and processed at the next step. For example, in written text each symbol or letter conveys information..."
+    },
+    {
+      "chunk_id": "wikipedia:Success#0001",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.24939675629138947,
+      "text": "a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness. It may also be difficult or impossible to ascertain whether a situation meets criteria for success or failure due to ambiguous or ill-defined definition of those criteria. Finding useful and effective criteria, or heuristics, to judge the failure or success of a situation may itself be a significant task. In American culture DeVitis and Rich link the..."
+    },
+    {
+      "chunk_id": "wikipedia:User experience#0000",
+      "doc_id": "wikipedia:User experience",
+      "title": "User experience",
+      "url": "https://en.wikipedia.org/?curid=1462876",
+      "source_type": "wikipedia",
+      "score": 0.24561163783073425,
+      "text": "User experience (UX) is how a user interacts with and experiences a product, system, or service. It includes a person's perceptions of utility, ease of use, and efficiency. Improving user experience is important to most companies, designers, and creators when creating and refining products because negative user experience can diminish the use of the product and, therefore, any desired positive impacts. Conversely, designing toward profitability as a main objective often conflicts with ethical user experience objectives and even causes harm. User experience is subjective. However, the attributes that make up the user experience are objective. Definitions According to Nielsen Norman Group, 'user experience' includes all the aspects of the interaction between the end-user with the company, its services, and its products."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.24286136031150818,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Avert (HIV and AIDS organisation)#0000",
+      "doc_id": "wikipedia:Avert (HIV and AIDS organisation)",
+      "title": "Avert (HIV and AIDS organisation)",
+      "url": "https://en.wikipedia.org/?curid=20327233",
+      "source_type": "wikipedia",
+      "score": 0.23861724138259888,
+      "text": "Avert is an international charity with a focus on HIV and associated issues. Between 1986 and 2024 Avert supported inclusive, non-judgemental information services, sponsored medical research that others refused to fund, and supported local organisations in the UK, Asia and Africa with funds to support key HIV prevention, care and treatment services. During its last ten years, Avert focused primarily on digital communications to build health literacy on HIV and sexual health, thereby supporting global efforts to end AIDS and achieve the Sustainable Development Goal for Health. In this period, Avert worked in partnership with organisations in countries most affected by HIV to develop and promote digital HIV and sexual health content and resources that are accurate, accessible, useful, and actionable. In November 2023, work began to transition Avert's core brands to African-led and African-based organisations who could maintain and grow Avert's legacy into the future."
+    }
+  ]
+}

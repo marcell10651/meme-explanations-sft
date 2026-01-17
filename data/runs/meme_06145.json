@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_06145",
+  "queries": [
+    "\"every hair\" \"happened\" \"body\" \"look\"",
+    "\"body\" \"look\" \"bug\" \"now\""
+  ],
+  "primary_terms": [
+    "happened",
+    "every hair",
+    "body",
+    "look",
+    "bug",
+    "now",
+    "every",
+    "hair",
+    "theres"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.8864606380462646,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Appearance#0000",
+      "doc_id": "wikipedia:Appearance",
+      "title": "Appearance",
+      "url": "https://en.wikipedia.org/?curid=8104650",
+      "source_type": "wikipedia",
+      "score": 0.7949329376220703,
+      "text": "Appearance may refer to: Visual appearance, the way in which objects reflect and transmit light Human physical appearance, what someone looks like Appearances (film), a 1921 film directed by Donald Crisp Appearance (philosophy), or phenomenon Phantasiai, a term in ancient Greek philosophy variously translated as \"appearances,\" \"impressions,\" \"presentations,\" and \"representations.\" Appearance (law), the coming into court of either of the parties to a suit, and/or the formal act by which a defendant submits himself to the jurisdiction of the court. Appear or Appears may refer to: \"Appear\" (나타나) a song from Secret Garden OST (2010), by Kim Bum-soo."
+    },
+    {
+      "chunk_id": "wikipedia:Staring#0000",
+      "doc_id": "wikipedia:Staring",
+      "title": "Staring",
+      "url": "https://en.wikipedia.org/?curid=4409451",
+      "source_type": "wikipedia",
+      "score": 0.6447516798973083,
+      "text": "Staring is a prolonged gaze or fixed look. In staring, one subject or person is the continual focus of visual interest, for a long amount of time. The meaning, purpose, and rudeness, of staring varies widely between cultures. Staring can be interpreted as being either hostile like disapproval of another's behavior, or the result of intense concentration, interest or affection. Staring behavior can be considered as a form of aggression like when it is an invasion of an individual's privacy in certain contexts, or as a nonverbal cue to convey feelings of attraction in a social setting. The resultant behavior or action defines whether it is aggressive in nature (e.g. leering that results in street harassment), passive or active expression of attraction, etc. However, to some extent staring often occurs accidentally, and often a person would be simply staring into a space for awareness, or could be lost in thought (sometimes known as daydreaming), stupefied, or be unable to see."
+    },
+    {
+      "chunk_id": "wikipedia:Soul#0001",
+      "doc_id": "wikipedia:Soul",
+      "title": "Soul",
+      "url": "https://en.wikipedia.org/?curid=28297",
+      "source_type": "wikipedia",
+      "score": 0.6130641758441925,
+      "text": "the soul as the \"first actuality\" of a naturally organized body—form and matter arrangement allowing natural beings to aspire to full actualization. Medieval philosophers expanded upon these classical foundations. Ibn Sina distinguished between the soul and the spirit, arguing that the soul's immortality follows from its nature rather than serving as..."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.577826178073883,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0001",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.5701471269130707,
+      "text": "What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help. Early episodes featured both men and women; however, as the men's transformations did not prove to be as remarkable, all later episodes featured women exclusively. Some episodes featured both the nominee and the nominator being..."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.5618059933185577,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:Soul#0000",
+      "doc_id": "wikipedia:Soul",
+      "title": "Soul",
+      "url": "https://en.wikipedia.org/?curid=28297",
+      "source_type": "wikipedia",
+      "score": 0.5511716365814209,
+      "text": "The soul is the immaterial aspect or essence of a living being. It is typically believed to be immortal and to exist apart from the material world. The three main theories that describe the relationship between the soul and the body are interactionism, parallelism, and epiphenomenalism. Anthropologists and psychologists have found that most humans are naturally inclined to believe in the existence of the soul and that they have cross-culturally distinguished between souls and bodies. The soul has been the central area of interest in philosophy since ancient times. Socrates envisioned the soul to possess a rational faculty, its practice being man's most godlike activity. Plato believed the soul to be the person's real self, an immaterial and immortal dweller of our lives that continues and thinks even after death. Aristotle sketched out the soul as the \"first actuality\" of a naturally organized body—form and matter arrangement allowing natural beings to aspire to full actualization."
+    },
+    {
+      "chunk_id": "wikipedia:Broccoli haircut#0001",
+      "doc_id": "wikipedia:Broccoli haircut",
+      "title": "Broccoli haircut",
+      "url": "https://en.wikipedia.org/?curid=77594266",
+      "source_type": "wikipedia",
+      "score": 0.511471402645111,
+      "text": "among members of Generation Z, as well as \"bird's nest hair\", \"bussin haircut\" or \"alpaca hair\". It has been described as a variation on a bowl cut. History The precursor to the modern broccoli haircut first appeared in the early 1980s among fans of new wave groups such as Soft Cell, Talking Heads, A Flock of Seagulls, Duran Duran, The Jesus and Mary Chain, and Wham! It was a grown-out, unstyled version of the quiff popular in the early 1980s that was frequently permed or made to look..."
+    },
+    {
+      "chunk_id": "wikipedia:Broccoli haircut#0000",
+      "doc_id": "wikipedia:Broccoli haircut",
+      "title": "Broccoli haircut",
+      "url": "https://en.wikipedia.org/?curid=77594266",
+      "source_type": "wikipedia",
+      "score": 0.5021040856838226,
+      "text": "A broccoli haircut (also known as a Zoomer perm, bird's nest, in the UK as the meet me at McDonald's haircut or alpaca back and sides) is a type of haircut with tapered sides and layered curls on top, usually achieved with a perm. It became popular among teenage and tween boys during the latter part of the 2010s and into the 2020s, particularly due to its spread on TikTok, and became an Internet meme around the same time. Definition The broccoli haircut is a hairstyle with tapered sides and short, uneven layered curls on top, which are often permed. It is referred to as such due to its resemblance to a floret of broccoli. It has also been referred to as the \"Zoomer perm\" for its popularity among members of Generation Z, as well as \"bird's nest hair\", \"bussin haircut\" or \"alpaca hair\". It has been described as a variation on a bowl cut."
+    }
+  ]
+}

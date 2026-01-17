@@ -1,0 +1,182 @@
+{
+  "meme_id": "meme_04363",
+  "queries": [
+    "\"Move\" \"8 Hae key BOUTS\" \"the goth girl\" \"Starbucks\" \"Wea\"",
+    "\"8 Hae key BOUTS\" \"a chess game diagram\" \"the goth girl\" \"Starbucks\"",
+    "\"the goth girl\" \"Starbucks\" \"Wea\" \"the barista\""
+  ],
+  "primary_terms": [
+    "move",
+    "the goth girl",
+    "Starbucks",
+    "8 Hae key BOUTS",
+    "Wea"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Jenna Marbles#0001",
+      "doc_id": "wikipedia:Jenna Marbles",
+      "title": "Jenna Marbles",
+      "url": "https://en.wikipedia.org/?curid=33101554",
+      "source_type": "wikipedia",
+      "score": 0.867936372756958,
+      "text": "psychology and counseling at Boston University. In the summer of 2010, Marbles was sharing a three-bedroom apartment in Cambridge, Massachusetts. She supported herself by bartending, working at a tanning salon, vlogging, and go-go dancing at nightclubs. That year, Marbles started her career with Barstool Sports, where she wrote for their female-oriented site StoolLaLa. She left the publication in 2011..."
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0001",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.8353850543498993,
+      "text": "or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover (theater), a walkway across the stage hidden from the audience Crossover thrash, a musical genre combining thrash and punk Crossover (video games) The Crossover..."
+    },
+    {
+      "chunk_id": "wikipedia:New Shoes#0000",
+      "doc_id": "wikipedia:New Shoes",
+      "title": "New Shoes",
+      "url": "https://en.wikipedia.org/?curid=10317022",
+      "source_type": "wikipedia",
+      "score": 0.8090381026268005,
+      "text": "\"New Shoes\" is a song by Scottish singer-songwriter Paolo Nutini, released as the fourth single from debut album, These Streets. It was used as the headlining single for the US release of the album. The song peaked at number 21 on the UK Singles Chart, number eight on the US Billboard Bubbling Under Hot 100 chart, and number one on the Billboard Triple A chart. The song was used for a 2007 international ad campaign by Puma AG. Charts Weekly charts Year-end charts Certifications Cover versions Lena Meyer-Landrut covered this song on some editions of her album My Cassette Player. A live version is found on the platinum edition of her album Good News and on her DVD \"Good News Live\". References"
+    },
+    {
+      "chunk_id": "wikipedia:Ready#0001",
+      "doc_id": "wikipedia:Ready",
+      "title": "Ready",
+      "url": "https://en.wikipedia.org/?curid=9285499",
+      "source_type": "wikipedia",
+      "score": 0.7727016806602478,
+      "text": "and the Chocolate Box, 1974 \"Ready\", by Cherie from the Confessions of a Teenage Drama Queen soundtrack album, 2004 \"Ready\", by Jagged Edge from J.E. Heartbreak 2, 2014 \"Ready\", by Kelly Clarkson from All I Ever Wanted, 2009 \"Ready\", by Kovas, 2010 \"Ready\", by Montaigne from Complex, 2019 \"Ready\", by N-Toon from Toon Time, 2000 \"Ready\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.7148284018039703,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Sweetheart#0001",
+      "doc_id": "wikipedia:Sweetheart",
+      "title": "Sweetheart",
+      "url": "https://en.wikipedia.org/?curid=572505",
+      "source_type": "wikipedia",
+      "score": 0.703808069229126,
+      "text": "Dupri \"Sweetheart\" (Franke and the Knockouts song) Sweetheart, a Finnish noise rock band of the 1990s founded by Janne Westerlund Sweet heart, a 2009 EP and single by the Klaxons Brands and enterprises Sweethearts (candy), a popular Valentine's Day heart shaped candy Sweetheart Cup Company Fauna and flora Sweetheart..."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.703029215335846,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0000",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.655262953042984,
+      "text": "The Oompa-Loompas are a fictional race of people in the Charlie and the Chocolate Factory franchise based on the original book by Roald Dahl. In all versions of the story, they are depicted as little people who form the workforce of Willy Wonka's chocolate factory, and are paid in cocoa beans. However, their appearance and backstory change depending on the version. Design and characteristics The Oompa-Loompas are described as being no larger than medium-sized dolls, with rosy-white skin and long golden-brown hair. They wear the same clothes they wore at Loompaland: the men wear deerskins, the women wear leaves and the children wear nothing at all. Before moving to Willy Wonka's chocolate factory, the Oompa-Loompas lived in Loompaland, where they lived in constant fear of the predators that would eat them. Their main source of food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting."
+    },
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0001",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.5829751849174499,
+      "text": "What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help. Early episodes featured both men and women; however, as the men's transformations did not prove to be as remarkable, all later episodes featured women exclusively. Some episodes featured both the nominee and the nominator being..."
+    },
+    {
+      "chunk_id": "wikipedia:Your Town#0001",
+      "doc_id": "wikipedia:Your Town",
+      "title": "Your Town",
+      "url": "https://en.wikipedia.org/?curid=10652571",
+      "source_type": "wikipedia",
+      "score": 0.5793004781007767,
+      "text": "2:25 US release CD single (Chaos 42K 74959) \"Your Town\" (Euro 7-inch) – 3:49 \"Your Town\" (Barrio Mix radio edit) – 4:09 \"Your Town\" (Perfecto mix) – 6:28 \"Your Town\" (Relaxation dub) – 6:08 \"Your Town\" (Barrio mix instrumental) – 6:05 Charts Release history References"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is standing next to a chess game diagram.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a chess game diagram"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster admires the barista who spit in their drink because they were being rude.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the barista",
+          "their drink"
+        ]
+      },
+      "title": {
+        "text": "Move 100",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "move"
+        ]
+      },
+      "text": {
+        "text": "Me after being rude to the goth girl working at Starbucks so she spits in my drink: YIN N Ft TAL TRL YR LR , 8 Hae key BOUTS) ~ ‘ vapinattenre Wea I",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the goth girl",
+          "Starbucks",
+          "8 Hae key BOUTS",
+          "Wea"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "move",
+      "the goth girl",
+      "Starbucks",
+      "8 Hae key BOUTS",
+      "Wea"
+    ],
+    "secondary_terms": [
+      "a chess game diagram",
+      "the barista",
+      "their drink"
+    ],
+    "queries": [
+      "\"Move\" \"8 Hae key BOUTS\" \"the goth girl\" \"Starbucks\" \"Wea\"",
+      "\"8 Hae key BOUTS\" \"a chess game diagram\" \"the goth girl\" \"Starbucks\"",
+      "\"the goth girl\" \"Starbucks\" \"Wea\" \"the barista\""
+    ]
+  },
+  "source_jsonl_id": null
+}

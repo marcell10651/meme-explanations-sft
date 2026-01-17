@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_04213",
+  "queries": [
+    "\"bill bill\" \"its\" \"annoying\" \"bill\"",
+    "\"A smiling stick figure\" \"bill bill\" \"the fact\" \"our economy\"",
+    "\"the fact\" \"our economy\" \"its\" \"annoying\""
+  ],
+  "primary_terms": [
+    "its",
+    "annoying",
+    "bill bill",
+    "your face",
+    "bill"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Money#0000",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.8568031996488571,
+      "text": "Money is any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts, such as taxes, in a particular country or socio-economic context. The primary functions which distinguish money are: medium of exchange, a unit of account, a store of value and sometimes, a standard of deferred payment. Money was historically an emergent market phenomenon that possessed intrinsic value as a commodity; nearly all contemporary money systems are based on unbacked fiat money without use value. Its value is consequently derived by social convention, having been declared by a government or regulatory entity to be legal tender; that is, it must be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0001",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.6642390251159668,
+      "text": "such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns. Under the name of magnitude comes what is continuous and unified and divisible only into smaller divisibles, such as: matter, mass, energy, liquid, material—all cases of non-collective nouns. Along with analyzing its nature and classification, the issues of quantity involve such closely related topics as dimensionality..."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0001",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.6300458312034607,
+      "text": "the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes. In theories of syntax, a phrase is any group of words, or sometimes a single word, which plays a particular role within the syntactic structure of a sentence. It does not have to have any special meaning or significance, or even exist anywhere outside of the sentence being analyzed, but it must function there as a complete grammatical unit..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.6002986580133438,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0000",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.5762214869260788,
+      "text": "In grammar, a phrase — called an expression in some contexts — is a group of one or more words acting as a grammatical unit. For instance, the English expression \"the very happy squirrel\" is a noun phrase which contains the adjective phrase \"very happy\". Phrases can consist of a single word or a complete sentence. In theoretical linguistics, phrases are often analyzed as units of syntactic structure such as a constituent. There is a difference between the common use of the term phrase and its technical use in linguistics. In common usage, a phrase is usually a group of words with some special idiomatic meaning or other significance, such as \"all rights reserved\", \"economical with the truth\", or \"kick the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.528496852517128,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Society#0001",
+      "doc_id": "wikipedia:Society",
+      "title": "Society",
+      "url": "https://en.wikipedia.org/?curid=37235",
+      "source_type": "wikipedia",
+      "score": 0.4814396411180496,
+      "text": "norms. So far as it is collaborative, a society can enable its members to benefit in ways that would otherwise be difficult on an individual basis. Societies vary based on level of technology and type of economic activity. Larger societies with larger food surpluses often exhibit stratification or dominance patterns. Societies can have many different forms of government, various ways of understanding..."
+    },
+    {
+      "chunk_id": "wikipedia:Thanks#0000",
+      "doc_id": "wikipedia:Thanks",
+      "title": "Thanks",
+      "url": "https://en.wikipedia.org/?curid=2558488",
+      "source_type": "wikipedia",
+      "score": 0.47868586182594297,
+      "text": "Thanks may refer to: Thank you, a common expression of gratitude Film and television Thanks (film), a 2011 American film Thanks (TV series), a 1999 American sitcom Music Albums Thanks, by J. Vincent Edwards, 1969 Thanks, by Ivan Neville, 1994 Thanks, by Marty Grosz, 1997 Thanks, by w-inds., 2006 Songs \"Thanks\" (song), 1969, recorded by J. Vincent Edwards and Bill Anderson \"Thanks!\" (GAM song), 2006 \"Thanks\", by the James Gang from James Gang Rides Again, 1970 \"Thanks\", by Judith Allen and by Bing Crosby from the Too Much Harmony soundtrack, 1933 \"Thanks\", by Waylon Jennings from Ladies Love Outlaws, 1972 See also All pages with titles beginning with Thanks All pages with titles containing Thanks Thankful (disambiguation) Thank God (disambiguation) Thank You (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Two Whatevers#0001",
+      "doc_id": "wikipedia:Two Whatevers",
+      "title": "Two Whatevers",
+      "url": "https://en.wikipedia.org/?curid=539766",
+      "source_type": "wikipedia",
+      "score": 0.47189581394195557,
+      "text": "\" slogan: \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\". The slogan was underscoring Mao's testament that designated Hua as his successor. It proved a trigger for Deng's manoeuvre in 1978 to implement economic reform policy in China, and eventually led to..."
+    },
+    {
+      "chunk_id": "wikipedia:Charge#0000",
+      "doc_id": "wikipedia:Charge",
+      "title": "Charge",
+      "url": "https://en.wikipedia.org/?curid=6439",
+      "source_type": "wikipedia",
+      "score": 0.4606756031513214,
+      "text": "Charge or charged may refer to: Arts, entertainment, and media Films Charge, Zero Emissions/Maximum Speed, a 2011 documentary Music Charge (David Ford album) Charge (Machel Montano album) Charge!!, an album by The Aquabats Charged (Nebula album) Charged (Toshinori Kondo, Eraldo Bernocchi and Bill Laswell album) Television Charge (TV series) Charge! (TV network) \"Charged\" (Reaper), episode 2 of season one of Reaper Companies Charge Automotive Limited, an electric-vehicle manufacturer Charged Productions, an animation studio Charged Records, a record label Finance Equitable charge, confers a right on the secured party to look to a particular asset in the event of the debtor's default Floating charge, a security interest over the assets of a company Law Criminal charge, a formal accusation made before a court by a prosecuting authority Legal charge, information or indictment through a formal legal process Mathematics, science, and technology Charge (physics), the susceptibility (state of"
+    }
+  ]
+}

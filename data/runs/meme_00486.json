@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_00486",
+  "queries": [
+    "\"For\" \"sufficient caffeination\" \"require\" \"sufficient\" \"caffeination\"",
+    "\"sufficient\" \"caffeination\" \"oes\" \"coffee\""
+  ],
+  "primary_terms": [
+    "sufficient caffeination",
+    "require",
+    "sufficient",
+    "caffeination",
+    "your coffee",
+    "oes",
+    "coffee",
+    "ers",
+    "one",
+    "weer"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Drink#0000",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.936519193649292,
+      "text": "A drink or beverage is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, juice, smoothies and soft drinks. Traditionally warm beverages encompass coffee, tea, and hot chocolate. Caffeinated drinks that contain the stimulant caffeine, have been consumed for centuries. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the psychoactive substance ethanol, have been part of human culture for more than 8,000 years. Non-alcoholic drinks typically refer to beverages that are traditionally alcoholic—such as beer, wine, or cocktails—but are produced with a very low alcohol by volume content. This category includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines."
+    },
+    {
+      "chunk_id": "wikipedia:Proof#0000",
+      "doc_id": "wikipedia:Proof",
+      "title": "Proof",
+      "url": "https://en.wikipedia.org/?curid=62384",
+      "source_type": "wikipedia",
+      "score": 0.7398781061172486,
+      "text": "Proof most often refers to: Proof (truth), argument or sufficient evidence for the truth of a proposition Alcohol proof, a measure of an alcoholic drink's strength Proof may also refer to: Mathematics and formal logic Formal proof, a construct in proof theory Mathematical proof, a convincing demonstration that some mathematical statement is necessarily true Proof complexity, computational resources required to prove statements Proof procedure, method for producing proofs in proof theory Proof theory, a branch of mathematical logic that represents proofs as formal mathematical objects Statistical proof, demonstration of degree of certainty for a hypothesis Law and philosophy Evidence, information which tends to determine or demonstrate the truth of a proposition Evidence (law), tested evidence or a legal proof Legal burden of proof, duty to establish the truth of facts in a trial Philosophic burden of proof, obligation on a party in a dispute to provide sufficient warrant for their"
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0001",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.7263314247131347,
+      "text": "the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element. The objective can be clarity or effective communication, association with other cultural elements, or merely the creation of a distinctive style. Graphics can be functional or artistic. The latter can be a recorded version, such as a photograph, or an interpretation by a scientist to highlight..."
+    },
+    {
+      "chunk_id": "wikipedia:Diligence#0000",
+      "doc_id": "wikipedia:Diligence",
+      "title": "Diligence",
+      "url": "https://en.wikipedia.org/?curid=18483349",
+      "source_type": "wikipedia",
+      "score": 0.6230071306228637,
+      "text": "Diligence—carefulness and persistent effort or work—is listed as one of the seven capital virtues. It can be indicative of a work ethic, the belief that work is good in itself. \"There is a perennial nobleness, and even sacredness, in work. Were he never so benighted, forgetful of his high calling, there is always hope in a man that actually and earnestly works: in idleness alone there is perpetual despair.\" —Thomas Carlyle In students Bernard et al. define diligence in students as the effort they put toward balanced and holistic development in mental, physical, social, and spiritual dimensions. They find that it correlates with academic performance, especially with younger students, and that the support of parents and educators encourages students to be diligent. Other factors that encourage student diligence include motivation, discipline, concentration, responsibility, and devotedness."
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0001",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.6156549721956253,
+      "text": "includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines. Biology When the human body becomes dehydrated, a person experiences thirst. This craving of fluids results in an instinctive need to drink. Thirst is regulated by the hypothalamus in response to subtle changes in the body's electrolyte levels, and also as a result..."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0000",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.5872226774692535,
+      "text": "Bedtime (also called putting to bed or tucking in) is a ritual part of parenting to help children feel more secure and become accustomed to a more rigid schedule of sleep than they might prefer. The ritual of bedtime is aimed at facilitating the transition from wakefulness to sleep. It may involve bedtime stories, children's songs, nursery rhymes, bed-making and getting children to change into nightwear. In some religious households, prayers are said shortly before going to bed. Sleep training may be part of the bedtime ritual for babies and toddlers. In adult use, the term means simply \"time for bed\", similar to curfew, as in \"It's past my bedtime\". Some people are accustomed to drinking a nightcap or herbal tea at bedtime. Sleeping coaches are also used to help individuals reach their bedtime goals. Researchers studying sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep."
+    },
+    {
+      "chunk_id": "wikipedia:Relaxation#0001",
+      "doc_id": "wikipedia:Relaxation",
+      "title": "Relaxation",
+      "url": "https://en.wikipedia.org/?curid=392638",
+      "source_type": "wikipedia",
+      "score": 0.5830190688371658,
+      "text": "for a natural extension in mathematical optimization or variational problems In computer science: Relaxation (computing), the act of substituting alternative program code during linking In physiology, hypnosis, meditation, recreation: Relaxation (psychology), the emotional state of low tension Relaxation technique, an activity that helps a person to relax..."
+    },
+    {
+      "chunk_id": "wikipedia:Drinking#0000",
+      "doc_id": "wikipedia:Drinking",
+      "title": "Drinking",
+      "url": "https://en.wikipedia.org/?curid=66254",
+      "source_type": "wikipedia",
+      "score": 0.5773469030857086,
+      "text": "Drinking is the act of ingesting water or other liquids into the body through the mouth, proboscis, or elsewhere. Humans drink by swallowing, completed by peristalsis in the esophagus. The physiological processes of drinking vary widely among other animals. Most animals drink water to maintain bodily hydration, although many can survive on the water gained from their food. Water is required for many physiological processes. Both inadequate and (less commonly) excessive water intake are associated with health problems. Methods of drinking In humans When a liquid enters a human mouth, the swallowing process is completed by peristalsis which delivers the liquid through the esophagus to the stomach; much of the activity is assisted by gravity. The liquid may be poured from the hands or drinkware may be used as vessels. Drinking can also be by sipping or sucking, typically when imbibing hot liquids or drinking from a spoon."
+    },
+    {
+      "chunk_id": "wikipedia:Ability#0000",
+      "doc_id": "wikipedia:Ability",
+      "title": "Ability",
+      "url": "https://en.wikipedia.org/?curid=68698578",
+      "source_type": "wikipedia",
+      "score": 0.5644845783710479,
+      "text": "Abilities are powers an agent has to perform various actions. They include common abilities, like walking, and rare abilities, like performing a double backflip. Abilities are intelligent powers: they are guided by the person's intention and executing them successfully results in an action, which is not true for all types of powers. They are closely related to but not identical with various other concepts, such as disposition, know-how, aptitude, talent, potential, and skill. Theories of ability aim to articulate the nature of abilities. Traditionally, the conditional analysis has been the most popular approach. According to it, having an ability means one would perform the action in question if one tried to do so. On this view, Michael Phelps has the ability to swim 200 meters in under 2 minutes because he would do so if he tried to. This approach has been criticized in various ways."
+    },
+    {
+      "chunk_id": "wikipedia:Hangover#0001",
+      "doc_id": "wikipedia:Hangover",
+      "title": "Hangover",
+      "url": "https://en.wikipedia.org/?curid=12274183",
+      "source_type": "wikipedia",
+      "score": 0.5480085372924804,
+      "text": "dehydration, metabolic acidosis, disturbed prostaglandin synthesis, increased cardiac output, vasodilation, sleep deprivation, and malnutrition. Beverage-specific effects of additives or by-products such as congeners in alcoholic beverages also play an important role. The symptoms usually occur after the intoxicating effect of the alcohol begins to wear off, generally the morning after a night of heavy drinking. Though many possible remedies..."
+    }
+  ]
+}

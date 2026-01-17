@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_01130",
+  "queries": [
+    "\"The CIA\" \"shoot\" \"something\" \"cia\"",
+    "\"The CIA\" \"the side-eye\" \"their secrets\" \"shoot\"",
+    "\"their secrets\" \"shoot\" \"something\" \"cia\""
+  ],
+  "primary_terms": [
+    "shoot",
+    "The CIA",
+    "something",
+    "cia",
+    "find"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Success#0001",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 1.0173470050096511,
+      "text": "a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness. It may also be difficult or impossible to ascertain whether a situation meets criteria for success or failure due to ambiguous or ill-defined definition of those criteria. Finding useful and effective criteria, or heuristics, to judge the failure or success of a situation may itself be a significant task. In American culture DeVitis and Rich link the..."
+    },
+    {
+      "chunk_id": "wikipedia:For Your Eyes Only (film)#0001",
+      "doc_id": "wikipedia:For Your Eyes Only (film)",
+      "title": "For Your Eyes Only (film)",
+      "url": "https://en.wikipedia.org/?curid=6446044",
+      "source_type": "wikipedia",
+      "score": 0.9668662548065186,
+      "text": "becoming tangled in a web of deception spun by rival Greek smugglers along with Melina Havelock, a woman seeking to avenge the murder of her parents. After the science-fiction-focused Moonraker, the producers wanted a return to the style of the early Bond films and the works of 007 creator Fleming. For Your Eyes Only followed a grittier, more realistic approach and a narrative theme of revenge and its..."
+    },
+    {
+      "chunk_id": "wikipedia:Tell#0000",
+      "doc_id": "wikipedia:Tell",
+      "title": "Tell",
+      "url": "https://en.wikipedia.org/?curid=4638647",
+      "source_type": "wikipedia",
+      "score": 0.9603234440088272,
+      "text": "Tell may refer to: Tell (archaeology), a type of archaeological site Tell (name), a name used as a given name and a surname Tell (poker), a subconscious behavior that can betray information to an observant opponent Arts, entertainment, and media Tell (2012 film), a short psychological horror film by Ryan Connolly Tell (2014 film), a crime thriller starring Katee Sackhoff, Jason Lee and Milo Ventimiglia Tell Magazine, a Nigerian newsweekly \"The Tell\", an episode of NCIS \"The Tell\" (Teen Wolf), a television episode The Tell, a photomural, part of the Laguna Canyon Project Places Middle East Tel Aviv, Israel Et-Tell, an archaeological site identified with Bethsaida Tell, West Bank, a Palestinian village near Nablus Ancient Tell, Beirut, Lebanon; the Canaanite pre-Phoenician era of Beirut and archaeological site United States Tell, Texas, unincorporated community in the United States Tell, Wisconsin, town in the United States Tell City, Indiana, township in the United States Tell"
+    },
+    {
+      "chunk_id": "wikipedia:Police#0000",
+      "doc_id": "wikipedia:Police",
+      "title": "Police",
+      "url": "https://en.wikipedia.org/?curid=23627",
+      "source_type": "wikipedia",
+      "score": 0.9294664919376373,
+      "text": "The police are a constituted body of people empowered by a state with the aim of enforcing the law and protecting the public order as well as the public itself. This commonly includes ensuring the safety, health, and possessions of citizens, and to prevent crime and civil disorder. Their lawful powers encompass arrest and the use of force legitimized by the state's monopoly on violence. The term is most commonly associated with the police forces of a sovereign state that are authorized to exercise the police power of that state within a defined legal or territorial area of responsibility. Police forces are often defined as being separate from the military and other organizations involved in the defense of the state against foreign aggressors; however, gendarmerie are military units charged with civil policing. Police forces are usually public sector services, funded through taxes. Law enforcement is only part of policing activity."
+    },
+    {
+      "chunk_id": "wikipedia:Man on a String#0000",
+      "doc_id": "wikipedia:Man on a String",
+      "title": "Man on a String",
+      "url": "https://en.wikipedia.org/?curid=35028463",
+      "source_type": "wikipedia",
+      "score": 0.8725390732288361,
+      "text": "Man on a String (also known as Confessions of a Counterspy) is a 1960 American spy thriller directed by Andre de Toth and starring Ernest Borgnine and Kerwin Mathews. It was the last film that DeToth directed in the United States. Plot A government intelligence agency in Washington, D.C. wants agent Frank Sanford to follow Boris Mitrov, a film producer who appears to also be a Russian spy. Helen and Adrian Benson, a wealthy American couple with a home in Beverly Hills and a film studio, are communist sympathizers as well, in league with Colonel Vadja Kubelov, the top KGB man in the U.S. Boris's office is bugged by his assistant, Bob Avery, a plant who is working for the Americans. Now that he has been caught red-handed, Boris is willing to turn double agent, going to Berlin under the pretense of making a documentary film there. Helen is having an affair with Kubelov, but the Bensons' home has been bugged and they try to flee to Mexico."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0001",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.8600669503211975,
+      "text": "by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\". Angered by the suicide of a student who is mocked and refused a loan for her studies, they eventually kill the corrupt bank manager who abetted it. Soon enough, more corrupt individuals are killed, and Rajan Mathew is reinstated as S.P. to nab the group. The team learn..."
+    },
+    {
+      "chunk_id": "wikipedia:Gangster#0001",
+      "doc_id": "wikipedia:Gangster",
+      "title": "Gangster",
+      "url": "https://en.wikipedia.org/?curid=234656",
+      "source_type": "wikipedia",
+      "score": 0.8516810446977615,
+      "text": "on the subject of gangs, although there is no clear consensus about what constitutes a gang or what situations lead to gang formation and evolution. There is agreement that the members of a gang have a sense of common identity and belonging, which is typically reinforced through shared activities and visual identifications such as special clothing, tattoos, colors, or rings. Some preconceptions may be false. For example, the common view that illegal drug distribution in the United States is largely..."
+    },
+    {
+      "chunk_id": "wikipedia:Gangster#0000",
+      "doc_id": "wikipedia:Gangster",
+      "title": "Gangster",
+      "url": "https://en.wikipedia.org/?curid=234656",
+      "source_type": "wikipedia",
+      "score": 0.811519593000412,
+      "text": "A gangster (informally gangsta) is a criminal who is a member of a gang. Most gangs are considered to be part of organized crime. Gangsters are also called mobsters, a term derived from mob and the suffix -ster. Gangs provide a level of organization and resources that support much larger and more complex criminal transactions than an individual criminal could achieve. Gangsters have been active for many years in countries around the world. Gangsters are the subject of many novels, films, television series, and video games. Usage In modern usage, the term \"gang\" is generally used for a criminal organization and the term \"gangster\" invariably describes a criminal. Much has been written on the subject of gangs, although there is no clear consensus about what constitutes a gang or what situations lead to gang formation and evolution."
+    },
+    {
+      "chunk_id": "wikipedia:For Your Eyes Only (film)#0000",
+      "doc_id": "wikipedia:For Your Eyes Only (film)",
+      "title": "For Your Eyes Only (film)",
+      "url": "https://en.wikipedia.org/?curid=6446044",
+      "source_type": "wikipedia",
+      "score": 0.7999629229307175,
+      "text": "For Your Eyes Only is a 1981 spy film, the twelfth film in the James Bond franchise produced by Eon Productions, and the fifth to star Roger Moore as the fictional MI6 agent James Bond. The film also co-stars Carole Bouquet, Chaim Topol, Lynn-Holly Johnson and Julian Glover, and marked the feature directorial debut of John Glen, who had served as a film editor and second unit director on previous films in the series. The film was written by Richard Maibaum and Michael G. Wilson. Although the script is principally based on two Ian Fleming short stories, \"For Your Eyes Only\" and \"Risico\", some elements of the plot were also inspired by the novels Live and Let Die, Goldfinger and On Her Majesty's Secret Service. The film follows Bond as he attempts to locate a missile command system while becoming tangled in a web of deception spun by rival Greek smugglers along with Melina Havelock, a woman seeking to avenge the murder of her parents."
+    },
+    {
+      "chunk_id": "wikipedia:Two Whatevers#0000",
+      "doc_id": "wikipedia:Two Whatevers",
+      "title": "Two Whatevers",
+      "url": "https://en.wikipedia.org/?curid=539766",
+      "source_type": "wikipedia",
+      "score": 0.7952748239040375,
+      "text": "The \"Two Whatevers\" (Chinese: 两个凡是; pinyin: Liǎng gè fán shì) refers to the statement that \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\" (凡是毛主席作出的决策，我们都坚决维护；凡是毛主席的指示，我们都始终不渝地遵循). This statement was contained in a joint editorial, entitled \"Study the Documents Well and Grasp the Key Link\", printed on 7 February 1977 in People's Daily, the journal Red Flag and the PLA Daily. History The policy was advocated by the Chinese Communist Party chairman Hua Guofeng, Mao's successor, who had earlier ended the Cultural Revolution and arrested the Gang of Four. On a 7 February 1977 editorial titled \"Study the Documents Well and Grasp the Key Link\" which appeared in People's Daily, Red Flag, and People's Liberation Army Daily, Hua articulated the \"Two Whatevers\" slogan: \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\"."
+    }
+  ]
+}

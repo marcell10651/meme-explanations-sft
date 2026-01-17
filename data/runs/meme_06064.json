@@ -1,0 +1,117 @@
+{
+  "meme_id": "meme_06064",
+  "queries": [
+    "\"an ' oar pee tor\" \"year\" \"three\" \"riding\"",
+    "\"three\" \"riding\" \"train\" \"has\""
+  ],
+  "primary_terms": [
+    "this train",
+    "year",
+    "three",
+    "riding",
+    "train",
+    "has",
+    "fun",
+    "an ' oar pee tor",
+    "ben",
+    "sens",
+    "oar",
+    "pee",
+    "tor",
+    "rashed",
+    "wit",
+    "say"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Grader#0000",
+      "doc_id": "wikipedia:Grader",
+      "title": "Grader",
+      "url": "https://en.wikipedia.org/?curid=620529",
+      "source_type": "wikipedia",
+      "score": 0.7807904124259949,
+      "text": "A grader, also commonly referred to as a road grader, motor grader, or simply blade, is a form of heavy equipment with a long blade used to create a flat surface during grading. Although the earliest models were towed behind horses, and later tractors, most modern graders are self-propelled and thus technically \"motor graders\". Typical graders have three axles, with the steering wheels in front, followed by the grading blade or mouldboard, then a cab and engine atop tandem rear axles. Some graders also have front-wheel drives for improved performance. Some graders have optional rear attachments, such as a ripper, scarifier, or compactor. A blade forward of the front axle may also be added. For snowplowing and some dirt grading operations, a main blade extension can also be mounted. Capacities range from a blade width of 2.5 to 7.5 m (8 to 24 ft) and engines from 95–375 kW (125–500 hp)."
+    },
+    {
+      "chunk_id": "wikipedia:Train#0000",
+      "doc_id": "wikipedia:Train",
+      "title": "Train",
+      "url": "https://en.wikipedia.org/?curid=30598",
+      "source_type": "wikipedia",
+      "score": 0.7782189965248107,
+      "text": "A train (from Old French trahiner, from Latin trahere, \"to pull, to draw\") is a series of connected vehicles that run along a railway track and transport people or freight. Trains are typically pulled or pushed by locomotives (often known simply as \"engines\"), though some are self-propelled, such as multiple units or railcars. Passengers and cargo are carried in railroad cars, also known as wagons or carriages. Trains are designed to a certain gauge, or distance between rails. Most trains operate on steel tracks with steel wheels, the low friction of which makes them more efficient than other forms of transport. Many countries use rail transport. Trains have their roots in wagonways, which used railway tracks and were powered by horses or pulled by cables. Following the invention of the steam locomotive in the United Kingdom in 1802, trains rapidly spread around the world, allowing freight and passengers to move over land faster and cheaper than ever possible before."
+    },
+    {
+      "chunk_id": "wikipedia:Four Horsemen of the Apocalypse#0001",
+      "doc_id": "wikipedia:Four Horsemen of the Apocalypse",
+      "title": "Four Horsemen of the Apocalypse",
+      "url": "https://en.wikipedia.org/?curid=39430",
+      "source_type": "wikipedia",
+      "score": 0.7400462388992309,
+      "text": "the first horseman rides a white horse, carries a bow, and is given a crown as a figure of conquest, perhaps invoking pestilence, or the Antichrist. The second carries a sword and rides a red horse as the creator of (civil) war, conflict, and strife. The third, a food merchant, rides a black horse symbolizing famine and carries a pair of scales. The fourth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Three Rocks, California#0000",
+      "doc_id": "wikipedia:Three Rocks, California",
+      "title": "Three Rocks, California",
+      "url": "https://en.wikipedia.org/?curid=22780127",
+      "source_type": "wikipedia",
+      "score": 0.6451487511396408,
+      "text": "Three Rocks is a census-designated place in Fresno County, California, United States. It lies at an elevation of 423 ft (129 m). The population is 246. It was founded by Raymond Minnite of Hiawatha, Utah in 1954. While sitting at the corner of Clarkson Ave and Derrick Ave (HWY 33) counting cars, and dreaming about how many he could make stop, he noticed three large boulders off in the horizon where the Sierra Madre mountain range met the sky, known historically as the Joaquin Rocks, or Las Tres Piedras. This would become the name of the town he founded. Demographics Three Rocks first appeared as a census designated place in the 2010 U.S. census. The 2020 United States census reported that Three Rocks had a population of 248. The population density was 330.7 inhabitants per square mile (127.7/km2)."
+    },
+    {
+      "chunk_id": "wikipedia:April#0000",
+      "doc_id": "wikipedia:April",
+      "title": "April",
+      "url": "https://en.wikipedia.org/?curid=1004",
+      "source_type": "wikipedia",
+      "score": 0.5916890740394593,
+      "text": "April is the fourth month of the year in the Gregorian and Julian calendars. Its length is 30 days. April is commonly associated with the season of spring in the Northern Hemisphere, and autumn in the Southern Hemisphere, where it is the seasonal equivalent to October in the Northern Hemisphere and vice versa. History The Romans gave this month the Latin name Aprilis but the derivation of this name is uncertain. The traditional etymology is from the verb aperire, \"to open\", in allusion to its being the season when trees and flowers begin to \"open\", which is supported by comparison with the modern Greek use of άνοιξη (ánixi) (opening) for spring. Since some of the Roman months were named in honor of divinities, and as April was sacred to the goddess Venus, her Veneralia being held on the first day, it has been suggested that Aprilis was originally her month Aphrilis, from her equivalent Greek goddess name Aphrodite (Aphros), or the Etruscan name Apru."
+    },
+    {
+      "chunk_id": "wikipedia:Left- and right-hand traffic#0001",
+      "doc_id": "wikipedia:Left- and right-hand traffic",
+      "title": "Left- and right-hand traffic",
+      "url": "https://en.wikipedia.org/?curid=213380",
+      "source_type": "wikipedia",
+      "score": 0.585369598865509,
+      "text": "the rear overtakes the one in the front. For example, a driver in an LHT country would typically overtake on the right of the vehicle being overtaken. RHT is used in 165 countries and territories, mainly in the Americas, Continental Europe, most of Africa and mainland Asia (except South Asia and Thailand), while 75 countries use LHT, which account for about a sixth of the world's land area, a quarter of its roads, and about a third of its population. In 1919, 104 of the world's territories were LHT and an equal number were RHT. Between 1919 and 1986, 34 of the LHT territories switched..."
+    },
+    {
+      "chunk_id": "wikipedia:Naruto#0000",
+      "doc_id": "wikipedia:Naruto",
+      "title": "Naruto",
+      "url": "https://en.wikipedia.org/?curid=232190",
+      "source_type": "wikipedia",
+      "score": 0.5844392716884613,
+      "text": "Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young, socially isolated ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village. The story is told in two parts: the first is set in Naruto's pre-teen years (volumes 1–27), and the second in his teens (volumes 28–72). The series is based on two one-shot manga by Kishimoto: Karakuri (1995), which earned Kishimoto an honorable mention in Shueisha's monthly Hop Step Award the following year, and Naruto (1997). Naruto was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from September 1999 to November 2014, with its 700 chapters collected in 72 tankōbon volumes. Viz Media licensed the manga for North American production and serialized Naruto in their digital Weekly Shonen Jump magazine."
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0000",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.5787106096744538,
+      "text": "A toddler is a child approximately 1 to 3 years old, though definitions vary. The toddler years are a time of great cognitive, emotional and social development. The word is derived from \"toddle\", which means to walk unsteadily, as children at this age do. Developmental milestones Toddler development can be broken down into a number of interrelated areas. There is reasonable consensus about what these areas may include: Physical: growth or an increase in size. Gross motor: the control of large muscles which enable walking, running, jumping and climbing. Fine motor: the ability to control small muscles; enabling the toddler to feed themselves, draw and manipulate objects. Vision: the ability to see near and far and interpret what is seen. Hearing and speech: the ability to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively."
+    },
+    {
+      "chunk_id": "wikipedia:Century#0001",
+      "doc_id": "wikipedia:Century",
+      "title": "Century",
+      "url": "https://en.wikipedia.org/?curid=5881",
+      "source_type": "wikipedia",
+      "score": 0.5671513795852661,
+      "text": "a multiple of 100 (except the first century as it began after the year 1 BC) and ends with the next coming year with a multiple of 100 (100n), i.e. the 20th century comprises the years 1901 to 2000, and the 21st century comprises the years 2001 to 2100 in strict usage. In common perception and practice, centuries are structured by grouping years based on sharing..."
+    },
+    {
+      "chunk_id": "wikipedia:Brain#0001",
+      "doc_id": "wikipedia:Brain",
+      "title": "Brain",
+      "url": "https://en.wikipedia.org/?curid=3717",
+      "source_type": "wikipedia",
+      "score": 0.5617388427257538,
+      "text": "from the midline dorsal nerve cord as a vesicular enlargement at the rostral end of the neural tube, with centralized control over all body segments. All vertebrate brains can be embryonically divided into three parts: the forebrain (prosencephalon, subdivided into telencephalon and diencephalon), midbrain (mesencephalon) and hindbrain (rhombencephalon, subdivided into metencephalon and myelencephalon). The spinal cord, which directly interacts with somatic functions..."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "meme_id": "meme_04535",
+  "queries": [
+    "\"the floor\" \"cat\" \"contemplating\""
+  ],
+  "primary_terms": [
+    "cat",
+    "contemplating",
+    "ans",
+    "les",
+    "ses"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Reason#0000",
+      "doc_id": "wikipedia:Reason",
+      "title": "Reason",
+      "url": "https://en.wikipedia.org/?curid=42446",
+      "source_type": "wikipedia",
+      "score": 0.6383542954921723,
+      "text": "Reason is the capacity of consciously applying logic by drawing valid conclusions from new or existing information, with the aim of seeking truth. It is associated with such characteristically human activities as philosophy, religion, science, language, and mathematics, and is normally considered to be a distinguishing ability possessed by humans. Reason is sometimes referred to as rationality, although the latter is more about its application. Reasoning involves using more-or-less rational processes of thinking and cognition to extrapolate from one's existing knowledge to generate new knowledge, and involves the use of one's intellect. The field of logic studies the ways in which humans can use formal reasoning to produce logically valid arguments and true conclusions. Reasoning may be subdivided into forms of logical reasoning, such as deductive reasoning, inductive reasoning, and abductive reasoning."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.5298193722963334,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Confusion#0000",
+      "doc_id": "wikipedia:Confusion",
+      "title": "Confusion",
+      "url": "https://en.wikipedia.org/?curid=2079352",
+      "source_type": "wikipedia",
+      "score": 0.5175655066967011,
+      "text": "In psychology, confusion is the quality or emotional state of being bewildered or unclear. The term \"acute mental confusion\" is often used interchangeably with delirium in the International Statistical Classification of Diseases and Related Health Problems and the Medical Subject Headings publications to describe the pathology. These refer to the loss of orientation, or the ability to place oneself correctly in the world by time, location and personal identity. Mental confusion is sometimes accompanied by disordered consciousness (the loss of linear thinking) and memory loss (the inability to correctly recall previous events or learn new material). Etymology The word confusion derives from the Latin word, confundo, which means \"confuse, mix, blend, pour together, disorder, embroil.\" Causes Confusion may result from drug side effects or from a relatively sudden brain dysfunction."
+    },
+    {
+      "chunk_id": "wikipedia:House#0000",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.5027973234653473,
+      "text": "A house is a single-unit residential building. It may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems. Houses use a range of different roofing systems to keep precipitation such as rain from getting into the dwelling space. Houses generally have doors or locks to secure the dwelling space and protect its inhabitants and contents from burglars or other trespassers. Most conventional modern houses in Western cultures will contain one or more bedrooms and bathrooms, a kitchen or cooking area, and a living room. A house may have a separate dining room, or the eating area may be integrated into the kitchen or another room. Some large houses in North America have a recreation room. In traditional agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.4781202793121338,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.45302854180336,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:Floor#0001",
+      "doc_id": "wikipedia:Floor",
+      "title": "Floor",
+      "url": "https://en.wikipedia.org/?curid=82926",
+      "source_type": "wikipedia",
+      "score": 0.45301607847213743,
+      "text": "some regions. Special floor structures Where a special floor structure like a floating floor is laid upon another floor, both may be called subfloors. Special floor structures are used for a number of purposes: Balcony, a platform projecting from a wall Floating floor, normally for noise or vibration reduction Glass floor, as in glass bottomed elevators Nightingale floor makes a noise when an intruder walks on it Raised floor, utilities underneath can be accessed easily Sprung floor, improves the performance and safety of athletes..."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0000",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.4431379109621048,
+      "text": "In philosophy and in common usage, an idea (from the Greek word: ἰδέα (idea), meaning 'a form, or a pattern') is the result of thought. Also in philosophy, ideas can also be mental representational images of some object. Many philosophers have considered ideas to be a fundamental ontological category of being. The capacity to create and understand the meaning of ideas is considered to be an essential and defining feature of human beings. An idea arises in a reflexive, spontaneous manner, even without thinking or serious reflection, for example, when we talk about the idea of a person or a place. A new or an original idea can often lead to innovation. Our actions are based upon beliefs, beliefs are patterns or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'."
+    },
+    {
+      "chunk_id": "wikipedia:Fear#0000",
+      "doc_id": "wikipedia:Fear",
+      "title": "Fear",
+      "url": "https://en.wikipedia.org/?curid=10828",
+      "source_type": "wikipedia",
+      "score": 0.430515718460083,
+      "text": "Fear is an unpleasant subjective emotional state arising in response to perceived dangers or threats and which, when experienced, is typically associated with physiological and psychological changes. These changes frequently lead to behavioral reactions such as fight-or-flight responses or, in extreme cases, immobilization (freeze response). Unlike most (perhaps all) other animals, humans can experience fear in response to a present or anticipated stimulus and to imagined events. Most internalizing psychopathologies (depression, anxiety, suicidal thoughts and behaviors, and so forth) are associated with and maintained by dysfunctional, anxious, or fearful feelings and thoughts. Phobias, or exaggerated and often disabling fears, are usually similarly dysfunctional. Fear is often framed as a distinct product of evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.4223361134529114,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    }
+  ]
+}

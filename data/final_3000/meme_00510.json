@@ -1,0 +1,201 @@
+{
+  "meme_id": "meme_00510",
+  "queries": [
+    "\"Its that angle\" \"hip hop music video\" \"every 90s\" \"its\"",
+    "\"every 90s\" \"its\" \"angle\" \"beginning\""
+  ],
+  "primary_terms": [
+    "Its that angle",
+    "its",
+    "angle",
+    "every 90s",
+    "hip hop music video",
+    "beginning",
+    "every",
+    "hip",
+    "hop",
+    "music",
+    "video",
+    "ang"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Everytime#0000",
+      "doc_id": "wikipedia:Everytime",
+      "title": "Everytime",
+      "url": "https://en.wikipedia.org/?curid=870269",
+      "source_type": "wikipedia",
+      "score": 1.126934140920639,
+      "text": "\"Everytime\" is a song by American singer Britney Spears from her fourth studio album, In the Zone (2003). It was released as the third single from In the Zone on May 10, 2004, by Jive Records. After her relationship with Justin Timberlake ended in 2002, Spears became friends with her background singer Annet Artani. They started writing songs together at Spears' house in Los Angeles, and then traveled to Lombardy, Italy, where they collaborated on \"Everytime\". Musically, it is a piano-driven pop ballad, which lyrically pleas for forgiveness for inadvertently hurting a former lover. Spears composed the music herself and wrote the lyrics with Artani about a romantic breakup. \"Everytime\" received universal acclaim from music critics, who praised its lyrics, composition, and Spears' breathy vocals and songwriting, deeming it amongst the highlights of In the Zone."
+    },
+    {
+      "chunk_id": "wikipedia:Walkin#0000",
+      "doc_id": "wikipedia:Walkin",
+      "title": "Walkin",
+      "url": "https://en.wikipedia.org/?curid=33627004",
+      "source_type": "wikipedia",
+      "score": 1.058079832792282,
+      "text": "\"Walkin\" is a song by American rapper Denzel Curry, released on January 24, 2022 as the lead single from his fifth studio album Melt My Eyez See Your Future (2022). It was produced by Kal Banx. Composition The production in the song changes from the style of boom bap to that of southern rap, juxtaposed with vocals. Lyrically, Denzel Curry raps about the struggles and changing of everyday life as the state of the world is regressing, such as racial and wealth inequality, and striving for success through difficult times, switching his flows as well. Music video A music video for the song was directed by Adrian Villagomez and released alongside the single. Taking on a sci-fi western theme, it finds Denzel Curry trekking across a desert planet alone, first walking through a village and moving past barren sand dunes, children playing on a swing set, and villains trying to kill him. He collapses on his knees several times throughout the journey."
+    },
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.878929054737091,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    },
+    {
+      "chunk_id": "wikipedia:Sugar on My Tongue#0000",
+      "doc_id": "wikipedia:Sugar on My Tongue",
+      "title": "Sugar on My Tongue",
+      "url": "https://en.wikipedia.org/?curid=80490800",
+      "source_type": "wikipedia",
+      "score": 0.8248335123062134,
+      "text": "\"Sugar on My Tongue\" is a song by American rapper Tyler, the Creator. It was sent to US rhythmic radio on August 19, 2025, as the second single from his ninth studio album, Don't Tap the Glass (2025). The track is a hip-hop and electro song, and was written and produced by Tyler himself. Upon its release, the song was received positively by music critics and became viral on social media. The song was also successful commercially, charting at number 41 on the Billboard Hot 100. A music video was released on August 12, 2025, and an alternative intro variant was released on December 25, 2025. Composition and lyrics \"Sugar on My Tongue\" is an electro-influenced song that incorporates Italo disco, post-disco and funk elements. The production consists of synthesizers drums and 808s. Tyler, the Creator adopts the \"run-on flow\" that is widely used in modern hip-hop and raps about oral sex. Critical reception The song received generally positive reviews."
+    },
+    {
+      "chunk_id": "wikipedia:Angle#0001",
+      "doc_id": "wikipedia:Angle",
+      "title": "Angle",
+      "url": "https://en.wikipedia.org/?curid=1196",
+      "source_type": "wikipedia",
+      "score": 0.7969300270080566,
+      "text": "contexts, it is difficult to give a single formal definition that is completely satisfactory in capturing all aspects of the general concept of angle. One standard definition is that an angle is a figure consisting of two rays which lie in a plane and share a common endpoint. Alternatively, given such a figure, an angle might be defined as: the opening between the rays; the area of the plane that lies between the rays..."
+    },
+    {
+      "chunk_id": "wikipedia:Gangnam Style#0001",
+      "doc_id": "wikipedia:Gangnam Style",
+      "title": "Gangnam Style",
+      "url": "https://en.wikipedia.org/?curid=36584679",
+      "source_type": "wikipedia",
+      "score": 0.795244300365448,
+      "text": "States, \"Gangnam Style\" peaked at number two on the Billboard Hot 100, which at the time, was the highest charting song by a South Korean artist. By the end of 2012, \"Gangnam Style\" had topped the music charts of more than 30 countries including Australia, Canada, France, Germany, Italy, Spain, and the United Kingdom. Psy's dance in the music video itself became a cultural phenomenon. The song subsequently won Best Video at the MTV..."
+    },
+    {
+      "chunk_id": "wikipedia:Only#0000",
+      "doc_id": "wikipedia:Only",
+      "title": "Only",
+      "url": "https://en.wikipedia.org/?curid=1629775",
+      "source_type": "wikipedia",
+      "score": 0.7563734173774719,
+      "text": "Only may refer to: Music Albums Only (album), by Tommy Emmanuel, 2000 The Only, an EP by Dua Lipa, 2017 The Only (EP), by The Boyz Songs \"Only\" (Anthrax song), 1993 \"Only\" (Nine Inch Nails song), 2005 \"Only\" (Nicki Minaj song), 2014 \"Only\" (Lee Hi song), 2021 \"The Only\", by Static-X, 2003 \"Only\", by Ass Ponys from Lohio, 2001 \"Only\", by Fuse ODG, 2015 \"Only\", by Imagine Dragons from Origins, 2018 \"Only\", by NF from The Search, 2019 \"Only\", by Sarah Vaughan from Sarah Slightly Classical, 1963 \"Only\", by Sampha from Lahai, 2023 \"The Only\", a song by Raiden featuring Irene, 2019 \"The Only\", by Sasha Alex Sloan from Loser, 2018 Other uses Only (film), a 2019 post-apocalyptic romance film Only (magazine), a 2000s Canadian news and entertainment magazine Only, Tennessee, US Jerry Only (born 1959), American punk rock bassist and singer See also All pages with titles beginning with Only All pages with titles beginning with The Only Onli, people with this surname Onley (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Gangnam Style#0000",
+      "doc_id": "wikipedia:Gangnam Style",
+      "title": "Gangnam Style",
+      "url": "https://en.wikipedia.org/?curid=36584679",
+      "source_type": "wikipedia",
+      "score": 0.7469350636005402,
+      "text": "\"Gangnam Style\" (Korean: 강남스타일; pronounced [kaŋ.nam sɯ.tʰa.il]) is a K-pop song by South Korean singer Psy, released on July 15, 2012, by YG Entertainment as the lead single of his sixth studio album, Psy 6 (Six Rules), Part 1. The term \"Gangnam Style\" is a neologism that refers to the nouveau riche lifestyles associated with the Gangnam region of Seoul. \"Gangnam Style\" was released on to Psy's YouTube channel and debuted at number one on South Korea's Gaon Chart, receiving generally positive reviews, with praise for its catchy beat and Psy's amusing dancing during live performances and in various locations around the world in its music video. The song and its music video went viral in August 2012 and have influenced popular culture worldwide. In the United States, \"Gangnam Style\" peaked at number two on the Billboard Hot 100, which at the time, was the highest charting song by a South Korean artist."
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0000",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.7086490750312805,
+      "text": "Whatever may refer to: Music Albums Whatever (Adore Delano album), 2017 Whatever (Aimee Mann album), 1993 Whatever (Danny Thompson album), 1987 Whatever (The Friends of Distinction album), 1970 Whatever (Green Velvet album), 2001 Whatever (Hot Chelle Rae album) or the title song, 2011 Whatever (Jennifer Batten album) or the title song, 2007 Whatever..., a comedy album by Guido Hatzis, 2000 Whatever: The '90s Pop & Culture Box, a Rhino Records box set, 2005 Whatever, by Megumi Hayashibara, 1992 Whatever, an EP by bbno$, 2018 Songs \"Whatever\" (Ayumi Hamasaki song), 1999 \"Whatever\" (Cro song), 2013 \"Whatever\" (En Vogue song), 1997 \"Whatever\" (Godsmack song), 1998 \"Whatever\" (Ideal song), 2000 \"Whatever\" (Jill Scott song), 2005 \"Whatever\" (Kygo and Ava Max song), 2024 \"Whatever\" (Oasis song), 1994 \"Whatever\" (The Statler Brothers song), 1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple,"
+    },
+    {
+      "chunk_id": "wikipedia:Never#0000",
+      "doc_id": "wikipedia:Never",
+      "title": "Never",
+      "url": "https://en.wikipedia.org/?curid=1433241",
+      "source_type": "wikipedia",
+      "score": 0.7065376400947571,
+      "text": "Never may refer to: Music Albums Never (Micachu and the Shapes album) or the title song, 2012 Never (Mie album), 1984 Songs \"Never\" (Heart song), 1985 \"Never\" (Jaheim song), 2007 \"Never\" (JID song), 2016 \"Never\" (Keyshia Cole song), 2004 \"Never\" (Kristine W song), 2008 \"Never\" (Moving Pictures song), 1984; covered by Mie, 1984 \"Never\" (Produce 101 song), by the contestants of Produce 101 season 2, 2017 \"Never (Past Tense)\", by the Roc Project and Tina Arena, 2003 \"Never\", by the Cure from The Cure, 2004 \"Never\", by Earth, Wind & Fire from The Promise, 2003 \"Never\", by Electrafixion from Burned, 1995 \"Never\", by Flo Rida from R.O.O.T.S., 2009 \"Never\", by the House of Love from The House of Love, 1990 \"Never\", by Jomanda, 1993 \"Never\", by Marcus & Martinus from Moments, 2017 \"Never\", by Moby Grape from Wow/Grape Jam, 1968 \"Never\", by Neuro-sama and Evil Neuro, 2025 \"Never\", by Orbital from Wonky, 2012 \"Never\", by Ozzy Osbourne from The Ultimate Sin, 1986 \"Never\", by Paco from This Is"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Two anime characters are looking menacing and ready to fight.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Two anime characters"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is making fun of the camera angles in 90's music videos.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "fun",
+          "the camera angles"
+        ]
+      },
+      "title": {
+        "text": "Its that angle",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Its that angle",
+          "its",
+          "angle"
+        ]
+      },
+      "text": {
+        "text": "Beginning of every 90s hip hop music video: y, I\\ BS“ zp &S AN ANG",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "every 90s",
+          "hip hop music video",
+          "beginning",
+          "every",
+          "hip",
+          "hop",
+          "music",
+          "video",
+          "ang"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Its that angle",
+      "its",
+      "angle",
+      "every 90s",
+      "hip hop music video",
+      "beginning",
+      "every",
+      "hip",
+      "hop",
+      "music",
+      "video",
+      "ang"
+    ],
+    "secondary_terms": [
+      "Two anime characters",
+      "fun",
+      "the camera angles"
+    ],
+    "queries": [
+      "\"Its that angle\" \"hip hop music video\" \"every 90s\" \"its\"",
+      "\"every 90s\" \"its\" \"angle\" \"beginning\""
+    ]
+  },
+  "source_jsonl_id": null
+}

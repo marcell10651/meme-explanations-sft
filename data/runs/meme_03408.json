@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_03408",
+  "queries": [
+    "\"Non-specific non-imminent accidents\" \"non\" \"specific\" \"imminent\"",
+    "\"specific\" \"imminent\" \"accidents\" \"happen\""
+  ],
+  "primary_terms": [
+    "Non-specific non-imminent accidents",
+    "non",
+    "specific",
+    "imminent",
+    "accidents",
+    "happen",
+    "honors",
+    "ieauustice",
+    "falls",
+    "offabuilding",
+    "eld",
+    "dowthevimakes"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Disaster#0000",
+      "doc_id": "wikipedia:Disaster",
+      "title": "Disaster",
+      "url": "https://en.wikipedia.org/?curid=8137",
+      "source_type": "wikipedia",
+      "score": 0.9099036514759063,
+      "text": "A disaster is an event that causes such serious harm to people, buildings, economies, or the environment that the affected community cannot handle it alone. The United Nations Office for Disaster Risk Reduction defines a disaster as \"a serious disruption of the functioning of a community or a society at any scale due to hazardous events interacting with conditions of exposure, vulnerability and capacity, leading to one or more of the following: human, material, economic and environmental losses and impacts\". Natural disasters like avalanches, floods, earthquakes, and wildfires are caused by natural hazards. Human-made disasters like oil spills, terrorist attacks and power outages are caused by people. It may be difficult to separate natural and human-made disasters because human actions can make natural disasters worse. Climate change also affects how often disasters due to extreme weather hazards happen."
+    },
+    {
+      "chunk_id": "wikipedia:Lockdown#0001",
+      "doc_id": "wikipedia:Lockdown",
+      "title": "Lockdown",
+      "url": "https://en.wikipedia.org/?curid=2530301",
+      "source_type": "wikipedia",
+      "score": 0.904193913936615,
+      "text": "to address an unusual scenario or a weakness in system to preempt any danger to ensure the safety and security of people, organisation and system. The focus for preventive actions is to avoid dangers and risks arising from the nonconformity to the normal circumstances, but also commonly includes improvements in efficiency. Preventive lockdowns are preemptive lockdowns..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.6971758365631103,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Luck#0000",
+      "doc_id": "wikipedia:Luck",
+      "title": "Luck",
+      "url": "https://en.wikipedia.org/?curid=192727",
+      "source_type": "wikipedia",
+      "score": 0.6097620993852615,
+      "text": "Luck is a phenomenon or belief that humans may associate with experiencing improbable events, especially improbably positive or negative events. Philosophical naturalism, eschewing any supernatural explanations, might suggest that positive or negative events may happen at any time (due to both random and non-random natural and artificial processes), and that even improbable events can happen by random chance. In this view, the epithet \"lucky\" or \"unlucky\" is a descriptive label that refers to an event's positivity, negativity, or improbability. Supernatural interpretations of luck consider it to be an attribute of a person or of an object, or the result of a favorable (or unfavorable) view manifested by a deity towards the lucky (or unlucky) person. These interpretations often prescribe how luckiness or unluckiness can be obtained, such as by carrying a lucky charm or offering sacrifices or prayers to a deity."
+    },
+    {
+      "chunk_id": "wikipedia:Rescue#0000",
+      "doc_id": "wikipedia:Rescue",
+      "title": "Rescue",
+      "url": "https://en.wikipedia.org/?curid=363258",
+      "source_type": "wikipedia",
+      "score": 0.5746071696281433,
+      "text": "Rescue comprises responsive operations that usually involve the saving of life, removal from danger, liberation from restraint, or the urgent treatment of injuries after an incident. It may be facilitated by a range of tools and equipment necessary to deal with the specific circumstances. Rescues may be necessary in a wide range of circumstances and environments, and specialised procedures have been developed for many of these. A rescue may also be performed on an ad hoc basis by the people who are available on site, using equipment available on site or assembled from available materials, particularly when the rescue is urgent or it is unlikely that specialist assistance will be available within a reasonable time. First aid medical attention is often closely associated with rescue, and may be a necessary part of a rescue."
+    },
+    {
+      "chunk_id": "wikipedia:Lockdown#0000",
+      "doc_id": "wikipedia:Lockdown",
+      "title": "Lockdown",
+      "url": "https://en.wikipedia.org/?curid=2530301",
+      "source_type": "wikipedia",
+      "score": 0.531128054857254,
+      "text": "A lockdown ( ) is a restriction policy for people, community or a country to stay where they are, usually due to specific risks that could possibly harm the people if they move and interact freely. The term is used for a prison protocol that usually prevents people, information or objects from leaving an area. The protocol can usually only be initiated by someone in a position of authority. A lockdown can also be used to protect people inside a facility or, for example, a computing system, from a threat or other external event. In buildings doors leading outside are usually locked so that no person may enter or exit. Types Lockdowns may be adopted as a preventative measure or in response to a crisis as an emergency measure. Preventive lockdown A preventive lockdown is a preemptive action plan implemented to address an unusual scenario or a weakness in system to preempt any danger to ensure the safety and security of people, organisation and system."
+    },
+    {
+      "chunk_id": "wikipedia:Earthquake#0000",
+      "doc_id": "wikipedia:Earthquake",
+      "title": "Earthquake",
+      "url": "https://en.wikipedia.org/?curid=10106",
+      "source_type": "wikipedia",
+      "score": 0.4795723259449005,
+      "text": "An earthquake, also called a quake, tremor, or temblor, is the shaking of the Earth's surface resulting from a sudden release of energy in the lithosphere that creates seismic waves. Earthquakes can range in intensity, from those so weak they cannot be felt, to those violent enough to propel objects and people into the air, damage critical infrastructure, and wreak destruction across entire cities. The seismic activity of an area is the frequency, type, and size of earthquakes experienced over a particular time. The seismicity at a particular location in the Earth is the average rate of seismic energy release per unit volume. In its most general sense, the word earthquake is used to describe any seismic event that generates seismic waves. Earthquakes can occur naturally or be induced by human activities, such as mining, fracking, and nuclear weapons testing. The initial point of rupture is called the hypocenter or focus, while the ground level directly above it is the epicenter."
+    },
+    {
+      "chunk_id": "wikipedia:SAFE#0000",
+      "doc_id": "wikipedia:SAFE",
+      "title": "SAFE",
+      "url": "https://en.wikipedia.org/?curid=845195",
+      "source_type": "wikipedia",
+      "score": 0.4756159484386444,
+      "text": "SAFE may stand for: Acts and projects SAFE Act, one of many passed or proposed laws with this name Strategic Action For Emergencies, a fictional group to counter S.H.I.E.L.D. in Marvel Comics Synchronized Armed Forces Europe, the concept of synchronising of the European military forces Organisations SAFE (New Zealand organisation), Save Animals From Exploitation, a New Zealand animal advocacy organisation SAFE Society of Aviation and Flight Educators, a professional aviation organization SAFE Stroke Alliance for Europe, a coalition of charities that support stroke survivors SAFE (Struggle Against Financial Exploitation), a UK Parliamentary Working Group who campaign against financial fraud and deception Safe Ireland, anti-domestic violence organization, fund-raised for by Hozier's song \"Cherry Wine\" Security Action for Europe (SAFE), an EU financial instrument for defense spending State Administration of Foreign Exchange (SAFE), an agency of the People's Republic of China Science and"
+    },
+    {
+      "chunk_id": "wikipedia:Rescue#0001",
+      "doc_id": "wikipedia:Rescue",
+      "title": "Rescue",
+      "url": "https://en.wikipedia.org/?curid=363258",
+      "source_type": "wikipedia",
+      "score": 0.4742223471403122,
+      "text": "be available within a reasonable time. First aid medical attention is often closely associated with rescue, and may be a necessary part of a rescue. Equipment used might include search and rescue dogs, mounted search and rescue horses, helicopters, the \"jaws of life\", and other hydraulic cutting and spreading tools used to extricate occupants from wrecked vehicles. Rescue operations may be supported by rescue vehicles operated by rescue squads, and at sea by lifeboats, rescue craft, salvage vessels and vessels..."
+    },
+    {
+      "chunk_id": "wikipedia:Time travel#0000",
+      "doc_id": "wikipedia:Time travel",
+      "title": "Time travel",
+      "url": "https://en.wikipedia.org/?curid=31591",
+      "source_type": "wikipedia",
+      "score": 0.4496860414743423,
+      "text": "Time travel is the hypothetical activity of traveling into the past or future. Time travel is a concept in philosophy, space, time and fiction, particularly science fiction. In fiction, time travel is typically achieved through the use of a device known as a time machine. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine. It is uncertain whether time travel to the past would be physically possible. Such travel, if at all feasible, may give rise to questions of causality. Forward time travel, outside the usual sense of the perception of time, is an extensively observed phenomenon and is well understood within the framework of special relativity and general relativity. However, making one body advance or delay more than a few milliseconds compared to another body is not feasible with current technology. As for backward time travel, it is possible to find solutions in general relativity that allow for it, such as a rotating black hole."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_03997",
+  "queries": [
+    "\"Current state\" \"the same templates\" \"Recycle\" \"the number\"",
+    "\"Recycle\" \"the number\" \"current\" \"state\""
+  ],
+  "primary_terms": [
+    "Current state",
+    "current",
+    "state",
+    "the number",
+    "original memes",
+    "the same templates",
+    "Recycle"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:State#0001",
+      "doc_id": "wikipedia:State",
+      "title": "State",
+      "url": "https://en.wikipedia.org/?curid=290282",
+      "source_type": "wikipedia",
+      "score": 0.6877904295921325,
+      "text": "societies or civilizations State may also refer to: Arts, entertainment, and media Literature State Magazine, a monthly magazine published by the U.S. Department of State The State (newspaper), a daily newspaper in Columbia, South Carolina, United States Our State, a monthly magazine published in North Carolina and formerly called The State The State (Larry Niven), a fictional future government in three novels by Larry Niven Music Groups and labels States Records, an American record label The State (band), Australian band previously known as the Cutters Albums State (album), a 2013 album by Todd Rundgren..."
+    },
+    {
+      "chunk_id": "wikipedia:Country#0000",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.5628955036401748,
+      "text": "A country is an area of land, colloquially used as a synonym for sovereign state or other political entities, but also used to refer to the hinterland surrounding urban areas, as well as to describe the culture of people living in these places. Usually, the term country is applied to occupied areas of land, however it can be used to refer to uninhabited areas or wastelands. When referring to a specific polity, the term \"country\" may refer to a sovereign state, a state with limited recognition, a constituent country, or a dependent territory. Most sovereign states, but not all countries, are members of the United Nations. There is no universal agreement on the number of \"countries\" in the world with a range between 193 to 237. This ambiguity is a result of several states having disputed sovereignty status or limited recognition, and a number of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time."
+    },
+    {
+      "chunk_id": "wikipedia:Update#0000",
+      "doc_id": "wikipedia:Update",
+      "title": "Update",
+      "url": "https://en.wikipedia.org/?curid=1237226",
+      "source_type": "wikipedia",
+      "score": 0.5620125442743301,
+      "text": "Update(s) or updated may refer to: Music Update (Anouk album), 2004 Update (Berlin Jazz Orchestra album), 2004 Update (Jane Zhang album), 2007 Update (Mal Waldron album), 1987 Update (Yandel album), 2017 Updated (M. Pokora album), an English-language version of Mise à jour, 2011 Other uses DR Update, a defunct Danish television news channel Software update, modifying installed software to be more up-to-date Update (SQL), a statement for changing database records Updates, a program broadcast by CNN Philippines See also Bayesian inference, a type of reasoning described as updating Patch (computing), a form of software update Upgrade, replacing or adding to improve"
+    },
+    {
+      "chunk_id": "wikipedia:Century#0001",
+      "doc_id": "wikipedia:Century",
+      "title": "Century",
+      "url": "https://en.wikipedia.org/?curid=5881",
+      "source_type": "wikipedia",
+      "score": 0.5413588583469391,
+      "text": "a multiple of 100 (except the first century as it began after the year 1 BC) and ends with the next coming year with a multiple of 100 (100n), i.e. the 20th century comprises the years 1901 to 2000, and the 21st century comprises the years 2001 to 2100 in strict usage. In common perception and practice, centuries are structured by grouping years based on sharing..."
+    },
+    {
+      "chunk_id": "wikipedia:Commit#0000",
+      "doc_id": "wikipedia:Commit",
+      "title": "Commit",
+      "url": "https://en.wikipedia.org/?curid=1946757",
+      "source_type": "wikipedia",
+      "score": 0.5247213304042816,
+      "text": "Commit may refer to: Computing Databases Commit (data management), a set of permanent changes in a database COMMIT (SQL), an SQL statement used to create such a changeset Version control Changeset, list of differences between two successive versions in a repository Commit (version control), the operation of committing such a changeset to the repository Microsoft Windows Commit charge, a concept in operating system-level memory management Others Materiel and IT Command (COMMIT), the defense procurement agency of the government of The Netherlands Commit (motion), a parliamentary motion Nicotine replacement therapy, by the trade name Commit Commit (card game), a 19th century American variant of the French card game, Comet See also Commitment (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Ecosystem#0001",
+      "doc_id": "wikipedia:Ecosystem",
+      "title": "Ecosystem",
+      "url": "https://en.wikipedia.org/?curid=9632",
+      "source_type": "wikipedia",
+      "score": 0.5150857925415039,
+      "text": "in the process of recovering from past disturbances. The tendency of an ecosystem to remain close to its equilibrium state, is termed its resistance. Its capacity to absorb disturbance and reorganize, while undergoing change so as to retain essentially the same function, structure, identity, is termed its ecological resilience. Ecosystems can be studied through a variety of approaches—theoretical studies, studies..."
+    },
+    {
+      "chunk_id": "wikipedia:Decade#0000",
+      "doc_id": "wikipedia:Decade",
+      "title": "Decade",
+      "url": "https://en.wikipedia.org/?curid=695530",
+      "source_type": "wikipedia",
+      "score": 0.5087656289339065,
+      "text": "A decade (from Ancient Greek: δεκάς, dekas, lit. 'group of 10') is a period of 10 years. It may also be called a decennium (from Latin: decennium, lit. 'ten-year'). Decades may describe any ten-year period, such as those of a person's life, or refer to specific groupings of calendar years. Usage Any period of ten years is a 'decade' or 'decennium'. For example, the statement that \"during his last decade, Mozart explored chromatic harmony to a degree rare at the time\" refers to the last 10 years of Wolfgang Amadeus Mozart's life without regard to which calendar years are encompassed. Also, 'the first decade' of a person's life begins on the day of their birth and ends at the end of their 10th year of life when they have their 10th birthday; the second decade of life starts with their 11th year of life (during which one is typically still referred to as being \"10\") and ends at the end of their 20th year of life, on their 20th birthday; similarly, the third decade of life, when one is in"
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0000",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.4983933329582214,
+      "text": "Quantity or amount is a property that includes numbers and quantifiable phenomena such as mass, time, distance, heat, angle, and information. Quantities can commonly be compared in terms of \"more\", \"less\", or \"equal\", or by assigning a numerical value multiple of a unit of measurement. Quantity is among the basic classes of things along with quality, substance, change, and relation. Some quantities are such by their inner nature (as number), while others function as states (properties, dimensions, attributes) of things such as heavy and light, long and short, broad and narrow, small and great, or much and little. Under the name of multitude comes what is discontinuous and discrete and divisible ultimately into indivisibles, such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns."
+    },
+    {
+      "chunk_id": "wikipedia:Second#0000",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.49415789246559144,
+      "text": "The second (symbol: s) is a unit of time derived from the division of the day first into 24 hours, then to 60 minutes, and lastly to 60 seconds each, for a total of 24 × 60 × 60 = 86,400 seconds per day. The current and formal definition in the International System of Units (SI) is more precise: The second [...] is defined by taking the fixed numerical value of the caesium frequency, ΔνCs, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9192631770 when expressed in the unit Hz, which is equal to s−1. That is saying that a second is the duration of time it takes for 9 192 631 770 of these transitions to occur. Atomic clocks count these transitions, with an uncertainty of 1 second in 300 million years. This current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks."
+    },
+    {
+      "chunk_id": "wikipedia:Trash#0000",
+      "doc_id": "wikipedia:Trash",
+      "title": "Trash",
+      "url": "https://en.wikipedia.org/?curid=390672",
+      "source_type": "wikipedia",
+      "score": 0.46482524275779724,
+      "text": "Trash may refer to: Garbage Garbage, unwanted or undesired waste material Litter, material discarded in inappropriate places Municipal solid waste, unwanted or undesired waste material generated in a municipal environment Arts, entertainment, and media Art Trash art, artworks created from discarded objects Films, TV, videogames \"Trash\", a video game term Trash (1970 film), an American film Trash (2011 film), a Canadian drama film Trash (2014 film), a British film \"Trash\" (Firefly), an episode of the TV series Trash (video game), a multiplayer real-time strategy Trash TV, a form of television programming considered to be tasteless and unprofessional Trash Video, a Finnish film production company Z movie, a low-budget exploitation movie category Literature Trash (comics), a Marvel Comics organisation Trash (manga), a manga created by Sanami Matoh Trash (novel), a 2010 novel by Andy Mulligan Trash: Short Stories, a 1988 publication by Dorothy Allison Music Bands Trash (band), a British"
+    }
+  ]
+}

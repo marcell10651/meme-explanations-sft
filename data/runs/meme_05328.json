@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_05328",
+  "queries": [
+    "\"20M views\" \"youtube\" \"Original artists\" \"some random guy\"",
+    "\"Original artists\" \"some random guy\" \"Artists\" \"their music\""
+  ],
+  "primary_terms": [
+    "Original artists",
+    "people",
+    "their music",
+    "more money",
+    "Artists",
+    "some random guy",
+    "youtube",
+    "their song",
+    "20M views"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Artist#0000",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.7585939228534698,
+      "text": "An artist is a person engaged in creating art, or practicing the arts. The most common usage in everyday speech and academic discourse refers to a practitioner in the visual arts only. However, the term is also very widely used in the entertainment business to refer to actors, musicians, singers, dancers , and other performers. The French word artiste is sometimes used in English in this context, although this has become old-fashioned. The use of the term \"artist\" to describe writers is valid, but less common, and mostly restricted to contexts such as critics' reviews; \"author\" is generally used instead. While the use of the word 'artist' is common, there is no agreed upon definition of art—this makes the definition of who is and is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art."
+    },
+    {
+      "chunk_id": "wikipedia:Some People#0000",
+      "doc_id": "wikipedia:Some People",
+      "title": "Some People",
+      "url": "https://en.wikipedia.org/?curid=38582232",
+      "source_type": "wikipedia",
+      "score": 0.7458028256893158,
+      "text": "Some People may refer to: Some People (film), 1962 Some People, a 1927 novel by Harold Nicolson \"Some People\", song by LeAnn Rimes Music Albums Some People (Jon English album), 1983 Some People (Belouis Some album), 1985 Songs \"Some People\" (Belouis Some song), 1985 \"Some People\" (Cliff Richard song), 1987 \"Some People\" (LeAnn Rimes song), 2006 \"Some People\" (E. G. Daily song), 1989 \"Some People\", by Janis Ian from her 1978 self-titled album \"Some People\", by Fra Lippo Lippi from the 1987 album Light and Shade \"Some People (Ton désir)\", by Ocean Drive, 2009 \"Some People\", by James Reyne from the 1991 album Electric Digger Dandy \"Some People\", from the 1959 musical Gypsy \"Some People\", by Anne-Marie from the deluxe edition of the 2018 album Speak Your Mind \"Some People\", by Goldfrapp from the 2008 album Seventh Tree"
+    },
+    {
+      "chunk_id": "wikipedia:Young#0000",
+      "doc_id": "wikipedia:Young",
+      "title": "Young",
+      "url": "https://en.wikipedia.org/?curid=302029",
+      "source_type": "wikipedia",
+      "score": 0.7255232691764831,
+      "text": "Young may refer to: Offspring, the product of reproduction of a new organism produced by one or more parents Youth, the time of life when one's age is low, often meaning the time between childhood and adulthood Music The Young, an American rock band Young, an EP by Charlotte Lawrence, 2018 Songs \"Young\" (Baekhyun and Loco song), 2018 \"Young\" (The Chainsmokers song), 2017 \"Young\" (Hollywood Undead song), 2009 \"Young\" (Kenny Chesney song), 2002 \"Young\" (Place on Earth song), 2018 \"Young\" (Tulisa song), 2012 \"Young\", by Ella Henderson, 2019 \"Young\", by Lil Wayne from Dedication 6, 2017 \"Young\", by Nickel Creek from This Side, 2002 \"Young\", by Sam Smith from Love Goes, 2020 \"Young\", by Silkworm from Italian Platinum, 2002 \"Young\", by Vacations (band), 2016 \"Young\", by Vallis Alps, 2015 \"Young\", by Pixey, 2016 People Surname Young (surname) Given name Young (Korean name), Korean unisex given name and name element Young Boozer (born 1948), American banker and Alabama State Treasurer Young"
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.6465938150882721,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0001",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.6388457417488098,
+      "text": "1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple, 2008 \"Whatever\", by Hüsker Dü from Zen Arcade, 1984 \"Whatever\", by Imogen Heap from I Megaphone, 1998 \"Whatever\", by Lil Tecca from We Love You Tecca 2, 2021 \"Whatever\", by Our Lady Peace..."
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0000",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.6247910261154175,
+      "text": "Whatever may refer to: Music Albums Whatever (Adore Delano album), 2017 Whatever (Aimee Mann album), 1993 Whatever (Danny Thompson album), 1987 Whatever (The Friends of Distinction album), 1970 Whatever (Green Velvet album), 2001 Whatever (Hot Chelle Rae album) or the title song, 2011 Whatever (Jennifer Batten album) or the title song, 2007 Whatever..., a comedy album by Guido Hatzis, 2000 Whatever: The '90s Pop & Culture Box, a Rhino Records box set, 2005 Whatever, by Megumi Hayashibara, 1992 Whatever, an EP by bbno$, 2018 Songs \"Whatever\" (Ayumi Hamasaki song), 1999 \"Whatever\" (Cro song), 2013 \"Whatever\" (En Vogue song), 1997 \"Whatever\" (Godsmack song), 1998 \"Whatever\" (Ideal song), 2000 \"Whatever\" (Jill Scott song), 2005 \"Whatever\" (Kygo and Ava Max song), 2024 \"Whatever\" (Oasis song), 1994 \"Whatever\" (The Statler Brothers song), 1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple,"
+    },
+    {
+      "chunk_id": "wikipedia:Definitely Maybe#0001",
+      "doc_id": "wikipedia:Definitely Maybe",
+      "title": "Definitely Maybe",
+      "url": "https://en.wikipedia.org/?curid=142980",
+      "source_type": "wikipedia",
+      "score": 0.6247376501560211,
+      "text": "fired. In February 1994, the group began re-recording the album at Sawmills Studios in Cornwall, where Noel produced sessions alongside Mark Coyle. The results were still deemed unsatisfactory; in desperation, Creation's Marcus Russell contacted engineer and producer Owen Morris, who eventually worked on mixing the album at Johnny Marr's studio in Manchester. Definitely Maybe was an immediate commercial success in the United Kingdom, having followed on the heels of the singles \"Supersonic\", \"Shakermaker\", and the UK top-ten hit \"Live Forever\", which was also..."
+    },
+    {
+      "chunk_id": "wikipedia:Already#0000",
+      "doc_id": "wikipedia:Already",
+      "title": "Already",
+      "url": "https://en.wikipedia.org/?curid=57931026",
+      "source_type": "wikipedia",
+      "score": 0.6115408837795258,
+      "text": "Already may refer to: Albums Already (Jesus Jones album), 1997 Already (Edison Lighthouse album), 1971 Songs \"Already\" (song), 2019 song by Beyoncé, Shatta Wale and Major Lazer \"Already\", 2009 song by Mannie Fresh on his album Return of the Ballin' \"Already\", 2011 song by Freddie Gibbs on his album Lord Giveth, Lord Taketh Away \"Already\", 2011 song by Samiyam on his album Sam Baker's Album \"Already\", 2013 song by Gucci Mane on his mixtape Trap House 4 \"Already\", 2014 song by Anderson Paak on his album Venice \"Already\", 2014 song by Chief Keef on his album Nobody \"Already\", 2022 song by (G)I-dle on their album I Never Die"
+    },
+    {
+      "chunk_id": "wikipedia:Dave Grohl#0001",
+      "doc_id": "wikipedia:Dave Grohl",
+      "title": "Dave Grohl",
+      "url": "https://en.wikipedia.org/?curid=8099",
+      "source_type": "wikipedia",
+      "score": 0.6070221066474915,
+      "text": "the drummer and co-founder of the rock supergroup Them Crooked Vultures, and has recorded and toured with Queens of the Stone Age and Tenacious D. He has organized side projects Late!, which released the album Pocketwatch, and Probot. Grohl began directing Foo Fighters music videos in 1997. He released his debut documentary, Sound City, in 2013, followed by the 2014 documentary miniseries Sonic Highways and the 2021 documentary..."
+    },
+    {
+      "chunk_id": "wikipedia:Use Your Fingers#0001",
+      "doc_id": "wikipedia:Use Your Fingers",
+      "title": "Use Your Fingers",
+      "url": "https://en.wikipedia.org/?curid=2317950",
+      "source_type": "wikipedia",
+      "score": 0.5974679887294769,
+      "text": "two decades later is how much this album not only shouldn't exist from a legal perspective, but how it managed to predict so much of the 20 years of musical trends that followed it,\" and praising it as a \"unique entry in the hip-hop canon from a sampling production standpoint, an impressive assortment of acknowledgments from a pop culture junkie..."
+    }
+  ]
+}

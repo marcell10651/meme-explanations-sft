@@ -1,0 +1,192 @@
+{
+  "meme_id": "meme_03771",
+  "queries": [
+    "\"The face\" \"the second knuckle\" \"the spot\" \"yep\"",
+    "\"the spot\" \"yep\" \"spot\" \"face\""
+  ],
+  "primary_terms": [
+    "the spot",
+    "yep",
+    "spot",
+    "The face",
+    "the second knuckle",
+    "face",
+    "past",
+    "second",
+    "knuckle"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Face#0001",
+      "doc_id": "wikipedia:Face",
+      "title": "Face",
+      "url": "https://en.wikipedia.org/?curid=53234",
+      "source_type": "wikipedia",
+      "score": 0.9555942833423614,
+      "text": "shape, nostrils, and nasal septum The cheeks, covering the maxilla and mandible (or jaw), the extremity of which is the chin The mouth, with the upper lip divided by the philtrum, sometimes revealing the teeth Facial appearance is vital for human recognition and communication. Facial muscles in humans allow expression of emotions. The face..."
+    },
+    {
+      "chunk_id": "wikipedia:Spot#0000",
+      "doc_id": "wikipedia:Spot",
+      "title": "Spot",
+      "url": "https://en.wikipedia.org/?curid=67090",
+      "source_type": "wikipedia",
+      "score": 0.8778657436370849,
+      "text": "Spot or SPOT may refer to: Places Spot, North Carolina, a community in the United States The Spot, New South Wales, a locality in Sydney, Australia South Pole Traverse, sometimes called the South Pole Overland Traverse People Spot Collins (1922-1996), American football player and coach Jack Comer (1912–1996), Polish-born English gangster nicknamed \"Spot\" Jerry Chamberlain (known as \"Spot\"), the guitarist for the rock group the Swirling Eddies Scott Draves (known as \"Spot\"), digital artist and VJ Spot (producer), Glenn Michael Lockett (1951–2023), house producer and engineer for the label SST Records Spot (rapper) (born 1987), American rapper Moondog Spot, a ring name for professional wrestler Larry Booker Advertising Radio spot, an over-the-air advertisement TV spot, a televised advertisement Underwriting spot, an announcement made on public broadcasting outlets, especially in the United States, in exchange for funding Animals Spot, a dog that remained faithful after his master's"
+    },
+    {
+      "chunk_id": "wikipedia:Head#0001",
+      "doc_id": "wikipedia:Head",
+      "title": "Head",
+      "url": "https://en.wikipedia.org/?curid=1209545",
+      "source_type": "wikipedia",
+      "score": 0.866528582572937,
+      "text": "the cranial cavity, and the facial skeleton, which includes the mandible. There are eight bones in the brain case and fourteen in the facial skeleton. Sculptures of human heads are generally based on a skeletal structure that consists of a cranium, jawbone, and cheekbone. Though the number of muscles making up the face is generally consistent between..."
+    },
+    {
+      "chunk_id": "wikipedia:Two-Face#0000",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 0.8001067698001861,
+      "text": "Two-Face is a supervillain appearing in American comic books published by DC Comics. The character was created by Bob Kane, and first appeared in Detective Comics #66 (August 1942). He has become one of the superhero Batman's most enduring enemies belonging to the collective of adversaries that make up his rogues gallery. In his comic book appearances, Two-Face is the alter ego of Harvey Dent, Gotham City's former district attorney who becomes a criminal mastermind obsessed with duality and the number two. Half of his face is hideously scarred after mob boss Sal Maroni throws acid at him. The resulting disfigurement drives him insane and causes him to make decisions based on the flip of a coin. The Modern Age of Comic Books portrays the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse."
+    },
+    {
+      "chunk_id": "wikipedia:Mask#0000",
+      "doc_id": "wikipedia:Mask",
+      "title": "Mask",
+      "url": "https://en.wikipedia.org/?curid=247083",
+      "source_type": "wikipedia",
+      "score": 0.7862041115760803,
+      "text": "A mask is an object normally worn on the face, typically for protection, disguise, performance, or entertainment, and often employed for rituals and rites. Masks have been used since antiquity for both ceremonial and practical purposes, as well as in the performing arts and for entertainment. They are usually worn on the face, although they may also be positioned for effect elsewhere on the wearer's body. In art history, especially sculpture, \"mask\" is the term for a face without a body that is not modelled in the round (which would make it a \"head\"), but for example appears in low relief. Etymology The word \"mask\" appeared in English in the 1530s, from Middle French masque \"covering to hide or guard the face\", derived in turn from Italian maschera, from Medieval Latin masca \"mask, specter, nightmare\". This word is of uncertain origin, perhaps from Arabic maskharah مَسْخَرَۃٌ \"buffoon\", from the verb sakhira \"to ridicule\"."
+    },
+    {
+      "chunk_id": "wikipedia:Small Faces#0001",
+      "doc_id": "wikipedia:Small Faces",
+      "title": "Small Faces",
+      "url": "https://en.wikipedia.org/?curid=167663",
+      "source_type": "wikipedia",
+      "score": 0.7425755083560943,
+      "text": "1969, Marriott left to form Humble Pie, while Lane, Jones and McLagan continued under the shortened name the Faces with Rod Stewart and Ronnie Wood. Following the breakup of both the Faces and Humble Pie in 1975, the classic Marriott/Lane/McLagan/Jones line-up of the Small Faces re-formed after a re-release of \"Itchycoo Park\" became a top-ten hit. Lane left shortly thereafter, and was..."
+    },
+    {
+      "chunk_id": "wikipedia:Spot#0001",
+      "doc_id": "wikipedia:Spot",
+      "title": "Spot",
+      "url": "https://en.wikipedia.org/?curid=67090",
+      "source_type": "wikipedia",
+      "score": 0.7140909492969513,
+      "text": "on public broadcasting outlets, especially in the United States, in exchange for funding Animals Spot, a dog that remained faithful after his master's death, described in the List of individual dogs Spot Fetcher, a dog owned by U.S. President George W. Bush Arts and entertainment Fictional characters Spot, a character..."
+    },
+    {
+      "chunk_id": "wikipedia:Yeah Yeah Yeahs#0000",
+      "doc_id": "wikipedia:Yeah Yeah Yeahs",
+      "title": "Yeah Yeah Yeahs",
+      "url": "https://en.wikipedia.org/?curid=314405",
+      "source_type": "wikipedia",
+      "score": 0.6791696012020111,
+      "text": "Yeah Yeah Yeahs are an American indie rock band formed in New York City in 2000. The group consists of vocalist/pianist Karen O, guitarist/keyboardist Nick Zinner, and drummer Brian Chase; they do not have a bassist but have been complemented during live shows by David Pajo and Imaad Wasif. They are known for energetic performances and a blend of genres, including art rock and dance-rock. Yeah Yeah Yeahs found critical and commercial success with their debut album, Fever to Tell (2003), which is cited as their best work. It produced the breakthrough single \"Maps\", which became the band's signature song. They issued a second album, Show Your Bones (2006), and shifted to dance-punk with their third, It's Blitz! (2009). Both records received positive reviews, and the latter spawned the hit single \"Heads Will Roll\". The band's fourth album, Mosquito (2013), became their highest-charting record in the United States but did not match the reception of its predecessors."
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0001",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.6135145336389541,
+      "text": "donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture. The photo quickly became popular on the image board 4chan, and social media networks like Facebook and Twitter, depicting \"a guy who can't catch a break [...] a symbol for a stroke of hilarious bad luck\". Notable depictions In 2013, Bad Luck Brian (depicted by Craven himself) featured in a YouTube video sketch..."
+    },
+    {
+      "chunk_id": "wikipedia:Small Faces#0000",
+      "doc_id": "wikipedia:Small Faces",
+      "title": "Small Faces",
+      "url": "https://en.wikipedia.org/?curid=167663",
+      "source_type": "wikipedia",
+      "score": 0.6067093729972839,
+      "text": "The Small Faces were an English rock band from London, founded in 1965. The group originally consisted of singer/guitarist Steve Marriott, bassist Ronnie Lane, drummer Kenney Jones and keyboardist Jimmy Winston, with Ian McLagan replacing Winston in 1966. The band were initially one of the most acclaimed and influential mod groups of the mid-1960s, with hit singles such as \"Whatcha Gonna Do About It\" (1965), \"Sha-La-La-La-Lee\" and \"All or Nothing\" (both 1966). From 1967, they evolved into one of the UK's most successful psychedelic bands, achieving further hit singles including \"Here Come the Nice\", \"Itchycoo Park\", \"Tin Soldier\" (all 1967) and \"Lazy Sunday\" (1968), the latter taken from their critically-acclaimed concept album Ogdens' Nut Gone Flake (1968), which reached No. 1 on the UK Albums Chart. In 1969, Marriott left to form Humble Pie, while Lane, Jones and McLagan continued under the shortened name the Faces with Rod Stewart and Ronnie Wood."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The dog is licking his lips and looks crazy.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The dog",
+          "his lips"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme feels weird when his girlfriend past the second knuckle.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the second knuckle"
+        ]
+      },
+      "title": {
+        "text": "yep that's the spot",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the spot",
+          "yep",
+          "spot"
+        ]
+      },
+      "text": {
+        "text": "The face you make when she gets past the second knuckle = a a a, o Ts.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The face",
+          "the second knuckle",
+          "face",
+          "past",
+          "second",
+          "knuckle"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the spot",
+      "yep",
+      "spot",
+      "The face",
+      "the second knuckle",
+      "face",
+      "past",
+      "second",
+      "knuckle"
+    ],
+    "secondary_terms": [
+      "The dog",
+      "his lips",
+      "the second knuckle"
+    ],
+    "queries": [
+      "\"The face\" \"the second knuckle\" \"the spot\" \"yep\"",
+      "\"the spot\" \"yep\" \"spot\" \"face\""
+    ]
+  },
+  "source_jsonl_id": null
+}

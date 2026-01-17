@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_03956",
+  "queries": [
+    "\"THEIR PRODUCT\" \"SEEM PREMIUM\" \"TALIAN/BRANDS\" \"potter\"",
+    "\"TALIAN/BRANDS\" \"potter\" \"dare\" \"using\""
+  ],
+  "primary_terms": [
+    "potter",
+    "dare",
+    "using",
+    "own",
+    "against",
+    "THEIR PRODUCT",
+    "SEEM PREMIUM",
+    "TALIAN/BRANDS"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Brand#0001",
+      "doc_id": "wikipedia:Brand",
+      "title": "Brand",
+      "url": "https://en.wikipedia.org/?curid=18950900",
+      "source_type": "wikipedia",
+      "score": 0.8065829038619995,
+      "text": "into the animal's skin with a hot branding iron. If a person stole any of the cattle, anyone else who saw the symbol could deduce the actual owner. The etymology of the word “brand” originates from the Old Norse word \"brandr\" from the 10th Century, which means “to burn\". The term \"brand\" has been extended to mean a strategic personality for a product or company, so that \"brand\" now suggests the values and promises that a consumer..."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0000",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.7935495495796203,
+      "text": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Granger, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's conflict with Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and non-magical people, known in-universe as Muggles. The series was originally published in English by Bloomsbury in the United Kingdom and Scholastic Press in the United States. A series of many genres, including fantasy, drama, coming-of-age fiction, and the British school story (which includes elements of mystery, thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references."
+    },
+    {
+      "chunk_id": "wikipedia:Premium#0001",
+      "doc_id": "wikipedia:Premium",
+      "title": "Premium",
+      "url": "https://en.wikipedia.org/?curid=769137",
+      "source_type": "wikipedia",
+      "score": 0.7902848720550537,
+      "text": "texting, SMS used for delivering digital content Premium-rate telephone number, telephone numbers for which prices higher than normal are charged Brands Premium-Cola, a brand of cola from Germany Premium Brands Holdings Corporation, a Canadian specialty food manufacturing and distribution company Premium Outlets, a brand of shopping malls..."
+    },
+    {
+      "chunk_id": "wikipedia:Potter#0000",
+      "doc_id": "wikipedia:Potter",
+      "title": "Potter",
+      "url": "https://en.wikipedia.org/?curid=170486",
+      "source_type": "wikipedia",
+      "score": 0.7880089700222015,
+      "text": "A potter is someone who makes pottery. Potter may also refer to: Places United States Potter, originally a section on the Alaska Railroad, currently a neighborhood of Anchorage, Alaska, US Potter, Arkansas Potter, Nebraska Potters, New Jersey Potter, New York Potter, Wisconsin Potter County, Pennsylvania Potter County, South Dakota Potter County, Texas Potter Lake, Wisconsin Potter Township (disambiguation) Potter Valley, California Potter Valley AVA, California wine region in Mendocino County Potter Cemetery, Michigan Elsewhere 7320 Potter, an asteroid Potter Island, Nunavut, Canada Potter Peninsula, South Shetland Islands People and fictional characters Potter (name), a given name and a surname, including a list of people and fictional characters with the name Arts, entertainment, and media Potter (TV series), a TV sitcom starring Arthur Lowe Harry and the Potters, an American rock band Harry Potter, worldwide bestselling book and film series Miss Potter, a 2006 film by Chris Noonan"
+    },
+    {
+      "chunk_id": "wikipedia:Potter#0001",
+      "doc_id": "wikipedia:Potter",
+      "title": "Potter",
+      "url": "https://en.wikipedia.org/?curid=170486",
+      "source_type": "wikipedia",
+      "score": 0.7714816093444824,
+      "text": "Lowe Harry and the Potters, an American rock band Harry Potter, worldwide bestselling book and film series Miss Potter, a 2006 film by Chris Noonan The Potters (artists group), a women's artistic and literary group in St. Louis, Missouri The Potters (film), a lost 1927 silent film Sports Stoke City F.C or The Potters..."
+    },
+    {
+      "chunk_id": "wikipedia:Brand#0000",
+      "doc_id": "wikipedia:Brand",
+      "title": "Brand",
+      "url": "https://en.wikipedia.org/?curid=18950900",
+      "source_type": "wikipedia",
+      "score": 0.7635940670967102,
+      "text": "A brand is a name, term, design, symbol or any other feature that distinguishes one seller's goods or service from those of other sellers. Brands are used in business, marketing, and advertising for recognition and, importantly, to create and store value as brand equity for the object identified, to the benefit of the brand's customers, its owners and shareholders. Brand names are sometimes distinguished from generic or store brands. The practice of branding—in the original literal sense of marking by burning—is thought to have begun with the ancient Egyptians, who are known to have engaged in livestock branding and branded slaves as early as 2,700 BCE. Branding was used to differentiate one person's cattle from another's by means of a distinctive symbol burned into the animal's skin with a hot branding iron. If a person stole any of the cattle, anyone else who saw the symbol could deduce the actual owner."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0001",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.7021769940853119,
+      "text": "thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references. Major themes in the series include prejudice, corruption, madness, love, and death. Since the release of the first novel, Harry Potter and the Philosopher's Stone, on 26 June 1997, the books have found immense popularity and commercial success worldwide..."
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0000",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.6849114954471588,
+      "text": "Rubeus Hagrid () is a fictional character in the Harry Potter series of novels by J. K. Rowling. He was introduced in Harry Potter and the Philosopher's Stone (1997) as a half-giant who is the gamekeeper and groundskeeper at the wizarding school Hogwarts. He is a member of the Order of the Phoenix and eventually becomes the Care of Magical Creatures professor. Hagrid is portrayed by Robbie Coltrane in all eight Harry Potter films. Creation and development Rubeus Hagrid was one of the first characters Rowling created. In a 1999 interview, she explained that the name \"Hagrid\" is an Old English word, referring to hagridden, meaning 'tormented by hags'. She said it means \"you'd had a bad night\" and she explained that Hagrid \"has a lot of bad nights\" due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\"."
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0001",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.602440333366394,
+      "text": "due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\". The character of Hagrid and conversations between him, Harry Potter, Ron Weasley and Hermione Granger in his hut are expository through the series, due to the fact that the trio frequently discover things about Albus Dumbledore and Hogwarts by talking with Hagrid, as he has a habit of letting..."
+    },
+    {
+      "chunk_id": "wikipedia:Made#0000",
+      "doc_id": "wikipedia:Made",
+      "title": "Made",
+      "url": "https://en.wikipedia.org/?curid=666961",
+      "source_type": "wikipedia",
+      "score": 0.6008817017078399,
+      "text": "Made or MADE may refer to: Entertainment Film Made (1972 film), United Kingdom Made (2001 film), United States Music Made (Big Bang album), 2016 Made (Hawk Nelson album), 2013 Made (Scarface album), 2007 M.A.D.E., 2003 album by Memphis Bleek \"Made\" (Scuba Dice song), 2006 \"Made\" (The Wanted song), 2010 Made (band), a Toronto lo-fi band Television Made (TV series), United States, 2002 to 2014 Companies Made.com, an online furniture retailer in London, United Kingdom MADE Clothing, an American clothing line around 2005 The MADE or The Museum of Art and Digital Entertainment Geography Made (Netherlands), a town in the Netherlands People van der Made - Dutch family name Dalem Di Made (fl."
+    }
+  ]
+}

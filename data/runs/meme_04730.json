@@ -1,0 +1,122 @@
+{
+  "meme_id": "meme_04730",
+  "queries": [
+    "@in",
+    "\"Ase yee\" \"wei wheferthie\" \"time\" \"answered\"",
+    "\"time\" \"answered\" \"ont\" \"pet\""
+  ],
+  "primary_terms": [
+    "time",
+    "answered",
+    "Ase yee",
+    "wei wheferthie",
+    "ont",
+    "pet",
+    "oly",
+    "tere",
+    "ifs",
+    "wre",
+    "welw",
+    "suns",
+    "nals",
+    "ede",
+    "ase",
+    "yee",
+    "wei",
+    "wheferthie",
+    "nis",
+    "water"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Before#0000",
+      "doc_id": "wikipedia:Before",
+      "title": "Before",
+      "url": "https://en.wikipedia.org/?curid=39628822",
+      "source_type": "wikipedia",
+      "score": 0.8783076047897339,
+      "text": "Before is the opposite of after, and may refer to: Literature \"Before\" (short story) by Gael Baudino, 1996 Before by Anna Todd, 2015 Music Before (Gold Panda EP), 2009 Before (James Blake EP), 2020 \"Before\" (song), a 1996 song by the Pet Shop Boys \"Before\", a song by the Empire of the Sun from Two Vines \"Before\", a song by Anastacia from Evolution Television and film Before trilogy, by Richard Linklater Before Sunrise, 1995 Before Sunset, 2004 Before Midnight, 2013 Before (TV series), 2024 See also Before Christ (BC), an epoch used in dating years prior to the estimated birth of Jesus Before Common Era (BCE), an alternative naming of the traditional calendar era primarily used in academic circles Before Present (BP), a timescale used mainly in geology All pages with titles beginning with Before All pages with titles containing Before"
+    },
+    {
+      "chunk_id": "wikipedia:Time#0000",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.8159728169441223,
+      "text": "Time is the continuous progression of existence that occurs in an apparently irreversible succession from the past, through the present, and into the future. Time dictates all forms of action, age, and causality, being a component quantity of various measurements used to sequence events, to compare the duration of events (or the intervals between them), and to quantify rates of change of quantities in material reality or in the conscious experience. Time is often referred to as a fourth dimension, along with three spatial dimensions. Time is primarily measured in linear spans or periods, ordered from shortest to longest. Practical, human-scale measurements of time are performed using clocks and calendars, reflecting a 24-hour day collected into a 365-day year linked to the astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest."
+    },
+    {
+      "chunk_id": "wikipedia:Morning#0001",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.7682504475116729,
+      "text": "despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\". Significance Cultural implications Morning prayer is a common practice in several religions. The morning period includes specific phases of the Liturgy of the Hours of Christianity. Some languages that use the time of day in greeting have a special greeting for morning..."
+    },
+    {
+      "chunk_id": "wikipedia:Second#0001",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.689258736371994,
+      "text": "current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks. As the speed of Earth's rotation varies and is slowing ever so slightly, a leap second is added at irregular intervals to civil time to keep clocks in sync with Earth's rotation. The definition that is based on 1⁄86400 of a rotation of the earth is still used by the Universal Time 1 (UT1) system..."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0001",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.614524295926094,
+      "text": "astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest. Measurable time is believed to have effectively begun with the Big Bang 13.8 billion years ago, encompassed by the chronology of the universe. Modern physics understands time to be inextricable from space within the concept of spacetime described by general relativity..."
+    },
+    {
+      "chunk_id": "wikipedia:Second#0000",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.6128058850765228,
+      "text": "The second (symbol: s) is a unit of time derived from the division of the day first into 24 hours, then to 60 minutes, and lastly to 60 seconds each, for a total of 24 × 60 × 60 = 86,400 seconds per day. The current and formal definition in the International System of Units (SI) is more precise: The second [...] is defined by taking the fixed numerical value of the caesium frequency, ΔνCs, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9192631770 when expressed in the unit Hz, which is equal to s−1. That is saying that a second is the duration of time it takes for 9 192 631 770 of these transitions to occur. Atomic clocks count these transitions, with an uncertainty of 1 second in 300 million years. This current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks."
+    },
+    {
+      "chunk_id": "wikipedia:Year#0000",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 0.5984637409448623,
+      "text": "A year is a unit of time based on how long it takes the Earth to orbit the Sun. In scientific use, the tropical year (approximately 365 solar days, 5 hours, 48 minutes, 45 seconds) and the sidereal year (about 20 minutes longer) are more exact. The modern calendar year, as reckoned according to the Gregorian calendar, approximates the tropical year by using a system of leap years. The term 'year' is also used to indicate other periods of roughly similar duration, such as the lunar year (a roughly 354-day cycle of twelve of the Moon's phases – see lunar calendar), as well as periods loosely associated with the calendar or astronomical year, such as the seasonal year, the fiscal year, the academic year, etc. Due to the Earth's axial tilt, the course of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility."
+    },
+    {
+      "chunk_id": "wikipedia:I Have Some Questions for You#0000",
+      "doc_id": "wikipedia:I Have Some Questions for You",
+      "title": "I Have Some Questions for You",
+      "url": "https://en.wikipedia.org/?curid=73141678",
+      "source_type": "wikipedia",
+      "score": 0.5956348508596421,
+      "text": "I Have Some Questions for You is a 2023 literary mystery novel by American writer Rebecca Makkai, published by Viking Press. The novel received universal acclaim from critics upon release, and spent six weeks on the New York Times bestseller list. It was popular among the general public, and placed ninth in the Goodreads Choice Award's Mystery & Thriller category. Its audiobook went on to win an inaugural Libby Book Award, and it was longlisted for prestigious prizes like the Aspen Words Literary Prize and Carol Shields Prize for Fiction. Plot Bodie Kane, a film professor and podcaster, is forced to confront a series of violent events in her past when she is invited to teach a class at the New Hampshire boarding school she graduated from. Publication history I Have Some Questions for You was published on February 21, 2023 by Viking Press. It spent six weeks on the New York Times Bestseller list, after having debuted at #3."
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0000",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.5924595832824707,
+      "text": "Snap or SNAP may refer to: Supplemental Nutrition Assistance Program, a food program for low-income families administered by the United States Department of Agriculture Arts and entertainment Snap (film), the initial release title for the 2013 film Enter the Dangerous Mind The Stanly News and Press, a newspaper in Albemarle, North Carolina, US \"Snap\" (Duty Free), a 1984 TV episode Games and sports Snap (gridiron football), the start of a play in gridiron football Scalable Network Application Package, an online gaming platform Pokémon Snap, a 1999 Japanese video game New Pokémon Snap, the 2021 sequel Snap, any putdown used in the Dozens Card games Snap (card game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap!"
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0001",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.5905842244625091,
+      "text": "musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation for their name in post-nominal letters See also CANT (disambiguation) All pages with titles containing Cant Canté, a commune in Ariège, France Canter (disambiguation) Canticle Kant (disambiguation..."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "meme_id": "meme_05638",
+  "queries": [
+    "\"12-imal number system\" \"The world\" \"much\" \"better\"",
+    "\"much\" \"better\" \"world\" \"divisible\""
+  ],
+  "primary_terms": [
+    "much",
+    "better",
+    "The world",
+    "12-imal number system",
+    "world",
+    "divisible",
+    "zal",
+    "imal",
+    "number",
+    "latjoke",
+    "atoyeun"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Quantity#0000",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 1.0152060568332673,
+      "text": "Quantity or amount is a property that includes numbers and quantifiable phenomena such as mass, time, distance, heat, angle, and information. Quantities can commonly be compared in terms of \"more\", \"less\", or \"equal\", or by assigning a numerical value multiple of a unit of measurement. Quantity is among the basic classes of things along with quality, substance, change, and relation. Some quantities are such by their inner nature (as number), while others function as states (properties, dimensions, attributes) of things such as heavy and light, long and short, broad and narrow, small and great, or much and little. Under the name of multitude comes what is discontinuous and discrete and divisible ultimately into indivisibles, such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.8464272439479827,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Perfection#0000",
+      "doc_id": "wikipedia:Perfection",
+      "title": "Perfection",
+      "url": "https://en.wikipedia.org/?curid=1928374",
+      "source_type": "wikipedia",
+      "score": 0.7477422386407853,
+      "text": "Perfection is a state, variously, of completeness, flawlessness, or supreme excellence. The term designates a range of diverse, if often kindred, concepts used in a variety of fields. Term and concept The noun \"perfection\", the adjective \"perfect\", and the verb \"to perfect\" derive from the Latin verb \"perficere\" – \"to finish\" or \"to bring to an end\". The ancient Greek word for \"perfection\" was \"teleiotes\". The Greek polymath Aristotle (384–322 BCE) distinguished three concepts of perfection: 1. that which was complete – which contained all the requisite parts; 2. that which was so good that nothing of the kind could be better; 3. that which had attained its purpose. The Polish philosopher Władysław Tatarkiewicz (1886 – 1980) notes that perfection is often confused with other qualities, such as \"excellence\". The German polymath Leibniz (1646–1716), who thought the world to be the best of all possible worlds, never called it perfect."
+    },
+    {
+      "chunk_id": "wikipedia:Your Choice#0001",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.7420338064432144,
+      "text": "'s World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia. Background We thought the message of love is what could really console people and resonate with them, especially in these tough times that we're having. [...] This time, we wanted to use this word, \"love,\" and the concept..."
+    },
+    {
+      "chunk_id": "wikipedia:Country#0000",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.7189485907554627,
+      "text": "A country is an area of land, colloquially used as a synonym for sovereign state or other political entities, but also used to refer to the hinterland surrounding urban areas, as well as to describe the culture of people living in these places. Usually, the term country is applied to occupied areas of land, however it can be used to refer to uninhabited areas or wastelands. When referring to a specific polity, the term \"country\" may refer to a sovereign state, a state with limited recognition, a constituent country, or a dependent territory. Most sovereign states, but not all countries, are members of the United Nations. There is no universal agreement on the number of \"countries\" in the world with a range between 193 to 237. This ambiguity is a result of several states having disputed sovereignty status or limited recognition, and a number of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time."
+    },
+    {
+      "chunk_id": "wikipedia:Perfection#0001",
+      "doc_id": "wikipedia:Perfection",
+      "title": "Perfection",
+      "url": "https://en.wikipedia.org/?curid=1928374",
+      "source_type": "wikipedia",
+      "score": 0.6742332696914672,
+      "text": "such as \"excellence\". The German polymath Leibniz (1646–1716), who thought the world to be the best of all possible worlds, never called it perfect. Paradox The Franco-Italian scholar Joseph Juste Scaliger (1540–1609), the Italian polymath Lucilio Vanini (1585–1619), and (according to Vanini) the Greek philosopher Empedocles (ca. 494 – ca. 434 BCE) held that the greatest perfection was..."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0001",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.6630159974098205,
+      "text": "an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even (band), an Australian alternative rock band \"Even\", a song by Chris Brown from his 2017 album Heartbreak on a Full Moon Even Hotels, one of brands of IHG Hotels & Resorts See also Evens..."
+    },
+    {
+      "chunk_id": "wikipedia:One half#0000",
+      "doc_id": "wikipedia:One half",
+      "title": "One half",
+      "url": "https://en.wikipedia.org/?curid=464963",
+      "source_type": "wikipedia",
+      "score": 0.6612704157829284,
+      "text": "One half is the multiplicative inverse of 2. It is an irreducible fraction with a numerator of 1 and a denominator of 2. It often appears in mathematical equations, recipes and measurements. As a word One half is one of the few fractions which are commonly expressed in natural languages by suppletion rather than regular derivation. In English, for example, compare the compound \"one half\" with other regular formations like \"one-sixth\". A half can also be said to be one part of something divided into two equal parts. It is acceptable to write one half as a hyphenated word, one-half. Mathematics One half is the rational number that lies midway between 0 and 1 on the number line. Multiplication by one half is equivalent to division by two, or \"halving\"; conversely, division by one half is equivalent to multiplication by two, or \"doubling\". A number raised to the power of one half is equal to its square root. This follows from the fact that when multiplying powers, the exponents add."
+    },
+    {
+      "chunk_id": "wikipedia:Asia#0000",
+      "doc_id": "wikipedia:Asia",
+      "title": "Asia",
+      "url": "https://en.wikipedia.org/?curid=689",
+      "source_type": "wikipedia",
+      "score": 0.6448139369487762,
+      "text": "Asia ( AY-zhə, UK also AY-shə) is the largest continent in the world by both land area and population. It covers an area of more than 44 million square kilometres, about 30% of Earth's total land area and 8% of Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilisations. Its 4.7 billion people constitute roughly 60% of the world's population. Asia shares the landmass of Eurasia with Europe, and of Afro-Eurasia with both Europe and Africa. In general terms, it is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them."
+    },
+    {
+      "chunk_id": "wikipedia:Different#0001",
+      "doc_id": "wikipedia:Different",
+      "title": "Different",
+      "url": "https://en.wikipedia.org/?curid=1826536",
+      "source_type": "wikipedia",
+      "score": 0.5649208933115005,
+      "text": "from Ximena Sariñana, 2011 Other uses Different ideal, or the different, in algebraic number theory See also All pages with titles beginning with Different All pages with titles containing Different Difference (disambiguation) Differential (disambiguation) Diffident, or shy"
+    }
+  ]
+}

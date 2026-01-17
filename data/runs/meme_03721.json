@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_03721",
+  "queries": [
+    "\"enjoy\" \"one\" \"couch\" \"sinthe\"",
+    "\"couch\" \"sinthe\" \"winter\" \"summer\""
+  ],
+  "primary_terms": [
+    "this one",
+    "enjoy",
+    "one",
+    "couch",
+    "sinthe",
+    "winter",
+    "summer",
+    "gag"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Year#0001",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 0.5970642685890197,
+      "text": "of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility. In temperate and subpolar regions around the planet, four seasons are generally recognized: spring, summer, autumn, and winter. In tropical and subtropical regions, several geographical sectors do not present defined seasons; but in the seasonal tropics, the annual wet and dry seasons are recognized..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0000",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.5510154128074646,
+      "text": "A home, or domicile, is a space used as a permanent or semi-permanent residence for one or more human occupants, and sometimes various companion animals. Homes provide sheltered spaces, for instance rooms, where domestic activity can be performed such as sleeping, preparing food, eating and hygiene as well as providing spaces for work and leisure such as remote working, studying and playing. Physical forms of homes can be static such as a house or an apartment, mobile such as a houseboat, trailer or yurt or digital such as virtual space. The aspect of 'home' can be considered across scales; from the micro scale showcasing the most intimate spaces of the individual dwelling and direct surrounding area to the macro scale of the geographic area such as town, village, city, country or planet. The concept of 'home' has been researched and theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0000",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.5456652104854584,
+      "text": "Bedtime (also called putting to bed or tucking in) is a ritual part of parenting to help children feel more secure and become accustomed to a more rigid schedule of sleep than they might prefer. The ritual of bedtime is aimed at facilitating the transition from wakefulness to sleep. It may involve bedtime stories, children's songs, nursery rhymes, bed-making and getting children to change into nightwear. In some religious households, prayers are said shortly before going to bed. Sleep training may be part of the bedtime ritual for babies and toddlers. In adult use, the term means simply \"time for bed\", similar to curfew, as in \"It's past my bedtime\". Some people are accustomed to drinking a nightcap or herbal tea at bedtime. Sleeping coaches are also used to help individuals reach their bedtime goals. Researchers studying sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep."
+    },
+    {
+      "chunk_id": "wikipedia:Squirrel#0001",
+      "doc_id": "wikipedia:Squirrel",
+      "title": "Squirrel",
+      "url": "https://en.wikipedia.org/?curid=28492",
+      "source_type": "wikipedia",
+      "score": 0.5372308999300003,
+      "text": "σκιᾱ́ ('shade') and οὐρᾱ́ ('tail')), referring to the long bushy tail which many of its members have. Sciurus is also the name of one of its genera. The Old English word for the squirrel, ācweorna, survived into Middle English as aquerne before being replaced. The Old English word is of Common Germanic origin, cognates of which are still used in other Germanic languages, including the German Eichhörnchen (diminutive of Eichhorn..."
+    },
+    {
+      "chunk_id": "wikipedia:Enjoy#0000",
+      "doc_id": "wikipedia:Enjoy",
+      "title": "Enjoy",
+      "url": "https://en.wikipedia.org/?curid=20844046",
+      "source_type": "wikipedia",
+      "score": 0.5323248863220215,
+      "text": "Enjoy may refer to: Film and theater Enjoy (2021 film), a British short film Enjoy (2022 film), an Indian Tamil-language romantic comedy Enjoy (play), a 1980 comedy by Alan Bennett Music Enjoy! (Descendents album) or the title song, 1986 Enjoy! (Jeanette album) or the title song, 2000 Enjoy, an album by Bob Sinclar, 2004 Enjoy, an album by Sakurako Ohara, 2018 \"Enjoy\", a song by Björk from Post, 1995 \"Enjoy\", a song by Janet Jackson from 20 Y.O., 2006 Enjoy Records, a 1962–1987 American record label Other uses Enjoy (car sharing), an Italian car-sharing service Enjoy Contemporary Art Space, Wellington, New Zealand Enjoy Technology, a defunct American company founded by Ron Johnson See also All pages with titles beginning with Enjoy All pages with titles containing Enjoy Anand (disambiguation), Sanskrit for happiness Happiness Joy"
+    },
+    {
+      "chunk_id": "wikipedia:House#0000",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.5256563037633896,
+      "text": "A house is a single-unit residential building. It may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems. Houses use a range of different roofing systems to keep precipitation such as rain from getting into the dwelling space. Houses generally have doors or locks to secure the dwelling space and protect its inhabitants and contents from burglars or other trespassers. Most conventional modern houses in Western cultures will contain one or more bedrooms and bathrooms, a kitchen or cooking area, and a living room. A house may have a separate dining room, or the eating area may be integrated into the kitchen or another room. Some large houses in North America have a recreation room. In traditional agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans."
+    },
+    {
+      "chunk_id": "wikipedia:Amusement#0000",
+      "doc_id": "wikipedia:Amusement",
+      "title": "Amusement",
+      "url": "https://en.wikipedia.org/?curid=768817",
+      "source_type": "wikipedia",
+      "score": 0.5225525617599487,
+      "text": "Amusement is the state of experiencing humorous and entertaining events or situations while the person or animal actively maintains the experience, and is associated with enjoyment, happiness, laughter and pleasure. It is an emotion with positive valence and high physiological arousal. Amusement is considered an \"epistemological\" emotion because humor occurs when one experiences a cognitive shift from one knowledge structure about a target to another, such as hearing the punchline of a joke. Emotions perceived overtime are focused on the daily dynamics of life as augment or blunt. The pleasant surprise that happens from learning this new information leads to a state of amusement which people often express through smiling, laughter or chuckling. Current studies have not yet reached consensus on the exact purpose of amusement, though theories have been advanced in the fields of psychology, psychiatry, and sociology."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0001",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.5217213094234466,
+      "text": "a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt. It served only one dish, a plate of cereal, wildfowl, and onions. A forerunner for the modern restaurant is the thermopolium, an establishment in Ancient Greece or Ancient Rome that sold and served ready-to-eat food and beverages. These establishments..."
+    },
+    {
+      "chunk_id": "wikipedia:Suit#0001",
+      "doc_id": "wikipedia:Suit",
+      "title": "Suit",
+      "url": "https://en.wikipedia.org/?curid=339784",
+      "source_type": "wikipedia",
+      "score": 0.5141454994678497,
+      "text": "clothes. After replacing the black frock coat in the early 20th century as regular daywear, a sober one-coloured suit became known as a lounge suit. Suits are offered in different designs and constructions. Cut and cloth, whether two- or three-piece, single- or double-breasted, vary, in addition to various accessories. A two-piece suit has a jacket and trousers..."
+    },
+    {
+      "chunk_id": "wikipedia:Aladdin#0000",
+      "doc_id": "wikipedia:Aladdin",
+      "title": "Aladdin",
+      "url": "https://en.wikipedia.org/?curid=166604",
+      "source_type": "wikipedia",
+      "score": 0.5088185727596283,
+      "text": "Aladdin ( ə-LAD-in; Arabic: علاء الدين, romanized: ʻAlāʼu d-Dīn/ʻAlāʼ ad-Dīn, IPA: [ʕalaːʔ adˈdiːn], ATU 561, 'Aladdin') is a Middle-Eastern folk tale. It is one of the best-known tales associated with One Thousand and One Nights (often known in English as The Arabian Nights), despite not being part of the original text; it was added by the Frenchman Antoine Galland, based on a folk tale that he heard from the Syrian storyteller Hanna Diyab. Sources Known along with Ali Baba as one of the \"orphan tales\", the story was not part of the original Nights collection and has no authentic Arabic textual source, but was incorporated into the book Les mille et une nuits by its French translator, Antoine Galland. John Payne quotes passages from Galland's unpublished diary recording Galland's encounter with a Maronite storyteller from Aleppo, Hanna Diyab."
+    }
+  ]
+}

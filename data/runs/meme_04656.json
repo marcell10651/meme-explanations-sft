@@ -1,0 +1,116 @@
+{
+  "meme_id": "meme_04656",
+  "queries": [
+    "\"the bigger question\" \"the big questions\" \"Time\" \"bigger\"",
+    "\"Time\" \"bigger\" \"question\" \"ies\""
+  ],
+  "primary_terms": [
+    "the bigger question",
+    "bigger",
+    "question",
+    "Time",
+    "the big questions",
+    "ies",
+    "vor",
+    "eda",
+    "kaskinig",
+    "voursel",
+    "big",
+    "questions",
+    "calilamy",
+    "widho",
+    "lena"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Time#0000",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.9208776175975799,
+      "text": "Time is the continuous progression of existence that occurs in an apparently irreversible succession from the past, through the present, and into the future. Time dictates all forms of action, age, and causality, being a component quantity of various measurements used to sequence events, to compare the duration of events (or the intervals between them), and to quantify rates of change of quantities in material reality or in the conscious experience. Time is often referred to as a fourth dimension, along with three spatial dimensions. Time is primarily measured in linear spans or periods, ordered from shortest to longest. Practical, human-scale measurements of time are performed using clocks and calendars, reflecting a 24-hour day collected into a 365-day year linked to the astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest."
+    },
+    {
+      "chunk_id": "wikipedia:I Have Some Questions for You#0000",
+      "doc_id": "wikipedia:I Have Some Questions for You",
+      "title": "I Have Some Questions for You",
+      "url": "https://en.wikipedia.org/?curid=73141678",
+      "source_type": "wikipedia",
+      "score": 0.9036752820014954,
+      "text": "I Have Some Questions for You is a 2023 literary mystery novel by American writer Rebecca Makkai, published by Viking Press. The novel received universal acclaim from critics upon release, and spent six weeks on the New York Times bestseller list. It was popular among the general public, and placed ninth in the Goodreads Choice Award's Mystery & Thriller category. Its audiobook went on to win an inaugural Libby Book Award, and it was longlisted for prestigious prizes like the Aspen Words Literary Prize and Carol Shields Prize for Fiction. Plot Bodie Kane, a film professor and podcaster, is forced to confront a series of violent events in her past when she is invited to teach a class at the New Hampshire boarding school she graduated from. Publication history I Have Some Questions for You was published on February 21, 2023 by Viking Press. It spent six weeks on the New York Times Bestseller list, after having debuted at #3."
+    },
+    {
+      "chunk_id": "wikipedia:Time travel#0000",
+      "doc_id": "wikipedia:Time travel",
+      "title": "Time travel",
+      "url": "https://en.wikipedia.org/?curid=31591",
+      "source_type": "wikipedia",
+      "score": 0.7833951592445374,
+      "text": "Time travel is the hypothetical activity of traveling into the past or future. Time travel is a concept in philosophy, space, time and fiction, particularly science fiction. In fiction, time travel is typically achieved through the use of a device known as a time machine. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine. It is uncertain whether time travel to the past would be physically possible. Such travel, if at all feasible, may give rise to questions of causality. Forward time travel, outside the usual sense of the perception of time, is an extensively observed phenomenon and is well understood within the framework of special relativity and general relativity. However, making one body advance or delay more than a few milliseconds compared to another body is not feasible with current technology. As for backward time travel, it is possible to find solutions in general relativity that allow for it, such as a rotating black hole."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.7538190215826035,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Before#0000",
+      "doc_id": "wikipedia:Before",
+      "title": "Before",
+      "url": "https://en.wikipedia.org/?curid=39628822",
+      "source_type": "wikipedia",
+      "score": 0.6357064664363861,
+      "text": "Before is the opposite of after, and may refer to: Literature \"Before\" (short story) by Gael Baudino, 1996 Before by Anna Todd, 2015 Music Before (Gold Panda EP), 2009 Before (James Blake EP), 2020 \"Before\" (song), a 1996 song by the Pet Shop Boys \"Before\", a song by the Empire of the Sun from Two Vines \"Before\", a song by Anastacia from Evolution Television and film Before trilogy, by Richard Linklater Before Sunrise, 1995 Before Sunset, 2004 Before Midnight, 2013 Before (TV series), 2024 See also Before Christ (BC), an epoch used in dating years prior to the estimated birth of Jesus Before Common Era (BCE), an alternative naming of the traditional calendar era primarily used in academic circles Before Present (BP), a timescale used mainly in geology All pages with titles beginning with Before All pages with titles containing Before"
+    },
+    {
+      "chunk_id": "wikipedia:Second#0000",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.632280421257019,
+      "text": "The second (symbol: s) is a unit of time derived from the division of the day first into 24 hours, then to 60 minutes, and lastly to 60 seconds each, for a total of 24 × 60 × 60 = 86,400 seconds per day. The current and formal definition in the International System of Units (SI) is more precise: The second [...] is defined by taking the fixed numerical value of the caesium frequency, ΔνCs, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9192631770 when expressed in the unit Hz, which is equal to s−1. That is saying that a second is the duration of time it takes for 9 192 631 770 of these transitions to occur. Atomic clocks count these transitions, with an uncertainty of 1 second in 300 million years. This current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks."
+    },
+    {
+      "chunk_id": "wikipedia:Second#0001",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.6227141141891479,
+      "text": "current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks. As the speed of Earth's rotation varies and is slowing ever so slightly, a leap second is added at irregular intervals to civil time to keep clocks in sync with Earth's rotation. The definition that is based on 1⁄86400 of a rotation of the earth is still used by the Universal Time 1 (UT1) system..."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0001",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.6199180006980896,
+      "text": "officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great! TV, British TV channel group The Great (TV series), an American comedy-drama See also All pages with titles containing great All pages with titles beginning with Great All pages with titles beginning with The Great All pages with titles beginning with The great The Great (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Watch#0001",
+      "doc_id": "wikipedia:Watch",
+      "title": "Watch",
+      "url": "https://en.wikipedia.org/?curid=60883",
+      "source_type": "wikipedia",
+      "score": 0.5954083412885666,
+      "text": "of the watch market, in what became known as the quartz revolution (or the quartz crisis in Switzerland, whose renowned watch industry it decimated). In the 2010s, smartwatches emerged, small wrist-worn computers with touchscreens and with functions that go far beyond timekeeping. Modern watches often display the day, date, month, and year. Mechanical watches may have extra features..."
+    },
+    {
+      "chunk_id": "wikipedia:Universe#0000",
+      "doc_id": "wikipedia:Universe",
+      "title": "Universe",
+      "url": "https://en.wikipedia.org/?curid=31880",
+      "source_type": "wikipedia",
+      "score": 0.5897114753723145,
+      "text": "The universe is all of space and time and their contents. It comprises all of existence, any fundamental interaction, physical process and physical constant, and therefore all forms of matter and energy, and the structures they form, from sub-atomic particles to entire galactic filaments. Since the early 20th century, the field of cosmology establishes that space and time emerged together at the Big Bang 13.787±0.020 billion years ago and that the universe has been expanding since then. The portion of the universe that can be seen by humans is approximately 93 billion light-years in diameter at present, but the total size of the universe is not known. Some of the earliest cosmological models of the universe were geocentric, placing Earth at the center. During the European Scientific Revolution, astronomical observations led to a heliocentric model."
+    }
+  ]
+}

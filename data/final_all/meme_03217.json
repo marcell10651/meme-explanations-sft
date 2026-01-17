@@ -1,0 +1,202 @@
+{
+  "meme_id": "meme_03217",
+  "queries": [
+    "\"Surrender\" \"pee rane hae oo\" \"Meek\" \"Paar\" \"Parone\"",
+    "\"Paar\" \"Parone\" \"Jone\" \"fab teres\""
+  ],
+  "primary_terms": [
+    "surrender",
+    "now",
+    "fab teres",
+    "Meek",
+    "Paar",
+    "vec aff",
+    "odir",
+    "pee rane hae oo",
+    "mol",
+    "Parone",
+    "Jone",
+    "wee"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Shit#0000",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 0.5775715470314026,
+      "text": "Shit is an English-language profanity. As a noun, it refers to fecal matter, and as a verb it means to defecate; in the plural (\"the shits\"), it means diarrhea. Shite is a common variant in British and Irish English. As a slang term, shit has many meanings, including: nonsense, foolishness, something of little value or quality, trivial and usually boastful or inaccurate talk or a contemptible person. It could also be used to refer to any other noun in general or as an expression of annoyance, concern, surprise or anger. Etymology The word is likely derived from Old English, having the nouns scite (dung, attested only in place names) and scitte (diarrhoea) and the verb scītan (to defecate, attested only in bescītan, to cover with excrement); eventually it morphed into Middle English schītte (excrement), schyt (diarrhoea) and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:Please#0001",
+      "doc_id": "wikipedia:Please",
+      "title": "Please",
+      "url": "https://en.wikipedia.org/?curid=63658677",
+      "source_type": "wikipedia",
+      "score": 0.5138389080762863,
+      "text": "you please, an intransitive, ergative form taken from if it please you, which is in turn a calque of the French s'il vous plaît, which replaced pray. The exact time frame of the shortening is unknown, though it has been noted that this form appears not to have been known to William Shakespeare, for whom \"please you\" is the shortest form used in any of his works. A variation of the phrase, \"may it please the court\", remains in use as a formality for attorneys addressing judges in legal proceedings. Despite its straightforward definition..."
+    },
+    {
+      "chunk_id": "wikipedia:Perfect#0001",
+      "doc_id": "wikipedia:Perfect",
+      "title": "Perfect",
+      "url": "https://en.wikipedia.org/?curid=217503",
+      "source_type": "wikipedia",
+      "score": 0.5043185353279114,
+      "text": "album) (2004) Perfect (Half Japanese album) (2016) perfecT, an album by Sam Shaber Perfect, an album by True Faith or its title track Perfect, an album by Benny Hester or its title track EPs Perfect (Mannequin Pussy EP) (2021) Songs \"Perfect\" (Vanessa Amorosi song) (2008) \"Perfect\" (Anne-Marie song) (2018..."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0001",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.45624448359012604,
+      "text": "by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal Juveniles, 1980 \"Check\", a song by Nas and Rick Ross from the soundtrack to Creed II, 2015 \"Check\", a song by Quin NFN, from 4Nun, 2019 \"Check\", a song by Qveen Herby from EP 8..."
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0001",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.455734983086586,
+      "text": "2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol. 2, 2019 \"Feel\", by Mahmut Orhan, 2016 \"Feel\", by Måneskin from Rush!, 2023 \"Feel\", by Matchbox Twenty from More Than You Think You Are, 2002 \"Feel\", by Phora, 2018 \"Feel\", by Post Malone from Stoney, 2016 \"Feel\", by Stereophonics from Language. Sex. Violence. Other..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.41767823696136475,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0001",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.4165874719619751,
+      "text": "1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple, 2008 \"Whatever\", by Hüsker Dü from Zen Arcade, 1984 \"Whatever\", by Imogen Heap from I Megaphone, 1998 \"Whatever\", by Lil Tecca from We Love You Tecca 2, 2021 \"Whatever\", by Our Lady Peace..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit#0001",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 0.4119359999895096,
+      "text": "and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire. The word may be further traced to Proto-Germanic *skit-, and ultimately to Proto-Indo-European *skheid- \"cut, separate\", the same root believed to have become the word shed. The word has several cognates in modern..."
+    },
+    {
+      "chunk_id": "wikipedia:Goes#0001",
+      "doc_id": "wikipedia:Goes",
+      "title": "Goes",
+      "url": "https://en.wikipedia.org/?curid=118427",
+      "source_type": "wikipedia",
+      "score": 0.4056347906589508,
+      "text": "the production of salt. In the 16th century, Goes declined. Its connection to the sea silted up and in 1554 a large fire destroyed part of the city. In the autumn of 1572, during the course of the Eighty Years' War, Goes, in the Spanish Netherlands, was besieged by Dutch forces with the support of English troops. The siege was relieved in October 1572 by Spanish tercios, who waded across the Scheldt to attack the besieging forces. In 1577, the Spanish soldiers who occupied Goes were driven out by Prince..."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0001",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.38057854771614075,
+      "text": "2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a Singaporean film directed by Tzu Nyen Ho Here (2011 film), an American drama directed by Braden King Here (2023 film), a Belgian film directed by Bas Devos Here (2024 film), an American drama directed..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A large robot is standing outside a building.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is saying that the real life transformers that Japan are building will have them in control if word war 3 happens.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the real life transformers",
+          "Japan",
+          "control",
+          "word war"
+        ]
+      },
+      "title": {
+        "text": "Surrender now.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "surrender",
+          "now"
+        ]
+      },
+      "text": {
+        "text": ") ing for WW. ' RN | Vows 2 e PRY ay. VE . bo. —— A-=-1 a ST -~—leocCer wo ' Co te . i E ee \\ a eee See ~ ’ — pee | . KN. wt a of ee L ~.! : ~ :fome-~ 4 - - oe ‘ “+ wad o Tr wy . ir - . \\ . . . | +5 ——. || eee) eS Ye . fab teres ; e . (We ee | . , tel . x » . . . ? | <. ” * 4 oS - @¢ a : oa . - ‘ ar ~~ - ¢ . . . . Pa “ ° et, iv fos uf I] ~~. es \\.. an cf ws ots {. . ~- ~4 “2 34 ° . : . ta . - ” ‘ . ’ , iN ‘¢ oo: . {ey lane . , 1 . {i : - o ry ~s\\ . we oot 4 ° ! 4 @ ay - *... Fae © —— + 1 ee “7, ‘on = ta a 5 - bos 4. ees) hee thal of —— -_ | $i. o ; . f ~ or een TY i —_—_— : Meek... \"& : - ‘ se Ve “22 28 “ — wee ee i an eo oe . \\. cc 9, eners Paar 4 Key 2. ro Toei, — Om I Le .’. . vec aff = e,: .! 1 ead (a oll 1 eu pty: —< . : , ¢ o' o ie . . odir +o. we ater PR Ot See pee rane hae oo. Si CN oe er | 2 — ea ae sme ow QO, a Cyt ONE, ‘4 =“ ~) _ 4\\ mol a ae ee . ee Parone . i a SS i CT i ee ean Dk ae a a moet i ne ero - Ne Oe teen me SS i rn . Jone * —- ~~” C* ee ee er | of” & - pat ; . v) .. on se -. _ *. - a o Omer ed { °- a “(¢ Yer > “ < reel {™ ’ 4 w~ & - 7\" _af¢ te aA . wee ~ a ee “. : -« we nr ee ‘4 ata ‘ ~ ~ -Aoe ee aa ‘ + - - : -- we ° {: _ “at “ ARN GG ee seen sO , ode, 7: ad aA ¢, Or 4 J ‘es wey et Nm ° . Ve Fy",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "fab teres",
+          "Meek",
+          "Paar",
+          "vec aff",
+          "odir",
+          "pee rane hae oo",
+          "mol",
+          "Parone",
+          "Jone",
+          "wee"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "surrender",
+      "now",
+      "fab teres",
+      "Meek",
+      "Paar",
+      "vec aff",
+      "odir",
+      "pee rane hae oo",
+      "mol",
+      "Parone",
+      "Jone",
+      "wee"
+    ],
+    "secondary_terms": [
+      "the real life transformers",
+      "Japan",
+      "control",
+      "word war"
+    ],
+    "queries": [
+      "\"Surrender\" \"pee rane hae oo\" \"Meek\" \"Paar\" \"Parone\"",
+      "\"Paar\" \"Parone\" \"Jone\" \"fab teres\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,190 @@
+{
+  "meme_id": "meme_02383",
+  "queries": [
+    "\"Goofy\" \"The female brain\" \"female\" \"brain\" \"truly\"",
+    "\"brain\" \"truly\" \"enigma\" \"let\""
+  ],
+  "primary_terms": [
+    "The female brain",
+    "female",
+    "brain",
+    "truly",
+    "enigma",
+    "let",
+    "donegen"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Head#0000",
+      "doc_id": "wikipedia:Head",
+      "title": "Head",
+      "url": "https://en.wikipedia.org/?curid=1209545",
+      "source_type": "wikipedia",
+      "score": 0.8430757343769073,
+      "text": "A head is the part of an organism which usually includes the ears, brain, forehead, cheeks, chin, eyes, nose, and mouth, each of which aid in various sensory functions such as sight, hearing, smell, and taste. Some very simple animals may not have a head, but many bilaterally symmetric forms do, regardless of size. Heads develop in animals by an evolutionary trend known as cephalization. In bilaterally symmetrical animals, nervous tissue concentrate at the anterior region, forming structures responsible for information processing. Through biological evolution, sense organs and feeding structures also concentrate into the anterior region; these collectively form the head. Human head The human head is an anatomical unit that consists of the skull, hyoid bone and cervical vertebrae. The skull consists of the brain case which encloses the cranial cavity, and the facial skeleton, which includes the mandible. There are eight bones in the brain case and fourteen in the facial skeleton."
+    },
+    {
+      "chunk_id": "wikipedia:Brain#0000",
+      "doc_id": "wikipedia:Brain",
+      "title": "Brain",
+      "url": "https://en.wikipedia.org/?curid=3717",
+      "source_type": "wikipedia",
+      "score": 0.7454294919967651,
+      "text": "The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. It consists of nervous tissue and is typically located in the head (cephalization), usually near organs for special senses such as vision, hearing, and olfaction. Being the most specialized organ, it is responsible for receiving information from the sensory nervous system, processing that information (thought, cognition, and intelligence) and the coordination of motor control (muscle activity and endocrine system). While invertebrate brains arise from paired segmental ganglia (each of which is only responsible for the respective body segment) of the ventral nerve cord, vertebrate brains develop axially from the midline dorsal nerve cord as a vesicular enlargement at the rostral end of the neural tube, with centralized control over all body segments."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.7039428949356079,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Nervous#0000",
+      "doc_id": "wikipedia:Nervous",
+      "title": "Nervous",
+      "url": "https://en.wikipedia.org/?curid=2971124",
+      "source_type": "wikipedia",
+      "score": 0.6485448181629181,
+      "text": "Nervous may refer to: Nervousness Nervous system, a network of cells in an animal's body that coordinates movement and the senses Nervous tissue, the cells of the nervous system that work in aggregate to transmit signals Music \"Nervous\" (Gene Summers song), 1958; covered by several performers \"Nervous\" (Gavin James song), 2016 \"Nervous\" (Shawn Mendes song), 2018 \"Nervous\", a song by Blackbear from Help, 2015 \"Nervous\", a song by K.Flay from Solutions, 2019 \"Nervous\", a song by L Devine, 2018 \"Nervous\", a song by Nick Jonas from Spaceman, 2021 \"Nervous\", a song by the Drums from Brutalism, 2019 \"Nervous\", a song by X Ambassadors from VHS, 2015 Nervous Records, a UK record label Nervous Records (US), a US record label See also \"Nervousness\", a song by the Gigolo Aunts from Tales from the Vinegar Side Nervous Norvus (1912–1968), the performing name of Jimmy Drake Nervous shark, a species of requiem shark All pages with titles beginning with Nervous"
+    },
+    {
+      "chunk_id": "wikipedia:Brain#0001",
+      "doc_id": "wikipedia:Brain",
+      "title": "Brain",
+      "url": "https://en.wikipedia.org/?curid=3717",
+      "source_type": "wikipedia",
+      "score": 0.6374065339565277,
+      "text": "from the midline dorsal nerve cord as a vesicular enlargement at the rostral end of the neural tube, with centralized control over all body segments. All vertebrate brains can be embryonically divided into three parts: the forebrain (prosencephalon, subdivided into telencephalon and diencephalon), midbrain (mesencephalon) and hindbrain (rhombencephalon, subdivided into metencephalon and myelencephalon). The spinal cord, which directly interacts with somatic functions..."
+    },
+    {
+      "chunk_id": "wikipedia:Confusion#0000",
+      "doc_id": "wikipedia:Confusion",
+      "title": "Confusion",
+      "url": "https://en.wikipedia.org/?curid=2079352",
+      "source_type": "wikipedia",
+      "score": 0.6232806205749511,
+      "text": "In psychology, confusion is the quality or emotional state of being bewildered or unclear. The term \"acute mental confusion\" is often used interchangeably with delirium in the International Statistical Classification of Diseases and Related Health Problems and the Medical Subject Headings publications to describe the pathology. These refer to the loss of orientation, or the ability to place oneself correctly in the world by time, location and personal identity. Mental confusion is sometimes accompanied by disordered consciousness (the loss of linear thinking) and memory loss (the inability to correctly recall previous events or learn new material). Etymology The word confusion derives from the Latin word, confundo, which means \"confuse, mix, blend, pour together, disorder, embroil.\" Causes Confusion may result from drug side effects or from a relatively sudden brain dysfunction."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0001",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.5463259220123291,
+      "text": "between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another. The dominant philosophical position since the 20th century has been physicalism, which says that everything is material, meaning that minds are certain aspects or features of some material objects. The evolutionary history of the mind is tied to the development of nervous systems, which..."
+    },
+    {
+      "chunk_id": "wikipedia:Quiet#0000",
+      "doc_id": "wikipedia:Quiet",
+      "title": "Quiet",
+      "url": "https://en.wikipedia.org/?curid=1612819",
+      "source_type": "wikipedia",
+      "score": 0.48583874106407166,
+      "text": "Quiet may refer to: Silence, a relative or total lack of sound In music The Quiett (born 1985), South Korean rapper Quiet (album), a 1996 John Scofield album \"Quiet\", a song by Lights, from her album The Listening (2009) \"Quiet\" (MILCK song), a 2017 song written for the 2017 Women's March in Washington, D.C. Quiet (EP), a 2007 EP by Jim Ward \"Quiet\" (This Will Destroy You song), 2006 \"Quiet\" (Lil' Kim song), a song by Lil' Kim \"Quiet\", a song by Alien Ant Farm, from their 2003 albumTruant \"Quiet\", a song by Camila Cabello, from her album Familia (2022) \"Quiet\", a song by Demi Lovato, from her album Here We Go Again (2009) \"Quiet\", a song by The Smashing Pumpkins, from their album Siamese Dream (1993) \"Quiet\", a song by the Player Piano from their album Satellite (2007) \"Quiet\", a song by Royce da 5'9\", from his album Layers (2016) The Quiet, an album by Bella Morte \"Quiet\", a song by Tim Minchin from the musical Matilda In religion Prayer of Quiet, a term from Christian theology"
+    },
+    {
+      "chunk_id": "wikipedia:Believe#0001",
+      "doc_id": "wikipedia:Believe",
+      "title": "Believe",
+      "url": "https://en.wikipedia.org/?curid=4678533",
+      "source_type": "wikipedia",
+      "score": 0.47928960621356964,
+      "text": "or the title song (see below), 2009 Believe (Disturbed album), or the title song, 2002 Believe (Emerson Drive album), or the title song, 2009 Believe (Girlschool album), 2004 Believe (Jai McDowall album), 2011 Believe (The Jets album), 1989 Believe (Justin Bieber album), or the title song, 2012 Believe (Katherine Jenkins album), 2009..."
+    },
+    {
+      "chunk_id": "wikipedia:Feels#0000",
+      "doc_id": "wikipedia:Feels",
+      "title": "Feels",
+      "url": "https://en.wikipedia.org/?curid=68447223",
+      "source_type": "wikipedia",
+      "score": 0.46966491639614105,
+      "text": "Feels or The Feels may refer to: Albums Feels (Animal Collective album), 2005 Feels (Snoh Aalegra album), 2017 Songs \"Feels\" (song), a 2017 song and single by Calvin Harris off the album Funk Wav Bounces Vol. 1 \"Feels\" (Snoh Aalegra song), a 2017 song by Snoh Aalegra, the title track off the eponymous album Feels (Snoh Aalegra album) \"The Feels\" (song), a 2021 song by Twice \"F.E.E.L.S.\", a 2021 music video and song by Tory Lanez Other uses The Feels (film), a 2017 film by Jenée LaMarque See also All the Feels (album), 2019 album by Fitz and the Tantrums Feel (disambiguation) All pages with titles beginning with Feels All pages with titles containing Feels"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A caricature of Goofy is leaning forward with slumped shoulders.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Goofy",
+          "slumped shoulders"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that women know the pain that pregnancy comes with but that won't stop them",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "women",
+          "the pain",
+          "that pregnancy"
+        ]
+      },
+      "title": {
+        "text": "The female brain is truly an enigma.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The female brain",
+          "female",
+          "brain",
+          "truly",
+          "enigma"
+        ]
+      },
+      "text": {
+        "text": "= ns ; meee } let donegen",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "let",
+          "donegen"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "The female brain",
+      "female",
+      "brain",
+      "truly",
+      "enigma",
+      "let",
+      "donegen"
+    ],
+    "secondary_terms": [
+      "Goofy",
+      "slumped shoulders",
+      "women",
+      "the pain",
+      "that pregnancy"
+    ],
+    "queries": [
+      "\"Goofy\" \"The female brain\" \"female\" \"brain\" \"truly\"",
+      "\"brain\" \"truly\" \"enigma\" \"let\""
+    ]
+  },
+  "source_jsonl_id": null
+}

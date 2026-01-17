@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_00146",
+  "queries": [
+    "\"the election results\" \"Asia\" \"Americans\" \"plot ows\"",
+    "\"Americans\" \"plot ows\" \"feel\" \"privileged\""
+  ],
+  "primary_terms": [
+    "feel",
+    "privileged",
+    "Asia",
+    "the election results",
+    "Americans",
+    "plot ows"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Success#0001",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.6978116035461426,
+      "text": "a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness. It may also be difficult or impossible to ascertain whether a situation meets criteria for success or failure due to ambiguous or ill-defined definition of those criteria. Finding useful and effective criteria, or heuristics, to judge the failure or success of a situation may itself be a significant task. In American culture DeVitis and Rich link the..."
+    },
+    {
+      "chunk_id": "wikipedia:Americans#0000",
+      "doc_id": "wikipedia:Americans",
+      "title": "Americans",
+      "url": "https://en.wikipedia.org/?curid=19792942",
+      "source_type": "wikipedia",
+      "score": 0.6496101886034011,
+      "text": "Americans are the citizens and nationals of the United States. U.S. federal law does not equate nationality with race or ethnicity but rather with citizenship. The U.S. has 37 ancestry groups with more than one million individuals. White Americans form the largest racial and ethnic group at 61.6% of the U.S. population, with non-Hispanic Whites making up 57.8% of the population. Hispanic and Latino Americans form the second-largest group and are 18.7% of the American population. Black Americans constitute the country's third-largest ancestry group and are 12.4% of the total U.S. population. Asian Americans are the country's fourth-largest group, composing 6% of the American population. The country's 3.7 million Native Americans account for about 1.1%, and some 574 native tribes are recognized by the federal government. People of American descent can be found internationally. As many as seven million Americans are estimated to be living abroad, and make up the American diaspora."
+    },
+    {
+      "chunk_id": "wikipedia:American#0000",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.5755761325359344,
+      "text": "American(s) may refer to: American, something of, from, or related to the United States of America, commonly known as the \"United States\" or \"America\" Americans, citizens and nationals of the United States of America American ancestry, people who self-identify their ancestry as \"American\" American English, the set of varieties of the English language native to the United States Native Americans in the United States, indigenous peoples of the United States American, something of, from, or related to the Americas, also known as \"America\" Indigenous peoples of the Americas American (word), for analysis and history of the meanings in various contexts Organizations American Airlines, U.S.-based airline headquartered in Fort Worth, Texas American Athletic Conference, an American college athletic conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C."
+    },
+    {
+      "chunk_id": "wikipedia:Privileged#0000",
+      "doc_id": "wikipedia:Privileged",
+      "title": "Privileged",
+      "url": "https://en.wikipedia.org/?curid=18250583",
+      "source_type": "wikipedia",
+      "score": 0.5364025592803955,
+      "text": "Privileged may refer to: Film and television Privileged (TV series), a 2008 US television series Privileged (film), a 1982 Hollywood film Other uses Immunologically privileged site, a body location where immune response to antigens is non-destructive or suppressed Privileged motion, a motion of parliamentary procedure Privileged group, an economics term Privileged pattern, a musical motive, figure, or chord which is repeated and transposed Referring to a season of the Catholic Church's and other Christian churches' liturgical years besides Ordinary Time (Easter, Christmas, Lent, Advent) See also Privilege (disambiguation) All pages with titles beginning with Privileged All pages with titles containing Privileged"
+    },
+    {
+      "chunk_id": "wikipedia:Americans#0001",
+      "doc_id": "wikipedia:Americans",
+      "title": "Americans",
+      "url": "https://en.wikipedia.org/?curid=19792942",
+      "source_type": "wikipedia",
+      "score": 0.4977754712104797,
+      "text": "descent can be found internationally. As many as seven million Americans are estimated to be living abroad, and make up the American diaspora. The majority of Americans trace their roots to immigrants who arrived in what is now the United States, starting with European colonization in the 16th century. This includes diverse groups such as the English..."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.43219536542892456,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:For Your Eyes Only (film)#0001",
+      "doc_id": "wikipedia:For Your Eyes Only (film)",
+      "title": "For Your Eyes Only (film)",
+      "url": "https://en.wikipedia.org/?curid=6446044",
+      "source_type": "wikipedia",
+      "score": 0.4100443124771118,
+      "text": "becoming tangled in a web of deception spun by rival Greek smugglers along with Melina Havelock, a woman seeking to avenge the murder of her parents. After the science-fiction-focused Moonraker, the producers wanted a return to the style of the early Bond films and the works of 007 creator Fleming. For Your Eyes Only followed a grittier, more realistic approach and a narrative theme of revenge and its..."
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0000",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.359124219417572,
+      "text": "Feel may refer to: Feeling Music Bands Feel (New York band), a 1980s dance and R&B band Feel (Polish band), a pop rock band Albums Feel (Feel album), 2007 Feel (George Duke album) or the title song, 1974 Feel (Glenn Hughes album), 1995 Feel (Human Drama album), 1989 Feel (Namie Amuro album), 2013 Feel (Roachford album), 1997 Feel (Sleeping with Sirens album) or the title song, 2013 Feel, by Nagisa ni te, 2002 Feel (A-Mei EP), 1999 Feel (Junho EP), 2014 Songs \"Feel\" (Kendrick Lamar song), 2017 \"Feel\" (Koda Kumi song), 2006 \"Feel\" (Robbie Williams song), 2002 \"Feel\" (Chicago song), 2006 \"Feel\", by Asking Alexandria from Where Do We Go from Here?, 2023 \"Feel\", by Big Star from #1 Record, 1972 \"Feel\", by Bombay Bicycle Club from So Long, See You Tomorrow, 2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol."
+    },
+    {
+      "chunk_id": "wikipedia:Respect#0000",
+      "doc_id": "wikipedia:Respect",
+      "title": "Respect",
+      "url": "https://en.wikipedia.org/?curid=364338",
+      "source_type": "wikipedia",
+      "score": 0.33258255422115324,
+      "text": "Respect, also called esteem, is a positive feeling or deferential action shown towards someone or something considered important or held in high esteem or regard. It conveys a sense of admiration for good or valuable qualities. It is also the process of honoring someone by exhibiting care, concern, or consideration for their needs or feelings. In many cultures, people are considered to be worthy of respect until they prove otherwise. Some people may earn special respect through their exemplary actions or social roles. In \"honor cultures\", respect is more often earned in this way than granted by default. Courtesies that show respect may include simple words and phrases like \"thank you\" in the West or \"namaste\" in the Indian subcontinent, or simple physical signs like a slight bow, a smile, direct eye contact, or a handshake. Such acts may have very different interpretations depending on the cultural context. The end goal is for all people to be treated with respect."
+    },
+    {
+      "chunk_id": "wikipedia:Feels#0000",
+      "doc_id": "wikipedia:Feels",
+      "title": "Feels",
+      "url": "https://en.wikipedia.org/?curid=68447223",
+      "source_type": "wikipedia",
+      "score": 0.32057408094406126,
+      "text": "Feels or The Feels may refer to: Albums Feels (Animal Collective album), 2005 Feels (Snoh Aalegra album), 2017 Songs \"Feels\" (song), a 2017 song and single by Calvin Harris off the album Funk Wav Bounces Vol. 1 \"Feels\" (Snoh Aalegra song), a 2017 song by Snoh Aalegra, the title track off the eponymous album Feels (Snoh Aalegra album) \"The Feels\" (song), a 2021 song by Twice \"F.E.E.L.S.\", a 2021 music video and song by Tory Lanez Other uses The Feels (film), a 2017 film by Jenée LaMarque See also All the Feels (album), 2019 album by Fitz and the Tantrums Feel (disambiguation) All pages with titles beginning with Feels All pages with titles containing Feels"
+    }
+  ]
+}

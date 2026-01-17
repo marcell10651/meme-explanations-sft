@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_05824",
+  "queries": [
+    "\"One apple\" \"one\" \"apple\" \"year\"",
+    "\"apple\" \"year\" \"keeps\" \"wallet\""
+  ],
+  "primary_terms": [
+    "One apple",
+    "your wallet",
+    "one",
+    "apple",
+    "year",
+    "keeps",
+    "wallet",
+    "empty",
+    "nosotros",
+    "uurerone"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Decade#0000",
+      "doc_id": "wikipedia:Decade",
+      "title": "Decade",
+      "url": "https://en.wikipedia.org/?curid=695530",
+      "source_type": "wikipedia",
+      "score": 0.8395178735256195,
+      "text": "A decade (from Ancient Greek: δεκάς, dekas, lit. 'group of 10') is a period of 10 years. It may also be called a decennium (from Latin: decennium, lit. 'ten-year'). Decades may describe any ten-year period, such as those of a person's life, or refer to specific groupings of calendar years. Usage Any period of ten years is a 'decade' or 'decennium'. For example, the statement that \"during his last decade, Mozart explored chromatic harmony to a degree rare at the time\" refers to the last 10 years of Wolfgang Amadeus Mozart's life without regard to which calendar years are encompassed. Also, 'the first decade' of a person's life begins on the day of their birth and ends at the end of their 10th year of life when they have their 10th birthday; the second decade of life starts with their 11th year of life (during which one is typically still referred to as being \"10\") and ends at the end of their 20th year of life, on their 20th birthday; similarly, the third decade of life, when one is in"
+    },
+    {
+      "chunk_id": "wikipedia:Century#0001",
+      "doc_id": "wikipedia:Century",
+      "title": "Century",
+      "url": "https://en.wikipedia.org/?curid=5881",
+      "source_type": "wikipedia",
+      "score": 0.7908549666404724,
+      "text": "a multiple of 100 (except the first century as it began after the year 1 BC) and ends with the next coming year with a multiple of 100 (100n), i.e. the 20th century comprises the years 1901 to 2000, and the 21st century comprises the years 2001 to 2100 in strict usage. In common perception and practice, centuries are structured by grouping years based on sharing..."
+    },
+    {
+      "chunk_id": "wikipedia:Year#0000",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 0.6479914158582687,
+      "text": "A year is a unit of time based on how long it takes the Earth to orbit the Sun. In scientific use, the tropical year (approximately 365 solar days, 5 hours, 48 minutes, 45 seconds) and the sidereal year (about 20 minutes longer) are more exact. The modern calendar year, as reckoned according to the Gregorian calendar, approximates the tropical year by using a system of leap years. The term 'year' is also used to indicate other periods of roughly similar duration, such as the lunar year (a roughly 354-day cycle of twelve of the Moon's phases – see lunar calendar), as well as periods loosely associated with the calendar or astronomical year, such as the seasonal year, the fiscal year, the academic year, etc. Due to the Earth's axial tilt, the course of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0000",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.6239148736000061,
+      "text": "Millennials, also known as Generation Y or Gen Y, are the demographic cohort following Generation X and preceding Generation Z. Researchers and popular media use the early 1980s as starting birth years and the mid-1990s to early 2000s as ending birth years, with the generation typically being defined as people born from 1981 to 1996. Most millennials are the children of baby boomers and older Gen Xers, and are often the parents of Generation Alpha. As children in the late 1980s to 2000s, millennials saw the rise of the Information Age and Internet, being described by some as the first global generation. As adolescents and young adults in the late 1990s to 2010s, the generation was marked by a more upbeat youth culture, elevated familiarity with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace."
+    },
+    {
+      "chunk_id": "wikipedia:Watch#0001",
+      "doc_id": "wikipedia:Watch",
+      "title": "Watch",
+      "url": "https://en.wikipedia.org/?curid=60883",
+      "source_type": "wikipedia",
+      "score": 0.565859368443489,
+      "text": "of the watch market, in what became known as the quartz revolution (or the quartz crisis in Switzerland, whose renowned watch industry it decimated). In the 2010s, smartwatches emerged, small wrist-worn computers with touchscreens and with functions that go far beyond timekeeping. Modern watches often display the day, date, month, and year. Mechanical watches may have extra features..."
+    },
+    {
+      "chunk_id": "wikipedia:Year#0001",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 0.50053391456604,
+      "text": "of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility. In temperate and subpolar regions around the planet, four seasons are generally recognized: spring, summer, autumn, and winter. In tropical and subtropical regions, several geographical sectors do not present defined seasons; but in the seasonal tropics, the annual wet and dry seasons are recognized..."
+    },
+    {
+      "chunk_id": "wikipedia:Edit#0000",
+      "doc_id": "wikipedia:Edit",
+      "title": "Edit",
+      "url": "https://en.wikipedia.org/?curid=1239591",
+      "source_type": "wikipedia",
+      "score": 0.479269927740097,
+      "text": "Edit may refer to: Concepts an action that is part of an editing process (including of images, video, and film) a particular version that is the result of editing, especially of film (for example, fan edit), or music (for example, radio edit) a film transition, also known as a \"cut\" a change to a computer file a change in the genome introduced via gene editing, or in the epigenome via epigenome editing edit., an abbreviation of \"edition\" Music edIT, American electronic DJ and producer Edit (album), a 2008 album by Mark Stewart \"Edit\", a song by Regina Spektor from the 2006 album Begin to Hope Other uses Edit (given name), a list of people and fictional characters Equitas Development Initiatives Trust (EDIT), established by the Equitas Small Finance Bank in India Edit (application), a simple text editor for the Apple Macintosh Edit (MS-DOS), the MS-DOS Editor, a plain-text editor for MS-DOS, included in some versions of Microsoft Windows Edits (app), an American app The Edit (film), a"
+    },
+    {
+      "chunk_id": "wikipedia:Use Your Fingers#0001",
+      "doc_id": "wikipedia:Use Your Fingers",
+      "title": "Use Your Fingers",
+      "url": "https://en.wikipedia.org/?curid=2317950",
+      "source_type": "wikipedia",
+      "score": 0.47879973649978635,
+      "text": "two decades later is how much this album not only shouldn't exist from a legal perspective, but how it managed to predict so much of the 20 years of musical trends that followed it,\" and praising it as a \"unique entry in the hip-hop canon from a sampling production standpoint, an impressive assortment of acknowledgments from a pop culture junkie..."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Hold Your Hand#0001",
+      "doc_id": "wikipedia:I Want to Hold Your Hand",
+      "title": "I Want to Hold Your Hand",
+      "url": "https://en.wikipedia.org/?curid=615577",
+      "source_type": "wikipedia",
+      "score": 0.4712130635976791,
+      "text": "to Hold Your Hand\" stayed at number one for five weeks and remained in the UK top 50 for 21 weeks in total, and was the Christmas number one of 1963. It was also the group's first American number-one hit, entering the Billboard Hot 100 chart on 18 January 1964 at number 45 and starting the British Invasion of the American music industry. By 1 February, it topped the Hot 100 and stayed there for seven weeks before being replaced by \"She Loves You\". It remained on the Billboard chart for 15 weeks..."
+    },
+    {
+      "chunk_id": "wikipedia:Serial#0000",
+      "doc_id": "wikipedia:Serial",
+      "title": "Serial",
+      "url": "https://en.wikipedia.org/?curid=2254334",
+      "source_type": "wikipedia",
+      "score": 0.4298966586589813,
+      "text": "Serial may refer to: Arts, entertainment, and media The presentation of works in sequential segments Serial (literature), serialised literature in print Serial (publishing), periodical publications and newspapers Serial (radio and television), series of radio and television programs that rely on a continuing plot Serial film, a series of short subjects, with a continuing story, originally shown in theaters, in conjunction with feature films, particularly in the 1930s and 1940s Indian serial, a type of Indian television program Other uses in arts, entertainment, and media Serial (1980 film), based on McFadden's novel, starring Martin Mull and Tuesday Weld Serial (podcast), a podcast spinoff of radio series This American Life The Serial: A Year in the Life of Marin County, a 1977 novel by Cyra McFadden The Serial, an early to mid-1960s anthology series that aired on CBC Television in Canada."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_01653",
+  "queries": [
+    "\"Big Brain\" \"the CIA\" \"big\" \"brain\"",
+    "\"big\" \"brain\" \"clears\" \"browser\""
+  ],
+  "primary_terms": [
+    "Big Brain",
+    "big",
+    "brain",
+    "the CIA",
+    "clears",
+    "browser",
+    "history",
+    "cia",
+    "canuykeep",
+    "getting",
+    "away",
+    "ito"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Google#0000",
+      "doc_id": "wikipedia:Google",
+      "title": "Google",
+      "url": "https://en.wikipedia.org/?curid=1092923",
+      "source_type": "wikipedia",
+      "score": 0.7566994547843933,
+      "text": "Google LLC ( , GOO-gəl) is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI). It has been referred to as \"the most powerful company in the world\" by BBC, and is one of the world's most valuable brands. Google's parent company Alphabet Inc. has been described as a Big Tech company. Google was founded on September 4, 1998, by American computer scientists Larry Page and Sergey Brin. Together, they own about 14% of its publicly listed shares and control 56% of its stockholder voting power through super-voting stock. The company went public via an initial public offering (IPO) in 2004. In 2015, Google was reorganized as a wholly owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's internet properties and interests."
+    },
+    {
+      "chunk_id": "wikipedia:Head#0000",
+      "doc_id": "wikipedia:Head",
+      "title": "Head",
+      "url": "https://en.wikipedia.org/?curid=1209545",
+      "source_type": "wikipedia",
+      "score": 0.751301509141922,
+      "text": "A head is the part of an organism which usually includes the ears, brain, forehead, cheeks, chin, eyes, nose, and mouth, each of which aid in various sensory functions such as sight, hearing, smell, and taste. Some very simple animals may not have a head, but many bilaterally symmetric forms do, regardless of size. Heads develop in animals by an evolutionary trend known as cephalization. In bilaterally symmetrical animals, nervous tissue concentrate at the anterior region, forming structures responsible for information processing. Through biological evolution, sense organs and feeding structures also concentrate into the anterior region; these collectively form the head. Human head The human head is an anatomical unit that consists of the skull, hyoid bone and cervical vertebrae. The skull consists of the brain case which encloses the cranial cavity, and the facial skeleton, which includes the mandible. There are eight bones in the brain case and fourteen in the facial skeleton."
+    },
+    {
+      "chunk_id": "wikipedia:Brain#0000",
+      "doc_id": "wikipedia:Brain",
+      "title": "Brain",
+      "url": "https://en.wikipedia.org/?curid=3717",
+      "source_type": "wikipedia",
+      "score": 0.7486323535442352,
+      "text": "The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. It consists of nervous tissue and is typically located in the head (cephalization), usually near organs for special senses such as vision, hearing, and olfaction. Being the most specialized organ, it is responsible for receiving information from the sensory nervous system, processing that information (thought, cognition, and intelligence) and the coordination of motor control (muscle activity and endocrine system). While invertebrate brains arise from paired segmental ganglia (each of which is only responsible for the respective body segment) of the ventral nerve cord, vertebrate brains develop axially from the midline dorsal nerve cord as a vesicular enlargement at the rostral end of the neural tube, with centralized control over all body segments."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0001",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.6974657237529754,
+      "text": "officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great! TV, British TV channel group The Great (TV series), an American comedy-drama See also All pages with titles containing great All pages with titles beginning with Great All pages with titles beginning with The Great All pages with titles beginning with The great The Great (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0001",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.6867569148540497,
+      "text": "others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time). These processes are supported by distributed neural networks in frontal, parietal, and subcortical regions and are closely linked to working memory, executive functions, and consciousness. Patterns of attention also vary across cultures, especially in how individuals attend to context versus focal objects and how children are guided to manage attention in everyday activities..."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.663640347123146,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:Head#0001",
+      "doc_id": "wikipedia:Head",
+      "title": "Head",
+      "url": "https://en.wikipedia.org/?curid=1209545",
+      "source_type": "wikipedia",
+      "score": 0.6423200339078903,
+      "text": "the cranial cavity, and the facial skeleton, which includes the mandible. There are eight bones in the brain case and fourteen in the facial skeleton. Sculptures of human heads are generally based on a skeletal structure that consists of a cranium, jawbone, and cheekbone. Though the number of muscles making up the face is generally consistent between..."
+    },
+    {
+      "chunk_id": "wikipedia:Dyslexia#0001",
+      "doc_id": "wikipedia:Dyslexia",
+      "title": "Dyslexia",
+      "url": "https://en.wikipedia.org/?curid=8305",
+      "source_type": "wikipedia",
+      "score": 0.5940637350082397,
+      "text": "cases run in families. Dyslexia that develops due to a traumatic brain injury, stroke, or dementia is sometimes called \"acquired dyslexia\" or alexia. The underlying mechanisms of dyslexia result from differences within the brain's language processing. Dyslexia is diagnosed through a series of tests of memory, vision, spelling, and reading skills. Dyslexia is separate from reading difficulties caused by hearing or vision problems or by insufficient..."
+    },
+    {
+      "chunk_id": "wikipedia:Dyslexia#0000",
+      "doc_id": "wikipedia:Dyslexia",
+      "title": "Dyslexia",
+      "url": "https://en.wikipedia.org/?curid=8305",
+      "source_type": "wikipedia",
+      "score": 0.552621042728424,
+      "text": "Dyslexia, also known as \"word blindness\", is a learning disability that affects either reading or writing. Different people are affected to different degrees. Problems may include difficulties in spelling words, reading quickly, writing words, \"sounding out\" words in the head, pronouncing words when reading aloud and understanding what one reads. Often these difficulties are first noticed at school. The difficulties are involuntary, and people with this disorder have a normal desire to learn. People with dyslexia have higher rates of attention deficit hyperactivity disorder (ADHD), developmental language disorders, and difficulties with numbers. Dyslexia is believed to be caused by the interaction of genetic and environmental factors. Some cases run in families. Dyslexia that develops due to a traumatic brain injury, stroke, or dementia is sometimes called \"acquired dyslexia\" or alexia."
+    },
+    {
+      "chunk_id": "wikipedia:Brain#0001",
+      "doc_id": "wikipedia:Brain",
+      "title": "Brain",
+      "url": "https://en.wikipedia.org/?curid=3717",
+      "source_type": "wikipedia",
+      "score": 0.5293150007724762,
+      "text": "from the midline dorsal nerve cord as a vesicular enlargement at the rostral end of the neural tube, with centralized control over all body segments. All vertebrate brains can be embryonically divided into three parts: the forebrain (prosencephalon, subdivided into telencephalon and diencephalon), midbrain (mesencephalon) and hindbrain (rhombencephalon, subdivided into metencephalon and myelencephalon). The spinal cord, which directly interacts with somatic functions..."
+    }
+  ]
+}

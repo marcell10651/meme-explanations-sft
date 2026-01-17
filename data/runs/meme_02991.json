@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_02991",
+  "queries": [
+    "\"Congratulations The\" \"The father\" \"Congratulations\" \"father\" \"billionth\"",
+    "\"father\" \"billionth\" \"child\" \"fel\""
+  ],
+  "primary_terms": [
+    "Congratulations",
+    "The father",
+    "father",
+    "billionth",
+    "child",
+    "fel"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Father#0001",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.9384428083896637,
+      "text": "preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child. The adjective \"paternal\" refers to a father and comparatively to \"maternal\" for a mother. The verb \"to father\" means to procreate or to sire a child from which also derives the noun \"fathering\". Biological fathers determine the sex of their child through a sperm cell..."
+    },
+    {
+      "chunk_id": "wikipedia:Family#0000",
+      "doc_id": "wikipedia:Family",
+      "title": "Family",
+      "url": "https://en.wikipedia.org/?curid=10401954",
+      "source_type": "wikipedia",
+      "score": 0.7754285603761673,
+      "text": "Family (from Latin: familia) is a group of people related either by consanguinity (by recognized birth) or affinity (by marriage or other relationship). It forms the basis for social order. Ideally, families offer predictability, structure, and safety as members mature and learn to participate in the community. Historically, most human societies use family as the primary purpose of attachment, nurturance, and socialization. Anthropologists classify most family organizations as matrifocal (a mother and her children), patrifocal (a father and his children), conjugal (a married couple with children, also called the nuclear family), avuncular (a man, his sister, and her children), or extended (in addition to parents, spouse and children, may include grandparents, aunts, uncles, or cousins). The field of genealogy aims to trace family lineages through history. The family is also an important economic unit studied in family economics."
+    },
+    {
+      "chunk_id": "wikipedia:Mater#0000",
+      "doc_id": "wikipedia:Mater",
+      "title": "Mater",
+      "url": "https://en.wikipedia.org/?curid=4910553",
+      "source_type": "wikipedia",
+      "score": 0.696671313047409,
+      "text": "Mater is a formal Latin term for mother and may refer to: Places Mater, Belgium, a village near Oudenaarde Health care Australia Mater Hospital, North Sydney, New South Wales Mater Group, Brisbane, Queensland Mater Health Services North Queensland, which incorporates: Mater Hospital Pimlico, Townsville, Queensland Mater Women's and Children's Hospital UK and Ireland Mater Infirmorum Hospital, Belfast, Northern Ireland Mater Misericordiae University Hospital, Dublin, Ireland (the best-known hospital in Ireland that is referred to as the Mater) Mater Private Hospital, Dublin, Ireland New Zealand Mater Misericordiae Hospital, Auckland, now Allevia Hospital Epsom Music Mater, an album by Vladimír Godár \"Mater\", a song by The Beat Fleet from Pistaccio Metallic, 2011 Other uses Mater (Cars), a character in the Disney/Pixar animated film Cars Mater, a major part of an astrolabe M.A.T.E.R., a football (soccer) club in Rome People Juris Māters (1845–1885), Latvian writer and journalist Rudy"
+    },
+    {
+      "chunk_id": "wikipedia:Trinity#0000",
+      "doc_id": "wikipedia:Trinity",
+      "title": "Trinity",
+      "url": "https://en.wikipedia.org/?curid=30511",
+      "source_type": "wikipedia",
+      "score": 0.6316041320562362,
+      "text": "The Trinity (Latin: Trinitas, lit. 'triad', from trinus 'threefold') is a Christian doctrine concerning the nature of God, which defines one God existing in three coeternal, consubstantial divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases) sharing one essence/substance/nature (homoousion). As the Fourth Lateran Council declared, it is the Father who begets, the Son who is begotten, and the Holy Spirit who proceeds. In this context, one essence/nature defines what God is, while the three persons define who God is. This expresses at once their distinction and their indissoluble unity. Thus, the entire process of creation and grace is viewed as a single shared action of the three divine persons, in which each person manifests the attributes unique to them in the Trinity, thereby proving that everything comes \"from the Father\", \"through the Son\", and \"in the Holy Spirit\"."
+    },
+    {
+      "chunk_id": "wikipedia:Trinity#0001",
+      "doc_id": "wikipedia:Trinity",
+      "title": "Trinity",
+      "url": "https://en.wikipedia.org/?curid=30511",
+      "source_type": "wikipedia",
+      "score": 0.6061666429042816,
+      "text": "the attributes unique to them in the Trinity, thereby proving that everything comes \"from the Father\", \"through the Son\", and \"in the Holy Spirit\". This doctrine is called Trinitarianism, and its adherents are called Trinitarians, while its opponents are called antitrinitarians or nontrinitarians and are considered non-Christian by many mainline groups. Nontrinitarian positions include Unitarianism..."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0000",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.5868052899837494,
+      "text": "Millennials, also known as Generation Y or Gen Y, are the demographic cohort following Generation X and preceding Generation Z. Researchers and popular media use the early 1980s as starting birth years and the mid-1990s to early 2000s as ending birth years, with the generation typically being defined as people born from 1981 to 1996. Most millennials are the children of baby boomers and older Gen Xers, and are often the parents of Generation Alpha. As children in the late 1980s to 2000s, millennials saw the rise of the Information Age and Internet, being described by some as the first global generation. As adolescents and young adults in the late 1990s to 2010s, the generation was marked by a more upbeat youth culture, elevated familiarity with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace."
+    },
+    {
+      "chunk_id": "wikipedia:Sone#0001",
+      "doc_id": "wikipedia:Sone",
+      "title": "Sone",
+      "url": "https://en.wikipedia.org/?curid=215436",
+      "source_type": "wikipedia",
+      "score": 0.5679329335689545,
+      "text": "with an exponent of 0.3. With this exponent, each 10 phon increase (or 10 dB at 1 kHz) produces almost exactly a doubling of the loudness in sones. At frequencies other than 1 kHz, the loudness level in phons is calibrated according to the frequency response of human hearing, via a set of equal-loudness contours, and then the loudness level in phons is mapped to loudness in sones via the same power law. Loudness N in sones (for LN > 40 phon): N = (..."
+    },
+    {
+      "chunk_id": "wikipedia:Sone#0000",
+      "doc_id": "wikipedia:Sone",
+      "title": "Sone",
+      "url": "https://en.wikipedia.org/?curid=215436",
+      "source_type": "wikipedia",
+      "score": 0.5623968541622162,
+      "text": "The sone () is a unit of loudness, the subjective perception of sound pressure. The study of perceived loudness is included in the topic of psychoacoustics and employs methods of psychophysics. Doubling the perceived loudness doubles the sone value. Proposed by Stanley Smith Stevens in 1936, it is not an SI unit. Definition and conversions According to Stevens' definition, a loudness of 1 sone is equivalent to 40 phons (a 1 kHz tone at 40 dB SPL). The phons scale aligns with dB, not with loudness, so the sone and phon scales are not proportional. Rather, the loudness in sones is, at least very nearly, a power law function of the signal intensity, with an exponent of 0.3. With this exponent, each 10 phon increase (or 10 dB at 1 kHz) produces almost exactly a doubling of the loudness in sones."
+    },
+    {
+      "chunk_id": "wikipedia:Family#0001",
+      "doc_id": "wikipedia:Family",
+      "title": "Family",
+      "url": "https://en.wikipedia.org/?curid=10401954",
+      "source_type": "wikipedia",
+      "score": 0.5532127320766449,
+      "text": ". The field of genealogy aims to trace family lineages through history. The family is also an important economic unit studied in family economics. The word \"families\" can be used metaphorically to create more inclusive categories such as community, nationhood, and global village. Social One of the primary functions of the family involves providing a framework for the production and reproduction of..."
+    },
+    {
+      "chunk_id": "wikipedia:Daughter#0000",
+      "doc_id": "wikipedia:Daughter",
+      "title": "Daughter",
+      "url": "https://en.wikipedia.org/?curid=449913",
+      "source_type": "wikipedia",
+      "score": 0.5460236668586731,
+      "text": "A daughter is a female offspring; a girl or a woman in relation to her parents. Daughterhood is the state, condition or quality of being someone's daughter. The male counterpart is a son. Analogously the name is used in several areas to show relations between groups or elements. From biological perspective, a daughter is a first degree relative. The word daughter also has several other connotations attached to it, one of these being used in reference to a female descendant or consanguinity. It can also be used as a term of endearment coming from an elder. In patriarchal societies, daughters often have different or lesser familial rights than sons. A family may prefer to have sons rather than daughters and subject daughters to female infanticide. In some societies, it is the custom for a daughter to be 'sold' to her husband, who must pay a bride price."
+    }
+  ]
+}

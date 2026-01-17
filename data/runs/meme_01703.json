@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_01703",
+  "queries": [
+    "\"Chris Pratt\" \"ELDON KNOW WHAT{THESES ART;INSTALLATION MEMES'ARE ANDJAT\" \"going\" \"eldon\" \"know\"",
+    "\"eldon\" \"know\" \"theses\" \"art\""
+  ],
+  "primary_terms": [
+    "going",
+    "ELDON KNOW WHAT{THESES ART;INSTALLATION MEMES'ARE ANDJAT",
+    "eldon",
+    "know",
+    "theses",
+    "art",
+    "installation",
+    "andjat",
+    "rointer",
+    "intooafraiditorske"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Drawing#0001",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.6327182114124298,
+      "text": "and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas. The wide availability of drawing instruments makes drawing one of the most common artistic activities. In addition to its more artistic forms, drawing is frequently used in commercial illustration, animation, architecture,..."
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.6177324712276459,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Artist#0000",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.5990763366222381,
+      "text": "An artist is a person engaged in creating art, or practicing the arts. The most common usage in everyday speech and academic discourse refers to a practitioner in the visual arts only. However, the term is also very widely used in the entertainment business to refer to actors, musicians, singers, dancers , and other performers. The French word artiste is sometimes used in English in this context, although this has become old-fashioned. The use of the term \"artist\" to describe writers is valid, but less common, and mostly restricted to contexts such as critics' reviews; \"author\" is generally used instead. While the use of the word 'artist' is common, there is no agreed upon definition of art—this makes the definition of who is and is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art."
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0001",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.49619521796703336,
+      "text": "\"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV from Oshin, 2012 \"Wait\", by Doechii from Alligator Bites Never Heal, 2024 \"Wait\", by Earth, Wind & Fire from I Am, 1979 \"Wait\", by Everyday Sunday from Sleeper, 2001 \"Wait\", by The Kills..."
+    },
+    {
+      "chunk_id": "wikipedia:Iconic#0000",
+      "doc_id": "wikipedia:Iconic",
+      "title": "Iconic",
+      "url": "https://en.wikipedia.org/?curid=869034",
+      "source_type": "wikipedia",
+      "score": 0.48276146352291105,
+      "text": "The adjective iconic may describe: someone or something that is seen as a cultural icon a sign characterised by iconicity an image or technique typical of religious icons Iconic may also refer to: Iconic (EP), a 2012 extended play by Icona Pop Iconic, a 2015 album by Jed Madela Iconic, the working title for Rebel Heart, a 2015 studio album by Madonna \"Iconic\" (song), a 2015 song by Madonna featuring Chance the Rapper and Mike Tyson \"Iconic\", a 2018 song by Logic featuring Jaden Smith from YSIV \"Iconic\", a 2018 song by Poppy from Am I a Girl? \"Iconic\", a 2019 song by Trisha Paytas \"Iconic\", a 2021 song by Aespa from Savage \"Iconic\", a 2021 song by Bad Gyal from Warm Up \"Iconic\", a 2022 song by Simple Plan from Harder Than It Looks Iconic (concert), a 2019 concert tour by Filipino singers Sharon Cuneta and Regine Velasquez Iconic Tower, the highest skyscraper of Africa, located in the New Administrative Capital of Egypt The Iconic, a company in Australia See also Icon (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Arms#0001",
+      "doc_id": "wikipedia:Arms",
+      "title": "Arms",
+      "url": "https://en.wikipedia.org/?curid=9843028",
+      "source_type": "wikipedia",
+      "score": 0.4796311169862747,
+      "text": "for the Nintendo Switch ARMS Charity Concerts, a series of charitable rock concerts in support of Action into Research for Multiple Sclerosis in 1983 Project ARMS, a 1997 Japanese manga series also known as ARMS Other uses Alveolar rhabdomyosarcoma, a form of cancer Arms, Amps root mean square, seen in electrical specifications..."
+    },
+    {
+      "chunk_id": "wikipedia:In His Image#0000",
+      "doc_id": "wikipedia:In His Image",
+      "title": "In His Image",
+      "url": "https://en.wikipedia.org/?curid=4401031",
+      "source_type": "wikipedia",
+      "score": 0.47654215693473817,
+      "text": "\"In His Image\" is an episode of the American television anthology series The Twilight Zone aired on January 3, 1963. This was the first episode of the fourth season. Each episode was expanded to an hour (with commercials) from \"In His Image\" until \"The Bard\". The fourth season is the only season of The Twilight Zone to have each episode one hour long. In this episode, a man finds his hometown is suddenly inconsistent with his memories of it and begins experiencing irrational urges to commit murder, two mysteries which together lead him to an unpleasant discovery about his identity. Opening narration What you have just witnessed could be the end of a particularly terrifying nightmare. It isn't – it's the beginning. Although Alan Talbot doesn't know it, he's about to enter a strange new world, too incredible to be real, too real to be a dream. It's called The Twilight Zone. Plot While waiting in a subway station, Alan Talbot is approached by an evangelist."
+    },
+    {
+      "chunk_id": "wikipedia:Artist#0001",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.47166443467140196,
+      "text": "is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art. I am only pointing out that my project, like Collingwood's, Osborne's, and others', is metaphysical in nature. I am interested in trying to find out what a work of art is and what it is essentially. Dictionary definitions The Oxford English Dictionary defines the older, broader meanings of the word..."
+    },
+    {
+      "chunk_id": "wikipedia:The Three Faces#0000",
+      "doc_id": "wikipedia:The Three Faces",
+      "title": "The Three Faces",
+      "url": "https://en.wikipedia.org/?curid=23666731",
+      "source_type": "wikipedia",
+      "score": 0.47155500054359434,
+      "text": "The Three Faces (Italian: I tre volti) is a 1965 Italian anthology film consisting of three segments directed by Michelangelo Antonioni, Mauro Bolognini, and Franco Indovina, starring Soraya either as herself or in fictitious roles. Cast \"Il provino\" Soraya as Herself Ivano Davoli as Davoli - Journalist Alfredo De Laurentiis as Himself Dino De Laurentiis as Himself Piero Tosi as Costumista Giorgio Sartarelli as Fotografo Ralph Serpe as Produttore \"Gli amanti celebri\" Soraya as Linda Richard Harris as Robert Jean Rougeul as Speaker Esmeralda Ruspoli as Edda José Luis de Vilallonga as Rodolph \"Latin Lover\" Soraya as Mrs Melville Alberto Sordi as Armando Tucci Nando Angelini as Fernando Angeli Goffredo Alessandrini as Direttore dell'agenzia Alberto Giubilo as 2nd journalist in Fiumicino Renato Tagliani Background According to Antonioni, producer De Laurentiis had imposed severe cuts on his segment, which in the theatrically released version served as a \"preface\" (Italian \"prefazione\") to"
+    },
+    {
+      "chunk_id": "wikipedia:Others#0001",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.4348660111427307,
+      "text": "The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001 film), a 2001 film by Alejandro Amenábar, starring Nicole Kidman Literature Others, a 1999 novel by James Herbert Others: A Magazine of the New Verse, a literary magazine edited by Alfred..."
+    }
+  ]
+}

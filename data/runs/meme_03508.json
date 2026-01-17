@@ -1,0 +1,112 @@
+{
+  "meme_id": "meme_03508",
+  "queries": [
+    "\"SpongeBob\" \"yourself\" \"brace\" \"coming\"",
+    "\"brace\" \"coming\" \"love\" \"scene\""
+  ],
+  "primary_terms": [
+    "yourself",
+    "brace",
+    "coming",
+    "this scene",
+    "SpongeBob",
+    "love",
+    "scene",
+    "also",
+    "cid",
+    "ner",
+    "key"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Dental braces#0000",
+      "doc_id": "wikipedia:Dental braces",
+      "title": "Dental braces",
+      "url": "https://en.wikipedia.org/?curid=902683",
+      "source_type": "wikipedia",
+      "score": 0.9030717134475708,
+      "text": "Dental braces (also known as orthodontic braces, or simply braces) are devices used in orthodontics that align and straighten teeth and help position them with regard to a person's bite, while also aiming to improve dental health. They are often used to correct underbites, as well as malocclusions, overbites, open bites, gaps, deep bites, cross bites, crooked teeth, and various other flaws of the teeth and jaw. Braces can be either cosmetic or structural. Dental braces are often used in conjunction with other orthodontic appliances to help widen the palate or jaws and to otherwise assist in shaping the teeth and jaws. Braces are an orthodontic device. They are to make the teeth straight, and to correct problems in a person's bite. There are many natural problems which occur to the way teeth fit together, but not everyone needs or will need braces. However, the use of braces is quite common, even when they are not medically necessary."
+    },
+    {
+      "chunk_id": "wikipedia:SpongeBob SquarePants#0000",
+      "doc_id": "wikipedia:SpongeBob SquarePants",
+      "title": "SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/?curid=2655089",
+      "source_type": "wikipedia",
+      "score": 0.6515837669372558,
+      "text": "SpongeBob SquarePants is an American animated comedy television series created by marine science educator and animator Stephen Hillenburg for Nickelodeon. It first aired as a sneak peek after the 1999 Kids' Choice Awards on May 1, 1999, and officially premiered on July 17, 1999. It chronicles the adventures of the titular character and his aquatic friends in the underwater city of Bikini Bottom. Many of the series' ideas originated in The Intertidal Zone, an unpublished educational comic book Hillenburg created in the 1980s to teach his students about undersea life. Hillenburg joined Nickelodeon in 1992 as an artist on Rocko's Modern Life. After Rocko was cancelled in 1996, he began developing SpongeBob SquarePants into a television series, and in 1997, a seven-minute pilot was pitched to Nickelodeon. The network's executives wanted SpongeBob to be a child in school, but Hillenburg preferred SpongeBob to be an adult character."
+    },
+    {
+      "chunk_id": "wikipedia:For Your Eyes Only (film)#0000",
+      "doc_id": "wikipedia:For Your Eyes Only (film)",
+      "title": "For Your Eyes Only (film)",
+      "url": "https://en.wikipedia.org/?curid=6446044",
+      "source_type": "wikipedia",
+      "score": 0.5740287184715271,
+      "text": "For Your Eyes Only is a 1981 spy film, the twelfth film in the James Bond franchise produced by Eon Productions, and the fifth to star Roger Moore as the fictional MI6 agent James Bond. The film also co-stars Carole Bouquet, Chaim Topol, Lynn-Holly Johnson and Julian Glover, and marked the feature directorial debut of John Glen, who had served as a film editor and second unit director on previous films in the series. The film was written by Richard Maibaum and Michael G. Wilson. Although the script is principally based on two Ian Fleming short stories, \"For Your Eyes Only\" and \"Risico\", some elements of the plot were also inspired by the novels Live and Let Die, Goldfinger and On Her Majesty's Secret Service. The film follows Bond as he attempts to locate a missile command system while becoming tangled in a web of deception spun by rival Greek smugglers along with Melina Havelock, a woman seeking to avenge the murder of her parents."
+    },
+    {
+      "chunk_id": "wikipedia:Sweetheart#0000",
+      "doc_id": "wikipedia:Sweetheart",
+      "title": "Sweetheart",
+      "url": "https://en.wikipedia.org/?curid=572505",
+      "source_type": "wikipedia",
+      "score": 0.5610769867897034,
+      "text": "Sweetheart is a term of endearment often applied to a loved one, or a person who demonstrates a significant amount of kindness. Sweetheart may also refer to: Places Sweetheart Abbey in Scotland Sweetheart City, Wisconsin, United States Arts, entertainment, and media Films Sweetheart, also known as Toutes peines confondues, a 1992 film Sweetheart (2015 film), a Bangladeshi romantic drama film Sweetheart (2019 American film), a survival horror film Sweetheart (2019 French film), a comedy-drama film Sweetheart (2021 film), a British coming-of-age film Sweetheart!, an Indian romantic-comedy film Sweetheart (2025 film), an Italian family drama film Music Sweetheart (album), a 1971 album by Engelbert Humperdinck \"Sweetheart\" (Bee Gees song), covered by Engelbert Humperdinck \"Sweetheart\" (Rainy Davis song), covered by Mariah Carey and Jermaine Dupri \"Sweetheart\" (Franke and the Knockouts song) Sweetheart, a Finnish noise rock band of the 1990s founded by Janne Westerlund Sweet heart, a 2009"
+    },
+    {
+      "chunk_id": "wikipedia:Doomed#0000",
+      "doc_id": "wikipedia:Doomed",
+      "title": "Doomed",
+      "url": "https://en.wikipedia.org/?curid=9401997",
+      "source_type": "wikipedia",
+      "score": 0.5392056614160537,
+      "text": "Doomed may refer to: \"Doomed\" (Buffy the Vampire Slayer), a 1999 episode of the television series Buffy the Vampire Slayer \"Doomed\", an episode of the 2006 television series Fantastic Four: World's Greatest Heroes Doomed!: The Untold Story of Roger Corman's The Fantastic Four, a 2015 documentary film Doomed (novel), a 2013 novel by Chuck Palahniuk \"Doomed\" (Bring Me the Horizon song), 2015 \"Doomed\" (Moses Sumney song), 2017 DoomEd, an editor for the video game Doom Doomed, a 1975 performance art piece by Chris Burden The Doomed (film), a 1924 German silent drama film \"The Doomed\", a 2017 song by A Perfect Circle See also Doom (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Sleeping with Other People#0000",
+      "doc_id": "wikipedia:Sleeping with Other People",
+      "title": "Sleeping with Other People",
+      "url": "https://en.wikipedia.org/?curid=43263164",
+      "source_type": "wikipedia",
+      "score": 0.5372021824121476,
+      "text": "Sleeping with Other People is a 2015 American romantic comedy film written and directed by Leslye Headland. The film stars Jason Sudeikis, Alison Brie, Natasha Lyonne, Amanda Peet, and Adam Scott. Premiering at the Sundance Film Festival on January 24, 2015, the film was released theatrically on September 11, 2015, by IFC Films. Sleeping with Other People received generally positive reviews from critics. Plot In 2002, Lainey causes a scene in a dorm at Columbia University. Taking pity on her as she is about to be kicked out by security, Jake claims her as his guest. He learns Lainey was there to lose her virginity to her teaching assistant Matthew, who Jake thinks is the most boring guy in the world. Lainey eventually realizes Jake is also a virgin, so they lose their virginity to each other. Years later, Lainey breaks up with her long-term boyfriend Sam after telling him she has been cheating on him with Matthew."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.5318110793828964,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0001",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.5224334627389908,
+      "text": "(T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A. from AIM \"Finally\", a song by Yes from The Ladder \"Finally\", a 2019 single by Thabsie \"Finally\", a 2023 single by Jonas Blue and Rani Other uses Finally (company), an American light bulb company Finally (film), a 1991 documentary about Eric Burdon Finally, a keyword in exception handling syntax See also Final (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.5114443004131317,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:Post-credits scene#0000",
+      "doc_id": "wikipedia:Post-credits scene",
+      "title": "Post-credits scene",
+      "url": "https://en.wikipedia.org/?curid=6107731",
+      "source_type": "wikipedia",
+      "score": 0.5060959577560424,
+      "text": "A post-credits scene (also known as a stinger, end tag, or credit cookie) is a short teaser clip that appears after the closing credits have rolled and sometimes after a production logo of a film, TV show, or video game has run. It is usually either written for humor or to set up a sequel. Sometimes, one or more mid-credits scenes are also inserted partly through the closing credits, typically for the purpose of maintaining the audience's attention so they do not need to wait for the entire credits roll to finish for a teaser. History Post-credits scenes may have their origins in encores, an additional performance added to the end of staged shows in response to audience applause. Opera encores were common practice in the 19th century, when the story was often interrupted so a singer could repeat an aria, but fell out of favor in the 1920s due to rising emphasis on dramatic storytelling rather than vocal performance."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "meme_id": "meme_01077",
+  "queries": [
+    "\"Americans\" \"free candy\" \"waking\" \"leave\"",
+    "\"waking\" \"leave\" \"bunch\" \"free\""
+  ],
+  "primary_terms": [
+    "waking",
+    "Americans",
+    "free candy",
+    "leave",
+    "bunch",
+    "free",
+    "candy",
+    "outside"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Leave#0001",
+      "doc_id": "wikipedia:Leave",
+      "title": "Leave",
+      "url": "https://en.wikipedia.org/?curid=85749",
+      "source_type": "wikipedia",
+      "score": 0.7955108344554901,
+      "text": "of \"Remain\") Arts, entertainment, and media Leave (film), a 2010 film by Robert Celestino Leave (2022 film), a 2022 film by Alex Herron Music Leave (album), a 2002 Mandopop album \"Leave\" (Get Out), a 2004 R&B song by JoJo \"Leave!\", a 2009 soul song performed by the English singer VV Brown \"Leave\", a song by Sertab Erener \"Leave\", a song..."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0001",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.6363977789878845,
+      "text": "sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep. Synonyms In boarding schools and on trips or holidays that involve young people, the equivalent of bedtime is lights out or lights-out - this term is also used in prisons, hospitals, in the military, and in sleep research..."
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0001",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.5544569492340088,
+      "text": "\"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV from Oshin, 2012 \"Wait\", by Doechii from Alligator Bites Never Heal, 2024 \"Wait\", by Earth, Wind & Fire from I Am, 1979 \"Wait\", by Everyday Sunday from Sleeper, 2001 \"Wait\", by The Kills..."
+    },
+    {
+      "chunk_id": "wikipedia:Candy#0001",
+      "doc_id": "wikipedia:Candy",
+      "title": "Candy",
+      "url": "https://en.wikipedia.org/?curid=61230",
+      "source_type": "wikipedia",
+      "score": 0.4848565816879272,
+      "text": ". Each culture has its own ideas of what constitutes candy rather than dessert. The same food may be a candy in one culture and a dessert in another. History The word candy entered the English language from the Old French çucre candi (\"sugar candy\"). The French term probably has earlier roots in the Arabic qandi, Persian qand and Sanskrit khanda, all words for sugar. Sugarcane is indigenous to tropical South and..."
+    },
+    {
+      "chunk_id": "wikipedia:Homies (toy)#0001",
+      "doc_id": "wikipedia:Homies (toy)",
+      "title": "Homies (toy)",
+      "url": "https://en.wikipedia.org/?curid=1380153",
+      "source_type": "wikipedia",
+      "score": 0.46851398050785065,
+      "text": "called \"Hollywood.\" The strip, which later changed its title to The Adventures of Hollywood, was picked up by Lowrider magazine and published monthly. More and more barrio characters from Gonzales' experiences were introduced to the public through the Hollywood strip — these became \"Homies.\" The word \"homie\" is an English language slang term found in American urban culture, with the word \"homeboy\" meaning a male friend..."
+    },
+    {
+      "chunk_id": "wikipedia:Away#0001",
+      "doc_id": "wikipedia:Away",
+      "title": "Away",
+      "url": "https://en.wikipedia.org/?curid=6770700",
+      "source_type": "wikipedia",
+      "score": 0.4673232436180115,
+      "text": "by Devin Townsend from Accelerated Evolution, 2003 \"Away\", by Davido from Timeless, 2023 \"Away\", by the Feelies from Only Life, 1988 \"Away\", by G.E.M. from Heartbeat, 2015 \"Away\", by Neurosis from Times of Grace, 1999 \"Away\", by Nightwish from Over the Hills and Far Away, 2001 \"Away\", by Of Mice & Men from Cold World, 2016 \"Away\", by Swallow the Sun from Songs from the North I, II & III..."
+    },
+    {
+      "chunk_id": "wikipedia:Give#0000",
+      "doc_id": "wikipedia:Give",
+      "title": "Give",
+      "url": "https://en.wikipedia.org/?curid=5563535",
+      "source_type": "wikipedia",
+      "score": 0.45712731778621674,
+      "text": "Give may refer to: making someone get or receive something from someone Places Give, Denmark, a small town Give Municipality, a former municipality Music Give (Balkan Beat Box album), 2012 album by Balkan Beat Box Give (The Bad Plus album), the third studio album by The Bad Plus \"Give\" (song), the third single by American country recording artist LeAnn Rimes \"Give\" aka \"Still Yawning Still Born\" a song by Steve Peregrin Took recorded acoustically by his band Shagrat in 1971 and by Took solo in 1972 - released 1992/1995 Give (EP), a 1998 EP and single by American rock band Cold See also GAVE (disambiguation) Given (disambiguation) Giver (disambiguation) Giving (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0000",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.45247575640678406,
+      "text": "Wait or WAIT may refer to: Music Wait (musician), British town pipers Albums and EPs Wait (The Polyphonic Spree EP), by The Polyphonic Spree Wait (Emanuel Nice EP), a 2002 EP released by the band Emanuel Nice Wait (Steelheart album), or the title song Wait (Sons of Korah album), 2011 Wait (Pardon Us album), 2019 Songs \"Wait\" (Beatles song), 1965 \"Wait\" (Chantel Jeffries song), 2018 \"Wait\" (Earshot song), 2004 \"Wait\" (Huffamoose song), 1997 \"Wait\" (Gyan song), 1989 \"Wait\" (M83 song), 2012 \"Wait\" (Maggie Reilly song), 1992 \"Wait\" (Maroon 5 song), 2018 \"Wait\" (Seven Mary song), 2001 \"Wait\" (Wang Chung song), 1984 \"Wait\" (White Lion song), 1987 \"Wait (The Whisper Song)\", by Ying Yang Twins, 2005 \"Wait\", by 6ix9ine from TattleTales, 2020 \"Wait\", by The Afters from I Wish We All Could Win, 2005 \"Wait\", by C418 from Minecraft – Volume Beta, 2013 \"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV"
+    },
+    {
+      "chunk_id": "wikipedia:Open#0000",
+      "doc_id": "wikipedia:Open",
+      "title": "Open",
+      "url": "https://en.wikipedia.org/?curid=514174",
+      "source_type": "wikipedia",
+      "score": 0.4524598568677902,
+      "text": "Open or OPEN may refer to: Music Open (band), Australian pop/rock band The Open (band), English indie rock band Open (Blues Image album), 1970 Open (Gerd Dudek, Buschi Niebergall, and Edward Vesala album), 1979 Open (Gotthard album), 1999 Open (Cowboy Junkies album), 2001 Open (YFriday album), 2001 Open (Shaznay Lewis album), 2004 Open (Jon Anderson EP), 2011 Open (Stick Men album), 2012 Open (The Necks album), 2013 Open (Kwon Eun-bi EP), 2021 Open, a 1967 album by Julie Driscoll, Brian Auger and the Trinity Open, a 1979 album by Steve Hillage \"Open\" (Queensrÿche song) \"Open\" (Mýa song) \"Open\", the first song on The Cure album Wish Literature Open (Mexican magazine), a lifestyle Mexican publication Open (Indian magazine), an Indian weekly English language magazine featuring current affairs OPEN (North Dakota magazine), an out-of-print magazine that was printed in the Fargo, North Dakota area of the U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Forget#0001",
+      "doc_id": "wikipedia:Forget",
+      "title": "Forget",
+      "url": "https://en.wikipedia.org/?curid=16794504",
+      "source_type": "wikipedia",
+      "score": 0.4458530694246292,
+      "text": "and politician Places Forget, Ontario, a community in Ontario, Canada Forget, Saskatchewan, a village in Saskatchewan, Canada Saint-Forget, a commune in the Yvelines department, in France Mount Forget, located on the border of Alberta and British Columbia Media \"Forget\", a song by 8stops7 from Birth of a Cynic \"Forget\", a song by..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Pickachu looking shocked and mouth wide open",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that Americans are surprised when halloween candy is taken.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Americans",
+          "halloween candy"
+        ]
+      },
+      "title": {
+        "text": "Waking up like....",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "waking"
+        ]
+      },
+      "text": {
+        "text": "Americans when they leave a bunch of free candy outside and somebody takes it © 0 OD OC",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Americans",
+          "free candy",
+          "leave",
+          "bunch",
+          "free",
+          "candy",
+          "outside"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "waking",
+      "Americans",
+      "free candy",
+      "leave",
+      "bunch",
+      "free",
+      "candy",
+      "outside"
+    ],
+    "secondary_terms": [
+      "Americans",
+      "halloween candy"
+    ],
+    "queries": [
+      "\"Americans\" \"free candy\" \"waking\" \"leave\"",
+      "\"waking\" \"leave\" \"bunch\" \"free\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_01630",
+  "queries": [
+    "\"Leonardo Dicaprio\" \"my first homemade meme\" \"first\" \"homemade\" \"feel\"",
+    "\"homemade\" \"feel\" \"poor\" \"drink\""
+  ],
+  "primary_terms": [
+    "my first homemade meme",
+    "first",
+    "homemade",
+    "feel",
+    "poor",
+    "drink",
+    "wine",
+    "glass",
+    "ion"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Drink#0000",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.8195661783218384,
+      "text": "A drink or beverage is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, juice, smoothies and soft drinks. Traditionally warm beverages encompass coffee, tea, and hot chocolate. Caffeinated drinks that contain the stimulant caffeine, have been consumed for centuries. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the psychoactive substance ethanol, have been part of human culture for more than 8,000 years. Non-alcoholic drinks typically refer to beverages that are traditionally alcoholic—such as beer, wine, or cocktails—but are produced with a very low alcohol by volume content. This category includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0000",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.7049453735351563,
+      "text": "Two Dogs was a ready-to-drink beverage that was first introduced in Australia in 1993 and went on to become available throughout the world. It was a lemon flavoured alcoholic beverage that is widely considered to have been the \"world’s first brewed alcoholic lemonade\" (despite the pre-existence of traditional drinks like sima), paving the way for similar products such as Hooper's Hooch and Mike's Hard Lemonade. Two Dogs was created in 1993 by the South Australian brewer Duncan MacGillivray. The tale behind the drink says that MacGillivray, an owner of a small brewery and pub in South Australia, was having a beer with some friends who owned a lemon farm. They mentioned that they didn't know what to do with all their lemons that they couldn't sell due to size. Duncan said \"I'll try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well."
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo DiCaprio#0001",
+      "doc_id": "wikipedia:Leonardo DiCaprio",
+      "title": "Leonardo DiCaprio",
+      "url": "https://en.wikipedia.org/?curid=52711",
+      "source_type": "wikipedia",
+      "score": 0.6365037471055984,
+      "text": "What's Eating Gilbert Grape (1993). DiCaprio achieved international stardom with the star-crossed romances Romeo + Juliet (1996) and Titanic (1997). After the latter became the highest-grossing film in the world at the time, he reduced his workload for a few years. In an attempt to shed his image of a romantic hero, DiCaprio sought roles in other genres, including..."
+    },
+    {
+      "chunk_id": "wikipedia:Made#0000",
+      "doc_id": "wikipedia:Made",
+      "title": "Made",
+      "url": "https://en.wikipedia.org/?curid=666961",
+      "source_type": "wikipedia",
+      "score": 0.5682262241840362,
+      "text": "Made or MADE may refer to: Entertainment Film Made (1972 film), United Kingdom Made (2001 film), United States Music Made (Big Bang album), 2016 Made (Hawk Nelson album), 2013 Made (Scarface album), 2007 M.A.D.E., 2003 album by Memphis Bleek \"Made\" (Scuba Dice song), 2006 \"Made\" (The Wanted song), 2010 Made (band), a Toronto lo-fi band Television Made (TV series), United States, 2002 to 2014 Companies Made.com, an online furniture retailer in London, United Kingdom MADE Clothing, an American clothing line around 2005 The MADE or The Museum of Art and Digital Entertainment Geography Made (Netherlands), a town in the Netherlands People van der Made - Dutch family name Dalem Di Made (fl."
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0001",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.5518334865570068,
+      "text": "2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol. 2, 2019 \"Feel\", by Mahmut Orhan, 2016 \"Feel\", by Måneskin from Rush!, 2023 \"Feel\", by Matchbox Twenty from More Than You Think You Are, 2002 \"Feel\", by Phora, 2018 \"Feel\", by Post Malone from Stoney, 2016 \"Feel\", by Stereophonics from Language. Sex. Violence. Other..."
+    },
+    {
+      "chunk_id": "wikipedia:Hangover#0001",
+      "doc_id": "wikipedia:Hangover",
+      "title": "Hangover",
+      "url": "https://en.wikipedia.org/?curid=12274183",
+      "source_type": "wikipedia",
+      "score": 0.540882122516632,
+      "text": "dehydration, metabolic acidosis, disturbed prostaglandin synthesis, increased cardiac output, vasodilation, sleep deprivation, and malnutrition. Beverage-specific effects of additives or by-products such as congeners in alcoholic beverages also play an important role. The symptoms usually occur after the intoxicating effect of the alcohol begins to wear off, generally the morning after a night of heavy drinking. Though many possible remedies..."
+    },
+    {
+      "chunk_id": "wikipedia:Drinking#0000",
+      "doc_id": "wikipedia:Drinking",
+      "title": "Drinking",
+      "url": "https://en.wikipedia.org/?curid=66254",
+      "source_type": "wikipedia",
+      "score": 0.5403941392898559,
+      "text": "Drinking is the act of ingesting water or other liquids into the body through the mouth, proboscis, or elsewhere. Humans drink by swallowing, completed by peristalsis in the esophagus. The physiological processes of drinking vary widely among other animals. Most animals drink water to maintain bodily hydration, although many can survive on the water gained from their food. Water is required for many physiological processes. Both inadequate and (less commonly) excessive water intake are associated with health problems. Methods of drinking In humans When a liquid enters a human mouth, the swallowing process is completed by peristalsis which delivers the liquid through the esophagus to the stomach; much of the activity is assisted by gravity. The liquid may be poured from the hands or drinkware may be used as vessels. Drinking can also be by sipping or sucking, typically when imbibing hot liquids or drinking from a spoon."
+    },
+    {
+      "chunk_id": "wikipedia:Hangover#0000",
+      "doc_id": "wikipedia:Hangover",
+      "title": "Hangover",
+      "url": "https://en.wikipedia.org/?curid=12274183",
+      "source_type": "wikipedia",
+      "score": 0.5274828851222992,
+      "text": "A hangover is the experience of various unpleasant physiological and psychological effects usually following the consumption of alcohol, such as wine, beer, and liquor. Hangovers can last for several hours or for more than 24 hours. Typical symptoms of a hangover may include headache, drowsiness, weakness, concentration problems, dry mouth, dizziness, fatigue, muscle ache, gastrointestinal distress (e.g., nausea, vomiting, diarrhea), absence of hunger, light sensitivity, depression, sweating, hyper-excitability, high blood pressure, irritability, and anxiety. While the causes of a hangover are still poorly understood, several factors are known to be involved including acetaldehyde accumulation, changes in the immune system and glucose metabolism, dehydration, metabolic acidosis, disturbed prostaglandin synthesis, increased cardiac output, vasodilation, sleep deprivation, and malnutrition."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.5172570705413818,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:First Time#0000",
+      "doc_id": "wikipedia:First Time",
+      "title": "First Time",
+      "url": "https://en.wikipedia.org/?curid=2039755",
+      "source_type": "wikipedia",
+      "score": 0.51633922457695,
+      "text": "First Time or The First Time may refer to: Film and television Films The First Time (1952 film), an American comedy-drama directed by Frank Tashlin The First Time (1969 film), an American coming-of-age film directed by James Neilson The First Time (1981 film), an American coming of age comedy film The First Time, a 1982 American television film starring Jennifer Jason Leigh First Time, a 1983 Hong Kong film produced by Peter Yang The First Time, a 1983 comedy featuring Wendie Jo Sperber First Time, a 2003 Philippine film featuring Ryan Eigenmann The First Time (2012 film), an American teen romantic comedy by Jon Kasdan First Time (2012 film), a Chinese romance film directed by Han Yan Television First Time (TV series), a 2010 Philippine romantic drama Episodes \"First Time\" (South of Nowhere) \"The First Time\" (Glee) \"The First Time\" (One Day at a Time) \"The First Time\" (That '70s Show) Literature The First Time (memoir), a 1998 book by Cher and Jeff Coplon First Time, a 2008 novel by"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_06111",
+  "queries": [
+    "\"Reddit\" \"all\" \"thank\" \"veryispecificyproblem\" \"hes\"",
+    "\"veryispecificyproblem\" \"hes\" \"sofmeirando\" \"redditorfrom\""
+  ],
+  "primary_terms": [
+    "all",
+    "thank",
+    "veryispecificyproblem",
+    "hes",
+    "sofmeirando",
+    "redditorfrom",
+    "lor"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.6179264694452286,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Perfection#0000",
+      "doc_id": "wikipedia:Perfection",
+      "title": "Perfection",
+      "url": "https://en.wikipedia.org/?curid=1928374",
+      "source_type": "wikipedia",
+      "score": 0.6157317221164703,
+      "text": "Perfection is a state, variously, of completeness, flawlessness, or supreme excellence. The term designates a range of diverse, if often kindred, concepts used in a variety of fields. Term and concept The noun \"perfection\", the adjective \"perfect\", and the verb \"to perfect\" derive from the Latin verb \"perficere\" – \"to finish\" or \"to bring to an end\". The ancient Greek word for \"perfection\" was \"teleiotes\". The Greek polymath Aristotle (384–322 BCE) distinguished three concepts of perfection: 1. that which was complete – which contained all the requisite parts; 2. that which was so good that nothing of the kind could be better; 3. that which had attained its purpose. The Polish philosopher Władysław Tatarkiewicz (1886 – 1980) notes that perfection is often confused with other qualities, such as \"excellence\". The German polymath Leibniz (1646–1716), who thought the world to be the best of all possible worlds, never called it perfect."
+    },
+    {
+      "chunk_id": "wikipedia:Thanks#0000",
+      "doc_id": "wikipedia:Thanks",
+      "title": "Thanks",
+      "url": "https://en.wikipedia.org/?curid=2558488",
+      "source_type": "wikipedia",
+      "score": 0.5391571044921875,
+      "text": "Thanks may refer to: Thank you, a common expression of gratitude Film and television Thanks (film), a 2011 American film Thanks (TV series), a 1999 American sitcom Music Albums Thanks, by J. Vincent Edwards, 1969 Thanks, by Ivan Neville, 1994 Thanks, by Marty Grosz, 1997 Thanks, by w-inds., 2006 Songs \"Thanks\" (song), 1969, recorded by J. Vincent Edwards and Bill Anderson \"Thanks!\" (GAM song), 2006 \"Thanks\", by the James Gang from James Gang Rides Again, 1970 \"Thanks\", by Judith Allen and by Bing Crosby from the Too Much Harmony soundtrack, 1933 \"Thanks\", by Waylon Jennings from Ladies Love Outlaws, 1972 See also All pages with titles beginning with Thanks All pages with titles containing Thanks Thankful (disambiguation) Thank God (disambiguation) Thank You (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Great#0000",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.5231048077344894,
+      "text": "Great may refer to: Descriptions or measurements Great, a relative measurement in physical space, see Size Greatness, being divine, superior, majestic, or transcendent People List of people known as \"the Great\" Artel Great (born 1981), American actor Great Osobor (born 2002), Spanish-born British basketball player Other uses Great (1975 film), a British animated short about Isambard Kingdom Brunel Great (2013 film), a German short film Great (supermarket), a supermarket in Hong Kong GReAT, Graph Rewriting and Transformation, a Model Transformation Language Gang Resistance Education and Training, or GREAT, a school-based and police officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great!"
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.49980962872505186,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Rete#0000",
+      "doc_id": "wikipedia:Rete",
+      "title": "Rete",
+      "url": "https://en.wikipedia.org/?curid=1887104",
+      "source_type": "wikipedia",
+      "score": 0.4925572633743286,
+      "text": "Rete may refer to: Net (device), in Latin The Network (Italian: La Rete), a former Italian political party Rete algorithm, an efficient pattern matching algorithm for implementing production rule systems Part of an astrolabe, a historical astronomical instrument Net-like anatomic structures: Rete canalis hypoglossi, Rete carpale dorsale, Rete mirabile, Rete ovarii, Rete patellare, Rete pegs and ridges, Rete testes, Rete venosum. See also Plexus Rete Ferroviaria Italiana (RFI), an Italian company, owner of Italy's railway network Rete degli Studenti Medi (RSM), an Italian high school students network All pages with titles beginning with Rete All pages with titles containing Rete"
+    },
+    {
+      "chunk_id": "wikipedia:Perfect#0001",
+      "doc_id": "wikipedia:Perfect",
+      "title": "Perfect",
+      "url": "https://en.wikipedia.org/?curid=217503",
+      "source_type": "wikipedia",
+      "score": 0.49129449427127836,
+      "text": "album) (2004) Perfect (Half Japanese album) (2016) perfecT, an album by Sam Shaber Perfect, an album by True Faith or its title track Perfect, an album by Benny Hester or its title track EPs Perfect (Mannequin Pussy EP) (2021) Songs \"Perfect\" (Vanessa Amorosi song) (2008) \"Perfect\" (Anne-Marie song) (2018..."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0001",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.4632118344306946,
+      "text": ". It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world. According to data provided by Similarweb, 51.75% of the website traffic comes from the United States, followed by Canada at 7.01%, the United Kingdom at 6.97%, Australia at 3.97%, Germany at 3%, and the remaining 28.37% split among other countries. Reddit was founded by University of Virginia roommates Steve Huffman and Alexis Ohanian in June 2005, who were joined..."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0000",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.4368840277194977,
+      "text": "In grammar, a phrase — called an expression in some contexts — is a group of one or more words acting as a grammatical unit. For instance, the English expression \"the very happy squirrel\" is a noun phrase which contains the adjective phrase \"very happy\". Phrases can consist of a single word or a complete sentence. In theoretical linguistics, phrases are often analyzed as units of syntactic structure such as a constituent. There is a difference between the common use of the term phrase and its technical use in linguistics. In common usage, a phrase is usually a group of words with some special idiomatic meaning or other significance, such as \"all rights reserved\", \"economical with the truth\", or \"kick the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes."
+    },
+    {
+      "chunk_id": "wikipedia:Love#0001",
+      "doc_id": "wikipedia:Love",
+      "title": "Love",
+      "url": "https://en.wikipedia.org/?curid=17547",
+      "source_type": "wikipedia",
+      "score": 0.435516893863678,
+      "text": "vanity, selfishness, amour-propre, and egotism. It may also describe compassionate and affectionate actions towards other humans, oneself, or animals. In its various forms, love acts as a major facilitator of interpersonal relationships, and owing to its central psychological importance, is one of the most common themes in the creative arts. Love has been postulated to be a function that keeps human beings together against menaces and to facilitate the continuation of the species. Ancient Greek..."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "meme_id": "meme_04829",
+  "queries": [
+    "\"Time\" \"thanksgiving dinner\" \"their dad\" \"wicked\"",
+    "\"Time\" \"thanksgiving dinner\" \"their dad\" \"his head\"",
+    "\"their dad\" \"his head\" \"their aunt\" \"wicked\""
+  ],
+  "primary_terms": [
+    "Time",
+    "wicked",
+    "thanksgiving dinner",
+    "your kids",
+    "their dad"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:His Family#0000",
+      "doc_id": "wikipedia:His Family",
+      "title": "His Family",
+      "url": "https://en.wikipedia.org/?curid=3241257",
+      "source_type": "wikipedia",
+      "score": 0.8939898818731308,
+      "text": "His Family is a novel by Ernest Poole published in 1917 about the life of a New York widower and his three daughters in the 1910s. It received the first Pulitzer Prize for the Novel in 1918. Plot introduction His Family tells the story of a middle-class family in New York City in the 1910s. The family's patriarch, widower Roger Gale, struggles to deal with the way his daughters and grandchildren respond to the changing society. Each of his daughters responds in a distinctively different way to the circumstances of their lives, forcing Roger into attempting to calm the increasingly challenging family disputes that erupt. Synopsis The story begins in the spring of 1913 with Roger Gale, a New York businessman and a widower, owner of a media monitoring service, reflecting on the changes that have come to New York since his arrival in the city as a young man from a New Hampshire farm somewhere near the time of the Civil War."
+    },
+    {
+      "chunk_id": "wikipedia:Family#0000",
+      "doc_id": "wikipedia:Family",
+      "title": "Family",
+      "url": "https://en.wikipedia.org/?curid=10401954",
+      "source_type": "wikipedia",
+      "score": 0.8868705630302429,
+      "text": "Family (from Latin: familia) is a group of people related either by consanguinity (by recognized birth) or affinity (by marriage or other relationship). It forms the basis for social order. Ideally, families offer predictability, structure, and safety as members mature and learn to participate in the community. Historically, most human societies use family as the primary purpose of attachment, nurturance, and socialization. Anthropologists classify most family organizations as matrifocal (a mother and her children), patrifocal (a father and his children), conjugal (a married couple with children, also called the nuclear family), avuncular (a man, his sister, and her children), or extended (in addition to parents, spouse and children, may include grandparents, aunts, uncles, or cousins). The field of genealogy aims to trace family lineages through history. The family is also an important economic unit studied in family economics."
+    },
+    {
+      "chunk_id": "wikipedia:Uncle#0000",
+      "doc_id": "wikipedia:Uncle",
+      "title": "Uncle",
+      "url": "https://en.wikipedia.org/?curid=24306566",
+      "source_type": "wikipedia",
+      "score": 0.8233668506145477,
+      "text": "An uncle is usually defined as a male relative who is a sibling of a parent or married to a sibling of a parent, as well as the parent of the cousins. Uncles who are related by birth are second-degree relatives. The female counterpart of an uncle is an aunt, and the reciprocal relationship is that of a nephew or niece. The word comes from Latin: avunculus, the diminutive of avus (grandfather), and is a family relationship within an extended or immediate family. A popular colloquial term in English is Unc. In some cultures and families, children may refer to the cousins of their parents as uncle (or aunt). It is also used as a title of respect for older relatives, neighbours, acquaintances, family friends, and even total strangers in some cultures, for example Aboriginal Australian elders. Using the term in this way is a form of fictive kinship."
+    },
+    {
+      "chunk_id": "wikipedia:Dad Loves His Work#0000",
+      "doc_id": "wikipedia:Dad Loves His Work",
+      "title": "Dad Loves His Work",
+      "url": "https://en.wikipedia.org/?curid=945339",
+      "source_type": "wikipedia",
+      "score": 0.8125437498092651,
+      "text": "Dad Loves His Work is the tenth studio album by James Taylor, released in 1981. The album includes the duet with JD Souther titled \"Her Town Too\", which peaked at number 11 on the Billboard Hot 100 and number 5 on the Billboard Adult Contemporary chart. The album was certified platinum in the United States. It was his first album without any cover versions. Background The album's title was a response by Taylor to then-wife Carly Simon, who had issued an ultimatum to Taylor regarding his constant touring, leaving her home with their two children, Benjamin and Sally. Simon informed Taylor in 1980 that unless he curtailed his schedule to be home more with his family, that she would divorce him. Shortly before the album's release, the pair separated, officially dissolving their 11-year marriage in 1983."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0000",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.8062334358692169,
+      "text": "Very Bad Things is a 1998 American black comedy film written and directed by Peter Berg in his feature film directorial debut and starring Cameron Diaz, Jon Favreau, Daniel Stern, Jeremy Piven, Christian Slater, Leland Orser, Kobe Tai and Jeanne Tripplehorn. The plot follows a group of men who become embroiled in crime and betrayal after they attempt to conceal an accidental death. Very Bad Things was not well received and grossed $21 million against a $30 million budget. Plot Kyle Fisher and Laura Garrety are a young suburbanite couple days away from their wedding. While Laura finalizes last-minute wedding details, Kyle is away in Las Vegas celebrating his bachelor party with four friends—real estate agent Robert Boyd, mechanic Charles Moore, and brothers Adam and Michael Berkow. As part of the festivities, Robert hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.7283909618854523,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0000",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.7060596644878387,
+      "text": "A father, dad, or daddy is the male parent of a child. Besides the paternal bonds of a father to his child or children, fathers may have a parental, legal, and social relationship with their child or children that carries with it certain rights and obligations. A biological father is the male genetic contributor to the creation of the child, through sexual intercourse or sperm donation. A biological father may have legal obligations to a child not raised by him, such as an obligation of monetary support. An adoptive father is a man who has become the child's parent through the legal process of adoption. A putative father is a man whose biological relationship to a child is alleged but has not been established. A stepfather is a non-biological male parent married to a child's preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child."
+    },
+    {
+      "chunk_id": "wikipedia:Family#0001",
+      "doc_id": "wikipedia:Family",
+      "title": "Family",
+      "url": "https://en.wikipedia.org/?curid=10401954",
+      "source_type": "wikipedia",
+      "score": 0.6548292338848114,
+      "text": ". The field of genealogy aims to trace family lineages through history. The family is also an important economic unit studied in family economics. The word \"families\" can be used metaphorically to create more inclusive categories such as community, nationhood, and global village. Social One of the primary functions of the family involves providing a framework for the production and reproduction of..."
+    },
+    {
+      "chunk_id": "wikipedia:Uncle#0001",
+      "doc_id": "wikipedia:Uncle",
+      "title": "Uncle",
+      "url": "https://en.wikipedia.org/?curid=24306566",
+      "source_type": "wikipedia",
+      "score": 0.6546361595392227,
+      "text": "friends, and even total strangers in some cultures, for example Aboriginal Australian elders. Using the term in this way is a form of fictive kinship. Any social institution where a special relationship exists between a man and his sisters' children is known as an avunculate (or avunculism or avuncularism). This relationship can be formal or informal, depending on the society. Early anthropological research focused on the association between the avunculate and matrilineal descent, while later..."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0001",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.6408734917640686,
+      "text": "preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child. The adjective \"paternal\" refers to a father and comparatively to \"maternal\" for a mother. The verb \"to father\" means to procreate or to sire a child from which also derives the noun \"fathering\". Biological fathers determine the sex of their child through a sperm cell..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A muppet looks behind them awkwardly then turns his head.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "his head"
+        ]
+      },
+      "meme_captions": {
+        "text": "meme poster is trying to convey they dislike their aunt",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their aunt"
+        ]
+      },
+      "title": {
+        "text": "Time to get wicked",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Time",
+          "wicked"
+        ]
+      },
+      "text": {
+        "text": "Me: “Eating thanksgiving dinner alone and deciding not to socialise” Aunt: | can tell that no one likes you. Me: But you can’t tell your kids who their dad is } \\ ON re -] \\",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "thanksgiving dinner",
+          "your kids",
+          "their dad"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Time",
+      "wicked",
+      "thanksgiving dinner",
+      "your kids",
+      "their dad"
+    ],
+    "secondary_terms": [
+      "his head",
+      "their aunt"
+    ],
+    "queries": [
+      "\"Time\" \"thanksgiving dinner\" \"their dad\" \"wicked\"",
+      "\"Time\" \"thanksgiving dinner\" \"their dad\" \"his head\"",
+      "\"their dad\" \"his head\" \"their aunt\" \"wicked\""
+    ]
+  },
+  "source_jsonl_id": null
+}

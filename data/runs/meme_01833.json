@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_01833",
+  "queries": [
+    "\"West Taiwan\" \"made\" \"west\" \"taiwan\"",
+    "\"west\" \"taiwan\" \"china\" \"roo\""
+  ],
+  "primary_terms": [
+    "West Taiwan",
+    "made",
+    "west",
+    "taiwan",
+    "china",
+    "roo"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Japan#0000",
+      "doc_id": "wikipedia:Japan",
+      "title": "Japan",
+      "url": "https://en.wikipedia.org/?curid=15573",
+      "source_type": "wikipedia",
+      "score": 0.8032738387584686,
+      "text": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands alongside 14,121 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of over 123 million as of 2025, it is the world's 11th most populous country. Tokyo is the country's capital and largest city. The first known habitation of the archipelago dates to the Upper Paleolithic, with the beginning of the Japanese Paleolithic dating to c. 36,000 BC. Between the 4th and 6th centuries, its kingdoms were united under an emperor in Nara and later in Heian-kyō."
+    },
+    {
+      "chunk_id": "wikipedia:North Korea#0000",
+      "doc_id": "wikipedia:North Korea",
+      "title": "North Korea",
+      "url": "https://en.wikipedia.org/?curid=21255",
+      "source_type": "wikipedia",
+      "score": 0.7717361271381378,
+      "text": "North Korea, officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia. It constitutes the northern half of the Korean Peninsula and borders China and Russia to the north at the Yalu (Amnok) and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone (DMZ). The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. North Korea, like South Korea, claims to be the sole legitimate government of the Korean Peninsula and adjacent islands. Pyongyang is the capital and largest city. The Korean Peninsula was first inhabited as early as the Lower Paleolithic period. Its first kingdom was noted in Chinese records in the early 7th century BCE. Following the unification of the Three Kingdoms of Korea into Silla and Balhae in the late 7th century, Korea was ruled by the Goryeo dynasty (918–1392) and the Joseon dynasty (1392–1897)."
+    },
+    {
+      "chunk_id": "wikipedia:Two Whatevers#0001",
+      "doc_id": "wikipedia:Two Whatevers",
+      "title": "Two Whatevers",
+      "url": "https://en.wikipedia.org/?curid=539766",
+      "source_type": "wikipedia",
+      "score": 0.7516137182712554,
+      "text": "\" slogan: \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\". The slogan was underscoring Mao's testament that designated Hua as his successor. It proved a trigger for Deng's manoeuvre in 1978 to implement economic reform policy in China, and eventually led to..."
+    },
+    {
+      "chunk_id": "wikipedia:Middle#0000",
+      "doc_id": "wikipedia:Middle",
+      "title": "Middle",
+      "url": "https://en.wikipedia.org/?curid=854025",
+      "source_type": "wikipedia",
+      "score": 0.63966905772686,
+      "text": "Middle or The Middle may refer to: Centre (geometry), the point equally distant from the outer limits. Places Middle (sheading), a subdivision of the Isle of Man Middle Bay (disambiguation) Middle Brook (disambiguation) Middle Creek (disambiguation) Middle Island (disambiguation) Middle Lake (disambiguation) Middle Mountain, California Middle Peninsula, Chesapeake Bay, Virginia Middle Range, a former name of the Xueshan Range on Taiwan Island Middle River (disambiguation) Middle Rocks, two rocks at the eastern opening of the Straits of Singapore Middle Sound, a bay in North Carolina Middle Township (disambiguation) Middle East Music \"Middle\" (song), 2015 \"The Middle\" (Jimmy Eat World song), 2001 \"The Middle\" (Zedd, Maren Morris and Grey song), 2018 \"Middle\", a song by Rocket from the Crypt from their 1995 album Scream, Dracula, Scream!"
+    },
+    {
+      "chunk_id": "wikipedia:Asia#0000",
+      "doc_id": "wikipedia:Asia",
+      "title": "Asia",
+      "url": "https://en.wikipedia.org/?curid=689",
+      "source_type": "wikipedia",
+      "score": 0.6359861195087433,
+      "text": "Asia ( AY-zhə, UK also AY-shə) is the largest continent in the world by both land area and population. It covers an area of more than 44 million square kilometres, about 30% of Earth's total land area and 8% of Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilisations. Its 4.7 billion people constitute roughly 60% of the world's population. Asia shares the landmass of Eurasia with Europe, and of Afro-Eurasia with both Europe and Africa. In general terms, it is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0001",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.593357503414154,
+      "text": "state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son. The principal, worried for his school's reputation, tries to contain the situation and hides the letter in his office, while the four parents instructs their children to keep quiet. Ho-chang, curious to..."
+    },
+    {
+      "chunk_id": "wikipedia:Asia#0001",
+      "doc_id": "wikipedia:Asia",
+      "title": "Asia",
+      "url": "https://en.wikipedia.org/?curid=689",
+      "source_type": "wikipedia",
+      "score": 0.5634415149688721,
+      "text": "Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them. A commonly accepted division places Asia to the east of the Suez Canal separating it from Africa; and to the east of the Turkish straits, the Ural Mountains and Ural River, and to the south of the Caucasus Mountains and the Caspian and Black seas, separating it from Europe. Since the concept of Asia derives from the term for the eastern region from a European perspective, Asia..."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0001",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.558620274066925,
+      "text": "but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home. Supporting People around Kang-soo Kim Kyung-nam as Sung-jae Kang-soo's friend who is also a deliveryman. Kim Ki-doo as Baek Gong-gi A martial artist who is a leader of the Holy..."
+    },
+    {
+      "chunk_id": "wikipedia:North Korea#0001",
+      "doc_id": "wikipedia:North Korea",
+      "title": "North Korea",
+      "url": "https://en.wikipedia.org/?curid=21255",
+      "source_type": "wikipedia",
+      "score": 0.5315622985363007,
+      "text": "Kingdoms of Korea into Silla and Balhae in the late 7th century, Korea was ruled by the Goryeo dynasty (918–1392) and the Joseon dynasty (1392–1897). The succeeding Korean Empire (1897–1910) was annexed in 1910 into the Empire of Japan. In 1945, after the Japanese surrender at the end of World War II, Korea was divided into two zones along the 38th parallel, with the north occupied by the Soviet Union and the south..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Whatevers#0000",
+      "doc_id": "wikipedia:Two Whatevers",
+      "title": "Two Whatevers",
+      "url": "https://en.wikipedia.org/?curid=539766",
+      "source_type": "wikipedia",
+      "score": 0.5156590104103088,
+      "text": "The \"Two Whatevers\" (Chinese: 两个凡是; pinyin: Liǎng gè fán shì) refers to the statement that \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\" (凡是毛主席作出的决策，我们都坚决维护；凡是毛主席的指示，我们都始终不渝地遵循). This statement was contained in a joint editorial, entitled \"Study the Documents Well and Grasp the Key Link\", printed on 7 February 1977 in People's Daily, the journal Red Flag and the PLA Daily. History The policy was advocated by the Chinese Communist Party chairman Hua Guofeng, Mao's successor, who had earlier ended the Cultural Revolution and arrested the Gang of Four. On a 7 February 1977 editorial titled \"Study the Documents Well and Grasp the Key Link\" which appeared in People's Daily, Red Flag, and People's Liberation Army Daily, Hua articulated the \"Two Whatevers\" slogan: \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\"."
+    }
+  ]
+}

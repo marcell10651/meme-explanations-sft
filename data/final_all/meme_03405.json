@@ -1,0 +1,184 @@
+{
+  "meme_id": "meme_03405",
+  "queries": [
+    "\"Spiderman\" \"does\" \"tho\" \"met\" \"pene\"",
+    "\"met\" \"pene\" \"apeaeetiare\" \"teel\""
+  ],
+  "primary_terms": [
+    "does",
+    "tho",
+    "met",
+    "pene",
+    "apeaeetiare",
+    "teel",
+    "cree"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Artist#0000",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.7359158575534821,
+      "text": "An artist is a person engaged in creating art, or practicing the arts. The most common usage in everyday speech and academic discourse refers to a practitioner in the visual arts only. However, the term is also very widely used in the entertainment business to refer to actors, musicians, singers, dancers , and other performers. The French word artiste is sometimes used in English in this context, although this has become old-fashioned. The use of the term \"artist\" to describe writers is valid, but less common, and mostly restricted to contexts such as critics' reviews; \"author\" is generally used instead. While the use of the word 'artist' is common, there is no agreed upon definition of art—this makes the definition of who is and is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0001",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.6236855745315552,
+      "text": "teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J. Jonah Jameson; friends like Harry Osborn and Flash Thompson; romantic interests like Gwen Stacy, Mary Jane Watson, and the Black Cat; and enemies such as Doctor Octopus, the Green Goblin, and Venom. In his origin story, Peter gets his superhuman spider-powers and abilities after he was bitten..."
+    },
+    {
+      "chunk_id": "wikipedia:Timon#0001",
+      "doc_id": "wikipedia:Timon",
+      "title": "Timon",
+      "url": "https://en.wikipedia.org/?curid=358706",
+      "source_type": "wikipedia",
+      "score": 0.53550506234169,
+      "text": "the title character of The History of Timon of Athens the Man-hater, a rewrite of Shakespeare's original play by Thomas Shadwell Timon, a film and television character, originally from the film The Lion King Timon (Rome character), in the 2005 television series Rome Timon, one of the minor characters in the 2017 Netflix series, Big Mouth (American..."
+    },
+    {
+      "chunk_id": "wikipedia:Hand#0000",
+      "doc_id": "wikipedia:Hand",
+      "title": "Hand",
+      "url": "https://en.wikipedia.org/?curid=19166474",
+      "source_type": "wikipedia",
+      "score": 0.5128111898899078,
+      "text": "A hand is a prehensile, multi-fingered appendage located at the end of the forearm or forelimb of primates such as humans, chimpanzees, monkeys, and lemurs. A few other vertebrates such as the koala (which has two opposable thumbs on each \"hand\" and fingerprints extremely similar to human fingerprints) are often described as having \"hands\" instead of paws on their front limbs. The raccoon is usually described as having \"hands\" though opposable thumbs are lacking. Some evolutionary anatomists use the term hand to refer to the appendage of digits on the forelimb more generally—for example, in the context of whether the three digits of the bird hand involved the same homologous loss of two digits as in the dinosaur hand. The human hand usually has five digits: four fingers plus one thumb; however, these are often referred to collectively as five fingers, whereby the thumb is included as one of the fingers."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0001",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.47380566596984863,
+      "text": "2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a Singaporean film directed by Tzu Nyen Ho Here (2011 film), an American drama directed by Braden King Here (2023 film), a Belgian film directed by Bas Devos Here (2024 film), an American drama directed..."
+    },
+    {
+      "chunk_id": "wikipedia:Spider#0000",
+      "doc_id": "wikipedia:Spider",
+      "title": "Spider",
+      "url": "https://en.wikipedia.org/?curid=28329803",
+      "source_type": "wikipedia",
+      "score": 0.47206476926803587,
+      "text": "Spiders (order Araneae) are air-breathing arthropods that have eight limbs, chelicerae with fangs generally able to inject venom, and spinnerets that extrude silk. They are the largest order of arachnids and rank seventh in total species diversity among all orders of organisms. Spiders are found worldwide on every continent except Antarctica, and have become established in nearly every land habitat. As of December 2025, 53,608 spider species in 139 families have been recorded by taxonomists. However, there has been debate among scientists about how families should be classified, with over 20 different classifications proposed since 1900. Anatomically, spiders (as with all arachnids) differ from other arthropods in that the usual body segments are fused into two tagmata, the cephalothorax or prosoma, and the opisthosoma, or abdomen, and joined by a small, cylindrical pedicel."
+    },
+    {
+      "chunk_id": "wikipedia:Tanna#0001",
+      "doc_id": "wikipedia:Tanna",
+      "title": "Tanna",
+      "url": "https://en.wikipedia.org/?curid=4651537",
+      "source_type": "wikipedia",
+      "score": 0.44775405526161194,
+      "text": "2015 film set on the island of Tanna, Vanuatu Tanna languages, a subgroup of the South Vanuatu languages See also Tana (disambiguation) All pages with titles beginning with Tanna All pages with titles containing Tanna"
+    },
+    {
+      "chunk_id": "wikipedia:The Lady Doctor#0001",
+      "doc_id": "wikipedia:The Lady Doctor",
+      "title": "The Lady Doctor",
+      "url": "https://en.wikipedia.org/?curid=46194248",
+      "source_type": "wikipedia",
+      "score": 0.4143161177635193,
+      "text": "the case, which will turn out to be a mess. Cast Totò as Michele Spillone aka Mike Vittorio De Sica as Marquis Vittorio de Vitti Abbe Lane as Dr. Brigitte Baker Titina De Filippo as Marquise de Vitti Germán Cobos as Lawyer Otello Bellomo Pierre Mondy as Romeo Agostino Salvietti as Gennaro Tecla Scarano as Ada Barbalunga Darry Cowl as Egisto Rafael Bardem as Elia Vagoni Luigi Pavese as Head of the investigative agency Franco Coop as La Conchiglia's Maitre Giulio Calì as Fool from Villa Valeria Dante Maggio as La Conchiglia's Waiter Teddy Reno as Himself Antonio..."
+    },
+    {
+      "chunk_id": "wikipedia:Jonathan Demme#0000",
+      "doc_id": "wikipedia:Jonathan Demme",
+      "title": "Jonathan Demme",
+      "url": "https://en.wikipedia.org/?curid=16069",
+      "source_type": "wikipedia",
+      "score": 0.4101627290248871,
+      "text": "Robert Jonathan Demme ( DEM-ee; February 22, 1944 – April 26, 2017) was an American filmmaker, whose career directing, producing, and screenwriting spanned more than 30 years and 70 feature films, documentaries, and television productions. He was an Academy Award and a Directors Guild of America Award winner, and received nominations for a BAFTA Award, a Golden Globe Award, and three Independent Spirit Awards. Beginning his career under B-movie producer Roger Corman, Demme made his directorial debut with the 1974 women-in-prison film Caged Heat, before becoming known for his casually humanist films such as Melvin and Howard (1980), Swing Shift (1984), Something Wild (1986), and Married to the Mob (1988). His 1991 psychological horror film The Silence of the Lambs, based on the novel of the same title, won five Academy Awards, including Best Director and Best Picture."
+    },
+    {
+      "chunk_id": "wikipedia:Finger#0000",
+      "doc_id": "wikipedia:Finger",
+      "title": "Finger",
+      "url": "https://en.wikipedia.org/?curid=37618",
+      "source_type": "wikipedia",
+      "score": 0.40245957374572755,
+      "text": "A finger is a prominent digit on the forelimbs of most tetrapod vertebrate animals, especially those with prehensile extremities (i.e. hands) such as humans and other primates. Most tetrapods have five digits (pentadactyly), and short digits (i.e. significantly shorter than the metacarpal/metatarsals) are typically referred to as toes, while those that are notably elongated are called fingers. In humans, the fingers are flexibly articulated and opposable, serving as an important organ of tactile sensation and fine movements, which are crucial to the dexterity of the hands and the ability to grasp and manipulate objects Humans Usually humans have five digits, the bones of which are termed phalanges, on each hand, although some people have more or fewer than five due to congenital disorders such as polydactyly or oligodactyly, or accidental or intentional amputations. The first digit is the thumb, followed by the index finger, middle finger, ring finger, and little finger or pinkie."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Spiderman is crouching on a roof and looks at a wall.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Spiderman"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that how interested and obsessed they're in seeing something everywhere",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "something"
+        ]
+      },
+      "title": {
+        "text": "How does he do it tho?",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "does",
+          "tho"
+        ]
+      },
+      "text": {
+        "text": "es Se Ce ee 1 a - met AY mv } ' “ 7\" . . a t~. JE pene . ar ‘| —j apeaeeTiare = \\ ee Teel Sr ee ; > aN we Cree , ty . ” a '",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "met",
+          "pene",
+          "apeaeetiare",
+          "teel",
+          "cree"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "does",
+      "tho",
+      "met",
+      "pene",
+      "apeaeetiare",
+      "teel",
+      "cree"
+    ],
+    "secondary_terms": [
+      "Spiderman",
+      "something"
+    ],
+    "queries": [
+      "\"Spiderman\" \"does\" \"tho\" \"met\" \"pene\"",
+      "\"met\" \"pene\" \"apeaeetiare\" \"teel\""
+    ]
+  },
+  "source_jsonl_id": null
+}

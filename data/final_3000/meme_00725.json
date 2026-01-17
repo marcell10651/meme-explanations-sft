@@ -1,0 +1,192 @@
+{
+  "meme_id": "meme_00725",
+  "queries": [
+    "\"your full name\" \"Pleas\" \"help\" \"lad\"",
+    "\"help\" \"lad\" \"mother\" \"calls\""
+  ],
+  "primary_terms": [
+    "Pleas",
+    "help",
+    "your mother",
+    "your full name",
+    "lad",
+    "mother",
+    "calls",
+    "full",
+    "name"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Lady#0000",
+      "doc_id": "wikipedia:Lady",
+      "title": "Lady",
+      "url": "https://en.wikipedia.org/?curid=555643",
+      "source_type": "wikipedia",
+      "score": 0.8720220744609832,
+      "text": "A lady is a woman who behaves in a polite way. Once used to describe only women of a high social class or status, the female counterpart of lord, now it may refer to any adult woman, as gentleman can be used for men. \"Lady\" is also a formal title in the United Kingdom. \"Lady\" is used before the family name or peerage of a woman with a title of nobility or honorary title suo jure (in her own right), such as female members of the Order of the Garter and Order of the Thistle, or the wife of a lord, a baronet, Scottish feudal baron, laird, or a knight, and also before the first name of the daughter of a duke, marquess, or earl. Etymology The word comes from Old English hlǣfdige; the first part of the word is a mutated form of hlāf, \"loaf, bread\", also seen in the corresponding hlāford, \"lord\"."
+    },
+    {
+      "chunk_id": "wikipedia:Please#0001",
+      "doc_id": "wikipedia:Please",
+      "title": "Please",
+      "url": "https://en.wikipedia.org/?curid=63658677",
+      "source_type": "wikipedia",
+      "score": 0.8424737215042114,
+      "text": "you please, an intransitive, ergative form taken from if it please you, which is in turn a calque of the French s'il vous plaît, which replaced pray. The exact time frame of the shortening is unknown, though it has been noted that this form appears not to have been known to William Shakespeare, for whom \"please you\" is the shortest form used in any of his works. A variation of the phrase, \"may it please the court\", remains in use as a formality for attorneys addressing judges in legal proceedings. Despite its straightforward definition..."
+    },
+    {
+      "chunk_id": "wikipedia:Help#0001",
+      "doc_id": "wikipedia:Help",
+      "title": "Help",
+      "url": "https://en.wikipedia.org/?curid=17344601",
+      "source_type": "wikipedia",
+      "score": 0.7707364916801452,
+      "text": "Slayer) \"Help\" (The Gentle Touch) \"Help\", an episode of The Protector \"Help\" (Spaced) \"The Help\" (Modern Family) Literature Help! (magazine) Help!! (manga) The Help, a historical novel by Kathryn Stockett Music Help (band), an American rock band Albums The Help Album, a musical compilation album to benefit the War Child charity Help (Blackbear album) Help (Thee Oh Sees album) Help!, the 1965..."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0000",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.6412346482276916,
+      "text": "Fuck () is a profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives (such as fucker and fucking) are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off. Offensiveness It is unclear whether the word has always been considered a pejorative or, if not, when it first came to be used to describe (often in an extremely angry, hostile, or belligerent manner) unpleasant circumstances or people in an intentionally offensive way, such as in the term motherfucker, one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio."
+    },
+    {
+      "chunk_id": "wikipedia:Donald#0001",
+      "doc_id": "wikipedia:Donald",
+      "title": "Donald",
+      "url": "https://en.wikipedia.org/?curid=793569",
+      "source_type": "wikipedia",
+      "score": 0.6074695348739624,
+      "text": "Cumbric Dumnagual. Although the feminine given name Donna is sometimes used as a feminine form of Donald, the names are not etymologically related. Variations Kings and noblemen Domnall or Domhnall is the name of many ancient and medieval Gaelic kings and noblemen: Dyfnwal Moelmud (Dunvallo Molmutius), legendary king of pre-Roman Britain Dyfnwal Hen (Dumnagual I), Ruler of Alt Clut (Strathclyde) (450–475) Domnall Brecc, king of Dál Riata (d. 642) Domnall mac Áedo, High King of the Northern Uí Néill and Ireland (d. 642) Domnall Midi, High King of Clann Cholmáin and Ireland (d. 763) Domnall mac..."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.5882758855819702,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Miss#0000",
+      "doc_id": "wikipedia:Miss",
+      "title": "Miss",
+      "url": "https://en.wikipedia.org/?curid=23807088",
+      "source_type": "wikipedia",
+      "score": 0.5670528173446655,
+      "text": "Miss (pronounced ) is an English-language honorific typically used for a girl, for an unmarried woman (when not using another title such as \"Doctor\" or \"Dame\"), or for a married woman retaining her maiden name. Originating in the 17th century, it is a contraction of mistress. The plural of Miss is Misses or occasionally Mses. History Origins Like Ms and Mrs, Miss has its roots in the title Mistress. Miss was originally a title given primarily to children rather than adults. During the 1700s, its usage broadened to encompass adult women. The title emerged as a polite way to address women, reflecting changing societal norms and class distinctions. Prior to this, referring to an adult woman as a Miss might have carried connotations of prostitution. Evolution of meanings and usage The meanings of both Miss and Mrs underwent transformations over time. Historically, these titles did not solely indicate marital status."
+    },
+    {
+      "chunk_id": "wikipedia:Mama#0000",
+      "doc_id": "wikipedia:Mama",
+      "title": "Mama",
+      "url": "https://en.wikipedia.org/?curid=383334",
+      "source_type": "wikipedia",
+      "score": 0.5481618225574494,
+      "text": "Mama(s) or Mamma or Momma may refer to: Roles Mother, a female parent Mama-san, in Japan and East Asia, a woman in a position of authority Maternal uncle, in some parts of South Asia Places Mama, Russia, an urban-type settlement in the Mamsko-Chuysky District of Irkutsk Oblast, Russia Mama Airport, an airport located near the settlement Mama (river), a tributary of the Vitim of which the settlement takes its name Mama Municipality, Yucatán, a municipality Mama, Yucatán, the municipal seat of the Mama Municipality, Yucatán Anatomy The breast, the upper ventral region of a mammal's torso; see: Mamma (anatomy) of humans Mammary gland of female mammals Udder of female quadruped mammals Art, entertainment, and media People and fictional characters Big Bad Mama, stage name of Lynn Braxton, professional wrestler from the Gorgeous Ladies of Wrestling Big Mama, former manager of American professional wrestler Jimmy Valiant (born 1942) Gemma Teller Morrow, a character on The Sons of Anarchy"
+    },
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0000",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.48270214796066285,
+      "text": "Mr. Harrigan's Phone is a 2022 American supernatural coming-of-age horror film written and directed by John Lee Hancock. It is based on the novella of the same name by Stephen King from the collection If It Bleeds. The film stars Donald Sutherland, Jaeden Martell, Joe Tippett, and Kirby Howell-Baptiste. It follows Craig who has a strong friendship with retired businessman John Harrigan; both get their first iPhones after the former wins a lottery. Despite the latter's death, a supernatural connection persists between them through their phones, one of which is buried alongside Harrigan. Mr. Harrigan's Phone was released on October 5, 2022, by Netflix. The film received mixed reviews from critics. Plot In 2003, young Craig Poole becomes acquainted with retired businessman John Harrigan following the death of his mother, Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.47122228145599365,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "An animated scene of an office, with a blue chair in front of a grey desk with a computer.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "front"
+        ]
+      },
+      "meme_captions": {
+        "text": "Poster is scared when mom uses full given name.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "mom",
+          "full given name"
+        ]
+      },
+      "title": {
+        "text": "Pleas help",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Pleas",
+          "help"
+        ]
+      },
+      "text": {
+        "text": "oT a ed — S LAD O ps When your mother calls you by your full name",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "your mother",
+          "your full name",
+          "lad",
+          "mother",
+          "calls",
+          "full",
+          "name"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Pleas",
+      "help",
+      "your mother",
+      "your full name",
+      "lad",
+      "mother",
+      "calls",
+      "full",
+      "name"
+    ],
+    "secondary_terms": [
+      "front",
+      "mom",
+      "full given name"
+    ],
+    "queries": [
+      "\"your full name\" \"Pleas\" \"help\" \"lad\"",
+      "\"help\" \"lad\" \"mother\" \"calls\""
+    ]
+  },
+  "source_jsonl_id": null
+}

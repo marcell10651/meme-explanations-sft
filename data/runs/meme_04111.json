@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_04111",
+  "queries": [
+    "\"Iranian\" \"— WOBIA COURSE\" \"Roper tain\" \"the regime\" \"stand\"",
+    "\"the regime\" \"stand\" \"fight\" \"regime\""
+  ],
+  "primary_terms": [
+    "the regime",
+    "stand",
+    "fight",
+    "regime",
+    "together",
+    "foe",
+    "— WOBIA COURSE",
+    "Roper tain",
+    "madelwith"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Politics#0001",
+      "doc_id": "wikipedia:Politics",
+      "title": "Politics",
+      "url": "https://en.wikipedia.org/?curid=22986",
+      "source_type": "wikipedia",
+      "score": 0.6271135658025742,
+      "text": "it should be used extensively or in a limited way, empirically or normatively, and on whether conflict or co-operation is more essential to it. A variety of methods are deployed in politics, which include promoting one's own political views among people, negotiation with other political subjects, making laws, and exercising internal and external force, including warfare against adversaries. Politics is exercised on a wide range of social levels, from clans and tribes of traditional societies, through modern local governments, companies and institutions up to sovereign..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Whatevers#0001",
+      "doc_id": "wikipedia:Two Whatevers",
+      "title": "Two Whatevers",
+      "url": "https://en.wikipedia.org/?curid=539766",
+      "source_type": "wikipedia",
+      "score": 0.5102144330739975,
+      "text": "\" slogan: \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\". The slogan was underscoring Mao's testament that designated Hua as his successor. It proved a trigger for Deng's manoeuvre in 1978 to implement economic reform policy in China, and eventually led to..."
+    },
+    {
+      "chunk_id": "wikipedia:State#0000",
+      "doc_id": "wikipedia:State",
+      "title": "State",
+      "url": "https://en.wikipedia.org/?curid=290282",
+      "source_type": "wikipedia",
+      "score": 0.4877706617116928,
+      "text": "State most commonly refers to: State (polity), a centralized political organization that regulates law and society within a territory Sovereign state, a sovereign polity in international law, commonly referred to as a country Nation state, a state where the majority identify with a single nation (with shared culture or ethnic group) Constituent state, a political subdivision of a state Federated state, constituent states part of a federation (examples below) State of nature, a concept within philosophy that describes the way humans acted before forming societies or civilizations State may also refer to: Arts, entertainment, and media Literature State Magazine, a monthly magazine published by the U.S."
+    },
+    {
+      "chunk_id": "wikipedia:North Korea#0001",
+      "doc_id": "wikipedia:North Korea",
+      "title": "North Korea",
+      "url": "https://en.wikipedia.org/?curid=21255",
+      "source_type": "wikipedia",
+      "score": 0.4743165224790573,
+      "text": "Kingdoms of Korea into Silla and Balhae in the late 7th century, Korea was ruled by the Goryeo dynasty (918–1392) and the Joseon dynasty (1392–1897). The succeeding Korean Empire (1897–1910) was annexed in 1910 into the Empire of Japan. In 1945, after the Japanese surrender at the end of World War II, Korea was divided into two zones along the 38th parallel, with the north occupied by the Soviet Union and the south..."
+    },
+    {
+      "chunk_id": "wikipedia:Politics#0000",
+      "doc_id": "wikipedia:Politics",
+      "title": "Politics",
+      "url": "https://en.wikipedia.org/?curid=22986",
+      "source_type": "wikipedia",
+      "score": 0.47018247842788696,
+      "text": "Politics is the set of activities that are associated with making decisions in groups, or other forms of power relations among individuals, such as the distribution of status or resources. The branch of social science that studies politics and government is referred to as political science. Politics may be used positively in the context of a \"political solution\" which is compromising and non-violent, or descriptively as \"the art or science of government\", but the word often also carries a negative connotation. The concept has been defined in various ways, and different approaches have fundamentally differing views on whether it should be used extensively or in a limited way, empirically or normatively, and on whether conflict or co-operation is more essential to it."
+    },
+    {
+      "chunk_id": "wikipedia:Two Whatevers#0000",
+      "doc_id": "wikipedia:Two Whatevers",
+      "title": "Two Whatevers",
+      "url": "https://en.wikipedia.org/?curid=539766",
+      "source_type": "wikipedia",
+      "score": 0.46244144439697266,
+      "text": "The \"Two Whatevers\" (Chinese: 两个凡是; pinyin: Liǎng gè fán shì) refers to the statement that \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\" (凡是毛主席作出的决策，我们都坚决维护；凡是毛主席的指示，我们都始终不渝地遵循). This statement was contained in a joint editorial, entitled \"Study the Documents Well and Grasp the Key Link\", printed on 7 February 1977 in People's Daily, the journal Red Flag and the PLA Daily. History The policy was advocated by the Chinese Communist Party chairman Hua Guofeng, Mao's successor, who had earlier ended the Cultural Revolution and arrested the Gang of Four. On a 7 February 1977 editorial titled \"Study the Documents Well and Grasp the Key Link\" which appeared in People's Daily, Red Flag, and People's Liberation Army Daily, Hua articulated the \"Two Whatevers\" slogan: \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\"."
+    },
+    {
+      "chunk_id": "wikipedia:Together#0000",
+      "doc_id": "wikipedia:Together",
+      "title": "Together",
+      "url": "https://en.wikipedia.org/?curid=341237",
+      "source_type": "wikipedia",
+      "score": 0.44051669239997865,
+      "text": "Together may refer to: Literature Together (book), a 2005 children's book by Dimitrea Tokunbo and Jennifer Gwynne Oliver Together (magazine), an international lifestyle magazine Organizations Together for Mental Wellbeing, a UK mental health charity Together campaign, by US cities, to help consumers fight climate change Together (Australia), a trade union in the state of Queensland, Australia Spolu (Czech Republic) (Together), a centre-right coalition of parties in the Czech Republic Together (Belarus), opposition liberal unregistered party of Belarus Together (political bloc), a pro-European political bloc in Moldova Together (Hungary), a social-liberal political party in Hungary Together (Italy), a progressive coalition of parties in Italy Together (Serbia), a green political party in Serbia Together for Serbia, defunct political party in Serbia Ensemble!"
+    },
+    {
+      "chunk_id": "wikipedia:Country#0001",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.4353504329919815,
+      "text": "of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time. The Economist wrote in 2010 that \"any attempt to find a clear definition of a country soon runs into a thicket of exceptions and anomalies.\" Areas much smaller than a political entity may be referred..."
+    },
+    {
+      "chunk_id": "wikipedia:Japan#0001",
+      "doc_id": "wikipedia:Japan",
+      "title": "Japan",
+      "url": "https://en.wikipedia.org/?curid=15573",
+      "source_type": "wikipedia",
+      "score": 0.42661599814891815,
+      "text": "Paleolithic dating to c. 36,000 BC. Between the 4th and 6th centuries, its kingdoms were united under an emperor in Nara and later in Heian-kyō. From the 12th century, actual power was held by military aristocrats known as shōgun and feudal lords called daimyō, enforced by warrior nobility named samurai. After rule by the Kamakura and Ashikaga shogunates and..."
+    },
+    {
+      "chunk_id": "wikipedia:Civil war#0000",
+      "doc_id": "wikipedia:Civil war",
+      "title": "Civil war",
+      "url": "https://en.wikipedia.org/?curid=7085",
+      "source_type": "wikipedia",
+      "score": 0.36666640639305115,
+      "text": "A civil war is a war between organized groups within the same state (or country). The aim of one side may be to take control of the country or a region, to achieve independence for a region, or to change government policies. The term is a calque of Latin bellum civile which was used to refer to the various civil wars of the Roman Republic in the 1st century BC. Civil here means \"of/related to citizens\", a civil war being a war between the citizenry, rather than with an outsider. Most modern civil wars involve intervention by outside powers. According to Patrick M. Regan in his book Civil Wars and Foreign Powers (2000) about two thirds of the 138 intrastate conflicts between the end of World War II and 2000 saw international intervention. A civil war is often a high-intensity conflict, often involving regular armed forces, that is sustained, organized and large-scale. Civil wars may result in large numbers of casualties and the consumption of significant resources."
+    }
+  ]
+}

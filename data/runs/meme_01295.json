@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_01295",
+  "queries": [
+    "\"Humans\" \"Bats\" \"the shadows\" \"the dark\"",
+    "\"the shadows\" \"the dark\" \"well-built eyes\" \"think\""
+  ],
+  "primary_terms": [
+    "the shadows",
+    "think",
+    "hiding",
+    "shadows",
+    "Humans",
+    "flashlight",
+    "the dark",
+    "well-built eyes",
+    "Bats"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Down#0001",
+      "doc_id": "wikipedia:Down",
+      "title": "Down",
+      "url": "https://en.wikipedia.org/?curid=8550",
+      "source_type": "wikipedia",
+      "score": 0.6523688793182373,
+      "text": "American rapper Film and television Down (film), a 2001 English remake of the film De Lift \"Down\" (Breaking Bad), an episode of the second season of Breaking Bad \"Down\" (Into the Dark), an episode of the first season of Into the Dark Literature Down (comics), a comic book published by Top Cow Productions Down (novel), a 1997..."
+    },
+    {
+      "chunk_id": "wikipedia:Ghost#0000",
+      "doc_id": "wikipedia:Ghost",
+      "title": "Ghost",
+      "url": "https://en.wikipedia.org/?curid=12514",
+      "source_type": "wikipedia",
+      "score": 0.644577807188034,
+      "text": "In folklore, a ghost is the soul or spirit of a dead person or non-human animal that is believed by some people to be able to appear to the living. In ghostlore, descriptions of ghosts vary widely, from an invisible presence to translucent or barely visible wispy shapes to realistic, lifelike forms, whether they resemble humans or animals. The deliberate attempt to contact the spirit of a deceased person is known as necromancy, or in spiritism as a séance. Other terms associated with it are apparition, haunt, haint, phantom, poltergeist, shade, specter, spirit, spook, wraith, demon, and ghoul. The belief in the existence of an afterlife, as well as manifestations of the spirits of the dead, is widespread, dating back to animism or ancestor worship in pre-literate cultures. Certain religious practices—funeral rites, exorcisms, and some practices of spiritualism and ritual magic—are specifically designed to rest the spirits of the dead."
+    },
+    {
+      "chunk_id": "wikipedia:Black#0000",
+      "doc_id": "wikipedia:Black",
+      "title": "Black",
+      "url": "https://en.wikipedia.org/?curid=4035",
+      "source_type": "wikipedia",
+      "score": 0.6430985391139984,
+      "text": "Black is a color that results from the absence or complete absorption of visible light. It is an achromatic color, without chroma, like white and grey. It is often used symbolically or figuratively to represent darkness. Black and white have often been used to describe opposites such as good and evil, the Dark Ages versus the Age of Enlightenment, and night versus day. Since the Middle Ages, black has been the symbolic color of solemnity and authority, and for this reason it is still commonly worn by judges and magistrates. Black was one of the first colors used by artists in Neolithic cave paintings. It was used in ancient Egypt and Greece as the color of the underworld. In the Roman Empire, it became the color of mourning, and over the centuries it was frequently associated with death, evil, witches, and magic. In the 14th century, it was worn by royalty, clergy, judges, and government officials in much of Europe."
+    },
+    {
+      "chunk_id": "wikipedia:Following#0000",
+      "doc_id": "wikipedia:Following",
+      "title": "Following",
+      "url": "https://en.wikipedia.org/?curid=23011287",
+      "source_type": "wikipedia",
+      "score": 0.5502984523773193,
+      "text": "Following is a 1998 British independent neo-noir crime thriller film written, produced, directed, photographed, and edited by Christopher Nolan in his feature film directorial debut. It tells the story of a young man who follows strangers around the streets of London and is drawn into a criminal underworld when he fails to keep his distance. The film was designed to be as inexpensive as possible to make. Scenes were heavily rehearsed so just one or two takes were needed to economise on 16mm film stock, the production's greatest expense, and for which Nolan was paying from his salary. Unable to afford expensive professional lighting equipment, Nolan mostly used available light. Along with writing, directing, and photographing the film, Nolan helped in editing and production. The film was released by The Criterion Collection on both Blu-ray and DVD in North America on 11 December 2012."
+    },
+    {
+      "chunk_id": "wikipedia:Feels#0000",
+      "doc_id": "wikipedia:Feels",
+      "title": "Feels",
+      "url": "https://en.wikipedia.org/?curid=68447223",
+      "source_type": "wikipedia",
+      "score": 0.4940023571252823,
+      "text": "Feels or The Feels may refer to: Albums Feels (Animal Collective album), 2005 Feels (Snoh Aalegra album), 2017 Songs \"Feels\" (song), a 2017 song and single by Calvin Harris off the album Funk Wav Bounces Vol. 1 \"Feels\" (Snoh Aalegra song), a 2017 song by Snoh Aalegra, the title track off the eponymous album Feels (Snoh Aalegra album) \"The Feels\" (song), a 2021 song by Twice \"F.E.E.L.S.\", a 2021 music video and song by Tory Lanez Other uses The Feels (film), a 2017 film by Jenée LaMarque See also All the Feels (album), 2019 album by Fitz and the Tantrums Feel (disambiguation) All pages with titles beginning with Feels All pages with titles containing Feels"
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0001",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.46216654777526855,
+      "text": "sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep. Synonyms In boarding schools and on trips or holidays that involve young people, the equivalent of bedtime is lights out or lights-out - this term is also used in prisons, hospitals, in the military, and in sleep research..."
+    },
+    {
+      "chunk_id": "wikipedia:Quiet#0000",
+      "doc_id": "wikipedia:Quiet",
+      "title": "Quiet",
+      "url": "https://en.wikipedia.org/?curid=1612819",
+      "source_type": "wikipedia",
+      "score": 0.46196912229061127,
+      "text": "Quiet may refer to: Silence, a relative or total lack of sound In music The Quiett (born 1985), South Korean rapper Quiet (album), a 1996 John Scofield album \"Quiet\", a song by Lights, from her album The Listening (2009) \"Quiet\" (MILCK song), a 2017 song written for the 2017 Women's March in Washington, D.C. Quiet (EP), a 2007 EP by Jim Ward \"Quiet\" (This Will Destroy You song), 2006 \"Quiet\" (Lil' Kim song), a song by Lil' Kim \"Quiet\", a song by Alien Ant Farm, from their 2003 albumTruant \"Quiet\", a song by Camila Cabello, from her album Familia (2022) \"Quiet\", a song by Demi Lovato, from her album Here We Go Again (2009) \"Quiet\", a song by The Smashing Pumpkins, from their album Siamese Dream (1993) \"Quiet\", a song by the Player Piano from their album Satellite (2007) \"Quiet\", a song by Royce da 5'9\", from his album Layers (2016) The Quiet, an album by Bella Morte \"Quiet\", a song by Tim Minchin from the musical Matilda In religion Prayer of Quiet, a term from Christian theology"
+    },
+    {
+      "chunk_id": "wikipedia:Light#0000",
+      "doc_id": "wikipedia:Light",
+      "title": "Light",
+      "url": "https://en.wikipedia.org/?curid=17939",
+      "source_type": "wikipedia",
+      "score": 0.4553735852241516,
+      "text": "Light, visible light, or visible radiation is electromagnetic radiation that can be perceived by the human eye. Visible light spans the visible spectrum and is usually defined as having wavelengths in the range of 400–700 nanometres (nm), corresponding to frequencies of 750–420 terahertz. The visible band sits adjacent to the infrared (with longer wavelengths and lower frequencies) and the ultraviolet (with shorter wavelengths and higher frequencies), called collectively optical radiation. In physics, the term \"light\" may refer more broadly to electromagnetic radiation of any wavelength, whether visible or not. In this sense, gamma rays, X-rays, microwaves and radio waves are also light. This is why visible radiation is commonly termed visible light. The primary properties of light are intensity, propagation direction, frequency or wavelength spectrum, and polarization. Its speed in vacuum, 299792458 m/s, is one of the fundamental constants of nature."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.3792141526271119,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Color#0000",
+      "doc_id": "wikipedia:Color",
+      "title": "Color",
+      "url": "https://en.wikipedia.org/?curid=5921",
+      "source_type": "wikipedia",
+      "score": 0.3785147428512573,
+      "text": "Color (or colour in Commonwealth English; see spelling differences) is the visual perception based on the electromagnetic spectrum. Though color is not an inherent property of matter, color perception is related to an object's light absorption, emission, reflection and transmission. For most humans, visible wavelengths of light are the ones perceived in the visible light spectrum, with three types of cone cells (trichromacy). Other animals may have a different number of cone cell types or have eyes sensitive to different wavelengths, such as bees that can distinguish ultraviolet, and thus have a different color sensitivity range. Animal perception of color originates from different light wavelength or spectral sensitivity in cone cell types, which is then processed by the brain. Colors have perceived properties such as hue, colorfulness, and lightness. Colors can also be additively mixed (mixing light) or subtractively mixed (mixing pigments)."
+    }
+  ]
+}

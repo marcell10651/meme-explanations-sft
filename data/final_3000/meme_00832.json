@@ -1,0 +1,189 @@
+{
+  "meme_id": "meme_00832",
+  "queries": [
+    "\"AdBlock Detected\" \"AdBlock\" \"saw\" \"popup\"",
+    "\"saw\" \"popup\" \"website\" \"loading\""
+  ],
+  "primary_terms": [
+    "this popup",
+    "saw",
+    "popup",
+    "website",
+    "AdBlock Detected",
+    "AdBlock",
+    "some features",
+    "loading"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Reddit#0001",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.521076774597168,
+      "text": ". It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world. According to data provided by Similarweb, 51.75% of the website traffic comes from the United States, followed by Canada at 7.01%, the United Kingdom at 6.97%, Australia at 3.97%, Germany at 3%, and the remaining 28.37% split among other countries. Reddit was founded by University of Virginia roommates Steve Huffman and Alexis Ohanian in June 2005, who were joined..."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube#0000",
+      "doc_id": "wikipedia:YouTube",
+      "title": "YouTube",
+      "url": "https://en.wikipedia.org/?curid=3524766",
+      "source_type": "wikipedia",
+      "score": 0.4996751308441162,
+      "text": "YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen, who were former employees of PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google. In January 2024, YouTube had more than 2.7 billion monthly active users, who collectively watched more than one billion hours of videos every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of content per minute, and as of mid-2024, there were approximately 14.8 billion videos in total. On November 13, 2006, YouTube was purchased by Google for US$1.65 billion (equivalent to $2.39 billion in 2024). Google expanded YouTube's business model from generating revenue through advertisements alone to offering paid content such as movies and exclusive content explicitly produced for YouTube."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube Premium#0001",
+      "doc_id": "wikipedia:YouTube Premium",
+      "title": "YouTube Premium",
+      "url": "https://en.wikipedia.org/?curid=44382466",
+      "source_type": "wikipedia",
+      "score": 0.4109395444393158,
+      "text": "relaunched as YouTube Red on October 21, 2015, expanding its scope to offer advertisement-free access to all YouTube videos, as opposed to just music. YouTube announced the rebranding of the service as YouTube Premium on May 17, 2018, alongside the return of YouTube Music as a separate subscription service. Later in the year, it was reported that YouTube was planning to make some of the original content associated with the service available on an ad-supported basis. ��2�..."
+    },
+    {
+      "chunk_id": "wikipedia:Propaganda#0001",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 0.37210688591003416,
+      "text": "which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites. More recently, the digital age has given rise to new ways of disseminating propaganda, for example, in computational propaganda, bots and algorithms are used to manipulate public opinion, e.g., by creating fake or biased news to spread it on social media or using chatbots to mimic real people in discussions..."
+    },
+    {
+      "chunk_id": "wikipedia:Jaws (film)#0001",
+      "doc_id": "wikipedia:Jaws (film)",
+      "title": "Jaws (film)",
+      "url": "https://en.wikipedia.org/?curid=74830",
+      "source_type": "wikipedia",
+      "score": 0.36586137115955353,
+      "text": "1974, Jaws was the first major motion picture to be shot on the ocean and consequently had a troubled production, going over budget and schedule. As the art department's mechanical sharks often malfunctioned, Spielberg decided to mostly suggest the shark's presence, employing an ominous and minimalist theme created by composer John Williams to indicate its impending appearances. Spielberg and others have compared this suggestive approach to that of director Alfred Hitchcock. Universal Pictures released the film..."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0001",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.3570279240608215,
+      "text": "by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites. The Internet has enabled and accelerated new forms of personal interaction through instant messaging, Internet forums, and social networking services. Online shopping has also grown to occupy a significant market across industries, enabling firms to extend brick and mortar presences..."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube Premium#0000",
+      "doc_id": "wikipedia:YouTube Premium",
+      "title": "YouTube Premium",
+      "url": "https://en.wikipedia.org/?curid=44382466",
+      "source_type": "wikipedia",
+      "score": 0.35445481538772583,
+      "text": "YouTube Premium (formerly Music Key and YouTube Red) is a subscription service offered by the American video platform YouTube. The service provides ad-free access to content across the service, as well as access to exclusive YouTube Originals programming produced in collaboration with the site's creators, ability to download videos and listen background playback of videos on mobile devices, and access to the music streaming service, YouTube Music, along with other benefits. It has over 125 million subscribers. The service was launched on November 14, 2014, as Music Key, offering advertisement-free streaming of music videos from participating labels on YouTube and Google Play Music. The service was then revised and relaunched as YouTube Red on October 21, 2015, expanding its scope to offer advertisement-free access to all YouTube videos, as opposed to just music."
+    },
+    {
+      "chunk_id": "wikipedia:Watch#0001",
+      "doc_id": "wikipedia:Watch",
+      "title": "Watch",
+      "url": "https://en.wikipedia.org/?curid=60883",
+      "source_type": "wikipedia",
+      "score": 0.332611620426178,
+      "text": "of the watch market, in what became known as the quartz revolution (or the quartz crisis in Switzerland, whose renowned watch industry it decimated). In the 2010s, smartwatches emerged, small wrist-worn computers with touchscreens and with functions that go far beyond timekeeping. Modern watches often display the day, date, month, and year. Mechanical watches may have extra features..."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.3274247795343399,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.32589109241962433,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man with long hair is wearing different grey robes.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "long hair",
+          "different grey robes"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster feels like the the computer is alerting them to what they wanted the ad blocker to do.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the the computer"
+        ]
+      },
+      "title": {
+        "text": "Saw this popup on a website",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "this popup",
+          "saw",
+          "popup",
+          "website"
+        ]
+      },
+      "text": {
+        "text": "0) AdBlock Detected! AdBlock could interfere with some features from loading. a , we AN V4 \\ \" \\ \\ Neen ee ar ca) (seme what it's fora \\ -",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "AdBlock Detected",
+          "AdBlock",
+          "some features",
+          "loading"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "this popup",
+      "saw",
+      "popup",
+      "website",
+      "AdBlock Detected",
+      "AdBlock",
+      "some features",
+      "loading"
+    ],
+    "secondary_terms": [
+      "long hair",
+      "different grey robes",
+      "the the computer"
+    ],
+    "queries": [
+      "\"AdBlock Detected\" \"AdBlock\" \"saw\" \"popup\"",
+      "\"saw\" \"popup\" \"website\" \"loading\""
+    ]
+  },
+  "source_jsonl_id": null
+}

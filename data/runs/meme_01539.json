@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_01539",
+  "queries": [
+    "\"Ramirez\" \"everything\" \"images\" \"teacher\"",
+    "\"images\" \"teacher\" \"can\" \"hear\""
+  ],
+  "primary_terms": [
+    "Ramirez",
+    "everything",
+    "images",
+    "teacher",
+    "can",
+    "hear",
+    "intellectual",
+    "lie"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Teacher#0000",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.8230638623237609,
+      "text": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence, or virtue, via the practice of teaching. Informally the role of teacher may be taken on by anyone (e.g. when showing a colleague how to perform a specific task). In some countries, teaching young people of school age may be carried out in an informal setting, such as within the family (homeschooling), rather than in a formal setting such as a school or college. Some other professions may involve a significant amount of teaching (e.g. youth worker, pastor). In most countries, formal teaching of students is usually carried out by paid professional teachers. This article focuses on those who are employed, as their main role, to teach others in a formal education context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.7776455044746399,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0001",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.6556130409240722,
+      "text": "the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element. The objective can be clarity or effective communication, association with other cultural elements, or merely the creation of a distinctive style. Graphics can be functional or artistic. The latter can be a recorded version, such as a photograph, or an interpretation by a scientist to highlight..."
+    },
+    {
+      "chunk_id": "wikipedia:Microphone#0000",
+      "doc_id": "wikipedia:Microphone",
+      "title": "Microphone",
+      "url": "https://en.wikipedia.org/?curid=65886",
+      "source_type": "wikipedia",
+      "score": 0.5496302276849747,
+      "text": "A microphone, colloquially called a mic (), or mike, is a transducer that converts sound into an electrical signal. Microphones are used in telecommunication, sound recording, broadcasting, and consumer electronics, including telephones, hearing aids, and mobile devices. Several types of microphone are used today, which employ different methods to convert the air pressure variations of a sound wave to an electrical signal. The most common are the dynamic microphone, which uses a coil of wire suspended in a magnetic field; the condenser microphone, which uses the vibrating diaphragm as a capacitor plate; and the contact microphone, which uses a crystal of piezoelectric material. Microphones typically need to be connected to a preamplifier before the signal can be recorded or reproduced. History In order to speak to larger groups of people, a need arose to increase the volume of the human voice. The earliest devices used to achieve this were acoustic megaphones."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0000",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.537549889087677,
+      "text": "Class, Classes, or The Class may refer to: Common uses not otherwise categorized Class (biology), a taxonomic rank Class (knowledge representation), a collection of individuals or objects Class (philosophy), an analytical concept used differently from such group phenomena as \"types\" or \"kinds\" Class (set theory), a collection of sets that can be unambiguously defined by a property that all its members share Hazard class, a dangerous goods classification Social class, the hierarchical arrangement of individuals in society, usually defined by wealth and occupation Working class, can be defined by rank, income or collar Arts, entertainment, and media \"The Class\" (song), 1959 Chubby Checker song Character class, in role-playing games and other genres Class 95 (radio station), a Singaporean radio channel Films Class (film), 1983 American film The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff"
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0000",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.5184998035430908,
+      "text": "Graphics (from Ancient Greek γραφικός (التصميم) 'pertaining to drawing, painting, writing, etc.') are visual images or designs on some surface, such as a wall, canvas, screen, paper, or stone, to inform, illustrate, or entertain. In contemporary usage, it includes a pictorial representation of data, as in design and manufacture, in typesetting and the graphic arts, and in educational and recreational software. Images that are generated by a computer are called computer graphics. Examples are photographs, drawings, line art, mathematical graphs, line graphs, charts, diagrams, typography, numbers, symbols, geometric designs, maps, engineering drawings, or other images. Graphics often combine text, illustration, and color. Graphic design may consist of the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element."
+    },
+    {
+      "chunk_id": "wikipedia:Artist#0000",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.502601370215416,
+      "text": "An artist is a person engaged in creating art, or practicing the arts. The most common usage in everyday speech and academic discourse refers to a practitioner in the visual arts only. However, the term is also very widely used in the entertainment business to refer to actors, musicians, singers, dancers , and other performers. The French word artiste is sometimes used in English in this context, although this has become old-fashioned. The use of the term \"artist\" to describe writers is valid, but less common, and mostly restricted to contexts such as critics' reviews; \"author\" is generally used instead. While the use of the word 'artist' is common, there is no agreed upon definition of art—this makes the definition of who is and is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art."
+    },
+    {
+      "chunk_id": "wikipedia:Hear, hear#0001",
+      "doc_id": "wikipedia:Hear, hear",
+      "title": "Hear, hear",
+      "url": "https://en.wikipedia.org/?curid=2182621",
+      "source_type": "wikipedia",
+      "score": 0.48179657459259034,
+      "text": "Parliament is linked to the fact that applause is normally (though not always) forbidden in the chambers of the House of Commons and House of Lords. It is also used in other parliaments established in the Westminster tradition, such as Australia and Canada. See also The dictionary definition of hear, hear at Wiktionary References"
+    },
+    {
+      "chunk_id": "wikipedia:Headphones#0000",
+      "doc_id": "wikipedia:Headphones",
+      "title": "Headphones",
+      "url": "https://en.wikipedia.org/?curid=191884",
+      "source_type": "wikipedia",
+      "score": 0.4725926637649536,
+      "text": "Headphones are a pair of small loudspeaker drivers worn on or around the head over a user's ears. They are electroacoustic transducers, which convert an electrical signal to a corresponding sound. Headphones let a single user listen to an audio source privately, in contrast to a loudspeaker, which emits sound into the open air for anyone nearby to hear. Headphones are also known as earphones or, colloquially, cans. Circumaural (around the ear) and supra-aural (over the ear) headphones use a band over the top of the head to hold the drivers in place. Another type, known as earbuds or earpieces, consists of individual units that plug into the user's ear canal; within that category have been developed cordless air buds using wireless technology. A third type are bone conduction headphones, which typically wrap around the back of the head and rest in front of the ear canal, leaving the ear canal open."
+    },
+    {
+      "chunk_id": "wikipedia:Artist#0001",
+      "doc_id": "wikipedia:Artist",
+      "title": "Artist",
+      "url": "https://en.wikipedia.org/?curid=1212",
+      "source_type": "wikipedia",
+      "score": 0.4644918590784073,
+      "text": "is not an artist indeterminate. Artists and philosophers still debate their interpretation of art's definition—on what does and does not count as art. I am only pointing out that my project, like Collingwood's, Osborne's, and others', is metaphysical in nature. I am interested in trying to find out what a work of art is and what it is essentially. Dictionary definitions The Oxford English Dictionary defines the older, broader meanings of the word..."
+    }
+  ]
+}

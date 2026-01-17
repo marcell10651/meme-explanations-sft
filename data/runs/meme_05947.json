@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_05947",
+  "queries": [
+    "\"Tom\" \"regular followers\" \"one\" \"alt\" \"regular\"",
+    "\"alt\" \"regular\" \"followers\" \"always\""
+  ],
+  "primary_terms": [
+    "one",
+    "alt",
+    "regular followers",
+    "regular",
+    "followers",
+    "always",
+    "likes",
+    "posts",
+    "pile"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Normal People#0000",
+      "doc_id": "wikipedia:Normal People",
+      "title": "Normal People",
+      "url": "https://en.wikipedia.org/?curid=59041422",
+      "source_type": "wikipedia",
+      "score": 0.5821014106273651,
+      "text": "Normal People is a 2018 novel by the Irish author Sally Rooney. Normal People is Rooney's second novel, published after Conversations with Friends (2017). It was first published by Faber & Faber on 30 August 2018. The book became a bestseller in the United States, selling almost 64,000 copies in hardcover in its first four months of release. It was also a bestseller in China, where its coming of age theme was popular with younger readers. A critically acclaimed and Emmy nominated television adaptation of the same name aired from April 2020 on BBC Three and Hulu. A number of publications ranked it one of the best books of the 2010s. Synopsis The novel follows the complex friendship and relationship between two teenagers from different social classes, Connell and Marianne, who both attend the same secondary school in County Sligo, Ireland, and, later, Trinity College Dublin (TCD). It is set during the post-2008 Irish economic downturn, from 2011 through 2015."
+    },
+    {
+      "chunk_id": "wikipedia:Diligence#0000",
+      "doc_id": "wikipedia:Diligence",
+      "title": "Diligence",
+      "url": "https://en.wikipedia.org/?curid=18483349",
+      "source_type": "wikipedia",
+      "score": 0.5741184622049331,
+      "text": "Diligence—carefulness and persistent effort or work—is listed as one of the seven capital virtues. It can be indicative of a work ethic, the belief that work is good in itself. \"There is a perennial nobleness, and even sacredness, in work. Were he never so benighted, forgetful of his high calling, there is always hope in a man that actually and earnestly works: in idleness alone there is perpetual despair.\" —Thomas Carlyle In students Bernard et al. define diligence in students as the effort they put toward balanced and holistic development in mental, physical, social, and spiritual dimensions. They find that it correlates with academic performance, especially with younger students, and that the support of parents and educators encourages students to be diligent. Other factors that encourage student diligence include motivation, discipline, concentration, responsibility, and devotedness."
+    },
+    {
+      "chunk_id": "wikipedia:Hero#0000",
+      "doc_id": "wikipedia:Hero",
+      "title": "Hero",
+      "url": "https://en.wikipedia.org/?curid=13706",
+      "source_type": "wikipedia",
+      "score": 0.5600635170936584,
+      "text": "A hero (feminine: heroine) is a real person or fictional character who, in the face of danger, combats adversity through feats of ingenuity, courage, or strength. The original hero type of classical epics did such things for the sake of glory and honor. Post-classical and modern heroes, on the other hand, perform great deeds or selfless acts for the common good instead of the classical goal of wealth, pride, and fame. The antonym of hero is villain. Other terms associated with the concept of hero may include good guy or white hat. In classical literature, the hero is the main or revered character in heroic epic poetry celebrated through ancient legends of a people, often striving for military conquest and living by a continually flawed personal honor code. The definition of a hero has changed throughout time. Merriam Webster dictionary defines a hero as \"a person who is admired for great or brave acts or fine qualities\"."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.5443785697221756,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Captain#0001",
+      "doc_id": "wikipedia:Captain",
+      "title": "Captain",
+      "url": "https://en.wikipedia.org/?curid=47671806",
+      "source_type": "wikipedia",
+      "score": 0.5377316683530807,
+      "text": "the topmost\"), which was used as title for a senior Byzantine military rank and office. The word was Latinized as Ancient Greek: capetanus or catepan. Both ultimately derive from the Proto-Indo-European \"*káput\", also meaning head. Occupations or roles Captain (armed forces), a commissioned officer rank corresponding to NATO OF-2 level. Typically..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.5360617339611053,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Squirrel#0001",
+      "doc_id": "wikipedia:Squirrel",
+      "title": "Squirrel",
+      "url": "https://en.wikipedia.org/?curid=28492",
+      "source_type": "wikipedia",
+      "score": 0.5332384765148163,
+      "text": "σκιᾱ́ ('shade') and οὐρᾱ́ ('tail')), referring to the long bushy tail which many of its members have. Sciurus is also the name of one of its genera. The Old English word for the squirrel, ācweorna, survived into Middle English as aquerne before being replaced. The Old English word is of Common Germanic origin, cognates of which are still used in other Germanic languages, including the German Eichhörnchen (diminutive of Eichhorn..."
+    },
+    {
+      "chunk_id": "wikipedia:Captain#0000",
+      "doc_id": "wikipedia:Captain",
+      "title": "Captain",
+      "url": "https://en.wikipedia.org/?curid=47671806",
+      "source_type": "wikipedia",
+      "score": 0.521583816409111,
+      "text": "Captain is a title, an appellative for the commanding officer of a military unit; the supreme leader or highest rank officer of a navy ship, merchant ship, aeroplane, spacecraft, or other vessel; or the commander of a port, fire or police department, election precinct, etc. In militaries, the captain is typically at the level of an officer commanding a company or battalion of infantry, a ship, or a battery of artillery, or another distinct unit. It can also be a rank of command in an air force. The term also may be used as an informal or honorary title for persons in similar commanding roles. Etymology The word \"captain\" derives from the Middle English \"capitane\", itself coming from the Latin \"caput\", meaning \"head\". It is considered cognate with the Greek word katepánō (Ancient Greek: κατεπάνω, lit. '[the one placed] at the top', or \"the topmost\"), which was used as title for a senior Byzantine military rank and office. The word was Latinized as Ancient Greek: capetanus or catepan."
+    },
+    {
+      "chunk_id": "wikipedia:Trinity#0001",
+      "doc_id": "wikipedia:Trinity",
+      "title": "Trinity",
+      "url": "https://en.wikipedia.org/?curid=30511",
+      "source_type": "wikipedia",
+      "score": 0.511931574344635,
+      "text": "the attributes unique to them in the Trinity, thereby proving that everything comes \"from the Father\", \"through the Son\", and \"in the Holy Spirit\". This doctrine is called Trinitarianism, and its adherents are called Trinitarians, while its opponents are called antitrinitarians or nontrinitarians and are considered non-Christian by many mainline groups. Nontrinitarian positions include Unitarianism..."
+    },
+    {
+      "chunk_id": "wikipedia:Comes#0000",
+      "doc_id": "wikipedia:Comes",
+      "title": "Comes",
+      "url": "https://en.wikipedia.org/?curid=1721514",
+      "source_type": "wikipedia",
+      "score": 0.5063600301742553,
+      "text": "Comes (plural comites), translated as count, was a Roman title, generally linked to a comitatus or comital office. The word comes originally meant \"companion\" or \"follower\", deriving from \"com-\" (\"with\") and \"ire\" (\"go\"). The special lasting meaning derives from the position of a follower within a comitatus, which was a retinue, or group of followers, such as those of magnates. In some instances these were sufficiently large and/or formal to justify specific denomination, such as a \"cohors amicorum\". The word comes is the origin of the much later terms for counts within the medieval nobility, and counties as their territorial jurisdictions. Ancient Roman religion Comes was a common epithet or title that was added to the name of a hero or god in order to denote relation with another god. The coinage of Roman Emperor Constantine I declared him \"comes\" to Sol Invictus (\"Unconquered Sun\") qua god."
+    }
+  ]
+}

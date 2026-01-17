@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_05371",
+  "queries": [
+    "\"Toad\" \"Frog\" \"story\" \"nothing\""
+  ],
+  "primary_terms": [
+    "True story",
+    "story",
+    "Toad",
+    "nothing",
+    "Frog",
+    "him"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Naruto#0000",
+      "doc_id": "wikipedia:Naruto",
+      "title": "Naruto",
+      "url": "https://en.wikipedia.org/?curid=232190",
+      "source_type": "wikipedia",
+      "score": 0.42695860266685487,
+      "text": "Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young, socially isolated ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village. The story is told in two parts: the first is set in Naruto's pre-teen years (volumes 1–27), and the second in his teens (volumes 28–72). The series is based on two one-shot manga by Kishimoto: Karakuri (1995), which earned Kishimoto an honorable mention in Shueisha's monthly Hop Step Award the following year, and Naruto (1997). Naruto was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from September 1999 to November 2014, with its 700 chapters collected in 72 tankōbon volumes. Viz Media licensed the manga for North American production and serialized Naruto in their digital Weekly Shonen Jump magazine."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0000",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.3787258565425873,
+      "text": "Nobody most often refers to: Nobody, an indefinite pronoun Nobody may also refer to: Fictional characters Nobody (Kingdom Hearts), a race of beings in the Kingdom Hearts video game series Nobody (Devil May Cry), a demon appearing in Devil May Cry Nobody, a character in the Jim Jarmusch films Dead Man and Ghost Dog: The Way of the Samurai Nobody, a character in the 1973 Italian film My Name Is Nobody Nobody, a character in the Teenage Mutant Ninja Turtles franchise Odysseus, who used the name \"nobody\" in his battle against Polyphemus Film and television Nobody (1921 film), an American silent film \"The Nobody\" (The Amazing World of Gumball), a 2015 TV episode \"Nobody\" (Folklore), a 2018 TV episode Nobody (2021 film), American thriller film Nobody (2025 film), Chinese animated film Music Nobody (producer) (born 1977), American record producer Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs"
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0000",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.3617996335029602,
+      "text": "Things or The Things may refer to: Music Things (album), by Uri Caine and Paolo Fresu, 2006 \"Things\" (Bobby Darin song), 1962; covered by Ronnie Dove, 1975 \"Things\", a song by Joe Walsh from There Goes the Neighborhood, 1981 \"Things\", a song by John Cale from HoboSapiens, 2003 \"Things\", a song by Split Enz, 1979 \"Things\", a song by Paul Westerberg from 14 Songs, 1993 \"The Things\", a song by Audio Bullys from Ego War, 2003 Literature Things, a 1914 novel by Alice Duer Miller Things: A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K."
+    },
+    {
+      "chunk_id": "wikipedia:Snake#0001",
+      "doc_id": "wikipedia:Snake",
+      "title": "Snake",
+      "url": "https://en.wikipedia.org/?curid=29370",
+      "source_type": "wikipedia",
+      "score": 0.34896835684776306,
+      "text": "bodies without limbs or with greatly reduced limbs at least twenty-five times via convergent evolution, leading to many lineages of legless lizards. These resemble snakes, but several common groups of legless lizards have eyelids and external ears, which snakes lack, although this rule is not universal (see Amphisbaenia, Dibamidae, and Pygopodidae). Living snakes are found on every continent except Antarctica, and on most smaller land masses; exceptions include some large islands, such as Ireland..."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0000",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.33374781012535093,
+      "text": "Muteness is a speech disorder in which a person lacks the ability to speak. Mute, Mutes or the Mute may also refer to: Arts and entertainment Film and television Mute (2005 film), a short film by Melissa Joan Hart Mute (2018 film), a science-fiction thriller directed by Duncan Jones \"Mute\" (The Twilight Zone), a 1963 episode of The Twilight Zone Muted (TV series), a 2023 Spanish Netflix series Mutes, anthropomorphic animals in the American animated television series Kipo and the Age of Wonderbeasts Music Mute (music), a device used to alter the sound of a musical instrument Left-hand muting or palm mute, guitar muting techniques Mute Records, a record label in the United Kingdom Mute (album), a 2000 indie rock compilation album from Hush Records Muted (album), a 2003 album from hip hop artist Alias In print Mute (novel), a 1981 novel by Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture"
+    },
+    {
+      "chunk_id": "wikipedia:Joke#0000",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.3326867282390594,
+      "text": "A joke is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh and is usually not meant to be interpreted literally. It usually takes the form of a story, often with dialogue, and ends in a punch line, whereby the humorous element of the story is revealed; this can be done using a pun or other type of word play, irony or sarcasm, logical incompatibility, hyperbole, or other means. Linguist Robert Hetzron offers the definition: A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end. No continuation relieving the tension should be added. As for its being \"oral,\" it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0001",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.32180649042129517,
+      "text": "Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs \"No Body\", by Blake Shelton, 2022 \"Nobody\" (1905 song), by Alex Rogers and Bert A. Williams \"Nobody\" (Avenged Sevenfold song), 2023 \"Nobody\" (DJ Neptune song), 2020 \"Nobody..."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0001",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.3204143702983856,
+      "text": "Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture and politics People Múte Bourup Egede (born 1987), Prime Minister of Greenland Shō Gen (1528–1572), king of the Ryukyu Kingdom called Gen the mute Pârvu Mutu (1657–1735),..."
+    },
+    {
+      "chunk_id": "wikipedia:Naruto#0001",
+      "doc_id": "wikipedia:Naruto",
+      "title": "Naruto",
+      "url": "https://en.wikipedia.org/?curid=232190",
+      "source_type": "wikipedia",
+      "score": 0.31492230892181394,
+      "text": "in 72 tankōbon volumes. Viz Media licensed the manga for North American production and serialized Naruto in their digital Weekly Shonen Jump magazine. The manga was adapted into two anime television series by Pierrot and Aniplex, which ran from October 2002 to March 2017 on TV Tokyo. Pierrot also produced 11 animated films and 12 original video animations (OVAs). The franchise additionally includes light novels, video games, and trading cards. The story continues in Boruto..."
+    },
+    {
+      "chunk_id": "wikipedia:Godzilla#0001",
+      "doc_id": "wikipedia:Godzilla",
+      "title": "Godzilla",
+      "url": "https://en.wikipedia.org/?curid=11986",
+      "source_type": "wikipedia",
+      "score": 0.3114623337984085,
+      "text": "and Nagasaki and the Lucky Dragon 5 incident still fresh in the Japanese consciousness, Godzilla was conceived as a metaphor for nuclear weapons. Others have suggested that Godzilla is a metaphor for the United States, a \"giant beast\" woken from its \"slumber\" that then takes terrible vengeance on Japan. As the film series expanded, some storylines took on less serious undertones..."
+    }
+  ]
+}

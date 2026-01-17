@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_02270",
+  "queries": [
+    "\"Fallout\" \"The Witcher\" \"The Wheel\" \"The Rings\" \"the only reward\"",
+    "\"The Rings\" \"the only reward\" \"Fallout\" \"Time\""
+  ],
+  "primary_terms": [
+    "Fallout",
+    "heard",
+    "the fandom",
+    "The Witcher",
+    "The Wheel",
+    "Time",
+    "The Rings",
+    "Power",
+    "the only reward"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Fallout (video game)#0000",
+      "doc_id": "wikipedia:Fallout (video game)",
+      "title": "Fallout (video game)",
+      "url": "https://en.wikipedia.org/?curid=4508917",
+      "source_type": "wikipedia",
+      "score": 1.0124767184257508,
+      "text": "Fallout (also known as Fallout: A Post Nuclear Role Playing Game) is a 1997 role-playing video game developed and published by Interplay Productions, set in a mid-22nd century post-apocalyptic and retro-futuristic world, decades after a global nuclear war led by the United States and China. Fallout's protagonist, the Vault Dweller, inhabits an underground nuclear shelter. The player must scour the surrounding wasteland for a computer chip that can fix the Vault's failed water supply system. They interact with other survivors, some of whom give them quests, and engage in turn-based combat. Tim Cain began working on Fallout in 1994. It began and was conceptualized as based on the role-playing game GURPS, but after Steve Jackson Games objected to Fallout's violence, Cain and designer Christopher Taylor created a new character customization scheme, SPECIAL. Interplay initially gave the game little attention, but eventually spent $3 million and employed up to thirty people to develop it."
+    },
+    {
+      "chunk_id": "wikipedia:A Reason to Live, a Reason to Die#0000",
+      "doc_id": "wikipedia:A Reason to Live, a Reason to Die",
+      "title": "A Reason to Live, a Reason to Die",
+      "url": "https://en.wikipedia.org/?curid=24235116",
+      "source_type": "wikipedia",
+      "score": 0.5731401354074478,
+      "text": "A Reason to Live, a Reason to Die (originally titled Una Ragione Per Vivere E Una Per Morire, also known as Massacre at Fort Holman) is a 1972 Technicolor Italian spaghetti Western movie starring James Coburn, Bud Spencer, and Telly Savalas. Many exterior scenes were filmed at the Fort Bowie set built in the Province of Almería, Spain, where the desert landscape and climate that characterizes part of the province have made it a much utilized setting for Western films, among those A Fistful of Dollars, The Good, the Bad and the Ugly, Once Upon a Time in the West, and later 800 Bullets. The Fort Bowie set was originally built for the film The Deserter. There are two different English language versions of the movie, shorter with James Coburn's own voice and longer with different voice actors and music. James Coburn was not involved in longer cut dubbing. It also features some of the same songs from Day of Anger starring Lee Van Cleef."
+    },
+    {
+      "chunk_id": "wikipedia:Expose#0001",
+      "doc_id": "wikipedia:Expose",
+      "title": "Expose",
+      "url": "https://en.wikipedia.org/?curid=591548",
+      "source_type": "wikipedia",
+      "score": 0.5502952635288239,
+      "text": "show The Gifted Exposed (American game show), a 2007 American dating game show that aired on MTV Exposed (Canadian TV program), a 2004 Canadian music television program that aired on MuchMusic Exposed (Indian TV series), a 2022 Indian Telugu-language web series \"Exposed\" (Heroes), a 2009 episode of Heroes \"Exposed\" (UFO) (UFO), a 1970..."
+    },
+    {
+      "chunk_id": "wikipedia:Hope#0001",
+      "doc_id": "wikipedia:Hope",
+      "title": "Hope",
+      "url": "https://en.wikipedia.org/?curid=50020",
+      "source_type": "wikipedia",
+      "score": 0.5356227368116379,
+      "text": "and joy, courage, and empowerment, drawn from four different areas of one's self: from a cognitive, psychological, social, or physical perspective. Such positive thinking bears fruit when based on a realistic sense of optimism, not on a naive \"false hope\". The psychologist Charles R. Snyder linked hope to the existence of a goal, combined with a determined..."
+    },
+    {
+      "chunk_id": "wikipedia:Trash#0000",
+      "doc_id": "wikipedia:Trash",
+      "title": "Trash",
+      "url": "https://en.wikipedia.org/?curid=390672",
+      "source_type": "wikipedia",
+      "score": 0.5202423244714737,
+      "text": "Trash may refer to: Garbage Garbage, unwanted or undesired waste material Litter, material discarded in inappropriate places Municipal solid waste, unwanted or undesired waste material generated in a municipal environment Arts, entertainment, and media Art Trash art, artworks created from discarded objects Films, TV, videogames \"Trash\", a video game term Trash (1970 film), an American film Trash (2011 film), a Canadian drama film Trash (2014 film), a British film \"Trash\" (Firefly), an episode of the TV series Trash (video game), a multiplayer real-time strategy Trash TV, a form of television programming considered to be tasteless and unprofessional Trash Video, a Finnish film production company Z movie, a low-budget exploitation movie category Literature Trash (comics), a Marvel Comics organisation Trash (manga), a manga created by Sanami Matoh Trash (novel), a 2010 novel by Andy Mulligan Trash: Short Stories, a 1988 publication by Dorothy Allison Music Bands Trash (band), a British"
+    },
+    {
+      "chunk_id": "wikipedia:Four Horsemen of the Apocalypse#0001",
+      "doc_id": "wikipedia:Four Horsemen of the Apocalypse",
+      "title": "Four Horsemen of the Apocalypse",
+      "url": "https://en.wikipedia.org/?curid=39430",
+      "source_type": "wikipedia",
+      "score": 0.4788140803575516,
+      "text": "the first horseman rides a white horse, carries a bow, and is given a crown as a figure of conquest, perhaps invoking pestilence, or the Antichrist. The second carries a sword and rides a red horse as the creator of (civil) war, conflict, and strife. The third, a food merchant, rides a black horse symbolizing famine and carries a pair of scales. The fourth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0001",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.47237688302993774,
+      "text": "thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references. Major themes in the series include prejudice, corruption, madness, love, and death. Since the release of the first novel, Harry Potter and the Philosopher's Stone, on 26 June 1997, the books have found immense popularity and commercial success worldwide..."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0001",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.47146888077259064,
+      "text": "A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K. Le Guin, originally published as \"The End\" in the 1970 anthology Orbit 6, edited by Damon Knight Things, a 1981 picture book by Roger Hargreaves The Things, a 1994 novel by Martyn Godfrey Things, a 1997 novel by Rodman Philbrick and Lynn Harnett, the second installment in the Visitors trilogy \"The Things\" (short story), a 2010 short story by Peter Watts Other uses TheThings, a news website Things (Chill), a 1984 role-playing game supplement Things (film), a 1989 Canadian horror film Things (software), task management software The Things, recurring..."
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0001",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.46297202110290525,
+      "text": "2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol. 2, 2019 \"Feel\", by Mahmut Orhan, 2016 \"Feel\", by Måneskin from Rush!, 2023 \"Feel\", by Matchbox Twenty from More Than You Think You Are, 2002 \"Feel\", by Phora, 2018 \"Feel\", by Post Malone from Stoney, 2016 \"Feel\", by Stereophonics from Language. Sex. Violence. Other..."
+    },
+    {
+      "chunk_id": "wikipedia:My Left Foot#0001",
+      "doc_id": "wikipedia:My Left Foot",
+      "title": "My Left Foot",
+      "url": "https://en.wikipedia.org/?curid=129542",
+      "source_type": "wikipedia",
+      "score": 0.4566037356853485,
+      "text": "7 million on a £600,000 budget. Reviewers praised the film's screenplay, direction, message, and especially the performances of Day-Lewis and Fricker. At the 62nd Academy Awards, the film received five nominations, including Best Picture, with Day-Lewis and Fricker winning Best Actor and Best Supporting Actress, respectively. In 2018, the British Film Institute ranked it as the 53rd greatest British film of the 20th century. Plot In 1932, Christy Brown is born into a Dublin family of 15. Doctors discover he has..."
+    }
+  ]
+}

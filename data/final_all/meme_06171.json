@@ -1,0 +1,214 @@
+{
+  "meme_id": "meme_06171",
+  "queries": [
+    "\"Michael Jordan\" \"My two month old sleeping baby\" \"wasn\" \"even\" \"loud\"",
+    "\"even\" \"loud\" \"hen\" \"cough\""
+  ],
+  "primary_terms": [
+    "wasn",
+    "even",
+    "loud",
+    "My two month old sleeping baby",
+    "hen",
+    "cough",
+    "quietly",
+    "possible",
+    "two",
+    "month",
+    "old",
+    "sleeping",
+    "baby",
+    "ene",
+    "personelhy"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Sone#0001",
+      "doc_id": "wikipedia:Sone",
+      "title": "Sone",
+      "url": "https://en.wikipedia.org/?curid=215436",
+      "source_type": "wikipedia",
+      "score": 0.8696256399154663,
+      "text": "with an exponent of 0.3. With this exponent, each 10 phon increase (or 10 dB at 1 kHz) produces almost exactly a doubling of the loudness in sones. At frequencies other than 1 kHz, the loudness level in phons is calibrated according to the frequency response of human hearing, via a set of equal-loudness contours, and then the loudness level in phons is mapped to loudness in sones via the same power law. Loudness N in sones (for LN > 40 phon): N = (..."
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0000",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.8439853906631469,
+      "text": "Loud most commonly refers to: Loudness, the subjective quality of sound of great intensity Loud may also refer to: Music Albums Loud (Half Japanese album), 1981 Loud (Rihanna album), 2010 Loud (Timo Maas album), 2001 Loud (Wicked Tinkers album), 1999 Loud, a 2000 album by Lexy & K-Paul Loud (EP), by American Pop-Rock band R5 Artists Loud (British band), a British 1990s band Loud (Israeli band), an Israeli psytrance music group Loud (rapper), a Canadian rapper from Quebec Loudness (band), a Japanese rock band Songs \"Loud\" (Mac Miller song), 2012 \"Loud\" (Shannon Noll song), 2007 \"Loud\" (Stan Walker song), 2011 \"Loud\" (R5 song), 2013 \"Loud\" (Tim Hicks song), 2018 \"Loud\", a song by Silk City, featuring GoldLink and Desiigner \"Loud\", a 2007 single by Big & Rich from the album Between Raising Hell and Amazing Grace \"Loud\", a song by Chocolate USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the"
+    },
+    {
+      "chunk_id": "wikipedia:Rock Your Baby#0000",
+      "doc_id": "wikipedia:Rock Your Baby",
+      "title": "Rock Your Baby",
+      "url": "https://en.wikipedia.org/?curid=7758996",
+      "source_type": "wikipedia",
+      "score": 0.7547033369541168,
+      "text": "\"Rock Your Baby\" is the debut single by American singer George McCrae. Written and produced by Harry Wayne Casey and Richard Finch of KC and the Sunshine Band, \"Rock Your Baby\" became an early landmark recording of disco. It was the only international hit for McCrae. The song spent two weeks at number one on the US Billboard Hot 100 in July 1974, and three weeks at number one on the UK Singles Chart that same month. The song also topped the Billboard R&B chart. The single has sold over 11 million copies, making it one of fewer than forty singles to have sold 10 million physical copies worldwide. Composition The backing track was recorded in 45 minutes as a demo, with Casey on keyboards, Finch on bass guitar and drums, and their fellow Sunshine Band member Jerome Smith on electric guitar. The song became one of the first pop hits to use a drum machine."
+    },
+    {
+      "chunk_id": "wikipedia:Quiet#0000",
+      "doc_id": "wikipedia:Quiet",
+      "title": "Quiet",
+      "url": "https://en.wikipedia.org/?curid=1612819",
+      "source_type": "wikipedia",
+      "score": 0.6848289966583252,
+      "text": "Quiet may refer to: Silence, a relative or total lack of sound In music The Quiett (born 1985), South Korean rapper Quiet (album), a 1996 John Scofield album \"Quiet\", a song by Lights, from her album The Listening (2009) \"Quiet\" (MILCK song), a 2017 song written for the 2017 Women's March in Washington, D.C. Quiet (EP), a 2007 EP by Jim Ward \"Quiet\" (This Will Destroy You song), 2006 \"Quiet\" (Lil' Kim song), a song by Lil' Kim \"Quiet\", a song by Alien Ant Farm, from their 2003 albumTruant \"Quiet\", a song by Camila Cabello, from her album Familia (2022) \"Quiet\", a song by Demi Lovato, from her album Here We Go Again (2009) \"Quiet\", a song by The Smashing Pumpkins, from their album Siamese Dream (1993) \"Quiet\", a song by the Player Piano from their album Satellite (2007) \"Quiet\", a song by Royce da 5'9\", from his album Layers (2016) The Quiet, an album by Bella Morte \"Quiet\", a song by Tim Minchin from the musical Matilda In religion Prayer of Quiet, a term from Christian theology"
+    },
+    {
+      "chunk_id": "wikipedia:Even#0000",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.6567500412464142,
+      "text": "Even may refer to: General Even (company), a Brazilian construction and real estate company Even (given name), a Norwegian male personal name Even (surname), a Breton surname Even (people), an ethnic group from Siberia and Russian Far East Even language, a language spoken by the Evens Odd and Even, a solitaire game which is played with two decks of playing cards Evening, the period of a day that begins at the end of daylight and overlaps with the beginning of night Science and technology In mathematics, the term even is used in several senses related to odd: even and odd numbers, an integer is even if dividing by two yields an integer even and odd functions, a function is even if f(−x) = f(x) for all x even and odd permutations, a permutation of a finite set is even if it is composed of an even number of transpositions Singly even number, an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even"
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0001",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.6192956328392029,
+      "text": "USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the 2014 album Sweet Talker \"Loud\", a 2006 single by Masters at Work with Beto Cuevas \"Loud\", a song by Matt Nathanson from the 1999 album Still Waiting for Spring \"Loud\", an additional..."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0001",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.570583975315094,
+      "text": "Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture and politics People Múte Bourup Egede (born 1987), Prime Minister of Greenland Shō Gen (1528–1572), king of the Ryukyu Kingdom called Gen the mute Pârvu Mutu (1657–1735),..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit#0000",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 0.5680225968360901,
+      "text": "Shit is an English-language profanity. As a noun, it refers to fecal matter, and as a verb it means to defecate; in the plural (\"the shits\"), it means diarrhea. Shite is a common variant in British and Irish English. As a slang term, shit has many meanings, including: nonsense, foolishness, something of little value or quality, trivial and usually boastful or inaccurate talk or a contemptible person. It could also be used to refer to any other noun in general or as an expression of annoyance, concern, surprise or anger. Etymology The word is likely derived from Old English, having the nouns scite (dung, attested only in place names) and scitte (diarrhoea) and the verb scītan (to defecate, attested only in bescītan, to cover with excrement); eventually it morphed into Middle English schītte (excrement), schyt (diarrhoea) and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5674026668071747,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Spek#0000",
+      "doc_id": "wikipedia:Spek",
+      "title": "Spek",
+      "url": "https://en.wikipedia.org/?curid=6015689",
+      "source_type": "wikipedia",
+      "score": 0.5606684744358063,
+      "text": "Hussain Yoosuf, better known by his stage name Spek, is a Canadian hip hop musician. He is best known for his singles \"Smell the Coffee\" and \"I'm a Hippie\". He is a former member of the Canadian hip hop pioneers, Dream Warriors, and, more recently, known for his work as an entrepreneur and music publisher. Early career Spek started rapping at the age of 14 in his hometown of Montreal, Quebec. He joined the hip hop group Dream Warriors shortly after the release of their hit songs \"My Definition of a Boombastic Jazz Style\" and \"Wash Your Face in My Sink\". At the age of 17, he signed a worldwide record contract with EMI and toured the world before settling in London. Spek soon found himself touring across Europe with the British jazz-rap crew Us3. Working with his musical partner Brian Rose, he collaborated with members of Jamiroquai and with Nitin Sawhney."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Michael Jordan is explaining himself.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Michael Jordan",
+          "himself"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they feel bad when they cough and it wakes their baby.. Meme poster's baby woke up crying from the meme poster's cough even though they tried to cover it up.. Meme poster is trying to convey that their two month old baby's ears are extremely sensitive, even if it is a mild cough. Meme poster is trying to convey that toddlers are easily offended when sleeping.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their baby",
+          "their two month old baby's ears",
+          "toddlers"
+        ]
+      },
+      "title": {
+        "text": "bro, it wasn't even that loud",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "wasn",
+          "even",
+          "loud"
+        ]
+      },
+      "text": {
+        "text": "Me trying to cough as quietly as possible My two month old sleeping baby , = ene hen personelhy 17 a",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "My two month old sleeping baby",
+          "hen",
+          "cough",
+          "quietly",
+          "possible",
+          "two",
+          "month",
+          "old",
+          "sleeping",
+          "baby",
+          "ene",
+          "personelhy"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "wasn",
+      "even",
+      "loud",
+      "My two month old sleeping baby",
+      "hen",
+      "cough",
+      "quietly",
+      "possible",
+      "two",
+      "month",
+      "old",
+      "sleeping",
+      "baby",
+      "ene",
+      "personelhy"
+    ],
+    "secondary_terms": [
+      "Michael Jordan",
+      "himself",
+      "their baby",
+      "their two month old baby's ears",
+      "toddlers"
+    ],
+    "queries": [
+      "\"Michael Jordan\" \"My two month old sleeping baby\" \"wasn\" \"even\" \"loud\"",
+      "\"even\" \"loud\" \"hen\" \"cough\""
+    ]
+  },
+  "source_jsonl_id": null
+}

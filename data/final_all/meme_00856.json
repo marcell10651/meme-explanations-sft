@@ -1,0 +1,179 @@
+{
+  "meme_id": "meme_00856",
+  "queries": [
+    "\"the fuck\" \"its zombie\" \"shit\" \"halloween\"",
+    "\"Halloween\" \"the fuck\" \"its zombie\" \"white suit\"",
+    "\"its zombie\" \"white suit\" \"shit\" \"man\""
+  ],
+  "primary_terms": [
+    "shit",
+    "the fuck",
+    "its zombie",
+    "halloween"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Trick#0001",
+      "doc_id": "wikipedia:Trick",
+      "title": "Trick",
+      "url": "https://en.wikipedia.org/?curid=274735",
+      "source_type": "wikipedia",
+      "score": 1.1646424591541291,
+      "text": "Andrzej Jakimowski Trick (2010 film), Polish film by Jan Hryniak Trick (2019 film), American Halloween-themed horror film The Trick (film), a 2021 BBC film about the Climatic Research Unit email controversy Literature Trick (novel), a 2015 novel by Natalia Jaster Tricks, a 1979 chronicle of homosexual encounters by Renaud Camus Tricks..."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 1.1600068807601929,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0001",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.9404906928539276,
+      "text": "a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The Terror (1917 film), an American silent film The Terror (1920 film), an American western film starring Tom Mix Terror (1924 film), a French film starring Pearl White The Terror..."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.9074345827102661,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0000",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.9043469727039337,
+      "text": "Nobody most often refers to: Nobody, an indefinite pronoun Nobody may also refer to: Fictional characters Nobody (Kingdom Hearts), a race of beings in the Kingdom Hearts video game series Nobody (Devil May Cry), a demon appearing in Devil May Cry Nobody, a character in the Jim Jarmusch films Dead Man and Ghost Dog: The Way of the Samurai Nobody, a character in the 1973 Italian film My Name Is Nobody Nobody, a character in the Teenage Mutant Ninja Turtles franchise Odysseus, who used the name \"nobody\" in his battle against Polyphemus Film and television Nobody (1921 film), an American silent film \"The Nobody\" (The Amazing World of Gumball), a 2015 TV episode \"Nobody\" (Folklore), a 2018 TV episode Nobody (2021 film), American thriller film Nobody (2025 film), Chinese animated film Music Nobody (producer) (born 1977), American record producer Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs"
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.8833777606487274,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0001",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.8811441659927368,
+      "text": "Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing. While the game was initially released in 2018 to little mainstream attention, it received a massive rise in popularity in 2020 due to many Twitch streamers and YouTubers playing it during the COVID-19 pandemic..."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.8599256873130798,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0000",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.8368397653102875,
+      "text": "Terror(s) or The Terror may refer to: Politics Terrorism, the use of violence against non-combatants to achieve political or ideological aims Reign of Terror, commonly known as The Terror, a period of violence (1793–1794) after the onset of the French Revolution Terror (politics), a policy of political repression and violence The Terror (Karlovo massacre), a massacre of Bulgarian civilians in Karlovo, followed by police and legal repression in the second half of 1878 The Great Purge in the 1930s Soviet Union is also known as the \"Great Terror\" or \"The Terror\" Emotions An extreme form of fear, the emotional response to a threat or danger Angst, a form of anxiety or fear described in existentialist philosophy Anxiety, a sense of dread Panic, a sudden overwhelming fear Arts, entertainment and media Fictional entities Terror (Marvel Comics), a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The"
+    },
+    {
+      "chunk_id": "wikipedia:Kirby#0000",
+      "doc_id": "wikipedia:Kirby",
+      "title": "Kirby",
+      "url": "https://en.wikipedia.org/?curid=706419",
+      "source_type": "wikipedia",
+      "score": 0.8283645510673523,
+      "text": "Kirby may refer to: Arts and entertainment Fictional characters Kirby (character), the titular character of the Kirby video game series Kirby, in the 2005 film Chicken Little Kirby, the title character of Rip Kirby, an American comic strip Sir Kirby, from Doc McStuffins Kirby Buckets, the titular character in the live-action series of the same name Kirby Morris, from the sitcom The Suite Life on Deck Kirby Reed, from the Scream franchise the Kirby family in the play You Can't Take It with You Officer Kirby, from the TV series Chip 'n Dale: Rescue Rangers Colonel Mike Kirby in the 1968 film The Green Berets, played by John Wayne Paul, Amanda and Eric Kirby, a family in the 2001 film Jurassic Park III Other arts and entertainment Kirby (series), a video game series \"Kirby\", a song from the album The Impossible Kid by Aesop Rock \"Kirby\" (Dynasty), an episode of the television series Dynasty Kirby: King of Comics, a 2008 biography by Mark Evanier Buildings Kirby Building, a skyscraper in"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A black man in white suit laughing hysterically, second is man with a serious face",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "white suit",
+          "man"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they forgot it was Halloween.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Halloween"
+        ]
+      },
+      "title": {
+        "text": "oh shit",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "shit"
+        ]
+      },
+      "text": {
+        "text": "Me beating the fuck to. out of some little ; oh shit its zombie who knocke to my door halloween wooo , \\ / é i ~~) | . ) gen. / \\ ros — ! \\ : \\= \\ os | Oe PIL |",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the fuck",
+          "its zombie",
+          "halloween"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "shit",
+      "the fuck",
+      "its zombie",
+      "halloween"
+    ],
+    "secondary_terms": [
+      "white suit",
+      "man",
+      "Halloween"
+    ],
+    "queries": [
+      "\"the fuck\" \"its zombie\" \"shit\" \"halloween\"",
+      "\"Halloween\" \"the fuck\" \"its zombie\" \"white suit\"",
+      "\"its zombie\" \"white suit\" \"shit\" \"man\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,116 @@
+{
+  "meme_id": "meme_04900",
+  "queries": [
+    "\"THE CONTENT\" \"REALISTIC HUMANS\" \"GAME'DEVELOPERS\" \"specific games\"",
+    "\"GAME'DEVELOPERS\" \"specific games\" \"the sentiment\" \"guess\""
+  ],
+  "primary_terms": [
+    "specific games",
+    "the sentiment",
+    "guess",
+    "singling",
+    "specific",
+    "games",
+    "draws",
+    "too",
+    "much",
+    "ire",
+    "sentiment",
+    "still",
+    "THE CONTENT",
+    "GAME'DEVELOPERS",
+    "REALISTIC HUMANS"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 1.1162296414375306,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0000",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.7636843889951705,
+      "text": "Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth. The game allows for cross-platform play; it was released on iOS and Android devices in June 2018 and on Windows later that year in November. It was ported to the Nintendo Switch in December 2020 and on the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in December 2021. A virtual reality adaptation, Among Us VR, was released on November 10, 2022. Among Us takes place in space-themed settings where players are colorful, armless cartoon astronauts. Each player takes on one of two roles: most are Crewmates, but a small number are Impostors. Crewmates work to complete assigned tasks in the game while identifying and voting out suspected Impostors (who appear identical to Crewmates) using social deduction, while Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing."
+    },
+    {
+      "chunk_id": "wikipedia:Your Game#0000",
+      "doc_id": "wikipedia:Your Game",
+      "title": "Your Game",
+      "url": "https://en.wikipedia.org/?curid=4747095",
+      "source_type": "wikipedia",
+      "score": 0.7250514686107635,
+      "text": "\"Your Game\" is a song by British singer Will Young. It was written by Young, Taio Cruz and Blair MacKichan for his second studio album, Friday's Child (2003), while production was helmed by Stephen Lipson and MacKichan. The song was released as the album's second single on 15 March 2004, reaching number three on the UK Singles Chart. \"Your Game\" won the Brit Award for Song of the Year in 2005. Music video A music video for \"Your Game\" was directed by Michael Gracey and Pete Commins. After their collaboration, they were invited to direct Will's live tour at Wembley in 2004. Track listings UK CD1 \"Your Game\" (Will Young, Blair MacKichan, Tayo Onile-Ere) \"Your Game\" (acoustic gospel version) UK CD2 \"Your Game\" \"Take Control\" (Young, R. Stannard, J. Gallagher, S. Hale) \"Down\" (Young, S. Morales, R. Shaw, D. Siegel, D."
+    },
+    {
+      "chunk_id": "wikipedia:Fallout (video game)#0000",
+      "doc_id": "wikipedia:Fallout (video game)",
+      "title": "Fallout (video game)",
+      "url": "https://en.wikipedia.org/?curid=4508917",
+      "source_type": "wikipedia",
+      "score": 0.6715516805648803,
+      "text": "Fallout (also known as Fallout: A Post Nuclear Role Playing Game) is a 1997 role-playing video game developed and published by Interplay Productions, set in a mid-22nd century post-apocalyptic and retro-futuristic world, decades after a global nuclear war led by the United States and China. Fallout's protagonist, the Vault Dweller, inhabits an underground nuclear shelter. The player must scour the surrounding wasteland for a computer chip that can fix the Vault's failed water supply system. They interact with other survivors, some of whom give them quests, and engage in turn-based combat. Tim Cain began working on Fallout in 1994. It began and was conceptualized as based on the role-playing game GURPS, but after Steve Jackson Games objected to Fallout's violence, Cain and designer Christopher Taylor created a new character customization scheme, SPECIAL. Interplay initially gave the game little attention, but eventually spent $3 million and employed up to thirty people to develop it."
+    },
+    {
+      "chunk_id": "wikipedia:Dungeons & Dragons#0000",
+      "doc_id": "wikipedia:Dungeons & Dragons",
+      "title": "Dungeons & Dragons",
+      "url": "https://en.wikipedia.org/?curid=7940",
+      "source_type": "wikipedia",
+      "score": 0.660587078332901,
+      "text": "Dungeons & Dragons (commonly abbreviated as D&D or DnD) is a fantasy tabletop role-playing game (TTRPG) originally created and designed by Gary Gygax and Dave Arneson. The game was first published in 1974 by Tactical Studies Rules (TSR). It has been published by Wizards of the Coast, later a subsidiary of Hasbro, since 1997. The game was derived from miniature wargames, with a variation of the 1971 game Chainmail serving as the initial rule system. D&D's publication is commonly recognized as the beginning of modern role-playing games and the role-playing game industry, which also deeply influenced video games, especially the role-playing video game genre. D&D departs from traditional wargaming by allowing each player to create their own character to play instead of a military formation. These characters embark upon adventures within a fantasy setting."
+    },
+    {
+      "chunk_id": "wikipedia:Dungeons & Dragons#0001",
+      "doc_id": "wikipedia:Dungeons & Dragons",
+      "title": "Dungeons & Dragons",
+      "url": "https://en.wikipedia.org/?curid=7940",
+      "source_type": "wikipedia",
+      "score": 0.6563824117183685,
+      "text": "each player to create their own character to play instead of a military formation. These characters embark upon adventures within a fantasy setting. A Dungeon Master (DM) serves as referee and storyteller for the game, while maintaining the setting in which the adventures occur, and playing the role of the inhabitants of the game world, known as non-player characters (NPCs). The characters form a party and they interact with the setting's inhabitants and each other. Together they solve..."
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0001",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.6503216028213501,
+      "text": "the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element. The objective can be clarity or effective communication, association with other cultural elements, or merely the creation of a distinctive style. Graphics can be functional or artistic. The latter can be a recorded version, such as a photograph, or an interpretation by a scientist to highlight..."
+    },
+    {
+      "chunk_id": "wikipedia:Hope#0001",
+      "doc_id": "wikipedia:Hope",
+      "title": "Hope",
+      "url": "https://en.wikipedia.org/?curid=50020",
+      "source_type": "wikipedia",
+      "score": 0.6267484128475189,
+      "text": "and joy, courage, and empowerment, drawn from four different areas of one's self: from a cognitive, psychological, social, or physical perspective. Such positive thinking bears fruit when based on a realistic sense of optimism, not on a naive \"false hope\". The psychologist Charles R. Snyder linked hope to the existence of a goal, combined with a determined..."
+    },
+    {
+      "chunk_id": "wikipedia:Profit#0001",
+      "doc_id": "wikipedia:Profit",
+      "title": "Profit",
+      "url": "https://en.wikipedia.org/?curid=18487619",
+      "source_type": "wikipedia",
+      "score": 0.6075236201286316,
+      "text": "player Places Profit, United States Virgin Islands See also All pages with titles beginning with Profit All pages with titles containing Profit Proffit (disambiguation) Proffitt (disambiguation) Prophet (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:User experience#0000",
+      "doc_id": "wikipedia:User experience",
+      "title": "User experience",
+      "url": "https://en.wikipedia.org/?curid=1462876",
+      "source_type": "wikipedia",
+      "score": 0.5936551600694656,
+      "text": "User experience (UX) is how a user interacts with and experiences a product, system, or service. It includes a person's perceptions of utility, ease of use, and efficiency. Improving user experience is important to most companies, designers, and creators when creating and refining products because negative user experience can diminish the use of the product and, therefore, any desired positive impacts. Conversely, designing toward profitability as a main objective often conflicts with ethical user experience objectives and even causes harm. User experience is subjective. However, the attributes that make up the user experience are objective. Definitions According to Nielsen Norman Group, 'user experience' includes all the aspects of the interaction between the end-user with the company, its services, and its products."
+    }
+  ]
+}

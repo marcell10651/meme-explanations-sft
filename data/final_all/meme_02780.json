@@ -1,0 +1,192 @@
+{
+  "meme_id": "meme_02780",
+  "queries": [
+    "\"Leonardo\" \"entangled particles\" \"entangled\" \"particles\" \"living\"",
+    "\"particles\" \"living\" \"alternate\" \"universe\""
+  ],
+  "primary_terms": [
+    "entangled particles",
+    "entangled",
+    "particles",
+    "this one",
+    "living",
+    "alternate",
+    "universe",
+    "glimpse",
+    "one"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.8661935597658157,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0000",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.8086330115795135,
+      "text": "Life is matter that has biological processes, such as signaling and the ability to sustain itself. It is defined descriptively by the capacity for homeostasis, organisation, metabolism, growth, adaptation, response to stimuli, and reproduction. All life over time eventually reaches a state of death, and none is immortal. Many philosophical definitions of living systems have been proposed, such as self-organizing systems. Defining life is further complicated by viruses, which replicate only in host cells, and the possibility of extraterrestrial life, which could be very different from life on Earth. Life exists all over the Earth in air, water, and soil, with many ecosystems forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0001",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.7903680562973022,
+      "text": "between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another. The dominant philosophical position since the 20th century has been physicalism, which says that everything is material, meaning that minds are certain aspects or features of some material objects. The evolutionary history of the mind is tied to the development of nervous systems, which..."
+    },
+    {
+      "chunk_id": "wikipedia:Light#0001",
+      "doc_id": "wikipedia:Light",
+      "title": "Light",
+      "url": "https://en.wikipedia.org/?curid=17939",
+      "source_type": "wikipedia",
+      "score": 0.7894908308982849,
+      "text": "direction, frequency or wavelength spectrum, and polarization. Its speed in vacuum, 299792458 m/s, is one of the fundamental constants of nature. All electromagnetic radiation exhibits some properties of both particles and waves. Single, massless elementary particles, or quanta, of light called photons can be detected with specialized equipment; phenomena like interference are..."
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0000",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.7836280822753906,
+      "text": "Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist. Physics is one of the oldest academic disciplines. Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy."
+    },
+    {
+      "chunk_id": "wikipedia:Universe#0000",
+      "doc_id": "wikipedia:Universe",
+      "title": "Universe",
+      "url": "https://en.wikipedia.org/?curid=31880",
+      "source_type": "wikipedia",
+      "score": 0.765299168229103,
+      "text": "The universe is all of space and time and their contents. It comprises all of existence, any fundamental interaction, physical process and physical constant, and therefore all forms of matter and energy, and the structures they form, from sub-atomic particles to entire galactic filaments. Since the early 20th century, the field of cosmology establishes that space and time emerged together at the Big Bang 13.787±0.020 billion years ago and that the universe has been expanding since then. The portion of the universe that can be seen by humans is approximately 93 billion light-years in diameter at present, but the total size of the universe is not known. Some of the earliest cosmological models of the universe were geocentric, placing Earth at the center. During the European Scientific Revolution, astronomical observations led to a heliocentric model."
+    },
+    {
+      "chunk_id": "wikipedia:Everything#0001",
+      "doc_id": "wikipedia:Everything",
+      "title": "Everything",
+      "url": "https://en.wikipedia.org/?curid=17181902",
+      "source_type": "wikipedia",
+      "score": 0.732355123758316,
+      "text": "of all things in the universe is unknown because of the physics beyond the observed universe and the problem of knowing physics at the range infinite. To know universally everything as a temporal and spatial consideration isn't possible because of the unavailabilty of information at a certain time before the beginning of the universe and because of the problem of eternal causality. Scope In ordinary conversation, everything usually refers only to the totality of things..."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0001",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.7321245431900024,
+      "text": "forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota. Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species..."
+    },
+    {
+      "chunk_id": "wikipedia:Living#0000",
+      "doc_id": "wikipedia:Living",
+      "title": "Living",
+      "url": "https://en.wikipedia.org/?curid=1133759",
+      "source_type": "wikipedia",
+      "score": 0.6804915487766265,
+      "text": "Living or The Living may refer to: Common meanings Life, a condition that distinguishes organisms from inorganic objects and dead organisms Living species, one that is not extinct Personal life, the course of an individual human's life Living (Christianity) or benefice, in canon law, a position in a church that has attached to it a source of income A \"living\", a career or chosen path of labour by which workers earn money to subsist Music Living (Paddy Casey album) or the title song, \"Livin'\", 2003 Living (Judy Collins album), 1971 Living 2001–2002, an album by the John Butler Trio, 2003 Living (EP) or the title song, by Josephine Collective, 2007 \"Living\" (song), by Dierks Bentley, 2019 The Living, early 1980's Seattle punk rock band featuring Duff McKagan Television and film Living (1954 TV program), a 1954–1955 Canadian informational program Living (2007 TV program), a 2007–2009 group of regional Canadian lifestyle programs Living (New Zealand TV channel), a New Zealand television"
+    },
+    {
+      "chunk_id": "wikipedia:Space#0000",
+      "doc_id": "wikipedia:Space",
+      "title": "Space",
+      "url": "https://en.wikipedia.org/?curid=27667",
+      "source_type": "wikipedia",
+      "score": 0.666366046667099,
+      "text": "Space is a three-dimensional continuum containing positions and directions. In classical physics, physical space is often conceived in three linear dimensions. Modern physicists usually consider it, with time, to be part of a boundless four-dimensional continuum known as spacetime. The concept of space is considered to be of fundamental importance to an understanding of the physical universe. However, disagreement continues between philosophers over whether it is itself an entity, a relationship between entities, or part of a conceptual framework. In the 19th and 20th centuries mathematicians began to examine geometries that are non-Euclidean, in which space is conceived as curved, rather than flat, as in the Euclidean space. According to Albert Einstein's theory of general relativity, space around gravitational fields deviates from Euclidean space. Experimental tests of general relativity have confirmed that non-Euclidean geometries provide a better model for the shape of space."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Leonardo DiCaprio is amused drinking his wine.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Leonardo DiCaprio",
+          "his wine"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that a person from an alternate dimension would laugh like crazy if they see this one.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "this one"
+        ]
+      },
+      "title": {
+        "text": "entangled particles ...",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "entangled particles",
+          "entangled",
+          "particles"
+        ]
+      },
+      "text": {
+        "text": "When you are living in an alternate universe and you get a glimpse of this one.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "this one",
+          "living",
+          "alternate",
+          "universe",
+          "glimpse",
+          "one"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "entangled particles",
+      "entangled",
+      "particles",
+      "this one",
+      "living",
+      "alternate",
+      "universe",
+      "glimpse",
+      "one"
+    ],
+    "secondary_terms": [
+      "Leonardo DiCaprio",
+      "his wine",
+      "this one"
+    ],
+    "queries": [
+      "\"Leonardo\" \"entangled particles\" \"entangled\" \"particles\" \"living\"",
+      "\"particles\" \"living\" \"alternate\" \"universe\""
+    ]
+  },
+  "source_jsonl_id": null
+}

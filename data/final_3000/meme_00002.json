@@ -1,0 +1,181 @@
+{
+  "meme_id": "meme_00002",
+  "queries": [
+    "\"Quentin Tarantino\" \"Every redditor\" \"minutes\" \"every\" \"redditor\"",
+    "\"every\" \"redditor\" \"couple\" \"ago\""
+  ],
+  "primary_terms": [
+    "Every redditor",
+    "minutes",
+    "every",
+    "redditor",
+    "couple",
+    "ago"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Everytime#0000",
+      "doc_id": "wikipedia:Everytime",
+      "title": "Everytime",
+      "url": "https://en.wikipedia.org/?curid=870269",
+      "source_type": "wikipedia",
+      "score": 0.7368682980537414,
+      "text": "\"Everytime\" is a song by American singer Britney Spears from her fourth studio album, In the Zone (2003). It was released as the third single from In the Zone on May 10, 2004, by Jive Records. After her relationship with Justin Timberlake ended in 2002, Spears became friends with her background singer Annet Artani. They started writing songs together at Spears' house in Los Angeles, and then traveled to Lombardy, Italy, where they collaborated on \"Everytime\". Musically, it is a piano-driven pop ballad, which lyrically pleas for forgiveness for inadvertently hurting a former lover. Spears composed the music herself and wrote the lyrics with Artani about a romantic breakup. \"Everytime\" received universal acclaim from music critics, who praised its lyrics, composition, and Spears' breathy vocals and songwriting, deeming it amongst the highlights of In the Zone."
+    },
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.6935346484184265,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.6882952809333801,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Only#0000",
+      "doc_id": "wikipedia:Only",
+      "title": "Only",
+      "url": "https://en.wikipedia.org/?curid=1629775",
+      "source_type": "wikipedia",
+      "score": 0.6108021795749664,
+      "text": "Only may refer to: Music Albums Only (album), by Tommy Emmanuel, 2000 The Only, an EP by Dua Lipa, 2017 The Only (EP), by The Boyz Songs \"Only\" (Anthrax song), 1993 \"Only\" (Nine Inch Nails song), 2005 \"Only\" (Nicki Minaj song), 2014 \"Only\" (Lee Hi song), 2021 \"The Only\", by Static-X, 2003 \"Only\", by Ass Ponys from Lohio, 2001 \"Only\", by Fuse ODG, 2015 \"Only\", by Imagine Dragons from Origins, 2018 \"Only\", by NF from The Search, 2019 \"Only\", by Sarah Vaughan from Sarah Slightly Classical, 1963 \"Only\", by Sampha from Lahai, 2023 \"The Only\", a song by Raiden featuring Irene, 2019 \"The Only\", by Sasha Alex Sloan from Loser, 2018 Other uses Only (film), a 2019 post-apocalyptic romance film Only (magazine), a 2000s Canadian news and entertainment magazine Only, Tennessee, US Jerry Only (born 1959), American punk rock bassist and singer See also All pages with titles beginning with Only All pages with titles beginning with The Only Onli, people with this surname Onley (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Others#0001",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.5567121118307113,
+      "text": "The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001 film), a 2001 film by Alejandro Amenábar, starring Nicole Kidman Literature Others, a 1999 novel by James Herbert Others: A Magazine of the New Verse, a literary magazine edited by Alfred..."
+    },
+    {
+      "chunk_id": "wikipedia:Quentin Tarantino#0000",
+      "doc_id": "wikipedia:Quentin Tarantino",
+      "title": "Quentin Tarantino",
+      "url": "https://en.wikipedia.org/?curid=25169",
+      "source_type": "wikipedia",
+      "score": 0.5225907564163208,
+      "text": "Quentin Jerome Tarantino ( TARR-ən-TEE-noh; born March 27, 1963) is an American filmmaker, actor, and author. His films are characterized by graphic violence, extended dialogue often featuring much profanity, and references to popular culture. His work has earned a cult following alongside critical and commercial success; he has been named by some as the most influential director of his generation and has received numerous awards and nominations, including two Academy Awards, two BAFTA Awards, and four Golden Globe Awards. His films have grossed more than $1.9 billion worldwide. Tarantino began his career with the independent crime film Reservoir Dogs (1992). His second film, the crime comedy-drama Pulp Fiction (1994), was a major success and won numerous awards, including the Cannes Film Festival's Palme d'Or and the Academy Award for Best Original Screenplay. He next wrote and starred in the action horror film From Dusk till Dawn (1996)."
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0001",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.4673897325992584,
+      "text": "(T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A. from AIM \"Finally\", a song by Yes from The Ladder \"Finally\", a 2019 single by Thabsie \"Finally\", a 2023 single by Jonas Blue and Rani Other uses Finally (company), an American light bulb company Finally (film), a 1991 documentary about Eric Burdon Finally, a keyword in exception handling syntax See also Final (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.4411482661962509,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.42101776599884033,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Quentin#0000",
+      "doc_id": "wikipedia:Quentin",
+      "title": "Quentin",
+      "url": "https://en.wikipedia.org/?curid=2155177",
+      "source_type": "wikipedia",
+      "score": 0.3832743763923645,
+      "text": "Quentin is a French masculine given name derived from the Latin first name Quintinus, a diminutive form of Quintus, which means \"the fifth\". People Saint Quentin (died c. 287) Quentin Anderson (1912–2003), American literary critic and cultural historian Quentin Bajac (born 1965), French curator and historian of photography Quentin Bataillon (born 1993), French politician Quentin Blake (born 1932), English illustrator, famous for his work in Roald Dahl books Quentin Bryce (born 1942), the 25th Governor-General of Australia Quentin N. Burdick (1908–1992), American lawyer and senator from North Dakota Quentin Chapman, American politician Quentin Cooper (born 1961), English science journalist, and broadcaster Quentin Crisp (1908–1999), English author and social critic Quentin Davies, Baron Davies of Stamford (born 1944), British politician Quentin Dean (1944–2003), American actress Quentin Elias, French singer and gay pornographic actor Quentin Fillon Maillet (born 1992), French biathlete"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "man is very dissatisfied with what he sees. Quentin Tarantino is standing sad in different rooms.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "man",
+          "Quentin Tarantino",
+          "different rooms"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is feeling sad.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "title": {
+        "text": "It was horrible",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "text": {
+        "text": "Every redditor a couple of minutes ago a a = on orn",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Every redditor",
+          "minutes",
+          "every",
+          "redditor",
+          "couple",
+          "ago"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Every redditor",
+      "minutes",
+      "every",
+      "redditor",
+      "couple",
+      "ago"
+    ],
+    "secondary_terms": [
+      "man",
+      "Quentin Tarantino",
+      "different rooms"
+    ],
+    "queries": [
+      "\"Quentin Tarantino\" \"Every redditor\" \"minutes\" \"every\" \"redditor\"",
+      "\"every\" \"redditor\" \"couple\" \"ago\""
+    ]
+  },
+  "source_jsonl_id": null
+}

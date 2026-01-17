@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_01380",
+  "queries": [
+    "\"rpgs that jf bind your 23\" : ( gear\" \"any weapon\" \"swords\" \"wizard\"",
+    "\"swords\" \"wizard\" \"can\" \"use\""
+  ],
+  "primary_terms": [
+    "swords",
+    "wizard",
+    "can",
+    "use",
+    "rpgs that jf bind your 23\" : ( gear",
+    "class",
+    "any weapon",
+    "classes"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Sword#0001",
+      "doc_id": "wikipedia:Sword",
+      "title": "Sword",
+      "url": "https://en.wikipedia.org/?curid=27863",
+      "source_type": "wikipedia",
+      "score": 1.054256010055542,
+      "text": "Ages, at first adopted as the Migration Period sword, and only in the High Middle Ages, developed into the classical arming sword with crossguard. The word sword continues the Old English, sweord. The use of a sword is known as swordsmanship or, in a modern context, as fencing. In the early modern period, western sword design diverged into two forms, the thrusting swords and the sabres..."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0000",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.667954421043396,
+      "text": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Granger, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's conflict with Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and non-magical people, known in-universe as Muggles. The series was originally published in English by Bloomsbury in the United Kingdom and Scholastic Press in the United States. A series of many genres, including fantasy, drama, coming-of-age fiction, and the British school story (which includes elements of mystery, thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references."
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0000",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.6554977118968963,
+      "text": "Rubeus Hagrid () is a fictional character in the Harry Potter series of novels by J. K. Rowling. He was introduced in Harry Potter and the Philosopher's Stone (1997) as a half-giant who is the gamekeeper and groundskeeper at the wizarding school Hogwarts. He is a member of the Order of the Phoenix and eventually becomes the Care of Magical Creatures professor. Hagrid is portrayed by Robbie Coltrane in all eight Harry Potter films. Creation and development Rubeus Hagrid was one of the first characters Rowling created. In a 1999 interview, she explained that the name \"Hagrid\" is an Old English word, referring to hagridden, meaning 'tormented by hags'. She said it means \"you'd had a bad night\" and she explained that Hagrid \"has a lot of bad nights\" due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\"."
+    },
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.6325489848852157,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0000",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.583150041103363,
+      "text": "Cant, CANT, canting, or canted may refer to: Language Cant (language), a secret language Beurla Reagaird, a language of the Scottish Highland Travellers Scottish Cant, a language of the Scottish Lowland Travellers Shelta or the Cant, a language of the Irish Travellers Thieves' cant, a language of criminals Canting arms, heraldic puns on the bearer's name Can't, contraction of cannot Other uses Cant (architecture), part of a facade CANT (aviation) (Cantieri Aeronautici e Navali Triestini), an aircraft manufacturer Cant (log), a log partially processed in a sawmill Cant (road/rail), an angle of a road or track Cant (shooting), referring to a gun being tilted around the longitudinal axis, rather than being horizontally levelled Cant (surname), a family name and persons with it Canting, a tool used in making batik Chris Taylor (Grizzly Bear musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation"
+    },
+    {
+      "chunk_id": "wikipedia:Albus Dumbledore#0000",
+      "doc_id": "wikipedia:Albus Dumbledore",
+      "title": "Albus Dumbledore",
+      "url": "https://en.wikipedia.org/?curid=45322",
+      "source_type": "wikipedia",
+      "score": 0.5788954555988312,
+      "text": "Albus Dumbledore is a fictional character in the Harry Potter series of novels by J. K. Rowling. For most of the series, he is the headmaster of the wizarding school Hogwarts. He is also the founder and leader of the Order of the Phoenix, an organisation dedicated to fighting the Dark wizard Lord Voldemort. In the novels, Dumbledore is widely regarded as one of the most powerful and influential wizards of his time. Renowned for his wisdom, kindness, and formidable magical abilities, he plays a crucial role in shaping the events of the wizarding world. As a mentor to Harry Potter, he provides guidance and crucial knowledge in the fight against Voldemort. Despite his benevolent image, Dumbledore's past is marked by tragedy and complexity, including his youthful association with Gellert Grindelwald, a dark wizard he later defeated. His philosophical views on power, love, and death are central themes in the series."
+    },
+    {
+      "chunk_id": "wikipedia:Lady#0000",
+      "doc_id": "wikipedia:Lady",
+      "title": "Lady",
+      "url": "https://en.wikipedia.org/?curid=555643",
+      "source_type": "wikipedia",
+      "score": 0.5359712719917298,
+      "text": "A lady is a woman who behaves in a polite way. Once used to describe only women of a high social class or status, the female counterpart of lord, now it may refer to any adult woman, as gentleman can be used for men. \"Lady\" is also a formal title in the United Kingdom. \"Lady\" is used before the family name or peerage of a woman with a title of nobility or honorary title suo jure (in her own right), such as female members of the Order of the Garter and Order of the Thistle, or the wife of a lord, a baronet, Scottish feudal baron, laird, or a knight, and also before the first name of the daughter of a duke, marquess, or earl. Etymology The word comes from Old English hlǣfdige; the first part of the word is a mutated form of hlāf, \"loaf, bread\", also seen in the corresponding hlāford, \"lord\"."
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0001",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.5282156586647033,
+      "text": "musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation for their name in post-nominal letters See also CANT (disambiguation) All pages with titles containing Cant Canté, a commune in Ariège, France Canter (disambiguation) Canticle Kant (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0000",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.5191008925437928,
+      "text": "A name is a term used for identification by an external observer. They can identify a class or category of things, or a single thing, either uniquely, or within a given context. The entity identified by a name is called its referent. A personal name identifies, not necessarily uniquely, a specific individual human. The name of a specific entity is sometimes called a proper name (although that term has a philosophical meaning as well) and is, when consisting of only one word, a proper noun. Other nouns are sometimes called \"common names\" or (obsolete) \"general names\". A name can be given to a person, place, or thing; for example, parents can give their child a name or a scientist can give an element a name. Etymology The word name comes from Old English nama; cognate with Old High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥."
+    },
+    {
+      "chunk_id": "wikipedia:Potter#0000",
+      "doc_id": "wikipedia:Potter",
+      "title": "Potter",
+      "url": "https://en.wikipedia.org/?curid=170486",
+      "source_type": "wikipedia",
+      "score": 0.507149612903595,
+      "text": "A potter is someone who makes pottery. Potter may also refer to: Places United States Potter, originally a section on the Alaska Railroad, currently a neighborhood of Anchorage, Alaska, US Potter, Arkansas Potter, Nebraska Potters, New Jersey Potter, New York Potter, Wisconsin Potter County, Pennsylvania Potter County, South Dakota Potter County, Texas Potter Lake, Wisconsin Potter Township (disambiguation) Potter Valley, California Potter Valley AVA, California wine region in Mendocino County Potter Cemetery, Michigan Elsewhere 7320 Potter, an asteroid Potter Island, Nunavut, Canada Potter Peninsula, South Shetland Islands People and fictional characters Potter (name), a given name and a surname, including a list of people and fictional characters with the name Arts, entertainment, and media Potter (TV series), a TV sitcom starring Arthur Lowe Harry and the Potters, an American rock band Harry Potter, worldwide bestselling book and film series Miss Potter, a 2006 film by Chris Noonan"
+    }
+  ]
+}

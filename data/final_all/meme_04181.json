@@ -1,0 +1,190 @@
+{
+  "meme_id": "meme_04181",
+  "queries": [
+    "\"Martha\" \"has\" \"spoken\" \"speaks\"",
+    "\"spoken\" \"speaks\" \"will\" \"listen\""
+  ],
+  "primary_terms": [
+    "Martha",
+    "has",
+    "spoken",
+    "speaks",
+    "will",
+    "listen"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Hear, hear#0000",
+      "doc_id": "wikipedia:Hear, hear",
+      "title": "Hear, hear",
+      "url": "https://en.wikipedia.org/?curid=2182621",
+      "source_type": "wikipedia",
+      "score": 1.036399644613266,
+      "text": "Hear, hear is an expression which represents a listener's agreement with the point being made by a speaker or in response to a toast. Origins The phrase hear him, hear him! was used in Parliament from late in the 17th century, and was reduced to hear! or hear, hear! by the late 18th century. The verb hear had earlier been used in the King James Bible as a command for others to listen. Other phrases have been derived from hear, hear, such as a hear, hear (a cheer), to hear-hear (to shout the expression), and hear-hearer (a person who does the same). Usage It was originally an imperative for directing attention to speakers, and has since been used, according to the Oxford English Dictionary, as \"the regular form of cheering in the House of Commons\", with many purposes, depending on the intonation of its user. Its use in Parliament is linked to the fact that applause is normally (though not always) forbidden in the chambers of the House of Commons and House of Lords."
+    },
+    {
+      "chunk_id": "wikipedia:Quiet#0000",
+      "doc_id": "wikipedia:Quiet",
+      "title": "Quiet",
+      "url": "https://en.wikipedia.org/?curid=1612819",
+      "source_type": "wikipedia",
+      "score": 0.7429980754852294,
+      "text": "Quiet may refer to: Silence, a relative or total lack of sound In music The Quiett (born 1985), South Korean rapper Quiet (album), a 1996 John Scofield album \"Quiet\", a song by Lights, from her album The Listening (2009) \"Quiet\" (MILCK song), a 2017 song written for the 2017 Women's March in Washington, D.C. Quiet (EP), a 2007 EP by Jim Ward \"Quiet\" (This Will Destroy You song), 2006 \"Quiet\" (Lil' Kim song), a song by Lil' Kim \"Quiet\", a song by Alien Ant Farm, from their 2003 albumTruant \"Quiet\", a song by Camila Cabello, from her album Familia (2022) \"Quiet\", a song by Demi Lovato, from her album Here We Go Again (2009) \"Quiet\", a song by The Smashing Pumpkins, from their album Siamese Dream (1993) \"Quiet\", a song by the Player Piano from their album Satellite (2007) \"Quiet\", a song by Royce da 5'9\", from his album Layers (2016) The Quiet, an album by Bella Morte \"Quiet\", a song by Tim Minchin from the musical Matilda In religion Prayer of Quiet, a term from Christian theology"
+    },
+    {
+      "chunk_id": "wikipedia:Silence#0000",
+      "doc_id": "wikipedia:Silence",
+      "title": "Silence",
+      "url": "https://en.wikipedia.org/?curid=440579",
+      "source_type": "wikipedia",
+      "score": 0.670327365398407,
+      "text": "Silence is the absence of ambient audible sound, the emission of sounds of such low intensity that they do not draw attention to themselves, or the state of having ceased to produce sounds; this latter sense can be extended to apply to the cessation or absence of any form of communication, whether through speech or other medium. Remaining mute can be a symptom of mental illness. Sometimes speakers fall silent when they hesitate in searching for a word, or interrupt themselves before correcting themselves. Discourse analysis shows that people use brief silences to mark the boundaries of prosodic units, in turn-taking, or as reactive tokens, for example, as a sign of displeasure, disagreement, embarrassment, desire to think, confusion, and the like. Relatively prolonged intervals of silence can be used in rituals; in some religious disciplines, people maintain silence for protracted periods, or even for the rest of their lives, as an ascetic means of spiritual transformation."
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0001",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.5785061478614807,
+      "text": "to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively. Social: the ability to interact with the world through playing with others, taking turns and fantasy play. Although it is useful to chart defined periods of development, development exists on a continuum, with considerable differences between individual children. There..."
+    },
+    {
+      "chunk_id": "wikipedia:Accent#0000",
+      "doc_id": "wikipedia:Accent",
+      "title": "Accent",
+      "url": "https://en.wikipedia.org/?curid=193493",
+      "source_type": "wikipedia",
+      "score": 0.5413434267044067,
+      "text": "Accent may refer to: Speech and language Accent (sociolinguistics), way of pronunciation particular to a speaker or group of speakers Accent (phonetics), prominence given to a particular syllable in a word, or a word in a phrase Pitch accent, prominence signaled primarily by pitch Accent (poetry), placement of prominent syllables in scansion Diacritic, a mark added above, on top of, or below a letter Fallacy of accent, a logical fallacy related to reification Music Accent (music), an emphasis placed on a note The Accents, American doo-wop group Ecclesiastical accent, the simplest style of plainchant Computers Accent (programming language), an interpreted programming language Accent kernel, an operating system kernel Other uses Aeros Accent, a paraglider Hyundai Accent, car produced by Hyundai Motor Company Accent lighting, light focused on a particular area or object Accent Records, a record label ACCENT Speakers Bureau, a student-run organization at the University of Florida Ac'cent,"
+    },
+    {
+      "chunk_id": "wikipedia:Prophet#0000",
+      "doc_id": "wikipedia:Prophet",
+      "title": "Prophet",
+      "url": "https://en.wikipedia.org/?curid=24805",
+      "source_type": "wikipedia",
+      "score": 0.5216029345989227,
+      "text": "In religion, a prophet or prophetess is an individual who is regarded as being in contact with a divine being and is said to speak on behalf of that being, serving as an intermediary with humanity by delivering messages or teachings from the supernatural source to other people. The message that the prophet conveys is called a prophecy. Prophethood has existed in many cultures and religions throughout history, including Mesopotamian religion, Zoroastrianism, Judaism, Christianity, Manichaeism, Islam, the Baháʼí Faith, and Thelema. Etymology The English word prophet is the transliteration of a compound Greek word derived from pro (before/toward) and phesein (to tell); thus, a προφήτης (prophḗtēs) is someone who conveys messages from the divine to humans, including occasionally foretelling future events. In a different interpretation, it means advocate or speaker. It is used to translate the Hebrew word נָבִיא (nāvî) in the Septuagint and the Arabic word نبي (nabī). W.F."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0001",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.49564531445503235,
+      "text": "Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture and politics People Múte Bourup Egede (born 1987), Prime Minister of Greenland Shō Gen (1528–1572), king of the Ryukyu Kingdom called Gen the mute Pârvu Mutu (1657–1735),..."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0000",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.47293975949287415,
+      "text": "Muteness is a speech disorder in which a person lacks the ability to speak. Mute, Mutes or the Mute may also refer to: Arts and entertainment Film and television Mute (2005 film), a short film by Melissa Joan Hart Mute (2018 film), a science-fiction thriller directed by Duncan Jones \"Mute\" (The Twilight Zone), a 1963 episode of The Twilight Zone Muted (TV series), a 2023 Spanish Netflix series Mutes, anthropomorphic animals in the American animated television series Kipo and the Age of Wonderbeasts Music Mute (music), a device used to alter the sound of a musical instrument Left-hand muting or palm mute, guitar muting techniques Mute Records, a record label in the United Kingdom Mute (album), a 2000 indie rock compilation album from Hush Records Muted (album), a 2003 album from hip hop artist Alias In print Mute (novel), a 1981 novel by Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture"
+    },
+    {
+      "chunk_id": "wikipedia:Microphone#0001",
+      "doc_id": "wikipedia:Microphone",
+      "title": "Microphone",
+      "url": "https://en.wikipedia.org/?curid=65886",
+      "source_type": "wikipedia",
+      "score": 0.4707433432340622,
+      "text": "larger groups of people, a need arose to increase the volume of the human voice. The earliest devices used to achieve this were acoustic megaphones. Some of the first examples, from fifth-century-BC Greece, were theater masks with horn-shaped mouth openings that acoustically amplified the voice of actors in amphitheaters. Between 1664 and 1685, the English physicist..."
+    },
+    {
+      "chunk_id": "wikipedia:Microphone#0000",
+      "doc_id": "wikipedia:Microphone",
+      "title": "Microphone",
+      "url": "https://en.wikipedia.org/?curid=65886",
+      "source_type": "wikipedia",
+      "score": 0.454895943403244,
+      "text": "A microphone, colloquially called a mic (), or mike, is a transducer that converts sound into an electrical signal. Microphones are used in telecommunication, sound recording, broadcasting, and consumer electronics, including telephones, hearing aids, and mobile devices. Several types of microphone are used today, which employ different methods to convert the air pressure variations of a sound wave to an electrical signal. The most common are the dynamic microphone, which uses a coil of wire suspended in a magnetic field; the condenser microphone, which uses the vibrating diaphragm as a capacitor plate; and the contact microphone, which uses a crystal of piezoelectric material. Microphones typically need to be connected to a preamplifier before the signal can be recorded or reproduced. History In order to speak to larger groups of people, a need arose to increase the volume of the human voice. The earliest devices used to achieve this were acoustic megaphones."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A knight is posing holding their shield and sword.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their shield",
+          "sword"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster is trying to convey that whenever Martha speaks they treat her like royalty and view her word as gold.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Martha",
+          "royalty",
+          "her word",
+          "gold"
+        ]
+      },
+      "title": {
+        "text": "Martha has spoken",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Martha",
+          "has",
+          "spoken"
+        ]
+      },
+      "text": {
+        "text": "Martha speaks nS xh \\y rd And I will listen",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Martha",
+          "speaks",
+          "will",
+          "listen"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Martha",
+      "has",
+      "spoken",
+      "speaks",
+      "will",
+      "listen"
+    ],
+    "secondary_terms": [
+      "their shield",
+      "sword",
+      "Martha",
+      "royalty",
+      "her word",
+      "gold"
+    ],
+    "queries": [
+      "\"Martha\" \"has\" \"spoken\" \"speaks\"",
+      "\"spoken\" \"speaks\" \"will\" \"listen\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_05306",
+  "queries": [
+    "\"Walt Disney\" \"myself\" \"working\" \"okay\" \"ene\"",
+    "\"a war appropriate version\" \"Three people\" \"Walt Disney\" \"Mickey\"",
+    "\"Walt Disney\" \"Mickey\" \"the picture\" \"the kids\""
+  ],
+  "primary_terms": [
+    "myself",
+    "working",
+    "okay",
+    "ene",
+    "pare"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:The Walt Disney Company#0000",
+      "doc_id": "wikipedia:The Walt Disney Company",
+      "title": "The Walt Disney Company",
+      "url": "https://en.wikipedia.org/?curid=37398",
+      "source_type": "wikipedia",
+      "score": 1.5065626204013824,
+      "text": "The Walt Disney Company, commonly referred to as simply Disney, is an American multinational mass media and entertainment conglomerate headquartered at the Walt Disney Studios complex in Burbank, California. Founded on October 16, 1923, as an animation studio by brothers Walt Disney and Roy Oliver Disney as Disney Brothers Cartoon Studio, Disney operated under the names Walt Disney Studio and Walt Disney Productions before adopting its current name in 1986. In 1928, Disney established itself as a leader in the animation industry with the short film Steamboat Willie. The film used synchronized sound to become the first post-produced sound cartoon, and popularized Mickey Mouse, who became Disney's mascot and corporate icon. After becoming a success by the early 1940s, Disney diversified into live-action films, television, and theme parks in the 1950s. However, following Walt Disney's death in 1966, the company's profits, especially in the animation sector, began to decline."
+    },
+    {
+      "chunk_id": "wikipedia:Pixar#0000",
+      "doc_id": "wikipedia:Pixar",
+      "title": "Pixar",
+      "url": "https://en.wikipedia.org/?curid=78969",
+      "source_type": "wikipedia",
+      "score": 0.9090385138988495,
+      "text": "Pixar (), doing business as Pixar Animation Studios, is an American animation studio based in Emeryville, California, known for its commercially successful computer-animated feature films. Pixar is a subsidiary of Walt Disney Studios, a division of the Disney Entertainment segment of the Walt Disney Company. The studio started in 1979 as part of the Lucasfilm computer division. It was known as the Graphics Group before its spin-off as a corporation in 1986, with funding from Apple co-founder Steve Jobs, who became its majority shareholder. The studio's mascot is Luxo Jr., a desk lamp from the studio's 1986 short film of the same name. Disney announced its acquisition of Pixar in January 2006, and completed it in May 2006. Pixar is best known for its feature films, technologically powered by its RenderMan software."
+    },
+    {
+      "chunk_id": "wikipedia:Simba#0001",
+      "doc_id": "wikipedia:Simba",
+      "title": "Simba",
+      "url": "https://en.wikipedia.org/?curid=983014",
+      "source_type": "wikipedia",
+      "score": 0.9068818092346191,
+      "text": "as an original character, Simba was inspired by Moses and Joseph from the Bible, as well as the title character from William Shakespeare's Hamlet. Despite sharing similarities with the character from the anime television series Kimba the White Lion, Disney has refuted claims that Simba was inspired by Kimba. Mark Henn and Ruben A. Aquino were supervising animators for the cub and adult Simba, respectively, with both animators researching..."
+    },
+    {
+      "chunk_id": "wikipedia:Timon and Pumbaa#0000",
+      "doc_id": "wikipedia:Timon and Pumbaa",
+      "title": "Timon and Pumbaa",
+      "url": "https://en.wikipedia.org/?curid=4449334",
+      "source_type": "wikipedia",
+      "score": 0.8909193873405457,
+      "text": "Timon and Pumbaa are an animated meerkat and warthog duo introduced in Disney's 1994 animated feature film The Lion King and its franchise. Timon was played through his many appearances by Nathan Lane (in all three films and early episodes of the show), Max Casella (the original actor in Broadway musical), Kevin Schon (in certain episodes of the show), Quinton Flynn (in certain episodes of the show), Bruce Lanoil in the Wild About Safety shorts and Kingdom Hearts II, while Pumbaa is voiced by Ernie Sabella (in all of his traditionally animated speaking appearances), and was portrayed by Tom Alan Robbins in the original cast of the Broadway musical. In the CGI remake, the characters are portrayed by Billy Eichner and Seth Rogen, respectively. Nathan Lane and Ernie Sabella first came to audition for the roles of the hyenas, but when the producers saw how well they worked together, they decided to cast them as Timon and Pumbaa."
+    },
+    {
+      "chunk_id": "wikipedia:Kirby#0000",
+      "doc_id": "wikipedia:Kirby",
+      "title": "Kirby",
+      "url": "https://en.wikipedia.org/?curid=706419",
+      "source_type": "wikipedia",
+      "score": 0.8766548037528992,
+      "text": "Kirby may refer to: Arts and entertainment Fictional characters Kirby (character), the titular character of the Kirby video game series Kirby, in the 2005 film Chicken Little Kirby, the title character of Rip Kirby, an American comic strip Sir Kirby, from Doc McStuffins Kirby Buckets, the titular character in the live-action series of the same name Kirby Morris, from the sitcom The Suite Life on Deck Kirby Reed, from the Scream franchise the Kirby family in the play You Can't Take It with You Officer Kirby, from the TV series Chip 'n Dale: Rescue Rangers Colonel Mike Kirby in the 1968 film The Green Berets, played by John Wayne Paul, Amanda and Eric Kirby, a family in the 2001 film Jurassic Park III Other arts and entertainment Kirby (series), a video game series \"Kirby\", a song from the album The Impossible Kid by Aesop Rock \"Kirby\" (Dynasty), an episode of the television series Dynasty Kirby: King of Comics, a 2008 biography by Mark Evanier Buildings Kirby Building, a skyscraper in"
+    },
+    {
+      "chunk_id": "wikipedia:Harry#0000",
+      "doc_id": "wikipedia:Harry",
+      "title": "Harry",
+      "url": "https://en.wikipedia.org/?curid=12500869",
+      "source_type": "wikipedia",
+      "score": 0.8750037550926208,
+      "text": "Harry may refer to: Television Harry (American TV series), 1987 comedy series starring Alan Arkin Harry (British TV series), 1993 BBC drama that ran for two seasons Harry (game show), 2012 French game show hosted by Sébastien Folin Harry (New Zealand TV series), 2013 crime drama starring Oscar Kightley Harry (talk show), 2016 American daytime talk show hosted by Harry Connick Jr. People and fictional characters Harry (given name), a list of people and fictional characters with the given or nickname including Prince Harry, Duke of Sussex (born 1984) Harry (surname), a list of people with the surname Other uses \"Harry\", the tunnel used in the Stalag Luft III escape (\"The Great Escape\") of World War II Harry (album), a 1969 album by Harry Nilsson Harry (derogatory term), derogatory term used in Norway Harry (newspaper), an underground newspaper in Baltimore, Maryland \"Harry (poem)\", 1962 poem by Francis Webb See also All pages with titles beginning with Harry Old Harry (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0001",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.8400578111410141,
+      "text": "state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son. The principal, worried for his school's reputation, tries to contain the situation and hides the letter in his office, while the four parents instructs their children to keep quiet. Ho-chang, curious to..."
+    },
+    {
+      "chunk_id": "wikipedia:Simba#0000",
+      "doc_id": "wikipedia:Simba",
+      "title": "Simba",
+      "url": "https://en.wikipedia.org/?curid=983014",
+      "source_type": "wikipedia",
+      "score": 0.8339461296796798,
+      "text": "Simba is a fictional character in Disney’s The Lion King franchise. He first appears as a cub in The Lion King (1994), where he flees the Pride Lands after his father, Mufasa, is murdered by his uncle, Scar, who deceives Simba into believing he is responsible for the death. Years later, Simba returns as an adult to confront Scar and reclaim his rightful place as king of the Pride Lands. He subsequently appears in the sequels The Lion King II: Simba's Pride and The Lion King 1½. Created by The Lion King's screenwriters, Irene Mecchi, Jonathan Roberts, and Linda Woolverton, Simba underwent several changes as the film's story developed, including making him a more sympathetic character and establishing his familial relation to Scar. Although conceived as an original character, Simba was inspired by Moses and Joseph from the Bible, as well as the title character from William Shakespeare's Hamlet."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.8283195555210113,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:Harold#0000",
+      "doc_id": "wikipedia:Harold",
+      "title": "Harold",
+      "url": "https://en.wikipedia.org/?curid=555297",
+      "source_type": "wikipedia",
+      "score": 0.7831120491027832,
+      "text": "Harold may refer to: People Harold (given name), including a list of persons and fictional characters with the name Harold (surname), surname in the English language András Arató, known in meme culture as \"Hide the Pain Harold\" Arts and entertainment Harold (film), a 2008 comedy film Harold, an 1876 poem by Alfred, Lord Tennyson Harold, the Last of the Saxons, an 1848 book by Edward Bulwer-Lytton, 1st Baron Lytton Harold or the Norman Conquest, an opera by Frederic Cowen Harold, an 1885 opera by Eduard Nápravník Harold, a character from the cartoon The Grim Adventures of Billy & Mandy Harold & Kumar, a US movie; Harold/Harry is the main actor in the show."
+    }
+  ]
+}

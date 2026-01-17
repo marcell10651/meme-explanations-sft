@@ -1,0 +1,115 @@
+{
+  "meme_id": "meme_03282",
+  "queries": [
+    "\"LAL iNfianceiwho\" \"Sallungifromfsmokingyand\" \"myself\" \"saw\"",
+    "\"myself\" \"saw\" \"fiance\" \"favourite\""
+  ],
+  "primary_terms": [
+    "myself",
+    "saw",
+    "fiance",
+    "favourite",
+    "restaurant",
+    "last",
+    "week",
+    "remind",
+    "dodged",
+    "psychopath",
+    "LAL iNfianceiwho",
+    "ner",
+    "Sallungifromfsmokingyand",
+    "sae"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.5990501999855041,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:Their Distance#0000",
+      "doc_id": "wikipedia:Their Distance",
+      "title": "Their Distance",
+      "url": "https://en.wikipedia.org/?curid=58630385",
+      "source_type": "wikipedia",
+      "score": 0.5090142101049423,
+      "text": "Their Distance (知らない、ふたり, Shiranai, Futari; lit. \"Two Strangers\"), is a 2015 Japanese independent film written, edited, and directed by Rikiya Imaizumi, featuring the South Korean boy band NU'EST in their Japanese film debut. Their Distance stars Ren, Fumiko Aoyagi, Minhyun, Hanae Kan, JR, Haruka Kinami, and Tateto Serizawa. The plot is centered around different ideas of love, from generational to cultural, told in a nonlinear narrative switching from various days in April to illustrate the perspectives of all the characters. Part of the film is in spoken Korean, with the film using actors who were fluent in Korean. The film was first screened at the 28th Tokyo International Film Festival on October 23, 2015, before being released to the general public on January 9, 2016. Plot Kim Leon is a quiet apprentice working at a custom shoe shop in Japan. Two years ago, he ran a red light on his bicycle, causing Mikio Arakawa to get hit by a car and be permanently paralyzed below his waist."
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.5035575091838836,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Love#0001",
+      "doc_id": "wikipedia:Love",
+      "title": "Love",
+      "url": "https://en.wikipedia.org/?curid=17547",
+      "source_type": "wikipedia",
+      "score": 0.47352762520313263,
+      "text": "vanity, selfishness, amour-propre, and egotism. It may also describe compassionate and affectionate actions towards other humans, oneself, or animals. In its various forms, love acts as a major facilitator of interpersonal relationships, and owing to its central psychological importance, is one of the most common themes in the creative arts. Love has been postulated to be a function that keeps human beings together against menaces and to facilitate the continuation of the species. Ancient Greek..."
+    },
+    {
+      "chunk_id": "wikipedia:Passion#0001",
+      "doc_id": "wikipedia:Passion",
+      "title": "Passion",
+      "url": "https://en.wikipedia.org/?curid=501256",
+      "source_type": "wikipedia",
+      "score": 0.4715178310871124,
+      "text": "Dacre Passion, (in Italian, Fosca), 1869 novel by Iginio Ugo Tarchetti Passion Play (play) or Passion, 1981 play by Peter Nichols Passion: An Essay on Personality, 1984 book by Roberto Unger The Passion (novel), 1987 novel by Jeanette Winterson Passion (manga), 2004 Japanese yaoi manga series Passion (novel), 2011 young adult..."
+    },
+    {
+      "chunk_id": "wikipedia:Their Distance#0001",
+      "doc_id": "wikipedia:Their Distance",
+      "title": "Their Distance",
+      "url": "https://en.wikipedia.org/?curid=58630385",
+      "source_type": "wikipedia",
+      "score": 0.3875362426042557,
+      "text": "in Japan. Two years ago, he ran a red light on his bicycle, causing Mikio Arakawa to get hit by a car and be permanently paralyzed below his waist. Overcome with guilt, Leon becomes withdrawn and does not notice that his co-worker, Akiko Kokaze, is in love with him. On April 2, college student Yoo Ji-woo confesses to his Japanese teacher, Kanako..."
+    },
+    {
+      "chunk_id": "wikipedia:Dance#0001",
+      "doc_id": "wikipedia:Dance",
+      "title": "Dance",
+      "url": "https://en.wikipedia.org/?curid=7885",
+      "source_type": "wikipedia",
+      "score": 0.37274307012557983,
+      "text": "across the world exhibiting various different styles and standards. Dance may also be participated in alone as a form of exercise or self expression. Dancing is common human behaviour, and does not necessarily require specific choreography. Theatrical and participatory dance Theatrical dance, also called performance or concert dance, is intended primarily as a spectacle..."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.3362881600856781,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Sleeping with Other People#0000",
+      "doc_id": "wikipedia:Sleeping with Other People",
+      "title": "Sleeping with Other People",
+      "url": "https://en.wikipedia.org/?curid=43263164",
+      "source_type": "wikipedia",
+      "score": 0.3296822816133499,
+      "text": "Sleeping with Other People is a 2015 American romantic comedy film written and directed by Leslye Headland. The film stars Jason Sudeikis, Alison Brie, Natasha Lyonne, Amanda Peet, and Adam Scott. Premiering at the Sundance Film Festival on January 24, 2015, the film was released theatrically on September 11, 2015, by IFC Films. Sleeping with Other People received generally positive reviews from critics. Plot In 2002, Lainey causes a scene in a dorm at Columbia University. Taking pity on her as she is about to be kicked out by security, Jake claims her as his guest. He learns Lainey was there to lose her virginity to her teaching assistant Matthew, who Jake thinks is the most boring guy in the world. Lainey eventually realizes Jake is also a virgin, so they lose their virginity to each other. Years later, Lainey breaks up with her long-term boyfriend Sam after telling him she has been cheating on him with Matthew."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.3168980836868286,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    }
+  ]
+}

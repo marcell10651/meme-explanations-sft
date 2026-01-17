@@ -1,0 +1,185 @@
+{
+  "meme_id": "meme_01593",
+  "queries": [
+    "\"the local animal shelter adoption page\" \"a landmine- sniffing rat\" \"Algorithms\"",
+    "\"the local animal shelter adoption page\" \"a landmine- sniffing rat\" \"a young girl pets\" \"little contextual sense\"",
+    "\"a young girl pets\" \"little contextual sense\" \"Algorithms\" \"his chest\""
+  ],
+  "primary_terms": [
+    "Algorithms",
+    "the local animal shelter adoption page",
+    "a landmine- sniffing rat",
+    "a landmine-sniffing rat"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Spot#0001",
+      "doc_id": "wikipedia:Spot",
+      "title": "Spot",
+      "url": "https://en.wikipedia.org/?curid=67090",
+      "source_type": "wikipedia",
+      "score": 0.8546533584594727,
+      "text": "on public broadcasting outlets, especially in the United States, in exchange for funding Animals Spot, a dog that remained faithful after his master's death, described in the List of individual dogs Spot Fetcher, a dog owned by U.S. President George W. Bush Arts and entertainment Fictional characters Spot, a character..."
+    },
+    {
+      "chunk_id": "wikipedia:Sense#0000",
+      "doc_id": "wikipedia:Sense",
+      "title": "Sense",
+      "url": "https://en.wikipedia.org/?curid=23416874",
+      "source_type": "wikipedia",
+      "score": 0.7175283282995224,
+      "text": "A sense is a biological system used by an organism for sensation, the process of gathering information about the surroundings through the detection of stimuli. Although, in some cultures, five human senses were traditionally identified as such (namely sight, smell, touch, taste, and hearing), many more are now recognized. Senses used by non-human organisms are even greater in variety and number. During sensation, sense organs collect various stimuli (such as a sound or smell) for transduction, meaning transformation into a form that can be understood by the brain. Sensation and perception are fundamental to nearly every aspect of an organism's cognition, behavior and thought. In organisms, a sensory organ consists of a group of interrelated sensory cells that respond to a specific type of physical stimulus."
+    },
+    {
+      "chunk_id": "wikipedia:Actually#0000",
+      "doc_id": "wikipedia:Actually",
+      "title": "Actually",
+      "url": "https://en.wikipedia.org/?curid=750827",
+      "source_type": "wikipedia",
+      "score": 0.6368253827095032,
+      "text": "Actually (stylised as Pet Shop Boys, actually.) is the second studio album by English synth-pop duo Pet Shop Boys, released on 7 September 1987 by Parlophone in the United Kingdom and by EMI Manhattan in North America. The album features two number one singles, \"It's a Sin\" and \"Heart\", and a duet with Dusty Springfield, \"What Have I Done to Deserve This?\" Actually is the Pet Shop Boys' top-selling album in the UK, certified triple platinum with over one million sales; worldwide it has sold over four million copies. Background and recording For their second album, Pet Shop Boys still had material from their early songwriting days, including \"It's a Sin\" (1982), \"Rent\" (1984), and \"One More Chance\" which they had recorded with Bobby Orlando and released as an unsuccessful single outside the UK in 1984."
+    },
+    {
+      "chunk_id": "wikipedia:House#0000",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.5856991410255432,
+      "text": "A house is a single-unit residential building. It may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems. Houses use a range of different roofing systems to keep precipitation such as rain from getting into the dwelling space. Houses generally have doors or locks to secure the dwelling space and protect its inhabitants and contents from burglars or other trespassers. Most conventional modern houses in Western cultures will contain one or more bedrooms and bathrooms, a kitchen or cooking area, and a living room. A house may have a separate dining room, or the eating area may be integrated into the kitchen or another room. Some large houses in North America have a recreation room. In traditional agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0000",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.5715627074241638,
+      "text": "A home, or domicile, is a space used as a permanent or semi-permanent residence for one or more human occupants, and sometimes various companion animals. Homes provide sheltered spaces, for instance rooms, where domestic activity can be performed such as sleeping, preparing food, eating and hygiene as well as providing spaces for work and leisure such as remote working, studying and playing. Physical forms of homes can be static such as a house or an apartment, mobile such as a houseboat, trailer or yurt or digital such as virtual space. The aspect of 'home' can be considered across scales; from the micro scale showcasing the most intimate spaces of the individual dwelling and direct surrounding area to the macro scale of the geographic area such as town, village, city, country or planet. The concept of 'home' has been researched and theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics."
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0000",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.5508990436792374,
+      "text": "A toddler is a child approximately 1 to 3 years old, though definitions vary. The toddler years are a time of great cognitive, emotional and social development. The word is derived from \"toddle\", which means to walk unsteadily, as children at this age do. Developmental milestones Toddler development can be broken down into a number of interrelated areas. There is reasonable consensus about what these areas may include: Physical: growth or an increase in size. Gross motor: the control of large muscles which enable walking, running, jumping and climbing. Fine motor: the ability to control small muscles; enabling the toddler to feed themselves, draw and manipulate objects. Vision: the ability to see near and far and interpret what is seen. Hearing and speech: the ability to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively."
+    },
+    {
+      "chunk_id": "wikipedia:House#0001",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.519698292016983,
+      "text": "agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans. The social unit that lives in a house is known as a household. Most commonly, a household is a family unit of some kind, although households may also have other social groups, such as roommates or, in a rooming..."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.5079440027475357,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:Young#0000",
+      "doc_id": "wikipedia:Young",
+      "title": "Young",
+      "url": "https://en.wikipedia.org/?curid=302029",
+      "source_type": "wikipedia",
+      "score": 0.46888767182826996,
+      "text": "Young may refer to: Offspring, the product of reproduction of a new organism produced by one or more parents Youth, the time of life when one's age is low, often meaning the time between childhood and adulthood Music The Young, an American rock band Young, an EP by Charlotte Lawrence, 2018 Songs \"Young\" (Baekhyun and Loco song), 2018 \"Young\" (The Chainsmokers song), 2017 \"Young\" (Hollywood Undead song), 2009 \"Young\" (Kenny Chesney song), 2002 \"Young\" (Place on Earth song), 2018 \"Young\" (Tulisa song), 2012 \"Young\", by Ella Henderson, 2019 \"Young\", by Lil Wayne from Dedication 6, 2017 \"Young\", by Nickel Creek from This Side, 2002 \"Young\", by Sam Smith from Love Goes, 2020 \"Young\", by Silkworm from Italian Platinum, 2002 \"Young\", by Vacations (band), 2016 \"Young\", by Vallis Alps, 2015 \"Young\", by Pixey, 2016 People Surname Young (surname) Given name Young (Korean name), Korean unisex given name and name element Young Boozer (born 1948), American banker and Alabama State Treasurer Young"
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.46314736749133406,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A dad holding an animal by his chest as a young girl pets, the girl has a big smile on her face",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "his chest",
+          "a young girl pets",
+          "the girl",
+          "her face"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that Algorithms make little contextual sense.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Algorithms",
+          "little contextual sense"
+        ]
+      },
+      "title": {
+        "text": "Algorithms",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Algorithms"
+        ]
+      },
+      "text": {
+        "text": "Algorithms when you follow r/CombatFootage and recently viewed the local animal shelter adoption page Virtually adopt a landmine- sniffing rat today. yp 3 - yo ._™ a wade ee aay Ww . wt 4 ae AY pany rey “Ne rove Ae s - EE ing ee ad Les 2 Se apopo.org/herorats Virtually adopt a landmine-sniffing rat Learn more today. omy 9 Cun",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the local animal shelter adoption page",
+          "a landmine- sniffing rat",
+          "a landmine-sniffing rat"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Algorithms",
+      "the local animal shelter adoption page",
+      "a landmine- sniffing rat",
+      "a landmine-sniffing rat"
+    ],
+    "secondary_terms": [
+      "his chest",
+      "a young girl pets",
+      "the girl",
+      "her face",
+      "Algorithms",
+      "little contextual sense"
+    ],
+    "queries": [
+      "\"the local animal shelter adoption page\" \"a landmine- sniffing rat\" \"Algorithms\"",
+      "\"the local animal shelter adoption page\" \"a landmine- sniffing rat\" \"a young girl pets\" \"little contextual sense\"",
+      "\"a young girl pets\" \"little contextual sense\" \"Algorithms\" \"his chest\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_03642",
+  "queries": [
+    "\"their Hero Tom ©\" \"Jerry\" \"still\" \"has\"",
+    "\"still\" \"has\" \"not\" \"caught\""
+  ],
+  "primary_terms": [
+    "Jerry",
+    "still",
+    "has",
+    "not",
+    "caught",
+    "their Hero Tom ©",
+    "watching",
+    "hero",
+    "tom",
+    "cpa"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Jerry#0000",
+      "doc_id": "wikipedia:Jerry",
+      "title": "Jerry",
+      "url": "https://en.wikipedia.org/?curid=664776",
+      "source_type": "wikipedia",
+      "score": 0.858574914932251,
+      "text": "Jerry may refer to: Animals Jerry (Grand National winner), racehorse, winner of the 1840 Grand National Jerry (St Leger winner), racehorse, winner of 1824 St Leger Stakes Arts, entertainment, and media Jerry (play), a 1914 American play \"Jerry\", a song from the album Young and Free by Rock Goddess \"Jerry\" (Adventure Time: Fionna and Cake), an episode of the animated television series Adventure Time: Fionna and Cake Tom and Jerry (disambiguation) Jerry Mouse Jerry, a fictional character who is The Lich BMO named of another universe from Adventure Time Jerry (The Walking Dead), a fictional character from The Walking Dead People Jerry (given name), including a list of people and fictional characters with the name Harold A. Jerry, Jr. (1920–2001), New York politician Thomas Jeremiah (d. 1775), commonly known simply as \"Jerry\", a free Negro in colonial South Carolina Tyson Jerry (born 1983), a Canadian Guinness World Record holder Jerry (born 1964), one half of the Indian filmmaking duo J."
+    },
+    {
+      "chunk_id": "wikipedia:Only#0000",
+      "doc_id": "wikipedia:Only",
+      "title": "Only",
+      "url": "https://en.wikipedia.org/?curid=1629775",
+      "source_type": "wikipedia",
+      "score": 0.5899415582418441,
+      "text": "Only may refer to: Music Albums Only (album), by Tommy Emmanuel, 2000 The Only, an EP by Dua Lipa, 2017 The Only (EP), by The Boyz Songs \"Only\" (Anthrax song), 1993 \"Only\" (Nine Inch Nails song), 2005 \"Only\" (Nicki Minaj song), 2014 \"Only\" (Lee Hi song), 2021 \"The Only\", by Static-X, 2003 \"Only\", by Ass Ponys from Lohio, 2001 \"Only\", by Fuse ODG, 2015 \"Only\", by Imagine Dragons from Origins, 2018 \"Only\", by NF from The Search, 2019 \"Only\", by Sarah Vaughan from Sarah Slightly Classical, 1963 \"Only\", by Sampha from Lahai, 2023 \"The Only\", a song by Raiden featuring Irene, 2019 \"The Only\", by Sasha Alex Sloan from Loser, 2018 Other uses Only (film), a 2019 post-apocalyptic romance film Only (magazine), a 2000s Canadian news and entertainment magazine Only, Tennessee, US Jerry Only (born 1959), American punk rock bassist and singer See also All pages with titles beginning with Only All pages with titles beginning with The Only Onli, people with this surname Onley (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Actually#0000",
+      "doc_id": "wikipedia:Actually",
+      "title": "Actually",
+      "url": "https://en.wikipedia.org/?curid=750827",
+      "source_type": "wikipedia",
+      "score": 0.581144568324089,
+      "text": "Actually (stylised as Pet Shop Boys, actually.) is the second studio album by English synth-pop duo Pet Shop Boys, released on 7 September 1987 by Parlophone in the United Kingdom and by EMI Manhattan in North America. The album features two number one singles, \"It's a Sin\" and \"Heart\", and a duet with Dusty Springfield, \"What Have I Done to Deserve This?\" Actually is the Pet Shop Boys' top-selling album in the UK, certified triple platinum with over one million sales; worldwide it has sold over four million copies. Background and recording For their second album, Pet Shop Boys still had material from their early songwriting days, including \"It's a Sin\" (1982), \"Rent\" (1984), and \"One More Chance\" which they had recorded with Bobby Orlando and released as an unsuccessful single outside the UK in 1984."
+    },
+    {
+      "chunk_id": "wikipedia:Hero#0001",
+      "doc_id": "wikipedia:Hero",
+      "title": "Hero",
+      "url": "https://en.wikipedia.org/?curid=13706",
+      "source_type": "wikipedia",
+      "score": 0.5636728525161743,
+      "text": "a hero has changed throughout time. Merriam Webster dictionary defines a hero as \"a person who is admired for great or brave acts or fine qualities\". Examples of heroes range from mythological figures, such as Gilgamesh and Iphigenia, to historical and modern figures, such as Joan of Arc, Giuseppe Garibaldi, Sophie Scholl, Alvin York, Audie Murphy, and Chuck Yeager, and fictional \"superheroes\", including Superman..."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0000",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.5616856694221497,
+      "text": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Considered one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays. Spider-Man is the secret identity of Peter Benjamin Parker, who was raised by his Aunt May and Uncle Ben in Queens, New York City, after the death of his parents. Lee, Ditko, and later writers had the character deal with the struggles of adolescence and young adulthood. Readers identified with his self-doubt and loneliness. Unlike previous teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J."
+    },
+    {
+      "chunk_id": "wikipedia:Superman#0000",
+      "doc_id": "wikipedia:Superman",
+      "title": "Superman",
+      "url": "https://en.wikipedia.org/?curid=28381",
+      "source_type": "wikipedia",
+      "score": 0.5372057884931565,
+      "text": "Superman is a superhero created by writer Jerry Siegel and artist Joe Shuster, first appearing in issue #1 of Action Comics, published in the United States on April 18, 1938. Superman has been regularly published in American comic books since then, and has been adapted to other media including radio serials, novels, films, television shows, theater, and video games. Superman is the archetypal superhero: he wears an outlandish costume, uses a codename, and fights evil and averts disasters with the aid of extraordinary abilities. Although there are earlier characters who arguably fit this definition, it was Superman who popularized the superhero genre and established its conventions. He was the best-selling superhero in American comic books up until the 1980s; it is also the best-selling comic book series in the world with 600 million copies sold. Superman was born Kal-El, on the fictional planet Krypton."
+    },
+    {
+      "chunk_id": "wikipedia:Jerry#0001",
+      "doc_id": "wikipedia:Jerry",
+      "title": "Jerry",
+      "url": "https://en.wikipedia.org/?curid=664776",
+      "source_type": "wikipedia",
+      "score": 0.5126268625259399,
+      "text": "colonial South Carolina Tyson Jerry (born 1983), a Canadian Guinness World Record holder Jerry (born 1964), one half of the Indian filmmaking duo J. D.–Jerry Places Branche à Jerry, a tributary of the Baker River in Quebec and New Brunswick, Canada Other uses Jerry (company) Jerry (WWII), Allied nickname for Germans,..."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0001",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.5057367503643035,
+      "text": "teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J. Jonah Jameson; friends like Harry Osborn and Flash Thompson; romantic interests like Gwen Stacy, Mary Jane Watson, and the Black Cat; and enemies such as Doctor Octopus, the Green Goblin, and Venom. In his origin story, Peter gets his superhuman spider-powers and abilities after he was bitten..."
+    },
+    {
+      "chunk_id": "wikipedia:Hero#0000",
+      "doc_id": "wikipedia:Hero",
+      "title": "Hero",
+      "url": "https://en.wikipedia.org/?curid=13706",
+      "source_type": "wikipedia",
+      "score": 0.48392189741134645,
+      "text": "A hero (feminine: heroine) is a real person or fictional character who, in the face of danger, combats adversity through feats of ingenuity, courage, or strength. The original hero type of classical epics did such things for the sake of glory and honor. Post-classical and modern heroes, on the other hand, perform great deeds or selfless acts for the common good instead of the classical goal of wealth, pride, and fame. The antonym of hero is villain. Other terms associated with the concept of hero may include good guy or white hat. In classical literature, the hero is the main or revered character in heroic epic poetry celebrated through ancient legends of a people, often striving for military conquest and living by a continually flawed personal honor code. The definition of a hero has changed throughout time. Merriam Webster dictionary defines a hero as \"a person who is admired for great or brave acts or fine qualities\"."
+    },
+    {
+      "chunk_id": "wikipedia:Sneaky Pete#0000",
+      "doc_id": "wikipedia:Sneaky Pete",
+      "title": "Sneaky Pete",
+      "url": "https://en.wikipedia.org/?curid=47942695",
+      "source_type": "wikipedia",
+      "score": 0.43190930783748627,
+      "text": "Sneaky Pete is an American comedy crime drama television series created by David Shore and Bryan Cranston. The series follows Marius Josipović (Giovanni Ribisi), a released convict who adopts the identity of his cellmate, Pete Murphy, to avoid his past life. The series also stars Marin Ireland, Shane McRae, Libe Barer, Michael Drayer, Peter Gerety and Margo Martindale. The pilot episode premiered on August 7, 2015, and was followed by a full series order that September. Shore left the project in early 2016 and was replaced by Graham Yost, who served as executive producer and showrunner for the remaining nine episodes. The first season premiered in its entirety on January 13, 2017, exclusively on Amazon Prime Video. On January 19, 2017, Amazon announced that Sneaky Pete had been renewed for a second season, which was released on March 9, 2018. On July 28, 2018, Amazon announced that the series had been renewed for a third season, which was released on May 10, 2019."
+    }
+  ]
+}

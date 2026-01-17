@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_01580",
+  "queries": [
+    "\"South Korea\" \"the streets\" \"crowded streets\" \"thousands\"",
+    "\"crowded streets\" \"thousands\" \"hundreds\" \"justice\""
+  ],
+  "primary_terms": [
+    "thousands",
+    "the streets",
+    "hundreds",
+    "crowded streets",
+    "South Korea",
+    "justice"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.6018615663051605,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    },
+    {
+      "chunk_id": "wikipedia:Gangster#0000",
+      "doc_id": "wikipedia:Gangster",
+      "title": "Gangster",
+      "url": "https://en.wikipedia.org/?curid=234656",
+      "source_type": "wikipedia",
+      "score": 0.5032181143760681,
+      "text": "A gangster (informally gangsta) is a criminal who is a member of a gang. Most gangs are considered to be part of organized crime. Gangsters are also called mobsters, a term derived from mob and the suffix -ster. Gangs provide a level of organization and resources that support much larger and more complex criminal transactions than an individual criminal could achieve. Gangsters have been active for many years in countries around the world. Gangsters are the subject of many novels, films, television series, and video games. Usage In modern usage, the term \"gang\" is generally used for a criminal organization and the term \"gangster\" invariably describes a criminal. Much has been written on the subject of gangs, although there is no clear consensus about what constitutes a gang or what situations lead to gang formation and evolution."
+    },
+    {
+      "chunk_id": "wikipedia:North Korea#0000",
+      "doc_id": "wikipedia:North Korea",
+      "title": "North Korea",
+      "url": "https://en.wikipedia.org/?curid=21255",
+      "source_type": "wikipedia",
+      "score": 0.4701363205909729,
+      "text": "North Korea, officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia. It constitutes the northern half of the Korean Peninsula and borders China and Russia to the north at the Yalu (Amnok) and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone (DMZ). The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. North Korea, like South Korea, claims to be the sole legitimate government of the Korean Peninsula and adjacent islands. Pyongyang is the capital and largest city. The Korean Peninsula was first inhabited as early as the Lower Paleolithic period. Its first kingdom was noted in Chinese records in the early 7th century BCE. Following the unification of the Three Kingdoms of Korea into Silla and Balhae in the late 7th century, Korea was ruled by the Goryeo dynasty (918–1392) and the Joseon dynasty (1392–1897)."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0000",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.46771666407585144,
+      "text": "Quantity or amount is a property that includes numbers and quantifiable phenomena such as mass, time, distance, heat, angle, and information. Quantities can commonly be compared in terms of \"more\", \"less\", or \"equal\", or by assigning a numerical value multiple of a unit of measurement. Quantity is among the basic classes of things along with quality, substance, change, and relation. Some quantities are such by their inner nature (as number), while others function as states (properties, dimensions, attributes) of things such as heavy and light, long and short, broad and narrow, small and great, or much and little. Under the name of multitude comes what is discontinuous and discrete and divisible ultimately into indivisibles, such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns."
+    },
+    {
+      "chunk_id": "wikipedia:Gangster#0001",
+      "doc_id": "wikipedia:Gangster",
+      "title": "Gangster",
+      "url": "https://en.wikipedia.org/?curid=234656",
+      "source_type": "wikipedia",
+      "score": 0.4639369994401932,
+      "text": "on the subject of gangs, although there is no clear consensus about what constitutes a gang or what situations lead to gang formation and evolution. There is agreement that the members of a gang have a sense of common identity and belonging, which is typically reinforced through shared activities and visual identifications such as special clothing, tattoos, colors, or rings. Some preconceptions may be false. For example, the common view that illegal drug distribution in the United States is largely..."
+    },
+    {
+      "chunk_id": "wikipedia:Gangnam Style#0000",
+      "doc_id": "wikipedia:Gangnam Style",
+      "title": "Gangnam Style",
+      "url": "https://en.wikipedia.org/?curid=36584679",
+      "source_type": "wikipedia",
+      "score": 0.4484256565570831,
+      "text": "\"Gangnam Style\" (Korean: 강남스타일; pronounced [kaŋ.nam sɯ.tʰa.il]) is a K-pop song by South Korean singer Psy, released on July 15, 2012, by YG Entertainment as the lead single of his sixth studio album, Psy 6 (Six Rules), Part 1. The term \"Gangnam Style\" is a neologism that refers to the nouveau riche lifestyles associated with the Gangnam region of Seoul. \"Gangnam Style\" was released on to Psy's YouTube channel and debuted at number one on South Korea's Gaon Chart, receiving generally positive reviews, with praise for its catchy beat and Psy's amusing dancing during live performances and in various locations around the world in its music video. The song and its music video went viral in August 2012 and have influenced popular culture worldwide. In the United States, \"Gangnam Style\" peaked at number two on the Billboard Hot 100, which at the time, was the highest charting song by a South Korean artist."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0001",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.429764524102211,
+      "text": "by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\". Angered by the suicide of a student who is mocked and refused a loan for her studies, they eventually kill the corrupt bank manager who abetted it. Soon enough, more corrupt individuals are killed, and Rajan Mathew is reinstated as S.P. to nab the group. The team learn..."
+    },
+    {
+      "chunk_id": "wikipedia:Gangnam Style#0001",
+      "doc_id": "wikipedia:Gangnam Style",
+      "title": "Gangnam Style",
+      "url": "https://en.wikipedia.org/?curid=36584679",
+      "source_type": "wikipedia",
+      "score": 0.42044920325279234,
+      "text": "States, \"Gangnam Style\" peaked at number two on the Billboard Hot 100, which at the time, was the highest charting song by a South Korean artist. By the end of 2012, \"Gangnam Style\" had topped the music charts of more than 30 countries including Australia, Canada, France, Germany, Italy, Spain, and the United Kingdom. Psy's dance in the music video itself became a cultural phenomenon. The song subsequently won Best Video at the MTV..."
+    },
+    {
+      "chunk_id": "wikipedia:Your Choice#0001",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.41183076798915863,
+      "text": "'s World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia. Background We thought the message of love is what could really console people and resonate with them, especially in these tough times that we're having. [...] This time, we wanted to use this word, \"love,\" and the concept..."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0001",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.4055026173591614,
+      "text": "such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns. Under the name of magnitude comes what is continuous and unified and divisible only into smaller divisibles, such as: matter, mass, energy, liquid, material—all cases of non-collective nouns. Along with analyzing its nature and classification, the issues of quantity involve such closely related topics as dimensionality..."
+    }
+  ]
+}

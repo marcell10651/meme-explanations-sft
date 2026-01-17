@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_00410",
+  "queries": [
+    "\"Fortnite\" \"the army\" \"the future\" \"wow\"",
+    "\"the future\" \"wow\" \"thought\" \"kids\""
+  ],
+  "primary_terms": [
+    "wow",
+    "thought",
+    "kids",
+    "Fortnite",
+    "the army",
+    "the future"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Millennials#0000",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.731972873210907,
+      "text": "Millennials, also known as Generation Y or Gen Y, are the demographic cohort following Generation X and preceding Generation Z. Researchers and popular media use the early 1980s as starting birth years and the mid-1990s to early 2000s as ending birth years, with the generation typically being defined as people born from 1981 to 1996. Most millennials are the children of baby boomers and older Gen Xers, and are often the parents of Generation Alpha. As children in the late 1980s to 2000s, millennials saw the rise of the Information Age and Internet, being described by some as the first global generation. As adolescents and young adults in the late 1990s to 2010s, the generation was marked by a more upbeat youth culture, elevated familiarity with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace."
+    },
+    {
+      "chunk_id": "wikipedia:Legendary#0000",
+      "doc_id": "wikipedia:Legendary",
+      "title": "Legendary",
+      "url": "https://en.wikipedia.org/?curid=541707",
+      "source_type": "wikipedia",
+      "score": 0.590120404958725,
+      "text": "Legendary may refer to: Legend, a folklore genre Legendary (hagiography) J. R. R. Tolkien's legendarium Film and television Legendary (2010 film), a 2010 American sports drama film Legendary (2013 film), a 2013 film featuring Dolph Lundgren Legendary (TV series), a 2020 American reality competition series \"Legendary\" (Legends of Tomorrow), a television episode Music Albums Legendary (AZ album), 2009 Legendary (The Summer Set album) or the title song, 2013 Legendary (TQ album) or the title song, 2013 Legendary (Tyga album) or the title song, 2019 Legendary (Z-Ro album), 2016 Legendary (Zao album), 2003 Legendary, by Kaysha, 2006 The Legendary, an EP by the Roots, 1999 Songs \"Legendary\" (Deadmau5 and Shotty Horroh song), 2017 \"Legendary\" (Welshly Arms song), 2016 \"Legendary\", by Alaska Thunderfuck from Anus, 2015 \"Legendary\", by Daya from Daya, 2015 \"Legendary\", by Royce da 5'9\" from Success Is Certain, 2011 \"Legendary\", by Skillet from Victorious, 2019 \"Legendary\", by Joey Badass from"
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0001",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.5670421421527863,
+      "text": "2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol. 2, 2019 \"Feel\", by Mahmut Orhan, 2016 \"Feel\", by Måneskin from Rush!, 2023 \"Feel\", by Matchbox Twenty from More Than You Think You Are, 2002 \"Feel\", by Phora, 2018 \"Feel\", by Post Malone from Stoney, 2016 \"Feel\", by Stereophonics from Language. Sex. Violence. Other..."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.5646614640951156,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:Fallout (video game)#0001",
+      "doc_id": "wikipedia:Fallout (video game)",
+      "title": "Fallout (video game)",
+      "url": "https://en.wikipedia.org/?curid=4508917",
+      "source_type": "wikipedia",
+      "score": 0.5616802275180817,
+      "text": "scheme, SPECIAL. Interplay initially gave the game little attention, but eventually spent $3 million and employed up to thirty people to develop it. Interplay considered Fallout the spiritual successor to its 1988 role-playing game Wasteland and drew artistic inspiration from 1950s literature and media emblematic of the Atomic Age as well as the films..."
+    },
+    {
+      "chunk_id": "wikipedia:Your Game#0000",
+      "doc_id": "wikipedia:Your Game",
+      "title": "Your Game",
+      "url": "https://en.wikipedia.org/?curid=4747095",
+      "source_type": "wikipedia",
+      "score": 0.5455985963344574,
+      "text": "\"Your Game\" is a song by British singer Will Young. It was written by Young, Taio Cruz and Blair MacKichan for his second studio album, Friday's Child (2003), while production was helmed by Stephen Lipson and MacKichan. The song was released as the album's second single on 15 March 2004, reaching number three on the UK Singles Chart. \"Your Game\" won the Brit Award for Song of the Year in 2005. Music video A music video for \"Your Game\" was directed by Michael Gracey and Pete Commins. After their collaboration, they were invited to direct Will's live tour at Wembley in 2004. Track listings UK CD1 \"Your Game\" (Will Young, Blair MacKichan, Tayo Onile-Ere) \"Your Game\" (acoustic gospel version) UK CD2 \"Your Game\" \"Take Control\" (Young, R. Stannard, J. Gallagher, S. Hale) \"Down\" (Young, S. Morales, R. Shaw, D. Siegel, D."
+    },
+    {
+      "chunk_id": "wikipedia:Cool#0001",
+      "doc_id": "wikipedia:Cool",
+      "title": "Cool",
+      "url": "https://en.wikipedia.org/?curid=4175379",
+      "source_type": "wikipedia",
+      "score": 0.5206903666257858,
+      "text": "Cool\" (Dua Lipa song) (2020) \"Cool\" (Gwen Stefani song) (2005) \"Cool\" (The Time song) (1981), later covered by Snoop Dogg and Prince \"Cool\" (West Side Story song) (1957) \"Cool\", a 2011 song by Jason Blaine from Life So Far \"Cool\", a 2018 song by Felix Jaehn, featuring Marc E. Bassy and Gucci Mane, from I (Felix Jaehn..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.5123918950557709,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:Walkin#0000",
+      "doc_id": "wikipedia:Walkin",
+      "title": "Walkin",
+      "url": "https://en.wikipedia.org/?curid=33627004",
+      "source_type": "wikipedia",
+      "score": 0.5091558545827866,
+      "text": "\"Walkin\" is a song by American rapper Denzel Curry, released on January 24, 2022 as the lead single from his fifth studio album Melt My Eyez See Your Future (2022). It was produced by Kal Banx. Composition The production in the song changes from the style of boom bap to that of southern rap, juxtaposed with vocals. Lyrically, Denzel Curry raps about the struggles and changing of everyday life as the state of the world is regressing, such as racial and wealth inequality, and striving for success through difficult times, switching his flows as well. Music video A music video for the song was directed by Adrian Villagomez and released alongside the single. Taking on a sci-fi western theme, it finds Denzel Curry trekking across a desert planet alone, first walking through a village and moving past barren sand dunes, children playing on a swing set, and villains trying to kill him. He collapses on his knees several times throughout the journey."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0000",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.5082283765077591,
+      "text": "Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth. The game allows for cross-platform play; it was released on iOS and Android devices in June 2018 and on Windows later that year in November. It was ported to the Nintendo Switch in December 2020 and on the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in December 2021. A virtual reality adaptation, Among Us VR, was released on November 10, 2022. Among Us takes place in space-themed settings where players are colorful, armless cartoon astronauts. Each player takes on one of two roles: most are Crewmates, but a small number are Impostors. Crewmates work to complete assigned tasks in the game while identifying and voting out suspected Impostors (who appear identical to Crewmates) using social deduction, while Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing."
+    }
+  ]
+}

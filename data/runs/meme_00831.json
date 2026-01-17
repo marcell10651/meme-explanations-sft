@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_00831",
+  "queries": [
+    "\"comments\" \"idc\" \"wes\" \"yourself\"",
+    "\"wes\" \"yourself\" \"dogs\" \"cats\""
+  ],
+  "primary_terms": [
+    "comments",
+    "idc",
+    "that animal",
+    "wes",
+    "yourself"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Cool#0000",
+      "doc_id": "wikipedia:Cool",
+      "title": "Cool",
+      "url": "https://en.wikipedia.org/?curid=4175379",
+      "source_type": "wikipedia",
+      "score": 0.5524195194244385,
+      "text": "Cool commonly refers to: Cool, a moderately low temperature Cool (aesthetic), an aesthetic of attitude, behavior, and style Cool or COOL may also refer to: Economics Country of origin labelling mCOOL - US consumer legislation to enforce COOL at the grocery store Computing Cool (programming language) COOL, a computer language used in the CLIPS tool Cool, an internal name of C# An abbreviation for Collabora Online Geography Cool, Rotterdam, Netherlands Cool, California, U.S. Cool, Texas, U.S. Music Cool (band), a South Korean K-pop music group Cool jazz Albums Cool (George Duke album) (2000) Lupe Fiasco's The Cool (2007) The Cool (character), the associated concept character Cool (Joyce album) (2015) Songs \"Cool\" (Alesso song) (2015) \"Cool\" (Anthony Hamilton song) (2008) \"Cool\" (Jonas Brothers song) (2019) \"Cool\" (Le Youth song) (2013) \"Cool\" (Dua Lipa song) (2020) \"Cool\" (Gwen Stefani song) (2005) \"Cool\" (The Time song) (1981), later covered by Snoop Dogg and Prince \"Cool\" (West Side"
+    },
+    {
+      "chunk_id": "wikipedia:Quentin#0001",
+      "doc_id": "wikipedia:Quentin",
+      "title": "Quentin",
+      "url": "https://en.wikipedia.org/?curid=2155177",
+      "source_type": "wikipedia",
+      "score": 0.4602602571249008,
+      "text": "Dean (1944–2003), American actress Quentin Elias, French singer and gay pornographic actor Quentin Fillon Maillet (born 1992), French biathlete Quentin Fottrell, Irish columnist and author Quentin Fulks, American campaign manager Quentin Gause (born 1992), American football player Quentin Grimes (born 2000), American basketball player Quentin..."
+    },
+    {
+      "chunk_id": "wikipedia:Accent#0001",
+      "doc_id": "wikipedia:Accent",
+      "title": "Accent",
+      "url": "https://en.wikipedia.org/?curid=193493",
+      "source_type": "wikipedia",
+      "score": 0.4405507743358612,
+      "text": "on a particular area or object Accent Records, a record label ACCENT Speakers Bureau, a student-run organization at the University of Florida Ac'cent, brand name for monosodium glutamate (MSG) See also All pages with titles beginning with Accent All pages with titles containing Accent Accenture, company Accentor, a bird..."
+    },
+    {
+      "chunk_id": "wikipedia:Others#0000",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.41768042743206024,
+      "text": "Others or The Others may refer to: Fictional characters Others (A Song of Ice and Fire), supernatural creatures in the fictional world of George R. R. Martin's fantasy series A Song of Ice and Fire Others (Lost), mysterious inhabitants of a strange island in the South Pacific in the television series Lost Others (Night Watch), a fictional group of people with supernatural abilities in Sergey Lukyanenko's Watches novel pentalogy The Others (Vok), a character from the Beast Wars franchise The Others, a reference to Cro-Magnon peoples in Jean M. Auel's Earth's Children series The Others, a group of allies of Aquaman in comics, introduced in 2012 and featured in a 2014 series The Others, the Ancients who have achieved Ascension in the Stargate universe The Others, a series of alien extraterrestrial species from The 5th Wave novels and film Films The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001"
+    },
+    {
+      "chunk_id": "wikipedia:Timon#0001",
+      "doc_id": "wikipedia:Timon",
+      "title": "Timon",
+      "url": "https://en.wikipedia.org/?curid=358706",
+      "source_type": "wikipedia",
+      "score": 0.4094252586364746,
+      "text": "the title character of The History of Timon of Athens the Man-hater, a rewrite of Shakespeare's original play by Thomas Shadwell Timon, a film and television character, originally from the film The Lion King Timon (Rome character), in the 2005 television series Rome Timon, one of the minor characters in the 2017 Netflix series, Big Mouth (American..."
+    },
+    {
+      "chunk_id": "wikipedia:Quentin#0000",
+      "doc_id": "wikipedia:Quentin",
+      "title": "Quentin",
+      "url": "https://en.wikipedia.org/?curid=2155177",
+      "source_type": "wikipedia",
+      "score": 0.4080011546611786,
+      "text": "Quentin is a French masculine given name derived from the Latin first name Quintinus, a diminutive form of Quintus, which means \"the fifth\". People Saint Quentin (died c. 287) Quentin Anderson (1912–2003), American literary critic and cultural historian Quentin Bajac (born 1965), French curator and historian of photography Quentin Bataillon (born 1993), French politician Quentin Blake (born 1932), English illustrator, famous for his work in Roald Dahl books Quentin Bryce (born 1942), the 25th Governor-General of Australia Quentin N. Burdick (1908–1992), American lawyer and senator from North Dakota Quentin Chapman, American politician Quentin Cooper (born 1961), English science journalist, and broadcaster Quentin Crisp (1908–1999), English author and social critic Quentin Davies, Baron Davies of Stamford (born 1944), British politician Quentin Dean (1944–2003), American actress Quentin Elias, French singer and gay pornographic actor Quentin Fillon Maillet (born 1992), French biathlete"
+    },
+    {
+      "chunk_id": "wikipedia:Maybe#0000",
+      "doc_id": "wikipedia:Maybe",
+      "title": "Maybe",
+      "url": "https://en.wikipedia.org/?curid=3627756",
+      "source_type": "wikipedia",
+      "score": 0.40668055415153503,
+      "text": "Maybe may refer to: Music Albums Maybe (Sharon O'Neill album), 1981 Maybe, a 1970 album by The Three Degrees Songs \"Maybe\" (Allan Flynn and Frank Madden song), 1935 \"Maybe\" (Brainstorm song), 2001 \"Maybe\" (Carmada song), 2014 \"Maybe\" (The Chantels song), 1957 \"Maybe\" (Emma Bunton song), 2003 \"Maybe\" (Enrique Iglesias song), 2002 \"Maybe\" (Ingrid Michaelson song), 2009 \"Maybe\" (Jay Sean song), 2008 \"Maybe\" (Kenny Rogers and Holly Dunn song), 1990 \"Maybe\" (Machine Gun Kelly song), 2022 \"Maybe\" (N.E.R.D song), 2004 \"Maybe\" (No Angels song), 2007 \"Maybe\" (Sharon O'Neill song), 1981 \"Maybe\" (Sick Puppies song), 2010 \"Maybe\" (Maybe Man), 2023 \"Maybe\" (Teyana Taylor song), 2014 \"Maybe\" (Toni Braxton song), 2001 \"Maybe\", a song by Aṣa from Beautiful Imperfection, 2010 \"Maybe\", a song by Birdy from Fire Within, 2013 \"Maybe\", a song by Craig Davis from 22, 2022 \"Maybe\", a song by Dave Gahan released as a B-side on the single \"Dirty Sticky Floors\", 2003 \"Maybe\", a song by Estelle from The 18th"
+    },
+    {
+      "chunk_id": "wikipedia:Name#0000",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.40584465861320496,
+      "text": "A name is a term used for identification by an external observer. They can identify a class or category of things, or a single thing, either uniquely, or within a given context. The entity identified by a name is called its referent. A personal name identifies, not necessarily uniquely, a specific individual human. The name of a specific entity is sometimes called a proper name (although that term has a philosophical meaning as well) and is, when consisting of only one word, a proper noun. Other nouns are sometimes called \"common names\" or (obsolete) \"general names\". A name can be given to a person, place, or thing; for example, parents can give their child a name or a scientist can give an element a name. Etymology The word name comes from Old English nama; cognate with Old High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥."
+    },
+    {
+      "chunk_id": "wikipedia:Feline#0000",
+      "doc_id": "wikipedia:Feline",
+      "title": "Feline",
+      "url": "https://en.wikipedia.org/?curid=45339",
+      "source_type": "wikipedia",
+      "score": 0.38274717330932617,
+      "text": "Feline may refer to: Zoology Loosely, Felidae, a member of the cat family, which includes the subfamilies Pantherinae and Felinae (conventionally designated a felid). Following the taxonomic convention, Felinae, the subfamily of Felidae that includes domestic cats and smaller wild cats. Cat, the domesticated feline. Music Feline (band), a late-1990s London-based English rock group. Feline (The Stranglers album), 1983. Feline (1998 album), the self-titled album by Feline, expanded release of Save Your Face. Feline (Ella Eyre album) (2015), the debut studio album by Ella Eyre. Feline (song), a song on Delta Goodrem's 2016 album Wings of the Wild. \"Feline\", a song by the Cat Empire Comics Feline (comics), a fictional character from the Malibu comics line. See also FÉLIN, a French infantry combat system Félines (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:More#0001",
+      "doc_id": "wikipedia:More",
+      "title": "More",
+      "url": "https://en.wikipedia.org/?curid=43850",
+      "source_type": "wikipedia",
+      "score": 0.35797340273857114,
+      "text": "2001 More, by Mylon LeFevre, 1983 More, by Resin Dogs, 2007 Songs \"More\" (Alex Alstone and Tom Glazer song), popularized by Perry Como, 1956 \"More\" (Alison Moyet song), 2003 \"More\" (J-Hope song), 2022 \"More\" (K/DA song), 2020 \"More\" (Matthew West song), 2003 \"More\" (Peaches song), 2009 \"More\" (The Sisters of Mercy song),..."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "meme_id": "meme_01797",
+  "queries": [
+    "\"A NEW MEME TEMPLATE\" \"THE INTERNET\" \"hard guys\" \"hard\"",
+    "\"hard guys\" \"hard\" \"guys\" \"new\""
+  ],
+  "primary_terms": [
+    "hard guys",
+    "hard",
+    "guys",
+    "A NEW MEME TEMPLATE",
+    "THE INTERNET",
+    "new",
+    "template",
+    "internet"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Hard#0000",
+      "doc_id": "wikipedia:Hard",
+      "title": "Hard",
+      "url": "https://en.wikipedia.org/?curid=732244",
+      "source_type": "wikipedia",
+      "score": 1.0745402336120606,
+      "text": "Hard means something that is difficult to do. It may also refer to: Hardness, resistance of physical materials to deformation or fracture Hard water, water with high mineral content Arts and entertainment Hard (TV series), a French TV series Hard (band), a Hungarian hard rock supergroup Hard (music festival), in the U.S. Albums Hard (EP), Goodbye Mr Mackenzie, 1993 Hard (Brainpower album), 2008 Hard (Gang of Four album), 1983 Hard (Jagged Edge album), 2003 Hard (Shinee album), 2023, and its title track Hard, a 2017 EP from the band The Neighbourhood Songs \"Hard\" (Rihanna song), 2009 \"Hard\" (Sophie song), 2014 \"Hard\", a song by Royce da 5'9\" from the 2016 album Layers \"Hard\", a song by Why Don't We from the 2018 album 8 Letters \"Hard\", a song by Poppy from the 2023 album Zig Places Hard, Austria Hard (Zürich), Switzerland Other uses Hard (surname) Hard architecture, impersonal windowless buildings with graffiti-resistant walls usually associated with prisons and other secure structures"
+    },
+    {
+      "chunk_id": "wikipedia:Absolutely#0001",
+      "doc_id": "wikipedia:Absolutely",
+      "title": "Absolutely",
+      "url": "https://en.wikipedia.org/?curid=1914454",
+      "source_type": "wikipedia",
+      "score": 0.8162836492061615,
+      "text": "Hard Way Absolutely (TV series), a British comedy sketch show Abso Lutely Productions, a production company started by Tim Heidecker and Eric Wareheim See also Absolute (disambiguation) Absoluteness, a description of formulas that have the same truth value in each of some class of structures Absolution (disambiguation) Definitely (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Rare#0001",
+      "doc_id": "wikipedia:Rare",
+      "title": "Rare",
+      "url": "https://en.wikipedia.org/?curid=1276372",
+      "source_type": "wikipedia",
+      "score": 0.6262551009654999,
+      "text": "album), 2017 Rare (Selena Gomez album) or the title song (see below), 2020 Rare!, by Crack the Sky, 1994 Rare, Vol. 1, by Ultravox, 1993 Rare, Vol. 2, by Ultravox, 1994 Rare: The Collected B-Sides 1989–1993, by Moby, 1996 Rare, by Xiu Xiu, 2012 Songs \"Rare\" (Gwen Stefani song), 2016 \"Rare\" (Selena Gomez song), 2020 \"Rare\", by Man Overboard from Man Overboard, 2011 Organizations Rare (company), a British video game development studio Réseaux Associés pour la Recherche Européenne, a computer networking organisation known since 1994 as TERENA Rare (conservation organization), an environmentalist group Rare (news website..."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0001",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.5902717292308808,
+      "text": "by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites. The Internet has enabled and accelerated new forms of personal interaction through instant messaging, Internet forums, and social networking services. Online shopping has also grown to occupy a significant market across industries, enabling firms to extend brick and mortar presences..."
+    },
+    {
+      "chunk_id": "wikipedia:Different Colors#0001",
+      "doc_id": "wikipedia:Different Colors",
+      "title": "Different Colors",
+      "url": "https://en.wikipedia.org/?curid=47055403",
+      "source_type": "wikipedia",
+      "score": 0.5708269238471985,
+      "text": "of the band touring with colorful visuals. The song was performed live by Walk the Moon at award shows, including the 2015 MTV Video Music Awards. It was included on the setlist for the band's Talking Is Hard Tour (2015) and was used in campaigns of Pepsi, AT&T & Apple. Background and composition \"Different Colors\" was written by all four members of Walk the Moon, while recorded at Rancho..."
+    },
+    {
+      "chunk_id": "wikipedia:Easy#0000",
+      "doc_id": "wikipedia:Easy",
+      "title": "Easy",
+      "url": "https://en.wikipedia.org/?curid=7445591",
+      "source_type": "wikipedia",
+      "score": 0.5648642927408218,
+      "text": "Easy is an adjective describing something that is not difficult to do. It may also refer to: Arts and entertainment Film and television Easy (2003 film), an American romantic comedy film Easy (2017 film), a comedy-drama film Easy!, or Scialla!, a 2011 Italian comedy film Easy (TV series), a 2016–2019 American comedy-drama anthology series Music Albums Easy (Easybeats album), 1965 Easy (Grant Green album), 1978 Easy (Grinspoon album), 1999 Easy (Kelly Willis album) or the title song, 2002 Easy (Marvin Gaye and Tammi Terrell album), 1969 Easy (Nancy Wilson album), 1968 Easy (Ralph McTell album), 1974 Easy, by Cowboy Mouth, 2000 EPs Easy (EP), by Le Sserafim, 2024 Songs \"Easy\" (Commodores song), 1977; covered by Faith No More, 1992 \"Easy\" (Camila Cabello song), 2019 \"Easy\" (Cro song), 2012 \"Easy\" (DaniLeigh song), 2019 \"Easy\" (Dragonette song), 2010 \"Easy\" (Ice MC song), 1989 \"Easy\" (Jvke song), 2025 \"Easy\" (KSI, Bugzy Malone and R3hab song), 2023 \"Easy\" (Le Sserafim song), 2024 \"Easy\""
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0000",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.5608252167701722,
+      "text": "The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies. The Internet carries a vast range of information services and resources, such as the interlinked hypertext documents and applications of the World Wide Web (WWW), electronic mail, discussion groups, internet telephony, streaming media and file sharing. Most traditional communication media, including telephone, radio, television, paper mail, newspapers, and print publishing, have been transformed by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.5574093759059906,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:Greedy#0000",
+      "doc_id": "wikipedia:Greedy",
+      "title": "Greedy",
+      "url": "https://en.wikipedia.org/?curid=1376590",
+      "source_type": "wikipedia",
+      "score": 0.5433548003435135,
+      "text": "Someone who is greedy is consumed with selfish desires. Greedy may also refer to: Music Greedy (album), an album by Headless Chickens, 1997 Greedy, an album by Mekdes, 2022 \"Greedy\" (Ariana Grande song), 2016 \"Greedy\" (Tate McRae song), 2023 \"Greedy\", a song by All from Mass Nerder, 1998 \"Greedy\", a song by The Away Team from Training Day, 2007 \"Greedy\", a song by Lyfe Jennings from Lyfe 268‒192, 2004 \"Greedy\", a song by Pure, 1993 \"Greedy\", a song by Rich the Kid from Keep Flexin, 2016 \"Greedy\", a song by PartyNextDoor and Drake from Some Sexy Songs 4 U, 2025 People Greedy Smith (1956–2019), pseudonym of Andrew McArthur Smith, singer, musician and songwriter with the Australian pop/new wave band Mental As Anything Greedy Vance Jr."
+    },
+    {
+      "chunk_id": "wikipedia:Easy#0001",
+      "doc_id": "wikipedia:Easy",
+      "title": "Easy",
+      "url": "https://en.wikipedia.org/?curid=7445591",
+      "source_type": "wikipedia",
+      "score": 0.5422349274158478,
+      "text": "song), 2010 \"Easy\" (Ice MC song), 1989 \"Easy\" (Jvke song), 2025 \"Easy\" (KSI, Bugzy Malone and R3hab song), 2023 \"Easy\" (Le Sserafim song), 2024 \"Easy\" (Mat Zo and Porter Robinson song), 2013 \"Easy\" (Pale Waves song), 2021 \"Easy\" (Paula DeAnda song), 2007 \"Easy\" (Rascal Flatts song), featuring Natasha Bedingfield, 2011..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A woman is looking angrily behind her.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Poster finds creating memes hard.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "title": {
+        "text": "it's hard guys",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "hard guys",
+          "hard",
+          "guys"
+        ]
+      },
+      "text": {
+        "text": "ME: TRYING OUT A NEW MEME TEMPLATE OF MYSELF THE INTERNET:",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "A NEW MEME TEMPLATE",
+          "THE INTERNET",
+          "new",
+          "template",
+          "internet"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "hard guys",
+      "hard",
+      "guys",
+      "A NEW MEME TEMPLATE",
+      "THE INTERNET",
+      "new",
+      "template",
+      "internet"
+    ],
+    "secondary_terms": [],
+    "queries": [
+      "\"A NEW MEME TEMPLATE\" \"THE INTERNET\" \"hard guys\" \"hard\"",
+      "\"hard guys\" \"hard\" \"guys\" \"new\""
+    ]
+  },
+  "source_jsonl_id": null
+}

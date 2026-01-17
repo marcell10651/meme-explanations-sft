@@ -1,0 +1,200 @@
+{
+  "meme_id": "meme_00589",
+  "queries": [
+    "\"POISONED BREAD\" \"THE RAT\" \"chocolate\" \"tasted\"",
+    "\"chocolate\" \"tasted\" \"mom\" \"leaves\""
+  ],
+  "primary_terms": [
+    "chocolate",
+    "tasted",
+    "POISONED BREAD",
+    "THE RAT",
+    "mom",
+    "leaves",
+    "poisoned",
+    "bread",
+    "rat",
+    "see",
+    "fam"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0000",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.9167326867580414,
+      "text": "The Oompa-Loompas are a fictional race of people in the Charlie and the Chocolate Factory franchise based on the original book by Roald Dahl. In all versions of the story, they are depicted as little people who form the workforce of Willy Wonka's chocolate factory, and are paid in cocoa beans. However, their appearance and backstory change depending on the version. Design and characteristics The Oompa-Loompas are described as being no larger than medium-sized dolls, with rosy-white skin and long golden-brown hair. They wear the same clothes they wore at Loompaland: the men wear deerskins, the women wear leaves and the children wear nothing at all. Before moving to Willy Wonka's chocolate factory, the Oompa-Loompas lived in Loompaland, where they lived in constant fear of the predators that would eat them. Their main source of food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting."
+    },
+    {
+      "chunk_id": "wikipedia:Candy#0000",
+      "doc_id": "wikipedia:Candy",
+      "title": "Candy",
+      "url": "https://en.wikipedia.org/?curid=61230",
+      "source_type": "wikipedia",
+      "score": 0.910590934753418,
+      "text": "Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. The category, also called sugar confectionery, encompasses any sweet confection, including chocolate, chewing gum, and sugar candy. Vegetables, fruit, or nuts which have been glazed and coated with sugar are said to be candied. Physically, candy is characterized by the use of a significant amount of sugar or sugar substitutes. Unlike a cake or loaf of bread that would be shared among many people, candies are usually made in smaller pieces. However, the definition of candy also depends upon how people treat the food. Unlike sweet pastries served for a dessert course at the end of a meal, candies are normally eaten casually, often with the fingers, as a snack between meals. Each culture has its own ideas of what constitutes candy rather than dessert. The same food may be a candy in one culture and a dessert in another."
+    },
+    {
+      "chunk_id": "wikipedia:Cake#0000",
+      "doc_id": "wikipedia:Cake",
+      "title": "Cake",
+      "url": "https://en.wikipedia.org/?curid=57572",
+      "source_type": "wikipedia",
+      "score": 0.7380041599273681,
+      "text": "Cake is a baker's confectionery usually made from flour, sugar, and other ingredients and is usually baked. In their oldest forms, cakes were modifications of bread, but cakes now cover a wide range of preparations that can be simple or elaborate and which share features with desserts such as pastries, meringues, custards, and pies. The most common ingredients include flour, sugar, eggs, fat (such as butter, oil, or margarine), a liquid, and a leavening agent, such as baking soda or baking powder. Common additional ingredients include dried, candied, or fresh fruit, nuts, cocoa, and extracts such as vanilla, with numerous substitutions for the primary ingredients. Cakes can also be filled with fruit preserves, nuts, or dessert sauces (like custard, jelly, cooked fruit, whipped cream, or syrups), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit."
+    },
+    {
+      "chunk_id": "wikipedia:Willy Wonka#0000",
+      "doc_id": "wikipedia:Willy Wonka",
+      "title": "Willy Wonka",
+      "url": "https://en.wikipedia.org/?curid=704925",
+      "source_type": "wikipedia",
+      "score": 0.6716908276081085,
+      "text": "Willy Wonka is a fictional character appearing in British author Roald Dahl's 1964 children's novel Charlie and the Chocolate Factory and its 1972 sequel Charlie and the Great Glass Elevator. He is the eccentric founder and proprietor of the Wonka Chocolate Factory. Wonka has been depicted in film several times. In 1971, Willy Wonka was portrayed by Gene Wilder in Willy Wonka & the Chocolate Factory. Wilder's portrayal in the film is widely beloved and is considered one of his greatest roles. Johnny Depp played the character in 2005's Charlie and the Chocolate Factory which polarized critics and audiences. In 2023, Timothée Chalamet portrayed the character in a standalone film that tells his origin story titled Wonka. Chalamet's performance was both praised and criticized. Wilder, Depp, and Chalamet all received Golden Globe nominations for Best Actor in a Comedy or Musical for their performances."
+    },
+    {
+      "chunk_id": "wikipedia:Smoking#0000",
+      "doc_id": "wikipedia:Smoking",
+      "title": "Smoking",
+      "url": "https://en.wikipedia.org/?curid=12254052",
+      "source_type": "wikipedia",
+      "score": 0.6248999953269958,
+      "text": "Smoking is a human behavior which involves the combustion of a substance, usually plant material, and the inhalation of resulting fumes. Today, smoking is mostly practiced by rolling the dried leaves of the tobacco plant into a cigarette. Other forms of tobacco smoking include the use of a smoking tobacco with a pipe or cigar, or using a bong. Cigarette smokers almost always inhale the smoke; most pipe and cigar smokers do not inhale. Smoking is primarily practiced as a route of administration for psychoactive chemicals because the active substances within the burnt, dried plant leaves (or other chemical) can vaporize into a gaseous state and be delivered into the respiratory tract, where they are rapidly absorbed into the bloodstream through the lungs and can reach the central nervous system."
+    },
+    {
+      "chunk_id": "wikipedia:Cake#0001",
+      "doc_id": "wikipedia:Cake",
+      "title": "Cake",
+      "url": "https://en.wikipedia.org/?curid=57572",
+      "source_type": "wikipedia",
+      "score": 0.6204473942518234,
+      "text": "jelly, cooked fruit, whipped cream, or syrups), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit. Cake is often served as a celebratory dish on ceremonial occasions, such as weddings, anniversaries, and birthdays. There are countless cake recipes; some are bread-like, some are rich and elaborate, and many are centuries old. Cake making is no longer a complicated procedure; while at one time..."
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0000",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.5764413833618164,
+      "text": "A drink or beverage is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, juice, smoothies and soft drinks. Traditionally warm beverages encompass coffee, tea, and hot chocolate. Caffeinated drinks that contain the stimulant caffeine, have been consumed for centuries. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the psychoactive substance ethanol, have been part of human culture for more than 8,000 years. Non-alcoholic drinks typically refer to beverages that are traditionally alcoholic—such as beer, wine, or cocktails—but are produced with a very low alcohol by volume content. This category includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines."
+    },
+    {
+      "chunk_id": "wikipedia:Bing#0000",
+      "doc_id": "wikipedia:Bing",
+      "title": "Bing",
+      "url": "https://en.wikipedia.org/?curid=23443579",
+      "source_type": "wikipedia",
+      "score": 0.5746788144111633,
+      "text": "Bing most often refers to: Bing Crosby (1903–1977), American singer Microsoft Bing, a web search engine Bing may also refer to: Food and drink Bing (bread), a Chinese flatbread Bing (soft drink), a UK brand Bing cherry, a variety of cherry Twin Bing or Bing, a candy made by Palmer Candy Company Names Bing (German surname), a German-language surname Bing (Chinese surname) (邴), a Chinese surname Places Bing Prefecture, an ancient Chinese province Bing, Hormozgan, a village in Hormozgan Province, Iran Binag, Sistan and Baluchestan, a village in Sistan and Baluchestan Province, Iran Manor of Byng, Suffolk, England Television Bing (TV series), a British children's television series Bada Bing or the Bing, a fictional strip club in The Sopranos Bing or Evan Chambers, a character in Greek Bing, a character in The Angry Beavers Other uses Bing (company), a German company that manufactured toys and kitchen utensils Bing (dog), a British dog who served in World War II Bing (mining), a Scottish"
+    },
+    {
+      "chunk_id": "wikipedia:Smoking#0001",
+      "doc_id": "wikipedia:Smoking",
+      "title": "Smoking",
+      "url": "https://en.wikipedia.org/?curid=12254052",
+      "source_type": "wikipedia",
+      "score": 0.5611470699310303,
+      "text": "delivered into the respiratory tract, where they are rapidly absorbed into the bloodstream through the lungs and can reach the central nervous system. In the case of tobacco smoking, these active substances are a mixture of aerosol particles that include the pharmacologically active alkaloid nicotine, which stimulates the nicotinic acetylcholine receptors in the brain, and other non-psychoactive chemicals that result from combustion. Other notable drugs inhaled via smoking include tetrahydrocannabinol (from cannabis), morphine (from opium),..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.549913078546524,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A person looks at a man and kid sleeping on the floor.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "kid",
+          "the floor"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that leaving out poisoned bread will kill the rat and the meme poster because they wouldn't know",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "poisoned bread",
+          "the rat"
+        ]
+      },
+      "title": {
+        "text": "It tasted like chocolate.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "chocolate",
+          "tasted"
+        ]
+      },
+      "text": {
+        "text": "“MOM LEAVES OUT POISONED BREAD FOR THE RAT” ME AND THE RAT AT 3AM: ————— Lf a ee SE: ey WV / LP See YO mp “- y / oo / NY \\ i a / E> y fam Fm / / / a {; \\ A om ; ae ne ' / J / ~ ~~ ; ; ’ ; .",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "POISONED BREAD",
+          "THE RAT",
+          "mom",
+          "leaves",
+          "poisoned",
+          "bread",
+          "rat",
+          "see",
+          "fam"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "chocolate",
+      "tasted",
+      "POISONED BREAD",
+      "THE RAT",
+      "mom",
+      "leaves",
+      "poisoned",
+      "bread",
+      "rat",
+      "see",
+      "fam"
+    ],
+    "secondary_terms": [
+      "kid",
+      "the floor",
+      "poisoned bread",
+      "the rat"
+    ],
+    "queries": [
+      "\"POISONED BREAD\" \"THE RAT\" \"chocolate\" \"tasted\"",
+      "\"chocolate\" \"tasted\" \"mom\" \"leaves\""
+    ]
+  },
+  "source_jsonl_id": null
+}

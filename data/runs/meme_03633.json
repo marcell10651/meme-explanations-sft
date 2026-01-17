@@ -1,0 +1,105 @@
+{
+  "meme_id": "meme_03633",
+  "queries": [
+    "\"fifa\" \"hbos\" \"tobuild\" \"ceo\"",
+    "\"the effect\" \"the urge\" \"fifa\" \"hbos\""
+  ],
+  "primary_terms": [
+    "fifa",
+    "hbos",
+    "tobuild",
+    "ceo"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.5359810292720795,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Profit#0000",
+      "doc_id": "wikipedia:Profit",
+      "title": "Profit",
+      "url": "https://en.wikipedia.org/?curid=18487619",
+      "source_type": "wikipedia",
+      "score": 0.4589547663927078,
+      "text": "Profit may refer to: Business and law Profit (accounting), the difference between the purchase price and the costs of bringing to market Profit (economics), normal profit and economic profit Profit (real property), a nonpossessory interest in land Account of profits, a type of equitable remedy in law (also known as an accounting) Arts, entertainment, and media Profit (magazine), Canadian business magazine aimed at entrepreneurs Profit (TV series), U.S. TV series starring Adrian Pasdar The Profit (film), U.S. 2001 feature film by Peter N. Alexander The Profit (TV series), U.S. TV series presented by Marcus Lemonis People Joe Profit (born 1959), former American football player Laron Profit (born 1977), professional basketball player Richard Profit (born 1974), English mountaineer and adventurer Park \"Profit\" Joon-yeong, professional Overwatch player Places Profit, United States Virgin Islands See also All pages with titles beginning with Profit All pages with titles containing Profit"
+    },
+    {
+      "chunk_id": "wikipedia:Google#0001",
+      "doc_id": "wikipedia:Google",
+      "title": "Google",
+      "url": "https://en.wikipedia.org/?curid=1092923",
+      "source_type": "wikipedia",
+      "score": 0.4418880701065063,
+      "text": "owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's internet properties and interests. Sundar Pichai was appointed CEO of Google on October 24, 2015, replacing Larry Page, who became the CEO of Alphabet. On December 3, 2019, Pichai also became the CEO of Alphabet. After the success of its original service..."
+    },
+    {
+      "chunk_id": "wikipedia:Common#0001",
+      "doc_id": "wikipedia:Common",
+      "title": "Common",
+      "url": "https://en.wikipedia.org/?curid=568187",
+      "source_type": "wikipedia",
+      "score": 0.4403139799833298,
+      "text": "critic Arts, entertainment, and media Common (film), a 2014 BBC One film, written by Jimmy McGovern, on the UK's Joint Enterprise Law Dol Common, a character in The Alchemist by Ben Jonson Harvard Common Press of Boston, Massachusetts, a publisher of cookbooks and parenting books The Common Room, a former interactive TV show on ITV..."
+    },
+    {
+      "chunk_id": "wikipedia:Leave#0000",
+      "doc_id": "wikipedia:Leave",
+      "title": "Leave",
+      "url": "https://en.wikipedia.org/?curid=85749",
+      "source_type": "wikipedia",
+      "score": 0.39944157004356384,
+      "text": "Leave may refer to: Permission (disambiguation) Permitted absence from work Leave of absence, a period of time that one is to be away from one's primary job while maintaining the status of employee Annual leave, allowance of time away from work while continuing to be paid Leave (military), a period of time in which a soldier is allowed to be away from his or her assigned unit Leave to enter, permission for entry to the United Kingdom granted by British immigration officers Leave to remain, permanent residency in the United Kingdom Leave to appeal, granted to the loser in a court case to appeal the verdict Leave to prosecute, permission to bring a private prosecution of a criminal case Leave of the house/senate, the term used to describe unanimous consent in Westminster system parliaments The pro-Brexit side of the Brexit debate (opposite of \"Remain\") Arts, entertainment, and media Leave (film), a 2010 film by Robert Celestino Leave (2022 film), a 2022 film by Alex Herron Music Leave"
+    },
+    {
+      "chunk_id": "wikipedia:Appearance#0001",
+      "doc_id": "wikipedia:Appearance",
+      "title": "Appearance",
+      "url": "https://en.wikipedia.org/?curid=8104650",
+      "source_type": "wikipedia",
+      "score": 0.38605809211730957,
+      "text": "submits himself to the jurisdiction of the court. Appear or Appears may refer to: \"Appear\" (나타나) a song from Secret Garden OST (2010), by Kim Bum-soo. \"Appears\", a song released by Ayumi Hamasaki in 1999 Appearing may refer to: Appearing (media consultants) - \"Appearing\", broadcast media promotion consultants, a PR agency headed by Scott Piering See also All pages with titles beginning with Appearance All pages with titles containing Appearance Apparition (disambiguation), any instance of appearing, but usually referring to a supernatural phenomenon Cap (sport) in some sports is a metaphorical term for a player's appearance on a select team, such as a national team"
+    },
+    {
+      "chunk_id": "wikipedia:Contribution#0000",
+      "doc_id": "wikipedia:Contribution",
+      "title": "Contribution",
+      "url": "https://en.wikipedia.org/?curid=1522920",
+      "source_type": "wikipedia",
+      "score": 0.38461023569107056,
+      "text": "Contribution may refer to: Music Contribution (album), by Mica Paris (1990) \"Contribution\" (song), title song from the album Contribution, a 1976 album by Shawn Phillips A contribution concert is where a band plays in the songs of or in the style of a separate band Finance and law Contribution (law), an agreement between defendants in a suit to apportion liability Contributions, a vital goal of fundraising Contribution margin, the selling price per unit minus the variable cost per unit Contribution, a principle of insurance Sport Goal contribution, a player statistic in association football See also Adobe Contribute, former web-editing software"
+    },
+    {
+      "chunk_id": "wikipedia:The Walt Disney Company#0001",
+      "doc_id": "wikipedia:The Walt Disney Company",
+      "title": "The Walt Disney Company",
+      "url": "https://en.wikipedia.org/?curid=37398",
+      "source_type": "wikipedia",
+      "score": 0.3208460122346878,
+      "text": "theme parks in the 1950s. However, following Walt Disney's death in 1966, the company's profits, especially in the animation sector, began to decline. In 1984, Disney's shareholders voted Michael Eisner as CEO, who led a reversal of the company's decline through a combination of international theme park expansion and the highly successful Disney Renaissance period..."
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo#0001",
+      "doc_id": "wikipedia:Leonardo",
+      "title": "Leonardo",
+      "url": "https://en.wikipedia.org/?curid=11525478",
+      "source_type": "wikipedia",
+      "score": 0.30895647406578064,
+      "text": "Crashcup People Leonardo da Vinci (1452–1519), Italian polymath Leonardo Araújo, Brazilian former footballer and manager, most recently the sporting director of Paris Saint-Germain Leonardo (footballer, born 1974), Brazilian forward Leonardo Pereira da Silva (1974–2016) Leonardo (footballer, born 1976), Brazilian winger Leonardo dos Santos..."
+    },
+    {
+      "chunk_id": "wikipedia:Television#0000",
+      "doc_id": "wikipedia:Television",
+      "title": "Television",
+      "url": "https://en.wikipedia.org/?curid=29831",
+      "source_type": "wikipedia",
+      "score": 0.2980683147907257,
+      "text": "Television (TV) is a telecommunication medium for transmitting moving images and sound. Additionally, the term can refer to a physical television set rather than the medium of transmission. Television is a mass medium for advertising, entertainment, news, and sports. The medium is capable of more than \"radio broadcasting\", which refers to an audio signal sent to radio receivers. Television became available in crude experimental forms in the 1920s, but only after several years of further development was the new technology marketed to consumers. After World War II, an improved form of black-and-white television broadcasting became popular in the United Kingdom and the United States, and television sets became commonplace in homes, businesses, and institutions. During the 1950s, television was the primary medium for influencing public opinion. In the mid-1960s, color broadcasting was introduced in the U.S. and most other developed countries."
+    }
+  ]
+}

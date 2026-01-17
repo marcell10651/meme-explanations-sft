@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_00313",
+  "queries": [
+    "\"not\" \"one\" \"more\" \"efo\"",
+    "\"more\" \"efo\" \"said\" \"erian\""
+  ],
+  "primary_terms": [
+    "not",
+    "one",
+    "more",
+    "efo",
+    "said",
+    "erian",
+    "mowie",
+    "ity"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Sone#0000",
+      "doc_id": "wikipedia:Sone",
+      "title": "Sone",
+      "url": "https://en.wikipedia.org/?curid=215436",
+      "source_type": "wikipedia",
+      "score": 0.6258716315031052,
+      "text": "The sone () is a unit of loudness, the subjective perception of sound pressure. The study of perceived loudness is included in the topic of psychoacoustics and employs methods of psychophysics. Doubling the perceived loudness doubles the sone value. Proposed by Stanley Smith Stevens in 1936, it is not an SI unit. Definition and conversions According to Stevens' definition, a loudness of 1 sone is equivalent to 40 phons (a 1 kHz tone at 40 dB SPL). The phons scale aligns with dB, not with loudness, so the sone and phon scales are not proportional. Rather, the loudness in sones is, at least very nearly, a power law function of the signal intensity, with an exponent of 0.3. With this exponent, each 10 phon increase (or 10 dB at 1 kHz) produces almost exactly a doubling of the loudness in sones."
+    },
+    {
+      "chunk_id": "wikipedia:More#0001",
+      "doc_id": "wikipedia:More",
+      "title": "More",
+      "url": "https://en.wikipedia.org/?curid=43850",
+      "source_type": "wikipedia",
+      "score": 0.6164001494646072,
+      "text": "2001 More, by Mylon LeFevre, 1983 More, by Resin Dogs, 2007 Songs \"More\" (Alex Alstone and Tom Glazer song), popularized by Perry Como, 1956 \"More\" (Alison Moyet song), 2003 \"More\" (J-Hope song), 2022 \"More\" (K/DA song), 2020 \"More\" (Matthew West song), 2003 \"More\" (Peaches song), 2009 \"More\" (The Sisters of Mercy song),..."
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0001",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.5689645379781723,
+      "text": "the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element. The objective can be clarity or effective communication, association with other cultural elements, or merely the creation of a distinctive style. Graphics can be functional or artistic. The latter can be a recorded version, such as a photograph, or an interpretation by a scientist to highlight..."
+    },
+    {
+      "chunk_id": "wikipedia:Comes#0000",
+      "doc_id": "wikipedia:Comes",
+      "title": "Comes",
+      "url": "https://en.wikipedia.org/?curid=1721514",
+      "source_type": "wikipedia",
+      "score": 0.5635372072458267,
+      "text": "Comes (plural comites), translated as count, was a Roman title, generally linked to a comitatus or comital office. The word comes originally meant \"companion\" or \"follower\", deriving from \"com-\" (\"with\") and \"ire\" (\"go\"). The special lasting meaning derives from the position of a follower within a comitatus, which was a retinue, or group of followers, such as those of magnates. In some instances these were sufficiently large and/or formal to justify specific denomination, such as a \"cohors amicorum\". The word comes is the origin of the much later terms for counts within the medieval nobility, and counties as their territorial jurisdictions. Ancient Roman religion Comes was a common epithet or title that was added to the name of a hero or god in order to denote relation with another god. The coinage of Roman Emperor Constantine I declared him \"comes\" to Sol Invictus (\"Unconquered Sun\") qua god."
+    },
+    {
+      "chunk_id": "wikipedia:More#0000",
+      "doc_id": "wikipedia:More",
+      "title": "More",
+      "url": "https://en.wikipedia.org/?curid=43850",
+      "source_type": "wikipedia",
+      "score": 0.560773503780365,
+      "text": "More may refer to: Computing MORE (application), outline software for Mac OS more (command), a shell command MORE protocol, a routing protocol Missouri Research and Education Network Music Albums More! (album), by Booka Shade, 2010 More (soundtrack), by Pink Floyd with music from the 1969 film More... (Trace Adkins album), or the title song, 1999 More (Mary Alessi album), 2005 More (Beyoncé EP), 2014 More (Michael Bublé EP), 2005 More (Clarke-Boland Big Band album), 1968 More (Double Dagger album), 2009 More... (Montell Jordan album), 1996 More (Crystal Lewis album), 2001 More (Giuseppi Logan album), 1966 More (No Mercy album), 1998 More (No Trend album), 2001 More (Jeremy Riddle album), or the title song, 2017 More (Pulp album), 2025 More (Symphony Number One album), 2016 More (Tamia album), or the title song, 2004 More (Vitamin C album), 2001 More, by Mylon LeFevre, 1983 More, by Resin Dogs, 2007 Songs \"More\" (Alex Alstone and Tom Glazer song), popularized by Perry Como, 1956 \"More\""
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0000",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.5400371491909027,
+      "text": "Fuck () is a profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives (such as fucker and fucking) are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off. Offensiveness It is unclear whether the word has always been considered a pejorative or, if not, when it first came to be used to describe (often in an extremely angry, hostile, or belligerent manner) unpleasant circumstances or people in an intentionally offensive way, such as in the term motherfucker, one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio."
+    },
+    {
+      "chunk_id": "wikipedia:Donald#0000",
+      "doc_id": "wikipedia:Donald",
+      "title": "Donald",
+      "url": "https://en.wikipedia.org/?curid=793569",
+      "source_type": "wikipedia",
+      "score": 0.5149021714925766,
+      "text": "Donald is a Scottish masculine given name. It is derived from the Gaelic name Dòmhnall. This comes from the Proto-Celtic *Dumno-ualos (\"world-ruler\" or \"world-wielder\"). The final -d in Donald is partly derived from a misinterpretation of the Gaelic pronunciation by English speakers. A short form of Donald is Don, and pet forms of Donald include Donnie and Donny. The feminine given name Donella is derived from Donald. Donald has cognates in other Celtic languages: Modern Irish Dónal (anglicised as Donal and Donall); Scottish Gaelic Dòmhnall, Domhnull and Dòmhnull; Welsh Dyfnwal and Cumbric Dumnagual. Although the feminine given name Donna is sometimes used as a feminine form of Donald, the names are not etymologically related."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0000",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.5054536670446396,
+      "text": "Other often refers to: Other (philosophy), a concept in psychology and philosophy Other or The Other may also refer to: Film and television The Other (1913 film), a German silent film directed by Max Mack The Other (1930 film), a German film directed by Robert Wiene The Other (1947 film), an Italian film directed by Carlo Ludovico Bragaglia The Other (1972 film), an American film directed by Robert Mulligan The Other (1999 film), a French-Egyptian film directed by Youssef Chahine The Other (2007 film), an Argentine-French-German film by Ariel Rotter The Other (2025 film), an American film directed by Paul Etheredge Other (film), a French/Belgian film directed by David Moreau The Other (Doctor Who), a fictional character in Doctor Who The Other (Marvel Cinematic Universe), a fictional character in the Marvel Cinematic Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A."
+    },
+    {
+      "chunk_id": "wikipedia:Update#0000",
+      "doc_id": "wikipedia:Update",
+      "title": "Update",
+      "url": "https://en.wikipedia.org/?curid=1237226",
+      "source_type": "wikipedia",
+      "score": 0.4952936679124832,
+      "text": "Update(s) or updated may refer to: Music Update (Anouk album), 2004 Update (Berlin Jazz Orchestra album), 2004 Update (Jane Zhang album), 2007 Update (Mal Waldron album), 1987 Update (Yandel album), 2017 Updated (M. Pokora album), an English-language version of Mise à jour, 2011 Other uses DR Update, a defunct Danish television news channel Software update, modifying installed software to be more up-to-date Update (SQL), a statement for changing database records Updates, a program broadcast by CNN Philippines See also Bayesian inference, a type of reasoning described as updating Patch (computing), a form of software update Upgrade, replacing or adding to improve"
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.48789601325988774,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    }
+  ]
+}

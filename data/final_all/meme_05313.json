@@ -1,0 +1,190 @@
+{
+  "meme_id": "meme_05313",
+  "queries": [
+    "\"your younger days\" \"the students\" \"the infirmary\" \"yes\"",
+    "\"the infirmary\" \"yes\" \"remember\" \"days\""
+  ],
+  "primary_terms": [
+    "those days",
+    "yes",
+    "remember",
+    "days",
+    "the students",
+    "the infirmary",
+    "your younger days"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Class#0001",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.6558507978916168,
+      "text": "The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff from Doctor Who The Class (TV series), a CBS sitcom Class (2023 TV series), a 2023 Indian Netflix teen drama Literature Class: A Guide Through the American Status System,..."
+    },
+    {
+      "chunk_id": "wikipedia:COVID-19#0001",
+      "doc_id": "wikipedia:COVID-19",
+      "title": "COVID-19",
+      "url": "https://en.wikipedia.org/?curid=63030231",
+      "source_type": "wikipedia",
+      "score": 0.6288079082965851,
+      "text": "failure, shock, or multiorgan dysfunction). Older people have a higher risk of developing severe symptoms. Some complications result in death. Some people continue to experience a range of effects (long COVID) for months or years after infection, and damage to organs has been observed. Multi-year studies on the long-term effects are ongoing. COVID‑19 transmission occurs when infectious particles are breathed in or come into contact with the eyes,..."
+    },
+    {
+      "chunk_id": "wikipedia:Help#0000",
+      "doc_id": "wikipedia:Help",
+      "title": "Help",
+      "url": "https://en.wikipedia.org/?curid=17344601",
+      "source_type": "wikipedia",
+      "score": 0.5579802393913269,
+      "text": "Help may refer to: Arts, entertainment, and media Films Help (2010 film), a Bollywood horror film Help (2021 theatrical film), a British psychological thriller film Help (2021 TV film), a TV film about the COVID-19 pandemic Help! (film), a 1965 film directed by Richard Lester starring the Beatles The Help (film), a 2011 period drama, set in Jackson, Mississippi, in 1963 Television Help (Australian TV series), a documentary series Help (Dutch TV series), a drama series Help (British TV series), a comedy series H.E.L.P., a 1990 American TV drama series The Help (TV series), a 2004 American sitcom Dr. Henry's Emergency Lessons for People, also known as H.E.L.P.!, a 1979 American series of animated public service announcements Episodes \"Help\" (Buffy the Vampire Slayer) \"Help\" (The Gentle Touch) \"Help\", an episode of The Protector \"Help\" (Spaced) \"The Help\" (Modern Family) Literature Help! (magazine) Help!!"
+    },
+    {
+      "chunk_id": "wikipedia:Doctor#0001",
+      "doc_id": "wikipedia:Doctor",
+      "title": "Doctor",
+      "url": "https://en.wikipedia.org/?curid=662249",
+      "source_type": "wikipedia",
+      "score": 0.543179526925087,
+      "text": "Doctor, in video game Cave Story The Doctor (Star Trek) The Doctor, or Scalpel, in the Transformers film series The Doctor or Cobra Commander, in G.I. Joe: A Real American Hero The Doctor, in Little Nightmares II Minoru Kamiya, also known as Doctor, in YuYu Hakusho The Doctor (Squid Game), also known as Byeong-yi or Player 111 Film Doctor (film series), British comedy films of the 1950s–1960s Doctor (1963 film), an Indian Malayalam-language film Doctor (2013 film), a South Korean horror film Doctor (2021 film), an Indian Tamil-language film Doctor (2023 film), a Russian drama The Doctor (1991 film), an American drama The Doctor (2013 film), about basketball player Julius Erving Music ��4�..."
+    },
+    {
+      "chunk_id": "wikipedia:Doctor#0000",
+      "doc_id": "wikipedia:Doctor",
+      "title": "Doctor",
+      "url": "https://en.wikipedia.org/?curid=662249",
+      "source_type": "wikipedia",
+      "score": 0.5210192948579788,
+      "text": "Doctor most often refers to: Medical doctor, a person who is qualified to practice medicine Doctor (title), an academic title granted to holders of a doctorate Doctor, Doctors, The Doctor or The Doctors may also refer to: Arts and entertainment Fictional characters The Doctor, the main character of the BBC series Doctor Who List of fictional doctors Doctor (comics), several fictional characters Doctor, in the film My Giant Doctor, in Black Cat The Doctor, in Hellsing The Doctor, in video game Cave Story The Doctor (Star Trek) The Doctor, or Scalpel, in the Transformers film series The Doctor or Cobra Commander, in G.I."
+    },
+    {
+      "chunk_id": "wikipedia:Care#0000",
+      "doc_id": "wikipedia:Care",
+      "title": "Care",
+      "url": "https://en.wikipedia.org/?curid=246884",
+      "source_type": "wikipedia",
+      "score": 0.47119826078414917,
+      "text": "Care may refer to: Organizations and projects CARE (New Zealand), Citizens Association for Racial Equality, a former New Zealand organisation CARE (England) West Midlands, Central Accident Resuscitation Emergency team, a team of doctors & paramedics CARE International, Cooperative for Assistance and Relief Everywhere, an international aid and development organization Carpet America Recovery Effort, an American carpet recycling project Charged Aerosol Release Experiment, a NASA project concerning dust in space Christian Action Research and Education, a Christian lobby group in the United Kingdom Credit Abuse Resistance Education, an American national program Crew Module Atmospheric Re-entry Experiment, a 2014 ISRO experimental vehicle People with the surname Danny Care (soccer) (born 1974), American soccer player Danny Care (born 1987), English rugby union player Henry Care (1646–1688), English political writer and journalist Peter Care (born 1953), British film and video producer"
+    },
+    {
+      "chunk_id": "wikipedia:The Lady Doctor#0000",
+      "doc_id": "wikipedia:The Lady Doctor",
+      "title": "The Lady Doctor",
+      "url": "https://en.wikipedia.org/?curid=46194248",
+      "source_type": "wikipedia",
+      "score": 0.4674364924430847,
+      "text": "The Lady Doctor (Italian: Totò, Vittorio e la dottoressa, also known as Totò, Vittorio and the Doctor) is a 1957 Italian comedy film directed by Camillo Mastrocinque. Plot Michele and Gennaro work as attendants in the investigation agency \"Nulla sfugge\" (\"Nothing escapes\"). When their boss is forced to be absent from the office to follow an important investigation, the two decide to take his place, pretending to be skilled investigators. Two old sisters, Ada and Ida, come to the agency to ask them to investigate the conduct of the wife of their only nephew, an American doctor from Boston, and they accept the case, which will turn out to be a mess. Cast Totò as Michele Spillone aka Mike Vittorio De Sica as Marquis Vittorio de Vitti Abbe Lane as Dr."
+    },
+    {
+      "chunk_id": "wikipedia:Mater#0000",
+      "doc_id": "wikipedia:Mater",
+      "title": "Mater",
+      "url": "https://en.wikipedia.org/?curid=4910553",
+      "source_type": "wikipedia",
+      "score": 0.46061526238918304,
+      "text": "Mater is a formal Latin term for mother and may refer to: Places Mater, Belgium, a village near Oudenaarde Health care Australia Mater Hospital, North Sydney, New South Wales Mater Group, Brisbane, Queensland Mater Health Services North Queensland, which incorporates: Mater Hospital Pimlico, Townsville, Queensland Mater Women's and Children's Hospital UK and Ireland Mater Infirmorum Hospital, Belfast, Northern Ireland Mater Misericordiae University Hospital, Dublin, Ireland (the best-known hospital in Ireland that is referred to as the Mater) Mater Private Hospital, Dublin, Ireland New Zealand Mater Misericordiae Hospital, Auckland, now Allevia Hospital Epsom Music Mater, an album by Vladimír Godár \"Mater\", a song by The Beat Fleet from Pistaccio Metallic, 2011 Other uses Mater (Cars), a character in the Disney/Pixar animated film Cars Mater, a major part of an astrolabe M.A.T.E.R., a football (soccer) club in Rome People Juris Māters (1845–1885), Latvian writer and journalist Rudy"
+    },
+    {
+      "chunk_id": "wikipedia:Toilet#0000",
+      "doc_id": "wikipedia:Toilet",
+      "title": "Toilet",
+      "url": "https://en.wikipedia.org/?curid=19167644",
+      "source_type": "wikipedia",
+      "score": 0.4507465660572052,
+      "text": "A toilet is a piece of sanitary hardware that collects human waste (urine and feces) and sometimes toilet paper, usually for disposal. Flush toilets use water, while dry or non-flush toilets do not. They can be designed for a sitting position popular in Europe and North America with a toilet seat, with additional considerations for those with disabilities, or for a squatting posture more popular in Asia, known as a squat toilet. In urban areas, flush toilets are usually connected to a sewer system; in isolated areas, to a septic tank. The waste is known as blackwater and the combined effluent, including other sources, is sewage. Dry toilets are connected to a pit, removable container, composting chamber, or other storage and treatment device, including urine diversion with a urine-diverting toilet. \"Toilet\" or \"toilets\" is also widely used for rooms containing only one or more toilets and hand-basins. Lavatory is an older word for toilet. The technology used for modern toilets varies."
+    },
+    {
+      "chunk_id": "wikipedia:Toilet#0001",
+      "doc_id": "wikipedia:Toilet",
+      "title": "Toilet",
+      "url": "https://en.wikipedia.org/?curid=19167644",
+      "source_type": "wikipedia",
+      "score": 0.4443370848894119,
+      "text": "for rooms containing only one or more toilets and hand-basins. Lavatory is an older word for toilet. The technology used for modern toilets varies. Toilets are commonly made of ceramic (porcelain), concrete, plastic, or wood. Newer toilet technologies include dual flushing, low flushing, toilet seat warming, self-cleaning, female urinals and waterless..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "an anime character, blonde hair with one hand resting on cheek",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "blonde hair",
+          "one hand",
+          "cheek"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey a feeling of deep thoughts about the past",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "deep thoughts",
+          "the past"
+        ]
+      },
+      "title": {
+        "text": "Yes I remember those days",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "those days",
+          "yes",
+          "remember",
+          "days"
+        ]
+      },
+      "text": {
+        "text": "When one of the students comes to the infirmary and you start thinking of your younger days | SOIR “a Wipes’ fae | : EN ; | A",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the students",
+          "the infirmary",
+          "your younger days"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "those days",
+      "yes",
+      "remember",
+      "days",
+      "the students",
+      "the infirmary",
+      "your younger days"
+    ],
+    "secondary_terms": [
+      "blonde hair",
+      "one hand",
+      "cheek",
+      "deep thoughts",
+      "the past"
+    ],
+    "queries": [
+      "\"your younger days\" \"the students\" \"the infirmary\" \"yes\"",
+      "\"the infirmary\" \"yes\" \"remember\" \"days\""
+    ]
+  },
+  "source_jsonl_id": null
+}

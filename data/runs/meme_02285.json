@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_02285",
+  "queries": [
+    "\"green\" \"means\" \"going\" \"drive\"",
+    "\"going\" \"drive\" \"relax\" \"clear\""
+  ],
+  "primary_terms": [
+    "green",
+    "means",
+    "going",
+    "drive",
+    "relax",
+    "clear",
+    "head",
+    "also"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Left- and right-hand traffic#0000",
+      "doc_id": "wikipedia:Left- and right-hand traffic",
+      "title": "Left- and right-hand traffic",
+      "url": "https://en.wikipedia.org/?curid=213380",
+      "source_type": "wikipedia",
+      "score": 0.7956807136535644,
+      "text": "Left-hand traffic (LHT) and right-hand traffic (RHT) are the practices, in bidirectional traffic, of keeping to the left side or to the right side of the road, respectively. They are fundamental to traffic flow, and are sometimes called the rule of the road. The terms right- and left-hand drive refer to the position of the driver and the steering wheel in the vehicle and are, in automobiles, the reverse of the terms right- and left-hand traffic. The rule also includes where on the road a vehicle is to be driven, if there is room for more than one vehicle in one direction, and the side on which the vehicle in the rear overtakes the one in the front. For example, a driver in an LHT country would typically overtake on the right of the vehicle being overtaken."
+    },
+    {
+      "chunk_id": "wikipedia:Green#0001",
+      "doc_id": "wikipedia:Green",
+      "title": "Green",
+      "url": "https://en.wikipedia.org/?curid=12460",
+      "source_type": "wikipedia",
+      "score": 0.6334239065647125,
+      "text": "on a green hue themselves as camouflage. Several minerals have a green color, including the emerald, which is colored green by its chromium content. During post-classical and early modern Europe, green was the color commonly associated with wealth, merchants, bankers, and the gentry, while red was reserved for the nobility. For this reason, the costume of the Mona Lisa by Leonardo da Vinci and the benches in the British House of Commons are green while those in the House of Lords are red. It also has a long historical..."
+    },
+    {
+      "chunk_id": "wikipedia:Backseat#0000",
+      "doc_id": "wikipedia:Backseat",
+      "title": "Backseat",
+      "url": "https://en.wikipedia.org/?curid=8201491",
+      "source_type": "wikipedia",
+      "score": 0.6095453023910522,
+      "text": "Backseat or back seat may refer to: a car seat located at the rear of a vehicle Backseat (band), Danish pop / rock group Backseat (album), a 1986 album by Finnish hard rock band Peer Günt \"Backseat\" (song), a 2011 single by the New Boyz featuring The Cataracs and Dev \"Back Seat (of My Jeep)\",by LL Cool J, 1993 \"Backseat\", a song by Charli XCX from the 2017 mixtape Pop 2 \"Backseat\", a song by K.A.R.D's BM and Somin \"Back Seat (Wit No Sheets)\", a song by H-Town from the 1994 album Beggin' After Dark See also \"The Back Seat of My Car\", a 1971 single release from the Paul McCartney album Ram Back-seat driver, a passenger in a vehicle who is not the driver that gives unwanted advice and/or criticism to the driver Back Seat Drivers, an Australian television program"
+    },
+    {
+      "chunk_id": "wikipedia:Concern#0000",
+      "doc_id": "wikipedia:Concern",
+      "title": "Concern",
+      "url": "https://en.wikipedia.org/?curid=6769649",
+      "source_type": "wikipedia",
+      "score": 0.5838310480117798,
+      "text": "Concern may refer to: Constructs Worry, an emotion Concern (computer science), an abstract concept about program behavior Enterprises and organizations Concern (business), a German type of group company Concern (organisation), a student society at the Indian Institute of Science, India CONCERN Program, a Con Edison program that offers eligible customers a specially trained representative and advice about government aid programs, safety tips, and ways to save money on one's energy bill Concern Worldwide, an Irish charity Other uses Concern (horse), an American Thoroughbred racehorse See also Care (disambiguation) Concerned, a webcomic parodying the video game Half-Life 2 Travel concerns travel guide from Wikivoyage"
+    },
+    {
+      "chunk_id": "wikipedia:Confusion#0000",
+      "doc_id": "wikipedia:Confusion",
+      "title": "Confusion",
+      "url": "https://en.wikipedia.org/?curid=2079352",
+      "source_type": "wikipedia",
+      "score": 0.5449064254760743,
+      "text": "In psychology, confusion is the quality or emotional state of being bewildered or unclear. The term \"acute mental confusion\" is often used interchangeably with delirium in the International Statistical Classification of Diseases and Related Health Problems and the Medical Subject Headings publications to describe the pathology. These refer to the loss of orientation, or the ability to place oneself correctly in the world by time, location and personal identity. Mental confusion is sometimes accompanied by disordered consciousness (the loss of linear thinking) and memory loss (the inability to correctly recall previous events or learn new material). Etymology The word confusion derives from the Latin word, confundo, which means \"confuse, mix, blend, pour together, disorder, embroil.\" Causes Confusion may result from drug side effects or from a relatively sudden brain dysfunction."
+    },
+    {
+      "chunk_id": "wikipedia:Green#0000",
+      "doc_id": "wikipedia:Green",
+      "title": "Green",
+      "url": "https://en.wikipedia.org/?curid=12460",
+      "source_type": "wikipedia",
+      "score": 0.539734399318695,
+      "text": "Green is the color between cyan and yellow on the visible spectrum. It is evoked by light which has a dominant wavelength of roughly 495–570 nm. In subtractive color systems, used in painting and color printing, it is created by a combination of yellow and cyan; in the RGB color model, used on television and computer screens, it is one of the additive primary colors, along with red and blue, which are mixed in different combinations to create all other colors. By far the largest contributor to green in nature is chlorophyll, the chemical by which plants photosynthesize and convert sunlight into chemical energy. Many creatures have adapted to their green environments by taking on a green hue themselves as camouflage. Several minerals have a green color, including the emerald, which is colored green by its chromium content."
+    },
+    {
+      "chunk_id": "wikipedia:Different Colors#0001",
+      "doc_id": "wikipedia:Different Colors",
+      "title": "Different Colors",
+      "url": "https://en.wikipedia.org/?curid=47055403",
+      "source_type": "wikipedia",
+      "score": 0.4909624010324478,
+      "text": "of the band touring with colorful visuals. The song was performed live by Walk the Moon at award shows, including the 2015 MTV Video Music Awards. It was included on the setlist for the band's Talking Is Hard Tour (2015) and was used in campaigns of Pepsi, AT&T & Apple. Background and composition \"Different Colors\" was written by all four members of Walk the Moon, while recorded at Rancho..."
+    },
+    {
+      "chunk_id": "wikipedia:Cool#0000",
+      "doc_id": "wikipedia:Cool",
+      "title": "Cool",
+      "url": "https://en.wikipedia.org/?curid=4175379",
+      "source_type": "wikipedia",
+      "score": 0.4871369957923889,
+      "text": "Cool commonly refers to: Cool, a moderately low temperature Cool (aesthetic), an aesthetic of attitude, behavior, and style Cool or COOL may also refer to: Economics Country of origin labelling mCOOL - US consumer legislation to enforce COOL at the grocery store Computing Cool (programming language) COOL, a computer language used in the CLIPS tool Cool, an internal name of C# An abbreviation for Collabora Online Geography Cool, Rotterdam, Netherlands Cool, California, U.S. Cool, Texas, U.S. Music Cool (band), a South Korean K-pop music group Cool jazz Albums Cool (George Duke album) (2000) Lupe Fiasco's The Cool (2007) The Cool (character), the associated concept character Cool (Joyce album) (2015) Songs \"Cool\" (Alesso song) (2015) \"Cool\" (Anthony Hamilton song) (2008) \"Cool\" (Jonas Brothers song) (2019) \"Cool\" (Le Youth song) (2013) \"Cool\" (Dua Lipa song) (2020) \"Cool\" (Gwen Stefani song) (2005) \"Cool\" (The Time song) (1981), later covered by Snoop Dogg and Prince \"Cool\" (West Side"
+    },
+    {
+      "chunk_id": "wikipedia:Rover#0001",
+      "doc_id": "wikipedia:Rover",
+      "title": "Rover",
+      "url": "https://en.wikipedia.org/?curid=1747355",
+      "source_type": "wikipedia",
+      "score": 0.48253580927848816,
+      "text": "University of California Los Angeles \"The Rover\" (Led Zeppelin song), a song by Led Zeppelin on their 1975 double album Physical Graffiti \"The Irish Rover\", an Irish folk song about a magnificent sailing ship that reaches an unfortunate end The Wild Rover, an English folk song about a rover Rover (EP), a 2023 extended..."
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0001",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.4650283962488174,
+      "text": "(T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A. from AIM \"Finally\", a song by Yes from The Ladder \"Finally\", a 2019 single by Thabsie \"Finally\", a 2023 single by Jonas Blue and Rani Other uses Finally (company), an American light bulb company Finally (film), a 1991 documentary about Eric Burdon Finally, a keyword in exception handling syntax See also Final (disambiguation..."
+    }
+  ]
+}

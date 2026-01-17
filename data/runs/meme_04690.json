@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_04690",
+  "queries": [
+    "\"What \"Sports Anime\" \"Sports Anime\" \"bulls\" \"people\"",
+    "\"What \"Sports Anime\" \"Sports Anime\" \"the sports people\" \"bulls\"",
+    "\"the sports people\" \"bulls\" \"people\" \"lasers\""
+  ],
+  "primary_terms": [
+    "bulls",
+    "people",
+    "Sports Anime",
+    "What \"Sports Anime"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 1.0172138512134552,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Gangster#0000",
+      "doc_id": "wikipedia:Gangster",
+      "title": "Gangster",
+      "url": "https://en.wikipedia.org/?curid=234656",
+      "source_type": "wikipedia",
+      "score": 0.8242948949337006,
+      "text": "A gangster (informally gangsta) is a criminal who is a member of a gang. Most gangs are considered to be part of organized crime. Gangsters are also called mobsters, a term derived from mob and the suffix -ster. Gangs provide a level of organization and resources that support much larger and more complex criminal transactions than an individual criminal could achieve. Gangsters have been active for many years in countries around the world. Gangsters are the subject of many novels, films, television series, and video games. Usage In modern usage, the term \"gang\" is generally used for a criminal organization and the term \"gangster\" invariably describes a criminal. Much has been written on the subject of gangs, although there is no clear consensus about what constitutes a gang or what situations lead to gang formation and evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Profit#0000",
+      "doc_id": "wikipedia:Profit",
+      "title": "Profit",
+      "url": "https://en.wikipedia.org/?curid=18487619",
+      "source_type": "wikipedia",
+      "score": 0.8085056900978088,
+      "text": "Profit may refer to: Business and law Profit (accounting), the difference between the purchase price and the costs of bringing to market Profit (economics), normal profit and economic profit Profit (real property), a nonpossessory interest in land Account of profits, a type of equitable remedy in law (also known as an accounting) Arts, entertainment, and media Profit (magazine), Canadian business magazine aimed at entrepreneurs Profit (TV series), U.S. TV series starring Adrian Pasdar The Profit (film), U.S. 2001 feature film by Peter N. Alexander The Profit (TV series), U.S. TV series presented by Marcus Lemonis People Joe Profit (born 1959), former American football player Laron Profit (born 1977), professional basketball player Richard Profit (born 1974), English mountaineer and adventurer Park \"Profit\" Joon-yeong, professional Overwatch player Places Profit, United States Virgin Islands See also All pages with titles beginning with Profit All pages with titles containing Profit"
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0000",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.7764200419187546,
+      "text": "Nobody most often refers to: Nobody, an indefinite pronoun Nobody may also refer to: Fictional characters Nobody (Kingdom Hearts), a race of beings in the Kingdom Hearts video game series Nobody (Devil May Cry), a demon appearing in Devil May Cry Nobody, a character in the Jim Jarmusch films Dead Man and Ghost Dog: The Way of the Samurai Nobody, a character in the 1973 Italian film My Name Is Nobody Nobody, a character in the Teenage Mutant Ninja Turtles franchise Odysseus, who used the name \"nobody\" in his battle against Polyphemus Film and television Nobody (1921 film), an American silent film \"The Nobody\" (The Amazing World of Gumball), a 2015 TV episode \"Nobody\" (Folklore), a 2018 TV episode Nobody (2021 film), American thriller film Nobody (2025 film), Chinese animated film Music Nobody (producer) (born 1977), American record producer Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs"
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo#0000",
+      "doc_id": "wikipedia:Leonardo",
+      "title": "Leonardo",
+      "url": "https://en.wikipedia.org/?curid=11525478",
+      "source_type": "wikipedia",
+      "score": 0.7712367534637451,
+      "text": "Leonardo or The Leonardo may refer to: Arts and entertainment Leonardo Journal, an arts journal Leonardo (Italian magazine), a philosophy magazine published in Florence, Italy, in 1903–1907 Leonardo (journal), published by the MIT Press Leonardo (Teenage Mutant Ninja Turtles), one of the main characters in the Teenage Mutant Ninja Turtles franchise Leonardo (TV channel), an Italian television channel Leonardo (2011 TV series), a CBBC television series which centers around teenage Leonardo da Vinci played by Jonathan Bailey Leonardo (2021 TV series), an Italian-American television series Leonardo the Musical: A Portrait of Love, a 1993 musical Leonardo/ISAST, the International Society for the Arts, Sciences and Technology \"The Leonardo\", a 1933 short story written in Russian by Vladimir Nabokov Leonardo, the assistant of inventor Clyde Crashcup People Leonardo da Vinci (1452–1519), Italian polymath Leonardo Araújo, Brazilian former footballer and manager, most recently the sporting"
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo#0001",
+      "doc_id": "wikipedia:Leonardo",
+      "title": "Leonardo",
+      "url": "https://en.wikipedia.org/?curid=11525478",
+      "source_type": "wikipedia",
+      "score": 0.7552734524011612,
+      "text": "Crashcup People Leonardo da Vinci (1452–1519), Italian polymath Leonardo Araújo, Brazilian former footballer and manager, most recently the sporting director of Paris Saint-Germain Leonardo (footballer, born 1974), Brazilian forward Leonardo Pereira da Silva (1974–2016) Leonardo (footballer, born 1976), Brazilian winger Leonardo dos Santos..."
+    },
+    {
+      "chunk_id": "wikipedia:Naruto#0001",
+      "doc_id": "wikipedia:Naruto",
+      "title": "Naruto",
+      "url": "https://en.wikipedia.org/?curid=232190",
+      "source_type": "wikipedia",
+      "score": 0.7408318221569061,
+      "text": "in 72 tankōbon volumes. Viz Media licensed the manga for North American production and serialized Naruto in their digital Weekly Shonen Jump magazine. The manga was adapted into two anime television series by Pierrot and Aniplex, which ran from October 2002 to March 2017 on TV Tokyo. Pierrot also produced 11 animated films and 12 original video animations (OVAs). The franchise additionally includes light novels, video games, and trading cards. The story continues in Boruto..."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0000",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.6957764476537704,
+      "text": "Class, Classes, or The Class may refer to: Common uses not otherwise categorized Class (biology), a taxonomic rank Class (knowledge representation), a collection of individuals or objects Class (philosophy), an analytical concept used differently from such group phenomena as \"types\" or \"kinds\" Class (set theory), a collection of sets that can be unambiguously defined by a property that all its members share Hazard class, a dangerous goods classification Social class, the hierarchical arrangement of individuals in society, usually defined by wealth and occupation Working class, can be defined by rank, income or collar Arts, entertainment, and media \"The Class\" (song), 1959 Chubby Checker song Character class, in role-playing games and other genres Class 95 (radio station), a Singaporean radio channel Films Class (film), 1983 American film The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff"
+    },
+    {
+      "chunk_id": "wikipedia:Builder#0000",
+      "doc_id": "wikipedia:Builder",
+      "title": "Builder",
+      "url": "https://en.wikipedia.org/?curid=2518249",
+      "source_type": "wikipedia",
+      "score": 0.6848024874925613,
+      "text": "Builder may refer to: Construction Construction worker, who specializes in building work Carpenter, a skilled craftsman who works with wood General contractor, that specializes in building work Subcontractor Real estate developer, who causes buildings to be constructed Media Builders (film), a 1942 British propaganda film The Builder (film), 2010 film The Builder, British magazine now known as Building Builder, American magazine published by Zonda Home \"The Builder\" (short story), a 1953 short story by Philip K. Dick \"The Builders\", an episode in the 1970s British television comedy Fawlty Towers \"Builder\" (Not Going Out), a 2019 television episode Builders, international music group also known as The Bilders, Bilderbergers and Bilderine Other Builder (detergent), a component of modern detergents Builder (hockey), in ice hockey, manages or builds the game Builder (United States Navy), U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Naruto#0000",
+      "doc_id": "wikipedia:Naruto",
+      "title": "Naruto",
+      "url": "https://en.wikipedia.org/?curid=232190",
+      "source_type": "wikipedia",
+      "score": 0.683393269777298,
+      "text": "Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young, socially isolated ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village. The story is told in two parts: the first is set in Naruto's pre-teen years (volumes 1–27), and the second in his teens (volumes 28–72). The series is based on two one-shot manga by Kishimoto: Karakuri (1995), which earned Kishimoto an honorable mention in Shueisha's monthly Hop Step Award the following year, and Naruto (1997). Naruto was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from September 1999 to November 2014, with its 700 chapters collected in 72 tankōbon volumes. Viz Media licensed the manga for North American production and serialized Naruto in their digital Weekly Shonen Jump magazine."
+    }
+  ]
+}

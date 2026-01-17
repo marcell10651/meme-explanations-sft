@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_03339",
+  "queries": [
+    "\"Antarctica\" \"food\" \"warming\" \"fridges\"",
+    "\"the USA\" \"dark night man\" \"Antarctica\" \"the reversal\"",
+    "\"Antarctica\" \"the reversal\" \"food\" \"warming\""
+  ],
+  "primary_terms": [
+    "food",
+    "warming",
+    "fridges",
+    "Antarctica"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Food#0001",
+      "doc_id": "wikipedia:Food",
+      "title": "Food",
+      "url": "https://en.wikipedia.org/?curid=10646",
+      "source_type": "wikipedia",
+      "score": 0.9078803718090057,
+      "text": "food industry, which produces food through intensive agriculture and distributes it through complex food processing and food distribution systems. This system of conventional agriculture relies heavily on fossil fuels, which means that the food and agricultural systems are one of the major contributors to climate change, accounting for as much as 37% of total greenhouse gas emissions. The food system has a..."
+    },
+    {
+      "chunk_id": "wikipedia:Bore#0001",
+      "doc_id": "wikipedia:Bore",
+      "title": "Bore",
+      "url": "https://en.wikipedia.org/?curid=740676",
+      "source_type": "wikipedia",
+      "score": 0.8237181961536407,
+      "text": "South Georgia, Antarctica People Bore (surname) Francisco Bores (1898–1972), Spanish artist Maritime shipping Steamship Company Bore, a Finnish company that operated for a time within Silja Line MS Bore, a car-passenger ferry built in 1960 SS Deneb, a cargo ship later renamed Bore VII Other uses Bore War, a contemporary..."
+    },
+    {
+      "chunk_id": "wikipedia:Disaster#0001",
+      "doc_id": "wikipedia:Disaster",
+      "title": "Disaster",
+      "url": "https://en.wikipedia.org/?curid=8137",
+      "source_type": "wikipedia",
+      "score": 0.7305044084787369,
+      "text": "because human actions can make natural disasters worse. Climate change also affects how often disasters due to extreme weather hazards happen. Disasters usually affect people in developing countries more than people in wealthy countries. Over 95% of deaths from disasters happen in low-income countries, and those countries have higher economic losses compared to higher-income countries. For example, the damage from natural..."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0001",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.6657067894935608,
+      "text": "a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt. It served only one dish, a plate of cereal, wildfowl, and onions. A forerunner for the modern restaurant is the thermopolium, an establishment in Ancient Greece or Ancient Rome that sold and served ready-to-eat food and beverages. These establishments..."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0001",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.6628242790699005,
+      "text": "food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting. Their favorite food is cocoa beans. When Willy Wonka arrived, he told the chief he and his people can come live and work at his factory and have all the cocoa beans they want. In the first edition of Charlie..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.6576523184776306,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:Young Boy#0000",
+      "doc_id": "wikipedia:Young Boy",
+      "title": "Young Boy",
+      "url": "https://en.wikipedia.org/?curid=11418335",
+      "source_type": "wikipedia",
+      "score": 0.5629310607910156,
+      "text": "\"Young Boy\" is a song by English musician Paul McCartney, included as the fifth track on his 10th solo studio album, Flaming Pie (1997). McCartney reportedly started working on the song in August 1994. The initial tracks were recorded in February 1995 at Steve Miller's studio in Sun Valley, Idaho, and were completed in May at McCartney's home studio. On 28 April 1997, the song was released as the first single from Flaming Pie, peaking at No. 3 in Spain and No. 19 on the UK Singles Chart. The single featured two non-album B-sides: \"Looking for You\" and \"Broomstick\". In the United States, Capitol Records chose to issue \"The World Tonight\" as the album's lead single instead."
+    },
+    {
+      "chunk_id": "wikipedia:Food#0000",
+      "doc_id": "wikipedia:Food",
+      "title": "Food",
+      "url": "https://en.wikipedia.org/?curid=10646",
+      "source_type": "wikipedia",
+      "score": 0.5297684878110885,
+      "text": "Food is any substance consumed by an organism for nutritional support. Food usually consists of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or support growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill specific ecological niches within specific geographical contexts. Omnivorous humans are highly adaptable and have adapted to obtaining food in many different ecosystems. Humans generally use cooking to prepare food for consumption. The majority of the food energy required is supplied by the industrial food industry, which produces food through intensive agriculture and distributes it through complex food processing and food distribution systems."
+    },
+    {
+      "chunk_id": "wikipedia:Snow#0001",
+      "doc_id": "wikipedia:Snow",
+      "title": "Snow",
+      "url": "https://en.wikipedia.org/?curid=28191",
+      "source_type": "wikipedia",
+      "score": 0.5191876590251923,
+      "text": ". As snow accumulates into a snowpack, it may blow into drifts. Over time, accumulated snow metamorphoses, by sintering, sublimation, and freeze-thaw. Where the climate is cold enough for year-to-year accumulation, a glacier may form. Otherwise, snow typically melts seasonally, causing runoff into streams and rivers and recharging groundwater. Major snow-prone areas include the polar regions..."
+    },
+    {
+      "chunk_id": "wikipedia:Earth#0001",
+      "doc_id": "wikipedia:Earth",
+      "title": "Earth",
+      "url": "https://en.wikipedia.org/?curid=9228",
+      "source_type": "wikipedia",
+      "score": 0.5038177371025085,
+      "text": ". Earth has a liquid outer core that generates a magnetosphere capable of deflecting most of the destructive solar winds and cosmic radiation. Earth has a dynamic atmosphere, which sustains Earth's surface conditions and protects it from most meteoroids and UV-light at entry. It is composed primarily of nitrogen and oxygen. Water vapor is widely present in the atmosphere, forming clouds that cover most of the..."
+    }
+  ]
+}

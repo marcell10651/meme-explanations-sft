@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_03923",
+  "queries": [
+    "\"the first country\" \"Qatar\" \"any goals\" \"shame\"",
+    "\"their world cup match\" \"the first country\" \"Qatar\" \"any goals\"",
+    "\"Qatar\" \"any goals\" \"different versions\" \"shame\""
+  ],
+  "primary_terms": [
+    "shame",
+    "Qatar",
+    "the first country",
+    "any goals"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Mara#0001",
+      "doc_id": "wikipedia:Mara",
+      "title": "Mara",
+      "url": "https://en.wikipedia.org/?curid=89150",
+      "source_type": "wikipedia",
+      "score": 0.6873001158237457,
+      "text": "1894 novel by Ioan Slavici Dance Club Mara, a formation dance team, Minsk, Belarus Cultural and language groupings Mara (Tagin), a tribe in Arunachal Pradesh Mara language, a language spoken by the Mara people of India and Burma Mara people Maric languages, a group of Aboriginal Australian languages also known as Mara or Maran..."
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.6804297864437103,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:Never#0001",
+      "doc_id": "wikipedia:Never",
+      "title": "Never",
+      "url": "https://en.wikipedia.org/?curid=1433241",
+      "source_type": "wikipedia",
+      "score": 0.6696548461914062,
+      "text": "-sama and Evil Neuro, 2025 \"Never\", by Orbital from Wonky, 2012 \"Never\", by Ozzy Osbourne from The Ultimate Sin, 1986 \"Never\", by Paco from This Is Where We Live, 2004 \"Never\", by Sevendust from Next, 2005 \"Never (These Days)\", by Z-Ro, 2010 Places Never, Amur Oblast, a rural locality in Russia Never, Bryansk Oblast, a rural locality..."
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0001",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.6694829016923904,
+      "text": "1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple, 2008 \"Whatever\", by Hüsker Dü from Zen Arcade, 1984 \"Whatever\", by Imogen Heap from I Megaphone, 1998 \"Whatever\", by Lil Tecca from We Love You Tecca 2, 2021 \"Whatever\", by Our Lady Peace..."
+    },
+    {
+      "chunk_id": "wikipedia:Emon#0001",
+      "doc_id": "wikipedia:Emon",
+      "title": "Emon",
+      "url": "https://en.wikipedia.org/?curid=52429604",
+      "source_type": "wikipedia",
+      "score": 0.6485065072774887,
+      "text": "(born 1993), Bangladeshi footballer Anisul Islam Emon (born 1994), Bangladeshi cricketer Parvez Hossain Emon (born 2002), Bangladeshi cricketer Abu Shahed Emon (fl. 2000s), Bangladeshi film director Emon Saha (fl. 2000s), Bangladeshi composer Emon Ahmed (fl. 2008–2010), Bangladeshi cricketer Emon Chowdhury, Bangladeshi musician Emon..."
+    },
+    {
+      "chunk_id": "wikipedia:Success#0000",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.589984804391861,
+      "text": "Success is the state or condition of meeting a defined range of expectations. It may be viewed as the opposite of failure. The criteria for success depend on context, and may be relative to a particular observer or belief system. One person might consider a success what another person considers a failure, particularly in cases of direct competition or a zero-sum game. Similarly, the degree of success or failure in a situation may be differently viewed by distinct observers or participants, such that a situation that one considers to be a success, another might consider to be a failure, a qualified success or a neutral situation. For example, a film that is a commercial failure or even a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness."
+    },
+    {
+      "chunk_id": "wikipedia:Only#0000",
+      "doc_id": "wikipedia:Only",
+      "title": "Only",
+      "url": "https://en.wikipedia.org/?curid=1629775",
+      "source_type": "wikipedia",
+      "score": 0.5802574157714844,
+      "text": "Only may refer to: Music Albums Only (album), by Tommy Emmanuel, 2000 The Only, an EP by Dua Lipa, 2017 The Only (EP), by The Boyz Songs \"Only\" (Anthrax song), 1993 \"Only\" (Nine Inch Nails song), 2005 \"Only\" (Nicki Minaj song), 2014 \"Only\" (Lee Hi song), 2021 \"The Only\", by Static-X, 2003 \"Only\", by Ass Ponys from Lohio, 2001 \"Only\", by Fuse ODG, 2015 \"Only\", by Imagine Dragons from Origins, 2018 \"Only\", by NF from The Search, 2019 \"Only\", by Sarah Vaughan from Sarah Slightly Classical, 1963 \"Only\", by Sampha from Lahai, 2023 \"The Only\", a song by Raiden featuring Irene, 2019 \"The Only\", by Sasha Alex Sloan from Loser, 2018 Other uses Only (film), a 2019 post-apocalyptic romance film Only (magazine), a 2000s Canadian news and entertainment magazine Only, Tennessee, US Jerry Only (born 1959), American punk rock bassist and singer See also All pages with titles beginning with Only All pages with titles beginning with The Only Onli, people with this surname Onley (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Your Choice#0001",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.5627252459526062,
+      "text": "'s World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia. Background We thought the message of love is what could really console people and resonate with them, especially in these tough times that we're having. [...] This time, we wanted to use this word, \"love,\" and the concept..."
+    },
+    {
+      "chunk_id": "wikipedia:Iconic#0000",
+      "doc_id": "wikipedia:Iconic",
+      "title": "Iconic",
+      "url": "https://en.wikipedia.org/?curid=869034",
+      "source_type": "wikipedia",
+      "score": 0.5462481826543808,
+      "text": "The adjective iconic may describe: someone or something that is seen as a cultural icon a sign characterised by iconicity an image or technique typical of religious icons Iconic may also refer to: Iconic (EP), a 2012 extended play by Icona Pop Iconic, a 2015 album by Jed Madela Iconic, the working title for Rebel Heart, a 2015 studio album by Madonna \"Iconic\" (song), a 2015 song by Madonna featuring Chance the Rapper and Mike Tyson \"Iconic\", a 2018 song by Logic featuring Jaden Smith from YSIV \"Iconic\", a 2018 song by Poppy from Am I a Girl? \"Iconic\", a 2019 song by Trisha Paytas \"Iconic\", a 2021 song by Aespa from Savage \"Iconic\", a 2021 song by Bad Gyal from Warm Up \"Iconic\", a 2022 song by Simple Plan from Harder Than It Looks Iconic (concert), a 2019 concert tour by Filipino singers Sharon Cuneta and Regine Velasquez Iconic Tower, the highest skyscraper of Africa, located in the New Administrative Capital of Egypt The Iconic, a company in Australia See also Icon (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0001",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.546004980802536,
+      "text": "2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol. 2, 2019 \"Feel\", by Mahmut Orhan, 2016 \"Feel\", by Måneskin from Rush!, 2023 \"Feel\", by Matchbox Twenty from More Than You Think You Are, 2002 \"Feel\", by Phora, 2018 \"Feel\", by Post Malone from Stoney, 2016 \"Feel\", by Stereophonics from Language. Sex. Violence. Other..."
+    }
+  ]
+}

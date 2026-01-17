@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_04693",
+  "queries": [
+    "\"WE STAND AMIDST MY ACHIEVEMENTS\" \"stand\" \"amidst\" \"achievements\" \"not\"",
+    "\"achievements\" \"not\" \"yours\" \"raise\""
+  ],
+  "primary_terms": [
+    "stand",
+    "amidst",
+    "achievements",
+    "not",
+    "yours",
+    "your hand",
+    "raise",
+    "hand",
+    "answer",
+    "hard",
+    "question",
+    "shouts"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Praise#0000",
+      "doc_id": "wikipedia:Praise",
+      "title": "Praise",
+      "url": "https://en.wikipedia.org/?curid=44749915",
+      "source_type": "wikipedia",
+      "score": 0.780568066239357,
+      "text": "Praise as a form of social interaction expresses recognition, reassurance or admiration. Praise is expressed verbally as well as by body language (facial expression and gestures). Verbal praise consists of a positive evaluations of another's attributes or actions, where the evaluator presumes the validity of the standards on which the evaluation is based. As a form of social manipulation, praise becomes a form of reward and furthers behavioral reinforcement by conditioning. The influence of praise on an individual can depend on many factors, including the context, the meanings the praise may convey, and the characteristics and interpretations of the recipient. While praise may share some predictive relationships (both positive and negative) with tangible (material) rewards, praise tends to be less salient and expected, conveys more information about competence, and is typically given more immediately after the desired behavior."
+    },
+    {
+      "chunk_id": "wikipedia:Relief#0000",
+      "doc_id": "wikipedia:Relief",
+      "title": "Relief",
+      "url": "https://en.wikipedia.org/?curid=545811",
+      "source_type": "wikipedia",
+      "score": 0.7323045611381531,
+      "text": "Relief is a sculptural method in which the sculpted pieces remain attached to a solid background of the same material. The term relief is from the Latin verb relevare, to raise (lit. 'to lift back'). To create a sculpture in relief is to give the impression that the sculpted material has been raised above the background plane. When a relief is carved into a flat surface of stone (relief sculpture) or wood (relief carving), the field is actually lowered, leaving the unsculpted areas seeming higher. The approach requires chiselling away of the background, which can be time-intensive. On the other hand, a relief saves forming the rear of a subject, and is less fragile and more securely fixed than a sculpture in the round, especially one of a standing figure where the ankles are a potential weak point, particularly in stone. In other materials such as metal, clay, plaster stucco, ceramics or papier-mâché the form can be simply added to or raised up from the background."
+    },
+    {
+      "chunk_id": "wikipedia:Success#0000",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.6511796474456787,
+      "text": "Success is the state or condition of meeting a defined range of expectations. It may be viewed as the opposite of failure. The criteria for success depend on context, and may be relative to a particular observer or belief system. One person might consider a success what another person considers a failure, particularly in cases of direct competition or a zero-sum game. Similarly, the degree of success or failure in a situation may be differently viewed by distinct observers or participants, such that a situation that one considers to be a success, another might consider to be a failure, a qualified success or a neutral situation. For example, a film that is a commercial failure or even a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness."
+    },
+    {
+      "chunk_id": "wikipedia:Hope#0001",
+      "doc_id": "wikipedia:Hope",
+      "title": "Hope",
+      "url": "https://en.wikipedia.org/?curid=50020",
+      "source_type": "wikipedia",
+      "score": 0.6234822481870651,
+      "text": "and joy, courage, and empowerment, drawn from four different areas of one's self: from a cognitive, psychological, social, or physical perspective. Such positive thinking bears fruit when based on a realistic sense of optimism, not on a naive \"false hope\". The psychologist Charles R. Snyder linked hope to the existence of a goal, combined with a determined..."
+    },
+    {
+      "chunk_id": "wikipedia:Iconic#0000",
+      "doc_id": "wikipedia:Iconic",
+      "title": "Iconic",
+      "url": "https://en.wikipedia.org/?curid=869034",
+      "source_type": "wikipedia",
+      "score": 0.537582403421402,
+      "text": "The adjective iconic may describe: someone or something that is seen as a cultural icon a sign characterised by iconicity an image or technique typical of religious icons Iconic may also refer to: Iconic (EP), a 2012 extended play by Icona Pop Iconic, a 2015 album by Jed Madela Iconic, the working title for Rebel Heart, a 2015 studio album by Madonna \"Iconic\" (song), a 2015 song by Madonna featuring Chance the Rapper and Mike Tyson \"Iconic\", a 2018 song by Logic featuring Jaden Smith from YSIV \"Iconic\", a 2018 song by Poppy from Am I a Girl? \"Iconic\", a 2019 song by Trisha Paytas \"Iconic\", a 2021 song by Aespa from Savage \"Iconic\", a 2021 song by Bad Gyal from Warm Up \"Iconic\", a 2022 song by Simple Plan from Harder Than It Looks Iconic (concert), a 2019 concert tour by Filipino singers Sharon Cuneta and Regine Velasquez Iconic Tower, the highest skyscraper of Africa, located in the New Administrative Capital of Egypt The Iconic, a company in Australia See also Icon (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Position#0001",
+      "doc_id": "wikipedia:Position",
+      "title": "Position",
+      "url": "https://en.wikipedia.org/?curid=268217",
+      "source_type": "wikipedia",
+      "score": 0.4660106062889099,
+      "text": "of beliefs about questions in philosophy Position (finance), commitments in a financial marketplace Social position, the position of an individual in a society and culture Political position within a political spectrum Science and mathematics Position (vector), a mathematical identification of relative location Position in positional..."
+    },
+    {
+      "chunk_id": "wikipedia:Respect#0000",
+      "doc_id": "wikipedia:Respect",
+      "title": "Respect",
+      "url": "https://en.wikipedia.org/?curid=364338",
+      "source_type": "wikipedia",
+      "score": 0.44272629022598264,
+      "text": "Respect, also called esteem, is a positive feeling or deferential action shown towards someone or something considered important or held in high esteem or regard. It conveys a sense of admiration for good or valuable qualities. It is also the process of honoring someone by exhibiting care, concern, or consideration for their needs or feelings. In many cultures, people are considered to be worthy of respect until they prove otherwise. Some people may earn special respect through their exemplary actions or social roles. In \"honor cultures\", respect is more often earned in this way than granted by default. Courtesies that show respect may include simple words and phrases like \"thank you\" in the West or \"namaste\" in the Indian subcontinent, or simple physical signs like a slight bow, a smile, direct eye contact, or a handshake. Such acts may have very different interpretations depending on the cultural context. The end goal is for all people to be treated with respect."
+    },
+    {
+      "chunk_id": "wikipedia:Comes#0001",
+      "doc_id": "wikipedia:Comes",
+      "title": "Comes",
+      "url": "https://en.wikipedia.org/?curid=1721514",
+      "source_type": "wikipedia",
+      "score": 0.43348356187343595,
+      "text": "to denote relation with another god. The coinage of Roman Emperor Constantine I declared him \"comes\" to Sol Invictus (\"Unconquered Sun\") qua god. Imperial Roman curial titles and offices styled comites Historically more significant, \"comes\" became a secular title granted to trusted officials of the Imperial Curia (\"Court\"), present or former, and others as sign of Imperial confidence. It developed into a formal, dignitary..."
+    },
+    {
+      "chunk_id": "wikipedia:Diligence#0000",
+      "doc_id": "wikipedia:Diligence",
+      "title": "Diligence",
+      "url": "https://en.wikipedia.org/?curid=18483349",
+      "source_type": "wikipedia",
+      "score": 0.42844662070274353,
+      "text": "Diligence—carefulness and persistent effort or work—is listed as one of the seven capital virtues. It can be indicative of a work ethic, the belief that work is good in itself. \"There is a perennial nobleness, and even sacredness, in work. Were he never so benighted, forgetful of his high calling, there is always hope in a man that actually and earnestly works: in idleness alone there is perpetual despair.\" —Thomas Carlyle In students Bernard et al. define diligence in students as the effort they put toward balanced and holistic development in mental, physical, social, and spiritual dimensions. They find that it correlates with academic performance, especially with younger students, and that the support of parents and educators encourages students to be diligent. Other factors that encourage student diligence include motivation, discipline, concentration, responsibility, and devotedness."
+    },
+    {
+      "chunk_id": "wikipedia:Support#0000",
+      "doc_id": "wikipedia:Support",
+      "title": "Support",
+      "url": "https://en.wikipedia.org/?curid=1185931",
+      "source_type": "wikipedia",
+      "score": 0.4198230504989624,
+      "text": "Support may refer to: Arts, entertainment, and media Supporting character Support (art), a solid surface upon which a painting is executed Business and finance Support (technical analysis) Child support Customer support Income Support Construction Support (structure), or lateral support, a type of structural support to help prevent sideways movement Structural support, architectural components that include arches, beams, columns, balconies, and stretchers Law and politics Advocacy, in politics, support for constituencies, issues, or legislation Lateral and subjacent support, a legal term Mathematics Mathematics (generally) Support (mathematics), subset of the domain of a function where it is non-zero valued Support (measure theory), a subset of a measurable space Supporting hyperplane, sometimes referred to as support Support of a module, a set of prime ideals in commutative algebra Statistics Support, the natural logarithm of the likelihood ratio, as used in phylogenetics Method of"
+    }
+  ]
+}

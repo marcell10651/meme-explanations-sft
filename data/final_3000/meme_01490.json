@@ -1,0 +1,186 @@
+{
+  "meme_id": "meme_01490",
+  "queries": [
+    "\"Not even god\" \"Nobody\" \"think\" \"not\"",
+    "\"think\" \"not\" \"even\" \"god\""
+  ],
+  "primary_terms": [
+    "think",
+    "Nobody",
+    "Not even god",
+    "not",
+    "even",
+    "god",
+    "blooditype"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:World#0001",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.7868780553340912,
+      "text": "horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind. Theology conceptualizes the world in relation to God, for example, as God's creation, as identical to God, or as the two being interdependent. In religions, there is a tendency to downgrade the material or sensory world in favor of a spiritual world to be sought through religious practice. A comprehensive..."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0001",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.7082087963819503,
+      "text": "the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes. In theories of syntax, a phrase is any group of words, or sometimes a single word, which plays a particular role within the syntactic structure of a sentence. It does not have to have any special meaning or significance, or even exist anywhere outside of the sentence being analyzed, but it must function there as a complete grammatical unit..."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0000",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.689243084192276,
+      "text": "Nobody most often refers to: Nobody, an indefinite pronoun Nobody may also refer to: Fictional characters Nobody (Kingdom Hearts), a race of beings in the Kingdom Hearts video game series Nobody (Devil May Cry), a demon appearing in Devil May Cry Nobody, a character in the Jim Jarmusch films Dead Man and Ghost Dog: The Way of the Samurai Nobody, a character in the 1973 Italian film My Name Is Nobody Nobody, a character in the Teenage Mutant Ninja Turtles franchise Odysseus, who used the name \"nobody\" in his battle against Polyphemus Film and television Nobody (1921 film), an American silent film \"The Nobody\" (The Amazing World of Gumball), a 2015 TV episode \"Nobody\" (Folklore), a 2018 TV episode Nobody (2021 film), American thriller film Nobody (2025 film), Chinese animated film Music Nobody (producer) (born 1977), American record producer Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs"
+    },
+    {
+      "chunk_id": "wikipedia:Believe#0000",
+      "doc_id": "wikipedia:Believe",
+      "title": "Believe",
+      "url": "https://en.wikipedia.org/?curid=4678533",
+      "source_type": "wikipedia",
+      "score": 0.620780399441719,
+      "text": "Believe may refer to: Belief, a psychological state in which an individual holds a proposition or premise to be true, with or without proof for such proposition Faith, a belief in something which has not been proven Arts, entertainment, and media Films Believe, a 2000 horror film starring Ben Gazzara Believe, a 2000 short film starring James Roday Believe (2007 film), a mockumentary film starring Larry Bagby Believe (2013 film), a sports drama film starring Brian Cox Believe (2016 film), a Christmas drama film starring Ryan O'Quinn Believe: The Eddie Izzard Story, a 2009 documentary about Eddie Izzard Justin Bieber's Believe, a 2013 concert film starring Justin Bieber Music Albums Believe (33Miles album), 2009 Believe (Celtic Woman album), 2011 Believe (Cher album), or the title song (see below), 1998 Believe (Dima Bilan album), or the title song (see below), 2009 Believe (Disturbed album), or the title song, 2002 Believe (Emerson Drive album), or the title song, 2009 Believe"
+    },
+    {
+      "chunk_id": "wikipedia:Satan#0001",
+      "doc_id": "wikipedia:Satan",
+      "title": "Satan",
+      "url": "https://en.wikipedia.org/?curid=27694",
+      "source_type": "wikipedia",
+      "score": 0.6198867976665496,
+      "text": "from the Zoroastrian figure of Angra Mainyu, the satan developed into a malevolent entity with abhorrent qualities in dualistic opposition to God. In the apocryphal Book of Jubilees, Yahweh grants the satan (referred to as Mastema) authority over a group of fallen angels, or their offspring, to tempt humans to sin and punish them. Although the Book of Genesis does not name him specifically, Christians often identify the serpent in the Garden of Eden as Satan. In the Synoptic..."
+    },
+    {
+      "chunk_id": "wikipedia:Never#0001",
+      "doc_id": "wikipedia:Never",
+      "title": "Never",
+      "url": "https://en.wikipedia.org/?curid=1433241",
+      "source_type": "wikipedia",
+      "score": 0.6038713216781616,
+      "text": "-sama and Evil Neuro, 2025 \"Never\", by Orbital from Wonky, 2012 \"Never\", by Ozzy Osbourne from The Ultimate Sin, 1986 \"Never\", by Paco from This Is Where We Live, 2004 \"Never\", by Sevendust from Next, 2005 \"Never (These Days)\", by Z-Ro, 2010 Places Never, Amur Oblast, a rural locality in Russia Never, Bryansk Oblast, a rural locality..."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0001",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.594518494606018,
+      "text": "Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs \"No Body\", by Blake Shelton, 2022 \"Nobody\" (1905 song), by Alex Rogers and Bert A. Williams \"Nobody\" (Avenged Sevenfold song), 2023 \"Nobody\" (DJ Neptune song), 2020 \"Nobody..."
+    },
+    {
+      "chunk_id": "wikipedia:Luck#0000",
+      "doc_id": "wikipedia:Luck",
+      "title": "Luck",
+      "url": "https://en.wikipedia.org/?curid=192727",
+      "source_type": "wikipedia",
+      "score": 0.5785559177398681,
+      "text": "Luck is a phenomenon or belief that humans may associate with experiencing improbable events, especially improbably positive or negative events. Philosophical naturalism, eschewing any supernatural explanations, might suggest that positive or negative events may happen at any time (due to both random and non-random natural and artificial processes), and that even improbable events can happen by random chance. In this view, the epithet \"lucky\" or \"unlucky\" is a descriptive label that refers to an event's positivity, negativity, or improbability. Supernatural interpretations of luck consider it to be an attribute of a person or of an object, or the result of a favorable (or unfavorable) view manifested by a deity towards the lucky (or unlucky) person. These interpretations often prescribe how luckiness or unluckiness can be obtained, such as by carrying a lucky charm or offering sacrifices or prayers to a deity."
+    },
+    {
+      "chunk_id": "wikipedia:Perfection#0000",
+      "doc_id": "wikipedia:Perfection",
+      "title": "Perfection",
+      "url": "https://en.wikipedia.org/?curid=1928374",
+      "source_type": "wikipedia",
+      "score": 0.54058957695961,
+      "text": "Perfection is a state, variously, of completeness, flawlessness, or supreme excellence. The term designates a range of diverse, if often kindred, concepts used in a variety of fields. Term and concept The noun \"perfection\", the adjective \"perfect\", and the verb \"to perfect\" derive from the Latin verb \"perficere\" – \"to finish\" or \"to bring to an end\". The ancient Greek word for \"perfection\" was \"teleiotes\". The Greek polymath Aristotle (384–322 BCE) distinguished three concepts of perfection: 1. that which was complete – which contained all the requisite parts; 2. that which was so good that nothing of the kind could be better; 3. that which had attained its purpose. The Polish philosopher Władysław Tatarkiewicz (1886 – 1980) notes that perfection is often confused with other qualities, such as \"excellence\". The German polymath Leibniz (1646–1716), who thought the world to be the best of all possible worlds, never called it perfect."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.5289067685604095,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a toddler head laying down with both eyes wide open and appears to look creepy",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "both eyes"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that random questions like \"what is my blood type\" keep them up at night.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "that random questions",
+          "night"
+        ]
+      },
+      "title": {
+        "text": "I think Im an A-",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "think"
+        ]
+      },
+      "text": {
+        "text": "Nobody: Not even god: Me at 2am: what{the}helllisimy, blooditype) \\ : \\",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Nobody",
+          "Not even god",
+          "not",
+          "even",
+          "god",
+          "blooditype"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "think",
+      "Nobody",
+      "Not even god",
+      "not",
+      "even",
+      "god",
+      "blooditype"
+    ],
+    "secondary_terms": [
+      "both eyes",
+      "that random questions",
+      "night"
+    ],
+    "queries": [
+      "\"Not even god\" \"Nobody\" \"think\" \"not\"",
+      "\"think\" \"not\" \"even\" \"god\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_00013",
+  "queries": [
+    "\"The Fast\" \"the Feline\" \"name Cat\" \"fast\"",
+    "\"name Cat\" \"fast\" \"feline\" \"cat\""
+  ],
+  "primary_terms": [
+    "The Fast",
+    "the Feline",
+    "fast",
+    "feline",
+    "cat",
+    "name Cat",
+    "calls",
+    "name",
+    "ignores",
+    "ita",
+    "fas",
+    "nis"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Fast#0000",
+      "doc_id": "wikipedia:Fast",
+      "title": "Fast",
+      "url": "https://en.wikipedia.org/?curid=1899768",
+      "source_type": "wikipedia",
+      "score": 1.3170344531536102,
+      "text": "Fast or FAST may refer to: Arts and entertainment \"Fast\" (Juice Wrld song), 2019 \"Fast\" (Luke Bryan song), 2016 \"Fast\" (Sueco song), 2019 \"Fast\" (GloToven song), 2019 Fast, an album by Custom, 2002 Fast, a 2010 short film starring Charlyne Yi \"Fast (Motion)\", 2021 song by Saweetie Fast & Furious, an action franchise \"Fast\" (Demi Lovato song), 2025 Computing and software FAST protocol, an adaptation of the FIX protocol, optimized for streaming FAST TCP, a TCP congestion avoidance algorithm Facilitated Application Specification Techniques, a team-oriented approach for requirement gathering Fatigue Avoidance Scheduling Tool, software to develop work schedules Features from accelerated segment test, computer vision method for corner detection Feedback arc set in Tournaments, a computational problem in graph theory Government Faʻatuatua i le Atua Samoa ua Tasi (FAST), a political party in Samoa Fixing America's Surface Transportation Act, passed by the United States Congress"
+    },
+    {
+      "chunk_id": "wikipedia:Feline#0000",
+      "doc_id": "wikipedia:Feline",
+      "title": "Feline",
+      "url": "https://en.wikipedia.org/?curid=45339",
+      "source_type": "wikipedia",
+      "score": 1.2232284665107727,
+      "text": "Feline may refer to: Zoology Loosely, Felidae, a member of the cat family, which includes the subfamilies Pantherinae and Felinae (conventionally designated a felid). Following the taxonomic convention, Felinae, the subfamily of Felidae that includes domestic cats and smaller wild cats. Cat, the domesticated feline. Music Feline (band), a late-1990s London-based English rock group. Feline (The Stranglers album), 1983. Feline (1998 album), the self-titled album by Feline, expanded release of Save Your Face. Feline (Ella Eyre album) (2015), the debut studio album by Ella Eyre. Feline (song), a song on Delta Goodrem's 2016 album Wings of the Wild. \"Feline\", a song by the Cat Empire Comics Feline (comics), a fictional character from the Malibu comics line. See also FÉLIN, a French infantry combat system Félines (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Name#0000",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.7417389124631881,
+      "text": "A name is a term used for identification by an external observer. They can identify a class or category of things, or a single thing, either uniquely, or within a given context. The entity identified by a name is called its referent. A personal name identifies, not necessarily uniquely, a specific individual human. The name of a specific entity is sometimes called a proper name (although that term has a philosophical meaning as well) and is, when consisting of only one word, a proper noun. Other nouns are sometimes called \"common names\" or (obsolete) \"general names\". A name can be given to a person, place, or thing; for example, parents can give their child a name or a scientist can give an element a name. Etymology The word name comes from Old English nama; cognate with Old High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥."
+    },
+    {
+      "chunk_id": "wikipedia:Squirrel#0001",
+      "doc_id": "wikipedia:Squirrel",
+      "title": "Squirrel",
+      "url": "https://en.wikipedia.org/?curid=28492",
+      "source_type": "wikipedia",
+      "score": 0.6952157974243164,
+      "text": "σκιᾱ́ ('shade') and οὐρᾱ́ ('tail')), referring to the long bushy tail which many of its members have. Sciurus is also the name of one of its genera. The Old English word for the squirrel, ācweorna, survived into Middle English as aquerne before being replaced. The Old English word is of Common Germanic origin, cognates of which are still used in other Germanic languages, including the German Eichhörnchen (diminutive of Eichhorn..."
+    },
+    {
+      "chunk_id": "wikipedia:Jerry#0000",
+      "doc_id": "wikipedia:Jerry",
+      "title": "Jerry",
+      "url": "https://en.wikipedia.org/?curid=664776",
+      "source_type": "wikipedia",
+      "score": 0.6564589500427246,
+      "text": "Jerry may refer to: Animals Jerry (Grand National winner), racehorse, winner of the 1840 Grand National Jerry (St Leger winner), racehorse, winner of 1824 St Leger Stakes Arts, entertainment, and media Jerry (play), a 1914 American play \"Jerry\", a song from the album Young and Free by Rock Goddess \"Jerry\" (Adventure Time: Fionna and Cake), an episode of the animated television series Adventure Time: Fionna and Cake Tom and Jerry (disambiguation) Jerry Mouse Jerry, a fictional character who is The Lich BMO named of another universe from Adventure Time Jerry (The Walking Dead), a fictional character from The Walking Dead People Jerry (given name), including a list of people and fictional characters with the name Harold A. Jerry, Jr. (1920–2001), New York politician Thomas Jeremiah (d. 1775), commonly known simply as \"Jerry\", a free Negro in colonial South Carolina Tyson Jerry (born 1983), a Canadian Guinness World Record holder Jerry (born 1964), one half of the Indian filmmaking duo J."
+    },
+    {
+      "chunk_id": "wikipedia:Bing#0000",
+      "doc_id": "wikipedia:Bing",
+      "title": "Bing",
+      "url": "https://en.wikipedia.org/?curid=23443579",
+      "source_type": "wikipedia",
+      "score": 0.6457795560359955,
+      "text": "Bing most often refers to: Bing Crosby (1903–1977), American singer Microsoft Bing, a web search engine Bing may also refer to: Food and drink Bing (bread), a Chinese flatbread Bing (soft drink), a UK brand Bing cherry, a variety of cherry Twin Bing or Bing, a candy made by Palmer Candy Company Names Bing (German surname), a German-language surname Bing (Chinese surname) (邴), a Chinese surname Places Bing Prefecture, an ancient Chinese province Bing, Hormozgan, a village in Hormozgan Province, Iran Binag, Sistan and Baluchestan, a village in Sistan and Baluchestan Province, Iran Manor of Byng, Suffolk, England Television Bing (TV series), a British children's television series Bada Bing or the Bing, a fictional strip club in The Sopranos Bing or Evan Chambers, a character in Greek Bing, a character in The Angry Beavers Other uses Bing (company), a German company that manufactured toys and kitchen utensils Bing (dog), a British dog who served in World War II Bing (mining), a Scottish"
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0000",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.63030546605587,
+      "text": "Snap or SNAP may refer to: Supplemental Nutrition Assistance Program, a food program for low-income families administered by the United States Department of Agriculture Arts and entertainment Snap (film), the initial release title for the 2013 film Enter the Dangerous Mind The Stanly News and Press, a newspaper in Albemarle, North Carolina, US \"Snap\" (Duty Free), a 1984 TV episode Games and sports Snap (gridiron football), the start of a play in gridiron football Scalable Network Application Package, an online gaming platform Pokémon Snap, a 1999 Japanese video game New Pokémon Snap, the 2021 sequel Snap, any putdown used in the Dozens Card games Snap (card game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap!"
+    },
+    {
+      "chunk_id": "wikipedia:Welsh Corgi#0000",
+      "doc_id": "wikipedia:Welsh Corgi",
+      "title": "Welsh Corgi",
+      "url": "https://en.wikipedia.org/?curid=247458",
+      "source_type": "wikipedia",
+      "score": 0.6179553538560867,
+      "text": "The Welsh Corgi ( or Corgi (pl. Corgis); occasionally the etymologically consistent Corgwn ) is a small type of herding dog that originated in Wales. The name corgi is thought to be derived from the Welsh words cor and ci (which is mutated to gi), meaning \"dwarf\" and \"dog\", respectively. Two separate breeds are recognised: the Pembroke Welsh Corgi and the Cardigan Welsh Corgi. Physical differences are seen between the two breeds. According to the breed standards, overall, the Cardigan is larger in weight and height and has a much longer tail than the Pembroke. Historically, the Pembroke has been attributed to the influx of dogs alongside Flemish weavers from around the 14th century. In contrast, the Cardigan is attributed to the dogs brought with Norse settlers, in particular a common ancestor of the Swedish Vallhund. The Pembroke is the more popular of the two, yet still appears on the Kennel Club's vulnerable dog breeds of the United Kingdom list."
+    },
+    {
+      "chunk_id": "wikipedia:Donald#0000",
+      "doc_id": "wikipedia:Donald",
+      "title": "Donald",
+      "url": "https://en.wikipedia.org/?curid=793569",
+      "source_type": "wikipedia",
+      "score": 0.600994011759758,
+      "text": "Donald is a Scottish masculine given name. It is derived from the Gaelic name Dòmhnall. This comes from the Proto-Celtic *Dumno-ualos (\"world-ruler\" or \"world-wielder\"). The final -d in Donald is partly derived from a misinterpretation of the Gaelic pronunciation by English speakers. A short form of Donald is Don, and pet forms of Donald include Donnie and Donny. The feminine given name Donella is derived from Donald. Donald has cognates in other Celtic languages: Modern Irish Dónal (anglicised as Donal and Donall); Scottish Gaelic Dòmhnall, Domhnull and Dòmhnull; Welsh Dyfnwal and Cumbric Dumnagual. Although the feminine given name Donna is sometimes used as a feminine form of Donald, the names are not etymologically related."
+    },
+    {
+      "chunk_id": "wikipedia:Hard#0001",
+      "doc_id": "wikipedia:Hard",
+      "title": "Hard",
+      "url": "https://en.wikipedia.org/?curid=732244",
+      "source_type": "wikipedia",
+      "score": 0.5990817368030548,
+      "text": "(surname) Hard architecture, impersonal windowless buildings with graffiti-resistant walls usually associated with prisons and other secure structures Nickname of Masaki Sumitani ( HardGay / HardoGay ) Hard (nautical), a beach or slope convenient for hauling out vessels hard, slang for an erection Hayward Area Recreation..."
+    }
+  ]
+}

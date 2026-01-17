@@ -1,0 +1,117 @@
+{
+  "meme_id": "meme_02661",
+  "queries": [
+    "\"HIS ‘OWN BUSINESS es\" \"Best dance moves\" \"COMMIT.SUICIDE\" \"man\"",
+    "\"COMMIT.SUICIDE\" \"man\" \"best\" \"dance\""
+  ],
+  "primary_terms": [
+    "Best dance moves",
+    "man",
+    "best",
+    "dance",
+    "moves",
+    "known",
+    "COMMIT.SUICIDE",
+    "HIS ‘OWN BUSINESS es",
+    "doesnt",
+    "commit",
+    "suicide",
+    "dances",
+    "beat",
+    "mind",
+    "own",
+    "business"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Gangnam Style#0001",
+      "doc_id": "wikipedia:Gangnam Style",
+      "title": "Gangnam Style",
+      "url": "https://en.wikipedia.org/?curid=36584679",
+      "source_type": "wikipedia",
+      "score": 1.0356017827987671,
+      "text": "States, \"Gangnam Style\" peaked at number two on the Billboard Hot 100, which at the time, was the highest charting song by a South Korean artist. By the end of 2012, \"Gangnam Style\" had topped the music charts of more than 30 countries including Australia, Canada, France, Germany, Italy, Spain, and the United Kingdom. Psy's dance in the music video itself became a cultural phenomenon. The song subsequently won Best Video at the MTV..."
+    },
+    {
+      "chunk_id": "wikipedia:Dance#0001",
+      "doc_id": "wikipedia:Dance",
+      "title": "Dance",
+      "url": "https://en.wikipedia.org/?curid=7885",
+      "source_type": "wikipedia",
+      "score": 1.0059980869293212,
+      "text": "across the world exhibiting various different styles and standards. Dance may also be participated in alone as a form of exercise or self expression. Dancing is common human behaviour, and does not necessarily require specific choreography. Theatrical and participatory dance Theatrical dance, also called performance or concert dance, is intended primarily as a spectacle..."
+    },
+    {
+      "chunk_id": "wikipedia:Mara#0001",
+      "doc_id": "wikipedia:Mara",
+      "title": "Mara",
+      "url": "https://en.wikipedia.org/?curid=89150",
+      "source_type": "wikipedia",
+      "score": 0.7474412947893143,
+      "text": "1894 novel by Ioan Slavici Dance Club Mara, a formation dance team, Minsk, Belarus Cultural and language groupings Mara (Tagin), a tribe in Arunachal Pradesh Mara language, a language spoken by the Mara people of India and Burma Mara people Maric languages, a group of Aboriginal Australian languages also known as Mara or Maran..."
+    },
+    {
+      "chunk_id": "wikipedia:Commit#0000",
+      "doc_id": "wikipedia:Commit",
+      "title": "Commit",
+      "url": "https://en.wikipedia.org/?curid=1946757",
+      "source_type": "wikipedia",
+      "score": 0.7259376466274261,
+      "text": "Commit may refer to: Computing Databases Commit (data management), a set of permanent changes in a database COMMIT (SQL), an SQL statement used to create such a changeset Version control Changeset, list of differences between two successive versions in a repository Commit (version control), the operation of committing such a changeset to the repository Microsoft Windows Commit charge, a concept in operating system-level memory management Others Materiel and IT Command (COMMIT), the defense procurement agency of the government of The Netherlands Commit (motion), a parliamentary motion Nicotine replacement therapy, by the trade name Commit Commit (card game), a 19th century American variant of the French card game, Comet See also Commitment (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0001",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.6881897211074829,
+      "text": "suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital. Following his recovery, the now-unemployed Tramp is mistakenly arrested in a Communist demonstration. In jail, he accidentally ingests smuggled cocaine, and in his subsequent delirium, he avoids being put back in his cell. When he returns, he stumbles upon a jailbreak and knocks the convicts..."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.6822585970163345,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    },
+    {
+      "chunk_id": "wikipedia:Leave#0001",
+      "doc_id": "wikipedia:Leave",
+      "title": "Leave",
+      "url": "https://en.wikipedia.org/?curid=85749",
+      "source_type": "wikipedia",
+      "score": 0.6719000160694122,
+      "text": "of \"Remain\") Arts, entertainment, and media Leave (film), a 2010 film by Robert Celestino Leave (2022 film), a 2022 film by Alex Herron Music Leave (album), a 2002 Mandopop album \"Leave\" (Get Out), a 2004 R&B song by JoJo \"Leave!\", a 2009 soul song performed by the English singer VV Brown \"Leave\", a song by Sertab Erener \"Leave\", a song..."
+    },
+    {
+      "chunk_id": "wikipedia:Easy#0000",
+      "doc_id": "wikipedia:Easy",
+      "title": "Easy",
+      "url": "https://en.wikipedia.org/?curid=7445591",
+      "source_type": "wikipedia",
+      "score": 0.6658897072076797,
+      "text": "Easy is an adjective describing something that is not difficult to do. It may also refer to: Arts and entertainment Film and television Easy (2003 film), an American romantic comedy film Easy (2017 film), a comedy-drama film Easy!, or Scialla!, a 2011 Italian comedy film Easy (TV series), a 2016–2019 American comedy-drama anthology series Music Albums Easy (Easybeats album), 1965 Easy (Grant Green album), 1978 Easy (Grinspoon album), 1999 Easy (Kelly Willis album) or the title song, 2002 Easy (Marvin Gaye and Tammi Terrell album), 1969 Easy (Nancy Wilson album), 1968 Easy (Ralph McTell album), 1974 Easy, by Cowboy Mouth, 2000 EPs Easy (EP), by Le Sserafim, 2024 Songs \"Easy\" (Commodores song), 1977; covered by Faith No More, 1992 \"Easy\" (Camila Cabello song), 2019 \"Easy\" (Cro song), 2012 \"Easy\" (DaniLeigh song), 2019 \"Easy\" (Dragonette song), 2010 \"Easy\" (Ice MC song), 1989 \"Easy\" (Jvke song), 2025 \"Easy\" (KSI, Bugzy Malone and R3hab song), 2023 \"Easy\" (Le Sserafim song), 2024 \"Easy\""
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0001",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.635088962316513,
+      "text": "by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\". Angered by the suicide of a student who is mocked and refused a loan for her studies, they eventually kill the corrupt bank manager who abetted it. Soon enough, more corrupt individuals are killed, and Rajan Mathew is reinstated as S.P. to nab the group. The team learn..."
+    },
+    {
+      "chunk_id": "wikipedia:Passion#0001",
+      "doc_id": "wikipedia:Passion",
+      "title": "Passion",
+      "url": "https://en.wikipedia.org/?curid=501256",
+      "source_type": "wikipedia",
+      "score": 0.6134972929954529,
+      "text": "Dacre Passion, (in Italian, Fosca), 1869 novel by Iginio Ugo Tarchetti Passion Play (play) or Passion, 1981 play by Peter Nichols Passion: An Essay on Personality, 1984 book by Roberto Unger The Passion (novel), 1987 novel by Jeanette Winterson Passion (manga), 2004 Japanese yaoi manga series Passion (novel), 2011 young adult..."
+    }
+  ]
+}

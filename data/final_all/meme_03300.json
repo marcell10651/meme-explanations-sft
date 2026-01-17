@@ -1,0 +1,191 @@
+{
+  "meme_id": "meme_03300",
+  "queries": [
+    "\"accurate to coffee lovers\" \"Sab LON\" \"OUR HOUSES\" \"NUT SETS\"",
+    "\"OUR HOUSES\" \"NUT SETS\" \"sounds\" \"accurate\""
+  ],
+  "primary_terms": [
+    "accurate to coffee lovers",
+    "sounds",
+    "accurate",
+    "coffee",
+    "lovers",
+    "Sab LON",
+    "OUR HOUSES",
+    "NUT SETS"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:House#0001",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.5262222290039062,
+      "text": "agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans. The social unit that lives in a house is known as a household. Most commonly, a household is a family unit of some kind, although households may also have other social groups, such as roommates or, in a rooming..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.4948085695505142,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.46688179671764374,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:New Shoes#0000",
+      "doc_id": "wikipedia:New Shoes",
+      "title": "New Shoes",
+      "url": "https://en.wikipedia.org/?curid=10317022",
+      "source_type": "wikipedia",
+      "score": 0.452183336019516,
+      "text": "\"New Shoes\" is a song by Scottish singer-songwriter Paolo Nutini, released as the fourth single from debut album, These Streets. It was used as the headlining single for the US release of the album. The song peaked at number 21 on the UK Singles Chart, number eight on the US Billboard Bubbling Under Hot 100 chart, and number one on the Billboard Triple A chart. The song was used for a 2007 international ad campaign by Puma AG. Charts Weekly charts Year-end charts Certifications Cover versions Lena Meyer-Landrut covered this song on some editions of her album My Cassette Player. A live version is found on the platinum edition of her album Good News and on her DVD \"Good News Live\". References"
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0001",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.44637608528137207,
+      "text": "or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover (theater), a walkway across the stage hidden from the audience Crossover thrash, a musical genre combining thrash and punk Crossover (video games) The Crossover..."
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0001",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.4432583749294281,
+      "text": "USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the 2014 album Sweet Talker \"Loud\", a 2006 single by Masters at Work with Beto Cuevas \"Loud\", a song by Matt Nathanson from the 1999 album Still Waiting for Spring \"Loud\", an additional..."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.44312241673469543,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0000",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.44094352424144745,
+      "text": "Things or The Things may refer to: Music Things (album), by Uri Caine and Paolo Fresu, 2006 \"Things\" (Bobby Darin song), 1962; covered by Ronnie Dove, 1975 \"Things\", a song by Joe Walsh from There Goes the Neighborhood, 1981 \"Things\", a song by John Cale from HoboSapiens, 2003 \"Things\", a song by Split Enz, 1979 \"Things\", a song by Paul Westerberg from 14 Songs, 1993 \"The Things\", a song by Audio Bullys from Ego War, 2003 Literature Things, a 1914 novel by Alice Duer Miller Things: A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K."
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0001",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.42820097506046295,
+      "text": "game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap! (album), by the Jam, 1983 \"Snap\" (song), by Rosa Linn, 2022 \"Snap\", a song by Kevin Federline from Playing with Fire, 2006 \"Snap\", a song by Nav from Bad Habits, 2019 \"Snap\", a song by Slipknot from Slipknot, 2009 reissue \"Snap!\", a song from the British preschool TV series Boo! Fictional entities Snap, a character from the Nickelodeon animated television..."
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0000",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.4186456501483917,
+      "text": "Loud most commonly refers to: Loudness, the subjective quality of sound of great intensity Loud may also refer to: Music Albums Loud (Half Japanese album), 1981 Loud (Rihanna album), 2010 Loud (Timo Maas album), 2001 Loud (Wicked Tinkers album), 1999 Loud, a 2000 album by Lexy & K-Paul Loud (EP), by American Pop-Rock band R5 Artists Loud (British band), a British 1990s band Loud (Israeli band), an Israeli psytrance music group Loud (rapper), a Canadian rapper from Quebec Loudness (band), a Japanese rock band Songs \"Loud\" (Mac Miller song), 2012 \"Loud\" (Shannon Noll song), 2007 \"Loud\" (Stan Walker song), 2011 \"Loud\" (R5 song), 2013 \"Loud\" (Tim Hicks song), 2018 \"Loud\", a song by Silk City, featuring GoldLink and Desiigner \"Loud\", a 2007 single by Big & Rich from the album Between Raising Hell and Amazing Grace \"Loud\", a song by Chocolate USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A person carrying a cup of coffee and some coffee beans on a plate.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "coffee",
+          "some coffee beans"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that coffee goes in mugs, so coffee getting mugged is a pun.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "that coffee",
+          "mugs"
+        ]
+      },
+      "title": {
+        "text": "this sounds accurate to coffee lovers like me",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "accurate to coffee lovers",
+          "sounds",
+          "accurate",
+          "coffee",
+          "lovers"
+        ]
+      },
+      "text": {
+        "text": "o EY ie fame SLENTAVICTI Sab LON OUR HOUSES NUT SETS MUGGED \\ GEOR hs",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Sab LON",
+          "OUR HOUSES",
+          "NUT SETS"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "accurate to coffee lovers",
+      "sounds",
+      "accurate",
+      "coffee",
+      "lovers",
+      "Sab LON",
+      "OUR HOUSES",
+      "NUT SETS"
+    ],
+    "secondary_terms": [
+      "coffee",
+      "some coffee beans",
+      "that coffee",
+      "mugs"
+    ],
+    "queries": [
+      "\"accurate to coffee lovers\" \"Sab LON\" \"OUR HOUSES\" \"NUT SETS\"",
+      "\"OUR HOUSES\" \"NUT SETS\" \"sounds\" \"accurate\""
+    ]
+  },
+  "source_jsonl_id": null
+}

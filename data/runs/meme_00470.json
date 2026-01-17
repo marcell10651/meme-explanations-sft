@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_00470",
+  "queries": [
+    "\"Spongebob\" \"useful\" \"tool\" \"question\" \"reddiotrs\"",
+    "\"question\" \"reddiotrs\" \"afraid\" \"wire\""
+  ],
+  "primary_terms": [
+    "useful",
+    "tool",
+    "question",
+    "reddiotrs",
+    "afraid",
+    "wire",
+    "eel"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:SpongeBob SquarePants#0000",
+      "doc_id": "wikipedia:SpongeBob SquarePants",
+      "title": "SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/?curid=2655089",
+      "source_type": "wikipedia",
+      "score": 0.5467242002487183,
+      "text": "SpongeBob SquarePants is an American animated comedy television series created by marine science educator and animator Stephen Hillenburg for Nickelodeon. It first aired as a sneak peek after the 1999 Kids' Choice Awards on May 1, 1999, and officially premiered on July 17, 1999. It chronicles the adventures of the titular character and his aquatic friends in the underwater city of Bikini Bottom. Many of the series' ideas originated in The Intertidal Zone, an unpublished educational comic book Hillenburg created in the 1980s to teach his students about undersea life. Hillenburg joined Nickelodeon in 1992 as an artist on Rocko's Modern Life. After Rocko was cancelled in 1996, he began developing SpongeBob SquarePants into a television series, and in 1997, a seven-minute pilot was pitched to Nickelodeon. The network's executives wanted SpongeBob to be a child in school, but Hillenburg preferred SpongeBob to be an adult character."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.5350598096847534,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:I Have Some Questions for You#0000",
+      "doc_id": "wikipedia:I Have Some Questions for You",
+      "title": "I Have Some Questions for You",
+      "url": "https://en.wikipedia.org/?curid=73141678",
+      "source_type": "wikipedia",
+      "score": 0.49070664346218107,
+      "text": "I Have Some Questions for You is a 2023 literary mystery novel by American writer Rebecca Makkai, published by Viking Press. The novel received universal acclaim from critics upon release, and spent six weeks on the New York Times bestseller list. It was popular among the general public, and placed ninth in the Goodreads Choice Award's Mystery & Thriller category. Its audiobook went on to win an inaugural Libby Book Award, and it was longlisted for prestigious prizes like the Aspen Words Literary Prize and Carol Shields Prize for Fiction. Plot Bodie Kane, a film professor and podcaster, is forced to confront a series of violent events in her past when she is invited to teach a class at the New Hampshire boarding school she graduated from. Publication history I Have Some Questions for You was published on February 21, 2023 by Viking Press. It spent six weeks on the New York Times Bestseller list, after having debuted at #3."
+    },
+    {
+      "chunk_id": "wikipedia:Reaction#0001",
+      "doc_id": "wikipedia:Reaction",
+      "title": "Reaction",
+      "url": "https://en.wikipedia.org/?curid=169068",
+      "source_type": "wikipedia",
+      "score": 0.4565942347049713,
+      "text": "The Mods ReAction GUI, a GUI toolkit used on AmigaOS Reaction.life, a political news and commentary website edited by Iain Martin Reaction Records, a record label TNA Reaction, a former documentary show of TNA Wrestling (now known as Impact Wrestling) behind the scenes Reaction (The Spectacular Spider-Man), an episode of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.4475541412830353,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0001",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.4348594844341278,
+      "text": "Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing. While the game was initially released in 2018 to little mainstream attention, it received a massive rise in popularity in 2020 due to many Twitch streamers and YouTubers playing it during the COVID-19 pandemic..."
+    },
+    {
+      "chunk_id": "wikipedia:Arms#0001",
+      "doc_id": "wikipedia:Arms",
+      "title": "Arms",
+      "url": "https://en.wikipedia.org/?curid=9843028",
+      "source_type": "wikipedia",
+      "score": 0.3974512368440628,
+      "text": "for the Nintendo Switch ARMS Charity Concerts, a series of charitable rock concerts in support of Action into Research for Multiple Sclerosis in 1983 Project ARMS, a 1997 Japanese manga series also known as ARMS Other uses Alveolar rhabdomyosarcoma, a form of cancer Arms, Amps root mean square, seen in electrical specifications..."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0001",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.3795021027326584,
+      "text": "by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\". Angered by the suicide of a student who is mocked and refused a loan for her studies, they eventually kill the corrupt bank manager who abetted it. Soon enough, more corrupt individuals are killed, and Rajan Mathew is reinstated as S.P. to nab the group. The team learn..."
+    },
+    {
+      "chunk_id": "wikipedia:Fear#0000",
+      "doc_id": "wikipedia:Fear",
+      "title": "Fear",
+      "url": "https://en.wikipedia.org/?curid=10828",
+      "source_type": "wikipedia",
+      "score": 0.34743926525115965,
+      "text": "Fear is an unpleasant subjective emotional state arising in response to perceived dangers or threats and which, when experienced, is typically associated with physiological and psychological changes. These changes frequently lead to behavioral reactions such as fight-or-flight responses or, in extreme cases, immobilization (freeze response). Unlike most (perhaps all) other animals, humans can experience fear in response to a present or anticipated stimulus and to imagined events. Most internalizing psychopathologies (depression, anxiety, suicidal thoughts and behaviors, and so forth) are associated with and maintained by dysfunctional, anxious, or fearful feelings and thoughts. Phobias, or exaggerated and often disabling fears, are usually similarly dysfunctional. Fear is often framed as a distinct product of evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Spat#0000",
+      "doc_id": "wikipedia:Spat",
+      "title": "Spat",
+      "url": "https://en.wikipedia.org/?curid=2447773",
+      "source_type": "wikipedia",
+      "score": 0.33108085989952085,
+      "text": "Spat may refer to: Spat (angular unit), a unit of solid angle Spat (distance unit), an obsolete distance unit in astronomy Spats (footwear), a type of shoe accessory Wheel spats, British term for aerodynamic fairings that reduce the drag on fixed-undercarriage aircraft Spat, the past tense of spit Spat (molluscs), settled larvae of shellfish such as oysters and scallops Spat, the main villain in the game Hamtaro Ham-Ham Heartbreak SPAT, Toamasina Autonomous Port of Madagascar, from French Société de Gestion du Port Autonome de Toamasina S.P.A.T., Polish Special Forces, from Polish Samodzielny Pododdział Antyterrorystyczny Komisariatu Policji See also All pages with titles beginning with Spat All pages with titles containing Spat Spath (disambiguation) Spats (disambiguation) Spatter (disambiguation)"
+    }
+  ]
+}

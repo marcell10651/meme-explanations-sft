@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_03479",
+  "queries": [
+    "\"America\" \"live\" \"girl\" \"asked\" \"somewhere\"",
+    "\"asked\" \"somewhere\" \"expensive\" \"say\""
+  ],
+  "primary_terms": [
+    "live",
+    "girl",
+    "asked",
+    "somewhere",
+    "expensive",
+    "say",
+    "more",
+    "waar",
+    "vies",
+    "ait"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Here#0000",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.6941194355487823,
+      "text": "Here may refer to: Music Here (Adrian Belew album), 1994 Here (Alicia Keys album), 2016 Here (Cal Tjader album), 1979 Here (Edward Sharpe album), 2012 Here (Idina Menzel album), 2004 Here (Merzbow album), 2008 Here (Nicolay album), 2006 Here (Leo Sayer album), 1979 Here (Teenage Fanclub album), 2016 \"Here\" (Alessia Cara song), 2015 \"Here\" (The Grace song), 2008 \"Here\" (Rascal Flatts song), 2008 \"Here\" (Tom Grennan song), 2023 \"Here\" (1954 song), song with music by Harold Grant and lyrics by Dorcas Cochran Here (Cartoon song), 2016 \"Here (In Your Arms)\", 2006 song by Hellogoodbye \"Here\", a 1971 song by America from their eponymous debut album \"Here\", a 2014 song by Christine and the Queens from Chaleur humaine \"Here\", a 2018 song by David Byrne from American Utopia \"Here\", a 1992 song by Pavement from Slanted and Enchanted \"Here\", a 2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a"
+    },
+    {
+      "chunk_id": "wikipedia:Live#0001",
+      "doc_id": "wikipedia:Live",
+      "title": "Live",
+      "url": "https://en.wikipedia.org/?curid=28508507",
+      "source_type": "wikipedia",
+      "score": 0.6589580237865448,
+      "text": "88.5, a radio station in Ottawa, Canada Television Live (South Korean TV series), a 2018 South Korean television series Live (Danish TV series) Live! (TV channel), Italy Live with Kelly and Mark, US TV talk show Types of media Live action (cinematography), a motion picture not produced using animation Live art Live music, a concert Live album, recording of a live music concert..."
+    },
+    {
+      "chunk_id": "wikipedia:I Have Some Questions for You#0000",
+      "doc_id": "wikipedia:I Have Some Questions for You",
+      "title": "I Have Some Questions for You",
+      "url": "https://en.wikipedia.org/?curid=73141678",
+      "source_type": "wikipedia",
+      "score": 0.5646684169769287,
+      "text": "I Have Some Questions for You is a 2023 literary mystery novel by American writer Rebecca Makkai, published by Viking Press. The novel received universal acclaim from critics upon release, and spent six weeks on the New York Times bestseller list. It was popular among the general public, and placed ninth in the Goodreads Choice Award's Mystery & Thriller category. Its audiobook went on to win an inaugural Libby Book Award, and it was longlisted for prestigious prizes like the Aspen Words Literary Prize and Carol Shields Prize for Fiction. Plot Bodie Kane, a film professor and podcaster, is forced to confront a series of violent events in her past when she is invited to teach a class at the New Hampshire boarding school she graduated from. Publication history I Have Some Questions for You was published on February 21, 2023 by Viking Press. It spent six weeks on the New York Times Bestseller list, after having debuted at #3."
+    },
+    {
+      "chunk_id": "wikipedia:Auction#0001",
+      "doc_id": "wikipedia:Auction",
+      "title": "Auction",
+      "url": "https://en.wikipedia.org/?curid=62912",
+      "source_type": "wikipedia",
+      "score": 0.5581802606582642,
+      "text": "bid. An auctioneer may announce prices, while bidders submit bids vocally or electronically. Auctions are applied for trade in diverse contexts. These contexts include antiques, paintings, rare collectibles, expensive wines, commodities, livestock, radio spectrum, used cars, real estate, online advertising, vacation packages, emission trading, and many more. Etymology The word \"auction\" is derived from auctus, the past participle of the Latin verb augeō, (\"I increase\"). History Classical antiquity Auctions have been recorded as early..."
+    },
+    {
+      "chunk_id": "wikipedia:Never#0001",
+      "doc_id": "wikipedia:Never",
+      "title": "Never",
+      "url": "https://en.wikipedia.org/?curid=1433241",
+      "source_type": "wikipedia",
+      "score": 0.5402369111776352,
+      "text": "-sama and Evil Neuro, 2025 \"Never\", by Orbital from Wonky, 2012 \"Never\", by Ozzy Osbourne from The Ultimate Sin, 1986 \"Never\", by Paco from This Is Where We Live, 2004 \"Never\", by Sevendust from Next, 2005 \"Never (These Days)\", by Z-Ro, 2010 Places Never, Amur Oblast, a rural locality in Russia Never, Bryansk Oblast, a rural locality..."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0001",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.4772501945495605,
+      "text": "2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a Singaporean film directed by Tzu Nyen Ho Here (2011 film), an American drama directed by Braden King Here (2023 film), a Belgian film directed by Bas Devos Here (2024 film), an American drama directed..."
+    },
+    {
+      "chunk_id": "wikipedia:Mamma Mia! (film)#0001",
+      "doc_id": "wikipedia:Mamma Mia! (film)",
+      "title": "Mamma Mia! (film)",
+      "url": "https://en.wikipedia.org/?curid=8425661",
+      "source_type": "wikipedia",
+      "score": 0.464243084192276,
+      "text": "Square in London on June 30, 2008, before being released in the United Kingdom on July 10, and in the United States on July 18, by Universal Pictures. It received mixed reviews from critics and was a box-office success, grossing $610 million worldwide on a $52 million budget, becoming the fifth highest-grossing film of 2008. A sequel, titled Mamma Mia! Here We Go Again, was released on July 20, 2018, with much of the..."
+    },
+    {
+      "chunk_id": "wikipedia:His Family#0001",
+      "doc_id": "wikipedia:His Family",
+      "title": "His Family",
+      "url": "https://en.wikipedia.org/?curid=3241257",
+      "source_type": "wikipedia",
+      "score": 0.46054957509040834,
+      "text": "changes that have come to New York since his arrival in the city as a young man from a New Hampshire farm somewhere near the time of the Civil War. He is driven by his wife's dying request to remain close to their three daughters, yet he feels very distant from them—this despite the fact that the younger two (Deborah, a school principal, and Laura) live in the family home with him, and Edith, who is..."
+    },
+    {
+      "chunk_id": "wikipedia:Certain Things Are Likely#0001",
+      "doc_id": "wikipedia:Certain Things Are Likely",
+      "title": "Certain Things Are Likely",
+      "url": "https://en.wikipedia.org/?curid=23239484",
+      "source_type": "wikipedia",
+      "score": 0.45730940997600555,
+      "text": "Instrumental)\" Chart performance In film \"Certain Things Are Likely\" can be heard in the American teen romantic comedy film, Can't Buy Me Love (1987). It can also be heard in the Italian giallo film Too Beautiful to Die (1988) See also List of Billboard number-one dance singles of 1987 References External links \"Certain Things Are Likely\" at Discogs (list of releases)"
+    },
+    {
+      "chunk_id": "wikipedia:Maybe#0001",
+      "doc_id": "wikipedia:Maybe",
+      "title": "Maybe",
+      "url": "https://en.wikipedia.org/?curid=3627756",
+      "source_type": "wikipedia",
+      "score": 0.4462766796350479,
+      "text": "from 22, 2022 \"Maybe\", a song by Dave Gahan released as a B-side on the single \"Dirty Sticky Floors\", 2003 \"Maybe\", a song by Estelle from The 18th Day, 2004 \"Maybe\", a song by (G)I-dle from I Trust, 2020 \"Maybe (Duet Version)\", a song by Gotthard from Bang!, 2014 \"Maybe\", a song by Harry Nilsson from Harry, 1969 \"Maybe\", a song by..."
+    }
+  ]
+}

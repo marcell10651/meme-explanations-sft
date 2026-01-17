@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_03802",
+  "queries": [
+    "\"clue\" \"point\" \"une\" \"ideaiwhatrizzs\""
+  ],
+  "primary_terms": [
+    "this point",
+    "clue",
+    "point",
+    "une",
+    "ideaiwhatrizzs",
+    "anutrtthiseeont"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Point#0000",
+      "doc_id": "wikipedia:Point",
+      "title": "Point",
+      "url": "https://en.wikipedia.org/?curid=48221",
+      "source_type": "wikipedia",
+      "score": 0.4767615556716919,
+      "text": "Point or points may refer to: Mathematics Point (geometry), a representation of an exact position in a physical or mathematical space Point, or element, in category theory, the generalized concept of a set element Decimal point Places Point, Cornwall, England, a settlement in Feock parish Point, Lewis, a peninsula in the Outer Hebrides, Scotland Point, the northeast tip of the Inner Hebrides island of Lismore, Scotland Point, Texas, a US city Points, West Virginia, an unincorporated US community Business and finance Point (loyalty program), a form of currency used as a purchasing incentive Point (mortgage), a payment made up front in exchange for a reduced interest rate Measurement units Point (gemstone), 2 milligrams, or one hundredth of a carat A unit of card stock thickness Point, 1/100 of an inch, formerly used to describe rainfall in Australia Point (typography) Points, an antler's size by the number of its tips Printer point, an unit of relative exposure in photography"
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0001",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.4498668611049652,
+      "text": "or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'. History An argument over the underlying nature of ideas was opened by Plato, whose exposition of his theory of forms—which recurs and accumulates over the course of his many dialogs—appropriates and adds a new sense to the Greek word for things that are \"seen\" (re. εἶδος) that highlights those elements of perception which..."
+    },
+    {
+      "chunk_id": "wikipedia:Position#0001",
+      "doc_id": "wikipedia:Position",
+      "title": "Position",
+      "url": "https://en.wikipedia.org/?curid=268217",
+      "source_type": "wikipedia",
+      "score": 0.3035404682159424,
+      "text": "of beliefs about questions in philosophy Position (finance), commitments in a financial marketplace Social position, the position of an individual in a society and culture Political position within a political spectrum Science and mathematics Position (vector), a mathematical identification of relative location Position in positional..."
+    },
+    {
+      "chunk_id": "wikipedia:Infinity#0001",
+      "doc_id": "wikipedia:Infinity",
+      "title": "Infinity",
+      "url": "https://en.wikipedia.org/?curid=20110824",
+      "source_type": "wikipedia",
+      "score": 0.28113234639167783,
+      "text": "Georg Cantor enlarged the mathematical study of infinity by studying infinite sets and infinite numbers, showing that they can be of various sizes. For example, if a line is viewed as the set of all of its points, their infinite number (i.e., the cardinality of the line) is larger than the number of integers. In this usage, infinity is a mathematical concept, and infinite mathematical objects can be studied, manipulated, and used just like any..."
+    },
+    {
+      "chunk_id": "wikipedia:Tine#0001",
+      "doc_id": "wikipedia:Tine",
+      "title": "Tine",
+      "url": "https://en.wikipedia.org/?curid=1389414",
+      "source_type": "wikipedia",
+      "score": 0.27851673066616056,
+      "text": "literary critic and poet Tine De Caigny (born 1997), Belgian footballer Tine Eerlingen (born 1976), Belgian politician Tine Fischer, Danish film executive, appointed head of the Danish Film Institute from August 2024 Tine Hribar (born 1941), Slovenian philosopher Tine Kavčič (born 1994), Slovenian footballer Tine Ladefoged (born 1977), Danish handball..."
+    },
+    {
+      "chunk_id": "wikipedia:WITS#0001",
+      "doc_id": "wikipedia:WITS",
+      "title": "WITS",
+      "url": "https://en.wikipedia.org/?curid=3083596",
+      "source_type": "wikipedia",
+      "score": 0.24779333174228668,
+      "text": "a 2015 teen sitcom on Nickelodeon Other uses Herman Wits (1636–1708), Dutch theologian Bidvest Wits F.C., a South African football club University of the Witwatersrand, Johannesburg, South Africa WITS (AM), an AM radio station in Sebring, Florida See also Wit (disambiguation) Witts, a surname Witz (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0001",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.24258270859718323,
+      "text": "the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element. The objective can be clarity or effective communication, association with other cultural elements, or merely the creation of a distinctive style. Graphics can be functional or artistic. The latter can be a recorded version, such as a photograph, or an interpretation by a scientist to highlight..."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.2372187077999115,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:Information#0000",
+      "doc_id": "wikipedia:Information",
+      "title": "Information",
+      "url": "https://en.wikipedia.org/?curid=18985062",
+      "source_type": "wikipedia",
+      "score": 0.23661644756793976,
+      "text": "Information is an abstract concept that refers to something which has the power to inform. At the most fundamental level, it pertains to the interpretation (perhaps formally) of that which may be sensed, or their abstractions. Any natural process that is not completely random and any observable pattern in any medium can be said to convey some amount of information. Whereas digital signals and other data use discrete signs to convey information, other phenomena and artifacts such as analogue signals, poems, pictures, music or other sounds, and currents convey information in a more continuous form. Information is not knowledge itself, but the meaning that may be derived from a representation through interpretation. The concept of information is relevant or connected to various concepts, including constraint, communication, control, data, form, education, knowledge, meaning, understanding, mental stimuli, pattern, perception, proposition, representation, and entropy."
+    },
+    {
+      "chunk_id": "wikipedia:Universe#0001",
+      "doc_id": "wikipedia:Universe",
+      "title": "Universe",
+      "url": "https://en.wikipedia.org/?curid=31880",
+      "source_type": "wikipedia",
+      "score": 0.23059576749801636,
+      "text": "were geocentric, placing Earth at the center. During the European Scientific Revolution, astronomical observations led to a heliocentric model. Further observational improvements led to the realization that the Sun is one of a few hundred billion stars in the Milky Way, which is one of a few hundred billion galaxies in the observable universe. Many of the stars in a galaxy have planets. At the largest scale, galaxies are distributed uniformly and the same in all directions, meaning..."
+    }
+  ]
+}

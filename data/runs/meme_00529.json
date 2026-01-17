@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_00529",
+  "queries": [
+    "\"the Community Standards\" \"sense\" \"yes\" \"fact\"",
+    "\"yes\" \"fact\" \"reading\" \"community\""
+  ],
+  "primary_terms": [
+    "sense",
+    "yes",
+    "the Community Standards",
+    "fact",
+    "reading",
+    "community",
+    "standards",
+    "find",
+    "did",
+    "violate"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Success#0001",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.6069783926010132,
+      "text": "a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness. It may also be difficult or impossible to ascertain whether a situation meets criteria for success or failure due to ambiguous or ill-defined definition of those criteria. Finding useful and effective criteria, or heuristics, to judge the failure or success of a situation may itself be a significant task. In American culture DeVitis and Rich link the..."
+    },
+    {
+      "chunk_id": "wikipedia:Gangster#0001",
+      "doc_id": "wikipedia:Gangster",
+      "title": "Gangster",
+      "url": "https://en.wikipedia.org/?curid=234656",
+      "source_type": "wikipedia",
+      "score": 0.5775991141796112,
+      "text": "on the subject of gangs, although there is no clear consensus about what constitutes a gang or what situations lead to gang formation and evolution. There is agreement that the members of a gang have a sense of common identity and belonging, which is typically reinforced through shared activities and visual identifications such as special clothing, tattoos, colors, or rings. Some preconceptions may be false. For example, the common view that illegal drug distribution in the United States is largely..."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.566376268863678,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Proof#0001",
+      "doc_id": "wikipedia:Proof",
+      "title": "Proof",
+      "url": "https://en.wikipedia.org/?curid=62384",
+      "source_type": "wikipedia",
+      "score": 0.5636709094047546,
+      "text": "to establish the truth of facts in a trial Philosophic burden of proof, obligation on a party in a dispute to provide sufficient warrant for their position Probate, the judicial process whereby a will is \"proved\" in a court of law and accepted as valid Manufacturing and printing Artist's proof, a single print taken during the printmaking..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Whatevers#0000",
+      "doc_id": "wikipedia:Two Whatevers",
+      "title": "Two Whatevers",
+      "url": "https://en.wikipedia.org/?curid=539766",
+      "source_type": "wikipedia",
+      "score": 0.512901246547699,
+      "text": "The \"Two Whatevers\" (Chinese: 两个凡是; pinyin: Liǎng gè fán shì) refers to the statement that \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\" (凡是毛主席作出的决策，我们都坚决维护；凡是毛主席的指示，我们都始终不渝地遵循). This statement was contained in a joint editorial, entitled \"Study the Documents Well and Grasp the Key Link\", printed on 7 February 1977 in People's Daily, the journal Red Flag and the PLA Daily. History The policy was advocated by the Chinese Communist Party chairman Hua Guofeng, Mao's successor, who had earlier ended the Cultural Revolution and arrested the Gang of Four. On a 7 February 1977 editorial titled \"Study the Documents Well and Grasp the Key Link\" which appeared in People's Daily, Red Flag, and People's Liberation Army Daily, Hua articulated the \"Two Whatevers\" slogan: \"We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave\"."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.5124505460262299,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    },
+    {
+      "chunk_id": "wikipedia:Society#0001",
+      "doc_id": "wikipedia:Society",
+      "title": "Society",
+      "url": "https://en.wikipedia.org/?curid=37235",
+      "source_type": "wikipedia",
+      "score": 0.5047769248485565,
+      "text": "norms. So far as it is collaborative, a society can enable its members to benefit in ways that would otherwise be difficult on an individual basis. Societies vary based on level of technology and type of economic activity. Larger societies with larger food surpluses often exhibit stratification or dominance patterns. Societies can have many different forms of government, various ways of understanding..."
+    },
+    {
+      "chunk_id": "wikipedia:Content#0000",
+      "doc_id": "wikipedia:Content",
+      "title": "Content",
+      "url": "https://en.wikipedia.org/?curid=426094",
+      "source_type": "wikipedia",
+      "score": 0.47618797421455383,
+      "text": "Content or contents may refer to: Media Content (media), information or experience provided to audience or end-users by publishers or media producers Content industry, an umbrella term that encompasses companies owning and providing mass media and media metadata Content provider, a provider of non-core services in the telecommunications industry Free content, published material that can be used, copied, and modified without significant legal restriction Open content, published material licensed to authorize copying and modification by anyone Web content, information published on the World Wide Web Content analysis, a methodology used in the social sciences and humanities for studying the content of communication Content format, an encoded format for converting a specific type of data to displayable information Digital content, content that exists in the form of digital data Table of contents, a list of chapters or sections in a document Places Content (Centreville, Maryland) also"
+    },
+    {
+      "chunk_id": "wikipedia:Absolutely#0001",
+      "doc_id": "wikipedia:Absolutely",
+      "title": "Absolutely",
+      "url": "https://en.wikipedia.org/?curid=1914454",
+      "source_type": "wikipedia",
+      "score": 0.4719798266887665,
+      "text": "Hard Way Absolutely (TV series), a British comedy sketch show Abso Lutely Productions, a production company started by Tim Heidecker and Eric Wareheim See also Absolute (disambiguation) Absoluteness, a description of formulas that have the same truth value in each of some class of structures Absolution (disambiguation) Definitely (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Society#0000",
+      "doc_id": "wikipedia:Society",
+      "title": "Society",
+      "url": "https://en.wikipedia.org/?curid=37235",
+      "source_type": "wikipedia",
+      "score": 0.46125897765159607,
+      "text": "A society () is a group of individuals involved in persistent social interaction or a large social group sharing the same spatial or social territory, typically subject to the same political authority and dominant cultural expectations. Societies are characterized by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions; a given society may be described as the sum total of such relationships among its constituent members. Human social structures are complex and highly cooperative, featuring the specialization of labor via social roles. Societies construct roles and other patterns of behavior by deeming certain actions or concepts acceptable or unacceptable—these expectations around behavior within a given society are known as societal norms. So far as it is collaborative, a society can enable its members to benefit in ways that would otherwise be difficult on an individual basis."
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "meme_id": "meme_01405",
+  "queries": [
+    "\"Retail workers\" \"Mariah Carey\" \"CiloF\" \"has\"",
+    "\"CiloF\" \"has\" \"begun\" \"woop\""
+  ],
+  "primary_terms": [
+    "has",
+    "begun",
+    "Retail workers",
+    "Mariah Carey",
+    "woop",
+    "CiloF"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Delivery#0001",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.513063371181488,
+      "text": "television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama. Music Deliver (The Mamas & the Papas album), 1967 Deliver (The Oak Ridge Boys album), 1983 Deliverin', a 1971 album by Poco \"Deliver\" (song), a 2017 song by Fifth Harmony \"Deliver\", a song by Lupe Fiasco from Tetsuo & Youth \"Delivery\" (song), a 2007 single..."
+    },
+    {
+      "chunk_id": "wikipedia:Leave#0001",
+      "doc_id": "wikipedia:Leave",
+      "title": "Leave",
+      "url": "https://en.wikipedia.org/?curid=85749",
+      "source_type": "wikipedia",
+      "score": 0.44340890645980835,
+      "text": "of \"Remain\") Arts, entertainment, and media Leave (film), a 2010 film by Robert Celestino Leave (2022 film), a 2022 film by Alex Herron Music Leave (album), a 2002 Mandopop album \"Leave\" (Get Out), a 2004 R&B song by JoJo \"Leave!\", a 2009 soul song performed by the English singer VV Brown \"Leave\", a song by Sertab Erener \"Leave\", a song..."
+    },
+    {
+      "chunk_id": "wikipedia:Cool#0001",
+      "doc_id": "wikipedia:Cool",
+      "title": "Cool",
+      "url": "https://en.wikipedia.org/?curid=4175379",
+      "source_type": "wikipedia",
+      "score": 0.4347167909145355,
+      "text": "Cool\" (Dua Lipa song) (2020) \"Cool\" (Gwen Stefani song) (2005) \"Cool\" (The Time song) (1981), later covered by Snoop Dogg and Prince \"Cool\" (West Side Story song) (1957) \"Cool\", a 2011 song by Jason Blaine from Life So Far \"Cool\", a 2018 song by Felix Jaehn, featuring Marc E. Bassy and Gucci Mane, from I (Felix Jaehn..."
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0001",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.4337749183177948,
+      "text": "\"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV from Oshin, 2012 \"Wait\", by Doechii from Alligator Bites Never Heal, 2024 \"Wait\", by Earth, Wind & Fire from I Am, 1979 \"Wait\", by Everyday Sunday from Sleeper, 2001 \"Wait\", by The Kills..."
+    },
+    {
+      "chunk_id": "wikipedia:Feels#0000",
+      "doc_id": "wikipedia:Feels",
+      "title": "Feels",
+      "url": "https://en.wikipedia.org/?curid=68447223",
+      "source_type": "wikipedia",
+      "score": 0.4196512699127197,
+      "text": "Feels or The Feels may refer to: Albums Feels (Animal Collective album), 2005 Feels (Snoh Aalegra album), 2017 Songs \"Feels\" (song), a 2017 song and single by Calvin Harris off the album Funk Wav Bounces Vol. 1 \"Feels\" (Snoh Aalegra song), a 2017 song by Snoh Aalegra, the title track off the eponymous album Feels (Snoh Aalegra album) \"The Feels\" (song), a 2021 song by Twice \"F.E.E.L.S.\", a 2021 music video and song by Tory Lanez Other uses The Feels (film), a 2017 film by Jenée LaMarque See also All the Feels (album), 2019 album by Fitz and the Tantrums Feel (disambiguation) All pages with titles beginning with Feels All pages with titles containing Feels"
+    },
+    {
+      "chunk_id": "wikipedia:Legendary#0001",
+      "doc_id": "wikipedia:Legendary",
+      "title": "Legendary",
+      "url": "https://en.wikipedia.org/?curid=541707",
+      "source_type": "wikipedia",
+      "score": 0.41740092635154724,
+      "text": "Daya, 2015 \"Legendary\", by Royce da 5'9\" from Success Is Certain, 2011 \"Legendary\", by Skillet from Victorious, 2019 \"Legendary\", by Joey Badass from All-Amerikkkan Badass, 2017 \"Legendary\", by Jorge Rivera-Herrans from Epic: The Musical, 2024 \"Legendary\" (Bon Jovi song), 2024 Other uses Legendary (video game), a 2008 first..."
+    },
+    {
+      "chunk_id": "wikipedia:Cool#0000",
+      "doc_id": "wikipedia:Cool",
+      "title": "Cool",
+      "url": "https://en.wikipedia.org/?curid=4175379",
+      "source_type": "wikipedia",
+      "score": 0.40150102972984314,
+      "text": "Cool commonly refers to: Cool, a moderately low temperature Cool (aesthetic), an aesthetic of attitude, behavior, and style Cool or COOL may also refer to: Economics Country of origin labelling mCOOL - US consumer legislation to enforce COOL at the grocery store Computing Cool (programming language) COOL, a computer language used in the CLIPS tool Cool, an internal name of C# An abbreviation for Collabora Online Geography Cool, Rotterdam, Netherlands Cool, California, U.S. Cool, Texas, U.S. Music Cool (band), a South Korean K-pop music group Cool jazz Albums Cool (George Duke album) (2000) Lupe Fiasco's The Cool (2007) The Cool (character), the associated concept character Cool (Joyce album) (2015) Songs \"Cool\" (Alesso song) (2015) \"Cool\" (Anthony Hamilton song) (2008) \"Cool\" (Jonas Brothers song) (2019) \"Cool\" (Le Youth song) (2013) \"Cool\" (Dua Lipa song) (2020) \"Cool\" (Gwen Stefani song) (2005) \"Cool\" (The Time song) (1981), later covered by Snoop Dogg and Prince \"Cool\" (West Side"
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0001",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.39506325125694275,
+      "text": "1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple, 2008 \"Whatever\", by Hüsker Dü from Zen Arcade, 1984 \"Whatever\", by Imogen Heap from I Megaphone, 1998 \"Whatever\", by Lil Tecca from We Love You Tecca 2, 2021 \"Whatever\", by Our Lady Peace..."
+    },
+    {
+      "chunk_id": "wikipedia:Broccoli haircut#0001",
+      "doc_id": "wikipedia:Broccoli haircut",
+      "title": "Broccoli haircut",
+      "url": "https://en.wikipedia.org/?curid=77594266",
+      "source_type": "wikipedia",
+      "score": 0.3095121145248413,
+      "text": "among members of Generation Z, as well as \"bird's nest hair\", \"bussin haircut\" or \"alpaca hair\". It has been described as a variation on a bowl cut. History The precursor to the modern broccoli haircut first appeared in the early 1980s among fans of new wave groups such as Soft Cell, Talking Heads, A Flock of Seagulls, Duran Duran, The Jesus and Mary Chain, and Wham! It was a grown-out, unstyled version of the quiff popular in the early 1980s that was frequently permed or made to look..."
+    },
+    {
+      "chunk_id": "wikipedia:Actually#0000",
+      "doc_id": "wikipedia:Actually",
+      "title": "Actually",
+      "url": "https://en.wikipedia.org/?curid=750827",
+      "source_type": "wikipedia",
+      "score": 0.3093927413225174,
+      "text": "Actually (stylised as Pet Shop Boys, actually.) is the second studio album by English synth-pop duo Pet Shop Boys, released on 7 September 1987 by Parlophone in the United Kingdom and by EMI Manhattan in North America. The album features two number one singles, \"It's a Sin\" and \"Heart\", and a duet with Dusty Springfield, \"What Have I Done to Deserve This?\" Actually is the Pet Shop Boys' top-selling album in the UK, certified triple platinum with over one million sales; worldwide it has sold over four million copies. Background and recording For their second album, Pet Shop Boys still had material from their early songwriting days, including \"It's a Sin\" (1982), \"Rent\" (1984), and \"One More Chance\" which they had recorded with Bobby Orlando and released as an unsuccessful single outside the UK in 1984."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "lots of aircrafts flying in the air while an emoji shows surprised",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "lots",
+          "aircrafts",
+          "the air"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is conveying that it will make the store busy",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the store"
+        ]
+      },
+      "title": {
+        "text": "It has begun",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "has",
+          "begun"
+        ]
+      },
+      "text": {
+        "text": "Retail workers once Mariah Carey starts singing woop ‘CiloF a p Nee | j ~ . o! t Fa wl LO ~~ ; 7s ae f VAS ~ ,",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Retail workers",
+          "Mariah Carey",
+          "woop",
+          "CiloF"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "has",
+      "begun",
+      "Retail workers",
+      "Mariah Carey",
+      "woop",
+      "CiloF"
+    ],
+    "secondary_terms": [
+      "lots",
+      "aircrafts",
+      "the air",
+      "the store"
+    ],
+    "queries": [
+      "\"Retail workers\" \"Mariah Carey\" \"CiloF\" \"has\"",
+      "\"CiloF\" \"has\" \"begun\" \"woop\""
+    ]
+  },
+  "source_jsonl_id": null
+}

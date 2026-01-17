@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_03204",
+  "queries": [
+    "\"Twitter\" \"Interesting drama\" \"Elon Musk\" \"interesting\"",
+    "\"Elon Musk\" \"interesting\" \"drama\" \"elon\""
+  ],
+  "primary_terms": [
+    "Interesting drama",
+    "interesting",
+    "drama",
+    "Elon Musk",
+    "Twitter",
+    "elon",
+    "musk",
+    "taking",
+    "over",
+    "aon"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.7489865481853485,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Emon#0001",
+      "doc_id": "wikipedia:Emon",
+      "title": "Emon",
+      "url": "https://en.wikipedia.org/?curid=52429604",
+      "source_type": "wikipedia",
+      "score": 0.6937898993492126,
+      "text": "(born 1993), Bangladeshi footballer Anisul Islam Emon (born 1994), Bangladeshi cricketer Parvez Hossain Emon (born 2002), Bangladeshi cricketer Abu Shahed Emon (fl. 2000s), Bangladeshi film director Emon Saha (fl. 2000s), Bangladeshi composer Emon Ahmed (fl. 2008–2010), Bangladeshi cricketer Emon Chowdhury, Bangladeshi musician Emon..."
+    },
+    {
+      "chunk_id": "wikipedia:Common#0001",
+      "doc_id": "wikipedia:Common",
+      "title": "Common",
+      "url": "https://en.wikipedia.org/?curid=568187",
+      "source_type": "wikipedia",
+      "score": 0.6724312663078308,
+      "text": "critic Arts, entertainment, and media Common (film), a 2014 BBC One film, written by Jimmy McGovern, on the UK's Joint Enterprise Law Dol Common, a character in The Alchemist by Ben Jonson Harvard Common Press of Boston, Massachusetts, a publisher of cookbooks and parenting books The Common Room, a former interactive TV show on ITV..."
+    },
+    {
+      "chunk_id": "wikipedia:Drama#0000",
+      "doc_id": "wikipedia:Drama",
+      "title": "Drama",
+      "url": "https://en.wikipedia.org/?curid=20913753",
+      "source_type": "wikipedia",
+      "score": 0.6651666820049286,
+      "text": "Drama is the specific mode of fiction represented in performance: a play, opera, mime, ballet, etc., performed in a theatre, or on radio or television. Considered as a genre of poetry in general, the dramatic mode has been contrasted with the epic and the lyrical modes ever since Aristotle's Poetics (c. 335 BC)—the earliest work of dramatic theory. The term \"drama\" comes from a Greek word meaning \"deed\" or \"act\" (δρᾶμα, drâma), which is derived from \"I do\" (δράω, dráō). The two masks associated with drama represent the traditional generic division between comedy and tragedy. In English (as was the analogous case in many other European languages), the word play or game (translating the Anglo-Saxon pleġan or Latin ludus) was the standard term for dramas until William Shakespeare's time—just as its creator was a play-maker rather than a dramatist and the building was a play-house rather than a theatre."
+    },
+    {
+      "chunk_id": "wikipedia:Emon#0000",
+      "doc_id": "wikipedia:Emon",
+      "title": "Emon",
+      "url": "https://en.wikipedia.org/?curid=52429604",
+      "source_type": "wikipedia",
+      "score": 0.6200138926506042,
+      "text": "Emon is a Bengali and Japanese name. In both cultures it may be both a given name and a surname. Statistics The 2010 United States census found 120 people with the surname Emon, making it the 139,228th-most-common surname in the country. This represented an increase from 107 people (142,819th-most-common) in the 2000 census. In both censuses, slightly less than nine-tenths of the bearers of the surname Emon identified as non-Hispanic white, and about seven percent as Asian. People Bengali The Bengali name (ইমন), originating from the Arabic word iman, means \"religious faith\". People with this name include: Shawkat Ali Emon (born 1941), Bangladeshi composer Salman Shah (actor) (real name Chowdhury Muhammad Shahriar Emon; 1971–1996), Bangladeshi film and television actor Mamnun Hasan Emon (born 1983), Bangladeshi film actor Emon Mahmud Babu (born 1993), Bangladeshi footballer Anisul Islam Emon (born 1994), Bangladeshi cricketer Parvez Hossain Emon (born 2002), Bangladeshi cricketer Abu"
+    },
+    {
+      "chunk_id": "wikipedia:Story#0001",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.6169872343540191,
+      "text": "network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story, one of the main characters in the 2006 film Lady in the Water Kahaani, or Story, a 2012 Indian film by Sujoy Ghosh The Story (film documentary short), a 2000 short film by John Little The..."
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.5445369780063629,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Calm#0000",
+      "doc_id": "wikipedia:Calm",
+      "title": "Calm",
+      "url": "https://en.wikipedia.org/?curid=3042950",
+      "source_type": "wikipedia",
+      "score": 0.5387626588344574,
+      "text": "Calm or CALM may refer to: Arts and entertainment Film and television \"The Calm\" (Arrow), an episode of Arrow The Calm (film), a 1980 film Calm, a fictional city in the Kiba (TV series) anime world Music Calm (group), an American hip hop group Calm (album), a 2020 album by 5 Seconds of Summer The Calm (Kaskade album) The Calm (Hostyle Gospel album) The Calm (EP), by Insane Clown Posse \"The Calm (Interlude)\", a song from the album Aquarius (Tinashe album) by Tinashe A piece of music from the album Neo Cali by Vektroid Businesses and organisations Calm (company), a software company in San Francisco, California Cal-Maine (NASDAQ: CALM), an American egg producer Campaign Against Living Miserably, a UK charity Department of Conservation and Land Management (Western Australia) Laws Commercial Advertisement Loudness Mitigation Act, U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0000",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.5208586007356644,
+      "text": "Strongest Deliveryman (Korean: 최강 배달꾼; RR: Choegang baedalkkun) is a 2017 South Korean television series starring Go Kyung-pyo, Chae Soo-bin, Kim Seon-ho, and Go Won-hee. It premiered on August 4, 2017, and aired every Friday and Saturday at 23:00 (KST) on KBS2 until September 23, 2017. Synopsis Choi Kang-soo is a deliveryman who wants to become the CEO of his own delivery app company. The series tells of his journey to achieving love and success. Cast Main Go Kyung-pyo as Choi Kang-soo A veteran deliveryman who puts his life on the line at whatever he does. Chae Soo-bin as Lee Dan-ah A delivery woman who is so single-minded about making money and escaping from \"Hell Joseon\" that she turns down all advances from men. Kim Seon-ho as Oh Jin-kyu A rich man's son, the former Head Manager of Jung Family Seollongtang, he is stubborn at first but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home."
+    },
+    {
+      "chunk_id": "wikipedia:Iconic#0000",
+      "doc_id": "wikipedia:Iconic",
+      "title": "Iconic",
+      "url": "https://en.wikipedia.org/?curid=869034",
+      "source_type": "wikipedia",
+      "score": 0.5174997448921204,
+      "text": "The adjective iconic may describe: someone or something that is seen as a cultural icon a sign characterised by iconicity an image or technique typical of religious icons Iconic may also refer to: Iconic (EP), a 2012 extended play by Icona Pop Iconic, a 2015 album by Jed Madela Iconic, the working title for Rebel Heart, a 2015 studio album by Madonna \"Iconic\" (song), a 2015 song by Madonna featuring Chance the Rapper and Mike Tyson \"Iconic\", a 2018 song by Logic featuring Jaden Smith from YSIV \"Iconic\", a 2018 song by Poppy from Am I a Girl? \"Iconic\", a 2019 song by Trisha Paytas \"Iconic\", a 2021 song by Aespa from Savage \"Iconic\", a 2021 song by Bad Gyal from Warm Up \"Iconic\", a 2022 song by Simple Plan from Harder Than It Looks Iconic (concert), a 2019 concert tour by Filipino singers Sharon Cuneta and Regine Velasquez Iconic Tower, the highest skyscraper of Africa, located in the New Administrative Capital of Egypt The Iconic, a company in Australia See also Icon (disambiguation)"
+    }
+  ]
+}

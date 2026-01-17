@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_03561",
+  "queries": [
+    "\"Two\" \"pen and paper e\" \"IeMatic ete\" \"the glass door\" \"the shower\"",
+    "\"the glass door\" \"the shower\" \"shower\" \"thought\""
+  ],
+  "primary_terms": [
+    "shower",
+    "thought",
+    "pen and paper e",
+    "the glass door",
+    "the shower",
+    "har",
+    "IeMatic ete"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Glass#0001",
+      "doc_id": "wikipedia:Glass",
+      "title": "Glass",
+      "url": "https://en.wikipedia.org/?curid=12581",
+      "source_type": "wikipedia",
+      "score": 0.6781032681465149,
+      "text": "glass objects were beads, perhaps created accidentally during metalworking or the production of faience, which is a form of pottery using lead glazes. Due to its ease of formability into any shape, glass has been traditionally used for vessels, such as bowls, vases, bottles, jars and drinking glasses. Soda–lime glass, containing around 70% silica, accounts for around 90% of modern manufactured glass. Glass can be coloured by adding metal salts or painted and printed with vitreous enamels..."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0001",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.6673973500728607,
+      "text": "a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly. Where the hall inside the front door of a house is elongated, it may be called a passage, corridor (from Spanish corredor used in El Escorial and 100 years later in Castle Howard), or hallway. History In warmer climates, the houses of the wealthy were often built around a courtyard, but in northern areas manors were built around a great hall. The hall was home to the hearth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Room#0001",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.6641444265842438,
+      "text": "the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses. The aforementioned Akrotiri excavations reveal rooms sometimes built above other rooms connected by staircases, bathrooms with alabaster appliances such as washbasins, bathing tubs, and toilets, all connected to an elaborate twin plumbing systems of ceramic pipes for cold and hot water separately. Ancient Rome manifested very complex building forms with a variety of room..."
+    },
+    {
+      "chunk_id": "wikipedia:Sugar on My Tongue#0001",
+      "doc_id": "wikipedia:Sugar on My Tongue",
+      "title": "Sugar on My Tongue",
+      "url": "https://en.wikipedia.org/?curid=80490800",
+      "source_type": "wikipedia",
+      "score": 0.6488634347915649,
+      "text": "the \"run-on flow\" that is widely used in modern hip-hop and raps about oral sex. Critical reception The song received generally positive reviews. Mackenzie Cummings-Grady of Billboard ranked it as the second best song on Don't Tap the Glass, writing \"The song's intergalactic synths and rumbling 808s make it poised to dominate summertime gatherings, and Tyler offers some truly..."
+    },
+    {
+      "chunk_id": "wikipedia:Toilet#0001",
+      "doc_id": "wikipedia:Toilet",
+      "title": "Toilet",
+      "url": "https://en.wikipedia.org/?curid=19167644",
+      "source_type": "wikipedia",
+      "score": 0.630200982093811,
+      "text": "for rooms containing only one or more toilets and hand-basins. Lavatory is an older word for toilet. The technology used for modern toilets varies. Toilets are commonly made of ceramic (porcelain), concrete, plastic, or wood. Newer toilet technologies include dual flushing, low flushing, toilet seat warming, self-cleaning, female urinals and waterless..."
+    },
+    {
+      "chunk_id": "wikipedia:Door#0001",
+      "doc_id": "wikipedia:Door",
+      "title": "Door",
+      "url": "https://en.wikipedia.org/?curid=8637",
+      "source_type": "wikipedia",
+      "score": 0.622793585062027,
+      "text": "egress. In most cases, a door's interior matches its exterior side. But in other cases (e.g., a vehicle door) the two sides are radically different. Many doors incorporate locking mechanisms to ensure that only some people can open them (such as with a key). Doors may have devices such as knockers or doorbells by which people outside announce their presence. Apart from providing access into and..."
+    },
+    {
+      "chunk_id": "wikipedia:Door#0000",
+      "doc_id": "wikipedia:Door",
+      "title": "Door",
+      "url": "https://en.wikipedia.org/?curid=8637",
+      "source_type": "wikipedia",
+      "score": 0.6224488019943237,
+      "text": "A door is a hinged or otherwise movable barrier that allows ingress (entry) into and egress (exit) from an enclosure. The created opening in the wall is a doorway or portal. A door's essential and primary purpose is to provide security by controlling access to the doorway (portal). Conventionally, it is a panel that fits into the doorway of a building, room, or vehicle. Doors are generally made of a material suited to the door's task. They are commonly attached by hinges, but can move by other means, such as slides or counterbalancing. The door may be able to move in various ways (at angles away from the doorway/portal, by sliding on a plane parallel to the frame, by folding in angles on a parallel plane, or by spinning along an axis at the center of the frame) to allow or prevent ingress or egress. In most cases, a door's interior matches its exterior side. But in other cases (e.g., a vehicle door) the two sides are radically different."
+    },
+    {
+      "chunk_id": "wikipedia:Room#0000",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.6158309876918793,
+      "text": "In a building or a ship, a room is any enclosed space within a number of walls to which entry is possible only via a door or other dividing structure. The entrance connects it to either a passageway, another room, or the outdoors. The space is typically large enough for several people to move about. The size, fixtures, furnishings, and sometimes placement of the room within the building or ship (or sometimes a train) support the activity to be conducted in it. History Historically, the use of rooms dates at least to early Minoan cultures about 2200 BC, where excavations at Akrotiri on Santorini reveal clearly defined rooms within certain structures. In early structures, the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses."
+    },
+    {
+      "chunk_id": "wikipedia:Glass#0000",
+      "doc_id": "wikipedia:Glass",
+      "title": "Glass",
+      "url": "https://en.wikipedia.org/?curid=12581",
+      "source_type": "wikipedia",
+      "score": 0.610109269618988,
+      "text": "Glass is an amorphous (non-crystalline) solid. Because it is often transparent and chemically inert, glass has found widespread practical, technological, and decorative use in window panes, tableware, and optics. Some common objects made of glass are named after the material, e.g., a \"glass\" for drinking, \"glasses\" for vision correction, and a \"magnifying glass\". Glass is most often formed by rapid cooling (quenching) of the molten form. Some glasses such as volcanic glass are naturally occurring, and obsidian has been used to make arrowheads and knives since the Stone Age. Archaeological evidence suggests glassmaking dates back to at least 3600 BC in Mesopotamia, Egypt, or Syria. The earliest known glass objects were beads, perhaps created accidentally during metalworking or the production of faience, which is a form of pottery using lead glazes."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0000",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.5914793014526367,
+      "text": "In architecture, a hall is a relatively large space enclosed by a roof and walls. In the Iron Age and the Early Middle Ages in northern Europe, a mead hall was where a lord and his retainers ate and also slept. Later in the Middle Ages, the great hall was the largest room in castles and large houses, and where the servants usually slept. As more complex house plans developed, the hall remained a large room for dancing and large feasts, often still with servants sleeping there. It was usually immediately inside the main door. In modern British houses, an entrance hall next to the front door remains an indispensable feature, even if it is essentially merely a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly."
+    }
+  ]
+}

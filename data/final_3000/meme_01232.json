@@ -1,0 +1,184 @@
+{
+  "meme_id": "meme_01232",
+  "queries": [
+    "\"Janitor\" \"tite chocolate puddingkironthe\" \"mies\" \"licking\" \"tite\"",
+    "\"licking\" \"tite\" \"chocolate\" \"puddingkironthe\""
+  ],
+  "primary_terms": [
+    "tite chocolate puddingkironthe",
+    "mies",
+    "licking",
+    "tite",
+    "chocolate",
+    "puddingkironthe"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Candy#0000",
+      "doc_id": "wikipedia:Candy",
+      "title": "Candy",
+      "url": "https://en.wikipedia.org/?curid=61230",
+      "source_type": "wikipedia",
+      "score": 0.7097849905490875,
+      "text": "Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. The category, also called sugar confectionery, encompasses any sweet confection, including chocolate, chewing gum, and sugar candy. Vegetables, fruit, or nuts which have been glazed and coated with sugar are said to be candied. Physically, candy is characterized by the use of a significant amount of sugar or sugar substitutes. Unlike a cake or loaf of bread that would be shared among many people, candies are usually made in smaller pieces. However, the definition of candy also depends upon how people treat the food. Unlike sweet pastries served for a dessert course at the end of a meal, candies are normally eaten casually, often with the fingers, as a snack between meals. Each culture has its own ideas of what constitutes candy rather than dessert. The same food may be a candy in one culture and a dessert in another."
+    },
+    {
+      "chunk_id": "wikipedia:Cake#0001",
+      "doc_id": "wikipedia:Cake",
+      "title": "Cake",
+      "url": "https://en.wikipedia.org/?curid=57572",
+      "source_type": "wikipedia",
+      "score": 0.6389364004135132,
+      "text": "jelly, cooked fruit, whipped cream, or syrups), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit. Cake is often served as a celebratory dish on ceremonial occasions, such as weddings, anniversaries, and birthdays. There are countless cake recipes; some are bread-like, some are rich and elaborate, and many are centuries old. Cake making is no longer a complicated procedure; while at one time..."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0001",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.5839663743972778,
+      "text": "a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt. It served only one dish, a plate of cereal, wildfowl, and onions. A forerunner for the modern restaurant is the thermopolium, an establishment in Ancient Greece or Ancient Rome that sold and served ready-to-eat food and beverages. These establishments..."
+    },
+    {
+      "chunk_id": "wikipedia:Willy Wonka#0000",
+      "doc_id": "wikipedia:Willy Wonka",
+      "title": "Willy Wonka",
+      "url": "https://en.wikipedia.org/?curid=704925",
+      "source_type": "wikipedia",
+      "score": 0.5683951586484909,
+      "text": "Willy Wonka is a fictional character appearing in British author Roald Dahl's 1964 children's novel Charlie and the Chocolate Factory and its 1972 sequel Charlie and the Great Glass Elevator. He is the eccentric founder and proprietor of the Wonka Chocolate Factory. Wonka has been depicted in film several times. In 1971, Willy Wonka was portrayed by Gene Wilder in Willy Wonka & the Chocolate Factory. Wilder's portrayal in the film is widely beloved and is considered one of his greatest roles. Johnny Depp played the character in 2005's Charlie and the Chocolate Factory which polarized critics and audiences. In 2023, Timothée Chalamet portrayed the character in a standalone film that tells his origin story titled Wonka. Chalamet's performance was both praised and criticized. Wilder, Depp, and Chalamet all received Golden Globe nominations for Best Actor in a Comedy or Musical for their performances."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0001",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.5295190513134003,
+      "text": "food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting. Their favorite food is cocoa beans. When Willy Wonka arrived, he told the chief he and his people can come live and work at his factory and have all the cocoa beans they want. In the first edition of Charlie..."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0000",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.5271801710128784,
+      "text": "The Oompa-Loompas are a fictional race of people in the Charlie and the Chocolate Factory franchise based on the original book by Roald Dahl. In all versions of the story, they are depicted as little people who form the workforce of Willy Wonka's chocolate factory, and are paid in cocoa beans. However, their appearance and backstory change depending on the version. Design and characteristics The Oompa-Loompas are described as being no larger than medium-sized dolls, with rosy-white skin and long golden-brown hair. They wear the same clothes they wore at Loompaland: the men wear deerskins, the women wear leaves and the children wear nothing at all. Before moving to Willy Wonka's chocolate factory, the Oompa-Loompas lived in Loompaland, where they lived in constant fear of the predators that would eat them. Their main source of food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting."
+    },
+    {
+      "chunk_id": "wikipedia:Sugar on My Tongue#0000",
+      "doc_id": "wikipedia:Sugar on My Tongue",
+      "title": "Sugar on My Tongue",
+      "url": "https://en.wikipedia.org/?curid=80490800",
+      "source_type": "wikipedia",
+      "score": 0.5229852348566055,
+      "text": "\"Sugar on My Tongue\" is a song by American rapper Tyler, the Creator. It was sent to US rhythmic radio on August 19, 2025, as the second single from his ninth studio album, Don't Tap the Glass (2025). The track is a hip-hop and electro song, and was written and produced by Tyler himself. Upon its release, the song was received positively by music critics and became viral on social media. The song was also successful commercially, charting at number 41 on the Billboard Hot 100. A music video was released on August 12, 2025, and an alternative intro variant was released on December 25, 2025. Composition and lyrics \"Sugar on My Tongue\" is an electro-influenced song that incorporates Italo disco, post-disco and funk elements. The production consists of synthesizers drums and 808s. Tyler, the Creator adopts the \"run-on flow\" that is widely used in modern hip-hop and raps about oral sex. Critical reception The song received generally positive reviews."
+    },
+    {
+      "chunk_id": "wikipedia:Shit#0000",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 0.50977623462677,
+      "text": "Shit is an English-language profanity. As a noun, it refers to fecal matter, and as a verb it means to defecate; in the plural (\"the shits\"), it means diarrhea. Shite is a common variant in British and Irish English. As a slang term, shit has many meanings, including: nonsense, foolishness, something of little value or quality, trivial and usually boastful or inaccurate talk or a contemptible person. It could also be used to refer to any other noun in general or as an expression of annoyance, concern, surprise or anger. Etymology The word is likely derived from Old English, having the nouns scite (dung, attested only in place names) and scitte (diarrhoea) and the verb scītan (to defecate, attested only in bescītan, to cover with excrement); eventually it morphed into Middle English schītte (excrement), schyt (diarrhoea) and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:Bing#0000",
+      "doc_id": "wikipedia:Bing",
+      "title": "Bing",
+      "url": "https://en.wikipedia.org/?curid=23443579",
+      "source_type": "wikipedia",
+      "score": 0.497387170791626,
+      "text": "Bing most often refers to: Bing Crosby (1903–1977), American singer Microsoft Bing, a web search engine Bing may also refer to: Food and drink Bing (bread), a Chinese flatbread Bing (soft drink), a UK brand Bing cherry, a variety of cherry Twin Bing or Bing, a candy made by Palmer Candy Company Names Bing (German surname), a German-language surname Bing (Chinese surname) (邴), a Chinese surname Places Bing Prefecture, an ancient Chinese province Bing, Hormozgan, a village in Hormozgan Province, Iran Binag, Sistan and Baluchestan, a village in Sistan and Baluchestan Province, Iran Manor of Byng, Suffolk, England Television Bing (TV series), a British children's television series Bada Bing or the Bing, a fictional strip club in The Sopranos Bing or Evan Chambers, a character in Greek Bing, a character in The Angry Beavers Other uses Bing (company), a German company that manufactured toys and kitchen utensils Bing (dog), a British dog who served in World War II Bing (mining), a Scottish"
+    },
+    {
+      "chunk_id": "wikipedia:Jenna Marbles#0001",
+      "doc_id": "wikipedia:Jenna Marbles",
+      "title": "Jenna Marbles",
+      "url": "https://en.wikipedia.org/?curid=33101554",
+      "source_type": "wikipedia",
+      "score": 0.4907900393009186,
+      "text": "psychology and counseling at Boston University. In the summer of 2010, Marbles was sharing a three-bedroom apartment in Cambridge, Massachusetts. She supported herself by bartending, working at a tanning salon, vlogging, and go-go dancing at nightclubs. That year, Marbles started her career with Barstool Sports, where she wrote for their female-oriented site StoolLaLa. She left the publication in 2011..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The fish from Spongebob looks shocked and is ready to say \"you WHAT??\"",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The fish",
+          "Spongebob looks"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that Janitor is disturbed by kid's eating habits.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Janitor",
+          "kid's eating habits"
+        ]
+      },
+      "title": {
+        "text": "YOU WHAT",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "text": {
+        "text": "Mies Licking tite chocolate puddingkironthe TS jAniiior SSN LO ee A A",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "tite chocolate puddingkironthe",
+          "mies",
+          "licking",
+          "tite",
+          "chocolate",
+          "puddingkironthe"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "tite chocolate puddingkironthe",
+      "mies",
+      "licking",
+      "tite",
+      "chocolate",
+      "puddingkironthe"
+    ],
+    "secondary_terms": [
+      "The fish",
+      "Spongebob looks",
+      "Janitor",
+      "kid's eating habits"
+    ],
+    "queries": [
+      "\"Janitor\" \"tite chocolate puddingkironthe\" \"mies\" \"licking\" \"tite\"",
+      "\"licking\" \"tite\" \"chocolate\" \"puddingkironthe\""
+    ]
+  },
+  "source_jsonl_id": null
+}

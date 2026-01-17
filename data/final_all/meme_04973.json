@@ -1,0 +1,181 @@
+{
+  "meme_id": "meme_04973",
+  "queries": [
+    "\"Four different video game characters\" \"a dark heavy knight\" \"his brother\" \"the father\"",
+    "\"his brother\" \"the father\" \"swords\" \"ain\""
+  ],
+  "primary_terms": [
+    "ain",
+    "him",
+    "Bia",
+    "father"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Kirby#0000",
+      "doc_id": "wikipedia:Kirby",
+      "title": "Kirby",
+      "url": "https://en.wikipedia.org/?curid=706419",
+      "source_type": "wikipedia",
+      "score": 0.6393235087394714,
+      "text": "Kirby may refer to: Arts and entertainment Fictional characters Kirby (character), the titular character of the Kirby video game series Kirby, in the 2005 film Chicken Little Kirby, the title character of Rip Kirby, an American comic strip Sir Kirby, from Doc McStuffins Kirby Buckets, the titular character in the live-action series of the same name Kirby Morris, from the sitcom The Suite Life on Deck Kirby Reed, from the Scream franchise the Kirby family in the play You Can't Take It with You Officer Kirby, from the TV series Chip 'n Dale: Rescue Rangers Colonel Mike Kirby in the 1968 film The Green Berets, played by John Wayne Paul, Amanda and Eric Kirby, a family in the 2001 film Jurassic Park III Other arts and entertainment Kirby (series), a video game series \"Kirby\", a song from the album The Impossible Kid by Aesop Rock \"Kirby\" (Dynasty), an episode of the television series Dynasty Kirby: King of Comics, a 2008 biography by Mark Evanier Buildings Kirby Building, a skyscraper in"
+    },
+    {
+      "chunk_id": "wikipedia:Brother#0000",
+      "doc_id": "wikipedia:Brother",
+      "title": "Brother",
+      "url": "https://en.wikipedia.org/?curid=4098495",
+      "source_type": "wikipedia",
+      "score": 0.6342772543430328,
+      "text": "A brother (pl.: brothers or brethren) is a man or boy who shares one or more parents with another; a male sibling. The female counterpart is a sister. Although the term typically refers to a familial relationship, it is sometimes used endearingly to refer to non-familial relationships. A full brother is a first degree relative. Overview The term brother comes from the Proto-Indo-European *bʰréh₂tēr, which becomes Latin frater, of the same meaning. Sibling warmth or affection between male siblings has been correlated to some more negative effects. In pairs of brothers, higher sibling warmth is related to more risk taking behaviour, although risk taking behaviour is not related to sibling warmth in any other type of sibling pair. The cause of this phenomenon in which sibling warmth is only correlated with risk taking behaviours in brother pairs still is unclear."
+    },
+    {
+      "chunk_id": "wikipedia:Family#0000",
+      "doc_id": "wikipedia:Family",
+      "title": "Family",
+      "url": "https://en.wikipedia.org/?curid=10401954",
+      "source_type": "wikipedia",
+      "score": 0.58297780752182,
+      "text": "Family (from Latin: familia) is a group of people related either by consanguinity (by recognized birth) or affinity (by marriage or other relationship). It forms the basis for social order. Ideally, families offer predictability, structure, and safety as members mature and learn to participate in the community. Historically, most human societies use family as the primary purpose of attachment, nurturance, and socialization. Anthropologists classify most family organizations as matrifocal (a mother and her children), patrifocal (a father and his children), conjugal (a married couple with children, also called the nuclear family), avuncular (a man, his sister, and her children), or extended (in addition to parents, spouse and children, may include grandparents, aunts, uncles, or cousins). The field of genealogy aims to trace family lineages through history. The family is also an important economic unit studied in family economics."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0000",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.5746334075927735,
+      "text": "A father, dad, or daddy is the male parent of a child. Besides the paternal bonds of a father to his child or children, fathers may have a parental, legal, and social relationship with their child or children that carries with it certain rights and obligations. A biological father is the male genetic contributor to the creation of the child, through sexual intercourse or sperm donation. A biological father may have legal obligations to a child not raised by him, such as an obligation of monetary support. An adoptive father is a man who has become the child's parent through the legal process of adoption. A putative father is a man whose biological relationship to a child is alleged but has not been established. A stepfather is a non-biological male parent married to a child's preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child."
+    },
+    {
+      "chunk_id": "wikipedia:Fists in the Pocket#0000",
+      "doc_id": "wikipedia:Fists in the Pocket",
+      "title": "Fists in the Pocket",
+      "url": "https://en.wikipedia.org/?curid=3654682",
+      "source_type": "wikipedia",
+      "score": 0.5388928353786469,
+      "text": "Fists in the Pocket (Italian: I pugni in tasca) is a 1965 Italian satirical drama film written and directed by Marco Bellocchio and starring Lou Castel. It was Bellocchio's first feature film and became one of the most critically acclaimed films of the year. The film centers on a young man suffering from epilepsy, who plots the murders of the members of his dysfunctional family. In 2008, Fists in the Pocket was included in the Italian Ministry of Cultural Heritage's 100 Italian films to be saved, a list of 100 films that \"have changed the collective memory of the country between 1942 and 1978.\" Plot Four siblings, a sister and three brothers, live with their blind, widowed mother in a provincial villa. The younger brothers Alessandro and Leone are epileptics, while sister Giulia, with whom Alessandro shares an incestuous attraction, is mentally disturbed. Augusto, the eldest brother and apparently sane, is the family's only provider."
+    },
+    {
+      "chunk_id": "wikipedia:Four Horsemen of the Apocalypse#0001",
+      "doc_id": "wikipedia:Four Horsemen of the Apocalypse",
+      "title": "Four Horsemen of the Apocalypse",
+      "url": "https://en.wikipedia.org/?curid=39430",
+      "source_type": "wikipedia",
+      "score": 0.52119180560112,
+      "text": "the first horseman rides a white horse, carries a bow, and is given a crown as a figure of conquest, perhaps invoking pestilence, or the Antichrist. The second carries a sword and rides a red horse as the creator of (civil) war, conflict, and strife. The third, a food merchant, rides a black horse symbolizing famine and carries a pair of scales. The fourth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Uncle#0000",
+      "doc_id": "wikipedia:Uncle",
+      "title": "Uncle",
+      "url": "https://en.wikipedia.org/?curid=24306566",
+      "source_type": "wikipedia",
+      "score": 0.5168815970420837,
+      "text": "An uncle is usually defined as a male relative who is a sibling of a parent or married to a sibling of a parent, as well as the parent of the cousins. Uncles who are related by birth are second-degree relatives. The female counterpart of an uncle is an aunt, and the reciprocal relationship is that of a nephew or niece. The word comes from Latin: avunculus, the diminutive of avus (grandfather), and is a family relationship within an extended or immediate family. A popular colloquial term in English is Unc. In some cultures and families, children may refer to the cousins of their parents as uncle (or aunt). It is also used as a title of respect for older relatives, neighbours, acquaintances, family friends, and even total strangers in some cultures, for example Aboriginal Australian elders. Using the term in this way is a form of fictive kinship."
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0001",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.513351571559906,
+      "text": "the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified. Perhaps the character's best-known storyline is The Infinity Gauntlet (1991), the culmination of several story arcs that see him gather the six Infinity Gems and use them to kill half of the universe's population, including many of its heroes, to woo Mistress Death, the living embodiment of death in the Marvel Universe. Although these events were later undone, the storyline has remained one of the most popular published by Marvel. Debuting in the Bronze Age of comic books, the character..."
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0000",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.45895708799362184,
+      "text": "Thanos () is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man #55 (cover date February 1973). An Eternal–Deviant warlord from the moon Titan, Thanos is regarded as one of the most powerful beings in the Marvel Universe. Due to his genocidal tendencies, he has clashed with many heroes including the Avengers and the Guardians of the Galaxy. In creating Thanos, Starlin drew inspiration from Jack Kirby's New Gods series for DC Comics, particularly the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified."
+    },
+    {
+      "chunk_id": "wikipedia:Trinity#0001",
+      "doc_id": "wikipedia:Trinity",
+      "title": "Trinity",
+      "url": "https://en.wikipedia.org/?curid=30511",
+      "source_type": "wikipedia",
+      "score": 0.44694982171058656,
+      "text": "the attributes unique to them in the Trinity, thereby proving that everything comes \"from the Father\", \"through the Son\", and \"in the Holy Spirit\". This doctrine is called Trinitarianism, and its adherents are called Trinitarians, while its opponents are called antitrinitarians or nontrinitarians and are considered non-Christian by many mainline groups. Nontrinitarian positions include Unitarianism..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Four different video game characters are holding swords about to fight.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Four different video game characters",
+          "swords"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that despite hitting his brother softly, he exaggerated it and the father is depicted as a dark heavy knight implying he hits real hard",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "his brother",
+          "the father",
+          "a dark heavy knight"
+        ]
+      },
+      "title": {
+        "text": "this ain't OC",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "ain"
+        ]
+      },
+      "text": {
+        "text": "How i can hit my ey FIG brother ae le How i decide to 2 hit him SS bd tty How he ¢ er . describes it to % A our father Bia How father hits Pe: 4? me wy e",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "him",
+          "Bia",
+          "father"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "ain",
+      "him",
+      "Bia",
+      "father"
+    ],
+    "secondary_terms": [
+      "Four different video game characters",
+      "swords",
+      "his brother",
+      "the father",
+      "a dark heavy knight"
+    ],
+    "queries": [
+      "\"Four different video game characters\" \"a dark heavy knight\" \"his brother\" \"the father\"",
+      "\"his brother\" \"the father\" \"swords\" \"ain\""
+    ]
+  },
+  "source_jsonl_id": null
+}

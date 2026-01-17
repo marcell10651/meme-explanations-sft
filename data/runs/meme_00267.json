@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_00267",
+  "queries": [
+    "\"Prepare\" \"a very stupid meme\" \"yourselves\" \"hair\" \"redhead\"",
+    "\"hair\" \"redhead\" \"idea\" \"blonde\""
+  ],
+  "primary_terms": [
+    "yourselves",
+    "a very stupid meme",
+    "hair",
+    "redhead",
+    "idea",
+    "blonde",
+    "brunette",
+    "ginger",
+    "called"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Long hair#0000",
+      "doc_id": "wikipedia:Long hair",
+      "title": "Long hair",
+      "url": "https://en.wikipedia.org/?curid=8416397",
+      "source_type": "wikipedia",
+      "score": 0.6792488157749176,
+      "text": "Long hair is a hairstyle where the head hair is allowed to grow to a considerable length. Exactly what constitutes \"long hair\" can change from culture to culture, or even within cultures. For example, a woman with chin-length hair in some cultures may be said to have short hair, while a man would be said to have long hair. Long lustrous female hair is generally rated attractive by both men and women across cultures. The prevalence of trichophilia (hair partialism or fetishism) is 7% in the population, and very long hair is a common subject of devotion in this group. Biological significance Humans, horses, orangutans, and lions are among the few species of mammals that may grow their head hair or manes very long."
+    },
+    {
+      "chunk_id": "wikipedia:Broccoli haircut#0000",
+      "doc_id": "wikipedia:Broccoli haircut",
+      "title": "Broccoli haircut",
+      "url": "https://en.wikipedia.org/?curid=77594266",
+      "source_type": "wikipedia",
+      "score": 0.5863338768482208,
+      "text": "A broccoli haircut (also known as a Zoomer perm, bird's nest, in the UK as the meet me at McDonald's haircut or alpaca back and sides) is a type of haircut with tapered sides and layered curls on top, usually achieved with a perm. It became popular among teenage and tween boys during the latter part of the 2010s and into the 2020s, particularly due to its spread on TikTok, and became an Internet meme around the same time. Definition The broccoli haircut is a hairstyle with tapered sides and short, uneven layered curls on top, which are often permed. It is referred to as such due to its resemblance to a floret of broccoli. It has also been referred to as the \"Zoomer perm\" for its popularity among members of Generation Z, as well as \"bird's nest hair\", \"bussin haircut\" or \"alpaca hair\". It has been described as a variation on a bowl cut."
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.46657142639160154,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0000",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.4347997963428497,
+      "text": "In philosophy and in common usage, an idea (from the Greek word: ἰδέα (idea), meaning 'a form, or a pattern') is the result of thought. Also in philosophy, ideas can also be mental representational images of some object. Many philosophers have considered ideas to be a fundamental ontological category of being. The capacity to create and understand the meaning of ideas is considered to be an essential and defining feature of human beings. An idea arises in a reflexive, spontaneous manner, even without thinking or serious reflection, for example, when we talk about the idea of a person or a place. A new or an original idea can often lead to innovation. Our actions are based upon beliefs, beliefs are patterns or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.42402422428131104,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0001",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.41931578516960144,
+      "text": "the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes. In theories of syntax, a phrase is any group of words, or sometimes a single word, which plays a particular role within the syntactic structure of a sentence. It does not have to have any special meaning or significance, or even exist anywhere outside of the sentence being analyzed, but it must function there as a complete grammatical unit..."
+    },
+    {
+      "chunk_id": "wikipedia:Idea#0001",
+      "doc_id": "wikipedia:Idea",
+      "title": "Idea",
+      "url": "https://en.wikipedia.org/?curid=161999",
+      "source_type": "wikipedia",
+      "score": 0.4139597177505493,
+      "text": "or organized sets of ideas. Etymology The word idea comes from Greek ἰδέα, romanized: idea, 'form, pattern', from the root of ἰδεῖν idein, 'to see'. History An argument over the underlying nature of ideas was opened by Plato, whose exposition of his theory of forms—which recurs and accumulates over the course of his many dialogs—appropriates and adds a new sense to the Greek word for things that are \"seen\" (re. εἶδος) that highlights those elements of perception which..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.39926597476005554,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0001",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.3876633495092392,
+      "text": "the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element. The objective can be clarity or effective communication, association with other cultural elements, or merely the creation of a distinctive style. Graphics can be functional or artistic. The latter can be a recorded version, such as a photograph, or an interpretation by a scientist to highlight..."
+    },
+    {
+      "chunk_id": "wikipedia:Face#0000",
+      "doc_id": "wikipedia:Face",
+      "title": "Face",
+      "url": "https://en.wikipedia.org/?curid=53234",
+      "source_type": "wikipedia",
+      "score": 0.37707553505897523,
+      "text": "The face is the front of the head in humans and many other animals that features most of the sense organs including the eyes, nose and mouth. Many animals may express emotions through their face. Sense organs in the faces of different animals are varied such as the snout, and the proboscis. Many animals are flat-faced (brachycephalic) such as the pug dog. The human face is crucial for identity, and damage such as scarring or developmental deformities may adversely affect the psyche. Human face Structure The front of the human head is called the face. It includes several distinct areas, of which the main features are: The forehead, comprising the skin beneath the hairline, bordered laterally by the temples and inferiorly by eyebrows and ears The eyes, sitting in the orbit and protected by eyelids and eyelashes The distinctive human nose shape, nostrils, and nasal septum The cheeks, covering the maxilla and mandible (or jaw), the extremity of which is the chin The mouth, with the upper"
+    }
+  ]
+}

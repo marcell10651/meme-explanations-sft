@@ -1,0 +1,215 @@
+{
+  "meme_id": "meme_02504",
+  "queries": [
+    "\"World Cup\" \"soccer\" \"fans\" \"there\" \"aay\"",
+    "\"there\" \"aay\" \"cow\" \"tae\""
+  ],
+  "primary_terms": [
+    "soccer",
+    "fans",
+    "there",
+    "aay",
+    "cow",
+    "tae",
+    "waiting",
+    "fifa",
+    "world",
+    "cup",
+    "siret",
+    "lop"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Milking#0000",
+      "doc_id": "wikipedia:Milking",
+      "title": "Milking",
+      "url": "https://en.wikipedia.org/?curid=1555269",
+      "source_type": "wikipedia",
+      "score": 0.6181268781423569,
+      "text": "Milking is the act of removing milk from the mammary glands of cattle, water buffalo, humans, goats, sheep, and, more rarely, camels, horses, and donkeys. Milking may be done by hand or by machine, and requires the animal to be currently or recently pregnant. The milker may refer either to the animal that produces the milk or the person who milks said animal. Hand milking Hand milking is the process of manually squeezing milk from an animal's teats, typically done with two hands to express milk into a bucket. It involves first cleaning the udder and teats, then gripping the base of a teat with your thumb and forefinger to trap milk, and finally squeezing downward with your other fingers to push the milk out. Machine milking Most milking in the developed world is done using milking machines. Teat cups are attached to the cow's teats, and then the cups alternate between vacuum and normal air pressure to extract the milk."
+    },
+    {
+      "chunk_id": "wikipedia:Country#0000",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.4893815398216248,
+      "text": "A country is an area of land, colloquially used as a synonym for sovereign state or other political entities, but also used to refer to the hinterland surrounding urban areas, as well as to describe the culture of people living in these places. Usually, the term country is applied to occupied areas of land, however it can be used to refer to uninhabited areas or wastelands. When referring to a specific polity, the term \"country\" may refer to a sovereign state, a state with limited recognition, a constituent country, or a dependent territory. Most sovereign states, but not all countries, are members of the United Nations. There is no universal agreement on the number of \"countries\" in the world with a range between 193 to 237. This ambiguity is a result of several states having disputed sovereignty status or limited recognition, and a number of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time."
+    },
+    {
+      "chunk_id": "wikipedia:American#0000",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.4558175504207611,
+      "text": "American(s) may refer to: American, something of, from, or related to the United States of America, commonly known as the \"United States\" or \"America\" Americans, citizens and nationals of the United States of America American ancestry, people who self-identify their ancestry as \"American\" American English, the set of varieties of the English language native to the United States Native Americans in the United States, indigenous peoples of the United States American, something of, from, or related to the Americas, also known as \"America\" Indigenous peoples of the Americas American (word), for analysis and history of the meanings in various contexts Organizations American Airlines, U.S.-based airline headquartered in Fort Worth, Texas American Athletic Conference, an American college athletic conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0000",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.4419765681028366,
+      "text": "In grammar, a phrase — called an expression in some contexts — is a group of one or more words acting as a grammatical unit. For instance, the English expression \"the very happy squirrel\" is a noun phrase which contains the adjective phrase \"very happy\". Phrases can consist of a single word or a complete sentence. In theoretical linguistics, phrases are often analyzed as units of syntactic structure such as a constituent. There is a difference between the common use of the term phrase and its technical use in linguistics. In common usage, a phrase is usually a group of words with some special idiomatic meaning or other significance, such as \"all rights reserved\", \"economical with the truth\", or \"kick the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes."
+    },
+    {
+      "chunk_id": "wikipedia:Milking#0001",
+      "doc_id": "wikipedia:Milking",
+      "title": "Milking",
+      "url": "https://en.wikipedia.org/?curid=1555269",
+      "source_type": "wikipedia",
+      "score": 0.4391461879014969,
+      "text": "milking machines. Teat cups are attached to the cow's teats, and then the cups alternate between vacuum and normal air pressure to extract the milk. The milk is filtered and cooled before being added to a large bulk tank of milk for storage. The average time of milking is 5–7 minutes and a cow can be milked with a machine 2–3 times a day. The existing robotic milking has allowed cows to have the freedom..."
+    },
+    {
+      "chunk_id": "wikipedia:American#0001",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.4158959150314331,
+      "text": "conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C. Sports teams Soccer Baltimore Americans, the name of two soccer teams, one from 1939 to 1942 and one from 1942 to 1948 Chicago Americans, a soccer team in 1972 Dallas Americans, a soccer team from 1983 to 1985 Hartford Americans, a soccer..."
+    },
+    {
+      "chunk_id": "wikipedia:Their Distance#0001",
+      "doc_id": "wikipedia:Their Distance",
+      "title": "Their Distance",
+      "url": "https://en.wikipedia.org/?curid=58630385",
+      "source_type": "wikipedia",
+      "score": 0.39483949542045593,
+      "text": "in Japan. Two years ago, he ran a red light on his bicycle, causing Mikio Arakawa to get hit by a car and be permanently paralyzed below his waist. Overcome with guilt, Leon becomes withdrawn and does not notice that his co-worker, Akiko Kokaze, is in love with him. On April 2, college student Yoo Ji-woo confesses to his Japanese teacher, Kanako..."
+    },
+    {
+      "chunk_id": "wikipedia:Gangnam Style#0001",
+      "doc_id": "wikipedia:Gangnam Style",
+      "title": "Gangnam Style",
+      "url": "https://en.wikipedia.org/?curid=36584679",
+      "source_type": "wikipedia",
+      "score": 0.39427852630615234,
+      "text": "States, \"Gangnam Style\" peaked at number two on the Billboard Hot 100, which at the time, was the highest charting song by a South Korean artist. By the end of 2012, \"Gangnam Style\" had topped the music charts of more than 30 countries including Australia, Canada, France, Germany, Italy, Spain, and the United Kingdom. Psy's dance in the music video itself became a cultural phenomenon. The song subsequently won Best Video at the MTV..."
+    },
+    {
+      "chunk_id": "wikipedia:Appearance#0001",
+      "doc_id": "wikipedia:Appearance",
+      "title": "Appearance",
+      "url": "https://en.wikipedia.org/?curid=8104650",
+      "source_type": "wikipedia",
+      "score": 0.3896195888519287,
+      "text": "submits himself to the jurisdiction of the court. Appear or Appears may refer to: \"Appear\" (나타나) a song from Secret Garden OST (2010), by Kim Bum-soo. \"Appears\", a song released by Ayumi Hamasaki in 1999 Appearing may refer to: Appearing (media consultants) - \"Appearing\", broadcast media promotion consultants, a PR agency headed by Scott Piering See also All pages with titles beginning with Appearance All pages with titles containing Appearance Apparition (disambiguation), any instance of appearing, but usually referring to a supernatural phenomenon Cap (sport) in some sports is a metaphorical term for a player's appearance on a select team, such as a national team"
+    },
+    {
+      "chunk_id": "wikipedia:Here#0000",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.3736259937286377,
+      "text": "Here may refer to: Music Here (Adrian Belew album), 1994 Here (Alicia Keys album), 2016 Here (Cal Tjader album), 1979 Here (Edward Sharpe album), 2012 Here (Idina Menzel album), 2004 Here (Merzbow album), 2008 Here (Nicolay album), 2006 Here (Leo Sayer album), 1979 Here (Teenage Fanclub album), 2016 \"Here\" (Alessia Cara song), 2015 \"Here\" (The Grace song), 2008 \"Here\" (Rascal Flatts song), 2008 \"Here\" (Tom Grennan song), 2023 \"Here\" (1954 song), song with music by Harold Grant and lyrics by Dorcas Cochran Here (Cartoon song), 2016 \"Here (In Your Arms)\", 2006 song by Hellogoodbye \"Here\", a 1971 song by America from their eponymous debut album \"Here\", a 2014 song by Christine and the Queens from Chaleur humaine \"Here\", a 2018 song by David Byrne from American Utopia \"Here\", a 1992 song by Pavement from Slanted and Enchanted \"Here\", a 2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Top image of Pablo Escobar sitting alone on swing, then eating dinner on table alone, then standing outside with hands behind back looking at something by himself",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Top image",
+          "Pablo Escobar",
+          "swing",
+          "dinner",
+          "table",
+          "hands",
+          "something",
+          "himself"
+        ]
+      },
+      "meme_captions": {
+        "text": "meme poster is patiently waiting in different situations for the World Cup.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "different situations",
+          "the World Cup"
+        ]
+      },
+      "title": {
+        "text": "who are my soccer fans out there?",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "soccer",
+          "fans",
+          "there"
+        ]
+      },
+      "text": {
+        "text": "—_—— ; \\\\: ee a, \\ re . aay 74 —}, COW, tae > a 1 ® w ‘ _¢ ‘ . _ . “ -\\ ME WAITING FOR FIFA WORLD CUP;1O SIRET rN - oe . . on ‘ +, & ’ Lop = ‘iS. as ~ = ER , a",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "aay",
+          "cow",
+          "tae",
+          "waiting",
+          "fifa",
+          "world",
+          "cup",
+          "siret",
+          "lop"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "soccer",
+      "fans",
+      "there",
+      "aay",
+      "cow",
+      "tae",
+      "waiting",
+      "fifa",
+      "world",
+      "cup",
+      "siret",
+      "lop"
+    ],
+    "secondary_terms": [
+      "Top image",
+      "Pablo Escobar",
+      "swing",
+      "dinner",
+      "table",
+      "hands",
+      "something",
+      "himself",
+      "different situations",
+      "the World Cup"
+    ],
+    "queries": [
+      "\"World Cup\" \"soccer\" \"fans\" \"there\" \"aay\"",
+      "\"there\" \"aay\" \"cow\" \"tae\""
+    ]
+  },
+  "source_jsonl_id": null
+}

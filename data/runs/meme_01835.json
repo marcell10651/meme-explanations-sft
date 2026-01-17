@@ -1,0 +1,116 @@
+{
+  "meme_id": "meme_01835",
+  "queries": [
+    "\"Largest natural history museum\" \"a fake ass blue whale\" \"Gothenburg American Museum\" \"Natural History\"",
+    "\"Gothenburg American Museum\" \"Natural History\" \"Museum\" \"largest\""
+  ],
+  "primary_terms": [
+    "Largest natural history museum",
+    "a fake ass blue whale",
+    "largest",
+    "natural",
+    "history",
+    "museum",
+    "yet",
+    "still",
+    "fake",
+    "ass",
+    "blue",
+    "whale",
+    "Natural History",
+    "Gothenburg American Museum",
+    "aan"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Shark#0001",
+      "doc_id": "wikipedia:Shark",
+      "title": "Shark",
+      "url": "https://en.wikipedia.org/?curid=43617",
+      "source_type": "wikipedia",
+      "score": 0.7031456500291824,
+      "text": "around 200 million years ago, with the oldest known member being Agaleus, though records of true sharks may extend back as far as the Permian. Sharks range in size from the small dwarf lanternshark (Etmopterus perryi), a deep sea species that is only 17 centimetres (6.7 in) in length, to the whale shark (Rhincodon typus), the largest fish in the world, which reaches approximately..."
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0001",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.686194333434105,
+      "text": "History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time. Scientists of different eras (and before them, natural philosophers, mathematicians, natural historians, natural theologians, engineers, and others who contributed to the development of science) have had widely different places in society, and the social norms, ethical values, and epistemic virtues associated with scientists—and expected of them—have changed over time as well. Accordingly, many different historical figures..."
+    },
+    {
+      "chunk_id": "wikipedia:Elephant#0000",
+      "doc_id": "wikipedia:Elephant",
+      "title": "Elephant",
+      "url": "https://en.wikipedia.org/?curid=9279",
+      "source_type": "wikipedia",
+      "score": 0.5781707882881164,
+      "text": "Elephants are the largest living land animals. Three living species are currently recognised: the African bush elephant (Loxodonta africana), the African forest elephant (L. cyclotis), and the Asian elephant (Elephas maximus). They are the only surviving members of the family Elephantidae and the order Proboscidea; extinct relatives include mammoths and mastodons. Distinctive features of elephants include a long proboscis called a trunk, tusks, large ear flaps, pillar-like legs, and tough but sensitive grey skin. The trunk is prehensile, bringing food and water to the mouth and grasping objects. Tusks, which are derived from the incisor teeth, serve both as weapons and as tools for moving objects and digging. The large ear flaps assist in maintaining a constant body temperature as well as in communication. African elephants have larger ears and concave backs, whereas Asian elephants have smaller ears and convex or level backs."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.563647335767746,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Made#0001",
+      "doc_id": "wikipedia:Made",
+      "title": "Made",
+      "url": "https://en.wikipedia.org/?curid=666961",
+      "source_type": "wikipedia",
+      "score": 0.5545740932226181,
+      "text": "of Art and Digital Entertainment Geography Made (Netherlands), a town in the Netherlands People van der Made - Dutch family name Dalem Di Made (fl. 1623–1642), Balinese king Ida Bagus Made (1915–1999), Balinese painter Joseph Made, Zimbabwean politician Sacco van der Made (1918–1997), Dutch actor and voice actor Simon van Groenewegen van der Made (1613–1652), Dutch jurist Tilly van der Made (1938–2019), Dutch runner Other uses Made man, a fully initiated member of the American mafia Museum of Australian Democracy at Eureka (M.A.D.E.), an Australian museum"
+    },
+    {
+      "chunk_id": "wikipedia:Environment#0000",
+      "doc_id": "wikipedia:Environment",
+      "title": "Environment",
+      "url": "https://en.wikipedia.org/?curid=37039",
+      "source_type": "wikipedia",
+      "score": 0.5283022493124008,
+      "text": "Environment most often refers to: Natural environment, refers to all living and non-living things occurring naturally and the physical and biological factors along with their chemical interactions that impact on any organism or a group of organisms Other physical and cultural environments Ecology, the study of the relations of organisms to one another and to their physical surroundings Environment (systems), the surroundings of a physical system that may interact with the system by exchanging mass, energy, or other properties. Built environment, constructed surroundings that provide the settings for human activity, ranging from the large-scale civic surroundings to the personal places Social environment, the culture that an individual lives in, and the people and institutions with whom they interact Market environment, business term Arts, entertainment and publishing Environment (magazine), a peer-reviewed, popular environmental science publication founded in 1958 Environment (1917"
+    },
+    {
+      "chunk_id": "wikipedia:Science#0001",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.513616394996643,
+      "text": "historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE). Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity and later medieval scholarship, whereby formal attempts were made to provide explanations of events in the physical world based on natural causes; while further..."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0000",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.5035633265972137,
+      "text": "Science is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe. Modern science is typically divided into two – or three – major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies. While referred to as the formal sciences, the study of logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology. Meanwhile, applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine. The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE)."
+    },
+    {
+      "chunk_id": "wikipedia:Find#0001",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.4717752933502197,
+      "text": "Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation) Result (disambiguation) All pages with titles beginning with find All pages with titles containing find"
+    },
+    {
+      "chunk_id": "wikipedia:Nett#0001",
+      "doc_id": "wikipedia:Nett",
+      "title": "Nett",
+      "url": "https://en.wikipedia.org/?curid=9167639",
+      "source_type": "wikipedia",
+      "score": 0.4689867407083511,
+      "text": "Kolonia, which is still claimed by Nett municipality as one of its kousapw. The kousapw are or were further subdivided into peliensapw (farmsteads). Education Pohnpei State Department of Education operates public schools: Nett Elementary School Parem Elementary School Bailey Olter High School (former Pohnpei Island Central School or PICS) in Kolonia serves students from Nett. ��2�..."
+    }
+  ]
+}

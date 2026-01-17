@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_01211",
+  "queries": [
+    "\"Miley Cyrus\" \"Kilometery Cyrus\" \"now\" \"miley\"",
+    "\"now\" \"miley\" \"cyrus\" \"kilometery\""
+  ],
+  "primary_terms": [
+    "Now what",
+    "now",
+    "Miley Cyrus",
+    "Kilometery Cyrus",
+    "miley",
+    "cyrus",
+    "kilometery",
+    "walks",
+    "nar",
+    "ents"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Gangnam Style#0000",
+      "doc_id": "wikipedia:Gangnam Style",
+      "title": "Gangnam Style",
+      "url": "https://en.wikipedia.org/?curid=36584679",
+      "source_type": "wikipedia",
+      "score": 0.64797443151474,
+      "text": "\"Gangnam Style\" (Korean: 강남스타일; pronounced [kaŋ.nam sɯ.tʰa.il]) is a K-pop song by South Korean singer Psy, released on July 15, 2012, by YG Entertainment as the lead single of his sixth studio album, Psy 6 (Six Rules), Part 1. The term \"Gangnam Style\" is a neologism that refers to the nouveau riche lifestyles associated with the Gangnam region of Seoul. \"Gangnam Style\" was released on to Psy's YouTube channel and debuted at number one on South Korea's Gaon Chart, receiving generally positive reviews, with praise for its catchy beat and Psy's amusing dancing during live performances and in various locations around the world in its music video. The song and its music video went viral in August 2012 and have influenced popular culture worldwide. In the United States, \"Gangnam Style\" peaked at number two on the Billboard Hot 100, which at the time, was the highest charting song by a South Korean artist."
+    },
+    {
+      "chunk_id": "wikipedia:Their Distance#0000",
+      "doc_id": "wikipedia:Their Distance",
+      "title": "Their Distance",
+      "url": "https://en.wikipedia.org/?curid=58630385",
+      "source_type": "wikipedia",
+      "score": 0.6290462076663971,
+      "text": "Their Distance (知らない、ふたり, Shiranai, Futari; lit. \"Two Strangers\"), is a 2015 Japanese independent film written, edited, and directed by Rikiya Imaizumi, featuring the South Korean boy band NU'EST in their Japanese film debut. Their Distance stars Ren, Fumiko Aoyagi, Minhyun, Hanae Kan, JR, Haruka Kinami, and Tateto Serizawa. The plot is centered around different ideas of love, from generational to cultural, told in a nonlinear narrative switching from various days in April to illustrate the perspectives of all the characters. Part of the film is in spoken Korean, with the film using actors who were fluent in Korean. The film was first screened at the 28th Tokyo International Film Festival on October 23, 2015, before being released to the general public on January 9, 2016. Plot Kim Leon is a quiet apprentice working at a custom shoe shop in Japan. Two years ago, he ran a red light on his bicycle, causing Mikio Arakawa to get hit by a car and be permanently paralyzed below his waist."
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0000",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.5246932864189148,
+      "text": "Whatever may refer to: Music Albums Whatever (Adore Delano album), 2017 Whatever (Aimee Mann album), 1993 Whatever (Danny Thompson album), 1987 Whatever (The Friends of Distinction album), 1970 Whatever (Green Velvet album), 2001 Whatever (Hot Chelle Rae album) or the title song, 2011 Whatever (Jennifer Batten album) or the title song, 2007 Whatever..., a comedy album by Guido Hatzis, 2000 Whatever: The '90s Pop & Culture Box, a Rhino Records box set, 2005 Whatever, by Megumi Hayashibara, 1992 Whatever, an EP by bbno$, 2018 Songs \"Whatever\" (Ayumi Hamasaki song), 1999 \"Whatever\" (Cro song), 2013 \"Whatever\" (En Vogue song), 1997 \"Whatever\" (Godsmack song), 1998 \"Whatever\" (Ideal song), 2000 \"Whatever\" (Jill Scott song), 2005 \"Whatever\" (Kygo and Ava Max song), 2024 \"Whatever\" (Oasis song), 1994 \"Whatever\" (The Statler Brothers song), 1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple,"
+    },
+    {
+      "chunk_id": "wikipedia:Young#0000",
+      "doc_id": "wikipedia:Young",
+      "title": "Young",
+      "url": "https://en.wikipedia.org/?curid=302029",
+      "source_type": "wikipedia",
+      "score": 0.5019422680139541,
+      "text": "Young may refer to: Offspring, the product of reproduction of a new organism produced by one or more parents Youth, the time of life when one's age is low, often meaning the time between childhood and adulthood Music The Young, an American rock band Young, an EP by Charlotte Lawrence, 2018 Songs \"Young\" (Baekhyun and Loco song), 2018 \"Young\" (The Chainsmokers song), 2017 \"Young\" (Hollywood Undead song), 2009 \"Young\" (Kenny Chesney song), 2002 \"Young\" (Place on Earth song), 2018 \"Young\" (Tulisa song), 2012 \"Young\", by Ella Henderson, 2019 \"Young\", by Lil Wayne from Dedication 6, 2017 \"Young\", by Nickel Creek from This Side, 2002 \"Young\", by Sam Smith from Love Goes, 2020 \"Young\", by Silkworm from Italian Platinum, 2002 \"Young\", by Vacations (band), 2016 \"Young\", by Vallis Alps, 2015 \"Young\", by Pixey, 2016 People Surname Young (surname) Given name Young (Korean name), Korean unisex given name and name element Young Boozer (born 1948), American banker and Alabama State Treasurer Young"
+    },
+    {
+      "chunk_id": "wikipedia:Welsh Corgi#0001",
+      "doc_id": "wikipedia:Welsh Corgi",
+      "title": "Welsh Corgi",
+      "url": "https://en.wikipedia.org/?curid=247458",
+      "source_type": "wikipedia",
+      "score": 0.5009926617145538,
+      "text": "Vallhund. The Pembroke is the more popular of the two, yet still appears on the Kennel Club's vulnerable dog breeds of the United Kingdom list. The Pembroke Welsh Corgi gained popularity because Elizabeth II personally owned more than 30 Pembrokes or Corgi-Dachshund crosses (known as dorgis). History Pembrokeshire and Cardiganshire are adjoining historical agricultural counties..."
+    },
+    {
+      "chunk_id": "wikipedia:Rich#0001",
+      "doc_id": "wikipedia:Rich",
+      "title": "Rich",
+      "url": "https://en.wikipedia.org/?curid=327881",
+      "source_type": "wikipedia",
+      "score": 0.49830397963523865,
+      "text": "a character in the British soap opera Doctors Richie Rich (character), a fictional character Music Rich, half of the American country music duo Big & Rich Rich Velonskis, half of the American duo Nikki & Rich \"Rich\" (Maren Morris song), 2018 \"Rich\", a song by Jawbreaker from Etc., 2002 \"Rich\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.4799757361412048,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Cool#0000",
+      "doc_id": "wikipedia:Cool",
+      "title": "Cool",
+      "url": "https://en.wikipedia.org/?curid=4175379",
+      "source_type": "wikipedia",
+      "score": 0.4766340106725693,
+      "text": "Cool commonly refers to: Cool, a moderately low temperature Cool (aesthetic), an aesthetic of attitude, behavior, and style Cool or COOL may also refer to: Economics Country of origin labelling mCOOL - US consumer legislation to enforce COOL at the grocery store Computing Cool (programming language) COOL, a computer language used in the CLIPS tool Cool, an internal name of C# An abbreviation for Collabora Online Geography Cool, Rotterdam, Netherlands Cool, California, U.S. Cool, Texas, U.S. Music Cool (band), a South Korean K-pop music group Cool jazz Albums Cool (George Duke album) (2000) Lupe Fiasco's The Cool (2007) The Cool (character), the associated concept character Cool (Joyce album) (2015) Songs \"Cool\" (Alesso song) (2015) \"Cool\" (Anthony Hamilton song) (2008) \"Cool\" (Jonas Brothers song) (2019) \"Cool\" (Le Youth song) (2013) \"Cool\" (Dua Lipa song) (2020) \"Cool\" (Gwen Stefani song) (2005) \"Cool\" (The Time song) (1981), later covered by Snoop Dogg and Prince \"Cool\" (West Side"
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0000",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.47382521629333496,
+      "text": "Strongest Deliveryman (Korean: 최강 배달꾼; RR: Choegang baedalkkun) is a 2017 South Korean television series starring Go Kyung-pyo, Chae Soo-bin, Kim Seon-ho, and Go Won-hee. It premiered on August 4, 2017, and aired every Friday and Saturday at 23:00 (KST) on KBS2 until September 23, 2017. Synopsis Choi Kang-soo is a deliveryman who wants to become the CEO of his own delivery app company. The series tells of his journey to achieving love and success. Cast Main Go Kyung-pyo as Choi Kang-soo A veteran deliveryman who puts his life on the line at whatever he does. Chae Soo-bin as Lee Dan-ah A delivery woman who is so single-minded about making money and escaping from \"Hell Joseon\" that she turns down all advances from men. Kim Seon-ho as Oh Jin-kyu A rich man's son, the former Head Manager of Jung Family Seollongtang, he is stubborn at first but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home."
+    },
+    {
+      "chunk_id": "wikipedia:Use Your Fingers#0000",
+      "doc_id": "wikipedia:Use Your Fingers",
+      "title": "Use Your Fingers",
+      "url": "https://en.wikipedia.org/?curid=2317950",
+      "source_type": "wikipedia",
+      "score": 0.47306949496269224,
+      "text": "Use Your Fingers is the debut studio album by Bloodhound Gang. It was released on July 18, 1995, by Cheese Factory Records. Some of the songs on the album were reworked version of demos from Bloodhound Gang's earlier demo tapes. The album has sold 250,000 copies to date. Reception In a review for Amazon, music journalist Roni Sarig said \"BG back up their obnoxious idiocy with some fairly wise musical maneuvering. While their age and background lead them to repeatedly mine the '80s for material--Duran Duran and Cure samples, Michael Jackson and Blondie interpolations, a \"Kids in America\" cover—their sly comments and ingenious a cappella snippets prove they're surprisingly sharp and able lads.\" On August 7, 2015, OC Weekly published a 20-year anniversary write-up of the album, stating \"what makes Use Your Fingers worthy of re-examining two decades later is how much this album not only shouldn't exist from a legal perspective, but how it managed to predict so much of the 20 years of"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "meme_id": "meme_01692",
+  "queries": [
+    "\"Saying\" \"massive ad mental disorder\" \"Tinsert person\" \"Eating meat\" \"insert Products\"",
+    "\"Eating meat\" \"insert Products\" \"support animal cruelty\" \"“finsert character\""
+  ],
+  "primary_terms": [
+    "something",
+    "lots",
+    "things",
+    "“finsert character",
+    "the world",
+    "Tinsert person",
+    "Eating meat",
+    "support animal cruelty",
+    "advertisements",
+    "anything",
+    "insert Products",
+    "massive ad mental disorder",
+    "budget"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Brand#0001",
+      "doc_id": "wikipedia:Brand",
+      "title": "Brand",
+      "url": "https://en.wikipedia.org/?curid=18950900",
+      "source_type": "wikipedia",
+      "score": 0.6975369453430176,
+      "text": "into the animal's skin with a hot branding iron. If a person stole any of the cattle, anyone else who saw the symbol could deduce the actual owner. The etymology of the word “brand” originates from the Old Norse word \"brandr\" from the 10th Century, which means “to burn\". The term \"brand\" has been extended to mean a strategic personality for a product or company, so that \"brand\" now suggests the values and promises that a consumer..."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0001",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.4806273430585861,
+      "text": "a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt. It served only one dish, a plate of cereal, wildfowl, and onions. A forerunner for the modern restaurant is the thermopolium, an establishment in Ancient Greece or Ancient Rome that sold and served ready-to-eat food and beverages. These establishments..."
+    },
+    {
+      "chunk_id": "wikipedia:Accessory#0001",
+      "doc_id": "wikipedia:Accessory",
+      "title": "Accessory",
+      "url": "https://en.wikipedia.org/?curid=1949788",
+      "source_type": "wikipedia",
+      "score": 0.4569857120513916,
+      "text": "and terminating cables Accessory fruit, in which some of the flesh is derived from tissues other than the flower ovary See also All pages with titles beginning with Accessory All pages with titles containing Accessory Access (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.4561353325843811,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.4530093491077423,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.45087388157844543,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0000",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.4478502869606018,
+      "text": "A restaurant is a business that prepares and serves food and beverages to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, featuring a wide variety of cuisines and service models — ranging from inexpensive fast-food restaurants and cafeterias to mid-priced family restaurants to high-priced luxury establishments. Etymology The word derives from the early 19th century, taken from the French word restaurer 'provide meat for', literally 'restore to a former state' and, being the present participle of the verb, the term restaurant may have been used in 1507 as a \"restorative beverage\", and in correspondence in 1521 to mean 'that which restores the strength, a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt."
+    },
+    {
+      "chunk_id": "wikipedia:Food#0000",
+      "doc_id": "wikipedia:Food",
+      "title": "Food",
+      "url": "https://en.wikipedia.org/?curid=10646",
+      "source_type": "wikipedia",
+      "score": 0.3765665888786316,
+      "text": "Food is any substance consumed by an organism for nutritional support. Food usually consists of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or support growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill specific ecological niches within specific geographical contexts. Omnivorous humans are highly adaptable and have adapted to obtaining food in many different ecosystems. Humans generally use cooking to prepare food for consumption. The majority of the food energy required is supplied by the industrial food industry, which produces food through intensive agriculture and distributes it through complex food processing and food distribution systems."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.3393888235092163,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo DiCaprio#0001",
+      "doc_id": "wikipedia:Leonardo DiCaprio",
+      "title": "Leonardo DiCaprio",
+      "url": "https://en.wikipedia.org/?curid=52711",
+      "source_type": "wikipedia",
+      "score": 0.3339588701725006,
+      "text": "What's Eating Gilbert Grape (1993). DiCaprio achieved international stardom with the star-crossed romances Romeo + Juliet (1996) and Titanic (1997). After the latter became the highest-grossing film in the world at the time, he reduced his workload for a few years. In an attempt to shed his image of a romantic hero, DiCaprio sought roles in other genres, including..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A soldier is smiling holding up a coffee tin.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is Being fed up of the same negative posts/comments always being shared online",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the same negative posts"
+        ]
+      },
+      "title": {
+        "text": "Saying something controversial always gets you lots of things to read.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "something",
+          "lots",
+          "things"
+        ]
+      },
+      "text": {
+        "text": "“celebrity nonsense* “finsert character] is not supposed to be black! They ; ; changed it to be “woke”!” *the world is falling apart* “Tinsert person | never “Eating meat means you heard of] is dead.” support animal cruelty!” cr: , *advertisements of awful [insert literally . ; anything] causes [insert Products witha massive ad mental disorder]!” budget .” V4 - - cote _ wo 7 HOW &BOUT & LEN MY ARLE La NICE BIG CUP OF Sin TP TPE EYE | 4S (Sa | ryt Pp i eet ~ ‘ an , ° i fo fo 1 |",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "“finsert character",
+          "the world",
+          "Tinsert person",
+          "Eating meat",
+          "support animal cruelty",
+          "advertisements",
+          "anything",
+          "insert Products",
+          "massive ad mental disorder",
+          "budget"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "something",
+      "lots",
+      "things",
+      "“finsert character",
+      "the world",
+      "Tinsert person",
+      "Eating meat",
+      "support animal cruelty",
+      "advertisements",
+      "anything",
+      "insert Products",
+      "massive ad mental disorder",
+      "budget"
+    ],
+    "secondary_terms": [
+      "the same negative posts"
+    ],
+    "queries": [
+      "\"Saying\" \"massive ad mental disorder\" \"Tinsert person\" \"Eating meat\" \"insert Products\"",
+      "\"Eating meat\" \"insert Products\" \"support animal cruelty\" \"“finsert character\""
+    ]
+  },
+  "source_jsonl_id": null
+}

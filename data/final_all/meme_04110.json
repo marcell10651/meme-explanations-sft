@@ -1,0 +1,180 @@
+{
+  "meme_id": "meme_04110",
+  "queries": [
+    "\"The other scientist\" \"the funny looking soda\" \"Drinks\" \"feel\"",
+    "\"The other scientist\" \"the funny looking soda\" \"the yellow color cat\" \"their coworkers science project\"",
+    "\"the yellow color cat\" \"their coworkers science project\" \"Drinks\" \"feel\""
+  ],
+  "primary_terms": [
+    "feel",
+    "good",
+    "Drinks",
+    "the funny looking soda",
+    "The other scientist"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Two Dogs#0000",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 1.1013093948364259,
+      "text": "Two Dogs was a ready-to-drink beverage that was first introduced in Australia in 1993 and went on to become available throughout the world. It was a lemon flavoured alcoholic beverage that is widely considered to have been the \"world’s first brewed alcoholic lemonade\" (despite the pre-existence of traditional drinks like sima), paving the way for similar products such as Hooper's Hooch and Mike's Hard Lemonade. Two Dogs was created in 1993 by the South Australian brewer Duncan MacGillivray. The tale behind the drink says that MacGillivray, an owner of a small brewery and pub in South Australia, was having a beer with some friends who owned a lemon farm. They mentioned that they didn't know what to do with all their lemons that they couldn't sell due to size. Duncan said \"I'll try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well."
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0001",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.8322886228561401,
+      "text": "History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time. Scientists of different eras (and before them, natural philosophers, mathematicians, natural historians, natural theologians, engineers, and others who contributed to the development of science) have had widely different places in society, and the social norms, ethical values, and epistemic virtues associated with scientists—and expected of them—have changed over time as well. Accordingly, many different historical figures..."
+    },
+    {
+      "chunk_id": "wikipedia:Reaction#0000",
+      "doc_id": "wikipedia:Reaction",
+      "title": "Reaction",
+      "url": "https://en.wikipedia.org/?curid=169068",
+      "source_type": "wikipedia",
+      "score": 0.8148162066936493,
+      "text": "Reaction may refer to a process or to a response to an action, event, or exposure. Physics and chemistry Chemical reaction Nuclear reaction Reaction (physics), as defined by Newton's third law Chain reaction (disambiguation) Biology and medicine Adverse drug reaction Allergic reaction Reflex, neural reaction Hypersensitivity, immune reaction Intolerance (disambiguation) Light reaction (disambiguation) Psychology Emotional, reaction Reactivity Proactivity, opposite of reactive behaviour Reactive attachment disorder Politics and culture Reactionary, a political tendency Reaction video Commentary (disambiguation) Proper names and titles Reaction (album), a 1986 album by American R&B singer Rebbie Jackson \"Reaction\" (song), the title song from the Rebbie Jackson album \"Reaction\", a single by Dead Letter Circus Reactions, a 2018 album by The Mods ReAction GUI, a GUI toolkit used on AmigaOS Reaction.life, a political news and commentary website edited by Iain Martin Reaction Records, a"
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0000",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.7743060350418091,
+      "text": "A drink or beverage is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, juice, smoothies and soft drinks. Traditionally warm beverages encompass coffee, tea, and hot chocolate. Caffeinated drinks that contain the stimulant caffeine, have been consumed for centuries. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the psychoactive substance ethanol, have been part of human culture for more than 8,000 years. Non-alcoholic drinks typically refer to beverages that are traditionally alcoholic—such as beer, wine, or cocktails—but are produced with a very low alcohol by volume content. This category includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines."
+    },
+    {
+      "chunk_id": "wikipedia:Living#0000",
+      "doc_id": "wikipedia:Living",
+      "title": "Living",
+      "url": "https://en.wikipedia.org/?curid=1133759",
+      "source_type": "wikipedia",
+      "score": 0.7401013970375061,
+      "text": "Living or The Living may refer to: Common meanings Life, a condition that distinguishes organisms from inorganic objects and dead organisms Living species, one that is not extinct Personal life, the course of an individual human's life Living (Christianity) or benefice, in canon law, a position in a church that has attached to it a source of income A \"living\", a career or chosen path of labour by which workers earn money to subsist Music Living (Paddy Casey album) or the title song, \"Livin'\", 2003 Living (Judy Collins album), 1971 Living 2001–2002, an album by the John Butler Trio, 2003 Living (EP) or the title song, by Josephine Collective, 2007 \"Living\" (song), by Dierks Bentley, 2019 The Living, early 1980's Seattle punk rock band featuring Duff McKagan Television and film Living (1954 TV program), a 1954–1955 Canadian informational program Living (2007 TV program), a 2007–2009 group of regional Canadian lifestyle programs Living (New Zealand TV channel), a New Zealand television"
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0001",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.7389534115791321,
+      "text": "mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy. Advances in physics often enable new technologies. For example, advances in the understanding of electromagnetism, solid-state physics, and nuclear physics led directly to the development of technologies that have transformed..."
+    },
+    {
+      "chunk_id": "wikipedia:Other#0001",
+      "doc_id": "wikipedia:Other",
+      "title": "Other",
+      "url": "https://en.wikipedia.org/?curid=8541600",
+      "source_type": "wikipedia",
+      "score": 0.7232199609279633,
+      "text": "Universe Literature Other: British and Irish Poetry since 1970, a 1999 poetry anthology The Other (Applegate novel), a 2000 Animorphs novel by K.A. Applegate The Other (Tryon novel), a 1971 horror novel by Tom Tryon \"The Other\" (short story), a 1972 short story by Jorge Luis Borges The Other, a 2008 novel by David Guterson Spider-Man: \"The Other\", a 2005–2006..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.7191782295703888,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:Common#0001",
+      "doc_id": "wikipedia:Common",
+      "title": "Common",
+      "url": "https://en.wikipedia.org/?curid=568187",
+      "source_type": "wikipedia",
+      "score": 0.711212158203125,
+      "text": "critic Arts, entertainment, and media Common (film), a 2014 BBC One film, written by Jimmy McGovern, on the UK's Joint Enterprise Law Dol Common, a character in The Alchemist by Ben Jonson Harvard Common Press of Boston, Massachusetts, a publisher of cookbooks and parenting books The Common Room, a former interactive TV show on ITV..."
+    },
+    {
+      "chunk_id": "wikipedia:Different Colors#0001",
+      "doc_id": "wikipedia:Different Colors",
+      "title": "Different Colors",
+      "url": "https://en.wikipedia.org/?curid=47055403",
+      "source_type": "wikipedia",
+      "score": 0.67136050760746,
+      "text": "of the band touring with colorful visuals. The song was performed live by Walk the Moon at award shows, including the 2015 MTV Video Music Awards. It was included on the setlist for the band's Talking Is Hard Tour (2015) and was used in campaigns of Pepsi, AT&T & Apple. Background and composition \"Different Colors\" was written by all four members of Walk the Moon, while recorded at Rancho..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "the yellow color cat",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the yellow color cat"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster drank their coworkers science project and now doesn't feel good.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their coworkers science project"
+        ]
+      },
+      "title": {
+        "text": "I dont feel so good",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "feel",
+          "good"
+        ]
+      },
+      "text": {
+        "text": "Me: Drinks the funny looking soda at my workplace The other scientist: NOM - } ; | 3 Ne",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Drinks",
+          "the funny looking soda",
+          "The other scientist"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "feel",
+      "good",
+      "Drinks",
+      "the funny looking soda",
+      "The other scientist"
+    ],
+    "secondary_terms": [
+      "the yellow color cat",
+      "their coworkers science project"
+    ],
+    "queries": [
+      "\"The other scientist\" \"the funny looking soda\" \"Drinks\" \"feel\"",
+      "\"The other scientist\" \"the funny looking soda\" \"the yellow color cat\" \"their coworkers science project\"",
+      "\"the yellow color cat\" \"their coworkers science project\" \"Drinks\" \"feel\""
+    ]
+  },
+  "source_jsonl_id": null
+}

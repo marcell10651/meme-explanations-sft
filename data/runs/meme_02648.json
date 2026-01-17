@@ -1,0 +1,105 @@
+{
+  "meme_id": "meme_02648",
+  "queries": [
+    "\"feels\" \"nice\" \"whenwouricountryagets\" \"pig\"",
+    "\"The man\" \"their country\" \"feels\" \"nice\""
+  ],
+  "primary_terms": [
+    "feels",
+    "nice",
+    "whenwouricountryagets",
+    "pig"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Feels#0000",
+      "doc_id": "wikipedia:Feels",
+      "title": "Feels",
+      "url": "https://en.wikipedia.org/?curid=68447223",
+      "source_type": "wikipedia",
+      "score": 0.8500948309898376,
+      "text": "Feels or The Feels may refer to: Albums Feels (Animal Collective album), 2005 Feels (Snoh Aalegra album), 2017 Songs \"Feels\" (song), a 2017 song and single by Calvin Harris off the album Funk Wav Bounces Vol. 1 \"Feels\" (Snoh Aalegra song), a 2017 song by Snoh Aalegra, the title track off the eponymous album Feels (Snoh Aalegra album) \"The Feels\" (song), a 2021 song by Twice \"F.E.E.L.S.\", a 2021 music video and song by Tory Lanez Other uses The Feels (film), a 2017 film by Jenée LaMarque See also All the Feels (album), 2019 album by Fitz and the Tantrums Feel (disambiguation) All pages with titles beginning with Feels All pages with titles containing Feels"
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0000",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.6371029913425446,
+      "text": "Feel may refer to: Feeling Music Bands Feel (New York band), a 1980s dance and R&B band Feel (Polish band), a pop rock band Albums Feel (Feel album), 2007 Feel (George Duke album) or the title song, 1974 Feel (Glenn Hughes album), 1995 Feel (Human Drama album), 1989 Feel (Namie Amuro album), 2013 Feel (Roachford album), 1997 Feel (Sleeping with Sirens album) or the title song, 2013 Feel, by Nagisa ni te, 2002 Feel (A-Mei EP), 1999 Feel (Junho EP), 2014 Songs \"Feel\" (Kendrick Lamar song), 2017 \"Feel\" (Koda Kumi song), 2006 \"Feel\" (Robbie Williams song), 2002 \"Feel\" (Chicago song), 2006 \"Feel\", by Asking Alexandria from Where Do We Go from Here?, 2023 \"Feel\", by Big Star from #1 Record, 1972 \"Feel\", by Bombay Bicycle Club from So Long, See You Tomorrow, 2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol."
+    },
+    {
+      "chunk_id": "wikipedia:Nice#0000",
+      "doc_id": "wikipedia:Nice",
+      "title": "Nice",
+      "url": "https://en.wikipedia.org/?curid=47088",
+      "source_type": "wikipedia",
+      "score": 0.6242136716842651,
+      "text": "Nice ( NEESS; French pronunciation: [nis] ) is a French city located in the prefecture of the Alpes-Maritimes department. The Nice agglomeration extends beyond the administrative city limits, with a population of nearly one million over an area of 744 km2 (287 sq mi). Located on the French Riviera, the southeastern coast of France on the Mediterranean Sea, at the foot of the French Alps, Nice is the second-largest French city on the Mediterranean coast and second-largest city in the Provence-Alpes-Côte d'Azur region after Marseille. It is approximately 13 kilometres (8 mi) from the principality of Monaco and 30 kilometres (19 mi) from the French–Italian border. Nice's airport serves as a gateway to the region. The city is nicknamed Nice la Belle (Nissa La Bella in Niçard), meaning 'Nice the Beautiful', which is also the title of the unofficial anthem of Nice, written by Menica Rondelly."
+    },
+    {
+      "chunk_id": "wikipedia:Love#0000",
+      "doc_id": "wikipedia:Love",
+      "title": "Love",
+      "url": "https://en.wikipedia.org/?curid=17547",
+      "source_type": "wikipedia",
+      "score": 0.5658998489379883,
+      "text": "Love is an emotion involving strong attraction, affection, emotional attachment or concern for a person, animal, or thing. It is expressed in many forms, encompassing a range of strong and positive emotional and mental states, from the most sublime virtue, good habit, deepest interpersonal affection, to the simplest pleasure. An example of this range of meanings is that the love of a mother differs from the love of a spouse, which differs from the love of food. Love is considered to be both positive and negative, with its virtue representing kindness, compassion, and affection—\"the unselfish, loyal, and benevolent concern for the good of another\"—and its vice representing a moral flaw akin to vanity, selfishness, amour-propre, and egotism. It may also describe compassionate and affectionate actions towards other humans, oneself, or animals."
+    },
+    {
+      "chunk_id": "wikipedia:Respect#0000",
+      "doc_id": "wikipedia:Respect",
+      "title": "Respect",
+      "url": "https://en.wikipedia.org/?curid=364338",
+      "source_type": "wikipedia",
+      "score": 0.51079460978508,
+      "text": "Respect, also called esteem, is a positive feeling or deferential action shown towards someone or something considered important or held in high esteem or regard. It conveys a sense of admiration for good or valuable qualities. It is also the process of honoring someone by exhibiting care, concern, or consideration for their needs or feelings. In many cultures, people are considered to be worthy of respect until they prove otherwise. Some people may earn special respect through their exemplary actions or social roles. In \"honor cultures\", respect is more often earned in this way than granted by default. Courtesies that show respect may include simple words and phrases like \"thank you\" in the West or \"namaste\" in the Indian subcontinent, or simple physical signs like a slight bow, a smile, direct eye contact, or a handshake. Such acts may have very different interpretations depending on the cultural context. The end goal is for all people to be treated with respect."
+    },
+    {
+      "chunk_id": "wikipedia:Love#0001",
+      "doc_id": "wikipedia:Love",
+      "title": "Love",
+      "url": "https://en.wikipedia.org/?curid=17547",
+      "source_type": "wikipedia",
+      "score": 0.48212993144989014,
+      "text": "vanity, selfishness, amour-propre, and egotism. It may also describe compassionate and affectionate actions towards other humans, oneself, or animals. In its various forms, love acts as a major facilitator of interpersonal relationships, and owing to its central psychological importance, is one of the most common themes in the creative arts. Love has been postulated to be a function that keeps human beings together against menaces and to facilitate the continuation of the species. Ancient Greek..."
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0001",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.47797730565071106,
+      "text": "2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol. 2, 2019 \"Feel\", by Mahmut Orhan, 2016 \"Feel\", by Måneskin from Rush!, 2023 \"Feel\", by Matchbox Twenty from More Than You Think You Are, 2002 \"Feel\", by Phora, 2018 \"Feel\", by Post Malone from Stoney, 2016 \"Feel\", by Stereophonics from Language. Sex. Violence. Other..."
+    },
+    {
+      "chunk_id": "wikipedia:Their Distance#0000",
+      "doc_id": "wikipedia:Their Distance",
+      "title": "Their Distance",
+      "url": "https://en.wikipedia.org/?curid=58630385",
+      "source_type": "wikipedia",
+      "score": 0.46083246171474457,
+      "text": "Their Distance (知らない、ふたり, Shiranai, Futari; lit. \"Two Strangers\"), is a 2015 Japanese independent film written, edited, and directed by Rikiya Imaizumi, featuring the South Korean boy band NU'EST in their Japanese film debut. Their Distance stars Ren, Fumiko Aoyagi, Minhyun, Hanae Kan, JR, Haruka Kinami, and Tateto Serizawa. The plot is centered around different ideas of love, from generational to cultural, told in a nonlinear narrative switching from various days in April to illustrate the perspectives of all the characters. Part of the film is in spoken Korean, with the film using actors who were fluent in Korean. The film was first screened at the 28th Tokyo International Film Festival on October 23, 2015, before being released to the general public on January 9, 2016. Plot Kim Leon is a quiet apprentice working at a custom shoe shop in Japan. Two years ago, he ran a red light on his bicycle, causing Mikio Arakawa to get hit by a car and be permanently paralyzed below his waist."
+    },
+    {
+      "chunk_id": "wikipedia:Good#0000",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.44660496711730957,
+      "text": "In most contexts, the concept of good denotes the conduct that should be preferred when posed with a choice between possible actions. Good is generally considered to be the opposite of evil. The specific meaning and etymology of the term and its associated translations among ancient and contemporary languages show substantial variation in its inflection and meaning, depending on circumstances of place and history, or of philosophical or religious context. History of Western ideas Every language has a word expressing good in the sense of \"having the right or desirable quality\" (ἀρετή) and bad in the sense \"undesirable\". A sense of moral judgment and a distinction \"right and wrong, good and bad\" are cultural universals. Plato and Aristotle Although the history of the origin of the use of the concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect."
+    },
+    {
+      "chunk_id": "wikipedia:Success#0001",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.43147918581962585,
+      "text": "a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness. It may also be difficult or impossible to ascertain whether a situation meets criteria for success or failure due to ambiguous or ill-defined definition of those criteria. Finding useful and effective criteria, or heuristics, to judge the failure or success of a situation may itself be a significant task. In American culture DeVitis and Rich link the..."
+    }
+  ]
+}

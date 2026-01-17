@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_06294",
+  "queries": [
+    "\"Him\" \"Erni\" \"recommending\" \"game\"",
+    "\"recommending\" \"game\" \"friend\" \"town\""
+  ],
+  "primary_terms": [
+    "recommending",
+    "game",
+    "friend",
+    "Him",
+    "Erni",
+    "town"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.7695730686187744,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Friendly#0000",
+      "doc_id": "wikipedia:Friendly",
+      "title": "Friendly",
+      "url": "https://en.wikipedia.org/?curid=466246",
+      "source_type": "wikipedia",
+      "score": 0.701422917842865,
+      "text": "Friendly may refer to: Places Friendly, West Yorkshire, England, a settlement Friendly, Maryland, United States, an unincorporated community and census-designated place Friendly, Eugene, Oregon, United States, a neighborhood Friendly, West Virginia, United States, a town Friendly Islands or Tonga People Friendly (surname) Friendly (musician), Australian-born musician Andrew Kornweibel (fl. 1998–?) Other uses Friendly (sport), a game of association football or bandy that has no consequence in a wider competition Friendly's, an American restaurant chain Friendly Center, a shopping mall in Greensboro, North Carolina, United States Friendly Hall, a building on the University of Oregon campus Friendly High School, a public high school in Fort Washington, Maryland, United States Henry J."
+    },
+    {
+      "chunk_id": "wikipedia:Your Game#0000",
+      "doc_id": "wikipedia:Your Game",
+      "title": "Your Game",
+      "url": "https://en.wikipedia.org/?curid=4747095",
+      "source_type": "wikipedia",
+      "score": 0.6953884720802307,
+      "text": "\"Your Game\" is a song by British singer Will Young. It was written by Young, Taio Cruz and Blair MacKichan for his second studio album, Friday's Child (2003), while production was helmed by Stephen Lipson and MacKichan. The song was released as the album's second single on 15 March 2004, reaching number three on the UK Singles Chart. \"Your Game\" won the Brit Award for Song of the Year in 2005. Music video A music video for \"Your Game\" was directed by Michael Gracey and Pete Commins. After their collaboration, they were invited to direct Will's live tour at Wembley in 2004. Track listings UK CD1 \"Your Game\" (Will Young, Blair MacKichan, Tayo Onile-Ere) \"Your Game\" (acoustic gospel version) UK CD2 \"Your Game\" \"Take Control\" (Young, R. Stannard, J. Gallagher, S. Hale) \"Down\" (Young, S. Morales, R. Shaw, D. Siegel, D."
+    },
+    {
+      "chunk_id": "wikipedia:Dungeons & Dragons#0001",
+      "doc_id": "wikipedia:Dungeons & Dragons",
+      "title": "Dungeons & Dragons",
+      "url": "https://en.wikipedia.org/?curid=7940",
+      "source_type": "wikipedia",
+      "score": 0.665600723028183,
+      "text": "each player to create their own character to play instead of a military formation. These characters embark upon adventures within a fantasy setting. A Dungeon Master (DM) serves as referee and storyteller for the game, while maintaining the setting in which the adventures occur, and playing the role of the inhabitants of the game world, known as non-player characters (NPCs). The characters form a party and they interact with the setting's inhabitants and each other. Together they solve..."
+    },
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0001",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.5834175616502761,
+      "text": "Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends. During this time, Craig starts high school and becomes close to Ms. Hart, a teacher who comes to his aid when Kenny Yankovich, a school bully, attempts to intimidate him. After winning $3,000 from a lottery ticket that Harrigan..."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.5430008083581924,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    },
+    {
+      "chunk_id": "wikipedia:Profit#0001",
+      "doc_id": "wikipedia:Profit",
+      "title": "Profit",
+      "url": "https://en.wikipedia.org/?curid=18487619",
+      "source_type": "wikipedia",
+      "score": 0.5202817618846893,
+      "text": "player Places Profit, United States Virgin Islands See also All pages with titles beginning with Profit All pages with titles containing Profit Proffit (disambiguation) Proffitt (disambiguation) Prophet (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Fallout (video game)#0001",
+      "doc_id": "wikipedia:Fallout (video game)",
+      "title": "Fallout (video game)",
+      "url": "https://en.wikipedia.org/?curid=4508917",
+      "source_type": "wikipedia",
+      "score": 0.5138809144496918,
+      "text": "scheme, SPECIAL. Interplay initially gave the game little attention, but eventually spent $3 million and employed up to thirty people to develop it. Interplay considered Fallout the spiritual successor to its 1988 role-playing game Wasteland and drew artistic inspiration from 1950s literature and media emblematic of the Atomic Age as well as the films..."
+    },
+    {
+      "chunk_id": "wikipedia:Passion#0001",
+      "doc_id": "wikipedia:Passion",
+      "title": "Passion",
+      "url": "https://en.wikipedia.org/?curid=501256",
+      "source_type": "wikipedia",
+      "score": 0.5123061537742615,
+      "text": "Dacre Passion, (in Italian, Fosca), 1869 novel by Iginio Ugo Tarchetti Passion Play (play) or Passion, 1981 play by Peter Nichols Passion: An Essay on Personality, 1984 book by Roberto Unger The Passion (novel), 1987 novel by Jeanette Winterson Passion (manga), 2004 Japanese yaoi manga series Passion (novel), 2011 young adult..."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0001",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.49983581006526945,
+      "text": "A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K. Le Guin, originally published as \"The End\" in the 1970 anthology Orbit 6, edited by Damon Knight Things, a 1981 picture book by Roger Hargreaves The Things, a 1994 novel by Martyn Godfrey Things, a 1997 novel by Rodman Philbrick and Lynn Harnett, the second installment in the Visitors trilogy \"The Things\" (short story), a 2010 short story by Peter Watts Other uses TheThings, a news website Things (Chill), a 1984 role-playing game supplement Things (film), a 1989 Canadian horror film Things (software), task management software The Things, recurring..."
+    }
+  ]
+}

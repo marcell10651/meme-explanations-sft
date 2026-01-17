@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_06101",
+  "queries": [
+    "\"the BIG screwdriver\" \"tryna\" \"tools\" \"dad\"",
+    "\"tools\" \"dad\" \"teach\" \"said\""
+  ],
+  "primary_terms": [
+    "tryna",
+    "tools",
+    "dad",
+    "teach",
+    "the BIG screwdriver",
+    "said",
+    "bring",
+    "big",
+    "screwdriver"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Father#0000",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.6225914716720581,
+      "text": "A father, dad, or daddy is the male parent of a child. Besides the paternal bonds of a father to his child or children, fathers may have a parental, legal, and social relationship with their child or children that carries with it certain rights and obligations. A biological father is the male genetic contributor to the creation of the child, through sexual intercourse or sperm donation. A biological father may have legal obligations to a child not raised by him, such as an obligation of monetary support. An adoptive father is a man who has become the child's parent through the legal process of adoption. A putative father is a man whose biological relationship to a child is alleged but has not been established. A stepfather is a non-biological male parent married to a child's preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child."
+    },
+    {
+      "chunk_id": "wikipedia:Grader#0001",
+      "doc_id": "wikipedia:Grader",
+      "title": "Grader",
+      "url": "https://en.wikipedia.org/?curid=620529",
+      "source_type": "wikipedia",
+      "score": 0.5333256870508194,
+      "text": "a main blade extension can also be mounted. Capacities range from a blade width of 2.5 to 7.5 m (8 to 24 ft) and engines from 95–375 kW (125–500 hp). Certain graders can operate multiple attachments, or be designed for specialized tasks like underground mining. Function In civil engineering \"rough grading\" is performed by heavy equipment such as wheel tractor-scrapers and bulldozers. Graders are used to \"finish grade\", with the angle, tilt..."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.5206505417823791,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.5057711660861969,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0001",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.5022332072257996,
+      "text": "preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child. The adjective \"paternal\" refers to a father and comparatively to \"maternal\" for a mother. The verb \"to father\" means to procreate or to sire a child from which also derives the noun \"fathering\". Biological fathers determine the sex of their child through a sperm cell..."
+    },
+    {
+      "chunk_id": "wikipedia:LOTS#0000",
+      "doc_id": "wikipedia:LOTS",
+      "title": "LOTS",
+      "url": "https://en.wikipedia.org/?curid=20629362",
+      "source_type": "wikipedia",
+      "score": 0.4994133472442627,
+      "text": "LOTS may refer to: LOTS (personality psychology), an acronym providing a broad classification of data source for personality psychology assessment London Omnibus Traction Society, a bus society Legend of the Seeker, a television series based on novels in the Sword of Truth series by Terry Goodkind Legends of the Superheroes, a 1979 television series based on DC Comics characters. Lucifer on the Sofa, a 2022 album by American rock band Spoon A linearly ordered topological space. See also All pages with titles beginning with LOTS All pages with titles containing LOTS All pages with titles beginning with lots Lot (disambiguation) Lotts (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Teacher#0001",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.4852787613868713,
+      "text": "context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures. Teachers may provide instruction in literacy and numeracy, craftsmanship or vocational training, the arts, religion, civics, community roles, or life skills. Formal teaching tasks include preparing lessons according to agreed curricula, giving lessons..."
+    },
+    {
+      "chunk_id": "wikipedia:Grader#0000",
+      "doc_id": "wikipedia:Grader",
+      "title": "Grader",
+      "url": "https://en.wikipedia.org/?curid=620529",
+      "source_type": "wikipedia",
+      "score": 0.479447141289711,
+      "text": "A grader, also commonly referred to as a road grader, motor grader, or simply blade, is a form of heavy equipment with a long blade used to create a flat surface during grading. Although the earliest models were towed behind horses, and later tractors, most modern graders are self-propelled and thus technically \"motor graders\". Typical graders have three axles, with the steering wheels in front, followed by the grading blade or mouldboard, then a cab and engine atop tandem rear axles. Some graders also have front-wheel drives for improved performance. Some graders have optional rear attachments, such as a ripper, scarifier, or compactor. A blade forward of the front axle may also be added. For snowplowing and some dirt grading operations, a main blade extension can also be mounted. Capacities range from a blade width of 2.5 to 7.5 m (8 to 24 ft) and engines from 95–375 kW (125–500 hp)."
+    },
+    {
+      "chunk_id": "wikipedia:Teacher#0000",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.4715257346630096,
+      "text": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence, or virtue, via the practice of teaching. Informally the role of teacher may be taken on by anyone (e.g. when showing a colleague how to perform a specific task). In some countries, teaching young people of school age may be carried out in an informal setting, such as within the family (homeschooling), rather than in a formal setting such as a school or college. Some other professions may involve a significant amount of teaching (e.g. youth worker, pastor). In most countries, formal teaching of students is usually carried out by paid professional teachers. This article focuses on those who are employed, as their main role, to teach others in a formal education context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures."
+    },
+    {
+      "chunk_id": "wikipedia:Diligence#0001",
+      "doc_id": "wikipedia:Diligence",
+      "title": "Diligence",
+      "url": "https://en.wikipedia.org/?curid=18483349",
+      "source_type": "wikipedia",
+      "score": 0.43782993853092195,
+      "text": "to be diligent. Other factors that encourage student diligence include motivation, discipline, concentration, responsibility, and devotedness. In Buddhism The last words of the Buddha were, \"Strive on with diligence.\" Diligence is an integral part of all Buddhist teaching, and is considered the fourth of the pāramitā. In Mahayana tradition, diligence is the third pāramitā and the first said to lead to liberation, and it is said..."
+    }
+  ]
+}

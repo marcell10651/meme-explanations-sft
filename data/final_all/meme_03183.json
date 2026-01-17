@@ -1,0 +1,204 @@
+{
+  "meme_id": "meme_03183",
+  "queries": [
+    "\"google\" \"Google Google\" \"The microphone\" \"Captain\"",
+    "\"The microphone\" \"Captain\" \"mutes google\" \"google mic\""
+  ],
+  "primary_terms": [
+    "Captain",
+    "obvious",
+    "Google Google",
+    "The microphone",
+    "mutes google",
+    "google mic",
+    "mutes",
+    "google",
+    "mic",
+    "okay",
+    "microphone",
+    "muted",
+    "wen",
+    "interesting"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Microphone#0000",
+      "doc_id": "wikipedia:Microphone",
+      "title": "Microphone",
+      "url": "https://en.wikipedia.org/?curid=65886",
+      "source_type": "wikipedia",
+      "score": 0.9556250691413879,
+      "text": "A microphone, colloquially called a mic (), or mike, is a transducer that converts sound into an electrical signal. Microphones are used in telecommunication, sound recording, broadcasting, and consumer electronics, including telephones, hearing aids, and mobile devices. Several types of microphone are used today, which employ different methods to convert the air pressure variations of a sound wave to an electrical signal. The most common are the dynamic microphone, which uses a coil of wire suspended in a magnetic field; the condenser microphone, which uses the vibrating diaphragm as a capacitor plate; and the contact microphone, which uses a crystal of piezoelectric material. Microphones typically need to be connected to a preamplifier before the signal can be recorded or reproduced. History In order to speak to larger groups of people, a need arose to increase the volume of the human voice. The earliest devices used to achieve this were acoustic megaphones."
+    },
+    {
+      "chunk_id": "wikipedia:Google#0000",
+      "doc_id": "wikipedia:Google",
+      "title": "Google",
+      "url": "https://en.wikipedia.org/?curid=1092923",
+      "source_type": "wikipedia",
+      "score": 0.8384406089782714,
+      "text": "Google LLC ( , GOO-gəl) is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI). It has been referred to as \"the most powerful company in the world\" by BBC, and is one of the world's most valuable brands. Google's parent company Alphabet Inc. has been described as a Big Tech company. Google was founded on September 4, 1998, by American computer scientists Larry Page and Sergey Brin. Together, they own about 14% of its publicly listed shares and control 56% of its stockholder voting power through super-voting stock. The company went public via an initial public offering (IPO) in 2004. In 2015, Google was reorganized as a wholly owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's internet properties and interests."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0000",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.7703637897968292,
+      "text": "Muteness is a speech disorder in which a person lacks the ability to speak. Mute, Mutes or the Mute may also refer to: Arts and entertainment Film and television Mute (2005 film), a short film by Melissa Joan Hart Mute (2018 film), a science-fiction thriller directed by Duncan Jones \"Mute\" (The Twilight Zone), a 1963 episode of The Twilight Zone Muted (TV series), a 2023 Spanish Netflix series Mutes, anthropomorphic animals in the American animated television series Kipo and the Age of Wonderbeasts Music Mute (music), a device used to alter the sound of a musical instrument Left-hand muting or palm mute, guitar muting techniques Mute Records, a record label in the United Kingdom Mute (album), a 2000 indie rock compilation album from Hush Records Muted (album), a 2003 album from hip hop artist Alias In print Mute (novel), a 1981 novel by Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture"
+    },
+    {
+      "chunk_id": "wikipedia:Captain#0000",
+      "doc_id": "wikipedia:Captain",
+      "title": "Captain",
+      "url": "https://en.wikipedia.org/?curid=47671806",
+      "source_type": "wikipedia",
+      "score": 0.7246523559093475,
+      "text": "Captain is a title, an appellative for the commanding officer of a military unit; the supreme leader or highest rank officer of a navy ship, merchant ship, aeroplane, spacecraft, or other vessel; or the commander of a port, fire or police department, election precinct, etc. In militaries, the captain is typically at the level of an officer commanding a company or battalion of infantry, a ship, or a battery of artillery, or another distinct unit. It can also be a rank of command in an air force. The term also may be used as an informal or honorary title for persons in similar commanding roles. Etymology The word \"captain\" derives from the Middle English \"capitane\", itself coming from the Latin \"caput\", meaning \"head\". It is considered cognate with the Greek word katepánō (Ancient Greek: κατεπάνω, lit. '[the one placed] at the top', or \"the topmost\"), which was used as title for a senior Byzantine military rank and office. The word was Latinized as Ancient Greek: capetanus or catepan."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0001",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.7082858085632324,
+      "text": "Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture and politics People Múte Bourup Egede (born 1987), Prime Minister of Greenland Shō Gen (1528–1572), king of the Ryukyu Kingdom called Gen the mute Pârvu Mutu (1657–1735),..."
+    },
+    {
+      "chunk_id": "wikipedia:Accent#0001",
+      "doc_id": "wikipedia:Accent",
+      "title": "Accent",
+      "url": "https://en.wikipedia.org/?curid=193493",
+      "source_type": "wikipedia",
+      "score": 0.7004689574241638,
+      "text": "on a particular area or object Accent Records, a record label ACCENT Speakers Bureau, a student-run organization at the University of Florida Ac'cent, brand name for monosodium glutamate (MSG) See also All pages with titles beginning with Accent All pages with titles containing Accent Accenture, company Accentor, a bird..."
+    },
+    {
+      "chunk_id": "wikipedia:Google#0001",
+      "doc_id": "wikipedia:Google",
+      "title": "Google",
+      "url": "https://en.wikipedia.org/?curid=1092923",
+      "source_type": "wikipedia",
+      "score": 0.6785500705242157,
+      "text": "owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's internet properties and interests. Sundar Pichai was appointed CEO of Google on October 24, 2015, replacing Larry Page, who became the CEO of Alphabet. On December 3, 2019, Pichai also became the CEO of Alphabet. After the success of its original service..."
+    },
+    {
+      "chunk_id": "wikipedia:Caption#0000",
+      "doc_id": "wikipedia:Caption",
+      "title": "Caption",
+      "url": "https://en.wikipedia.org/?curid=285212",
+      "source_type": "wikipedia",
+      "score": 0.678168660402298,
+      "text": "Caption may refer to: Caption (text), explanatory text about specific published photos and articles An element of comics where words appear in a separate box; see Glossary of comics terminology § Caption Caption (comics convention), a small press and independent comic convention held annually in Oxford, England Caption (law), arrest or apprehension Closed captioning, used to provide the text of a show's audio portion to those who may have trouble hearing it Subtitles, textual versions of the dialog in film and other visual media Intertitle, a piece text edited into a film to convey information like dialogue <caption></caption>, an HTML element; see HTML element § caption"
+    },
+    {
+      "chunk_id": "wikipedia:Headphones#0001",
+      "doc_id": "wikipedia:Headphones",
+      "title": "Headphones",
+      "url": "https://en.wikipedia.org/?curid=191884",
+      "source_type": "wikipedia",
+      "score": 0.6753421694040298,
+      "text": "type are bone conduction headphones, which typically wrap around the back of the head and rest in front of the ear canal, leaving the ear canal open. In the context of telecommunication, a headset is a combination of a headphone and microphone. Headphones connect to a signal source such as an audio amplifier, radio, CD player, portable media player, mobile phone, video game console, or electronic musical instrument, either directly using..."
+    },
+    {
+      "chunk_id": "wikipedia:Post-credits scene#0001",
+      "doc_id": "wikipedia:Post-credits scene",
+      "title": "Post-credits scene",
+      "url": "https://en.wikipedia.org/?curid=6107731",
+      "source_type": "wikipedia",
+      "score": 0.5700722932815552,
+      "text": "so a singer could repeat an aria, but fell out of favor in the 1920s due to rising emphasis on dramatic storytelling rather than vocal performance. The first general release film to feature a post-credits scene is The Silencers, released in March 1966. The scene depicts lead character Matt Helm (played by Dean Martin) lying shirtless on what appears to be a rotating sofa along with 10 scantily-clad women. He kisses..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A woman with a warped face looking at a screen",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster doesn't understand Google Assistant can hear them when the microphone is muted.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Google Assistant",
+          "the microphone"
+        ]
+      },
+      "title": {
+        "text": "Captain obvious.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Captain",
+          "obvious"
+        ]
+      },
+      "text": {
+        "text": "Me: *Mutes Google’s mic* Me: Okay Google Google: The microphone is muted Me: a \\ — »- —,% . ~ y wen, 2 of io b ma interesting",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Google Google",
+          "The microphone",
+          "mutes google",
+          "google mic",
+          "mutes",
+          "google",
+          "mic",
+          "okay",
+          "microphone",
+          "muted",
+          "wen",
+          "interesting"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Captain",
+      "obvious",
+      "Google Google",
+      "The microphone",
+      "mutes google",
+      "google mic",
+      "mutes",
+      "google",
+      "mic",
+      "okay",
+      "microphone",
+      "muted",
+      "wen",
+      "interesting"
+    ],
+    "secondary_terms": [
+      "Google Assistant",
+      "the microphone"
+    ],
+    "queries": [
+      "\"google\" \"Google Google\" \"The microphone\" \"Captain\"",
+      "\"The microphone\" \"Captain\" \"mutes google\" \"google mic\""
+    ]
+  },
+  "source_jsonl_id": null
+}

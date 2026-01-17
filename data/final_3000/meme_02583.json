@@ -1,0 +1,206 @@
+{
+  "meme_id": "meme_02583",
+  "queries": [
+    "\"The greatest secret\" \"Sings amogus song\" \"the teacher\" \"the song\"",
+    "\"the teacher\" \"the song\" \"greatest\" \"secret\""
+  ],
+  "primary_terms": [
+    "The greatest secret",
+    "the teacher",
+    "greatest",
+    "secret",
+    "between",
+    "teacher",
+    "Sings amogus song",
+    "the song",
+    "sings",
+    "amogus",
+    "song",
+    "continues"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Easy#0001",
+      "doc_id": "wikipedia:Easy",
+      "title": "Easy",
+      "url": "https://en.wikipedia.org/?curid=7445591",
+      "source_type": "wikipedia",
+      "score": 0.7226449906826019,
+      "text": "song), 2010 \"Easy\" (Ice MC song), 1989 \"Easy\" (Jvke song), 2025 \"Easy\" (KSI, Bugzy Malone and R3hab song), 2023 \"Easy\" (Le Sserafim song), 2024 \"Easy\" (Mat Zo and Porter Robinson song), 2013 \"Easy\" (Pale Waves song), 2021 \"Easy\" (Paula DeAnda song), 2007 \"Easy\" (Rascal Flatts song), featuring Natasha Bedingfield, 2011..."
+    },
+    {
+      "chunk_id": "wikipedia:Middle#0001",
+      "doc_id": "wikipedia:Middle",
+      "title": "Middle",
+      "url": "https://en.wikipedia.org/?curid=854025",
+      "source_type": "wikipedia",
+      "score": 0.7203824281692505,
+      "text": "2001 \"The Middle\" (Zedd, Maren Morris and Grey song), 2018 \"Middle\", a song by Rocket from the Crypt from their 1995 album Scream, Dracula, Scream! \"The Middle\", a song by Demi Lovato from their debut album Don't Forget \"The Middle\", a song by The Doubleclicks from their album President Snakes \"The Middle\", a song by Lauren Alaina from her album Wildflower \"The Middle\", a song by Trampled by Turtles from their album Life Is Good on the Open Road Other uses The Middle (TV series..."
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0001",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.7148133635520935,
+      "text": "USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the 2014 album Sweet Talker \"Loud\", a 2006 single by Masters at Work with Beto Cuevas \"Loud\", a song by Matt Nathanson from the 1999 album Still Waiting for Spring \"Loud\", an additional..."
+    },
+    {
+      "chunk_id": "wikipedia:He's Got the Whole World in His Hands#0000",
+      "doc_id": "wikipedia:He's Got the Whole World in His Hands",
+      "title": "He's Got the Whole World in His Hands",
+      "url": "https://en.wikipedia.org/?curid=6766784",
+      "source_type": "wikipedia",
+      "score": 0.6991510063409805,
+      "text": "\"He's Got the Whole World in His Hands\" is a traditional African-American spiritual, first published in 1927. It became an international pop hit in 1957–58 in a recording by British singer Laurie London, which is one of the best-selling gospel songs of all time. The song has also been recorded by many other singers and choirs, including Mahalia Jackson, Marian Anderson, Judy Garland and Nina Simone and in Germany by Conny Froboess. Traditional music sources The song was first published in the paperbound hymnal Spirituals Triumphant, Old and New in 1927. In 1933, it was collected by Frank Warner from the singing of Sue Thomas in North Carolina. It was also recorded by other collectors such as Robert Sonkin of the Library of Congress, who recorded it in Gee's Bend, Alabama in 1941. That version is still available at the Library's American Folklife Center. Frank Warner performed the song during the 1940s and 1950s, and introduced it to the American folk scene."
+    },
+    {
+      "chunk_id": "wikipedia:Young Boy#0000",
+      "doc_id": "wikipedia:Young Boy",
+      "title": "Young Boy",
+      "url": "https://en.wikipedia.org/?curid=11418335",
+      "source_type": "wikipedia",
+      "score": 0.6901704490184783,
+      "text": "\"Young Boy\" is a song by English musician Paul McCartney, included as the fifth track on his 10th solo studio album, Flaming Pie (1997). McCartney reportedly started working on the song in August 1994. The initial tracks were recorded in February 1995 at Steve Miller's studio in Sun Valley, Idaho, and were completed in May at McCartney's home studio. On 28 April 1997, the song was released as the first single from Flaming Pie, peaking at No. 3 in Spain and No. 19 on the UK Singles Chart. The single featured two non-album B-sides: \"Looking for You\" and \"Broomstick\". In the United States, Capitol Records chose to issue \"The World Tonight\" as the album's lead single instead."
+    },
+    {
+      "chunk_id": "wikipedia:Your Game#0000",
+      "doc_id": "wikipedia:Your Game",
+      "title": "Your Game",
+      "url": "https://en.wikipedia.org/?curid=4747095",
+      "source_type": "wikipedia",
+      "score": 0.6815975278615951,
+      "text": "\"Your Game\" is a song by British singer Will Young. It was written by Young, Taio Cruz and Blair MacKichan for his second studio album, Friday's Child (2003), while production was helmed by Stephen Lipson and MacKichan. The song was released as the album's second single on 15 March 2004, reaching number three on the UK Singles Chart. \"Your Game\" won the Brit Award for Song of the Year in 2005. Music video A music video for \"Your Game\" was directed by Michael Gracey and Pete Commins. After their collaboration, they were invited to direct Will's live tour at Wembley in 2004. Track listings UK CD1 \"Your Game\" (Will Young, Blair MacKichan, Tayo Onile-Ere) \"Your Game\" (acoustic gospel version) UK CD2 \"Your Game\" \"Take Control\" (Young, R. Stannard, J. Gallagher, S. Hale) \"Down\" (Young, S. Morales, R. Shaw, D. Siegel, D."
+    },
+    {
+      "chunk_id": "wikipedia:He's Got the Whole World in His Hands#0001",
+      "doc_id": "wikipedia:He's Got the Whole World in His Hands",
+      "title": "He's Got the Whole World in His Hands",
+      "url": "https://en.wikipedia.org/?curid=6766784",
+      "source_type": "wikipedia",
+      "score": 0.6473545402288436,
+      "text": "at the Library's American Folklife Center. Frank Warner performed the song during the 1940s and 1950s, and introduced it to the American folk scene. Warner recorded it on the Elektra album American Folk Songs and Ballads in 1952. It was quickly picked up by both American gospel singers and British skiffle and pop musicians. Laurie London recording The song made..."
+    },
+    {
+      "chunk_id": "wikipedia:Legendary#0001",
+      "doc_id": "wikipedia:Legendary",
+      "title": "Legendary",
+      "url": "https://en.wikipedia.org/?curid=541707",
+      "source_type": "wikipedia",
+      "score": 0.6334780514240265,
+      "text": "Daya, 2015 \"Legendary\", by Royce da 5'9\" from Success Is Certain, 2011 \"Legendary\", by Skillet from Victorious, 2019 \"Legendary\", by Joey Badass from All-Amerikkkan Badass, 2017 \"Legendary\", by Jorge Rivera-Herrans from Epic: The Musical, 2024 \"Legendary\" (Bon Jovi song), 2024 Other uses Legendary (video game), a 2008 first..."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.6216489732265472,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:Better#0001",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.6137185454368591,
+      "text": "\"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000 single for the Erasure song, \"Freedom\" \"Better\", a 2001 song by Hoobastank from the album, Hoobastank \"Better\", a 2005 song by Plumb from the album, Chaotic Resolve \"Better\", a 2005..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man drinking some wine is laughing.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "some wine"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that the teacher playing along with his skit is giving him joy",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the teacher",
+          "his skit",
+          "him",
+          "joy"
+        ]
+      },
+      "title": {
+        "text": "The greatest secret between the teacher and me",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The greatest secret",
+          "the teacher",
+          "greatest",
+          "secret",
+          "between",
+          "teacher"
+        ]
+      },
+      "text": {
+        "text": "Me: Sings amogus song My teacher: Continues the song My teacher: ! ™",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Sings amogus song",
+          "the song",
+          "sings",
+          "amogus",
+          "song",
+          "teacher",
+          "continues"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "The greatest secret",
+      "the teacher",
+      "greatest",
+      "secret",
+      "between",
+      "teacher",
+      "Sings amogus song",
+      "the song",
+      "sings",
+      "amogus",
+      "song",
+      "continues"
+    ],
+    "secondary_terms": [
+      "some wine",
+      "the teacher",
+      "his skit",
+      "him",
+      "joy"
+    ],
+    "queries": [
+      "\"The greatest secret\" \"Sings amogus song\" \"the teacher\" \"the song\"",
+      "\"the teacher\" \"the song\" \"greatest\" \"secret\""
+    ]
+  },
+  "source_jsonl_id": null
+}

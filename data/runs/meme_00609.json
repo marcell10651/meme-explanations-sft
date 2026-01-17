@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_00609",
+  "queries": [
+    "\"stop\" \"saying\" \"money\" \"says\"",
+    "\"money\" \"says\" \"bought\" \"car\""
+  ],
+  "primary_terms": [
+    "stop",
+    "saying",
+    "money",
+    "says",
+    "bought",
+    "car",
+    "save",
+    "vian",
+    "istares",
+    "motherfuckerly"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Money#0000",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.905888831615448,
+      "text": "Money is any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts, such as taxes, in a particular country or socio-economic context. The primary functions which distinguish money are: medium of exchange, a unit of account, a store of value and sometimes, a standard of deferred payment. Money was historically an emergent market phenomenon that possessed intrinsic value as a commodity; nearly all contemporary money systems are based on unbacked fiat money without use value. Its value is consequently derived by social convention, having been declared by a government or regulatory entity to be legal tender; that is, it must be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar."
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0001",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.7448014289140701,
+      "text": "/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers. Cashiers record amounts received, may prepare reports of transactions, and verify cash register totals against cash on hand. A cashier may be required to know value and features of items for which money is received; may cash checks; may give cash refunds..."
+    },
+    {
+      "chunk_id": "wikipedia:Exchange#0000",
+      "doc_id": "wikipedia:Exchange",
+      "title": "Exchange",
+      "url": "https://en.wikipedia.org/?curid=41125",
+      "source_type": "wikipedia",
+      "score": 0.6194903671741485,
+      "text": "Exchange or exchanged may refer to: Arts, entertainment and media Film and television Exchange (film), or Deep Trap, 2015 South Korean psychological thriller Exchanged (film), 2019 Peruvian fantasy comedy Exchange (TV program), 2021 South Korean dating reality show Gaming Exchange (chess), closely related captures of pieces of both players in chess The exchange (chess), an exchange of a minor piece for a rook Music Exchange, a new-age jazz band of Steve Sexton and Gerald O'Brien, and their 1992 self-titled album Exchange (EP), by Against All Authority and The Criminals, 1999 \"Exchange\" (song), by Bryson Tiller, 2015 \"Exchange\" and \"(Exchange)\", songs on Massive Attack's 1998 album Mezzanine (album) Business and economics Bureau de change, or currency exchange Cryptocurrency exchange, to trade cryptocurrencies or digital currencies Exchange (economics), in a market economy Exchange (organized market), where securities etc are bought and sold Places Exchange, Indiana, U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Auction#0001",
+      "doc_id": "wikipedia:Auction",
+      "title": "Auction",
+      "url": "https://en.wikipedia.org/?curid=62912",
+      "source_type": "wikipedia",
+      "score": 0.5915741086006164,
+      "text": "bid. An auctioneer may announce prices, while bidders submit bids vocally or electronically. Auctions are applied for trade in diverse contexts. These contexts include antiques, paintings, rare collectibles, expensive wines, commodities, livestock, radio spectrum, used cars, real estate, online advertising, vacation packages, emission trading, and many more. Etymology The word \"auction\" is derived from auctus, the past participle of the Latin verb augeō, (\"I increase\"). History Classical antiquity Auctions have been recorded as early..."
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0000",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.5910596817731857,
+      "text": "A retail cashier or simply a cashier is a person who handles the cash register at various locations such as the point of sale in a retail store. The most common use of the title is in the retail industry, but this job title is also used in the context of accountancy for the person responsible for receiving and disbursing money or within branch banking in the United Kingdom for the job known in the United States as a bank teller. Retail In a shop, a cashier (or checkout operator) is an employee who scans the goods that the customer wishes to purchase through a cash register. In most modern stores, the items are scanned by a barcode positioned on the item with the use of a laser scanner. After all of the items have been scanned, the cashier then collects the payment (in cash, check, and/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.5752114057540894,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0000",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.5743239283561706,
+      "text": "In grammar, a phrase — called an expression in some contexts — is a group of one or more words acting as a grammatical unit. For instance, the English expression \"the very happy squirrel\" is a noun phrase which contains the adjective phrase \"very happy\". Phrases can consist of a single word or a complete sentence. In theoretical linguistics, phrases are often analyzed as units of syntactic structure such as a constituent. There is a difference between the common use of the term phrase and its technical use in linguistics. In common usage, a phrase is usually a group of words with some special idiomatic meaning or other significance, such as \"all rights reserved\", \"economical with the truth\", or \"kick the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0001",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.5639351218938827,
+      "text": "the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes. In theories of syntax, a phrase is any group of words, or sometimes a single word, which plays a particular role within the syntactic structure of a sentence. It does not have to have any special meaning or significance, or even exist anywhere outside of the sentence being analyzed, but it must function there as a complete grammatical unit..."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0001",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.5481645166873932,
+      "text": "by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal Juveniles, 1980 \"Check\", a song by Nas and Rick Ross from the soundtrack to Creed II, 2015 \"Check\", a song by Quin NFN, from 4Nun, 2019 \"Check\", a song by Qveen Herby from EP 8..."
+    },
+    {
+      "chunk_id": "wikipedia:Call#0000",
+      "doc_id": "wikipedia:Call",
+      "title": "Call",
+      "url": "https://en.wikipedia.org/?curid=40829",
+      "source_type": "wikipedia",
+      "score": 0.4901618719100952,
+      "text": "Call or Calls may refer to: Arts, entertainment, and media Games Call (poker), a bet matching an opponent's Call, in the game of contract bridge, a bid, pass, double, or redouble in the bidding stage Music and dance Call (band), from Lahore, Pakistan Call, a command in square dancing, delivered by a caller \"Call / I4U\", a 2011 single by Japanese music group AAA \"Call\", a 2002 song by Ashanti from her album Ashanti \"Call\" (Stray Kids song), 2021 Film Call (film), or The Call, 2020 South Korean film Calls (film), 2021 Indian Tamil-language crime thriller film Television Calls (TV series), a mystery thriller TV series on Apple TV+ Finance Call on shares, a request for a further payment on partly paid share capital Call option, a term in stock trading Places Call, North Carolina, United States Call, Texas, United States Science and technology Computing Call, a shell command in DOS, OS/2 and Microsoft Windows command-line interpreters Call, a method of invoking a subroutine, including"
+    }
+  ]
+}

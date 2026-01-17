@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_02778",
+  "queries": [
+    "\"absolutely not black humor\" \"the Queen\" \"God\" \"absolutely\"",
+    "\"God\" \"absolutely\" \"not\" \"black\""
+  ],
+  "primary_terms": [
+    "absolutely not black humor",
+    "absolutely",
+    "not",
+    "black",
+    "humor",
+    "God",
+    "the Queen",
+    "save",
+    "queen"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Black#0000",
+      "doc_id": "wikipedia:Black",
+      "title": "Black",
+      "url": "https://en.wikipedia.org/?curid=4035",
+      "source_type": "wikipedia",
+      "score": 0.7725022792816162,
+      "text": "Black is a color that results from the absence or complete absorption of visible light. It is an achromatic color, without chroma, like white and grey. It is often used symbolically or figuratively to represent darkness. Black and white have often been used to describe opposites such as good and evil, the Dark Ages versus the Age of Enlightenment, and night versus day. Since the Middle Ages, black has been the symbolic color of solemnity and authority, and for this reason it is still commonly worn by judges and magistrates. Black was one of the first colors used by artists in Neolithic cave paintings. It was used in ancient Egypt and Greece as the color of the underworld. In the Roman Empire, it became the color of mourning, and over the centuries it was frequently associated with death, evil, witches, and magic. In the 14th century, it was worn by royalty, clergy, judges, and government officials in much of Europe."
+    },
+    {
+      "chunk_id": "wikipedia:Absolutely#0001",
+      "doc_id": "wikipedia:Absolutely",
+      "title": "Absolutely",
+      "url": "https://en.wikipedia.org/?curid=1914454",
+      "source_type": "wikipedia",
+      "score": 0.7132462620735168,
+      "text": "Hard Way Absolutely (TV series), a British comedy sketch show Abso Lutely Productions, a production company started by Tim Heidecker and Eric Wareheim See also Absolute (disambiguation) Absoluteness, a description of formulas that have the same truth value in each of some class of structures Absolution (disambiguation) Definitely (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:White#0000",
+      "doc_id": "wikipedia:White",
+      "title": "White",
+      "url": "https://en.wikipedia.org/?curid=17599355",
+      "source_type": "wikipedia",
+      "score": 0.706863796710968,
+      "text": "White is the lightest color and is achromatic (having no chroma). It is the color of objects such as snow, chalk, and milk, and is the opposite of black. White objects fully (or almost fully) reflect and scatter all the visible wavelengths of light. White on television and computer screens is created by a mixture of red, blue, and green light. The color white can be given with white pigments, especially titanium dioxide. In ancient Egypt and ancient Rome, priestesses wore white as a symbol of purity, and Romans wore white togas as symbols of citizenship. In the Middle Ages and Renaissance a white unicorn symbolized chastity, and a white lamb sacrifice and purity. It was the royal color of the kings of France as well as the flag of monarchist France from 1815 to 1830, and of the monarchist movement that opposed the Bolsheviks during the Russian Civil War (1917–1922)."
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0000",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.6043425410985946,
+      "text": "Thanos () is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man #55 (cover date February 1973). An Eternal–Deviant warlord from the moon Titan, Thanos is regarded as one of the most powerful beings in the Marvel Universe. Due to his genocidal tendencies, he has clashed with many heroes including the Avengers and the Guardians of the Galaxy. In creating Thanos, Starlin drew inspiration from Jack Kirby's New Gods series for DC Comics, particularly the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0001",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.5518544971942901,
+      "text": "the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes. In theories of syntax, a phrase is any group of words, or sometimes a single word, which plays a particular role within the syntactic structure of a sentence. It does not have to have any special meaning or significance, or even exist anywhere outside of the sentence being analyzed, but it must function there as a complete grammatical unit..."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0000",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.5516444057226181,
+      "text": "Fuck () is a profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives (such as fucker and fucking) are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off. Offensiveness It is unclear whether the word has always been considered a pejorative or, if not, when it first came to be used to describe (often in an extremely angry, hostile, or belligerent manner) unpleasant circumstances or people in an intentionally offensive way, such as in the term motherfucker, one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.5340032875537872,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Sexy, Sexy, Sexy#0001",
+      "doc_id": "wikipedia:Sexy, Sexy, Sexy",
+      "title": "Sexy, Sexy, Sexy",
+      "url": "https://en.wikipedia.org/?curid=38590761",
+      "source_type": "wikipedia",
+      "score": 0.5312224477529526,
+      "text": "the typical funk hallmarks of his more popular work. The song performed strongly on three separate Billboard charts as well as the Cashbox chart. It appeared in three separate releases under music label Polydor Records and reissued in 2020. Background In the early 1970s the United States saw the rise of ethnic blaxploitation films focussed on the contemporary experience and oppression of African Americans. The films pioneered..."
+    },
+    {
+      "chunk_id": "wikipedia:Joke#0000",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.5018783926963806,
+      "text": "A joke is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh and is usually not meant to be interpreted literally. It usually takes the form of a story, often with dialogue, and ends in a punch line, whereby the humorous element of the story is revealed; this can be done using a pun or other type of word play, irony or sarcasm, logical incompatibility, hyperbole, or other means. Linguist Robert Hetzron offers the definition: A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end. No continuation relieving the tension should be added. As for its being \"oral,\" it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry."
+    },
+    {
+      "chunk_id": "wikipedia:Comes#0001",
+      "doc_id": "wikipedia:Comes",
+      "title": "Comes",
+      "url": "https://en.wikipedia.org/?curid=1721514",
+      "source_type": "wikipedia",
+      "score": 0.49770585894584657,
+      "text": "to denote relation with another god. The coinage of Roman Emperor Constantine I declared him \"comes\" to Sol Invictus (\"Unconquered Sun\") qua god. Imperial Roman curial titles and offices styled comites Historically more significant, \"comes\" became a secular title granted to trusted officials of the Imperial Curia (\"Court\"), present or former, and others as sign of Imperial confidence. It developed into a formal, dignitary..."
+    }
+  ]
+}

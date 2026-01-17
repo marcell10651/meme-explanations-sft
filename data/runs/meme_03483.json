@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_03483",
+  "queries": [
+    "\"Two\" \"Brice Ned\" \"said\" \"must\" \"roo\"",
+    "\"must\" \"roo\" \"copemiems\" \"brice\""
+  ],
+  "primary_terms": [
+    "said",
+    "must",
+    "Brice Ned",
+    "roo",
+    "copemiems",
+    "brice",
+    "ned",
+    "gouging",
+    "miwon"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0001",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.457408607006073,
+      "text": "Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends. During this time, Craig starts high school and becomes close to Ms. Hart, a teacher who comes to his aid when Kenny Yankovich, a school bully, attempts to intimidate him. After winning $3,000 from a lottery ticket that Harrigan..."
+    },
+    {
+      "chunk_id": "wikipedia:Care#0001",
+      "doc_id": "wikipedia:Care",
+      "title": "Care",
+      "url": "https://en.wikipedia.org/?curid=246884",
+      "source_type": "wikipedia",
+      "score": 0.40450721979141235,
+      "text": "English rugby union player Henry Care (1646–1688), English political writer and journalist Peter Care (born 1953), British film and video producer Terry John Care (born 1947), American politician Philosophy and science Care or Sorge, a term in Heideggerian terminology Cura (mythology) or Care, figure in ancient Roman Fabulae of Hyginus..."
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0000",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.38541474640369416,
+      "text": "Rubeus Hagrid () is a fictional character in the Harry Potter series of novels by J. K. Rowling. He was introduced in Harry Potter and the Philosopher's Stone (1997) as a half-giant who is the gamekeeper and groundskeeper at the wizarding school Hogwarts. He is a member of the Order of the Phoenix and eventually becomes the Care of Magical Creatures professor. Hagrid is portrayed by Robbie Coltrane in all eight Harry Potter films. Creation and development Rubeus Hagrid was one of the first characters Rowling created. In a 1999 interview, she explained that the name \"Hagrid\" is an Old English word, referring to hagridden, meaning 'tormented by hags'. She said it means \"you'd had a bad night\" and she explained that Hagrid \"has a lot of bad nights\" due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\"."
+    },
+    {
+      "chunk_id": "wikipedia:Absolutely#0001",
+      "doc_id": "wikipedia:Absolutely",
+      "title": "Absolutely",
+      "url": "https://en.wikipedia.org/?curid=1914454",
+      "source_type": "wikipedia",
+      "score": 0.3811842352151871,
+      "text": "Hard Way Absolutely (TV series), a British comedy sketch show Abso Lutely Productions, a production company started by Tim Heidecker and Eric Wareheim See also Absolute (disambiguation) Absoluteness, a description of formulas that have the same truth value in each of some class of structures Absolution (disambiguation) Definitely (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0001",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.3809264004230499,
+      "text": "due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\". The character of Hagrid and conversations between him, Harry Potter, Ron Weasley and Hermione Granger in his hut are expository through the series, due to the fact that the trio frequently discover things about Albus Dumbledore and Hogwarts by talking with Hagrid, as he has a habit of letting..."
+    },
+    {
+      "chunk_id": "wikipedia:Rost#0001",
+      "doc_id": "wikipedia:Rost",
+      "title": "Rost",
+      "url": "https://en.wikipedia.org/?curid=16503566",
+      "source_type": "wikipedia",
+      "score": 0.3690662831068039,
+      "text": "1962), a Hungarian lyric soprano Burkhard Rost (born 1961), a German scientist - computational biologists Christina Rost (born 1952), a German former women's team handball player Clarence Rost (1914–2008), a former Canadian professional ice hockey player Erik Rost (born 1985), a Swedish ski-orienteering competitor Frank Rost..."
+    },
+    {
+      "chunk_id": "wikipedia:Please#0001",
+      "doc_id": "wikipedia:Please",
+      "title": "Please",
+      "url": "https://en.wikipedia.org/?curid=63658677",
+      "source_type": "wikipedia",
+      "score": 0.3661922365427017,
+      "text": "you please, an intransitive, ergative form taken from if it please you, which is in turn a calque of the French s'il vous plaît, which replaced pray. The exact time frame of the shortening is unknown, though it has been noted that this form appears not to have been known to William Shakespeare, for whom \"please you\" is the shortest form used in any of his works. A variation of the phrase, \"may it please the court\", remains in use as a formality for attorneys addressing judges in legal proceedings. Despite its straightforward definition..."
+    },
+    {
+      "chunk_id": "wikipedia:One half#0000",
+      "doc_id": "wikipedia:One half",
+      "title": "One half",
+      "url": "https://en.wikipedia.org/?curid=464963",
+      "source_type": "wikipedia",
+      "score": 0.36375142335891725,
+      "text": "One half is the multiplicative inverse of 2. It is an irreducible fraction with a numerator of 1 and a denominator of 2. It often appears in mathematical equations, recipes and measurements. As a word One half is one of the few fractions which are commonly expressed in natural languages by suppletion rather than regular derivation. In English, for example, compare the compound \"one half\" with other regular formations like \"one-sixth\". A half can also be said to be one part of something divided into two equal parts. It is acceptable to write one half as a hyphenated word, one-half. Mathematics One half is the rational number that lies midway between 0 and 1 on the number line. Multiplication by one half is equivalent to division by two, or \"halving\"; conversely, division by one half is equivalent to multiplication by two, or \"doubling\". A number raised to the power of one half is equal to its square root. This follows from the fact that when multiplying powers, the exponents add."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.3545464277267456,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Goes#0001",
+      "doc_id": "wikipedia:Goes",
+      "title": "Goes",
+      "url": "https://en.wikipedia.org/?curid=118427",
+      "source_type": "wikipedia",
+      "score": 0.3537352502346039,
+      "text": "the production of salt. In the 16th century, Goes declined. Its connection to the sea silted up and in 1554 a large fire destroyed part of the city. In the autumn of 1572, during the course of the Eighty Years' War, Goes, in the Spanish Netherlands, was besieged by Dutch forces with the support of English troops. The siege was relieved in October 1572 by Spanish tercios, who waded across the Scheldt to attack the besieging forces. In 1577, the Spanish soldiers who occupied Goes were driven out by Prince..."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_01811",
+  "queries": [
+    "\"Elmo\" \"doing\" \"almost\" \"all\" \"time\"",
+    "\"all\" \"time\" \"looking\" \"remote\""
+  ],
+  "primary_terms": [
+    "doing",
+    "almost",
+    "all",
+    "time",
+    "looking",
+    "remote",
+    "right",
+    "next"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Everything#0001",
+      "doc_id": "wikipedia:Everything",
+      "title": "Everything",
+      "url": "https://en.wikipedia.org/?curid=17181902",
+      "source_type": "wikipedia",
+      "score": 0.7854963213205337,
+      "text": "of all things in the universe is unknown because of the physics beyond the observed universe and the problem of knowing physics at the range infinite. To know universally everything as a temporal and spatial consideration isn't possible because of the unavailabilty of information at a certain time before the beginning of the universe and because of the problem of eternal causality. Scope In ordinary conversation, everything usually refers only to the totality of things..."
+    },
+    {
+      "chunk_id": "wikipedia:Everytime#0000",
+      "doc_id": "wikipedia:Everytime",
+      "title": "Everytime",
+      "url": "https://en.wikipedia.org/?curid=870269",
+      "source_type": "wikipedia",
+      "score": 0.7318185091018676,
+      "text": "\"Everytime\" is a song by American singer Britney Spears from her fourth studio album, In the Zone (2003). It was released as the third single from In the Zone on May 10, 2004, by Jive Records. After her relationship with Justin Timberlake ended in 2002, Spears became friends with her background singer Annet Artani. They started writing songs together at Spears' house in Los Angeles, and then traveled to Lombardy, Italy, where they collaborated on \"Everytime\". Musically, it is a piano-driven pop ballad, which lyrically pleas for forgiveness for inadvertently hurting a former lover. Spears composed the music herself and wrote the lyrics with Artani about a romantic breakup. \"Everytime\" received universal acclaim from music critics, who praised its lyrics, composition, and Spears' breathy vocals and songwriting, deeming it amongst the highlights of In the Zone."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.7103951811790467,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0000",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.6269506335258483,
+      "text": "Time is the continuous progression of existence that occurs in an apparently irreversible succession from the past, through the present, and into the future. Time dictates all forms of action, age, and causality, being a component quantity of various measurements used to sequence events, to compare the duration of events (or the intervals between them), and to quantify rates of change of quantities in material reality or in the conscious experience. Time is often referred to as a fourth dimension, along with three spatial dimensions. Time is primarily measured in linear spans or periods, ordered from shortest to longest. Practical, human-scale measurements of time are performed using clocks and calendars, reflecting a 24-hour day collected into a 365-day year linked to the astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest."
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0001",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.59887815117836,
+      "text": "(T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A. from AIM \"Finally\", a song by Yes from The Ladder \"Finally\", a 2019 single by Thabsie \"Finally\", a 2023 single by Jonas Blue and Rani Other uses Finally (company), an American light bulb company Finally (film), a 1991 documentary about Eric Burdon Finally, a keyword in exception handling syntax See also Final (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0001",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.5883032858371735,
+      "text": "looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act. Looking versus seeing \"Looking\" and \"seeing\" are traditionally contrasted in a number of ways, although their usage often overlaps. Looking can be characterized as \"the action precedent to seeing\". Any kind of looking or viewing actually implies \"seeing\" certain things within the range..."
+    },
+    {
+      "chunk_id": "wikipedia:Watch#0001",
+      "doc_id": "wikipedia:Watch",
+      "title": "Watch",
+      "url": "https://en.wikipedia.org/?curid=60883",
+      "source_type": "wikipedia",
+      "score": 0.5864717036485672,
+      "text": "of the watch market, in what became known as the quartz revolution (or the quartz crisis in Switzerland, whose renowned watch industry it decimated). In the 2010s, smartwatches emerged, small wrist-worn computers with touchscreens and with functions that go far beyond timekeeping. Modern watches often display the day, date, month, and year. Mechanical watches may have extra features..."
+    },
+    {
+      "chunk_id": "wikipedia:Only#0000",
+      "doc_id": "wikipedia:Only",
+      "title": "Only",
+      "url": "https://en.wikipedia.org/?curid=1629775",
+      "source_type": "wikipedia",
+      "score": 0.5616165310144424,
+      "text": "Only may refer to: Music Albums Only (album), by Tommy Emmanuel, 2000 The Only, an EP by Dua Lipa, 2017 The Only (EP), by The Boyz Songs \"Only\" (Anthrax song), 1993 \"Only\" (Nine Inch Nails song), 2005 \"Only\" (Nicki Minaj song), 2014 \"Only\" (Lee Hi song), 2021 \"The Only\", by Static-X, 2003 \"Only\", by Ass Ponys from Lohio, 2001 \"Only\", by Fuse ODG, 2015 \"Only\", by Imagine Dragons from Origins, 2018 \"Only\", by NF from The Search, 2019 \"Only\", by Sarah Vaughan from Sarah Slightly Classical, 1963 \"Only\", by Sampha from Lahai, 2023 \"The Only\", a song by Raiden featuring Irene, 2019 \"The Only\", by Sasha Alex Sloan from Loser, 2018 Other uses Only (film), a 2019 post-apocalyptic romance film Only (magazine), a 2000s Canadian news and entertainment magazine Only, Tennessee, US Jerry Only (born 1959), American punk rock bassist and singer See also All pages with titles beginning with Only All pages with titles beginning with The Only Onli, people with this surname Onley (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Everything#0000",
+      "doc_id": "wikipedia:Everything",
+      "title": "Everything",
+      "url": "https://en.wikipedia.org/?curid=17181902",
+      "source_type": "wikipedia",
+      "score": 0.5607922434806824,
+      "text": "Everything, every-thing, or every thing, is all that exists; it is an antithesis (opposite) of nothing, and its complement. It is the totality of things relevant to some subject matter. The universe is everything that exists theoretically, though a multiverse may exist according to theoretical cosmology predictions. It may refer to an anthropocentric worldview, or the sum of human experience, history, and the human condition in general. Every object and entity is a part of everything, including all physical bodies and in some cases all abstract objects. To describe or know of everything as a spatial consideration in a local environment, such as the world in which humans mostly live, is possible. The detemination of all things in the universe is unknown because of the physics beyond the observed universe and the problem of knowing physics at the range infinite."
+    },
+    {
+      "chunk_id": "wikipedia:Ever#0000",
+      "doc_id": "wikipedia:Ever",
+      "title": "Ever",
+      "url": "https://en.wikipedia.org/?curid=749143",
+      "source_type": "wikipedia",
+      "score": 0.5495031833648681,
+      "text": "Ever may refer to: Music Ever (Love Spirals Downwards album) (1996) Ever (IQ album) (1993) \"Ever\" (song), a 2010 song by Gackt \"Ever\", a song by Flipper from the album Album – Generic Flipper \"Ever\", a song by Diaura from the album Genesis \"The Ever\", a song by Red from the album Of Beauty and Rage Literature Ever (comics), a Marvel Comics character Ever, a book by Gail Carson Levine Ever (novella), a 2009 novella by Blake Butler People Casey Hatherly (born 19856) also known as Ever, Canadian climate activist Ita Ever (born 1931), Estonian film, radio, theater and television actress Valter Ever (1902–1981), Estonian track and field athlete Éver Alfaro (born 1982), Costa Rican professional footballer Ever Hugo Almeida (born 1948), former football goalkeeper and now is the national coach of Guatemala Ever Amarilla (born 1984), Paraguayan footballer Ever Anderson (born 2007), actress and model Ever Caballero (born 1982), Paraguayan footballer Ever Cantero (born 1985), Paraguayan"
+    }
+  ]
+}

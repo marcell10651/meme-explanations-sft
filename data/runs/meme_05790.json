@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_05790",
+  "queries": [
+    "\"David Poster\" \"David\" \"relax\" \"small\" \"surgery\"",
+    "\"small\" \"surgery\" \"don\" \"panic\""
+  ],
+  "primary_terms": [
+    "David",
+    "relax",
+    "small",
+    "surgery",
+    "don",
+    "panic",
+    "ond",
+    "name",
+    "not",
+    "know"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Surgeon#0000",
+      "doc_id": "wikipedia:Surgeon",
+      "title": "Surgeon",
+      "url": "https://en.wikipedia.org/?curid=9104734",
+      "source_type": "wikipedia",
+      "score": 0.731829023361206,
+      "text": "In medicine, a surgeon is a medical doctor who performs surgery. Even though there are different traditions in different times and places, a modern surgeon is a licensed physician and received the same medical training as physicians before specializing in surgery. In some countries and jurisdictions, the title of 'surgeon' is restricted to maintain the integrity of the craft group in the medical profession. A specialist regarded as a legally recognized surgeon includes podiatry, dentistry, and veterinary medicine. It is estimated that surgeons perform over 300 million surgical procedures globally each year. History The first person to document a surgery was the 6th century BC Indian physician-surgeon, Sushruta. He specialized in cosmetic plastic surgery and even documented an open rhinoplasty procedure. His magnum opus Suśruta-saṃhitā is one of the most important surviving ancient treatises on medicine and is considered a foundational text of both Ayurveda and surgery."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.58087959587574,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:Rescue#0000",
+      "doc_id": "wikipedia:Rescue",
+      "title": "Rescue",
+      "url": "https://en.wikipedia.org/?curid=363258",
+      "source_type": "wikipedia",
+      "score": 0.5654568672180176,
+      "text": "Rescue comprises responsive operations that usually involve the saving of life, removal from danger, liberation from restraint, or the urgent treatment of injuries after an incident. It may be facilitated by a range of tools and equipment necessary to deal with the specific circumstances. Rescues may be necessary in a wide range of circumstances and environments, and specialised procedures have been developed for many of these. A rescue may also be performed on an ad hoc basis by the people who are available on site, using equipment available on site or assembled from available materials, particularly when the rescue is urgent or it is unlikely that specialist assistance will be available within a reasonable time. First aid medical attention is often closely associated with rescue, and may be a necessary part of a rescue."
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0000",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.5521538436412812,
+      "text": "Terror(s) or The Terror may refer to: Politics Terrorism, the use of violence against non-combatants to achieve political or ideological aims Reign of Terror, commonly known as The Terror, a period of violence (1793–1794) after the onset of the French Revolution Terror (politics), a policy of political repression and violence The Terror (Karlovo massacre), a massacre of Bulgarian civilians in Karlovo, followed by police and legal repression in the second half of 1878 The Great Purge in the 1930s Soviet Union is also known as the \"Great Terror\" or \"The Terror\" Emotions An extreme form of fear, the emotional response to a threat or danger Angst, a form of anxiety or fear described in existentialist philosophy Anxiety, a sense of dread Panic, a sudden overwhelming fear Arts, entertainment and media Fictional entities Terror (Marvel Comics), a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The"
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0000",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.4984661221504212,
+      "text": "Kyle Edward Craven (born August 10, 1989), commonly known by his Internet nickname \"Bad Luck Brian\", is an American Internet celebrity known for his photo which was posted on Reddit in 2012, which quickly became a popular Internet meme. Bad Luck Brian is an image macro style of meme. His captions describe a variety of unlucky, embarrassing and tragic events. Meme Origin On January 23, 2012, at 2:15 UTC, Ian Davies uploaded a photo to Reddit of his friend Kyle Craven. Craven and Davies both attended Archbishop Hoban High School in Akron, Ohio. The photo which became Bad Luck Brian was originally taken for the high school's 2005–06 yearbook. Craven stated that he rubbed his face with a sweater to redden it and donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture."
+    },
+    {
+      "chunk_id": "wikipedia:Doctor#0000",
+      "doc_id": "wikipedia:Doctor",
+      "title": "Doctor",
+      "url": "https://en.wikipedia.org/?curid=662249",
+      "source_type": "wikipedia",
+      "score": 0.4967813789844513,
+      "text": "Doctor most often refers to: Medical doctor, a person who is qualified to practice medicine Doctor (title), an academic title granted to holders of a doctorate Doctor, Doctors, The Doctor or The Doctors may also refer to: Arts and entertainment Fictional characters The Doctor, the main character of the BBC series Doctor Who List of fictional doctors Doctor (comics), several fictional characters Doctor, in the film My Giant Doctor, in Black Cat The Doctor, in Hellsing The Doctor, in video game Cave Story The Doctor (Star Trek) The Doctor, or Scalpel, in the Transformers film series The Doctor or Cobra Commander, in G.I."
+    },
+    {
+      "chunk_id": "wikipedia:Surgeon#0001",
+      "doc_id": "wikipedia:Surgeon",
+      "title": "Surgeon",
+      "url": "https://en.wikipedia.org/?curid=9104734",
+      "source_type": "wikipedia",
+      "score": 0.48982480764389036,
+      "text": "-saṃhitā is one of the most important surviving ancient treatises on medicine and is considered a foundational text of both Ayurveda and surgery. The treatise addresses all aspects of general medicine, but the translator G. D. Singhal dubbed Sushruta \"the father of surgical intervention\" on account of the extraordinarily accurate and detailed accounts..."
+    },
+    {
+      "chunk_id": "wikipedia:Care#0000",
+      "doc_id": "wikipedia:Care",
+      "title": "Care",
+      "url": "https://en.wikipedia.org/?curid=246884",
+      "source_type": "wikipedia",
+      "score": 0.4884600698947906,
+      "text": "Care may refer to: Organizations and projects CARE (New Zealand), Citizens Association for Racial Equality, a former New Zealand organisation CARE (England) West Midlands, Central Accident Resuscitation Emergency team, a team of doctors & paramedics CARE International, Cooperative for Assistance and Relief Everywhere, an international aid and development organization Carpet America Recovery Effort, an American carpet recycling project Charged Aerosol Release Experiment, a NASA project concerning dust in space Christian Action Research and Education, a Christian lobby group in the United Kingdom Credit Abuse Resistance Education, an American national program Crew Module Atmospheric Re-entry Experiment, a 2014 ISRO experimental vehicle People with the surname Danny Care (soccer) (born 1974), American soccer player Danny Care (born 1987), English rugby union player Henry Care (1646–1688), English political writer and journalist Peter Care (born 1953), British film and video producer"
+    },
+    {
+      "chunk_id": "wikipedia:Doctor#0001",
+      "doc_id": "wikipedia:Doctor",
+      "title": "Doctor",
+      "url": "https://en.wikipedia.org/?curid=662249",
+      "source_type": "wikipedia",
+      "score": 0.48288180530071256,
+      "text": "Doctor, in video game Cave Story The Doctor (Star Trek) The Doctor, or Scalpel, in the Transformers film series The Doctor or Cobra Commander, in G.I. Joe: A Real American Hero The Doctor, in Little Nightmares II Minoru Kamiya, also known as Doctor, in YuYu Hakusho The Doctor (Squid Game), also known as Byeong-yi or Player 111 Film Doctor (film series), British comedy films of the 1950s–1960s Doctor (1963 film), an Indian Malayalam-language film Doctor (2013 film), a South Korean horror film Doctor (2021 film), an Indian Tamil-language film Doctor (2023 film), a Russian drama The Doctor (1991 film), an American drama The Doctor (2013 film), about basketball player Julius Erving Music ��4�..."
+    },
+    {
+      "chunk_id": "wikipedia:The Lady Doctor#0000",
+      "doc_id": "wikipedia:The Lady Doctor",
+      "title": "The Lady Doctor",
+      "url": "https://en.wikipedia.org/?curid=46194248",
+      "source_type": "wikipedia",
+      "score": 0.4804393827915192,
+      "text": "The Lady Doctor (Italian: Totò, Vittorio e la dottoressa, also known as Totò, Vittorio and the Doctor) is a 1957 Italian comedy film directed by Camillo Mastrocinque. Plot Michele and Gennaro work as attendants in the investigation agency \"Nulla sfugge\" (\"Nothing escapes\"). When their boss is forced to be absent from the office to follow an important investigation, the two decide to take his place, pretending to be skilled investigators. Two old sisters, Ada and Ida, come to the agency to ask them to investigate the conduct of the wife of their only nephew, an American doctor from Boston, and they accept the case, which will turn out to be a mess. Cast Totò as Michele Spillone aka Mike Vittorio De Sica as Marquis Vittorio de Vitti Abbe Lane as Dr."
+    }
+  ]
+}

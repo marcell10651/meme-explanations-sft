@@ -1,0 +1,189 @@
+{
+  "meme_id": "meme_00964",
+  "queries": [
+    "\"Worker\" \"my first original meme\" \"Coo\" \"Sea\" \"first\"",
+    "\"Sea\" \"first\" \"original\" \"iis\""
+  ],
+  "primary_terms": [
+    "my first original meme",
+    "first",
+    "original",
+    "iis",
+    "Coo",
+    "Sea"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Jaws (film)#0001",
+      "doc_id": "wikipedia:Jaws (film)",
+      "title": "Jaws (film)",
+      "url": "https://en.wikipedia.org/?curid=74830",
+      "source_type": "wikipedia",
+      "score": 0.688992491364479,
+      "text": "1974, Jaws was the first major motion picture to be shot on the ocean and consequently had a troubled production, going over budget and schedule. As the art department's mechanical sharks often malfunctioned, Spielberg decided to mostly suggest the shark's presence, employing an ominous and minimalist theme created by composer John Williams to indicate its impending appearances. Spielberg and others have compared this suggestive approach to that of director Alfred Hitchcock. Universal Pictures released the film..."
+    },
+    {
+      "chunk_id": "wikipedia:First Time#0000",
+      "doc_id": "wikipedia:First Time",
+      "title": "First Time",
+      "url": "https://en.wikipedia.org/?curid=2039755",
+      "source_type": "wikipedia",
+      "score": 0.5692533314228058,
+      "text": "First Time or The First Time may refer to: Film and television Films The First Time (1952 film), an American comedy-drama directed by Frank Tashlin The First Time (1969 film), an American coming-of-age film directed by James Neilson The First Time (1981 film), an American coming of age comedy film The First Time, a 1982 American television film starring Jennifer Jason Leigh First Time, a 1983 Hong Kong film produced by Peter Yang The First Time, a 1983 comedy featuring Wendie Jo Sperber First Time, a 2003 Philippine film featuring Ryan Eigenmann The First Time (2012 film), an American teen romantic comedy by Jon Kasdan First Time (2012 film), a Chinese romance film directed by Han Yan Television First Time (TV series), a 2010 Philippine romantic drama Episodes \"First Time\" (South of Nowhere) \"The First Time\" (Glee) \"The First Time\" (One Day at a Time) \"The First Time\" (That '70s Show) Literature The First Time (memoir), a 1998 book by Cher and Jeff Coplon First Time, a 2008 novel by"
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.5495111554861069,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:Serial#0001",
+      "doc_id": "wikipedia:Serial",
+      "title": "Serial",
+      "url": "https://en.wikipedia.org/?curid=2254334",
+      "source_type": "wikipedia",
+      "score": 0.4678536653518677,
+      "text": "in the Life of Marin County, a 1977 novel by Cyra McFadden The Serial, an early to mid-1960s anthology series that aired on CBC Television in Canada. Computing and technology SerDes, a Serializer/Deserializer (pronounced sir-deez) Serial ATA Serial attached SCSI Serial bus, e.g., I²C 1-Wire Serial Peripheral Interface Bus (SPI) UNI/O Serial cable, a cable used to transfer information between two devices using a serial communication..."
+    },
+    {
+      "chunk_id": "wikipedia:Hard#0001",
+      "doc_id": "wikipedia:Hard",
+      "title": "Hard",
+      "url": "https://en.wikipedia.org/?curid=732244",
+      "source_type": "wikipedia",
+      "score": 0.44821999967098236,
+      "text": "(surname) Hard architecture, impersonal windowless buildings with graffiti-resistant walls usually associated with prisons and other secure structures Nickname of Masaki Sumitani ( HardGay / HardoGay ) Hard (nautical), a beach or slope convenient for hauling out vessels hard, slang for an erection Hayward Area Recreation..."
+    },
+    {
+      "chunk_id": "wikipedia:Builder#0001",
+      "doc_id": "wikipedia:Builder",
+      "title": "Builder",
+      "url": "https://en.wikipedia.org/?curid=2518249",
+      "source_type": "wikipedia",
+      "score": 0.43529805541038513,
+      "text": "Builder (detergent), a component of modern detergents Builder (hockey), in ice hockey, manages or builds the game Builder (United States Navy), U.S. Navy Rating Builder pattern, an object-oriented design pattern Interactive Scenario Builder, an RF Tactical Decision Aid often referred to as Builder Build engineer, a software engineer specializing in builds (versions) of large software products See also All pages with titles..."
+    },
+    {
+      "chunk_id": "wikipedia:Dungeons & Dragons#0000",
+      "doc_id": "wikipedia:Dungeons & Dragons",
+      "title": "Dungeons & Dragons",
+      "url": "https://en.wikipedia.org/?curid=7940",
+      "source_type": "wikipedia",
+      "score": 0.40747606456279756,
+      "text": "Dungeons & Dragons (commonly abbreviated as D&D or DnD) is a fantasy tabletop role-playing game (TTRPG) originally created and designed by Gary Gygax and Dave Arneson. The game was first published in 1974 by Tactical Studies Rules (TSR). It has been published by Wizards of the Coast, later a subsidiary of Hasbro, since 1997. The game was derived from miniature wargames, with a variation of the 1971 game Chainmail serving as the initial rule system. D&D's publication is commonly recognized as the beginning of modern role-playing games and the role-playing game industry, which also deeply influenced video games, especially the role-playing video game genre. D&D departs from traditional wargaming by allowing each player to create their own character to play instead of a military formation. These characters embark upon adventures within a fantasy setting."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0001",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.39579038321971893,
+      "text": "network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story, one of the main characters in the 2006 film Lady in the Water Kahaani, or Story, a 2012 Indian film by Sujoy Ghosh The Story (film documentary short), a 2000 short film by John Little The..."
+    },
+    {
+      "chunk_id": "wikipedia:Captain#0001",
+      "doc_id": "wikipedia:Captain",
+      "title": "Captain",
+      "url": "https://en.wikipedia.org/?curid=47671806",
+      "source_type": "wikipedia",
+      "score": 0.38252441585063934,
+      "text": "the topmost\"), which was used as title for a senior Byzantine military rank and office. The word was Latinized as Ancient Greek: capetanus or catepan. Both ultimately derive from the Proto-Indo-European \"*káput\", also meaning head. Occupations or roles Captain (armed forces), a commissioned officer rank corresponding to NATO OF-2 level. Typically..."
+    },
+    {
+      "chunk_id": "wikipedia:First Time#0001",
+      "doc_id": "wikipedia:First Time",
+      "title": "First Time",
+      "url": "https://en.wikipedia.org/?curid=2039755",
+      "source_type": "wikipedia",
+      "score": 0.3739979326725006,
+      "text": "Day at a Time) \"The First Time\" (That '70s Show) Literature The First Time (memoir), a 1998 book by Cher and Jeff Coplon First Time, a 2008 novel by Meg Tilly First-Time: The Historical Vision of an Afro-American People, a 1983 book by Richard Price Music Albums First Time (Maya Simantov album) or the title song..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Happy conversation between customer and staff.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Happy conversation",
+          "customer",
+          "staff"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that Worker suggest running pants to man.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Worker",
+          "pants",
+          "man"
+        ]
+      },
+      "title": {
+        "text": "This was my first original meme",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "my first original meme",
+          "first",
+          "original"
+        ]
+      },
+      "text": {
+        "text": "<< NL | i = iis in OO ON ON CO i) . iv. . Ce: ae Coo ene ly . AG oN Re Sea —_— ay IN at | | Y uy tS Yel: a ii ag RUNNING Se UANNING IONS",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "iis",
+          "Coo",
+          "Sea"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "my first original meme",
+      "first",
+      "original",
+      "iis",
+      "Coo",
+      "Sea"
+    ],
+    "secondary_terms": [
+      "Happy conversation",
+      "customer",
+      "staff",
+      "Worker",
+      "pants",
+      "man"
+    ],
+    "queries": [
+      "\"Worker\" \"my first original meme\" \"Coo\" \"Sea\" \"first\"",
+      "\"Sea\" \"first\" \"original\" \"iis\""
+    ]
+  },
+  "source_jsonl_id": null
+}

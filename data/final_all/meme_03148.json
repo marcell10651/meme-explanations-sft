@@ -1,0 +1,207 @@
+{
+  "meme_id": "meme_03148",
+  "queries": [
+    "\"the near future\" \"Germany\" \"near\" \"future\"",
+    "\"near\" \"future\" \"eats\" \"nig\""
+  ],
+  "primary_terms": [
+    "the near future",
+    "near",
+    "future",
+    "Germany",
+    "eats",
+    "nig",
+    "during",
+    "boss"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Time travel#0000",
+      "doc_id": "wikipedia:Time travel",
+      "title": "Time travel",
+      "url": "https://en.wikipedia.org/?curid=31591",
+      "source_type": "wikipedia",
+      "score": 0.6762809514999389,
+      "text": "Time travel is the hypothetical activity of traveling into the past or future. Time travel is a concept in philosophy, space, time and fiction, particularly science fiction. In fiction, time travel is typically achieved through the use of a device known as a time machine. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine. It is uncertain whether time travel to the past would be physically possible. Such travel, if at all feasible, may give rise to questions of causality. Forward time travel, outside the usual sense of the perception of time, is an extensively observed phenomenon and is well understood within the framework of special relativity and general relativity. However, making one body advance or delay more than a few milliseconds compared to another body is not feasible with current technology. As for backward time travel, it is possible to find solutions in general relativity that allow for it, such as a rotating black hole."
+    },
+    {
+      "chunk_id": "wikipedia:Away#0001",
+      "doc_id": "wikipedia:Away",
+      "title": "Away",
+      "url": "https://en.wikipedia.org/?curid=6770700",
+      "source_type": "wikipedia",
+      "score": 0.5160903394222259,
+      "text": "by Devin Townsend from Accelerated Evolution, 2003 \"Away\", by Davido from Timeless, 2023 \"Away\", by the Feelies from Only Life, 1988 \"Away\", by G.E.M. from Heartbeat, 2015 \"Away\", by Neurosis from Times of Grace, 1999 \"Away\", by Nightwish from Over the Hills and Far Away, 2001 \"Away\", by Of Mice & Men from Cold World, 2016 \"Away\", by Swallow the Sun from Songs from the North I, II & III..."
+    },
+    {
+      "chunk_id": "wikipedia:Close#0001",
+      "doc_id": "wikipedia:Close",
+      "title": "Close",
+      "url": "https://en.wikipedia.org/?curid=4583933",
+      "source_type": "wikipedia",
+      "score": 0.4777437448501587,
+      "text": "associated with it Close (2019 film), an action thriller Close (2022 film), a Belgian drama film Close (street), an alley or cul-de-sac Close, old English term for an estate Close, a common stair or entryway in a Scottish tenement Close (system call), a system call in computer software Close, a character in Go! Princess PreCure ��2..."
+    },
+    {
+      "chunk_id": "wikipedia:Waiting#0000",
+      "doc_id": "wikipedia:Waiting",
+      "title": "Waiting",
+      "url": "https://en.wikipedia.org/?curid=5769974",
+      "source_type": "wikipedia",
+      "score": 0.42801372706890106,
+      "text": "Waiting, Waitin, Waitin', or The Waiting may refer to: Art Waiting (Degas), a c. 1880–1882 pastel on paper by Edgar Degas Waiting (Millais), an 1854 painting by John Everett Millais Film Waiting (1991 film), a film by Jackie McKimmie Waiting... (film), a 2005 film starring Ryan Reynolds Waiting, a 2007 film by Zarina Bhimji Waiting (2015 film), an Indian drama film starring Naseeruddin Shah and Kalki Koechlin The Waiting (film), a 2020 American horror/romance/comedy by F. C. Rabbath The Good Neighbor (2016 film) (working title The Waiting), an American thriller film Literature Waiting (novel), a 1999 novel by Ha Jin Waiting (picture book), a 2015 children's book by Kevin Henkes The Waiting (graphic novel), a 2020 graphic novel by Keum Suk Gendry-Kim \"The Waiting\" (short story), or \"The Wait\", a 1950 story by Jorge Luis Borges The Waiting, a 2024 novel by Michael Connelly Music The Waiting (band), a Christian pop rock band Waiting (KLF film), a video by The KLF Albums Waiting (Bobby"
+    },
+    {
+      "chunk_id": "wikipedia:Never#0001",
+      "doc_id": "wikipedia:Never",
+      "title": "Never",
+      "url": "https://en.wikipedia.org/?curid=1433241",
+      "source_type": "wikipedia",
+      "score": 0.4168022871017456,
+      "text": "-sama and Evil Neuro, 2025 \"Never\", by Orbital from Wonky, 2012 \"Never\", by Ozzy Osbourne from The Ultimate Sin, 1986 \"Never\", by Paco from This Is Where We Live, 2004 \"Never\", by Sevendust from Next, 2005 \"Never (These Days)\", by Z-Ro, 2010 Places Never, Amur Oblast, a rural locality in Russia Never, Bryansk Oblast, a rural locality..."
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0001",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.4146631956100464,
+      "text": "\"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV from Oshin, 2012 \"Wait\", by Doechii from Alligator Bites Never Heal, 2024 \"Wait\", by Earth, Wind & Fire from I Am, 1979 \"Wait\", by Everyday Sunday from Sleeper, 2001 \"Wait\", by The Kills..."
+    },
+    {
+      "chunk_id": "wikipedia:Away#0000",
+      "doc_id": "wikipedia:Away",
+      "title": "Away",
+      "url": "https://en.wikipedia.org/?curid=6770700",
+      "source_type": "wikipedia",
+      "score": 0.41401419043540955,
+      "text": "Away may refer to: Film and television Away (2016 film), a British film directed by David Blair Away (2019 film), a Latvian animated silent film by Gints Zilbalodis Away (2025 film), a drama film by Gerard Oms Away (TV series), a 2020 American science fiction drama Literature Away (play), a 1986 play by Michael Gow Away, a 2007 novel by Amy Bloom Away, a 1980 collection of poems by Andrew Salkey Music Albums Away (album), by Okkervil River, 2016 Away, by Dntel, 2021 Songs \"Away\" (Ayra Starr song), 2021 \"Away\" (Enrique Iglesias song), 2008 \"Away\" (Fatin Shidqia song), 2015 \"Away\" (Oxlade song), 2020 \"Away\", by Before the Dawn from The Ghost, 2006 \"Away\", by Breaking Benjamin from We Are Not Alone, 2004 \"Away\", by the Cranberries from No Need to Argue, 2002 reissue \"Away\", by Devin Townsend from Accelerated Evolution, 2003 \"Away\", by Davido from Timeless, 2023 \"Away\", by the Feelies from Only Life, 1988 \"Away\", by G.E.M."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0000",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.4129691421985626,
+      "text": "Millennials, also known as Generation Y or Gen Y, are the demographic cohort following Generation X and preceding Generation Z. Researchers and popular media use the early 1980s as starting birth years and the mid-1990s to early 2000s as ending birth years, with the generation typically being defined as people born from 1981 to 1996. Most millennials are the children of baby boomers and older Gen Xers, and are often the parents of Generation Alpha. As children in the late 1980s to 2000s, millennials saw the rise of the Information Age and Internet, being described by some as the first global generation. As adolescents and young adults in the late 1990s to 2010s, the generation was marked by a more upbeat youth culture, elevated familiarity with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace."
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0000",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.3938606083393097,
+      "text": "Wait or WAIT may refer to: Music Wait (musician), British town pipers Albums and EPs Wait (The Polyphonic Spree EP), by The Polyphonic Spree Wait (Emanuel Nice EP), a 2002 EP released by the band Emanuel Nice Wait (Steelheart album), or the title song Wait (Sons of Korah album), 2011 Wait (Pardon Us album), 2019 Songs \"Wait\" (Beatles song), 1965 \"Wait\" (Chantel Jeffries song), 2018 \"Wait\" (Earshot song), 2004 \"Wait\" (Huffamoose song), 1997 \"Wait\" (Gyan song), 1989 \"Wait\" (M83 song), 2012 \"Wait\" (Maggie Reilly song), 1992 \"Wait\" (Maroon 5 song), 2018 \"Wait\" (Seven Mary song), 2001 \"Wait\" (Wang Chung song), 1984 \"Wait\" (White Lion song), 1987 \"Wait (The Whisper Song)\", by Ying Yang Twins, 2005 \"Wait\", by 6ix9ine from TattleTales, 2020 \"Wait\", by The Afters from I Wish We All Could Win, 2005 \"Wait\", by C418 from Minecraft – Volume Beta, 2013 \"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV"
+    },
+    {
+      "chunk_id": "wikipedia:Open#0001",
+      "doc_id": "wikipedia:Open",
+      "title": "Open",
+      "url": "https://en.wikipedia.org/?curid=514174",
+      "source_type": "wikipedia",
+      "score": 0.3927718549966812,
+      "text": "magazine featuring current affairs OPEN (North Dakota magazine), an out-of-print magazine that was printed in the Fargo, North Dakota area of the U.S. Open: An Autobiography, tennis player Andre Agassi's 2009 memoir Computing and mathematics Open (process), a program launcher invoked from the command line in NeXTSTEP or Mac OS X Open (system call), standardized system call for opening files Open set, in mathematics..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The top is warriors with various Flags the middle is Patrick holding a jar the last is Homer Simpson looking out a window.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The top",
+          "warriors",
+          "various Flags",
+          "the middle",
+          "Patrick",
+          "Homer Simpson"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that Germany has evolved from apocalypse in wwi, nazis in wwii, and hiding out of wwiii.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Germany",
+          "apocalypse",
+          "wwi",
+          "nazis",
+          "wwii",
+          "wwiii"
+        ]
+      },
+      "title": {
+        "text": "This meme is from the near future",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the near future",
+          "near",
+          "future"
+        ]
+      },
+      "text": {
+        "text": "Germany = hws & = oe eats Germany | | NIG AA during WW2 | i BOSS Germany fc a ~ during WW3 | j| |: 7 7",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Germany",
+          "eats",
+          "nig",
+          "during",
+          "boss"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the near future",
+      "near",
+      "future",
+      "Germany",
+      "eats",
+      "nig",
+      "during",
+      "boss"
+    ],
+    "secondary_terms": [
+      "The top",
+      "warriors",
+      "various Flags",
+      "the middle",
+      "Patrick",
+      "Homer Simpson",
+      "Germany",
+      "apocalypse",
+      "wwi",
+      "nazis",
+      "wwii",
+      "wwiii"
+    ],
+    "queries": [
+      "\"the near future\" \"Germany\" \"near\" \"future\"",
+      "\"near\" \"future\" \"eats\" \"nig\""
+    ]
+  },
+  "source_jsonl_id": null
+}

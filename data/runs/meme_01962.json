@@ -1,0 +1,105 @@
+{
+  "meme_id": "meme_01962",
+  "queries": [
+    "\"The bottom text\" \"bottom\" \"text\" \"tan\"",
+    "\"text\" \"tan\" \"something\" \"others\""
+  ],
+  "primary_terms": [
+    "The bottom text",
+    "bottom",
+    "text",
+    "tan"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Tanna#0001",
+      "doc_id": "wikipedia:Tanna",
+      "title": "Tanna",
+      "url": "https://en.wikipedia.org/?curid=4651537",
+      "source_type": "wikipedia",
+      "score": 0.7368818283081054,
+      "text": "2015 film set on the island of Tanna, Vanuatu Tanna languages, a subgroup of the South Vanuatu languages See also Tana (disambiguation) All pages with titles beginning with Tanna All pages with titles containing Tanna"
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0001",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.6511366367340088,
+      "text": "the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element. The objective can be clarity or effective communication, association with other cultural elements, or merely the creation of a distinctive style. Graphics can be functional or artistic. The latter can be a recorded version, such as a photograph, or an interpretation by a scientist to highlight..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.5945959150791168,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Good#0000",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.5921844810247421,
+      "text": "In most contexts, the concept of good denotes the conduct that should be preferred when posed with a choice between possible actions. Good is generally considered to be the opposite of evil. The specific meaning and etymology of the term and its associated translations among ancient and contemporary languages show substantial variation in its inflection and meaning, depending on circumstances of place and history, or of philosophical or religious context. History of Western ideas Every language has a word expressing good in the sense of \"having the right or desirable quality\" (ἀρετή) and bad in the sense \"undesirable\". A sense of moral judgment and a distinction \"right and wrong, good and bad\" are cultural universals. Plato and Aristotle Although the history of the origin of the use of the concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect."
+    },
+    {
+      "chunk_id": "wikipedia:Premium#0001",
+      "doc_id": "wikipedia:Premium",
+      "title": "Premium",
+      "url": "https://en.wikipedia.org/?curid=769137",
+      "source_type": "wikipedia",
+      "score": 0.5878914803266525,
+      "text": "texting, SMS used for delivering digital content Premium-rate telephone number, telephone numbers for which prices higher than normal are charged Brands Premium-Cola, a brand of cola from Germany Premium Brands Holdings Corporation, a Canadian specialty food manufacturing and distribution company Premium Outlets, a brand of shopping malls..."
+    },
+    {
+      "chunk_id": "wikipedia:Tanna#0000",
+      "doc_id": "wikipedia:Tanna",
+      "title": "Tanna",
+      "url": "https://en.wikipedia.org/?curid=4651537",
+      "source_type": "wikipedia",
+      "score": 0.5681272357702255,
+      "text": "Tanna may refer to: Places Tanna (island), an island in Vanuatu Tanna, Germany, a city in Thuringia Tanna, former name of city of Thane in India People Tanna, singular form of tannaim, a Rabbinic sage recorded in the Mishna Tanna, a last name common among Lohanas Christian Tanna, a member of the rock band I Mother Earth Dan Tanna, fictional character, in the TV series Vega$ (1978–1981) Jagori Tanna, a member of the rock band I Mother Earth, brother of Christian Karishma Tanna, Indian actress Tanna Frederick, American actress Science Tanna (cicada), a genus of cicadas Tanna fruit dove, a bird endemic to Vanuatu Tanna ground dove, an extinct bird endemic to Vanuatu Tanna ornatipes, a genus of jumping spiders, synonym of Araneotanna Other Tanna, an Old High German word meaning oak from which the word tannin is derived Tanna (film), a 2015 film set on the island of Tanna, Vanuatu Tanna languages, a subgroup of the South Vanuatu languages See also Tana (disambiguation) All pages with"
+    },
+    {
+      "chunk_id": "wikipedia:Caption#0000",
+      "doc_id": "wikipedia:Caption",
+      "title": "Caption",
+      "url": "https://en.wikipedia.org/?curid=285212",
+      "source_type": "wikipedia",
+      "score": 0.5309581816196441,
+      "text": "Caption may refer to: Caption (text), explanatory text about specific published photos and articles An element of comics where words appear in a separate box; see Glossary of comics terminology § Caption Caption (comics convention), a small press and independent comic convention held annually in Oxford, England Caption (law), arrest or apprehension Closed captioning, used to provide the text of a show's audio portion to those who may have trouble hearing it Subtitles, textual versions of the dialog in film and other visual media Intertitle, a piece text edited into a film to convey information like dialogue <caption></caption>, an HTML element; see HTML element § caption"
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0000",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.5307017177343368,
+      "text": "Graphics (from Ancient Greek γραφικός (التصميم) 'pertaining to drawing, painting, writing, etc.') are visual images or designs on some surface, such as a wall, canvas, screen, paper, or stone, to inform, illustrate, or entertain. In contemporary usage, it includes a pictorial representation of data, as in design and manufacture, in typesetting and the graphic arts, and in educational and recreational software. Images that are generated by a computer are called computer graphics. Examples are photographs, drawings, line art, mathematical graphs, line graphs, charts, diagrams, typography, numbers, symbols, geometric designs, maps, engineering drawings, or other images. Graphics often combine text, illustration, and color. Graphic design may consist of the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0000",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.5140304386615753,
+      "text": "In grammar, a phrase — called an expression in some contexts — is a group of one or more words acting as a grammatical unit. For instance, the English expression \"the very happy squirrel\" is a noun phrase which contains the adjective phrase \"very happy\". Phrases can consist of a single word or a complete sentence. In theoretical linguistics, phrases are often analyzed as units of syntactic structure such as a constituent. There is a difference between the common use of the term phrase and its technical use in linguistics. In common usage, a phrase is usually a group of words with some special idiomatic meaning or other significance, such as \"all rights reserved\", \"economical with the truth\", or \"kick the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes."
+    },
+    {
+      "chunk_id": "wikipedia:Joke#0001",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.4948263972997665,
+      "text": "is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry. It is generally held that jokes benefit from brevity, containing no more detail than is needed to set the scene for the punchline at the end. In the case of riddle jokes or one-liners, the setting is implicitly understood, leaving only the dialogue..."
+    }
+  ]
+}

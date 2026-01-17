@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_04534",
+  "queries": [
+    "\"Happy anniver.holup\" \"happy\" \"anniver\" \"holup\"",
+    "\"anniver\" \"holup\" \"celebrating\" \"oot\""
+  ],
+  "primary_terms": [
+    "Happy anniver.holup",
+    "happy",
+    "anniver",
+    "holup",
+    "celebrating",
+    "oot",
+    "aunt",
+    "uncle",
+    "anniversary",
+    "nan"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Party#0001",
+      "doc_id": "wikipedia:Party",
+      "title": "Party",
+      "url": "https://en.wikipedia.org/?curid=23995",
+      "source_type": "wikipedia",
+      "score": 0.8645194292068481,
+      "text": "admission fee by the host. Large parties in public streets may celebrate events such as Mardi Gras or the signing of a peace treaty ending a long war. Types Balls Banquets Birthday party A birthday party is a celebration of the anniversary of the birth of the person who is being honored. While there is historical precedent for birthday parties for the rich and powerful throughout history, the tradition extended to middle-class Americans around the..."
+    },
+    {
+      "chunk_id": "wikipedia:Morning#0001",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.7663747131824493,
+      "text": "despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\". Significance Cultural implications Morning prayer is a common practice in several religions. The morning period includes specific phases of the Liturgy of the Hours of Christianity. Some languages that use the time of day in greeting have a special greeting for morning..."
+    },
+    {
+      "chunk_id": "wikipedia:Birthday#0000",
+      "doc_id": "wikipedia:Birthday",
+      "title": "Birthday",
+      "url": "https://en.wikipedia.org/?curid=20903181",
+      "source_type": "wikipedia",
+      "score": 0.7266420245170593,
+      "text": "A birthday is the anniversary of the birth of a person or the figurative birth of an institution. Birthdays of people are celebrated in numerous cultures, often with birthday gifts, birthday cards, a birthday party, or a rite of passage. Many religions celebrate the birth of their founders or religious figures with special holidays (e.g. Christmas, Mawlid, Buddha's Birthday, Krishna Janmashtami, and Gurpurb). There is a distinction between birthday and birthdate (also known as date of birth): the former, except for February 29, occurs each year (e.g. January 15), while the latter is the complete date when a person was born (e.g. January 15, 2001). Coming of age In most legal systems, one becomes a legal adult on a particular birthday when they reach the age of majority (usually between 12 and 21), and reaching age-specific milestones confers particular rights and responsibilities."
+    },
+    {
+      "chunk_id": "wikipedia:Enjoy#0000",
+      "doc_id": "wikipedia:Enjoy",
+      "title": "Enjoy",
+      "url": "https://en.wikipedia.org/?curid=20844046",
+      "source_type": "wikipedia",
+      "score": 0.6410577058792114,
+      "text": "Enjoy may refer to: Film and theater Enjoy (2021 film), a British short film Enjoy (2022 film), an Indian Tamil-language romantic comedy Enjoy (play), a 1980 comedy by Alan Bennett Music Enjoy! (Descendents album) or the title song, 1986 Enjoy! (Jeanette album) or the title song, 2000 Enjoy, an album by Bob Sinclar, 2004 Enjoy, an album by Sakurako Ohara, 2018 \"Enjoy\", a song by Björk from Post, 1995 \"Enjoy\", a song by Janet Jackson from 20 Y.O., 2006 Enjoy Records, a 1962–1987 American record label Other uses Enjoy (car sharing), an Italian car-sharing service Enjoy Contemporary Art Space, Wellington, New Zealand Enjoy Technology, a defunct American company founded by Ron Johnson See also All pages with titles beginning with Enjoy All pages with titles containing Enjoy Anand (disambiguation), Sanskrit for happiness Happiness Joy"
+    },
+    {
+      "chunk_id": "wikipedia:Morning#0000",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.5744263291358948,
+      "text": "Morning is either the period from sunrise to noon, or the period from midnight to noon. In the first definition it is preceded by the twilight period of dawn, and there are no exact times for when morning begins (also true of evening and night) because it can vary according to one's latitude, and the hours of daylight at each time of year. However, morning strictly ends at noon, when afternoon starts. Morning precedes afternoon, evening, and night in the sequence of a day. Originally, the term referred to sunrise. Etymology The Modern English words \"morning\" and \"tomorrow\" began in Middle English as morwening, developing into morwen, then morwe, and eventually morrow. English, unlike some other languages, has separate terms for \"morning\" and \"tomorrow\", despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\"."
+    },
+    {
+      "chunk_id": "wikipedia:Party#0000",
+      "doc_id": "wikipedia:Party",
+      "title": "Party",
+      "url": "https://en.wikipedia.org/?curid=23995",
+      "source_type": "wikipedia",
+      "score": 0.5738404542207718,
+      "text": "A party is a gathering of people who have been invited by a host for the purposes of socializing, conversation, recreation, or as part of a festival or other commemoration or celebration of a special occasion. A party will often feature food and beverages, and generally conversation, music, dancing, or other forms of entertainment. Some parties are held in honor of a specific person, day, or event, such as a birthday party, a Super Bowl party, or a St. Patrick's Day party. Parties of this kind are often called celebrations. A party is not necessarily a private occasion. Public parties are sometimes held in parks, restaurants, pubs, beer gardens, nightclubs, or bars, and people attending such parties may be charged an admission fee by the host. Large parties in public streets may celebrate events such as Mardi Gras or the signing of a peace treaty ending a long war."
+    },
+    {
+      "chunk_id": "wikipedia:April#0000",
+      "doc_id": "wikipedia:April",
+      "title": "April",
+      "url": "https://en.wikipedia.org/?curid=1004",
+      "source_type": "wikipedia",
+      "score": 0.5420521199703217,
+      "text": "April is the fourth month of the year in the Gregorian and Julian calendars. Its length is 30 days. April is commonly associated with the season of spring in the Northern Hemisphere, and autumn in the Southern Hemisphere, where it is the seasonal equivalent to October in the Northern Hemisphere and vice versa. History The Romans gave this month the Latin name Aprilis but the derivation of this name is uncertain. The traditional etymology is from the verb aperire, \"to open\", in allusion to its being the season when trees and flowers begin to \"open\", which is supported by comparison with the modern Greek use of άνοιξη (ánixi) (opening) for spring. Since some of the Roman months were named in honor of divinities, and as April was sacred to the goddess Venus, her Veneralia being held on the first day, it has been suggested that Aprilis was originally her month Aphrilis, from her equivalent Greek goddess name Aphrodite (Aphros), or the Etruscan name Apru."
+    },
+    {
+      "chunk_id": "wikipedia:October#0001",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.5297607481479645,
+      "text": "Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa. Symbols October's birthstones are the tourmaline and opal. Its birth flower is the calendula. The zodiac signs are Libra (until October 22) and Scorpio (from October 23 onward). Observances This list does not necessarily imply either official status..."
+    },
+    {
+      "chunk_id": "wikipedia:Nett#0001",
+      "doc_id": "wikipedia:Nett",
+      "title": "Nett",
+      "url": "https://en.wikipedia.org/?curid=9167639",
+      "source_type": "wikipedia",
+      "score": 0.48777323961257935,
+      "text": "Kolonia, which is still claimed by Nett municipality as one of its kousapw. The kousapw are or were further subdivided into peliensapw (farmsteads). Education Pohnpei State Department of Education operates public schools: Nett Elementary School Parem Elementary School Bailey Olter High School (former Pohnpei Island Central School or PICS) in Kolonia serves students from Nett. ��2�..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.4851306080818176,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    }
+  ]
+}

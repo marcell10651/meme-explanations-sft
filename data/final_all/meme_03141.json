@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_03141",
+  "queries": [
+    "\"Captain America\" \"loved\" \"caer\" \"meo\" \"vouvebeentolo\"",
+    "\"meo\" \"vouvebeentolo\" \"met\" \"bnobody\""
+  ],
+  "primary_terms": [
+    "loved",
+    "caer",
+    "meo",
+    "vouvebeentolo",
+    "met",
+    "bnobody",
+    "youre"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Leonardo DiCaprio#0001",
+      "doc_id": "wikipedia:Leonardo DiCaprio",
+      "title": "Leonardo DiCaprio",
+      "url": "https://en.wikipedia.org/?curid=52711",
+      "source_type": "wikipedia",
+      "score": 0.5621658623218536,
+      "text": "What's Eating Gilbert Grape (1993). DiCaprio achieved international stardom with the star-crossed romances Romeo + Juliet (1996) and Titanic (1997). After the latter became the highest-grossing film in the world at the time, he reduced his workload for a few years. In an attempt to shed his image of a romantic hero, DiCaprio sought roles in other genres, including..."
+    },
+    {
+      "chunk_id": "wikipedia:Timon and Pumbaa#0001",
+      "doc_id": "wikipedia:Timon and Pumbaa",
+      "title": "Timon and Pumbaa",
+      "url": "https://en.wikipedia.org/?curid=4449334",
+      "source_type": "wikipedia",
+      "score": 0.5156025886535645,
+      "text": "came to audition for the roles of the hyenas, but when the producers saw how well they worked together, they decided to cast them as Timon and Pumbaa. As with many characters in The Lion King, Pumbaa's name derives from the East African language Swahili. In Swahili, pumbaa (v.) means \"to be foolish, silly, weakminded, careless, negligent.\" Timon is one of the few characters whose name has no meaning in Swahili..."
+    },
+    {
+      "chunk_id": "wikipedia:Passion#0001",
+      "doc_id": "wikipedia:Passion",
+      "title": "Passion",
+      "url": "https://en.wikipedia.org/?curid=501256",
+      "source_type": "wikipedia",
+      "score": 0.49288633465766907,
+      "text": "Dacre Passion, (in Italian, Fosca), 1869 novel by Iginio Ugo Tarchetti Passion Play (play) or Passion, 1981 play by Peter Nichols Passion: An Essay on Personality, 1984 book by Roberto Unger The Passion (novel), 1987 novel by Jeanette Winterson Passion (manga), 2004 Japanese yaoi manga series Passion (novel), 2011 young adult..."
+    },
+    {
+      "chunk_id": "wikipedia:The Lady Doctor#0001",
+      "doc_id": "wikipedia:The Lady Doctor",
+      "title": "The Lady Doctor",
+      "url": "https://en.wikipedia.org/?curid=46194248",
+      "source_type": "wikipedia",
+      "score": 0.49222724735736845,
+      "text": "the case, which will turn out to be a mess. Cast Totò as Michele Spillone aka Mike Vittorio De Sica as Marquis Vittorio de Vitti Abbe Lane as Dr. Brigitte Baker Titina De Filippo as Marquise de Vitti Germán Cobos as Lawyer Otello Bellomo Pierre Mondy as Romeo Agostino Salvietti as Gennaro Tecla Scarano as Ada Barbalunga Darry Cowl as Egisto Rafael Bardem as Elia Vagoni Luigi Pavese as Head of the investigative agency Franco Coop as La Conchiglia's Maitre Giulio Calì as Fool from Villa Valeria Dante Maggio as La Conchiglia's Waiter Teddy Reno as Himself Antonio..."
+    },
+    {
+      "chunk_id": "wikipedia:Simba#0001",
+      "doc_id": "wikipedia:Simba",
+      "title": "Simba",
+      "url": "https://en.wikipedia.org/?curid=983014",
+      "source_type": "wikipedia",
+      "score": 0.4617985635995865,
+      "text": "as an original character, Simba was inspired by Moses and Joseph from the Bible, as well as the title character from William Shakespeare's Hamlet. Despite sharing similarities with the character from the anime television series Kimba the White Lion, Disney has refuted claims that Simba was inspired by Kimba. Mark Henn and Ruben A. Aquino were supervising animators for the cub and adult Simba, respectively, with both animators researching..."
+    },
+    {
+      "chunk_id": "wikipedia:Young Boy#0001",
+      "doc_id": "wikipedia:Young Boy",
+      "title": "Young Boy",
+      "url": "https://en.wikipedia.org/?curid=11418335",
+      "source_type": "wikipedia",
+      "score": 0.45751963555812836,
+      "text": "\"Looking for You\" and \"Broomstick\". In the United States, Capitol Records chose to issue \"The World Tonight\" as the album's lead single instead. Track listings UK CD1 and Australian CD single \"Young Boy\" (with Steve Miller) – 3:54 \"Looking for You\" (with Ringo Starr and Jeff Lynne) – 4:38 \"Oobu Joobu\" (Part 1) – 9:54 UK CD2 \"Young Boy\" (with Steve Miller) – 3:54 \"Broomstick\" (with Steve Miller) – 5:09 \"Oobu Joobu\" (Part 2) – 10:19 Japanese CD single \"Young Boy\" (with Steve Miller) – 3:55 \"Looking for You\" (with Ringo Starr and Jeff Lynne) – 4:38 \"Oobu Joobu\" The \"Oobu Joobu\" tracks are a series of home demos, interviews, and unreleased songs..."
+    },
+    {
+      "chunk_id": "wikipedia:Fists in the Pocket#0001",
+      "doc_id": "wikipedia:Fists in the Pocket",
+      "title": "Fists in the Pocket",
+      "url": "https://en.wikipedia.org/?curid=3654682",
+      "source_type": "wikipedia",
+      "score": 0.43268662691116333,
+      "text": "Alessandro shares an incestuous attraction, is mentally disturbed. Augusto, the eldest brother and apparently sane, is the family's only provider. When Augusto's fiancée Lucia receives an anonymous letter whose addressor pretends to be pregnant by him, he immediately realizes that it was written by Giulia. Alessandro, who is disgusted with his family, decides that Augusto would be free to live..."
+    },
+    {
+      "chunk_id": "wikipedia:The Three Faces#0000",
+      "doc_id": "wikipedia:The Three Faces",
+      "title": "The Three Faces",
+      "url": "https://en.wikipedia.org/?curid=23666731",
+      "source_type": "wikipedia",
+      "score": 0.42016860842704773,
+      "text": "The Three Faces (Italian: I tre volti) is a 1965 Italian anthology film consisting of three segments directed by Michelangelo Antonioni, Mauro Bolognini, and Franco Indovina, starring Soraya either as herself or in fictitious roles. Cast \"Il provino\" Soraya as Herself Ivano Davoli as Davoli - Journalist Alfredo De Laurentiis as Himself Dino De Laurentiis as Himself Piero Tosi as Costumista Giorgio Sartarelli as Fotografo Ralph Serpe as Produttore \"Gli amanti celebri\" Soraya as Linda Richard Harris as Robert Jean Rougeul as Speaker Esmeralda Ruspoli as Edda José Luis de Vilallonga as Rodolph \"Latin Lover\" Soraya as Mrs Melville Alberto Sordi as Armando Tucci Nando Angelini as Fernando Angeli Goffredo Alessandrini as Direttore dell'agenzia Alberto Giubilo as 2nd journalist in Fiumicino Renato Tagliani Background According to Antonioni, producer De Laurentiis had imposed severe cuts on his segment, which in the theatrically released version served as a \"preface\" (Italian \"prefazione\") to"
+    },
+    {
+      "chunk_id": "wikipedia:Corona#0001",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.4069083482027054,
+      "text": "into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities Corona (fictional world), in R. A. Salvatore's DemonWars novels Corona, a character in the game Doraemon: Nobita to Mittsu no Seireiseki Corona, a character in the Spider..."
+    },
+    {
+      "chunk_id": "wikipedia:Rive#0000",
+      "doc_id": "wikipedia:Rive",
+      "title": "Rive",
+      "url": "https://en.wikipedia.org/?curid=6562079",
+      "source_type": "wikipedia",
+      "score": 0.40614520013332367,
+      "text": "Rive or La Rive may refer to: Places Rive, Piedmont, Italy Rive d'Arcano, Friuli-Venezia Giulia, Italy Rive Droite, Paris, France Rive Gauche, Paris, France People De la Rive, a surname and list of people Joey Rive (July 8, 1963) American tennis player Julie Rivé-King (1854-1937), American musician Lyndon Rive, cofounder of Solar City and cousin of Elon Musk Richard Rive (1931-1989), South African academic and writer Robert Rive, 19th century photographer Other La Rive, a restaurant in Amsterdam, Netherlands La Rive Condominiums, Minneapolis, Minnesota, US Rive (video game), a 2016 platforming shoot-em-up video game Wood splitting, or riving See also Longue-Rive, Quebec, Canada Belle Rive (disambiguation) Rives (disambiguation) Rivière (disambiguation) Ríos (disambiguation) Rio (disambiguation) Rivers (disambiguation) River (disambiguation)"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Captain America and the face is distorted from the eye up.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Captain America",
+          "the face",
+          "the eye"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that even though you may have been told you're not funny, there is always at least one person who will find you funny",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "at least one person"
+        ]
+      },
+      "title": {
+        "text": "you are loved",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "loved"
+        ]
+      },
+      "text": {
+        "text": "MeO O VOUVEBEENTOLO MET BNOBODY|THINKS YOURE qt. Ss ~ -~- My ae : caer By",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "caer",
+          "meo",
+          "vouvebeentolo",
+          "met",
+          "bnobody",
+          "youre"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "loved",
+      "caer",
+      "meo",
+      "vouvebeentolo",
+      "met",
+      "bnobody",
+      "youre"
+    ],
+    "secondary_terms": [
+      "Captain America",
+      "the face",
+      "the eye",
+      "at least one person"
+    ],
+    "queries": [
+      "\"Captain America\" \"loved\" \"caer\" \"meo\" \"vouvebeentolo\"",
+      "\"meo\" \"vouvebeentolo\" \"met\" \"bnobody\""
+    ]
+  },
+  "source_jsonl_id": null
+}

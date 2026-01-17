@@ -1,0 +1,206 @@
+{
+  "meme_id": "meme_01659",
+  "queries": [
+    "\"Gimme coffee\" \"yes\" \"good\" \"night\"",
+    "\"good\" \"night\" \"gimme\" \"coffee\""
+  ],
+  "primary_terms": [
+    "Gimme coffee",
+    "yes",
+    "good",
+    "night",
+    "gimme",
+    "coffee",
+    "please",
+    "time",
+    "did",
+    "bed",
+    "last",
+    "early",
+    "ern",
+    "ria"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Bedtime#0001",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 1.1473986506462097,
+      "text": "sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep. Synonyms In boarding schools and on trips or holidays that involve young people, the equivalent of bedtime is lights out or lights-out - this term is also used in prisons, hospitals, in the military, and in sleep research..."
+    },
+    {
+      "chunk_id": "wikipedia:Good#0000",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.8453290939331055,
+      "text": "In most contexts, the concept of good denotes the conduct that should be preferred when posed with a choice between possible actions. Good is generally considered to be the opposite of evil. The specific meaning and etymology of the term and its associated translations among ancient and contemporary languages show substantial variation in its inflection and meaning, depending on circumstances of place and history, or of philosophical or religious context. History of Western ideas Every language has a word expressing good in the sense of \"having the right or desirable quality\" (ἀρετή) and bad in the sense \"undesirable\". A sense of moral judgment and a distinction \"right and wrong, good and bad\" are cultural universals. Plato and Aristotle Although the history of the origin of the use of the concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect."
+    },
+    {
+      "chunk_id": "wikipedia:Rock Your Baby#0001",
+      "doc_id": "wikipedia:Rock Your Baby",
+      "title": "Rock Your Baby",
+      "url": "https://en.wikipedia.org/?curid=7758996",
+      "source_type": "wikipedia",
+      "score": 0.7700024127960206,
+      "text": "and drums, and their fellow Sunshine Band member Jerome Smith on electric guitar. The song became one of the first pop hits to use a drum machine. The track was not originally intended for McCrae, but he happened to be in the studio at the time and added his distinct falsetto vocals. Music critic Robert Christgau has described the result as \"irresistibly Memphis-cum-disco-with-a-hook.\" Legacy \"Rock Your Baby\" influenced John Lennon's \"Whatever Gets You thru the Night..."
+    },
+    {
+      "chunk_id": "wikipedia:Morning#0000",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.7476132988929749,
+      "text": "Morning is either the period from sunrise to noon, or the period from midnight to noon. In the first definition it is preceded by the twilight period of dawn, and there are no exact times for when morning begins (also true of evening and night) because it can vary according to one's latitude, and the hours of daylight at each time of year. However, morning strictly ends at noon, when afternoon starts. Morning precedes afternoon, evening, and night in the sequence of a day. Originally, the term referred to sunrise. Etymology The Modern English words \"morning\" and \"tomorrow\" began in Middle English as morwening, developing into morwen, then morwe, and eventually morrow. English, unlike some other languages, has separate terms for \"morning\" and \"tomorrow\", despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\"."
+    },
+    {
+      "chunk_id": "wikipedia:Sugar on My Tongue#0000",
+      "doc_id": "wikipedia:Sugar on My Tongue",
+      "title": "Sugar on My Tongue",
+      "url": "https://en.wikipedia.org/?curid=80490800",
+      "source_type": "wikipedia",
+      "score": 0.6974182397127151,
+      "text": "\"Sugar on My Tongue\" is a song by American rapper Tyler, the Creator. It was sent to US rhythmic radio on August 19, 2025, as the second single from his ninth studio album, Don't Tap the Glass (2025). The track is a hip-hop and electro song, and was written and produced by Tyler himself. Upon its release, the song was received positively by music critics and became viral on social media. The song was also successful commercially, charting at number 41 on the Billboard Hot 100. A music video was released on August 12, 2025, and an alternative intro variant was released on December 25, 2025. Composition and lyrics \"Sugar on My Tongue\" is an electro-influenced song that incorporates Italo disco, post-disco and funk elements. The production consists of synthesizers drums and 808s. Tyler, the Creator adopts the \"run-on flow\" that is widely used in modern hip-hop and raps about oral sex. Critical reception The song received generally positive reviews."
+    },
+    {
+      "chunk_id": "wikipedia:Nice#0001",
+      "doc_id": "wikipedia:Nice",
+      "title": "Nice",
+      "url": "https://en.wikipedia.org/?curid=47088",
+      "source_type": "wikipedia",
+      "score": 0.6913510829210281,
+      "text": "Belle (Nissa La Bella in Niçard), meaning 'Nice the Beautiful', which is also the title of the unofficial anthem of Nice, written by Menica Rondelly. The Nice agglomeration contains Terra Amata, an archaeological site which displays evidence of early use of fire 380,000 years ago. Around 350 BC, Greeks of Marseille founded a permanent settlement and called it Nikaia, after Nike, the goddess of victory. The town has changed hands many times. Its strategic..."
+    },
+    {
+      "chunk_id": "wikipedia:Restaurant#0000",
+      "doc_id": "wikipedia:Restaurant",
+      "title": "Restaurant",
+      "url": "https://en.wikipedia.org/?curid=26437",
+      "source_type": "wikipedia",
+      "score": 0.6696254134178161,
+      "text": "A restaurant is a business that prepares and serves food and beverages to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, featuring a wide variety of cuisines and service models — ranging from inexpensive fast-food restaurants and cafeterias to mid-priced family restaurants to high-priced luxury establishments. Etymology The word derives from the early 19th century, taken from the French word restaurer 'provide meat for', literally 'restore to a former state' and, being the present participle of the verb, the term restaurant may have been used in 1507 as a \"restorative beverage\", and in correspondence in 1521 to mean 'that which restores the strength, a fortifying food or remedy'. History A public eating-establishment similar to a restaurant is mentioned in a 512 BC record from Ancient Egypt."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.642988321185112,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0000",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.6427732169628143,
+      "text": "A drink or beverage is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, juice, smoothies and soft drinks. Traditionally warm beverages encompass coffee, tea, and hot chocolate. Caffeinated drinks that contain the stimulant caffeine, have been consumed for centuries. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the psychoactive substance ethanol, have been part of human culture for more than 8,000 years. Non-alcoholic drinks typically refer to beverages that are traditionally alcoholic—such as beer, wine, or cocktails—but are produced with a very low alcohol by volume content. This category includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines."
+    },
+    {
+      "chunk_id": "wikipedia:Morning#0001",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 0.6354590117931366,
+      "text": "despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\". Significance Cultural implications Morning prayer is a common practice in several religions. The morning period includes specific phases of the Liturgy of the Hours of Christianity. Some languages that use the time of day in greeting have a special greeting for morning..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a scary looking monster",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a scary looking monster"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is lying about how early they went to bed last night.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "bed"
+        ]
+      },
+      "title": {
+        "text": "Yes it was a good night. Gimme coffee, please..",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Gimme coffee",
+          "yes",
+          "good",
+          "night",
+          "gimme",
+          "coffee",
+          "please"
+        ]
+      },
+      "text": {
+        "text": "“what time did you go bed last night\" Me : early, why a / 7 ern ‘NY “i a ria aN . , ~~ c \\, aN \\ \\Y eA ee, Wn oe oN \\ i? ~~ OTAARRROA",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "time",
+          "did",
+          "bed",
+          "last",
+          "night",
+          "early",
+          "ern",
+          "ria"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Gimme coffee",
+      "yes",
+      "good",
+      "night",
+      "gimme",
+      "coffee",
+      "please",
+      "time",
+      "did",
+      "bed",
+      "last",
+      "early",
+      "ern",
+      "ria"
+    ],
+    "secondary_terms": [
+      "a scary looking monster",
+      "bed"
+    ],
+    "queries": [
+      "\"Gimme coffee\" \"yes\" \"good\" \"night\"",
+      "\"good\" \"night\" \"gimme\" \"coffee\""
+    ]
+  },
+  "source_jsonl_id": null
+}

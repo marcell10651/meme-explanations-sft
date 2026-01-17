@@ -1,0 +1,194 @@
+{
+  "meme_id": "meme_02920",
+  "queries": [
+    "\"an triangle shaped wheels\" \"the round wheel\" \"Stare\" \"Person\"",
+    "\"Stare\" \"Person\" \"other people\" \"their wagons\""
+  ],
+  "primary_terms": [
+    "Stare",
+    "judgement",
+    "right",
+    "there",
+    "Person",
+    "the round wheel",
+    "other people",
+    "an triangle shaped wheels",
+    "their wagons"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.9523606419563293,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Staring#0000",
+      "doc_id": "wikipedia:Staring",
+      "title": "Staring",
+      "url": "https://en.wikipedia.org/?curid=4409451",
+      "source_type": "wikipedia",
+      "score": 0.8943731844425201,
+      "text": "Staring is a prolonged gaze or fixed look. In staring, one subject or person is the continual focus of visual interest, for a long amount of time. The meaning, purpose, and rudeness, of staring varies widely between cultures. Staring can be interpreted as being either hostile like disapproval of another's behavior, or the result of intense concentration, interest or affection. Staring behavior can be considered as a form of aggression like when it is an invasion of an individual's privacy in certain contexts, or as a nonverbal cue to convey feelings of attraction in a social setting. The resultant behavior or action defines whether it is aggressive in nature (e.g. leering that results in street harassment), passive or active expression of attraction, etc. However, to some extent staring often occurs accidentally, and often a person would be simply staring into a space for awareness, or could be lost in thought (sometimes known as daydreaming), stupefied, or be unable to see."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.6015797317028045,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Some People#0000",
+      "doc_id": "wikipedia:Some People",
+      "title": "Some People",
+      "url": "https://en.wikipedia.org/?curid=38582232",
+      "source_type": "wikipedia",
+      "score": 0.5303011834621429,
+      "text": "Some People may refer to: Some People (film), 1962 Some People, a 1927 novel by Harold Nicolson \"Some People\", song by LeAnn Rimes Music Albums Some People (Jon English album), 1983 Some People (Belouis Some album), 1985 Songs \"Some People\" (Belouis Some song), 1985 \"Some People\" (Cliff Richard song), 1987 \"Some People\" (LeAnn Rimes song), 2006 \"Some People\" (E. G. Daily song), 1989 \"Some People\", by Janis Ian from her 1978 self-titled album \"Some People\", by Fra Lippo Lippi from the 1987 album Light and Shade \"Some People (Ton désir)\", by Ocean Drive, 2009 \"Some People\", by James Reyne from the 1991 album Electric Digger Dandy \"Some People\", from the 1959 musical Gypsy \"Some People\", by Anne-Marie from the deluxe edition of the 2018 album Speak Your Mind \"Some People\", by Goldfrapp from the 2008 album Seventh Tree"
+    },
+    {
+      "chunk_id": "wikipedia:Rover#0001",
+      "doc_id": "wikipedia:Rover",
+      "title": "Rover",
+      "url": "https://en.wikipedia.org/?curid=1747355",
+      "source_type": "wikipedia",
+      "score": 0.49771977961063385,
+      "text": "University of California Los Angeles \"The Rover\" (Led Zeppelin song), a song by Led Zeppelin on their 1975 double album Physical Graffiti \"The Irish Rover\", an Irish folk song about a magnificent sailing ship that reaches an unfortunate end The Wild Rover, an English folk song about a rover Rover (EP), a 2023 extended..."
+    },
+    {
+      "chunk_id": "wikipedia:Drawing#0001",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.49353478848934174,
+      "text": "and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas. The wide availability of drawing instruments makes drawing one of the most common artistic activities. In addition to its more artistic forms, drawing is frequently used in commercial illustration, animation, architecture,..."
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0001",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.48665074110031126,
+      "text": "the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes. In theories of syntax, a phrase is any group of words, or sometimes a single word, which plays a particular role within the syntactic structure of a sentence. It does not have to have any special meaning or significance, or even exist anywhere outside of the sentence being analyzed, but it must function there as a complete grammatical unit..."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0000",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.4816390573978424,
+      "text": "To look is to use sight to perceive an object. Look or The Look may refer to: Businesses and products Look (modeling agency), an Israeli modeling agency Look (American magazine), a defunct general-interest magazine Look (the UK magazine), a defunct fashion and celebrity magazine Look (cigarette), a Danish brand Look!, a candy bar made by Annabelle Candy Company Look (company), a French bicycle components and frames Film and television The Look, a 2003 American film starring Teresa Hill Look (2007 film), an American drama by Adam Rifkin Look: The Series, an American television drama series, also by Adam Rifkin, related to the film Look (2009 film), an American avant-garde short film directed by Ryan Pickett \"The Look\", an episode of American television sitcom Home Improvement Music Look (Beth Nielsen Chapman album) Look (EP), by Apink (2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by"
+    },
+    {
+      "chunk_id": "wikipedia:Group#0000",
+      "doc_id": "wikipedia:Group",
+      "title": "Group",
+      "url": "https://en.wikipedia.org/?curid=25874441",
+      "source_type": "wikipedia",
+      "score": 0.45615456700325013,
+      "text": "A group is a number of persons or things that are located, gathered, or classed together. Groups of people Cultural group, a group whose members share the same cultural identity Ethnic group, a group whose members share the same ethnic identity Religious group (disambiguation), a group whose members share the same religious identity Social group, a group whose members share the same social identity Tribal group, a group whose members share the same tribal identity Organization, an entity that has a collective goal and is linked to an external environment Peer group, an entity of three or more people with similar age, ability, experience, and interest Class (education), a group of people which attends a specific course or lesson at an educational institution Social science In-group and out-group Primary, secondary, and reference groups Social group Collectives Philosophy and religion Khandha, a Buddhist concept of five material and mental factors that take part in the rise of craving"
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0000",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.4527390718460083,
+      "text": "In grammar, a phrase — called an expression in some contexts — is a group of one or more words acting as a grammatical unit. For instance, the English expression \"the very happy squirrel\" is a noun phrase which contains the adjective phrase \"very happy\". Phrases can consist of a single word or a complete sentence. In theoretical linguistics, phrases are often analyzed as units of syntactic structure such as a constituent. There is a difference between the common use of the term phrase and its technical use in linguistics. In common usage, a phrase is usually a group of words with some special idiomatic meaning or other significance, such as \"all rights reserved\", \"economical with the truth\", or \"kick the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Paris Hilton reading a book wearing a grey top",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Paris Hilton"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that the person who discovered the wheel is unimpressed with others who haven't adopted it yet.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the person",
+          "the wheel",
+          "others"
+        ]
+      },
+      "title": {
+        "text": "Stare of judgement right there",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Stare",
+          "judgement",
+          "right",
+          "there"
+        ]
+      },
+      "text": {
+        "text": "Person who discovered the round wheel watching other people use square an triangle shaped wheels on their wagons. ) ° . ‘N ee i",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Person",
+          "the round wheel",
+          "other people",
+          "an triangle shaped wheels",
+          "their wagons"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Stare",
+      "judgement",
+      "right",
+      "there",
+      "Person",
+      "the round wheel",
+      "other people",
+      "an triangle shaped wheels",
+      "their wagons"
+    ],
+    "secondary_terms": [
+      "Paris Hilton",
+      "the person",
+      "the wheel",
+      "others"
+    ],
+    "queries": [
+      "\"an triangle shaped wheels\" \"the round wheel\" \"Stare\" \"Person\"",
+      "\"Stare\" \"Person\" \"other people\" \"their wagons\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_01220",
+  "queries": [
+    "\"Moomin\" \"grew\" \"moustache\" \"obviously\"",
+    "\"moustache\" \"obviously\" \"don\" \"doing\""
+  ],
+  "primary_terms": [
+    "grew",
+    "moustache",
+    "obviously",
+    "Moomin",
+    "don",
+    "doing",
+    "during",
+    "acs"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Mask#0001",
+      "doc_id": "wikipedia:Mask",
+      "title": "Mask",
+      "url": "https://en.wikipedia.org/?curid=247083",
+      "source_type": "wikipedia",
+      "score": 0.579747349023819,
+      "text": "\"mask, specter, nightmare\". This word is of uncertain origin, perhaps from Arabic maskharah مَسْخَرَۃٌ \"buffoon\", from the verb sakhira \"to ridicule\". However, it may also come from Provençal mascarar \"to black (the face)\" (or the related Catalan mascarar, Old French mascurer). This in turn is of uncertain origin – perhaps from a Germanic source akin to English \"mesh\", but perhaps from mask- \"black\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:Face#0001",
+      "doc_id": "wikipedia:Face",
+      "title": "Face",
+      "url": "https://en.wikipedia.org/?curid=53234",
+      "source_type": "wikipedia",
+      "score": 0.5569384396076202,
+      "text": "shape, nostrils, and nasal septum The cheeks, covering the maxilla and mandible (or jaw), the extremity of which is the chin The mouth, with the upper lip divided by the philtrum, sometimes revealing the teeth Facial appearance is vital for human recognition and communication. Facial muscles in humans allow expression of emotions. The face..."
+    },
+    {
+      "chunk_id": "wikipedia:Tongue#0001",
+      "doc_id": "wikipedia:Tongue",
+      "title": "Tongue",
+      "url": "https://en.wikipedia.org/?curid=55999",
+      "source_type": "wikipedia",
+      "score": 0.5263746231794357,
+      "text": "the tongue's surface. There are two groups of glossal muscles. The four intrinsic muscles alter the shape of the tongue and are not attached to bone. The four paired extrinsic muscles change the position of the tongue and are anchored to bone. Etymology The word tongue derives from the Old English tunge, which comes from Proto-Germanic *tungōn. It has cognates in other Germanic..."
+    },
+    {
+      "chunk_id": "wikipedia:Mouth#0000",
+      "doc_id": "wikipedia:Mouth",
+      "title": "Mouth",
+      "url": "https://en.wikipedia.org/?curid=9293603",
+      "source_type": "wikipedia",
+      "score": 0.5051209032535553,
+      "text": "A mouth also referred to as the oral is the body orifice through which many animals ingest food and vocalize. The body cavity immediately behind the mouth opening, known as the oral cavity (or cavum oris in Latin), is also the first part of the alimentary canal, which leads to the pharynx and the gullet. In tetrapod vertebrates, the mouth is bounded on the outside by the lips and cheeks — thus the oral cavity is also known as the buccal cavity (from Latin bucca, meaning \"cheek\") — and contains the tongue on the inside. Except for some groups like birds and lissamphibians, vertebrates usually have teeth in their mouths, although some fish species have pharyngeal teeth instead of oral teeth. Most bilaterian phyla, including arthropods, molluscs and chordates, have a two-opening gut tube with a mouth at one end and an anus at the other. Which end forms first in ontogeny is a criterion used to classify bilaterian animals into protostomes and deuterostomes."
+    },
+    {
+      "chunk_id": "wikipedia:Broccoli haircut#0001",
+      "doc_id": "wikipedia:Broccoli haircut",
+      "title": "Broccoli haircut",
+      "url": "https://en.wikipedia.org/?curid=77594266",
+      "source_type": "wikipedia",
+      "score": 0.5026536881923676,
+      "text": "among members of Generation Z, as well as \"bird's nest hair\", \"bussin haircut\" or \"alpaca hair\". It has been described as a variation on a bowl cut. History The precursor to the modern broccoli haircut first appeared in the early 1980s among fans of new wave groups such as Soft Cell, Talking Heads, A Flock of Seagulls, Duran Duran, The Jesus and Mary Chain, and Wham! It was a grown-out, unstyled version of the quiff popular in the early 1980s that was frequently permed or made to look..."
+    },
+    {
+      "chunk_id": "wikipedia:Different Times, Different Places#0001",
+      "doc_id": "wikipedia:Different Times, Different Places",
+      "title": "Different Times, Different Places",
+      "url": "https://en.wikipedia.org/?curid=74440146",
+      "source_type": "wikipedia",
+      "score": 0.5015366971492767,
+      "text": "Ogun in 2016. Both volumes showcase Miller's compositions. Reception Mike Hobart of the Financial Times noted the \"pulsating riffs, moments of calm... horns playing with passion and technical flair,\" and stated: \"The powerful and firm-fingered Miller developed a telepathic relationship with drummer and fellow exile Louis Moholo Moholo, and they switch mood in the blink of an eye.\" A reviewer for The Free Jazz Collective wrote: \"it's difficult not to be astounded by..."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.4953429400920868,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Mask#0000",
+      "doc_id": "wikipedia:Mask",
+      "title": "Mask",
+      "url": "https://en.wikipedia.org/?curid=247083",
+      "source_type": "wikipedia",
+      "score": 0.4940848797559738,
+      "text": "A mask is an object normally worn on the face, typically for protection, disguise, performance, or entertainment, and often employed for rituals and rites. Masks have been used since antiquity for both ceremonial and practical purposes, as well as in the performing arts and for entertainment. They are usually worn on the face, although they may also be positioned for effect elsewhere on the wearer's body. In art history, especially sculpture, \"mask\" is the term for a face without a body that is not modelled in the round (which would make it a \"head\"), but for example appears in low relief. Etymology The word \"mask\" appeared in English in the 1530s, from Middle French masque \"covering to hide or guard the face\", derived in turn from Italian maschera, from Medieval Latin masca \"mask, specter, nightmare\". This word is of uncertain origin, perhaps from Arabic maskharah مَسْخَرَۃٌ \"buffoon\", from the verb sakhira \"to ridicule\"."
+    },
+    {
+      "chunk_id": "wikipedia:Tony#0000",
+      "doc_id": "wikipedia:Tony",
+      "title": "Tony",
+      "url": "https://en.wikipedia.org/?curid=264960",
+      "source_type": "wikipedia",
+      "score": 0.46953004598617554,
+      "text": "Tony may refer to: People and fictional characters Tony the Tiger, cartoon mascot for Frosted Flakes cereal Tony (given name), including a list of people and fictional characters Gregory Tony (born 1978), American law enforcement officer Motu Tony (born 1981), New Zealand international rugby league footballer Tony (footballer, born 1983), full name Tony Heleno da Costa Pinho, Brazilian football defensive midfielder Tony (footballer, born 1986), full name Antônio de Moura Carvalho, Brazilian football attacking midfielder Tony (footballer, born 1989), full name Tony Ewerton Ramos da Silva, Brazilian football right-back Film, theater and television Tony Awards, a Broadway theatre honor Tony (1982 film), an Indian Kannada-language film Tony (2009 film), a British horror film directed by Gerard Johnson Tony (2013 film), an Indian Kannada-language thriller film \"Tony\" (Skins series 1), the first episode of British comedy-drama Skins \"Tony\" (Skins series 2), episode six of the second series"
+    },
+    {
+      "chunk_id": "wikipedia:Never#0001",
+      "doc_id": "wikipedia:Never",
+      "title": "Never",
+      "url": "https://en.wikipedia.org/?curid=1433241",
+      "source_type": "wikipedia",
+      "score": 0.455371156334877,
+      "text": "-sama and Evil Neuro, 2025 \"Never\", by Orbital from Wonky, 2012 \"Never\", by Ozzy Osbourne from The Ultimate Sin, 1986 \"Never\", by Paco from This Is Where We Live, 2004 \"Never\", by Sevendust from Next, 2005 \"Never (These Days)\", by Z-Ro, 2010 Places Never, Amur Oblast, a rural locality in Russia Never, Bryansk Oblast, a rural locality..."
+    }
+  ]
+}

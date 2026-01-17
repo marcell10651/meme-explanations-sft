@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_05970",
+  "queries": [
+    "\"discord\" \"Ill\" \"the server\" \"the ping\"",
+    "\"the server\" \"the ping\" \"one ping\" \"going\""
+  ],
+  "primary_terms": [
+    "the server",
+    "Ill",
+    "the ping",
+    "one ping",
+    "going",
+    "discord",
+    "server",
+    "never",
+    "talk",
+    "check",
+    "one",
+    "ping"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Internet#0000",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.6469385981559753,
+      "text": "The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies. The Internet carries a vast range of information services and resources, such as the interlinked hypertext documents and applications of the World Wide Web (WWW), electronic mail, discussion groups, internet telephony, streaming media and file sharing. Most traditional communication media, including telephone, radio, television, paper mail, newspapers, and print publishing, have been transformed by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites."
+    },
+    {
+      "chunk_id": "wikipedia:Squirrel#0001",
+      "doc_id": "wikipedia:Squirrel",
+      "title": "Squirrel",
+      "url": "https://en.wikipedia.org/?curid=28492",
+      "source_type": "wikipedia",
+      "score": 0.5098330944776535,
+      "text": "σκιᾱ́ ('shade') and οὐρᾱ́ ('tail')), referring to the long bushy tail which many of its members have. Sciurus is also the name of one of its genera. The Old English word for the squirrel, ācweorna, survived into Middle English as aquerne before being replaced. The Old English word is of Common Germanic origin, cognates of which are still used in other Germanic languages, including the German Eichhörnchen (diminutive of Eichhorn..."
+    },
+    {
+      "chunk_id": "wikipedia:Rock Your Baby#0001",
+      "doc_id": "wikipedia:Rock Your Baby",
+      "title": "Rock Your Baby",
+      "url": "https://en.wikipedia.org/?curid=7758996",
+      "source_type": "wikipedia",
+      "score": 0.452742001414299,
+      "text": "and drums, and their fellow Sunshine Band member Jerome Smith on electric guitar. The song became one of the first pop hits to use a drum machine. The track was not originally intended for McCrae, but he happened to be in the studio at the time and added his distinct falsetto vocals. Music critic Robert Christgau has described the result as \"irresistibly Memphis-cum-disco-with-a-hook.\" Legacy \"Rock Your Baby\" influenced John Lennon's \"Whatever Gets You thru the Night..."
+    },
+    {
+      "chunk_id": "wikipedia:Lava#0001",
+      "doc_id": "wikipedia:Lava",
+      "title": "Lava",
+      "url": "https://en.wikipedia.org/?curid=21438242",
+      "source_type": "wikipedia",
+      "score": 0.43471369743347166,
+      "text": "molten lava is about that of ketchup, roughly 10,000 to 100,000 times that of water (the latter two substances measured at 25 °C (77 °F) and 1 atm). Even so, lava can flow great distances before cooling causes it to solidify, because lava exposed to air quickly develops a solid crust that insulates the remaining liquid lava, helping to keep it hot and inviscid enough to continue flowing. Etymology The word lava comes..."
+    },
+    {
+      "chunk_id": "wikipedia:Winnie#0001",
+      "doc_id": "wikipedia:Winnie",
+      "title": "Winnie",
+      "url": "https://en.wikipedia.org/?curid=1601312",
+      "source_type": "wikipedia",
+      "score": 0.42188206911087034,
+      "text": "unincorporated community Other uses Tropical Storm Winnie (disambiguation) Winnie (hard disk), a colloquial term for hard disk used in the past Winnie (website), an application that helps parents go places with their children Winnie, one of a pair of British cross-Channel guns in the Second World War near Dover, the other being named..."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0001",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.4217465281486511,
+      "text": "Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing. While the game was initially released in 2018 to little mainstream attention, it received a massive rise in popularity in 2020 due to many Twitch streamers and YouTubers playing it during the COVID-19 pandemic..."
+    },
+    {
+      "chunk_id": "wikipedia:Rock Your Baby#0000",
+      "doc_id": "wikipedia:Rock Your Baby",
+      "title": "Rock Your Baby",
+      "url": "https://en.wikipedia.org/?curid=7758996",
+      "source_type": "wikipedia",
+      "score": 0.4136899530887604,
+      "text": "\"Rock Your Baby\" is the debut single by American singer George McCrae. Written and produced by Harry Wayne Casey and Richard Finch of KC and the Sunshine Band, \"Rock Your Baby\" became an early landmark recording of disco. It was the only international hit for McCrae. The song spent two weeks at number one on the US Billboard Hot 100 in July 1974, and three weeks at number one on the UK Singles Chart that same month. The song also topped the Billboard R&B chart. The single has sold over 11 million copies, making it one of fewer than forty singles to have sold 10 million physical copies worldwide. Composition The backing track was recorded in 45 minutes as a demo, with Casey on keyboards, Finch on bass guitar and drums, and their fellow Sunshine Band member Jerome Smith on electric guitar. The song became one of the first pop hits to use a drum machine."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0000",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.38149131536483766,
+      "text": "Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth. The game allows for cross-platform play; it was released on iOS and Android devices in June 2018 and on Windows later that year in November. It was ported to the Nintendo Switch in December 2020 and on the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in December 2021. A virtual reality adaptation, Among Us VR, was released on November 10, 2022. Among Us takes place in space-themed settings where players are colorful, armless cartoon astronauts. Each player takes on one of two roles: most are Crewmates, but a small number are Impostors. Crewmates work to complete assigned tasks in the game while identifying and voting out suspected Impostors (who appear identical to Crewmates) using social deduction, while Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.37429035902023317,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:Time travel#0000",
+      "doc_id": "wikipedia:Time travel",
+      "title": "Time travel",
+      "url": "https://en.wikipedia.org/?curid=31591",
+      "source_type": "wikipedia",
+      "score": 0.36555389761924745,
+      "text": "Time travel is the hypothetical activity of traveling into the past or future. Time travel is a concept in philosophy, space, time and fiction, particularly science fiction. In fiction, time travel is typically achieved through the use of a device known as a time machine. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine. It is uncertain whether time travel to the past would be physically possible. Such travel, if at all feasible, may give rise to questions of causality. Forward time travel, outside the usual sense of the perception of time, is an extensively observed phenomenon and is well understood within the framework of special relativity and general relativity. However, making one body advance or delay more than a few milliseconds compared to another body is not feasible with current technology. As for backward time travel, it is possible to find solutions in general relativity that allow for it, such as a rotating black hole."
+    }
+  ]
+}

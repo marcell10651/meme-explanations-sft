@@ -1,0 +1,105 @@
+{
+  "meme_id": "meme_05068",
+  "queries": [
+    "\"Elton John\" \"makin\" \"public\" \"eases\"",
+    "\"Elton John\" \"public cringe videos\" \"TikTokkers\" \"makin\"",
+    "\"TikTokkers\" \"makin\" \"public\" \"eases\""
+  ],
+  "primary_terms": [
+    "makin",
+    "public",
+    "eases"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Gangnam Style#0000",
+      "doc_id": "wikipedia:Gangnam Style",
+      "title": "Gangnam Style",
+      "url": "https://en.wikipedia.org/?curid=36584679",
+      "source_type": "wikipedia",
+      "score": 0.6614715158939362,
+      "text": "\"Gangnam Style\" (Korean: 강남스타일; pronounced [kaŋ.nam sɯ.tʰa.il]) is a K-pop song by South Korean singer Psy, released on July 15, 2012, by YG Entertainment as the lead single of his sixth studio album, Psy 6 (Six Rules), Part 1. The term \"Gangnam Style\" is a neologism that refers to the nouveau riche lifestyles associated with the Gangnam region of Seoul. \"Gangnam Style\" was released on to Psy's YouTube channel and debuted at number one on South Korea's Gaon Chart, receiving generally positive reviews, with praise for its catchy beat and Psy's amusing dancing during live performances and in various locations around the world in its music video. The song and its music video went viral in August 2012 and have influenced popular culture worldwide. In the United States, \"Gangnam Style\" peaked at number two on the Billboard Hot 100, which at the time, was the highest charting song by a South Korean artist."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.6340748727321625,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Friendly#0000",
+      "doc_id": "wikipedia:Friendly",
+      "title": "Friendly",
+      "url": "https://en.wikipedia.org/?curid=466246",
+      "source_type": "wikipedia",
+      "score": 0.5411107748746872,
+      "text": "Friendly may refer to: Places Friendly, West Yorkshire, England, a settlement Friendly, Maryland, United States, an unincorporated community and census-designated place Friendly, Eugene, Oregon, United States, a neighborhood Friendly, West Virginia, United States, a town Friendly Islands or Tonga People Friendly (surname) Friendly (musician), Australian-born musician Andrew Kornweibel (fl. 1998–?) Other uses Friendly (sport), a game of association football or bandy that has no consequence in a wider competition Friendly's, an American restaurant chain Friendly Center, a shopping mall in Greensboro, North Carolina, United States Friendly Hall, a building on the University of Oregon campus Friendly High School, a public high school in Fort Washington, Maryland, United States Henry J."
+    },
+    {
+      "chunk_id": "wikipedia:Small Faces#0001",
+      "doc_id": "wikipedia:Small Faces",
+      "title": "Small Faces",
+      "url": "https://en.wikipedia.org/?curid=167663",
+      "source_type": "wikipedia",
+      "score": 0.5405144691467285,
+      "text": "1969, Marriott left to form Humble Pie, while Lane, Jones and McLagan continued under the shortened name the Faces with Rod Stewart and Ronnie Wood. Following the breakup of both the Faces and Humble Pie in 1975, the classic Marriott/Lane/McLagan/Jones line-up of the Small Faces re-formed after a re-release of \"Itchycoo Park\" became a top-ten hit. Lane left shortly thereafter, and was..."
+    },
+    {
+      "chunk_id": "wikipedia:Small Faces#0000",
+      "doc_id": "wikipedia:Small Faces",
+      "title": "Small Faces",
+      "url": "https://en.wikipedia.org/?curid=167663",
+      "source_type": "wikipedia",
+      "score": 0.5380226522684097,
+      "text": "The Small Faces were an English rock band from London, founded in 1965. The group originally consisted of singer/guitarist Steve Marriott, bassist Ronnie Lane, drummer Kenney Jones and keyboardist Jimmy Winston, with Ian McLagan replacing Winston in 1966. The band were initially one of the most acclaimed and influential mod groups of the mid-1960s, with hit singles such as \"Whatcha Gonna Do About It\" (1965), \"Sha-La-La-La-Lee\" and \"All or Nothing\" (both 1966). From 1967, they evolved into one of the UK's most successful psychedelic bands, achieving further hit singles including \"Here Come the Nice\", \"Itchycoo Park\", \"Tin Soldier\" (all 1967) and \"Lazy Sunday\" (1968), the latter taken from their critically-acclaimed concept album Ogdens' Nut Gone Flake (1968), which reached No. 1 on the UK Albums Chart. In 1969, Marriott left to form Humble Pie, while Lane, Jones and McLagan continued under the shortened name the Faces with Rod Stewart and Ronnie Wood."
+    },
+    {
+      "chunk_id": "wikipedia:Gangnam Style#0001",
+      "doc_id": "wikipedia:Gangnam Style",
+      "title": "Gangnam Style",
+      "url": "https://en.wikipedia.org/?curid=36584679",
+      "source_type": "wikipedia",
+      "score": 0.5246323198080063,
+      "text": "States, \"Gangnam Style\" peaked at number two on the Billboard Hot 100, which at the time, was the highest charting song by a South Korean artist. By the end of 2012, \"Gangnam Style\" had topped the music charts of more than 30 countries including Australia, Canada, France, Germany, Italy, Spain, and the United Kingdom. Psy's dance in the music video itself became a cultural phenomenon. The song subsequently won Best Video at the MTV..."
+    },
+    {
+      "chunk_id": "wikipedia:Rich#0001",
+      "doc_id": "wikipedia:Rich",
+      "title": "Rich",
+      "url": "https://en.wikipedia.org/?curid=327881",
+      "source_type": "wikipedia",
+      "score": 0.5177316069602966,
+      "text": "a character in the British soap opera Doctors Richie Rich (character), a fictional character Music Rich, half of the American country music duo Big & Rich Rich Velonskis, half of the American duo Nikki & Rich \"Rich\" (Maren Morris song), 2018 \"Rich\", a song by Jawbreaker from Etc., 2002 \"Rich\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:Rock Your Baby#0001",
+      "doc_id": "wikipedia:Rock Your Baby",
+      "title": "Rock Your Baby",
+      "url": "https://en.wikipedia.org/?curid=7758996",
+      "source_type": "wikipedia",
+      "score": 0.49973203241825104,
+      "text": "and drums, and their fellow Sunshine Band member Jerome Smith on electric guitar. The song became one of the first pop hits to use a drum machine. The track was not originally intended for McCrae, but he happened to be in the studio at the time and added his distinct falsetto vocals. Music critic Robert Christgau has described the result as \"irresistibly Memphis-cum-disco-with-a-hook.\" Legacy \"Rock Your Baby\" influenced John Lennon's \"Whatever Gets You thru the Night..."
+    },
+    {
+      "chunk_id": "wikipedia:Give#0000",
+      "doc_id": "wikipedia:Give",
+      "title": "Give",
+      "url": "https://en.wikipedia.org/?curid=5563535",
+      "source_type": "wikipedia",
+      "score": 0.4972644358873367,
+      "text": "Give may refer to: making someone get or receive something from someone Places Give, Denmark, a small town Give Municipality, a former municipality Music Give (Balkan Beat Box album), 2012 album by Balkan Beat Box Give (The Bad Plus album), the third studio album by The Bad Plus \"Give\" (song), the third single by American country recording artist LeAnn Rimes \"Give\" aka \"Still Yawning Still Born\" a song by Steve Peregrin Took recorded acoustically by his band Shagrat in 1971 and by Took solo in 1972 - released 1992/1995 Give (EP), a 1998 EP and single by American rock band Cold See also GAVE (disambiguation) Given (disambiguation) Giver (disambiguation) Giving (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Tony#0001",
+      "doc_id": "wikipedia:Tony",
+      "title": "Tony",
+      "url": "https://en.wikipedia.org/?curid=264960",
+      "source_type": "wikipedia",
+      "score": 0.4803575128316879,
+      "text": "thriller film \"Tony\" (Skins series 1), the first episode of British comedy-drama Skins \"Tony\" (Skins series 2), episode six of the second series of Skins Music Tony T., stage name of British singer, rapper and DJ Neal Antone Dyer (born 1971) Tony (album), a 1957 album by Tony Bennett \"T.O.N.Y. (Top of New York)\", a 1997 single..."
+    }
+  ]
+}

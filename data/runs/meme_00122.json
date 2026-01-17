@@ -1,0 +1,105 @@
+{
+  "meme_id": "meme_00122",
+  "queries": [
+    "\"Helicopter\" \"goes\" \"passes\" \"age\"",
+    "\"Helicopter\" \"different pictures\" \"goes\" \"passes\""
+  ],
+  "primary_terms": [
+    "Helicopter",
+    "goes",
+    "passes",
+    "age"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Helicopter#0000",
+      "doc_id": "wikipedia:Helicopter",
+      "title": "Helicopter",
+      "url": "https://en.wikipedia.org/?curid=8286923",
+      "source_type": "wikipedia",
+      "score": 0.7744403541088104,
+      "text": "A helicopter is a type of rotorcraft in which lift and thrust are supplied by horizontally spinning rotors. This allows the helicopter to take off and land vertically, to hover, and to fly forward, backward and laterally. These attributes allow helicopters to be used in congested or isolated areas where fixed-wing aircraft and many forms of short take-off and landing (STOL) or short take-off and vertical landing (STOVL) aircraft cannot perform without a runway. The Focke-Wulf Fw 61 was the first successful, practical, and fully controllable helicopter in 1936, while in 1942, the Sikorsky R-4 became the first helicopter to reach full-scale production. Starting in 1939 and through 1943, Igor Sikorsky worked on the development of the VS-300, which over four iterations, became the basis for modern helicopters with a single main rotor and a single tail rotor."
+    },
+    {
+      "chunk_id": "wikipedia:Rover#0000",
+      "doc_id": "wikipedia:Rover",
+      "title": "Rover",
+      "url": "https://en.wikipedia.org/?curid=1747355",
+      "source_type": "wikipedia",
+      "score": 0.6865375697612762,
+      "text": "Rover may refer to: People Name Constance Rover (1910–2005), English historian Jolanda de Rover (born 1963), Dutch swimmer Rover Thomas (c. 1920–1998), Indigenous Australian artist Stage name Rover (musician), French singer-songwriter and musician, born Timothée Régnier in 1979 Places Rover, Arkansas, US Rover, Missouri, US Rover, West Virginia, US Røver Anchorage, Bouvet Island, Norway Rover Creek, British Columbia, Canada Arts and entertainment Literature Rover, the US title of They Came on Viking Ships, a children's novel by Jackie French The Rover (story paper), a British boys' story paper which started in 1922 Music \"Rover\" (BlocBoy JB song), 2018 \"Rover 2.0\", a 2018 remake by BlocBoy JB featuring 21 Savage from the mixtape Simi \"Rover\" (S1mba song), 2020 viral hit by S1mba featuring DTG \"Rover\" (UCLA song), a sports cheer at the University of California Los Angeles \"The Rover\" (Led Zeppelin song), a song by Led Zeppelin on their 1975 double album Physical Graffiti \"The Irish"
+    },
+    {
+      "chunk_id": "wikipedia:Flight#0000",
+      "doc_id": "wikipedia:Flight",
+      "title": "Flight",
+      "url": "https://en.wikipedia.org/?curid=159472",
+      "source_type": "wikipedia",
+      "score": 0.643500691652298,
+      "text": "Flight or flying is the motion of an object through an atmosphere or through the vacuum of space, in this case also called spaceflight, without contacting any planetary surface. This can be achieved by generating aerodynamic lift associated with gliding or propulsive thrust, aerostatically using buoyancy, or by ballistic movement. Many things can fly, from animal aviators such as birds, bats and insects, to natural gliders/parachuters such as patagial animals, anemochorous seeds and ballistospores, to human inventions like aircraft (airplanes, helicopters, airships, balloons, etc.) and rockets which may propel spacecraft and spaceplanes. The engineering aspects of flight are the purview of aerospace engineering. It has three subfields: aeronautics — the study of vehicles that travel through the atmosphere. astronautics — the study of vehicles that travel through space. ballistics — the study of the flight of projectiles."
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0000",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.6362128019332886,
+      "text": "Crossover may refer to: Entertainment Music Albums Cross Over (album), a 1987 album by Dan Peek, or the title song Crossover (Dirty Rotten Imbeciles album), 1987 Crossover, an album by Intrigue Crossover, an album by Hitomi Shimatani Crossover (Yoshinori Sunahara album), 1995 Songs \"Crossover\" (song), 1992, by EPMD \"Cross Over\" (song), 2010, by the Japanese group 9nine Genres and styles Crossover music Crossover thrash Comics Cross Over, a 2002 manga by Kōji Seo Crossover (storyline), a 2005 Fantastic Four storyline The Crossovers, a 2003 CrossGen comic book series Crossover (Image Comics), 2020 Film and television Crossover (1980 film) Crossover (2006 film), a basketball film \"Crossover\" (Adventure Time), a 2016 episode \"Crossover\" (Star Trek: Deep Space Nine), a 1994 episode Other entertainment Crossover (fiction), combining characters or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover"
+    },
+    {
+      "chunk_id": "wikipedia:Helicopter#0001",
+      "doc_id": "wikipedia:Helicopter",
+      "title": "Helicopter",
+      "url": "https://en.wikipedia.org/?curid=8286923",
+      "source_type": "wikipedia",
+      "score": 0.6017198026180267,
+      "text": "the development of the VS-300, which over four iterations, became the basis for modern helicopters with a single main rotor and a single tail rotor. Although most earlier designs used more than one main rotor, the configuration of a single main rotor accompanied by a vertical anti-torque tail rotor (i.e. unicopter, not to be confused with the single-blade monocopter) has become the most common helicopter configuration. However, twin-rotor helicopters (bicopters), in either tandem..."
+    },
+    {
+      "chunk_id": "wikipedia:Flight#0001",
+      "doc_id": "wikipedia:Flight",
+      "title": "Flight",
+      "url": "https://en.wikipedia.org/?curid=159472",
+      "source_type": "wikipedia",
+      "score": 0.5822106063365936,
+      "text": "travel through the atmosphere. astronautics — the study of vehicles that travel through space. ballistics — the study of the flight of projectiles. Types of flight Buoyant flight Humans have managed to construct lighter-than-air vehicles that raise off the ground and fly, due to their buoyancy in the air. An aerostat is a system that remains aloft primarily through the use of buoyancy to give an aircraft..."
+    },
+    {
+      "chunk_id": "wikipedia:Young#0000",
+      "doc_id": "wikipedia:Young",
+      "title": "Young",
+      "url": "https://en.wikipedia.org/?curid=302029",
+      "source_type": "wikipedia",
+      "score": 0.561462116241455,
+      "text": "Young may refer to: Offspring, the product of reproduction of a new organism produced by one or more parents Youth, the time of life when one's age is low, often meaning the time between childhood and adulthood Music The Young, an American rock band Young, an EP by Charlotte Lawrence, 2018 Songs \"Young\" (Baekhyun and Loco song), 2018 \"Young\" (The Chainsmokers song), 2017 \"Young\" (Hollywood Undead song), 2009 \"Young\" (Kenny Chesney song), 2002 \"Young\" (Place on Earth song), 2018 \"Young\" (Tulisa song), 2012 \"Young\", by Ella Henderson, 2019 \"Young\", by Lil Wayne from Dedication 6, 2017 \"Young\", by Nickel Creek from This Side, 2002 \"Young\", by Sam Smith from Love Goes, 2020 \"Young\", by Silkworm from Italian Platinum, 2002 \"Young\", by Vacations (band), 2016 \"Young\", by Vallis Alps, 2015 \"Young\", by Pixey, 2016 People Surname Young (surname) Given name Young (Korean name), Korean unisex given name and name element Young Boozer (born 1948), American banker and Alabama State Treasurer Young"
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.5502118468284607,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.5458748698234558,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:Young Boy#0001",
+      "doc_id": "wikipedia:Young Boy",
+      "title": "Young Boy",
+      "url": "https://en.wikipedia.org/?curid=11418335",
+      "source_type": "wikipedia",
+      "score": 0.5425623953342438,
+      "text": "\"Looking for You\" and \"Broomstick\". In the United States, Capitol Records chose to issue \"The World Tonight\" as the album's lead single instead. Track listings UK CD1 and Australian CD single \"Young Boy\" (with Steve Miller) – 3:54 \"Looking for You\" (with Ringo Starr and Jeff Lynne) – 4:38 \"Oobu Joobu\" (Part 1) – 9:54 UK CD2 \"Young Boy\" (with Steve Miller) – 3:54 \"Broomstick\" (with Steve Miller) – 5:09 \"Oobu Joobu\" (Part 2) – 10:19 Japanese CD single \"Young Boy\" (with Steve Miller) – 3:55 \"Looking for You\" (with Ringo Starr and Jeff Lynne) – 4:38 \"Oobu Joobu\" The \"Oobu Joobu\" tracks are a series of home demos, interviews, and unreleased songs..."
+    }
+  ]
+}

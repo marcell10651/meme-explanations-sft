@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_01982",
+  "queries": [
+    "\"Spicing\" \"Naess NM} Ree pee\" \"one Radcliffe\" \"DANIEL'BORINGCLIFFE DANIEL'RADCLIFFE\" \"one\"",
+    "\"DANIEL'BORINGCLIFFE DANIEL'RADCLIFFE\" \"one\" \"radcliffe\" \"hal\""
+  ],
+  "primary_terms": [
+    "one Radcliffe",
+    "one",
+    "radcliffe",
+    "DANIEL'BORINGCLIFFE DANIEL'RADCLIFFE",
+    "Naess NM} Ree pee",
+    "hal"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0000",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.8960825622081756,
+      "text": "Rubeus Hagrid () is a fictional character in the Harry Potter series of novels by J. K. Rowling. He was introduced in Harry Potter and the Philosopher's Stone (1997) as a half-giant who is the gamekeeper and groundskeeper at the wizarding school Hogwarts. He is a member of the Order of the Phoenix and eventually becomes the Care of Magical Creatures professor. Hagrid is portrayed by Robbie Coltrane in all eight Harry Potter films. Creation and development Rubeus Hagrid was one of the first characters Rowling created. In a 1999 interview, she explained that the name \"Hagrid\" is an Old English word, referring to hagridden, meaning 'tormented by hags'. She said it means \"you'd had a bad night\" and she explained that Hagrid \"has a lot of bad nights\" due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\"."
+    },
+    {
+      "chunk_id": "wikipedia:Albus Dumbledore#0001",
+      "doc_id": "wikipedia:Albus Dumbledore",
+      "title": "Albus Dumbledore",
+      "url": "https://en.wikipedia.org/?curid=45322",
+      "source_type": "wikipedia",
+      "score": 0.8301130890846252,
+      "text": "with Gellert Grindelwald, a dark wizard he later defeated. His philosophical views on power, love, and death are central themes in the series. Dumbledore is portrayed by Richard Harris in the film adaptations of Harry Potter and the Philosopher's Stone (2001) and Harry Potter and the Chamber of Secrets (2002). Following Harris' death in October 2002, Michael Gambon was cast in the role. He plays Dumbledore in six..."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0000",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.7828934848308563,
+      "text": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Granger, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's conflict with Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and non-magical people, known in-universe as Muggles. The series was originally published in English by Bloomsbury in the United Kingdom and Scholastic Press in the United States. A series of many genres, including fantasy, drama, coming-of-age fiction, and the British school story (which includes elements of mystery, thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references."
+    },
+    {
+      "chunk_id": "wikipedia:Potter#0000",
+      "doc_id": "wikipedia:Potter",
+      "title": "Potter",
+      "url": "https://en.wikipedia.org/?curid=170486",
+      "source_type": "wikipedia",
+      "score": 0.7761420965194702,
+      "text": "A potter is someone who makes pottery. Potter may also refer to: Places United States Potter, originally a section on the Alaska Railroad, currently a neighborhood of Anchorage, Alaska, US Potter, Arkansas Potter, Nebraska Potters, New Jersey Potter, New York Potter, Wisconsin Potter County, Pennsylvania Potter County, South Dakota Potter County, Texas Potter Lake, Wisconsin Potter Township (disambiguation) Potter Valley, California Potter Valley AVA, California wine region in Mendocino County Potter Cemetery, Michigan Elsewhere 7320 Potter, an asteroid Potter Island, Nunavut, Canada Potter Peninsula, South Shetland Islands People and fictional characters Potter (name), a given name and a surname, including a list of people and fictional characters with the name Arts, entertainment, and media Potter (TV series), a TV sitcom starring Arthur Lowe Harry and the Potters, an American rock band Harry Potter, worldwide bestselling book and film series Miss Potter, a 2006 film by Chris Noonan"
+    },
+    {
+      "chunk_id": "wikipedia:Albus Dumbledore#0000",
+      "doc_id": "wikipedia:Albus Dumbledore",
+      "title": "Albus Dumbledore",
+      "url": "https://en.wikipedia.org/?curid=45322",
+      "source_type": "wikipedia",
+      "score": 0.7454741060733795,
+      "text": "Albus Dumbledore is a fictional character in the Harry Potter series of novels by J. K. Rowling. For most of the series, he is the headmaster of the wizarding school Hogwarts. He is also the founder and leader of the Order of the Phoenix, an organisation dedicated to fighting the Dark wizard Lord Voldemort. In the novels, Dumbledore is widely regarded as one of the most powerful and influential wizards of his time. Renowned for his wisdom, kindness, and formidable magical abilities, he plays a crucial role in shaping the events of the wizarding world. As a mentor to Harry Potter, he provides guidance and crucial knowledge in the fight against Voldemort. Despite his benevolent image, Dumbledore's past is marked by tragedy and complexity, including his youthful association with Gellert Grindelwald, a dark wizard he later defeated. His philosophical views on power, love, and death are central themes in the series."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0001",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.6934791564941406,
+      "text": "thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references. Major themes in the series include prejudice, corruption, madness, love, and death. Since the release of the first novel, Harry Potter and the Philosopher's Stone, on 26 June 1997, the books have found immense popularity and commercial success worldwide..."
+    },
+    {
+      "chunk_id": "wikipedia:Draco Malfoy#0000",
+      "doc_id": "wikipedia:Draco Malfoy",
+      "title": "Draco Malfoy",
+      "url": "https://en.wikipedia.org/?curid=44334",
+      "source_type": "wikipedia",
+      "score": 0.6638916730880737,
+      "text": "Draco Lucius Malfoy is a fictional character and a major antagonist in J. K. Rowling's Harry Potter series. He is a student in Harry Potter's year belonging in the Slytherin house. He is frequently accompanied by his two cronies, Vincent Crabbe and Gregory Goyle, who act as henchmen. Draco is characterised as a cowardly bully who tricks and hurts people to get what he wants; he is also a cunning user of magic. He was played by Tom Felton in the Harry Potter film series, while Lox Pratt is set to portray him in the TV series adaptation. Character development Draco serves as a foil to the hero, Harry Potter, and is loosely based on bullies Rowling encountered during her school days. Harry first encounters Draco's snobbish bigotry after their initial encounter at Madam Malkin's. Rowling uses the Malfoys to introduce themes of intolerance and bigotry into a setting where people are often judged solely by their blood lineage rather than their good character or accomplishments."
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0001",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.6543446838855743,
+      "text": "due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\". The character of Hagrid and conversations between him, Harry Potter, Ron Weasley and Hermione Granger in his hut are expository through the series, due to the fact that the trio frequently discover things about Albus Dumbledore and Hogwarts by talking with Hagrid, as he has a habit of letting..."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0000",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.6539488196372986,
+      "text": "Strongest Deliveryman (Korean: 최강 배달꾼; RR: Choegang baedalkkun) is a 2017 South Korean television series starring Go Kyung-pyo, Chae Soo-bin, Kim Seon-ho, and Go Won-hee. It premiered on August 4, 2017, and aired every Friday and Saturday at 23:00 (KST) on KBS2 until September 23, 2017. Synopsis Choi Kang-soo is a deliveryman who wants to become the CEO of his own delivery app company. The series tells of his journey to achieving love and success. Cast Main Go Kyung-pyo as Choi Kang-soo A veteran deliveryman who puts his life on the line at whatever he does. Chae Soo-bin as Lee Dan-ah A delivery woman who is so single-minded about making money and escaping from \"Hell Joseon\" that she turns down all advances from men. Kim Seon-ho as Oh Jin-kyu A rich man's son, the former Head Manager of Jung Family Seollongtang, he is stubborn at first but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home."
+    },
+    {
+      "chunk_id": "wikipedia:Potter#0001",
+      "doc_id": "wikipedia:Potter",
+      "title": "Potter",
+      "url": "https://en.wikipedia.org/?curid=170486",
+      "source_type": "wikipedia",
+      "score": 0.6402230560779572,
+      "text": "Lowe Harry and the Potters, an American rock band Harry Potter, worldwide bestselling book and film series Miss Potter, a 2006 film by Chris Noonan The Potters (artists group), a women's artistic and literary group in St. Louis, Missouri The Potters (film), a lost 1927 silent film Sports Stoke City F.C or The Potters..."
+    }
+  ]
+}

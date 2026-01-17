@@ -1,0 +1,197 @@
+{
+  "meme_id": "meme_05063",
+  "queries": [
+    "\"some funny short movies\" \"those boring friday evenings\" \"the speed\" \"mid quality\"",
+    "\"the speed\" \"mid quality\" \"time\" \"speed\""
+  ],
+  "primary_terms": [
+    "the speed",
+    "time",
+    "speed",
+    "fun",
+    "minutes",
+    "some funny short movies",
+    "mid quality",
+    "those boring friday evenings"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Fast#0000",
+      "doc_id": "wikipedia:Fast",
+      "title": "Fast",
+      "url": "https://en.wikipedia.org/?curid=1899768",
+      "source_type": "wikipedia",
+      "score": 0.8017160594463348,
+      "text": "Fast or FAST may refer to: Arts and entertainment \"Fast\" (Juice Wrld song), 2019 \"Fast\" (Luke Bryan song), 2016 \"Fast\" (Sueco song), 2019 \"Fast\" (GloToven song), 2019 Fast, an album by Custom, 2002 Fast, a 2010 short film starring Charlyne Yi \"Fast (Motion)\", 2021 song by Saweetie Fast & Furious, an action franchise \"Fast\" (Demi Lovato song), 2025 Computing and software FAST protocol, an adaptation of the FIX protocol, optimized for streaming FAST TCP, a TCP congestion avoidance algorithm Facilitated Application Specification Techniques, a team-oriented approach for requirement gathering Fatigue Avoidance Scheduling Tool, software to develop work schedules Features from accelerated segment test, computer vision method for corner detection Feedback arc set in Tournaments, a computational problem in graph theory Government Faʻatuatua i le Atua Samoa ua Tasi (FAST), a political party in Samoa Fixing America's Surface Transportation Act, passed by the United States Congress"
+    },
+    {
+      "chunk_id": "wikipedia:Velocity#0000",
+      "doc_id": "wikipedia:Velocity",
+      "title": "Velocity",
+      "url": "https://en.wikipedia.org/?curid=20491903",
+      "source_type": "wikipedia",
+      "score": 0.7785757064819336,
+      "text": "Velocity is a measurement of speed in a certain direction of motion. It is a fundamental concept in kinematics, the branch of classical mechanics that describes the motion of physical objects. Velocity is a vector quantity, meaning that both magnitude and direction are needed to define it (velocity vector). The scalar absolute value (magnitude) of velocity is called speed, a quantity that is measured in metres per second (m/s or m⋅s−1) in the SI (metric) system. For example, \"5 metres per second\" is a scalar, whereas \"5 metres per second east\" is a vector. If there is a change in speed, direction or both, then the object is said to be undergoing an acceleration. Definition Average velocity The average velocity of an object over a period of time is its change in position, Δ s {\\displaystyle \\Delta s} , divided by the duration of the period, Δ t {\\displaystyle \\Delta t} , given mathematically as v ¯ = Δ..."
+    },
+    {
+      "chunk_id": "wikipedia:Second#0001",
+      "doc_id": "wikipedia:Second",
+      "title": "Second",
+      "url": "https://en.wikipedia.org/?curid=26873",
+      "source_type": "wikipedia",
+      "score": 0.7453206717967987,
+      "text": "current definition was adopted in 1967 when it became feasible to define the second based on fundamental properties of nature with caesium clocks. As the speed of Earth's rotation varies and is slowing ever so slightly, a leap second is added at irregular intervals to civil time to keep clocks in sync with Earth's rotation. The definition that is based on 1⁄86400 of a rotation of the earth is still used by the Universal Time 1 (UT1) system..."
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0000",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.6111846327781677,
+      "text": "Modern Times is a 1936 American part-talkie satirical slapstick comedy film produced, written and directed by Charlie Chaplin. In Chaplin's last performance as the iconic Little Tramp, his character struggles to survive in the modern, industrialized world. The film also stars Paulette Goddard, Henry Bergman, Tiny Sandford and Chester Conklin. Modern Times has won many awards and honors, and is widely considered one of the greatest films ever. It was one of the first 25 films selected by the Library of Congress for preservation in the National Film Registry for being \"culturally, historically, or aesthetically significant\". Plot The Tramp works on an assembly line, where he suffers greatly due to the stress and pace of the repetitive work. He eventually suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital."
+    },
+    {
+      "chunk_id": "wikipedia:Medium#0000",
+      "doc_id": "wikipedia:Medium",
+      "title": "Medium",
+      "url": "https://en.wikipedia.org/?curid=19967",
+      "source_type": "wikipedia",
+      "score": 0.5891039967536926,
+      "text": "Medium may refer to: Aircraft Medium bomber, a class of warplane Tecma Medium, a French hang glider design Arts, entertainment, and media Films The Medium (1921 film), a German silent film The Medium (1951 film), a film version of the opera directed by Menotti The Medium (1960 film), an Australian television play The Medium (1992 film), an English film from Singapore The Medium (2021 film), a Thai film Medium, a series of Indian comedy-drama films Hindi Medium, 2017 film by Saket Chaudhary Angrezi Medium (English Medium), 2020 film by Homi Adajania Publications Medium (website), an online publishing platform Student Periodicals The Medium (Rutgers), an entertainment weekly at Rutgers University The Medium (University of Toronto Mississauga), a student newspaper at the University of Toronto Mississauga Other arts, entertainment, and media List of art media (plural: media), materials and techniques used by an artist to produce a work Medium (band), an American rock band Medium (TV"
+    },
+    {
+      "chunk_id": "wikipedia:Light#0001",
+      "doc_id": "wikipedia:Light",
+      "title": "Light",
+      "url": "https://en.wikipedia.org/?curid=17939",
+      "source_type": "wikipedia",
+      "score": 0.5221552371978759,
+      "text": "direction, frequency or wavelength spectrum, and polarization. Its speed in vacuum, 299792458 m/s, is one of the fundamental constants of nature. All electromagnetic radiation exhibits some properties of both particles and waves. Single, massless elementary particles, or quanta, of light called photons can be detected with specialized equipment; phenomena like interference are..."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0000",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.4797362744808197,
+      "text": "Time is the continuous progression of existence that occurs in an apparently irreversible succession from the past, through the present, and into the future. Time dictates all forms of action, age, and causality, being a component quantity of various measurements used to sequence events, to compare the duration of events (or the intervals between them), and to quantify rates of change of quantities in material reality or in the conscious experience. Time is often referred to as a fourth dimension, along with three spatial dimensions. Time is primarily measured in linear spans or periods, ordered from shortest to longest. Practical, human-scale measurements of time are performed using clocks and calendars, reflecting a 24-hour day collected into a 365-day year linked to the astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest."
+    },
+    {
+      "chunk_id": "wikipedia:Time#0001",
+      "doc_id": "wikipedia:Time",
+      "title": "Time",
+      "url": "https://en.wikipedia.org/?curid=30012",
+      "source_type": "wikipedia",
+      "score": 0.46514919996261594,
+      "text": "astronomical motion of the Earth. Scientific measurements of time instead vary from Planck time at the shortest to billions of years at the longest. Measurable time is believed to have effectively begun with the Big Bang 13.8 billion years ago, encompassed by the chronology of the universe. Modern physics understands time to be inextricable from space within the concept of spacetime described by general relativity..."
+    },
+    {
+      "chunk_id": "wikipedia:Watch#0001",
+      "doc_id": "wikipedia:Watch",
+      "title": "Watch",
+      "url": "https://en.wikipedia.org/?curid=60883",
+      "source_type": "wikipedia",
+      "score": 0.4546847462654114,
+      "text": "of the watch market, in what became known as the quartz revolution (or the quartz crisis in Switzerland, whose renowned watch industry it decimated). In the 2010s, smartwatches emerged, small wrist-worn computers with touchscreens and with functions that go far beyond timekeeping. Modern watches often display the day, date, month, and year. Mechanical watches may have extra features..."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0000",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.44197235703468324,
+      "text": "Quantity or amount is a property that includes numbers and quantifiable phenomena such as mass, time, distance, heat, angle, and information. Quantities can commonly be compared in terms of \"more\", \"less\", or \"equal\", or by assigning a numerical value multiple of a unit of measurement. Quantity is among the basic classes of things along with quality, substance, change, and relation. Some quantities are such by their inner nature (as number), while others function as states (properties, dimensions, attributes) of things such as heavy and light, long and short, broad and narrow, small and great, or much and little. Under the name of multitude comes what is discontinuous and discrete and divisible ultimately into indivisibles, such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Man with beard pulling down shades that are reflecting the images of various people.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Man",
+          "beard",
+          "the images",
+          "various people"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster conveys that watching \"The speed of Time\" would be good for passing the boring Friday evenings.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The speed",
+          "Time",
+          "the boring Friday evenings"
+        ]
+      },
+      "title": {
+        "text": "the speed of time is a fun 12 minutes",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the speed",
+          "time",
+          "speed",
+          "fun",
+          "minutes"
+        ]
+      },
+      "text": {
+        "text": "share some funny short movies (>30 mins) of remarkable low to mid quality, that are great to watch on those boring friday evenings nt) — ieee) K's: \\\\ —~ hh ihe YN ey ,, Waes =f)\" ‘ ) Va a ee MA DY",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "some funny short movies",
+          "mid quality",
+          "those boring friday evenings"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the speed",
+      "time",
+      "speed",
+      "fun",
+      "minutes",
+      "some funny short movies",
+      "mid quality",
+      "those boring friday evenings"
+    ],
+    "secondary_terms": [
+      "Man",
+      "beard",
+      "the images",
+      "various people",
+      "The speed",
+      "Time",
+      "the boring Friday evenings"
+    ],
+    "queries": [
+      "\"some funny short movies\" \"those boring friday evenings\" \"the speed\" \"mid quality\"",
+      "\"the speed\" \"mid quality\" \"time\" \"speed\""
+    ]
+  },
+  "source_jsonl_id": null
+}

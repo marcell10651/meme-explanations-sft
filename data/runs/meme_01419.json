@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_01419",
+  "queries": [
+    "\"leaving\" \"don\" \"know\" \"actually\"",
+    "\"know\" \"actually\" \"want\" \"sleep\""
+  ],
+  "primary_terms": [
+    "leaving",
+    "don",
+    "know",
+    "actually",
+    "want",
+    "sleep"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Leave#0001",
+      "doc_id": "wikipedia:Leave",
+      "title": "Leave",
+      "url": "https://en.wikipedia.org/?curid=85749",
+      "source_type": "wikipedia",
+      "score": 0.6586113572120667,
+      "text": "of \"Remain\") Arts, entertainment, and media Leave (film), a 2010 film by Robert Celestino Leave (2022 film), a 2022 film by Alex Herron Music Leave (album), a 2002 Mandopop album \"Leave\" (Get Out), a 2004 R&B song by JoJo \"Leave!\", a 2009 soul song performed by the English singer VV Brown \"Leave\", a song by Sertab Erener \"Leave\", a song..."
+    },
+    {
+      "chunk_id": "wikipedia:Stay#0001",
+      "doc_id": "wikipedia:Stay",
+      "title": "Stay",
+      "url": "https://en.wikipedia.org/?curid=1175804",
+      "source_type": "wikipedia",
+      "score": 0.6129300415515899,
+      "text": "piece used to maintain the point of a shirt collar Guy-wire, or stay, a metal cable used to support a tall structure, such as a radio mast Stay cable, used to hold up a weight Arts, entertainment, and media Films Stay (2005 film), a psychological thriller directed by Marc Forster Stay (2006 film), also known as Sleeping Dogs..."
+    },
+    {
+      "chunk_id": "wikipedia:Feel#0000",
+      "doc_id": "wikipedia:Feel",
+      "title": "Feel",
+      "url": "https://en.wikipedia.org/?curid=3550259",
+      "source_type": "wikipedia",
+      "score": 0.594341105222702,
+      "text": "Feel may refer to: Feeling Music Bands Feel (New York band), a 1980s dance and R&B band Feel (Polish band), a pop rock band Albums Feel (Feel album), 2007 Feel (George Duke album) or the title song, 1974 Feel (Glenn Hughes album), 1995 Feel (Human Drama album), 1989 Feel (Namie Amuro album), 2013 Feel (Roachford album), 1997 Feel (Sleeping with Sirens album) or the title song, 2013 Feel, by Nagisa ni te, 2002 Feel (A-Mei EP), 1999 Feel (Junho EP), 2014 Songs \"Feel\" (Kendrick Lamar song), 2017 \"Feel\" (Koda Kumi song), 2006 \"Feel\" (Robbie Williams song), 2002 \"Feel\" (Chicago song), 2006 \"Feel\", by Asking Alexandria from Where Do We Go from Here?, 2023 \"Feel\", by Big Star from #1 Record, 1972 \"Feel\", by Bombay Bicycle Club from So Long, See You Tomorrow, 2014 \"Feel\", by Bradley Joseph from Rapture, 1997 \"Feel\", by Davido from Timeless, 2023 \"Feel\", by Jacob Collier and Lianne La Havas from Djesse Vol."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0001",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.5580214917659759,
+      "text": "sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep. Synonyms In boarding schools and on trips or holidays that involve young people, the equivalent of bedtime is lights out or lights-out - this term is also used in prisons, hospitals, in the military, and in sleep research..."
+    },
+    {
+      "chunk_id": "wikipedia:Information#0000",
+      "doc_id": "wikipedia:Information",
+      "title": "Information",
+      "url": "https://en.wikipedia.org/?curid=18985062",
+      "source_type": "wikipedia",
+      "score": 0.5258258491754532,
+      "text": "Information is an abstract concept that refers to something which has the power to inform. At the most fundamental level, it pertains to the interpretation (perhaps formally) of that which may be sensed, or their abstractions. Any natural process that is not completely random and any observable pattern in any medium can be said to convey some amount of information. Whereas digital signals and other data use discrete signs to convey information, other phenomena and artifacts such as analogue signals, poems, pictures, music or other sounds, and currents convey information in a more continuous form. Information is not knowledge itself, but the meaning that may be derived from a representation through interpretation. The concept of information is relevant or connected to various concepts, including constraint, communication, control, data, form, education, knowledge, meaning, understanding, mental stimuli, pattern, perception, proposition, representation, and entropy."
+    },
+    {
+      "chunk_id": "wikipedia:In His Image#0001",
+      "doc_id": "wikipedia:In His Image",
+      "title": "In His Image",
+      "url": "https://en.wikipedia.org/?curid=4401031",
+      "source_type": "wikipedia",
+      "score": 0.49577996134757996,
+      "text": "to be real, too real to be a dream. It's called The Twilight Zone. Plot While waiting in a subway station, Alan Talbot is approached by an evangelist. Alan is not interested, but takes the pamphlet she offers in order to appease her; however, the evangelist won't leave him alone. He hears strange electronic noises which prompt him to throw her under a train and then flee..."
+    },
+    {
+      "chunk_id": "wikipedia:Actually#0001",
+      "doc_id": "wikipedia:Actually",
+      "title": "Actually",
+      "url": "https://en.wikipedia.org/?curid=750827",
+      "source_type": "wikipedia",
+      "score": 0.4721933722496033,
+      "text": "(1982), \"Rent\" (1984), and \"One More Chance\" which they had recorded with Bobby Orlando and released as an unsuccessful single outside the UK in 1984. \"What Have I Done to Deserve This?\" was a collaboration with songwriter Allee Willis, suggested by their manager Tom Watkins; they had hoped to include it on Please (1986) but had to wait for a response from Dusty Springfield. The duo also wrote new material. \"Hit Music\" was inspired by the Henry Mancini theme song \"Peter Gunn\" covered by Art of Noise. The music for \"I Want to Wake..."
+    },
+    {
+      "chunk_id": "wikipedia:Stay#0000",
+      "doc_id": "wikipedia:Stay",
+      "title": "Stay",
+      "url": "https://en.wikipedia.org/?curid=1175804",
+      "source_type": "wikipedia",
+      "score": 0.4579020291566849,
+      "text": "Stay may refer to: Places Stay, Kentucky, an unincorporated community in the US Law Stay of execution, a ruling to temporarily suspend the enforcement of a court judgment Stay of proceedings, a ruling halting further legal process in a trial Structures and mechanics Stay (mechanics), a structural element designed to resist forces, usually along its axis. Stay, in a cable-stayed bridge Stay, bone (corsetry), one of the rigid parts of a corset Stays, or corset, a garment worn to mold and shape the torso; See History of corsets Stays (nautical), heavy ropes, wires, or rods that connect the masts of a sailing vessel to the hull Forestay, on a sailing vessel, keeps a mast from falling backwards Boiler stay, an internal structural element of a boiler Chain stay and seat stay, parts of a conventional bicycle frame Collar stay, a small rigid piece used to maintain the point of a shirt collar Guy-wire, or stay, a metal cable used to support a tall structure, such as a radio mast Stay cable,"
+    },
+    {
+      "chunk_id": "wikipedia:Living#0001",
+      "doc_id": "wikipedia:Living",
+      "title": "Living",
+      "url": "https://en.wikipedia.org/?curid=1133759",
+      "source_type": "wikipedia",
+      "score": 0.44242173433303833,
+      "text": "program Living (2007 TV program), a 2007–2009 group of regional Canadian lifestyle programs Living (New Zealand TV channel), a New Zealand television station Living (UK TV channel), now Sky Witness, a British pay TV channel Living2, later Real Lives, a defunct sister channel Living (2012 film), a 2012 Russian drama film Living (2022..."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0000",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.44074193239212034,
+      "text": "Bedtime (also called putting to bed or tucking in) is a ritual part of parenting to help children feel more secure and become accustomed to a more rigid schedule of sleep than they might prefer. The ritual of bedtime is aimed at facilitating the transition from wakefulness to sleep. It may involve bedtime stories, children's songs, nursery rhymes, bed-making and getting children to change into nightwear. In some religious households, prayers are said shortly before going to bed. Sleep training may be part of the bedtime ritual for babies and toddlers. In adult use, the term means simply \"time for bed\", similar to curfew, as in \"It's past my bedtime\". Some people are accustomed to drinking a nightcap or herbal tea at bedtime. Sleeping coaches are also used to help individuals reach their bedtime goals. Researchers studying sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep."
+    }
+  ]
+}

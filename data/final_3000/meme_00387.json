@@ -1,0 +1,173 @@
+{
+  "meme_id": "meme_00387",
+  "queries": [
+    "\"only the 12th most obese country\" \"Europeans\" \"America\"",
+    "\"only the 12th most obese country\" \"Europeans\" \"America\" \"something\""
+  ],
+  "primary_terms": [
+    "Europeans",
+    "America",
+    "only the 12th most obese country"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Americans#0000",
+      "doc_id": "wikipedia:Americans",
+      "title": "Americans",
+      "url": "https://en.wikipedia.org/?curid=19792942",
+      "source_type": "wikipedia",
+      "score": 0.843135780096054,
+      "text": "Americans are the citizens and nationals of the United States. U.S. federal law does not equate nationality with race or ethnicity but rather with citizenship. The U.S. has 37 ancestry groups with more than one million individuals. White Americans form the largest racial and ethnic group at 61.6% of the U.S. population, with non-Hispanic Whites making up 57.8% of the population. Hispanic and Latino Americans form the second-largest group and are 18.7% of the American population. Black Americans constitute the country's third-largest ancestry group and are 12.4% of the total U.S. population. Asian Americans are the country's fourth-largest group, composing 6% of the American population. The country's 3.7 million Native Americans account for about 1.1%, and some 574 native tribes are recognized by the federal government. People of American descent can be found internationally. As many as seven million Americans are estimated to be living abroad, and make up the American diaspora."
+    },
+    {
+      "chunk_id": "wikipedia:Asia#0000",
+      "doc_id": "wikipedia:Asia",
+      "title": "Asia",
+      "url": "https://en.wikipedia.org/?curid=689",
+      "source_type": "wikipedia",
+      "score": 0.7124888896942139,
+      "text": "Asia ( AY-zhə, UK also AY-shə) is the largest continent in the world by both land area and population. It covers an area of more than 44 million square kilometres, about 30% of Earth's total land area and 8% of Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilisations. Its 4.7 billion people constitute roughly 60% of the world's population. Asia shares the landmass of Eurasia with Europe, and of Afro-Eurasia with both Europe and Africa. In general terms, it is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them."
+    },
+    {
+      "chunk_id": "wikipedia:American#0000",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.6338142514228821,
+      "text": "American(s) may refer to: American, something of, from, or related to the United States of America, commonly known as the \"United States\" or \"America\" Americans, citizens and nationals of the United States of America American ancestry, people who self-identify their ancestry as \"American\" American English, the set of varieties of the English language native to the United States Native Americans in the United States, indigenous peoples of the United States American, something of, from, or related to the Americas, also known as \"America\" Indigenous peoples of the Americas American (word), for analysis and history of the meanings in various contexts Organizations American Airlines, U.S.-based airline headquartered in Fort Worth, Texas American Athletic Conference, an American college athletic conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C."
+    },
+    {
+      "chunk_id": "wikipedia:Eastern Europe#0001",
+      "doc_id": "wikipedia:Eastern Europe",
+      "title": "Eastern Europe",
+      "url": "https://en.wikipedia.org/?curid=37403",
+      "source_type": "wikipedia",
+      "score": 0.6235643327236176,
+      "text": "generally speaking, the Baltic states, the Caucasus, and the Visegrád group. In Eastern Europe, Russia is the largest and most populous country. The region represents a significant part of European culture; the main socio-cultural characteristics of Eastern Europe have historically largely been defined by the traditions of the Slavs, as well as by the influence of Eastern Christianity as it developed through the Eastern Roman Empire and the Ottoman Empire. Another definition was created by the Cold War, as Europe was ideologically divided by the Iron Curtain, with \"Eastern Europe\" being synonymous with communist states constituting the Eastern..."
+    },
+    {
+      "chunk_id": "wikipedia:Eastern Europe#0000",
+      "doc_id": "wikipedia:Eastern Europe",
+      "title": "Eastern Europe",
+      "url": "https://en.wikipedia.org/?curid=37403",
+      "source_type": "wikipedia",
+      "score": 0.6022941470146179,
+      "text": "Eastern Europe is a subregion of the European continent. As a largely ambiguous term, it has a wide range of geopolitical, geographical, ethnic, cultural and socio-economic connotations. Its eastern boundary is marked by the Ural Mountains, and its western boundary is defined in various ways. Narrow definitions, in which Central and Southeast Europe are counted as separate regions, include Belarus, Russia and Ukraine. In contrast, broader definitions include Moldova and Romania, but also some or all of the Balkans, except East Thrace and Greece, generally speaking, the Baltic states, the Caucasus, and the Visegrád group. In Eastern Europe, Russia is the largest and most populous country."
+    },
+    {
+      "chunk_id": "wikipedia:Cigar#0001",
+      "doc_id": "wikipedia:Cigar",
+      "title": "Cigar",
+      "url": "https://en.wikipedia.org/?curid=38323",
+      "source_type": "wikipedia",
+      "score": 0.5828185081481934,
+      "text": "in the Eastern United States (mostly in Florida, Kentucky, Tennessee, and Virginia) and in the Mediterranean countries of Italy, Greece, Spain (in the Canary Islands), and Turkey, and to a lesser degree in Indonesia and the Philippines of Southeast Asia. Cigar smoking carries serious health risks, including increased risk of developing various types..."
+    },
+    {
+      "chunk_id": "wikipedia:Nevada#0001",
+      "doc_id": "wikipedia:Nevada",
+      "title": "Nevada",
+      "url": "https://en.wikipedia.org/?curid=21216",
+      "source_type": "wikipedia",
+      "score": 0.5642179518938064,
+      "text": "native plant of the same name; and as the \"Sage-hen State\". Native Americans of the Paiute, Shoshone, and Washoe tribes inhabit what is now Nevada. The first Europeans to explore the region were Spanish. They called the region Nevada (snowy) because of the snow which covered the mountains in winter, similar to the Sierra Nevada in Spain. The area formed from mostly Alta California..."
+    },
+    {
+      "chunk_id": "wikipedia:Left- and right-hand traffic#0001",
+      "doc_id": "wikipedia:Left- and right-hand traffic",
+      "title": "Left- and right-hand traffic",
+      "url": "https://en.wikipedia.org/?curid=213380",
+      "source_type": "wikipedia",
+      "score": 0.5579823166131973,
+      "text": "the rear overtakes the one in the front. For example, a driver in an LHT country would typically overtake on the right of the vehicle being overtaken. RHT is used in 165 countries and territories, mainly in the Americas, Continental Europe, most of Africa and mainland Asia (except South Asia and Thailand), while 75 countries use LHT, which account for about a sixth of the world's land area, a quarter of its roads, and about a third of its population. In 1919, 104 of the world's territories were LHT and an equal number were RHT. Between 1919 and 1986, 34 of the LHT territories switched..."
+    },
+    {
+      "chunk_id": "wikipedia:Cigar#0000",
+      "doc_id": "wikipedia:Cigar",
+      "title": "Cigar",
+      "url": "https://en.wikipedia.org/?curid=38323",
+      "source_type": "wikipedia",
+      "score": 0.5461787343025207,
+      "text": "A cigar is a rolled bundle of dried and fermented tobacco leaves made to be smoked. Cigars are produced in a variety of sizes and shapes. Since the 20th century, almost all cigars are made of three distinct components: the filler, the binder leaf which holds the filler together, and a wrapper leaf, which is often the highest quality leaf used. Often there will be a cigar band printed with the cigar manufacturer's logo. Modern cigars can come with two or more bands, especially Cuban cigars, showing Limited Edition (Edición Limitada) bands displaying the year of production. Cigar tobacco is grown in significant quantities primarily in Brazil, Central America (Costa Rica, Ecuador, Guatemala, Honduras, Mexico, Nicaragua, and Panama), and the islands of the Caribbean (Cuba, the Dominican Republic, Haiti, and Puerto Rico); it is also produced in the Eastern United States (mostly in Florida, Kentucky, Tennessee, and Virginia) and in the Mediterranean countries of Italy, Greece, Spain (in the"
+    },
+    {
+      "chunk_id": "wikipedia:Switzerland#0001",
+      "doc_id": "wikipedia:Switzerland",
+      "title": "Switzerland",
+      "url": "https://en.wikipedia.org/?curid=26748",
+      "source_type": "wikipedia",
+      "score": 0.5193702280521393,
+      "text": "linguistic and cultural regions—German, French, Italian, and Romansh—reflecting a long-standing tradition of multilingualism and cultural pluralism. Swiss national identity nonetheless remains fairly cohesive, rooted in a shared historical background, common values such as federalism and direct democracy, and Alpine symbolism. Swiss nationhood transcends language, ethnicity, and religion, leading..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is surprised at something.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "something"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is shocked that America is only the 12th most obese country.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "America",
+          "only the 12th most obese country"
+        ]
+      },
+      "title": {
+        "text": "NO WHY!",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "text": {
+        "text": "Europeans when they find out that America is only the 12th most obese country | a ; | BO",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Europeans",
+          "America",
+          "only the 12th most obese country"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Europeans",
+      "America",
+      "only the 12th most obese country"
+    ],
+    "secondary_terms": [
+      "something",
+      "America",
+      "only the 12th most obese country"
+    ],
+    "queries": [
+      "\"only the 12th most obese country\" \"Europeans\" \"America\"",
+      "\"only the 12th most obese country\" \"Europeans\" \"America\" \"something\""
+    ]
+  },
+  "source_jsonl_id": null
+}

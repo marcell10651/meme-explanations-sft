@@ -1,0 +1,109 @@
+{
+  "meme_id": "meme_04357",
+  "queries": [
+    "\"the middle east\" \"their countries\" \"the west\" \"all countries\"",
+    "\"the west\" \"all countries\" \"objective\" \"chad\""
+  ],
+  "primary_terms": [
+    "objective",
+    "chad",
+    "people",
+    "the middle east",
+    "their countries",
+    "the west",
+    "all countries",
+    "flaws"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Country#0000",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.9344905734062194,
+      "text": "A country is an area of land, colloquially used as a synonym for sovereign state or other political entities, but also used to refer to the hinterland surrounding urban areas, as well as to describe the culture of people living in these places. Usually, the term country is applied to occupied areas of land, however it can be used to refer to uninhabited areas or wastelands. When referring to a specific polity, the term \"country\" may refer to a sovereign state, a state with limited recognition, a constituent country, or a dependent territory. Most sovereign states, but not all countries, are members of the United Nations. There is no universal agreement on the number of \"countries\" in the world with a range between 193 to 237. This ambiguity is a result of several states having disputed sovereignty status or limited recognition, and a number of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time."
+    },
+    {
+      "chunk_id": "wikipedia:Asia#0000",
+      "doc_id": "wikipedia:Asia",
+      "title": "Asia",
+      "url": "https://en.wikipedia.org/?curid=689",
+      "source_type": "wikipedia",
+      "score": 0.7991763710975647,
+      "text": "Asia ( AY-zhə, UK also AY-shə) is the largest continent in the world by both land area and population. It covers an area of more than 44 million square kilometres, about 30% of Earth's total land area and 8% of Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilisations. Its 4.7 billion people constitute roughly 60% of the world's population. Asia shares the landmass of Eurasia with Europe, and of Afro-Eurasia with both Europe and Africa. In general terms, it is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them."
+    },
+    {
+      "chunk_id": "wikipedia:Eastern Europe#0000",
+      "doc_id": "wikipedia:Eastern Europe",
+      "title": "Eastern Europe",
+      "url": "https://en.wikipedia.org/?curid=37403",
+      "source_type": "wikipedia",
+      "score": 0.7846098840236664,
+      "text": "Eastern Europe is a subregion of the European continent. As a largely ambiguous term, it has a wide range of geopolitical, geographical, ethnic, cultural and socio-economic connotations. Its eastern boundary is marked by the Ural Mountains, and its western boundary is defined in various ways. Narrow definitions, in which Central and Southeast Europe are counted as separate regions, include Belarus, Russia and Ukraine. In contrast, broader definitions include Moldova and Romania, but also some or all of the Balkans, except East Thrace and Greece, generally speaking, the Baltic states, the Caucasus, and the Visegrád group. In Eastern Europe, Russia is the largest and most populous country."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.573762446641922,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Left- and right-hand traffic#0001",
+      "doc_id": "wikipedia:Left- and right-hand traffic",
+      "title": "Left- and right-hand traffic",
+      "url": "https://en.wikipedia.org/?curid=213380",
+      "source_type": "wikipedia",
+      "score": 0.5582049489021301,
+      "text": "the rear overtakes the one in the front. For example, a driver in an LHT country would typically overtake on the right of the vehicle being overtaken. RHT is used in 165 countries and territories, mainly in the Americas, Continental Europe, most of Africa and mainland Asia (except South Asia and Thailand), while 75 countries use LHT, which account for about a sixth of the world's land area, a quarter of its roads, and about a third of its population. In 1919, 104 of the world's territories were LHT and an equal number were RHT. Between 1919 and 1986, 34 of the LHT territories switched..."
+    },
+    {
+      "chunk_id": "wikipedia:North Korea#0000",
+      "doc_id": "wikipedia:North Korea",
+      "title": "North Korea",
+      "url": "https://en.wikipedia.org/?curid=21255",
+      "source_type": "wikipedia",
+      "score": 0.5410402774810791,
+      "text": "North Korea, officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia. It constitutes the northern half of the Korean Peninsula and borders China and Russia to the north at the Yalu (Amnok) and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone (DMZ). The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. North Korea, like South Korea, claims to be the sole legitimate government of the Korean Peninsula and adjacent islands. Pyongyang is the capital and largest city. The Korean Peninsula was first inhabited as early as the Lower Paleolithic period. Its first kingdom was noted in Chinese records in the early 7th century BCE. Following the unification of the Three Kingdoms of Korea into Silla and Balhae in the late 7th century, Korea was ruled by the Goryeo dynasty (918–1392) and the Joseon dynasty (1392–1897)."
+    },
+    {
+      "chunk_id": "wikipedia:Mandatory Palestine#0000",
+      "doc_id": "wikipedia:Mandatory Palestine",
+      "title": "Mandatory Palestine",
+      "url": "https://en.wikipedia.org/?curid=38584582",
+      "source_type": "wikipedia",
+      "score": 0.5340438783168793,
+      "text": "Mandatory Palestine, officially known as Palestine, was a British administrative territory that existed between 1920 and 1948 in the region of Palestine, and after 1922, under the terms of the League of Nations' Mandate for Palestine. The territory was administerd by the British, who deemed it presently unfit for self-governance. After an Arab uprising against the Ottoman Empire during the First World War in 1916, British Empire forces drove Ottoman forces out of the Levant. For the British, the United Kingdom had agreed in the McMahon–Hussein Correspondence that it would honour Arab independence in case of a revolt but, in the end, the United Kingdom and France divided what had been Ottoman Syria under the Sykes–Picot Agreement—an act of betrayal in the eyes of the Arabs. Another issue that later arose was the Balfour Declaration of 1917, in which Britain promised its support for the establishment of a Jewish \"national home\" in Palestine."
+    },
+    {
+      "chunk_id": "wikipedia:Italy#0001",
+      "doc_id": "wikipedia:Italy",
+      "title": "Italy",
+      "url": "https://en.wikipedia.org/?curid=14532",
+      "source_type": "wikipedia",
+      "score": 0.49068467915058134,
+      "text": "including the ancient Romans, who conquered the Mediterranean world during the Roman Republic and ruled it for centuries during the Roman Empire. With the spread of Christianity, Rome became the seat of the Catholic Church and the Papacy. Barbarian invasions and other factors led to the decline and fall of the Western Roman Empire between late antiquity and the Early Middle Ages. By..."
+    },
+    {
+      "chunk_id": "wikipedia:State#0000",
+      "doc_id": "wikipedia:State",
+      "title": "State",
+      "url": "https://en.wikipedia.org/?curid=290282",
+      "source_type": "wikipedia",
+      "score": 0.4839880168437958,
+      "text": "State most commonly refers to: State (polity), a centralized political organization that regulates law and society within a territory Sovereign state, a sovereign polity in international law, commonly referred to as a country Nation state, a state where the majority identify with a single nation (with shared culture or ethnic group) Constituent state, a political subdivision of a state Federated state, constituent states part of a federation (examples below) State of nature, a concept within philosophy that describes the way humans acted before forming societies or civilizations State may also refer to: Arts, entertainment, and media Literature State Magazine, a monthly magazine published by the U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Switzerland#0001",
+      "doc_id": "wikipedia:Switzerland",
+      "title": "Switzerland",
+      "url": "https://en.wikipedia.org/?curid=26748",
+      "source_type": "wikipedia",
+      "score": 0.4766961336135864,
+      "text": "linguistic and cultural regions—German, French, Italian, and Romansh—reflecting a long-standing tradition of multilingualism and cultural pluralism. Swiss national identity nonetheless remains fairly cohesive, rooted in a shared historical background, common values such as federalism and direct democracy, and Alpine symbolism. Swiss nationhood transcends language, ethnicity, and religion, leading..."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_02759",
+  "queries": [
+    "\"Different\" \"People\" \"normal bikes\" \"good\" \"reason\"",
+    "\"good\" \"reason\" \"use\" \"normal\""
+  ],
+  "primary_terms": [
+    "good",
+    "reason",
+    "People",
+    "normal bikes",
+    "use",
+    "normal",
+    "bikes"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Normal People#0000",
+      "doc_id": "wikipedia:Normal People",
+      "title": "Normal People",
+      "url": "https://en.wikipedia.org/?curid=59041422",
+      "source_type": "wikipedia",
+      "score": 1.007065337896347,
+      "text": "Normal People is a 2018 novel by the Irish author Sally Rooney. Normal People is Rooney's second novel, published after Conversations with Friends (2017). It was first published by Faber & Faber on 30 August 2018. The book became a bestseller in the United States, selling almost 64,000 copies in hardcover in its first four months of release. It was also a bestseller in China, where its coming of age theme was popular with younger readers. A critically acclaimed and Emmy nominated television adaptation of the same name aired from April 2020 on BBC Three and Hulu. A number of publications ranked it one of the best books of the 2010s. Synopsis The novel follows the complex friendship and relationship between two teenagers from different social classes, Connell and Marianne, who both attend the same secondary school in County Sligo, Ireland, and, later, Trinity College Dublin (TCD). It is set during the post-2008 Irish economic downturn, from 2011 through 2015."
+    },
+    {
+      "chunk_id": "wikipedia:Good#0000",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.9213173806667327,
+      "text": "In most contexts, the concept of good denotes the conduct that should be preferred when posed with a choice between possible actions. Good is generally considered to be the opposite of evil. The specific meaning and etymology of the term and its associated translations among ancient and contemporary languages show substantial variation in its inflection and meaning, depending on circumstances of place and history, or of philosophical or religious context. History of Western ideas Every language has a word expressing good in the sense of \"having the right or desirable quality\" (ἀρετή) and bad in the sense \"undesirable\". A sense of moral judgment and a distinction \"right and wrong, good and bad\" are cultural universals. Plato and Aristotle Although the history of the origin of the use of the concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect."
+    },
+    {
+      "chunk_id": "wikipedia:Normal#0000",
+      "doc_id": "wikipedia:Normal",
+      "title": "Normal",
+      "url": "https://en.wikipedia.org/?curid=151652",
+      "source_type": "wikipedia",
+      "score": 0.8648297607898712,
+      "text": "Normal(s) or The Normal(s) may refer to: Film and television Normal (2003 film), starring Jessica Lange and Tom Wilkinson Normal (2007 film), starring Carrie-Anne Moss, Kevin Zegers, Callum Keith Rennie, and Andrew Airlie Normal (2009 film), an adaptation of Anthony Neilson's 1991 play Normal: The Düsseldorf Ripper Normal!, a 2011 Algerian film The Normals (film), a 2012 American comedy film Normal (2025 film), starring Bob Odenkirk, with Lena Headey and Henry Winkler \"Normal\" (New Girl), an episode of the TV series Mathematics Normal (geometry), an object such as a line or vector that is perpendicular to a given object Normal basis (of a Galois extension), used heavily in cryptography Normal bundle Normal cone, of a subscheme in algebraic geometry Normal coordinates, in differential geometry, local coordinates obtained from the exponential map (Riemannian geometry) Normal distribution, the Gaussian continuous probability distribution Normal equations, describing the solution of the"
+    },
+    {
+      "chunk_id": "wikipedia:Reason#0000",
+      "doc_id": "wikipedia:Reason",
+      "title": "Reason",
+      "url": "https://en.wikipedia.org/?curid=42446",
+      "source_type": "wikipedia",
+      "score": 0.8378029942512513,
+      "text": "Reason is the capacity of consciously applying logic by drawing valid conclusions from new or existing information, with the aim of seeking truth. It is associated with such characteristically human activities as philosophy, religion, science, language, and mathematics, and is normally considered to be a distinguishing ability possessed by humans. Reason is sometimes referred to as rationality, although the latter is more about its application. Reasoning involves using more-or-less rational processes of thinking and cognition to extrapolate from one's existing knowledge to generate new knowledge, and involves the use of one's intellect. The field of logic studies the ways in which humans can use formal reasoning to produce logically valid arguments and true conclusions. Reasoning may be subdivided into forms of logical reasoning, such as deductive reasoning, inductive reasoning, and abductive reasoning."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.6189039021730423,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Normal#0001",
+      "doc_id": "wikipedia:Normal",
+      "title": "Normal",
+      "url": "https://en.wikipedia.org/?curid=151652",
+      "source_type": "wikipedia",
+      "score": 0.5661785364151001,
+      "text": "map (Riemannian geometry) Normal distribution, the Gaussian continuous probability distribution Normal equations, describing the solution of the linear least squares problem Normal extensions (or quasi-Galois), field extensions, splitting fields for a set of polynomials over the base field Normal family, a pre-compact family of continuous..."
+    },
+    {
+      "chunk_id": "wikipedia:Best#0000",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.5435614794492721,
+      "text": "Best or The Best may refer to: People Best (surname), people with the surname Best Best (footballer, born 1968), retired Portuguese footballer Companies and organizations Best & Co., an 1879–1971 clothing chain Best Lock Corporation, a lock manufacturer Best Manufacturing Company, a farm machinery company Best Products, a chain of catalog showroom retail stores Brihanmumbai Electric Supply and Transport, a public transport and utility provider Best High School (disambiguation) Best Denki, a Japanese electronics retailer Acronyms Berkeley Earth Surface Temperature, a project to assess global temperature records BEST Robotics, a student competition BioEthanol for Sustainable Transport Bootstrap error-adjusted single-sample technique, a statistical method Bringing Examination and Search Together, a European Patent Office initiative Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai"
+    },
+    {
+      "chunk_id": "wikipedia:Society#0001",
+      "doc_id": "wikipedia:Society",
+      "title": "Society",
+      "url": "https://en.wikipedia.org/?curid=37235",
+      "source_type": "wikipedia",
+      "score": 0.5389652907848358,
+      "text": "norms. So far as it is collaborative, a society can enable its members to benefit in ways that would otherwise be difficult on an individual basis. Societies vary based on level of technology and type of economic activity. Larger societies with larger food surpluses often exhibit stratification or dominance patterns. Societies can have many different forms of government, various ways of understanding..."
+    },
+    {
+      "chunk_id": "wikipedia:Good#0001",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.49302653074264524,
+      "text": "concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect. The first references that are seen in Plato's The Republic to the Form of the Good are within the conversation between Glaucon and Socrates (454c–d). When trying to answer such difficult questions pertaining to the definition of justice..."
+    },
+    {
+      "chunk_id": "wikipedia:Respect#0000",
+      "doc_id": "wikipedia:Respect",
+      "title": "Respect",
+      "url": "https://en.wikipedia.org/?curid=364338",
+      "source_type": "wikipedia",
+      "score": 0.4595905363559723,
+      "text": "Respect, also called esteem, is a positive feeling or deferential action shown towards someone or something considered important or held in high esteem or regard. It conveys a sense of admiration for good or valuable qualities. It is also the process of honoring someone by exhibiting care, concern, or consideration for their needs or feelings. In many cultures, people are considered to be worthy of respect until they prove otherwise. Some people may earn special respect through their exemplary actions or social roles. In \"honor cultures\", respect is more often earned in this way than granted by default. Courtesies that show respect may include simple words and phrases like \"thank you\" in the West or \"namaste\" in the Indian subcontinent, or simple physical signs like a slight bow, a smile, direct eye contact, or a handshake. Such acts may have very different interpretations depending on the cultural context. The end goal is for all people to be treated with respect."
+    }
+  ]
+}

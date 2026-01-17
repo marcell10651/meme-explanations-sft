@@ -1,0 +1,194 @@
+{
+  "meme_id": "meme_02733",
+  "queries": [
+    "\"wait\" \"say\" \"tell\" \"look\"",
+    "\"tell\" \"look\" \"mother\" \"lets\""
+  ],
+  "primary_terms": [
+    "wait",
+    "say",
+    "your mother",
+    "tell",
+    "look",
+    "mother",
+    "lets"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.7967039704322815,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Tell#0000",
+      "doc_id": "wikipedia:Tell",
+      "title": "Tell",
+      "url": "https://en.wikipedia.org/?curid=4638647",
+      "source_type": "wikipedia",
+      "score": 0.7112092435359955,
+      "text": "Tell may refer to: Tell (archaeology), a type of archaeological site Tell (name), a name used as a given name and a surname Tell (poker), a subconscious behavior that can betray information to an observant opponent Arts, entertainment, and media Tell (2012 film), a short psychological horror film by Ryan Connolly Tell (2014 film), a crime thriller starring Katee Sackhoff, Jason Lee and Milo Ventimiglia Tell Magazine, a Nigerian newsweekly \"The Tell\", an episode of NCIS \"The Tell\" (Teen Wolf), a television episode The Tell, a photomural, part of the Laguna Canyon Project Places Middle East Tel Aviv, Israel Et-Tell, an archaeological site identified with Bethsaida Tell, West Bank, a Palestinian village near Nablus Ancient Tell, Beirut, Lebanon; the Canaanite pre-Phoenician era of Beirut and archaeological site United States Tell, Texas, unincorporated community in the United States Tell, Wisconsin, town in the United States Tell City, Indiana, township in the United States Tell"
+    },
+    {
+      "chunk_id": "wikipedia:Appearance#0000",
+      "doc_id": "wikipedia:Appearance",
+      "title": "Appearance",
+      "url": "https://en.wikipedia.org/?curid=8104650",
+      "source_type": "wikipedia",
+      "score": 0.7037677526473999,
+      "text": "Appearance may refer to: Visual appearance, the way in which objects reflect and transmit light Human physical appearance, what someone looks like Appearances (film), a 1921 film directed by Donald Crisp Appearance (philosophy), or phenomenon Phantasiai, a term in ancient Greek philosophy variously translated as \"appearances,\" \"impressions,\" \"presentations,\" and \"representations.\" Appearance (law), the coming into court of either of the parties to a suit, and/or the formal act by which a defendant submits himself to the jurisdiction of the court. Appear or Appears may refer to: \"Appear\" (나타나) a song from Secret Garden OST (2010), by Kim Bum-soo."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.7007060050964355,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:Tell#0001",
+      "doc_id": "wikipedia:Tell",
+      "title": "Tell",
+      "url": "https://en.wikipedia.org/?curid=4638647",
+      "source_type": "wikipedia",
+      "score": 0.6465340912342071,
+      "text": "Texas, unincorporated community in the United States Tell, Wisconsin, town in the United States Tell City, Indiana, township in the United States Tell Township, Emmons County, North Dakota, township in the United States Tell Township, Pennsylvania, township in the United States See also All pages with titles beginning with Tell..."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0001",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.6443872213363647,
+      "text": "looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act. Looking versus seeing \"Looking\" and \"seeing\" are traditionally contrasted in a number of ways, although their usage often overlaps. Looking can be characterized as \"the action precedent to seeing\". Any kind of looking or viewing actually implies \"seeing\" certain things within the range..."
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.611277824640274,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Mama#0000",
+      "doc_id": "wikipedia:Mama",
+      "title": "Mama",
+      "url": "https://en.wikipedia.org/?curid=383334",
+      "source_type": "wikipedia",
+      "score": 0.5647324442863464,
+      "text": "Mama(s) or Mamma or Momma may refer to: Roles Mother, a female parent Mama-san, in Japan and East Asia, a woman in a position of authority Maternal uncle, in some parts of South Asia Places Mama, Russia, an urban-type settlement in the Mamsko-Chuysky District of Irkutsk Oblast, Russia Mama Airport, an airport located near the settlement Mama (river), a tributary of the Vitim of which the settlement takes its name Mama Municipality, Yucatán, a municipality Mama, Yucatán, the municipal seat of the Mama Municipality, Yucatán Anatomy The breast, the upper ventral region of a mammal's torso; see: Mamma (anatomy) of humans Mammary gland of female mammals Udder of female quadruped mammals Art, entertainment, and media People and fictional characters Big Bad Mama, stage name of Lynn Braxton, professional wrestler from the Gorgeous Ladies of Wrestling Big Mama, former manager of American professional wrestler Jimmy Valiant (born 1942) Gemma Teller Morrow, a character on The Sons of Anarchy"
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0000",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.5640144109725952,
+      "text": "Wait or WAIT may refer to: Music Wait (musician), British town pipers Albums and EPs Wait (The Polyphonic Spree EP), by The Polyphonic Spree Wait (Emanuel Nice EP), a 2002 EP released by the band Emanuel Nice Wait (Steelheart album), or the title song Wait (Sons of Korah album), 2011 Wait (Pardon Us album), 2019 Songs \"Wait\" (Beatles song), 1965 \"Wait\" (Chantel Jeffries song), 2018 \"Wait\" (Earshot song), 2004 \"Wait\" (Huffamoose song), 1997 \"Wait\" (Gyan song), 1989 \"Wait\" (M83 song), 2012 \"Wait\" (Maggie Reilly song), 1992 \"Wait\" (Maroon 5 song), 2018 \"Wait\" (Seven Mary song), 2001 \"Wait\" (Wang Chung song), 1984 \"Wait\" (White Lion song), 1987 \"Wait (The Whisper Song)\", by Ying Yang Twins, 2005 \"Wait\", by 6ix9ine from TattleTales, 2020 \"Wait\", by The Afters from I Wish We All Could Win, 2005 \"Wait\", by C418 from Minecraft – Volume Beta, 2013 \"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV"
+    },
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0001",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.5584912002086639,
+      "text": "What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help. Early episodes featured both men and women; however, as the men's transformations did not prove to be as remarkable, all later episodes featured women exclusively. Some episodes featured both the nominee and the nominator being..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A dad is holding his baby who is looking at his mom who also has a baby face.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "his baby",
+          "his mom"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster is comparing the child's looks with the child of moms that shows the attitude of his wife",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the child's looks",
+          "the child",
+          "moms",
+          "the attitude",
+          "his wife"
+        ]
+      },
+      "title": {
+        "text": "Wait do they say that ;-;",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "wait",
+          "say"
+        ]
+      },
+      "text": {
+        "text": "When they tell you look just like your mother Lets i! a \\ Yi ‘ i‘ ‘ j _f . . .",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "your mother",
+          "tell",
+          "look",
+          "mother",
+          "lets"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "wait",
+      "say",
+      "your mother",
+      "tell",
+      "look",
+      "mother",
+      "lets"
+    ],
+    "secondary_terms": [
+      "his baby",
+      "his mom",
+      "the child's looks",
+      "the child",
+      "moms",
+      "the attitude",
+      "his wife"
+    ],
+    "queries": [
+      "\"wait\" \"say\" \"tell\" \"look\"",
+      "\"tell\" \"look\" \"mother\" \"lets\""
+    ]
+  },
+  "source_jsonl_id": null
+}

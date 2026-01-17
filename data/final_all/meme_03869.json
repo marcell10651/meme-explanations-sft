@@ -1,0 +1,203 @@
+{
+  "meme_id": "meme_03869",
+  "queries": [
+    "\"Sailor Moon Netflix\" \"netflix\" \"sailor\" \"moon\"",
+    "\"sailor\" \"moon\" \"looking\" \"crazy\""
+  ],
+  "primary_terms": [
+    "Sailor Moon Netflix",
+    "sailor",
+    "moon",
+    "netflix",
+    "looking",
+    "crazy",
+    "anime",
+    "ner",
+    "ard",
+    "adaptation",
+    "raed"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Different Colors#0000",
+      "doc_id": "wikipedia:Different Colors",
+      "title": "Different Colors",
+      "url": "https://en.wikipedia.org/?curid=47055403",
+      "source_type": "wikipedia",
+      "score": 0.6769607782363891,
+      "text": "\"Different Colors\" is a song written and recorded by American rock band Walk the Moon for their second studio album, Talking Is Hard (2014). The song was released to US alternative radio stations by RCA Records as the album's second single on May 5, 2015. Described as an alternative rock, electropop, indie rock, and pop song, it is lyrically about celebrating and embracing each other's differences by speaking out against discrimination of any kind. Some music critics gave \"Different Colors\" praise for its chorus and production; others felt it was a step down from the band's earlier singles. The song peaked at number seven on the Billboard Alternative Songs chart, becoming Walk the Moon's third top ten track on the chart. A music video for the song was released on June 11, 2015, featuring footage of the band touring with colorful visuals. The song was performed live by Walk the Moon at award shows, including the 2015 MTV Video Music Awards."
+    },
+    {
+      "chunk_id": "wikipedia:For Your Eyes Only (film)#0001",
+      "doc_id": "wikipedia:For Your Eyes Only (film)",
+      "title": "For Your Eyes Only (film)",
+      "url": "https://en.wikipedia.org/?curid=6446044",
+      "source_type": "wikipedia",
+      "score": 0.6243211388587951,
+      "text": "becoming tangled in a web of deception spun by rival Greek smugglers along with Melina Havelock, a woman seeking to avenge the murder of her parents. After the science-fiction-focused Moonraker, the producers wanted a return to the style of the early Bond films and the works of 007 creator Fleming. For Your Eyes Only followed a grittier, more realistic approach and a narrative theme of revenge and its..."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.563629275560379,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:Perfect#0000",
+      "doc_id": "wikipedia:Perfect",
+      "title": "Perfect",
+      "url": "https://en.wikipedia.org/?curid=217503",
+      "source_type": "wikipedia",
+      "score": 0.5317763149738312,
+      "text": "Perfect commonly refers to: Perfection; completeness, and excellence Perfect (grammar), a grammatical category in some languages Perfect may also refer to: Film and television Perfect (1985 film), a romantic drama Perfect (2018 film), a science fiction thriller \"Perfect\" (Doctors), a 2004 television episode Literature Perfect (Friend novel), a 2004 novel by Natasha Friend Perfect (Hopkins novel), a young adult novel by Ellen Hopkins Perfect (Joyce novel), a 2013 novel by Rachel Joyce Perfect (Shepard novel), a Pretty Little Liars novel by Sara Shepard Perfect, a young adult science fiction novel by Dyan Sheldon Music Perfect interval, in music theory Perfect Records, a record label Artists Perfect (musician) (born 1980), reggae singer Perfect (Polish band) Perfect (American band), an American alternative rock group Albums Perfect (Intwine album) (2004) Perfect (Half Japanese album) (2016) perfecT, an album by Sam Shaber Perfect, an album by True Faith or its title track Perfect, an"
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo#0000",
+      "doc_id": "wikipedia:Leonardo",
+      "title": "Leonardo",
+      "url": "https://en.wikipedia.org/?curid=11525478",
+      "source_type": "wikipedia",
+      "score": 0.5122791588306427,
+      "text": "Leonardo or The Leonardo may refer to: Arts and entertainment Leonardo Journal, an arts journal Leonardo (Italian magazine), a philosophy magazine published in Florence, Italy, in 1903–1907 Leonardo (journal), published by the MIT Press Leonardo (Teenage Mutant Ninja Turtles), one of the main characters in the Teenage Mutant Ninja Turtles franchise Leonardo (TV channel), an Italian television channel Leonardo (2011 TV series), a CBBC television series which centers around teenage Leonardo da Vinci played by Jonathan Bailey Leonardo (2021 TV series), an Italian-American television series Leonardo the Musical: A Portrait of Love, a 1993 musical Leonardo/ISAST, the International Society for the Arts, Sciences and Technology \"The Leonardo\", a 1933 short story written in Russian by Vladimir Nabokov Leonardo, the assistant of inventor Clyde Crashcup People Leonardo da Vinci (1452–1519), Italian polymath Leonardo Araújo, Brazilian former footballer and manager, most recently the sporting"
+    },
+    {
+      "chunk_id": "wikipedia:Mona#0000",
+      "doc_id": "wikipedia:Mona",
+      "title": "Mona",
+      "url": "https://en.wikipedia.org/?curid=55441",
+      "source_type": "wikipedia",
+      "score": 0.4869670033454895,
+      "text": "Mona may refer to: People Mona (name), a female given name, nickname and surname Mona (Angolan footballer) (born 1997) Mona (Brazilian footballer), Marcelo Alexandre Pires Correia (born 1973) Mona, ring name of American wrestler Nora Greenwald Museums Museum of Nebraska Art, Kearney, Nebraska, US Museum of Neon Art, Los Angeles, California, United States Museum of Northwest Art, La Conner, Washington, United States Museum of Old and New Art, Hobart, Tasmania, Australia Music Mona (band), a Nashville-located alternative rock band Mona (album), released in 2011 Mona – The Carnivorous Circus, a 1970 album by The Deviants \"Mona (I Need You Baby)\", a 1957 song by Bo Diddley \"Mona\", a song by James Taylor from his 1985 album That's Why I'm Here \"Mona\", a song by the Beach Boys from their 1977 album Love You \"Mona\", a song by Nick Mulvey from his 2022 album New Mythology Mona (opera), a 1912 opera by Horatio Parker Places Settlements Mona, Anglesey, a village on the Welsh island of Anglesey"
+    },
+    {
+      "chunk_id": "wikipedia:Tanna#0001",
+      "doc_id": "wikipedia:Tanna",
+      "title": "Tanna",
+      "url": "https://en.wikipedia.org/?curid=4651537",
+      "source_type": "wikipedia",
+      "score": 0.4681568443775177,
+      "text": "2015 film set on the island of Tanna, Vanuatu Tanna languages, a subgroup of the South Vanuatu languages See also Tana (disambiguation) All pages with titles beginning with Tanna All pages with titles containing Tanna"
+    },
+    {
+      "chunk_id": "wikipedia:Wong#0000",
+      "doc_id": "wikipedia:Wong",
+      "title": "Wong",
+      "url": "https://en.wikipedia.org/?curid=311749",
+      "source_type": "wikipedia",
+      "score": 0.46404385566711426,
+      "text": "Wong or Mr Wong may refer to: Name Wong (surname), a Chinese surname, listing people and fictional characters with the surname Wong (Marvel Comics), manservant/mentor to Doctor Strange Sr./Jr. in Marvel Comics Wong (Marvel Cinematic Universe), the portrayal of the character in the Marvel Cinematic Universe Mr. Wong (fictional detective), in short stories created by Hugh Wiley Mr. Wong, a Coronation Street character Won-G (born 1978), Haitian rapper Arts and entertainment Mr. Wong (web series), an internet television series Mr. Wong, Detective, a 1938 American crime film Mr. Wong, a 1963 Filipino film starring Chiquito \"Wong\" (Marvel Studios: Legends), an episode of Marvel Studios: Legends Businesses and organisations WONG, a radio station (1150 AM) in Canton, Mississippi, USA Wong (supermarket), a supermarket chain in Peru Mister Wong, a social bookmarking website See also All pages with titles beginning with Wong All pages with titles containing Wong Huang (disambiguation) Wang"
+    },
+    {
+      "chunk_id": "wikipedia:Here#0001",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.43888765573501587,
+      "text": "2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a Singaporean film directed by Tzu Nyen Ho Here (2011 film), an American drama directed by Braden King Here (2023 film), a Belgian film directed by Bas Devos Here (2024 film), an American drama directed..."
+    },
+    {
+      "chunk_id": "wikipedia:Naruto#0001",
+      "doc_id": "wikipedia:Naruto",
+      "title": "Naruto",
+      "url": "https://en.wikipedia.org/?curid=232190",
+      "source_type": "wikipedia",
+      "score": 0.4380063980817795,
+      "text": "in 72 tankōbon volumes. Viz Media licensed the manga for North American production and serialized Naruto in their digital Weekly Shonen Jump magazine. The manga was adapted into two anime television series by Pierrot and Aniplex, which ran from October 2002 to March 2017 on TV Tokyo. Pierrot also produced 11 animated films and 12 original video animations (OVAs). The franchise additionally includes light novels, video games, and trading cards. The story continues in Boruto..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A boy happily looks at two different anime characters with swirling eyes.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "two different anime characters",
+          "swirling eyes"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that the manga and anime version of a character look somewhat similar, while Netflix versions look totally different especially in the new Sailor Moon.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the manga and anime version",
+          "Netflix versions",
+          "the new Sailor Moon"
+        ]
+      },
+      "title": {
+        "text": "Sailor Moon Netflix looking crazy",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Sailor Moon Netflix",
+          "sailor",
+          "moon",
+          "netflix",
+          "looking",
+          "crazy"
+        ]
+      },
+      "text": {
+        "text": "7 fe By. Oh ' Anime “9 fa AN Jy 5 - = Ra rh 7 ner Netflix ard adaptation » ca raed",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "anime",
+          "ner",
+          "netflix",
+          "ard",
+          "adaptation",
+          "raed"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Sailor Moon Netflix",
+      "sailor",
+      "moon",
+      "netflix",
+      "looking",
+      "crazy",
+      "anime",
+      "ner",
+      "ard",
+      "adaptation",
+      "raed"
+    ],
+    "secondary_terms": [
+      "two different anime characters",
+      "swirling eyes",
+      "the manga and anime version",
+      "Netflix versions",
+      "the new Sailor Moon"
+    ],
+    "queries": [
+      "\"Sailor Moon Netflix\" \"netflix\" \"sailor\" \"moon\"",
+      "\"sailor\" \"moon\" \"looking\" \"crazy\""
+    ]
+  },
+  "source_jsonl_id": null
+}

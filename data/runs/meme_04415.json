@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_04415",
+  "queries": [
+    "\"Multipurpose gloves\" \"MISSING FINGERTIES\" \"multipurpose\" \"gloves\"",
+    "\"multipurpose\" \"gloves\" \"real\" \"reason\""
+  ],
+  "primary_terms": [
+    "Multipurpose gloves",
+    "multipurpose",
+    "gloves",
+    "MISSING FINGERTIES",
+    "real",
+    "reason",
+    "missing",
+    "fingerties",
+    "wed",
+    "sas"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Hand#0001",
+      "doc_id": "wikipedia:Hand",
+      "title": "Hand",
+      "url": "https://en.wikipedia.org/?curid=19166474",
+      "source_type": "wikipedia",
+      "score": 0.8542979955673218,
+      "text": "four fingers plus one thumb; however, these are often referred to collectively as five fingers, whereby the thumb is included as one of the fingers. It has 27 bones, not including the sesamoid bone, the number of which varies among people, 14 of which are the phalanges (proximal, intermediate and distal) of the fingers and thumb. The metacarpal bones connect the fingers and the carpal bones of the wrist. Each human hand has five..."
+    },
+    {
+      "chunk_id": "wikipedia:Finger#0000",
+      "doc_id": "wikipedia:Finger",
+      "title": "Finger",
+      "url": "https://en.wikipedia.org/?curid=37618",
+      "source_type": "wikipedia",
+      "score": 0.7430790871381759,
+      "text": "A finger is a prominent digit on the forelimbs of most tetrapod vertebrate animals, especially those with prehensile extremities (i.e. hands) such as humans and other primates. Most tetrapods have five digits (pentadactyly), and short digits (i.e. significantly shorter than the metacarpal/metatarsals) are typically referred to as toes, while those that are notably elongated are called fingers. In humans, the fingers are flexibly articulated and opposable, serving as an important organ of tactile sensation and fine movements, which are crucial to the dexterity of the hands and the ability to grasp and manipulate objects Humans Usually humans have five digits, the bones of which are termed phalanges, on each hand, although some people have more or fewer than five due to congenital disorders such as polydactyly or oligodactyly, or accidental or intentional amputations. The first digit is the thumb, followed by the index finger, middle finger, ring finger, and little finger or pinkie."
+    },
+    {
+      "chunk_id": "wikipedia:Pocket#0000",
+      "doc_id": "wikipedia:Pocket",
+      "title": "Pocket",
+      "url": "https://en.wikipedia.org/?curid=416041",
+      "source_type": "wikipedia",
+      "score": 0.5290771484375,
+      "text": "A pocket is a small bag- or envelope-shaped compartment that is either sewn into or attached to clothing, designed for carrying small items. Pockets are also found on luggage, backpacks, and similar containers. Historically, the term could also refer to a separate pouch or small bag. Origins Ancient civilizations used leather or cloth pouches to store valuables. The Copper Age mummy known as Ötzi (also called the \"Iceman\"), who lived around 3,300 BCE, wore a belt with a sewn-on pouch containing tools and materials such as a scraper, drill, flint flake, bone awl, and dried tinder fungus. In medieval Europe, early pocket-like openings called fitchets appeared in the 13th century. These vertical slits, cut into the outer tunic, allowed access to a purse or keys suspended from the girdle beneath. Historian Rebecca Unsworth notes that pockets became more visible in the late 15th century, and their use spread widely in the 16th century."
+    },
+    {
+      "chunk_id": "wikipedia:Lockdown#0001",
+      "doc_id": "wikipedia:Lockdown",
+      "title": "Lockdown",
+      "url": "https://en.wikipedia.org/?curid=2530301",
+      "source_type": "wikipedia",
+      "score": 0.5007821917533875,
+      "text": "to address an unusual scenario or a weakness in system to preempt any danger to ensure the safety and security of people, organisation and system. The focus for preventive actions is to avoid dangers and risks arising from the nonconformity to the normal circumstances, but also commonly includes improvements in efficiency. Preventive lockdowns are preemptive lockdowns..."
+    },
+    {
+      "chunk_id": "wikipedia:Accessory#0001",
+      "doc_id": "wikipedia:Accessory",
+      "title": "Accessory",
+      "url": "https://en.wikipedia.org/?curid=1949788",
+      "source_type": "wikipedia",
+      "score": 0.4825356602668762,
+      "text": "and terminating cables Accessory fruit, in which some of the flesh is derived from tissues other than the flower ovary See also All pages with titles beginning with Accessory All pages with titles containing Accessory Access (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Trinity#0000",
+      "doc_id": "wikipedia:Trinity",
+      "title": "Trinity",
+      "url": "https://en.wikipedia.org/?curid=30511",
+      "source_type": "wikipedia",
+      "score": 0.46955316364765165,
+      "text": "The Trinity (Latin: Trinitas, lit. 'triad', from trinus 'threefold') is a Christian doctrine concerning the nature of God, which defines one God existing in three coeternal, consubstantial divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases) sharing one essence/substance/nature (homoousion). As the Fourth Lateran Council declared, it is the Father who begets, the Son who is begotten, and the Holy Spirit who proceeds. In this context, one essence/nature defines what God is, while the three persons define who God is. This expresses at once their distinction and their indissoluble unity. Thus, the entire process of creation and grace is viewed as a single shared action of the three divine persons, in which each person manifests the attributes unique to them in the Trinity, thereby proving that everything comes \"from the Father\", \"through the Son\", and \"in the Holy Spirit\"."
+    },
+    {
+      "chunk_id": "wikipedia:Reason#0000",
+      "doc_id": "wikipedia:Reason",
+      "title": "Reason",
+      "url": "https://en.wikipedia.org/?curid=42446",
+      "source_type": "wikipedia",
+      "score": 0.4678379654884338,
+      "text": "Reason is the capacity of consciously applying logic by drawing valid conclusions from new or existing information, with the aim of seeking truth. It is associated with such characteristically human activities as philosophy, religion, science, language, and mathematics, and is normally considered to be a distinguishing ability possessed by humans. Reason is sometimes referred to as rationality, although the latter is more about its application. Reasoning involves using more-or-less rational processes of thinking and cognition to extrapolate from one's existing knowledge to generate new knowledge, and involves the use of one's intellect. The field of logic studies the ways in which humans can use formal reasoning to produce logically valid arguments and true conclusions. Reasoning may be subdivided into forms of logical reasoning, such as deductive reasoning, inductive reasoning, and abductive reasoning."
+    },
+    {
+      "chunk_id": "wikipedia:Soap#0001",
+      "doc_id": "wikipedia:Soap",
+      "title": "Soap",
+      "url": "https://en.wikipedia.org/?curid=57875",
+      "source_type": "wikipedia",
+      "score": 0.45692072808742523,
+      "text": "(sodium) or K (potassium). When used for cleaning, soap solubilizes particles and grime, which can then be separated from the article being cleaned. The insoluble oil/fat \"dirt\" become associated inside micelles, tiny spheres formed from soap molecules with polar hydrophilic (water-attracting) groups on the outside and encasing a lipophilic (fat-attracting) pocket..."
+    },
+    {
+      "chunk_id": "wikipedia:Setup#0001",
+      "doc_id": "wikipedia:Setup",
+      "title": "Setup",
+      "url": "https://en.wikipedia.org/?curid=15988526",
+      "source_type": "wikipedia",
+      "score": 0.45571671426296234,
+      "text": "manufacturing changeover See also Setting up to fail, a manipulative technique to engineer failure Set (disambiguation) Setting (disambiguation) The Set-Up (disambiguation) All pages with titles beginning with Setup All pages with titles containing Setup All pages with titles beginning with Set up All pages with..."
+    },
+    {
+      "chunk_id": "wikipedia:Surgeon#0001",
+      "doc_id": "wikipedia:Surgeon",
+      "title": "Surgeon",
+      "url": "https://en.wikipedia.org/?curid=9104734",
+      "source_type": "wikipedia",
+      "score": 0.44814229011535645,
+      "text": "-saṃhitā is one of the most important surviving ancient treatises on medicine and is considered a foundational text of both Ayurveda and surgery. The treatise addresses all aspects of general medicine, but the translator G. D. Singhal dubbed Sushruta \"the father of surgical intervention\" on account of the extraordinarily accurate and detailed accounts..."
+    }
+  ]
+}

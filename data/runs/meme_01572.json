@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_01572",
+  "queries": [
+    "\"his poiiy\" \"the dog\" \"help\" \"potty\"",
+    "\"The girl\" \"his poiiy\" \"the dog\" \"the left\"",
+    "\"the dog\" \"the left\" \"the woman\" \"the right\""
+  ],
+  "primary_terms": [
+    "help",
+    "potty",
+    "his poiiy",
+    "the dog"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Spot#0001",
+      "doc_id": "wikipedia:Spot",
+      "title": "Spot",
+      "url": "https://en.wikipedia.org/?curid=67090",
+      "source_type": "wikipedia",
+      "score": 0.9950964450836182,
+      "text": "on public broadcasting outlets, especially in the United States, in exchange for funding Animals Spot, a dog that remained faithful after his master's death, described in the List of individual dogs Spot Fetcher, a dog owned by U.S. President George W. Bush Arts and entertainment Fictional characters Spot, a character..."
+    },
+    {
+      "chunk_id": "wikipedia:Welsh Corgi#0000",
+      "doc_id": "wikipedia:Welsh Corgi",
+      "title": "Welsh Corgi",
+      "url": "https://en.wikipedia.org/?curid=247458",
+      "source_type": "wikipedia",
+      "score": 0.7470647305250168,
+      "text": "The Welsh Corgi ( or Corgi (pl. Corgis); occasionally the etymologically consistent Corgwn ) is a small type of herding dog that originated in Wales. The name corgi is thought to be derived from the Welsh words cor and ci (which is mutated to gi), meaning \"dwarf\" and \"dog\", respectively. Two separate breeds are recognised: the Pembroke Welsh Corgi and the Cardigan Welsh Corgi. Physical differences are seen between the two breeds. According to the breed standards, overall, the Cardigan is larger in weight and height and has a much longer tail than the Pembroke. Historically, the Pembroke has been attributed to the influx of dogs alongside Flemish weavers from around the 14th century. In contrast, the Cardigan is attributed to the dogs brought with Norse settlers, in particular a common ancestor of the Swedish Vallhund. The Pembroke is the more popular of the two, yet still appears on the Kennel Club's vulnerable dog breeds of the United Kingdom list."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.684862032532692,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Left- and right-hand traffic#0000",
+      "doc_id": "wikipedia:Left- and right-hand traffic",
+      "title": "Left- and right-hand traffic",
+      "url": "https://en.wikipedia.org/?curid=213380",
+      "source_type": "wikipedia",
+      "score": 0.549125462770462,
+      "text": "Left-hand traffic (LHT) and right-hand traffic (RHT) are the practices, in bidirectional traffic, of keeping to the left side or to the right side of the road, respectively. They are fundamental to traffic flow, and are sometimes called the rule of the road. The terms right- and left-hand drive refer to the position of the driver and the steering wheel in the vehicle and are, in automobiles, the reverse of the terms right- and left-hand traffic. The rule also includes where on the road a vehicle is to be driven, if there is room for more than one vehicle in one direction, and the side on which the vehicle in the rear overtakes the one in the front. For example, a driver in an LHT country would typically overtake on the right of the vehicle being overtaken."
+    },
+    {
+      "chunk_id": "wikipedia:Another Man, Another Chance#0000",
+      "doc_id": "wikipedia:Another Man, Another Chance",
+      "title": "Another Man, Another Chance",
+      "url": "https://en.wikipedia.org/?curid=17874058",
+      "source_type": "wikipedia",
+      "score": 0.5244848132133484,
+      "text": "Another Man, Another Chance (Un autre homme, une autre chance, UK title: Another Man, Another Woman) is a 1977 French western film directed by Claude Lelouch. Plot France in 1870: Napoleon III has just lost the war against Prussia and left the country in poverty. Young Jeanne (Geneviève Bujold) falls in love with photographer Francis (Francis Huster), who soon takes her with him when he emigrates to The United States. In a small town in the still Wild West, they build up a small photo shop. Meanwhile, animal doctor David (James Caan) lives on his lonesome farm with his wife. It takes two years and two tragic accidents until Jeanne and David meet. Alone with a child, Jeanne has decided to return to France and is about to leave but then she and David silently and carefully fall in love for the second time in their lives and hope returns."
+    },
+    {
+      "chunk_id": "wikipedia:Actually#0000",
+      "doc_id": "wikipedia:Actually",
+      "title": "Actually",
+      "url": "https://en.wikipedia.org/?curid=750827",
+      "source_type": "wikipedia",
+      "score": 0.4808027446269989,
+      "text": "Actually (stylised as Pet Shop Boys, actually.) is the second studio album by English synth-pop duo Pet Shop Boys, released on 7 September 1987 by Parlophone in the United Kingdom and by EMI Manhattan in North America. The album features two number one singles, \"It's a Sin\" and \"Heart\", and a duet with Dusty Springfield, \"What Have I Done to Deserve This?\" Actually is the Pet Shop Boys' top-selling album in the UK, certified triple platinum with over one million sales; worldwide it has sold over four million copies. Background and recording For their second album, Pet Shop Boys still had material from their early songwriting days, including \"It's a Sin\" (1982), \"Rent\" (1984), and \"One More Chance\" which they had recorded with Bobby Orlando and released as an unsuccessful single outside the UK in 1984."
+    },
+    {
+      "chunk_id": "wikipedia:My Left Foot#0000",
+      "doc_id": "wikipedia:My Left Foot",
+      "title": "My Left Foot",
+      "url": "https://en.wikipedia.org/?curid=129542",
+      "source_type": "wikipedia",
+      "score": 0.48044106364250183,
+      "text": "My Left Foot: The Story of Christy Brown is a 1989 biographical comedy-drama film directed by Jim Sheridan (in his directorial debut) and adapted by Sheridan and Shane Connaughton from the 1954 memoir by Christy Brown. A co-production of Ireland and the United Kingdom, it stars Daniel Day-Lewis as Brown, an Irish man born with cerebral palsy, who could control only his left foot. Brown grew up in a poor working-class family and became a writer and artist. Brenda Fricker, Ray McAnally, Hugh O'Conor, Fiona Shaw, and Cyril Cusack are featured in supporting roles. The film was theatrically released on 24 February 1989 to critical acclaim and commercial success, grossing $14.7 million on a £600,000 budget. Reviewers praised the film's screenplay, direction, message, and especially the performances of Day-Lewis and Fricker."
+    },
+    {
+      "chunk_id": "wikipedia:Bing#0001",
+      "doc_id": "wikipedia:Bing",
+      "title": "Bing",
+      "url": "https://en.wikipedia.org/?curid=23443579",
+      "source_type": "wikipedia",
+      "score": 0.4539603888988495,
+      "text": "(company), a German company that manufactured toys and kitchen utensils Bing (dog), a British dog who served in World War II Bing (mining), a Scottish term for mining waste Bing & Bing, a former New York real estate development company Bing Concert Hall, a building on the Stanford University campus Barbershop in Germany or..."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0001",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.44410964846611023,
+      "text": "state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son. The principal, worried for his school's reputation, tries to contain the situation and hides the letter in his office, while the four parents instructs their children to keep quiet. Ho-chang, curious to..."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0000",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.4383449852466583,
+      "text": "Things or The Things may refer to: Music Things (album), by Uri Caine and Paolo Fresu, 2006 \"Things\" (Bobby Darin song), 1962; covered by Ronnie Dove, 1975 \"Things\", a song by Joe Walsh from There Goes the Neighborhood, 1981 \"Things\", a song by John Cale from HoboSapiens, 2003 \"Things\", a song by Split Enz, 1979 \"Things\", a song by Paul Westerberg from 14 Songs, 1993 \"The Things\", a song by Audio Bullys from Ego War, 2003 Literature Things, a 1914 novel by Alice Duer Miller Things: A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K."
+    }
+  ]
+}

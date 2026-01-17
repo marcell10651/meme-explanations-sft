@@ -1,0 +1,214 @@
+{
+  "meme_id": "meme_00100",
+  "queries": [
+    "\"Milking\" \"Reddit\" \"the life\" \"there reddit\" \"reddit right\"",
+    "\"there reddit\" \"reddit right\" \"milking\" \"life\""
+  ],
+  "primary_terms": [
+    "the life",
+    "milking",
+    "life",
+    "Reddit",
+    "there reddit",
+    "reddit right",
+    "doing",
+    "ons",
+    "making",
+    "dicaprio",
+    "aren",
+    "there",
+    "right",
+    "now",
+    "cer"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.98435480594635,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Work#0000",
+      "doc_id": "wikipedia:Work",
+      "title": "Work",
+      "url": "https://en.wikipedia.org/?curid=33663",
+      "source_type": "wikipedia",
+      "score": 0.8473941624164582,
+      "text": "Work may refer to: Work (human activity), intentional activity people perform to support themselves, others, or the community Manual labour, physical work done by humans House work, housework, or homemaking Working animal, an animal trained by humans to perform tasks Work (physics), the product of force and displacement Work (electric field), the work done on a charged particle by an electric field Work (thermodynamics), energy transferred by the system to its surroundings Creative work, a manifestation of creative effort Work of art, an artistic creation of aesthetic value Career, an individual's journey through learning, work and other aspects of life Employment, a relationship between two parties where work is paid for Broadcast call signs WORK (FM), now WRFK (FM), an American radio station in Vermont WORK-LP, an American low-power TV station in New Hampshire WOYK, an American AM radio station in Pennsylvania, known as WORK 1932–1973 Music The Work (band), an English post-punk rock"
+    },
+    {
+      "chunk_id": "wikipedia:Milking#0001",
+      "doc_id": "wikipedia:Milking",
+      "title": "Milking",
+      "url": "https://en.wikipedia.org/?curid=1555269",
+      "source_type": "wikipedia",
+      "score": 0.8338812947273254,
+      "text": "milking machines. Teat cups are attached to the cow's teats, and then the cups alternate between vacuum and normal air pressure to extract the milk. The milk is filtered and cooled before being added to a large bulk tank of milk for storage. The average time of milking is 5–7 minutes and a cow can be milked with a machine 2–3 times a day. The existing robotic milking has allowed cows to have the freedom..."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0000",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.7607824087142945,
+      "text": "Life is matter that has biological processes, such as signaling and the ability to sustain itself. It is defined descriptively by the capacity for homeostasis, organisation, metabolism, growth, adaptation, response to stimuli, and reproduction. All life over time eventually reaches a state of death, and none is immortal. Many philosophical definitions of living systems have been proposed, such as self-organizing systems. Defining life is further complicated by viruses, which replicate only in host cells, and the possibility of extraterrestrial life, which could be very different from life on Earth. Life exists all over the Earth in air, water, and soil, with many ecosystems forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.756775039434433,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0001",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.7325659155845642,
+      "text": ". It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world. According to data provided by Similarweb, 51.75% of the website traffic comes from the United States, followed by Canada at 7.01%, the United Kingdom at 6.97%, Australia at 3.97%, Germany at 3%, and the remaining 28.37% split among other countries. Reddit was founded by University of Virginia roommates Steve Huffman and Alexis Ohanian in June 2005, who were joined..."
+    },
+    {
+      "chunk_id": "wikipedia:Living#0001",
+      "doc_id": "wikipedia:Living",
+      "title": "Living",
+      "url": "https://en.wikipedia.org/?curid=1133759",
+      "source_type": "wikipedia",
+      "score": 0.7278224349021911,
+      "text": "program Living (2007 TV program), a 2007–2009 group of regional Canadian lifestyle programs Living (New Zealand TV channel), a New Zealand television station Living (UK TV channel), now Sky Witness, a British pay TV channel Living2, later Real Lives, a defunct sister channel Living (2012 film), a 2012 Russian drama film Living (2022..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.7256849437952042,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Delivery#0000",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.6994910061359405,
+      "text": "Delivery may refer to: Biology and medicine Childbirth Drug delivery Gene delivery Business and law Delivery (commerce), of goods, e.g.: Pizza delivery Milk delivery Food delivery Online grocer Deed (\"delivery\" in contract law), as in \"signed, sealed and delivered\" Power delivery or electricity delivery, the process that goes from generation of electricity in the power station to use by the consumer Film and television Delivering (film), a 1993 short film by Todd Field Delivery (1976 film), a Soviet Armenian biographical film Delivery (2005 film), an animated short film Delivery (2013 film), an American horror film The Delivery, a 1999 film directed by Roel Reiné \"Delivery\", the final episode of Men Behaving Badly Julia Zemiro's Home Delivery, a 2013 Australian television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama."
+    },
+    {
+      "chunk_id": "wikipedia:Living#0000",
+      "doc_id": "wikipedia:Living",
+      "title": "Living",
+      "url": "https://en.wikipedia.org/?curid=1133759",
+      "source_type": "wikipedia",
+      "score": 0.6874391198158264,
+      "text": "Living or The Living may refer to: Common meanings Life, a condition that distinguishes organisms from inorganic objects and dead organisms Living species, one that is not extinct Personal life, the course of an individual human's life Living (Christianity) or benefice, in canon law, a position in a church that has attached to it a source of income A \"living\", a career or chosen path of labour by which workers earn money to subsist Music Living (Paddy Casey album) or the title song, \"Livin'\", 2003 Living (Judy Collins album), 1971 Living 2001–2002, an album by the John Butler Trio, 2003 Living (EP) or the title song, by Josephine Collective, 2007 \"Living\" (song), by Dierks Bentley, 2019 The Living, early 1980's Seattle punk rock band featuring Duff McKagan Television and film Living (1954 TV program), a 1954–1955 Canadian informational program Living (2007 TV program), a 2007–2009 group of regional Canadian lifestyle programs Living (New Zealand TV channel), a New Zealand television"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "different positions and appearance of a man operating a laptop near a lady",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "different positions",
+          "appearance"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster gets mad when the man see the laptop while being woman.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the man",
+          "the laptop",
+          "woman"
+        ]
+      },
+      "title": {
+        "text": "Milking the life out of it.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the life",
+          "milking",
+          "life"
+        ]
+      },
+      "text": {
+        "text": "What are you doing? , J ~—\" J ua “ ONS _,. . is . CL SS a ae Making a DiCaprio meme. , if / a er [7s Aren't there like 100 of them i’ e on Reddit right now? | Cer > oe / a \\ st ~Y",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Reddit",
+          "there reddit",
+          "reddit right",
+          "doing",
+          "ons",
+          "making",
+          "dicaprio",
+          "aren",
+          "there",
+          "right",
+          "now",
+          "cer"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the life",
+      "milking",
+      "life",
+      "Reddit",
+      "there reddit",
+      "reddit right",
+      "doing",
+      "ons",
+      "making",
+      "dicaprio",
+      "aren",
+      "there",
+      "right",
+      "now",
+      "cer"
+    ],
+    "secondary_terms": [
+      "different positions",
+      "appearance",
+      "the man",
+      "the laptop",
+      "woman"
+    ],
+    "queries": [
+      "\"Milking\" \"Reddit\" \"the life\" \"there reddit\" \"reddit right\"",
+      "\"there reddit\" \"reddit right\" \"milking\" \"life\""
+    ]
+  },
+  "source_jsonl_id": null
+}

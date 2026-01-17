@@ -1,0 +1,196 @@
+{
+  "meme_id": "meme_03927",
+  "queries": [
+    "\"Anyone\" \"trash\" \"plays\" \"hard\"",
+    "\"plays\" \"hard\" \"wasn\" \"playing\""
+  ],
+  "primary_terms": [
+    "Anyone",
+    "trash",
+    "plays",
+    "hard",
+    "wasn",
+    "playing",
+    "genuinely",
+    "hated"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Hard#0000",
+      "doc_id": "wikipedia:Hard",
+      "title": "Hard",
+      "url": "https://en.wikipedia.org/?curid=732244",
+      "source_type": "wikipedia",
+      "score": 0.9514840006828308,
+      "text": "Hard means something that is difficult to do. It may also refer to: Hardness, resistance of physical materials to deformation or fracture Hard water, water with high mineral content Arts and entertainment Hard (TV series), a French TV series Hard (band), a Hungarian hard rock supergroup Hard (music festival), in the U.S. Albums Hard (EP), Goodbye Mr Mackenzie, 1993 Hard (Brainpower album), 2008 Hard (Gang of Four album), 1983 Hard (Jagged Edge album), 2003 Hard (Shinee album), 2023, and its title track Hard, a 2017 EP from the band The Neighbourhood Songs \"Hard\" (Rihanna song), 2009 \"Hard\" (Sophie song), 2014 \"Hard\", a song by Royce da 5'9\" from the 2016 album Layers \"Hard\", a song by Why Don't We from the 2018 album 8 Letters \"Hard\", a song by Poppy from the 2023 album Zig Places Hard, Austria Hard (Zürich), Switzerland Other uses Hard (surname) Hard architecture, impersonal windowless buildings with graffiti-resistant walls usually associated with prisons and other secure structures"
+    },
+    {
+      "chunk_id": "wikipedia:Play#0000",
+      "doc_id": "wikipedia:Play",
+      "title": "Play",
+      "url": "https://en.wikipedia.org/?curid=923188",
+      "source_type": "wikipedia",
+      "score": 0.8010503053665161,
+      "text": "Play most commonly refers to: Play (activity), an activity done for enjoyment Play (theatre), a work of drama Play may refer also to: Computers and technology Google Play, a digital content service Play Framework, a Java framework Play Mobile, a Polish internet provider Xperia Play, an Android phone Rakuten.co.uk (formerly Play.com), an online retailer Backlash (engineering), or play, non-reversible part of movement Petroleum play, oil fields with same geological circumstances Play symbol, in media control devices Play (hacker group), a ransomware extortion group Film Play (2005 film), Chilean film directed by Alicia Scherson Play, a 2009 short film directed by David Kaplan Play (2011 film), a Swedish film directed by Ruben Östlund Play!, a Japanese film directed by Tomoyuki Furumaya Rush (2012 film), an Indian film earlier titled Play and also known as Raftaar 24 x 7 The Play (film), a 2013 Indian Bengali-language film Aattam or The Play, a 2024 Indian Malayalam-language film Games"
+    },
+    {
+      "chunk_id": "wikipedia:Easy#0000",
+      "doc_id": "wikipedia:Easy",
+      "title": "Easy",
+      "url": "https://en.wikipedia.org/?curid=7445591",
+      "source_type": "wikipedia",
+      "score": 0.7203070521354675,
+      "text": "Easy is an adjective describing something that is not difficult to do. It may also refer to: Arts and entertainment Film and television Easy (2003 film), an American romantic comedy film Easy (2017 film), a comedy-drama film Easy!, or Scialla!, a 2011 Italian comedy film Easy (TV series), a 2016–2019 American comedy-drama anthology series Music Albums Easy (Easybeats album), 1965 Easy (Grant Green album), 1978 Easy (Grinspoon album), 1999 Easy (Kelly Willis album) or the title song, 2002 Easy (Marvin Gaye and Tammi Terrell album), 1969 Easy (Nancy Wilson album), 1968 Easy (Ralph McTell album), 1974 Easy, by Cowboy Mouth, 2000 EPs Easy (EP), by Le Sserafim, 2024 Songs \"Easy\" (Commodores song), 1977; covered by Faith No More, 1992 \"Easy\" (Camila Cabello song), 2019 \"Easy\" (Cro song), 2012 \"Easy\" (DaniLeigh song), 2019 \"Easy\" (Dragonette song), 2010 \"Easy\" (Ice MC song), 1989 \"Easy\" (Jvke song), 2025 \"Easy\" (KSI, Bugzy Malone and R3hab song), 2023 \"Easy\" (Le Sserafim song), 2024 \"Easy\""
+    },
+    {
+      "chunk_id": "wikipedia:Fallout (video game)#0001",
+      "doc_id": "wikipedia:Fallout (video game)",
+      "title": "Fallout (video game)",
+      "url": "https://en.wikipedia.org/?curid=4508917",
+      "source_type": "wikipedia",
+      "score": 0.6588763356208801,
+      "text": "scheme, SPECIAL. Interplay initially gave the game little attention, but eventually spent $3 million and employed up to thirty people to develop it. Interplay considered Fallout the spiritual successor to its 1988 role-playing game Wasteland and drew artistic inspiration from 1950s literature and media emblematic of the Atomic Age as well as the films..."
+    },
+    {
+      "chunk_id": "wikipedia:Absolutely#0001",
+      "doc_id": "wikipedia:Absolutely",
+      "title": "Absolutely",
+      "url": "https://en.wikipedia.org/?curid=1914454",
+      "source_type": "wikipedia",
+      "score": 0.635096988081932,
+      "text": "Hard Way Absolutely (TV series), a British comedy sketch show Abso Lutely Productions, a production company started by Tim Heidecker and Eric Wareheim See also Absolute (disambiguation) Absoluteness, a description of formulas that have the same truth value in each of some class of structures Absolution (disambiguation) Definitely (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Easy#0001",
+      "doc_id": "wikipedia:Easy",
+      "title": "Easy",
+      "url": "https://en.wikipedia.org/?curid=7445591",
+      "source_type": "wikipedia",
+      "score": 0.6308268010616302,
+      "text": "song), 2010 \"Easy\" (Ice MC song), 1989 \"Easy\" (Jvke song), 2025 \"Easy\" (KSI, Bugzy Malone and R3hab song), 2023 \"Easy\" (Le Sserafim song), 2024 \"Easy\" (Mat Zo and Porter Robinson song), 2013 \"Easy\" (Pale Waves song), 2021 \"Easy\" (Paula DeAnda song), 2007 \"Easy\" (Rascal Flatts song), featuring Natasha Bedingfield, 2011..."
+    },
+    {
+      "chunk_id": "wikipedia:Trash#0001",
+      "doc_id": "wikipedia:Trash",
+      "title": "Trash",
+      "url": "https://en.wikipedia.org/?curid=390672",
+      "source_type": "wikipedia",
+      "score": 0.6109516441822052,
+      "text": "Matoh Trash (novel), a 2010 novel by Andy Mulligan Trash: Short Stories, a 1988 publication by Dorothy Allison Music Bands Trash (band), a British band also known as White Trash Albums Trash (The Stalin album), the first full-length album by Japanese hardcore punk group The Stalin Trash (Alice Cooper..."
+    },
+    {
+      "chunk_id": "wikipedia:Different Colors#0001",
+      "doc_id": "wikipedia:Different Colors",
+      "title": "Different Colors",
+      "url": "https://en.wikipedia.org/?curid=47055403",
+      "source_type": "wikipedia",
+      "score": 0.5819099754095077,
+      "text": "of the band touring with colorful visuals. The song was performed live by Walk the Moon at award shows, including the 2015 MTV Video Music Awards. It was included on the setlist for the band's Talking Is Hard Tour (2015) and was used in campaigns of Pepsi, AT&T & Apple. Background and composition \"Different Colors\" was written by all four members of Walk the Moon, while recorded at Rancho..."
+    },
+    {
+      "chunk_id": "wikipedia:Passion#0001",
+      "doc_id": "wikipedia:Passion",
+      "title": "Passion",
+      "url": "https://en.wikipedia.org/?curid=501256",
+      "source_type": "wikipedia",
+      "score": 0.580495297908783,
+      "text": "Dacre Passion, (in Italian, Fosca), 1869 novel by Iginio Ugo Tarchetti Passion Play (play) or Passion, 1981 play by Peter Nichols Passion: An Essay on Personality, 1984 book by Roberto Unger The Passion (novel), 1987 novel by Jeanette Winterson Passion (manga), 2004 Japanese yaoi manga series Passion (novel), 2011 young adult..."
+    },
+    {
+      "chunk_id": "wikipedia:Trash#0000",
+      "doc_id": "wikipedia:Trash",
+      "title": "Trash",
+      "url": "https://en.wikipedia.org/?curid=390672",
+      "source_type": "wikipedia",
+      "score": 0.5493438005447387,
+      "text": "Trash may refer to: Garbage Garbage, unwanted or undesired waste material Litter, material discarded in inappropriate places Municipal solid waste, unwanted or undesired waste material generated in a municipal environment Arts, entertainment, and media Art Trash art, artworks created from discarded objects Films, TV, videogames \"Trash\", a video game term Trash (1970 film), an American film Trash (2011 film), a Canadian drama film Trash (2014 film), a British film \"Trash\" (Firefly), an episode of the TV series Trash (video game), a multiplayer real-time strategy Trash TV, a form of television programming considered to be tasteless and unprofessional Trash Video, a Finnish film production company Z movie, a low-budget exploitation movie category Literature Trash (comics), a Marvel Comics organisation Trash (manga), a manga created by Sanami Matoh Trash (novel), a 2010 novel by Andy Mulligan Trash: Short Stories, a 1988 publication by Dorothy Allison Music Bands Trash (band), a British"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a man is crying and getting console by another person",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "console",
+          "another person"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster is in sorrow for being hated by his partner and getting advice from others.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "sorrow",
+          "his partner",
+          "advice",
+          "others"
+        ]
+      },
+      "title": {
+        "text": "Anyone who plays 'hard to get' is trash",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Anyone",
+          "trash",
+          "plays",
+          "hard"
+        ]
+      },
+      "text": {
+        "text": "She wasn't playing 'hard to get’ bro. She genuinely hated you f™",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "wasn",
+          "playing",
+          "hard",
+          "genuinely",
+          "hated"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Anyone",
+      "trash",
+      "plays",
+      "hard",
+      "wasn",
+      "playing",
+      "genuinely",
+      "hated"
+    ],
+    "secondary_terms": [
+      "console",
+      "another person",
+      "sorrow",
+      "his partner",
+      "advice",
+      "others"
+    ],
+    "queries": [
+      "\"Anyone\" \"trash\" \"plays\" \"hard\"",
+      "\"plays\" \"hard\" \"wasn\" \"playing\""
+    ]
+  },
+  "source_jsonl_id": null
+}

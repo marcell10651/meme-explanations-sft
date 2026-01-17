@@ -1,0 +1,201 @@
+{
+  "meme_id": "meme_00030",
+  "queries": [
+    "\"Utah\" \"earthquake\" \"morning\" \"koe\"",
+    "\"morning\" \"koe\" \"waking\" \"frye\""
+  ],
+  "primary_terms": [
+    "Utah",
+    "earthquake",
+    "morning",
+    "koe",
+    "waking",
+    "frye",
+    "teavomodgiaw",
+    "tar"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Morning#0000",
+      "doc_id": "wikipedia:Morning",
+      "title": "Morning",
+      "url": "https://en.wikipedia.org/?curid=650327",
+      "source_type": "wikipedia",
+      "score": 1.0010478615760803,
+      "text": "Morning is either the period from sunrise to noon, or the period from midnight to noon. In the first definition it is preceded by the twilight period of dawn, and there are no exact times for when morning begins (also true of evening and night) because it can vary according to one's latitude, and the hours of daylight at each time of year. However, morning strictly ends at noon, when afternoon starts. Morning precedes afternoon, evening, and night in the sequence of a day. Originally, the term referred to sunrise. Etymology The Modern English words \"morning\" and \"tomorrow\" began in Middle English as morwening, developing into morwen, then morwe, and eventually morrow. English, unlike some other languages, has separate terms for \"morning\" and \"tomorrow\", despite their common root. Other languages, like Dutch, Scots and German, may use a single word – morgen – to signify both \"morning\" and \"tomorrow\"."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.5807038396596909,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Earthquake#0000",
+      "doc_id": "wikipedia:Earthquake",
+      "title": "Earthquake",
+      "url": "https://en.wikipedia.org/?curid=10106",
+      "source_type": "wikipedia",
+      "score": 0.501714563369751,
+      "text": "An earthquake, also called a quake, tremor, or temblor, is the shaking of the Earth's surface resulting from a sudden release of energy in the lithosphere that creates seismic waves. Earthquakes can range in intensity, from those so weak they cannot be felt, to those violent enough to propel objects and people into the air, damage critical infrastructure, and wreak destruction across entire cities. The seismic activity of an area is the frequency, type, and size of earthquakes experienced over a particular time. The seismicity at a particular location in the Earth is the average rate of seismic energy release per unit volume. In its most general sense, the word earthquake is used to describe any seismic event that generates seismic waves. Earthquakes can occur naturally or be induced by human activities, such as mining, fracking, and nuclear weapons testing. The initial point of rupture is called the hypocenter or focus, while the ground level directly above it is the epicenter."
+    },
+    {
+      "chunk_id": "wikipedia:Frye#0000",
+      "doc_id": "wikipedia:Frye",
+      "title": "Frye",
+      "url": "https://en.wikipedia.org/?curid=233332",
+      "source_type": "wikipedia",
+      "score": 0.4845493197441101,
+      "text": "Frye is a surname. Notable people with the surname include: Channing Frye (born 1983), American basketball player Charlie Frye (born 1981), American football player for the Oakland Raiders Don Frye (born 1965), American mixed martial arts fighter Donna Frye (born 1952), San Diego city councilwoman Dwight Frye (1899–1943), American actor George Frederick Frye (1833–1912), Seattle pioneer and the City Council member Henry Frye (born 1932), American politician and judge, first black chief justice of North Carolina Supreme Court Jack Frye (1904–1959), American aviation pioneer John Frye (1933–2005), Scottish footballer Joseph Frye (1712–1794), colonial American soldier and general Kelly Frye (born 1984), American actress Marilyn Frye (born 1941), American philosophy professor and feminist theorist Mark Frye (born 1957), Contemporary American composer Northrop Frye (1912–1991), Canadian literary critic Richard N."
+    },
+    {
+      "chunk_id": "wikipedia:Live#0000",
+      "doc_id": "wikipedia:Live",
+      "title": "Live",
+      "url": "https://en.wikipedia.org/?curid=28508507",
+      "source_type": "wikipedia",
+      "score": 0.4640331268310547,
+      "text": "Live may refer to: Arts, entertainment, and media Films Live! (2007 film), 2007 American film Live (2014 film), a 2014 Japanese film Live (2023 film), a Malayalam-language film Live: Phát Trực Tiếp, a Vietnamese-language film Live (Apocalyptica DVD) Music Live (band), American alternative rock band List of albums titled Live Extended plays Live (Roxus EP) Live (The Smithereens EP) Live EP (Anal Cunt EP) Live EP (Arcade Fire EP) Live EP (Breaking Benjamin EP) Live EP (The Jam EP) Live E.P. (Led Zeppelin EP) CeCe Peniston (EP Live) Ozzy Osbourne Live E.P., 1980 Live EP (Live at Fashion Rocks), by David Bowie Songs \"Live\" (Russian song) \"Live\" (Superfly song) \"Live\" (The Merry-Go-Round song) \"Live\", by B'z from Highway X, 2022 Radio BBC Radio 5 Live CILV-FM, branded LiVE 88.5, a radio station in Ottawa, Canada Television Live (South Korean TV series), a 2018 South Korean television series Live (Danish TV series) Live!"
+    },
+    {
+      "chunk_id": "wikipedia:Utah#0000",
+      "doc_id": "wikipedia:Utah",
+      "title": "Utah",
+      "url": "https://en.wikipedia.org/?curid=31716",
+      "source_type": "wikipedia",
+      "score": 0.4513914346694946,
+      "text": "Utah is a landlocked state in the Mountain West subregion of the Western United States. It is one of the Four Corners states, sharing a border with Arizona, Colorado, and New Mexico. It also borders Wyoming to the northeast, Idaho to the north, and Nevada to the west. In comparison to all the U.S. states and territories, Utah, with a population of just over three million, is the 13th-largest by area, the 30th-most populous, and the 11th-least densely populated. Urban development is mostly concentrated in two regions: the Wasatch Front in the north-central part of the state, which includes the state capital, Salt Lake City, and is home to roughly two-thirds of the population; and Washington County in the southwest, which has approximately 180,000 residents. Most of the western half of Utah lies in the Great Basin. Utah has been inhabited for thousands of years by various Indigenous peoples, such as the ancient Puebloans, the Navajo, and the Ute."
+    },
+    {
+      "chunk_id": "wikipedia:Update#0000",
+      "doc_id": "wikipedia:Update",
+      "title": "Update",
+      "url": "https://en.wikipedia.org/?curid=1237226",
+      "source_type": "wikipedia",
+      "score": 0.437252402305603,
+      "text": "Update(s) or updated may refer to: Music Update (Anouk album), 2004 Update (Berlin Jazz Orchestra album), 2004 Update (Jane Zhang album), 2007 Update (Mal Waldron album), 1987 Update (Yandel album), 2017 Updated (M. Pokora album), an English-language version of Mise à jour, 2011 Other uses DR Update, a defunct Danish television news channel Software update, modifying installed software to be more up-to-date Update (SQL), a statement for changing database records Updates, a program broadcast by CNN Philippines See also Bayesian inference, a type of reasoning described as updating Patch (computing), a form of software update Upgrade, replacing or adding to improve"
+    },
+    {
+      "chunk_id": "wikipedia:Utah#0001",
+      "doc_id": "wikipedia:Utah",
+      "title": "Utah",
+      "url": "https://en.wikipedia.org/?curid=31716",
+      "source_type": "wikipedia",
+      "score": 0.4348419070243835,
+      "text": "the Great Basin. Utah has been inhabited for thousands of years by various Indigenous peoples, such as the ancient Puebloans, the Navajo, and the Ute. The first Europeans to arrive – in the mid-16th century – were the Spanish. Because of the region's challenging geography and harsh climate, it only became a peripheral part of New Spain (and later of Mexico). Even while it was Mexican territory..."
+    },
+    {
+      "chunk_id": "wikipedia:October#0001",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.42222657799720764,
+      "text": "Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa. Symbols October's birthstones are the tourmaline and opal. Its birth flower is the calendula. The zodiac signs are Libra (until October 22) and Scorpio (from October 23 onward). Observances This list does not necessarily imply either official status..."
+    },
+    {
+      "chunk_id": "wikipedia:Earthquake#0001",
+      "doc_id": "wikipedia:Earthquake",
+      "title": "Earthquake",
+      "url": "https://en.wikipedia.org/?curid=10106",
+      "source_type": "wikipedia",
+      "score": 0.41834155321121214,
+      "text": "nuclear weapons testing. The initial point of rupture is called the hypocenter or focus, while the ground level directly above it is the epicenter. Earthquakes are primarily caused by geological faults, but also by volcanism, landslides, and other seismic events. Significant historical earthquakes include the 1976 Tangshan earthquake in China, with over..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "man is very happy to see the words he has written down on a page. the person uses his phone to control the bird with help of the bird's feather",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "man",
+          "the words",
+          "the person",
+          "his phone",
+          "the bird",
+          "help",
+          "the bird's feather"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is not phased by the earthquake they experienced.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the earthquake"
+        ]
+      },
+      "title": {
+        "text": "So we had a 5.7 earthquake in Utah this morning",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Utah",
+          "earthquake",
+          "morning"
+        ]
+      },
+      "text": {
+        "text": "waking up to an earthquake this morning like iV koe Oo =¢ frye re , TeavOmodgiaw tar /",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "koe",
+          "waking",
+          "earthquake",
+          "morning",
+          "frye",
+          "teavomodgiaw",
+          "tar"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Utah",
+      "earthquake",
+      "morning",
+      "koe",
+      "waking",
+      "frye",
+      "teavomodgiaw",
+      "tar"
+    ],
+    "secondary_terms": [
+      "man",
+      "the words",
+      "the person",
+      "his phone",
+      "the bird",
+      "help",
+      "the bird's feather",
+      "the earthquake"
+    ],
+    "queries": [
+      "\"Utah\" \"earthquake\" \"morning\" \"koe\"",
+      "\"morning\" \"koe\" \"waking\" \"frye\""
+    ]
+  },
+  "source_jsonl_id": null
+}

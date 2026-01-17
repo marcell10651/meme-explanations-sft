@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_00730",
+  "queries": [
+    "\"quite a confusing scene\" \"Deaf kid\" \"The doctor\" \"the waiting room\"",
+    "\"The doctor\" \"the waiting room\" \"quite\" \"confusing\""
+  ],
+  "primary_terms": [
+    "quite a confusing scene",
+    "quite",
+    "confusing",
+    "scene",
+    "process",
+    "say",
+    "Deaf kid",
+    "The doctor",
+    "the waiting room"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Waiting#0000",
+      "doc_id": "wikipedia:Waiting",
+      "title": "Waiting",
+      "url": "https://en.wikipedia.org/?curid=5769974",
+      "source_type": "wikipedia",
+      "score": 0.7989347577095032,
+      "text": "Waiting, Waitin, Waitin', or The Waiting may refer to: Art Waiting (Degas), a c. 1880–1882 pastel on paper by Edgar Degas Waiting (Millais), an 1854 painting by John Everett Millais Film Waiting (1991 film), a film by Jackie McKimmie Waiting... (film), a 2005 film starring Ryan Reynolds Waiting, a 2007 film by Zarina Bhimji Waiting (2015 film), an Indian drama film starring Naseeruddin Shah and Kalki Koechlin The Waiting (film), a 2020 American horror/romance/comedy by F. C. Rabbath The Good Neighbor (2016 film) (working title The Waiting), an American thriller film Literature Waiting (novel), a 1999 novel by Ha Jin Waiting (picture book), a 2015 children's book by Kevin Henkes The Waiting (graphic novel), a 2020 graphic novel by Keum Suk Gendry-Kim \"The Waiting\" (short story), or \"The Wait\", a 1950 story by Jorge Luis Borges The Waiting, a 2024 novel by Michael Connelly Music The Waiting (band), a Christian pop rock band Waiting (KLF film), a video by The KLF Albums Waiting (Bobby"
+    },
+    {
+      "chunk_id": "wikipedia:Doctor#0000",
+      "doc_id": "wikipedia:Doctor",
+      "title": "Doctor",
+      "url": "https://en.wikipedia.org/?curid=662249",
+      "source_type": "wikipedia",
+      "score": 0.7830965578556061,
+      "text": "Doctor most often refers to: Medical doctor, a person who is qualified to practice medicine Doctor (title), an academic title granted to holders of a doctorate Doctor, Doctors, The Doctor or The Doctors may also refer to: Arts and entertainment Fictional characters The Doctor, the main character of the BBC series Doctor Who List of fictional doctors Doctor (comics), several fictional characters Doctor, in the film My Giant Doctor, in Black Cat The Doctor, in Hellsing The Doctor, in video game Cave Story The Doctor (Star Trek) The Doctor, or Scalpel, in the Transformers film series The Doctor or Cobra Commander, in G.I."
+    },
+    {
+      "chunk_id": "wikipedia:The Lady Doctor#0000",
+      "doc_id": "wikipedia:The Lady Doctor",
+      "title": "The Lady Doctor",
+      "url": "https://en.wikipedia.org/?curid=46194248",
+      "source_type": "wikipedia",
+      "score": 0.7723697185516357,
+      "text": "The Lady Doctor (Italian: Totò, Vittorio e la dottoressa, also known as Totò, Vittorio and the Doctor) is a 1957 Italian comedy film directed by Camillo Mastrocinque. Plot Michele and Gennaro work as attendants in the investigation agency \"Nulla sfugge\" (\"Nothing escapes\"). When their boss is forced to be absent from the office to follow an important investigation, the two decide to take his place, pretending to be skilled investigators. Two old sisters, Ada and Ida, come to the agency to ask them to investigate the conduct of the wife of their only nephew, an American doctor from Boston, and they accept the case, which will turn out to be a mess. Cast Totò as Michele Spillone aka Mike Vittorio De Sica as Marquis Vittorio de Vitti Abbe Lane as Dr."
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0000",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.6125076711177826,
+      "text": "Wait or WAIT may refer to: Music Wait (musician), British town pipers Albums and EPs Wait (The Polyphonic Spree EP), by The Polyphonic Spree Wait (Emanuel Nice EP), a 2002 EP released by the band Emanuel Nice Wait (Steelheart album), or the title song Wait (Sons of Korah album), 2011 Wait (Pardon Us album), 2019 Songs \"Wait\" (Beatles song), 1965 \"Wait\" (Chantel Jeffries song), 2018 \"Wait\" (Earshot song), 2004 \"Wait\" (Huffamoose song), 1997 \"Wait\" (Gyan song), 1989 \"Wait\" (M83 song), 2012 \"Wait\" (Maggie Reilly song), 1992 \"Wait\" (Maroon 5 song), 2018 \"Wait\" (Seven Mary song), 2001 \"Wait\" (Wang Chung song), 1984 \"Wait\" (White Lion song), 1987 \"Wait (The Whisper Song)\", by Ying Yang Twins, 2005 \"Wait\", by 6ix9ine from TattleTales, 2020 \"Wait\", by The Afters from I Wish We All Could Win, 2005 \"Wait\", by C418 from Minecraft – Volume Beta, 2013 \"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV"
+    },
+    {
+      "chunk_id": "wikipedia:Delivery#0000",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.5748381674289703,
+      "text": "Delivery may refer to: Biology and medicine Childbirth Drug delivery Gene delivery Business and law Delivery (commerce), of goods, e.g.: Pizza delivery Milk delivery Food delivery Online grocer Deed (\"delivery\" in contract law), as in \"signed, sealed and delivered\" Power delivery or electricity delivery, the process that goes from generation of electricity in the power station to use by the consumer Film and television Delivering (film), a 1993 short film by Todd Field Delivery (1976 film), a Soviet Armenian biographical film Delivery (2005 film), an animated short film Delivery (2013 film), an American horror film The Delivery, a 1999 film directed by Roel Reiné \"Delivery\", the final episode of Men Behaving Badly Julia Zemiro's Home Delivery, a 2013 Australian television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama."
+    },
+    {
+      "chunk_id": "wikipedia:Mater#0000",
+      "doc_id": "wikipedia:Mater",
+      "title": "Mater",
+      "url": "https://en.wikipedia.org/?curid=4910553",
+      "source_type": "wikipedia",
+      "score": 0.554444432258606,
+      "text": "Mater is a formal Latin term for mother and may refer to: Places Mater, Belgium, a village near Oudenaarde Health care Australia Mater Hospital, North Sydney, New South Wales Mater Group, Brisbane, Queensland Mater Health Services North Queensland, which incorporates: Mater Hospital Pimlico, Townsville, Queensland Mater Women's and Children's Hospital UK and Ireland Mater Infirmorum Hospital, Belfast, Northern Ireland Mater Misericordiae University Hospital, Dublin, Ireland (the best-known hospital in Ireland that is referred to as the Mater) Mater Private Hospital, Dublin, Ireland New Zealand Mater Misericordiae Hospital, Auckland, now Allevia Hospital Epsom Music Mater, an album by Vladimír Godár \"Mater\", a song by The Beat Fleet from Pistaccio Metallic, 2011 Other uses Mater (Cars), a character in the Disney/Pixar animated film Cars Mater, a major part of an astrolabe M.A.T.E.R., a football (soccer) club in Rome People Juris Māters (1845–1885), Latvian writer and journalist Rudy"
+    },
+    {
+      "chunk_id": "wikipedia:Class#0001",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.5443815290927887,
+      "text": "The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff from Doctor Who The Class (TV series), a CBS sitcom Class (2023 TV series), a 2023 Indian Netflix teen drama Literature Class: A Guide Through the American Status System,..."
+    },
+    {
+      "chunk_id": "wikipedia:The Lady Doctor#0001",
+      "doc_id": "wikipedia:The Lady Doctor",
+      "title": "The Lady Doctor",
+      "url": "https://en.wikipedia.org/?curid=46194248",
+      "source_type": "wikipedia",
+      "score": 0.543181911110878,
+      "text": "the case, which will turn out to be a mess. Cast Totò as Michele Spillone aka Mike Vittorio De Sica as Marquis Vittorio de Vitti Abbe Lane as Dr. Brigitte Baker Titina De Filippo as Marquise de Vitti Germán Cobos as Lawyer Otello Bellomo Pierre Mondy as Romeo Agostino Salvietti as Gennaro Tecla Scarano as Ada Barbalunga Darry Cowl as Egisto Rafael Bardem as Elia Vagoni Luigi Pavese as Head of the investigative agency Franco Coop as La Conchiglia's Maitre Giulio Calì as Fool from Villa Valeria Dante Maggio as La Conchiglia's Waiter Teddy Reno as Himself Antonio..."
+    },
+    {
+      "chunk_id": "wikipedia:Silence#0001",
+      "doc_id": "wikipedia:Silence",
+      "title": "Silence",
+      "url": "https://en.wikipedia.org/?curid=440579",
+      "source_type": "wikipedia",
+      "score": 0.542835146188736,
+      "text": "disciplines, people maintain silence for protracted periods, or even for the rest of their lives, as an ascetic means of spiritual transformation. Perception In the philosophy of perception and the science of perception, there has been a longstanding controversy as to how humans experience silence: \"the perceptual view (we literally hear silence), and..."
+    },
+    {
+      "chunk_id": "wikipedia:Lost#0000",
+      "doc_id": "wikipedia:Lost",
+      "title": "Lost",
+      "url": "https://en.wikipedia.org/?curid=502128",
+      "source_type": "wikipedia",
+      "score": 0.5339451640844345,
+      "text": "Lost or LOST may refer to getting lost, or to: Arts, entertainment, and media Television Lost (TV series), a 2004 American drama series about people who become stranded on a mysterious island Lost (2001 TV series), a short-lived American and British reality series Lost (South Korean TV series), a 2021 South Korean series \"Lost\" (The Bill), a 1985 episode \"Lost\" (Shameless), an episode of the American TV series Shameless \"Lost\" (Stargate Universe), an episode of science fiction series Stargate Universe \"Lost\", an episode of Unleashed! \"Lost\", an episode of the Canadian documentary TV series Mayday \"Lost\", an episode of Disney's So Weird \"The Lost\" (Class), an episode of the first series of the Doctor Who spin-off series Class Films Lost (1950 film), a Mexican film directed by Fernando A. Rivero Lost (1956 film), a British thriller starring David Farrar Lost (1983 film), an American film directed by Al Adamson Lost!"
+    }
+  ]
+}

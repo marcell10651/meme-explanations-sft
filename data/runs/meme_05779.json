@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_05779",
+  "queries": [
+    "\"Santa\" \"a bit too much milk\" \"bit\" \"too\" \"much\"",
+    "\"too\" \"much\" \"milk\" \"doe\""
+  ],
+  "primary_terms": [
+    "a bit too much milk",
+    "bit",
+    "too",
+    "much",
+    "milk",
+    "doe",
+    "did",
+    "know",
+    "happen",
+    "eventually",
+    "mye",
+    "myo"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Whole#0000",
+      "doc_id": "wikipedia:Whole",
+      "title": "Whole",
+      "url": "https://en.wikipedia.org/?curid=7197317",
+      "source_type": "wikipedia",
+      "score": 0.7163313388824463,
+      "text": "Whole may refer to: Music Whole note, or semibreve Whole step, or major second Whole (Jessa Anderson album) or the title song, 2014 Whole (Soil album), 2013 Whole, an EP by Pedro the Lion, 1997 \"Whole\", a song by Basement from Colourmeinkindness, 2012 \"Whole\", a song by Flaw from Through the Eyes, 2001 \"Whole\", a song by Jacob Whitesides, 2019 Other uses Whole (campaign), a British anti-stigma mental health campaign. WHOLE – United Queer Festival, a music festival held at Ferropolis, Gräfenhainichen, Germany. Whole (film), a 2003 American documentary by Melody Gilbert. Whole milk, milk which has not had fat removed. See also Holism, a philosophical and social theory Hole (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Milking#0000",
+      "doc_id": "wikipedia:Milking",
+      "title": "Milking",
+      "url": "https://en.wikipedia.org/?curid=1555269",
+      "source_type": "wikipedia",
+      "score": 0.6393980145454407,
+      "text": "Milking is the act of removing milk from the mammary glands of cattle, water buffalo, humans, goats, sheep, and, more rarely, camels, horses, and donkeys. Milking may be done by hand or by machine, and requires the animal to be currently or recently pregnant. The milker may refer either to the animal that produces the milk or the person who milks said animal. Hand milking Hand milking is the process of manually squeezing milk from an animal's teats, typically done with two hands to express milk into a bucket. It involves first cleaning the udder and teats, then gripping the base of a teat with your thumb and forefinger to trap milk, and finally squeezing downward with your other fingers to push the milk out. Machine milking Most milking in the developed world is done using milking machines. Teat cups are attached to the cow's teats, and then the cups alternate between vacuum and normal air pressure to extract the milk."
+    },
+    {
+      "chunk_id": "wikipedia:Enough#0000",
+      "doc_id": "wikipedia:Enough",
+      "title": "Enough",
+      "url": "https://en.wikipedia.org/?curid=7209454",
+      "source_type": "wikipedia",
+      "score": 0.600405365228653,
+      "text": "Enough may refer to: Film and television Enough (film), a 2002 film starring Jennifer Lopez \"Enough\" (CSI: NY), an episode of the TV series \"Enough\" (Not Going Out), a 2017 TV episode \"Enough\", an episode of Tru Calling Songs \"Enough\" (Tarja Turunen song), 2009 \"Enough\" (Delta Goodrem song), 2016 \"Enough\" (Malina Moye song), 2019 \"Enough (Miami)\", Cardi B song, 2024 \"Enough\", by Ateez from Golden Hour: Part.2 \"Enough\", by BarlowGirl from Another Journal Entry \"Enough\", by Branan Murphy from his self-titled debut album \"Enough\", by Cat Power from Myra Lee \"Enough\", by Chris Tomlin from Not to Us \"Enough\", by Default from Elocation \"Enough\", by Disturbed from Indestructible \"Enough\", by Flume featuring Pusha T from Skin Companion EP 2 \"Enough\", by Grandson from I Love You, I'm Trying \"Enough\", by Gravity Kills from Gravity Kills, 1996 \"Enough\", by Jeremy Camp from Carried Me \"Enough\", by Jess Glynne from Jess (2024) \"Enough\", by Jessica Sierra from Rebound \"Enough\", by Keke Wyatt from"
+    },
+    {
+      "chunk_id": "wikipedia:Thanks#0000",
+      "doc_id": "wikipedia:Thanks",
+      "title": "Thanks",
+      "url": "https://en.wikipedia.org/?curid=2558488",
+      "source_type": "wikipedia",
+      "score": 0.5696639239788055,
+      "text": "Thanks may refer to: Thank you, a common expression of gratitude Film and television Thanks (film), a 2011 American film Thanks (TV series), a 1999 American sitcom Music Albums Thanks, by J. Vincent Edwards, 1969 Thanks, by Ivan Neville, 1994 Thanks, by Marty Grosz, 1997 Thanks, by w-inds., 2006 Songs \"Thanks\" (song), 1969, recorded by J. Vincent Edwards and Bill Anderson \"Thanks!\" (GAM song), 2006 \"Thanks\", by the James Gang from James Gang Rides Again, 1970 \"Thanks\", by Judith Allen and by Bing Crosby from the Too Much Harmony soundtrack, 1933 \"Thanks\", by Waylon Jennings from Ladies Love Outlaws, 1972 See also All pages with titles beginning with Thanks All pages with titles containing Thanks Thankful (disambiguation) Thank God (disambiguation) Thank You (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0001",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.566601139307022,
+      "text": "the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes. In theories of syntax, a phrase is any group of words, or sometimes a single word, which plays a particular role within the syntactic structure of a sentence. It does not have to have any special meaning or significance, or even exist anywhere outside of the sentence being analyzed, but it must function there as a complete grammatical unit..."
+    },
+    {
+      "chunk_id": "wikipedia:Milking#0001",
+      "doc_id": "wikipedia:Milking",
+      "title": "Milking",
+      "url": "https://en.wikipedia.org/?curid=1555269",
+      "source_type": "wikipedia",
+      "score": 0.5477392435073852,
+      "text": "milking machines. Teat cups are attached to the cow's teats, and then the cups alternate between vacuum and normal air pressure to extract the milk. The milk is filtered and cooled before being added to a large bulk tank of milk for storage. The average time of milking is 5–7 minutes and a cow can be milked with a machine 2–3 times a day. The existing robotic milking has allowed cows to have the freedom..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.5445586562156677,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Certain Things Are Likely#0001",
+      "doc_id": "wikipedia:Certain Things Are Likely",
+      "title": "Certain Things Are Likely",
+      "url": "https://en.wikipedia.org/?curid=23239484",
+      "source_type": "wikipedia",
+      "score": 0.5207646995782852,
+      "text": "Instrumental)\" Chart performance In film \"Certain Things Are Likely\" can be heard in the American teen romantic comedy film, Can't Buy Me Love (1987). It can also be heard in the Italian giallo film Too Beautiful to Die (1988) See also List of Billboard number-one dance singles of 1987 References External links \"Certain Things Are Likely\" at Discogs (list of releases)"
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.5007134079933167,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Please#0001",
+      "doc_id": "wikipedia:Please",
+      "title": "Please",
+      "url": "https://en.wikipedia.org/?curid=63658677",
+      "source_type": "wikipedia",
+      "score": 0.48621813058853147,
+      "text": "you please, an intransitive, ergative form taken from if it please you, which is in turn a calque of the French s'il vous plaît, which replaced pray. The exact time frame of the shortening is unknown, though it has been noted that this form appears not to have been known to William Shakespeare, for whom \"please you\" is the shortest form used in any of his works. A variation of the phrase, \"may it please the court\", remains in use as a formality for attorneys addressing judges in legal proceedings. Despite its straightforward definition..."
+    }
+  ]
+}

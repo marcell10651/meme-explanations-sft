@@ -1,0 +1,179 @@
+{
+  "meme_id": "meme_05357",
+  "queries": [
+    "\"Forest Gump\" \"‘ : SANDIATITHISIROIN Tae AFRAID\" \"THE CHOCOLATE\" \"years\" \"eae\"",
+    "\"‘ : SANDIATITHISIROIN Tae AFRAID\" \"a Forest Gump question\" \"a white dress shirt\" \"THE CHOCOLATE\"",
+    "\"a white dress shirt\" \"THE CHOCOLATE\" \"years\" \"eae\""
+  ],
+  "primary_terms": [
+    "years",
+    "eae",
+    "THE CHOCOLATE",
+    "‘ : SANDIATITHISIROIN Tae AFRAID"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Ready#0001",
+      "doc_id": "wikipedia:Ready",
+      "title": "Ready",
+      "url": "https://en.wikipedia.org/?curid=9285499",
+      "source_type": "wikipedia",
+      "score": 0.9910819590091705,
+      "text": "and the Chocolate Box, 1974 \"Ready\", by Cherie from the Confessions of a Teenage Drama Queen soundtrack album, 2004 \"Ready\", by Jagged Edge from J.E. Heartbreak 2, 2014 \"Ready\", by Kelly Clarkson from All I Ever Wanted, 2009 \"Ready\", by Kovas, 2010 \"Ready\", by Montaigne from Complex, 2019 \"Ready\", by N-Toon from Toon Time, 2000 \"Ready\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:Willy Wonka#0000",
+      "doc_id": "wikipedia:Willy Wonka",
+      "title": "Willy Wonka",
+      "url": "https://en.wikipedia.org/?curid=704925",
+      "source_type": "wikipedia",
+      "score": 0.7549394130706787,
+      "text": "Willy Wonka is a fictional character appearing in British author Roald Dahl's 1964 children's novel Charlie and the Chocolate Factory and its 1972 sequel Charlie and the Great Glass Elevator. He is the eccentric founder and proprietor of the Wonka Chocolate Factory. Wonka has been depicted in film several times. In 1971, Willy Wonka was portrayed by Gene Wilder in Willy Wonka & the Chocolate Factory. Wilder's portrayal in the film is widely beloved and is considered one of his greatest roles. Johnny Depp played the character in 2005's Charlie and the Chocolate Factory which polarized critics and audiences. In 2023, Timothée Chalamet portrayed the character in a standalone film that tells his origin story titled Wonka. Chalamet's performance was both praised and criticized. Wilder, Depp, and Chalamet all received Golden Globe nominations for Best Actor in a Comedy or Musical for their performances."
+    },
+    {
+      "chunk_id": "wikipedia:Always#0001",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.746705561876297,
+      "text": "Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu Xiu album), 2012 Always: The Very Best of Erasure or the 1994 title song (see below), 2015 Always, by June Tabor, 2005 Always, by Kelli O'Hara, 2011 Always, by Michael Ball, 1993 Always..."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.7139045894145966,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0001",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.6838022917509079,
+      "text": "2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a Singaporean film directed by Tzu Nyen Ho Here (2011 film), an American drama directed by Braden King Here (2023 film), a Belgian film directed by Bas Devos Here (2024 film), an American drama directed..."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0000",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.6535628795623779,
+      "text": "The Oompa-Loompas are a fictional race of people in the Charlie and the Chocolate Factory franchise based on the original book by Roald Dahl. In all versions of the story, they are depicted as little people who form the workforce of Willy Wonka's chocolate factory, and are paid in cocoa beans. However, their appearance and backstory change depending on the version. Design and characteristics The Oompa-Loompas are described as being no larger than medium-sized dolls, with rosy-white skin and long golden-brown hair. They wear the same clothes they wore at Loompaland: the men wear deerskins, the women wear leaves and the children wear nothing at all. Before moving to Willy Wonka's chocolate factory, the Oompa-Loompas lived in Loompaland, where they lived in constant fear of the predators that would eat them. Their main source of food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting."
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.6391753852367401,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:White Shirt#0000",
+      "doc_id": "wikipedia:White Shirt",
+      "title": "White Shirt",
+      "url": "https://en.wikipedia.org/?curid=77833636",
+      "source_type": "wikipedia",
+      "score": 0.5723655819892883,
+      "text": "White Shirt is a 2017 Indian Hindi-language drama short film written and directed by Sumit Arora. Produced under the banner of Highway Films, it stars Kunal Kapoor and Kritika Kamra. It was released on YouTube on 20 February 2017. Cast Kunal Kapoor as Aveek Kritika Kamra as Vani Vaibhav Raj Gupta as Vibhor Production The film was announced in February 2017, starring Kunal Kapoor and Kritika Kamra. A special screening of the film was held at Mumbai on 20 February 2017. Reception Surabhi Redkar of Koimoi.com gave the film 3/5 stars. A critic from Scroll.in reviewed the film. References External links White Shirt on Large Short Films White Shirt on YouTube"
+    },
+    {
+      "chunk_id": "wikipedia:Winnie#0000",
+      "doc_id": "wikipedia:Winnie",
+      "title": "Winnie",
+      "url": "https://en.wikipedia.org/?curid=1601312",
+      "source_type": "wikipedia",
+      "score": 0.571488893032074,
+      "text": "Winnie or Winny may refer to: People Winnie (name), various persons with the given name David Winnie (born 1966), Scottish former association football player and manager Entertainment Winnie-the-Pooh, a fictional teddy bear created by A. A. Milne Internet memes of Chinese leader Xi Jinping Winnie Mandela (film), a 2011 Canadian film about Winnie Mandela, originally titled Winnie Winnie (2017 film), a South African biographical documentary film about Winnie Mandela the title character of the Winnie the Witch children's picture book series by Valerie Thomas Gwendolyne \"Winnie\" Cooper, a character on the television show The Wonder Years Winnie, a character in the Hotel Transylvania movie series Winny, a Japanese film featuring Masahiro Higashide Places in the United States Winnie, Texas, a census-designated place Winnie, Virginia, an unincorporated community Other uses Tropical Storm Winnie (disambiguation) Winnie (hard disk), a colloquial term for hard disk used in the past Winnie"
+    },
+    {
+      "chunk_id": "wikipedia:Costume#0001",
+      "doc_id": "wikipedia:Costume",
+      "title": "Costume",
+      "url": "https://en.wikipedia.org/?curid=7673",
+      "source_type": "wikipedia",
+      "score": 0.5584625452756882,
+      "text": "limited to unusual or out-of-date clothing and to attire intended to evoke a change in identity, such as theatrical, Halloween, and mascot costumes. Before the advent of ready-to-wear apparel, clothing was made by hand. When made for commercial sale it was made, as late as the beginning of the 20th century, by \"costumiers\", often women who ran businesses that met the demand for complicated or intimate female..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is looking anxious in a white dress shirt and tie.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a white dress shirt",
+          "tie"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster has a Forest Gump question that they are too scared to ask.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a Forest Gump question"
+        ]
+      },
+      "title": {
+        "text": "It's been 28 years....",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "years"
+        ]
+      },
+      "text": {
+        "text": "eae THERE'S B LEGEND ON THE CHOCOLATE, BOKSES Se Qey / rob [\\ 1 7 . ‘ : SANDIATITHISIROIN Tae AFRAID TO/ASKRR",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "eae",
+          "THE CHOCOLATE",
+          "‘ : SANDIATITHISIROIN Tae AFRAID"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "years",
+      "eae",
+      "THE CHOCOLATE",
+      "‘ : SANDIATITHISIROIN Tae AFRAID"
+    ],
+    "secondary_terms": [
+      "a white dress shirt",
+      "tie",
+      "a Forest Gump question"
+    ],
+    "queries": [
+      "\"Forest Gump\" \"‘ : SANDIATITHISIROIN Tae AFRAID\" \"THE CHOCOLATE\" \"years\" \"eae\"",
+      "\"‘ : SANDIATITHISIROIN Tae AFRAID\" \"a Forest Gump question\" \"a white dress shirt\" \"THE CHOCOLATE\"",
+      "\"a white dress shirt\" \"THE CHOCOLATE\" \"years\" \"eae\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_03043",
+  "queries": [
+    "\"World Population\" \"the contributors\" \"hope\" \"among\"",
+    "\"hope\" \"among\" \"contributors\" \"all\""
+  ],
+  "primary_terms": [
+    "the contributors",
+    "hope",
+    "among",
+    "contributors",
+    "World Population",
+    "all",
+    "world",
+    "population",
+    "hit",
+    "billion",
+    "congratulations",
+    "contributed"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Hope#0000",
+      "doc_id": "wikipedia:Hope",
+      "title": "Hope",
+      "url": "https://en.wikipedia.org/?curid=50020",
+      "source_type": "wikipedia",
+      "score": 1.3120199680328368,
+      "text": "Hope is an optimistic state of mind that is based on an expectation of positive outcomes with respect to events and circumstances in one's own life, or the world at large. As a verb, Merriam-Webster defines hope as \"to expect with confidence\" or \"to cherish a desire with anticipation\". Among its opposites are dejection, hopelessness, and despair. Hope finds expression through many dimensions of human life, including practical reasoning, the religious virtue of hope, legal doctrine, and literature, alongside cultural and mythological aspects. In psychology American professor of psychology Barbara Fredrickson argues that hope comes into its own when crisis looms, opening us to new creative possibilities. Frederickson argues that with great need comes an unusually wide range of ideas, as well as such positive emotions as happiness and joy, courage, and empowerment, drawn from four different areas of one's self: from a cognitive, psychological, social, or physical perspective."
+    },
+    {
+      "chunk_id": "wikipedia:Diligence#0000",
+      "doc_id": "wikipedia:Diligence",
+      "title": "Diligence",
+      "url": "https://en.wikipedia.org/?curid=18483349",
+      "source_type": "wikipedia",
+      "score": 0.801501852273941,
+      "text": "Diligence—carefulness and persistent effort or work—is listed as one of the seven capital virtues. It can be indicative of a work ethic, the belief that work is good in itself. \"There is a perennial nobleness, and even sacredness, in work. Were he never so benighted, forgetful of his high calling, there is always hope in a man that actually and earnestly works: in idleness alone there is perpetual despair.\" —Thomas Carlyle In students Bernard et al. define diligence in students as the effort they put toward balanced and holistic development in mental, physical, social, and spiritual dimensions. They find that it correlates with academic performance, especially with younger students, and that the support of parents and educators encourages students to be diligent. Other factors that encourage student diligence include motivation, discipline, concentration, responsibility, and devotedness."
+    },
+    {
+      "chunk_id": "wikipedia:Society#0000",
+      "doc_id": "wikipedia:Society",
+      "title": "Society",
+      "url": "https://en.wikipedia.org/?curid=37235",
+      "source_type": "wikipedia",
+      "score": 0.7326841473579406,
+      "text": "A society () is a group of individuals involved in persistent social interaction or a large social group sharing the same spatial or social territory, typically subject to the same political authority and dominant cultural expectations. Societies are characterized by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions; a given society may be described as the sum total of such relationships among its constituent members. Human social structures are complex and highly cooperative, featuring the specialization of labor via social roles. Societies construct roles and other patterns of behavior by deeming certain actions or concepts acceptable or unacceptable—these expectations around behavior within a given society are known as societal norms. So far as it is collaborative, a society can enable its members to benefit in ways that would otherwise be difficult on an individual basis."
+    },
+    {
+      "chunk_id": "wikipedia:Your Choice#0001",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.724682343006134,
+      "text": "'s World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia. Background We thought the message of love is what could really console people and resonate with them, especially in these tough times that we're having. [...] This time, we wanted to use this word, \"love,\" and the concept..."
+    },
+    {
+      "chunk_id": "wikipedia:Praise#0001",
+      "doc_id": "wikipedia:Praise",
+      "title": "Praise",
+      "url": "https://en.wikipedia.org/?curid=44749915",
+      "source_type": "wikipedia",
+      "score": 0.7162480115890503,
+      "text": "tends to be less salient and expected, conveys more information about competence, and is typically given more immediately after the desired behavior. Praise is distinct from acknowledgement or feedback (more neutral forms of recognition) and from encouragement (expressedly future-oriented). Praise is given across social hierarchy, and both within the ingroup and towards an outgroup; it is an important aspect..."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.6308175384998321,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.6217170119285583,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    },
+    {
+      "chunk_id": "wikipedia:Contribution#0000",
+      "doc_id": "wikipedia:Contribution",
+      "title": "Contribution",
+      "url": "https://en.wikipedia.org/?curid=1522920",
+      "source_type": "wikipedia",
+      "score": 0.6070917159318924,
+      "text": "Contribution may refer to: Music Contribution (album), by Mica Paris (1990) \"Contribution\" (song), title song from the album Contribution, a 1976 album by Shawn Phillips A contribution concert is where a band plays in the songs of or in the style of a separate band Finance and law Contribution (law), an agreement between defendants in a suit to apportion liability Contributions, a vital goal of fundraising Contribution margin, the selling price per unit minus the variable cost per unit Contribution, a principle of insurance Sport Goal contribution, a player statistic in association football See also Adobe Contribute, former web-editing software"
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.5969528526067733,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:SAFE#0000",
+      "doc_id": "wikipedia:SAFE",
+      "title": "SAFE",
+      "url": "https://en.wikipedia.org/?curid=845195",
+      "source_type": "wikipedia",
+      "score": 0.5942515790462494,
+      "text": "SAFE may stand for: Acts and projects SAFE Act, one of many passed or proposed laws with this name Strategic Action For Emergencies, a fictional group to counter S.H.I.E.L.D. in Marvel Comics Synchronized Armed Forces Europe, the concept of synchronising of the European military forces Organisations SAFE (New Zealand organisation), Save Animals From Exploitation, a New Zealand animal advocacy organisation SAFE Society of Aviation and Flight Educators, a professional aviation organization SAFE Stroke Alliance for Europe, a coalition of charities that support stroke survivors SAFE (Struggle Against Financial Exploitation), a UK Parliamentary Working Group who campaign against financial fraud and deception Safe Ireland, anti-domestic violence organization, fund-raised for by Hozier's song \"Cherry Wine\" Security Action for Europe (SAFE), an EU financial instrument for defense spending State Administration of Foreign Exchange (SAFE), an agency of the People's Republic of China Science and"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_04881",
+  "queries": [
+    "\"Pit Bull meme error\" \"the room\" \"the door\" \"pit\"",
+    "\"the door\" \"pit\" \"bull\" \"error\""
+  ],
+  "primary_terms": [
+    "Pit Bull meme error",
+    "pit",
+    "bull",
+    "error",
+    "upon",
+    "your human",
+    "the room",
+    "the door"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Door#0000",
+      "doc_id": "wikipedia:Door",
+      "title": "Door",
+      "url": "https://en.wikipedia.org/?curid=8637",
+      "source_type": "wikipedia",
+      "score": 0.6961207151412964,
+      "text": "A door is a hinged or otherwise movable barrier that allows ingress (entry) into and egress (exit) from an enclosure. The created opening in the wall is a doorway or portal. A door's essential and primary purpose is to provide security by controlling access to the doorway (portal). Conventionally, it is a panel that fits into the doorway of a building, room, or vehicle. Doors are generally made of a material suited to the door's task. They are commonly attached by hinges, but can move by other means, such as slides or counterbalancing. The door may be able to move in various ways (at angles away from the doorway/portal, by sliding on a plane parallel to the frame, by folding in angles on a parallel plane, or by spinning along an axis at the center of the frame) to allow or prevent ingress or egress. In most cases, a door's interior matches its exterior side. But in other cases (e.g., a vehicle door) the two sides are radically different."
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0001",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.6960000813007354,
+      "text": "suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital. Following his recovery, the now-unemployed Tramp is mistakenly arrested in a Communist demonstration. In jail, he accidentally ingests smuggled cocaine, and in his subsequent delirium, he avoids being put back in his cell. When he returns, he stumbles upon a jailbreak and knocks the convicts..."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0001",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.6823900699615478,
+      "text": "a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly. Where the hall inside the front door of a house is elongated, it may be called a passage, corridor (from Spanish corredor used in El Escorial and 100 years later in Castle Howard), or hallway. History In warmer climates, the houses of the wealthy were often built around a courtyard, but in northern areas manors were built around a great hall. The hall was home to the hearth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Room#0000",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.5719409644603729,
+      "text": "In a building or a ship, a room is any enclosed space within a number of walls to which entry is possible only via a door or other dividing structure. The entrance connects it to either a passageway, another room, or the outdoors. The space is typically large enough for several people to move about. The size, fixtures, furnishings, and sometimes placement of the room within the building or ship (or sometimes a train) support the activity to be conducted in it. History Historically, the use of rooms dates at least to early Minoan cultures about 2200 BC, where excavations at Akrotiri on Santorini reveal clearly defined rooms within certain structures. In early structures, the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses."
+    },
+    {
+      "chunk_id": "wikipedia:Door#0001",
+      "doc_id": "wikipedia:Door",
+      "title": "Door",
+      "url": "https://en.wikipedia.org/?curid=8637",
+      "source_type": "wikipedia",
+      "score": 0.5710352957248688,
+      "text": "egress. In most cases, a door's interior matches its exterior side. But in other cases (e.g., a vehicle door) the two sides are radically different. Many doors incorporate locking mechanisms to ensure that only some people can open them (such as with a key). Doors may have devices such as knockers or doorbells by which people outside announce their presence. Apart from providing access into and..."
+    },
+    {
+      "chunk_id": "wikipedia:A Reason to Live, a Reason to Die#0000",
+      "doc_id": "wikipedia:A Reason to Live, a Reason to Die",
+      "title": "A Reason to Live, a Reason to Die",
+      "url": "https://en.wikipedia.org/?curid=24235116",
+      "source_type": "wikipedia",
+      "score": 0.549453642964363,
+      "text": "A Reason to Live, a Reason to Die (originally titled Una Ragione Per Vivere E Una Per Morire, also known as Massacre at Fort Holman) is a 1972 Technicolor Italian spaghetti Western movie starring James Coburn, Bud Spencer, and Telly Savalas. Many exterior scenes were filmed at the Fort Bowie set built in the Province of Almería, Spain, where the desert landscape and climate that characterizes part of the province have made it a much utilized setting for Western films, among those A Fistful of Dollars, The Good, the Bad and the Ugly, Once Upon a Time in the West, and later 800 Bullets. The Fort Bowie set was originally built for the film The Deserter. There are two different English language versions of the movie, shorter with James Coburn's own voice and longer with different voice actors and music. James Coburn was not involved in longer cut dubbing. It also features some of the same songs from Day of Anger starring Lee Van Cleef."
+    },
+    {
+      "chunk_id": "wikipedia:House#0000",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.5265528470277786,
+      "text": "A house is a single-unit residential building. It may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems. Houses use a range of different roofing systems to keep precipitation such as rain from getting into the dwelling space. Houses generally have doors or locks to secure the dwelling space and protect its inhabitants and contents from burglars or other trespassers. Most conventional modern houses in Western cultures will contain one or more bedrooms and bathrooms, a kitchen or cooking area, and a living room. A house may have a separate dining room, or the eating area may be integrated into the kitchen or another room. Some large houses in North America have a recreation room. In traditional agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans."
+    },
+    {
+      "chunk_id": "wikipedia:Spot#0001",
+      "doc_id": "wikipedia:Spot",
+      "title": "Spot",
+      "url": "https://en.wikipedia.org/?curid=67090",
+      "source_type": "wikipedia",
+      "score": 0.5095871984958649,
+      "text": "on public broadcasting outlets, especially in the United States, in exchange for funding Animals Spot, a dog that remained faithful after his master's death, described in the List of individual dogs Spot Fetcher, a dog owned by U.S. President George W. Bush Arts and entertainment Fictional characters Spot, a character..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.47821231186389923,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Jonathan Demme#0001",
+      "doc_id": "wikipedia:Jonathan Demme",
+      "title": "Jonathan Demme",
+      "url": "https://en.wikipedia.org/?curid=16069",
+      "source_type": "wikipedia",
+      "score": 0.4762828052043915,
+      "text": "horror film The Silence of the Lambs, based on the novel of the same title, won five Academy Awards, including Best Director and Best Picture. His subsequent films earned similar acclaim, notably the HIV/AIDS-themed drama Philadelphia (1993), the supernatural Gothic horror Beloved (1998), the conspiracy thriller The Manchurian Candidate (2004), and the independent drama Rachel Getting Married (2008). Demme also directed numerous concert films such as Stop Making..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A Pitbull looking at a hand opening a bottle cap",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that the pitbull gives into it's worst instincts as soon humans leave the room.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the pitbull",
+          "humans",
+          "the room"
+        ]
+      },
+      "title": {
+        "text": "Pit Bull meme error is upon us",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Pit Bull meme error",
+          "pit",
+          "bull",
+          "error",
+          "upon"
+        ]
+      },
+      "text": {
+        "text": "When your human leaves the room for just a minute and closes the door loudly Cc) fey PN ee _ — th OY ween TNS vo oS Rip Wie wo ae ' Ie",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "your human",
+          "the room",
+          "the door"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Pit Bull meme error",
+      "pit",
+      "bull",
+      "error",
+      "upon",
+      "your human",
+      "the room",
+      "the door"
+    ],
+    "secondary_terms": [
+      "the pitbull",
+      "humans",
+      "the room"
+    ],
+    "queries": [
+      "\"Pit Bull meme error\" \"the room\" \"the door\" \"pit\"",
+      "\"the door\" \"pit\" \"bull\" \"error\""
+    ]
+  },
+  "source_jsonl_id": null
+}

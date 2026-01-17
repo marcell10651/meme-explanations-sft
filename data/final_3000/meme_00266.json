@@ -1,0 +1,178 @@
+{
+  "meme_id": "meme_00266",
+  "queries": [
+    "\"Newton\" \"The greater the mass\" \"the greater the force\" \"Siiienss\" \"attraction\"",
+    "\"The greater the mass\" \"the greater the force\" \"Siiienss\" \"Newton\"",
+    "\"Siiienss\" \"Newton\" \"larger women\" \"attraction\""
+  ],
+  "primary_terms": [
+    "Siiienss",
+    "The greater the mass",
+    "the greater the force",
+    "attraction"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Quantity#0001",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.8913172483444214,
+      "text": "such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns. Under the name of magnitude comes what is continuous and unified and divisible only into smaller divisibles, such as: matter, mass, energy, liquid, material—all cases of non-collective nouns. Along with analyzing its nature and classification, the issues of quantity involve such closely related topics as dimensionality..."
+    },
+    {
+      "chunk_id": "wikipedia:Love#0000",
+      "doc_id": "wikipedia:Love",
+      "title": "Love",
+      "url": "https://en.wikipedia.org/?curid=17547",
+      "source_type": "wikipedia",
+      "score": 0.8477085143327713,
+      "text": "Love is an emotion involving strong attraction, affection, emotional attachment or concern for a person, animal, or thing. It is expressed in many forms, encompassing a range of strong and positive emotional and mental states, from the most sublime virtue, good habit, deepest interpersonal affection, to the simplest pleasure. An example of this range of meanings is that the love of a mother differs from the love of a spouse, which differs from the love of food. Love is considered to be both positive and negative, with its virtue representing kindness, compassion, and affection—\"the unselfish, loyal, and benevolent concern for the good of another\"—and its vice representing a moral flaw akin to vanity, selfishness, amour-propre, and egotism. It may also describe compassionate and affectionate actions towards other humans, oneself, or animals."
+    },
+    {
+      "chunk_id": "wikipedia:Praise#0000",
+      "doc_id": "wikipedia:Praise",
+      "title": "Praise",
+      "url": "https://en.wikipedia.org/?curid=44749915",
+      "source_type": "wikipedia",
+      "score": 0.730699434876442,
+      "text": "Praise as a form of social interaction expresses recognition, reassurance or admiration. Praise is expressed verbally as well as by body language (facial expression and gestures). Verbal praise consists of a positive evaluations of another's attributes or actions, where the evaluator presumes the validity of the standards on which the evaluation is based. As a form of social manipulation, praise becomes a form of reward and furthers behavioral reinforcement by conditioning. The influence of praise on an individual can depend on many factors, including the context, the meanings the praise may convey, and the characteristics and interpretations of the recipient. While praise may share some predictive relationships (both positive and negative) with tangible (material) rewards, praise tends to be less salient and expected, conveys more information about competence, and is typically given more immediately after the desired behavior."
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0001",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.7033822387456894,
+      "text": "mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy. Advances in physics often enable new technologies. For example, advances in the understanding of electromagnetism, solid-state physics, and nuclear physics led directly to the development of technologies that have transformed..."
+    },
+    {
+      "chunk_id": "wikipedia:Passion#0000",
+      "doc_id": "wikipedia:Passion",
+      "title": "Passion",
+      "url": "https://en.wikipedia.org/?curid=501256",
+      "source_type": "wikipedia",
+      "score": 0.6763570606708527,
+      "text": "Passion, the Passion or the Passions may refer to: Emotion Passion (emotion), a very strong feeling about a person or thing Passions (philosophy), emotional states as used in philosophical discussions Stoic passions, various forms of emotional suffering in Stoicism Suffering of Jesus Passion of Jesus, the suffering of Jesus leading up to and during the crucifixion Passion (music), musical setting of the texts describing these events Passion Play, dramatic representation of these events Passion Sunday, the second Sunday before Easter Passion Conferences, Christian organization People Pasion, ancient Greek slave and banker Passion Richardson (born 1975), American former sprint athlete Books \"The Passion\" (Milton), 17th-century poem by John Milton The Passions an 18th-century poem by William Collins The Passions (novel), 1811 novel by Charlotte Dacre Passion, (in Italian, Fosca), 1869 novel by Iginio Ugo Tarchetti Passion Play (play) or Passion, 1981 play by Peter Nichols Passion: An"
+    },
+    {
+      "chunk_id": "wikipedia:Physics#0000",
+      "doc_id": "wikipedia:Physics",
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/?curid=22939",
+      "source_type": "wikipedia",
+      "score": 0.6760076880455017,
+      "text": "Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist. Physics is one of the oldest academic disciplines. Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines such as mathematics and philosophy."
+    },
+    {
+      "chunk_id": "wikipedia:Sone#0000",
+      "doc_id": "wikipedia:Sone",
+      "title": "Sone",
+      "url": "https://en.wikipedia.org/?curid=215436",
+      "source_type": "wikipedia",
+      "score": 0.6740440726280212,
+      "text": "The sone () is a unit of loudness, the subjective perception of sound pressure. The study of perceived loudness is included in the topic of psychoacoustics and employs methods of psychophysics. Doubling the perceived loudness doubles the sone value. Proposed by Stanley Smith Stevens in 1936, it is not an SI unit. Definition and conversions According to Stevens' definition, a loudness of 1 sone is equivalent to 40 phons (a 1 kHz tone at 40 dB SPL). The phons scale aligns with dB, not with loudness, so the sone and phon scales are not proportional. Rather, the loudness in sones is, at least very nearly, a power law function of the signal intensity, with an exponent of 0.3. With this exponent, each 10 phon increase (or 10 dB at 1 kHz) produces almost exactly a doubling of the loudness in sones."
+    },
+    {
+      "chunk_id": "wikipedia:Mater#0001",
+      "doc_id": "wikipedia:Mater",
+      "title": "Mater",
+      "url": "https://en.wikipedia.org/?curid=4910553",
+      "source_type": "wikipedia",
+      "score": 0.6448436379432678,
+      "text": "Mater, a major part of an astrolabe M.A.T.E.R., a football (soccer) club in Rome People Juris Māters (1845–1885), Latvian writer and journalist Rudy Mater (born 1980), French footballer See also Dura mater, the outermost layer of the meninges surrounding the brain and spinal cord in mammals Arachnoid..."
+    },
+    {
+      "chunk_id": "wikipedia:Praise#0001",
+      "doc_id": "wikipedia:Praise",
+      "title": "Praise",
+      "url": "https://en.wikipedia.org/?curid=44749915",
+      "source_type": "wikipedia",
+      "score": 0.6002552807331085,
+      "text": "tends to be less salient and expected, conveys more information about competence, and is typically given more immediately after the desired behavior. Praise is distinct from acknowledgement or feedback (more neutral forms of recognition) and from encouragement (expressedly future-oriented). Praise is given across social hierarchy, and both within the ingroup and towards an outgroup; it is an important aspect..."
+    },
+    {
+      "chunk_id": "wikipedia:Perfection#0001",
+      "doc_id": "wikipedia:Perfection",
+      "title": "Perfection",
+      "url": "https://en.wikipedia.org/?curid=1928374",
+      "source_type": "wikipedia",
+      "score": 0.58677838742733,
+      "text": "such as \"excellence\". The German polymath Leibniz (1646–1716), who thought the world to be the best of all possible worlds, never called it perfect. Paradox The Franco-Italian scholar Joseph Juste Scaliger (1540–1609), the Italian polymath Lucilio Vanini (1585–1619), and (according to Vanini) the Greek philosopher Empedocles (ca. 494 – ca. 434 BCE) held that the greatest perfection was..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a man looking very lonely",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey a joke about how Newton likes larger women so made a law of physic to describe it",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Newton",
+          "larger women",
+          "physic"
+        ]
+      },
+      "title": {
+        "text": "Siiienss",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Siiienss"
+        ]
+      },
+      "text": {
+        "text": "[like them thicc af - But Sir Newton, we can't write that! - Then write this: The greater the mass, the greater the force of attraction ' ee LY",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The greater the mass",
+          "the greater the force",
+          "attraction"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Siiienss",
+      "The greater the mass",
+      "the greater the force",
+      "attraction"
+    ],
+    "secondary_terms": [
+      "Newton",
+      "larger women",
+      "physic"
+    ],
+    "queries": [
+      "\"Newton\" \"The greater the mass\" \"the greater the force\" \"Siiienss\" \"attraction\"",
+      "\"The greater the mass\" \"the greater the force\" \"Siiienss\" \"Newton\"",
+      "\"Siiienss\" \"Newton\" \"larger women\" \"attraction\""
+    ]
+  },
+  "source_jsonl_id": null
+}

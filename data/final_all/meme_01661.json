@@ -1,0 +1,202 @@
+{
+  "meme_id": "meme_01661",
+  "queries": [
+    "\"Wiy brain\" \"the exam\" \"goes\" \"wiy\"",
+    "\"goes\" \"wiy\" \"brain\" \"while\""
+  ],
+  "primary_terms": [
+    "goes",
+    "Wiy brain",
+    "the exam",
+    "wiy",
+    "brain",
+    "while",
+    "studying",
+    "wye",
+    "during",
+    "exam",
+    "aoa",
+    "sse",
+    "kapwing"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Dyslexia#0001",
+      "doc_id": "wikipedia:Dyslexia",
+      "title": "Dyslexia",
+      "url": "https://en.wikipedia.org/?curid=8305",
+      "source_type": "wikipedia",
+      "score": 0.7116071790456772,
+      "text": "cases run in families. Dyslexia that develops due to a traumatic brain injury, stroke, or dementia is sometimes called \"acquired dyslexia\" or alexia. The underlying mechanisms of dyslexia result from differences within the brain's language processing. Dyslexia is diagnosed through a series of tests of memory, vision, spelling, and reading skills. Dyslexia is separate from reading difficulties caused by hearing or vision problems or by insufficient..."
+    },
+    {
+      "chunk_id": "wikipedia:Information#0001",
+      "doc_id": "wikipedia:Information",
+      "title": "Information",
+      "url": "https://en.wikipedia.org/?curid=18985062",
+      "source_type": "wikipedia",
+      "score": 0.6850502759218215,
+      "text": "control, data, form, education, knowledge, meaning, understanding, mental stimuli, pattern, perception, proposition, representation, and entropy. Information is often processed iteratively: Data available at one step are processed into information to be interpreted and processed at the next step. For example, in written text each symbol or letter conveys information..."
+    },
+    {
+      "chunk_id": "wikipedia:Brain#0000",
+      "doc_id": "wikipedia:Brain",
+      "title": "Brain",
+      "url": "https://en.wikipedia.org/?curid=3717",
+      "source_type": "wikipedia",
+      "score": 0.66856689453125,
+      "text": "The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. It consists of nervous tissue and is typically located in the head (cephalization), usually near organs for special senses such as vision, hearing, and olfaction. Being the most specialized organ, it is responsible for receiving information from the sensory nervous system, processing that information (thought, cognition, and intelligence) and the coordination of motor control (muscle activity and endocrine system). While invertebrate brains arise from paired segmental ganglia (each of which is only responsible for the respective body segment) of the ventral nerve cord, vertebrate brains develop axially from the midline dorsal nerve cord as a vesicular enlargement at the rostral end of the neural tube, with centralized control over all body segments."
+    },
+    {
+      "chunk_id": "wikipedia:Relaxation#0001",
+      "doc_id": "wikipedia:Relaxation",
+      "title": "Relaxation",
+      "url": "https://en.wikipedia.org/?curid=392638",
+      "source_type": "wikipedia",
+      "score": 0.652993044257164,
+      "text": "for a natural extension in mathematical optimization or variational problems In computer science: Relaxation (computing), the act of substituting alternative program code during linking In physiology, hypnosis, meditation, recreation: Relaxation (psychology), the emotional state of low tension Relaxation technique, an activity that helps a person to relax..."
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0000",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.6511193633079528,
+      "text": "Attention is the concentration of awareness directed at some phenomenon while excluding others. Across disciplines, the nature of this directedness is conceptualized in different ways. In cognitive psychology, attention is often described as the allocation of limited cognitive processing resources to a subset of information, thoughts, or tasks. In neuropsychology, attention is understood as a set of mechanisms by which sensory cues and internal goals modulate neuronal tuning and orient behavioral and cognitive processes. Attention is not a unitary phenomenon but an umbrella term for multiple related processes, including selective attention (prioritizing some stimuli over others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time)."
+    },
+    {
+      "chunk_id": "wikipedia:Head#0000",
+      "doc_id": "wikipedia:Head",
+      "title": "Head",
+      "url": "https://en.wikipedia.org/?curid=1209545",
+      "source_type": "wikipedia",
+      "score": 0.620771861076355,
+      "text": "A head is the part of an organism which usually includes the ears, brain, forehead, cheeks, chin, eyes, nose, and mouth, each of which aid in various sensory functions such as sight, hearing, smell, and taste. Some very simple animals may not have a head, but many bilaterally symmetric forms do, regardless of size. Heads develop in animals by an evolutionary trend known as cephalization. In bilaterally symmetrical animals, nervous tissue concentrate at the anterior region, forming structures responsible for information processing. Through biological evolution, sense organs and feeding structures also concentrate into the anterior region; these collectively form the head. Human head The human head is an anatomical unit that consists of the skull, hyoid bone and cervical vertebrae. The skull consists of the brain case which encloses the cranial cavity, and the facial skeleton, which includes the mandible. There are eight bones in the brain case and fourteen in the facial skeleton."
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.6015715658664703,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Nervous#0000",
+      "doc_id": "wikipedia:Nervous",
+      "title": "Nervous",
+      "url": "https://en.wikipedia.org/?curid=2971124",
+      "source_type": "wikipedia",
+      "score": 0.599958062171936,
+      "text": "Nervous may refer to: Nervousness Nervous system, a network of cells in an animal's body that coordinates movement and the senses Nervous tissue, the cells of the nervous system that work in aggregate to transmit signals Music \"Nervous\" (Gene Summers song), 1958; covered by several performers \"Nervous\" (Gavin James song), 2016 \"Nervous\" (Shawn Mendes song), 2018 \"Nervous\", a song by Blackbear from Help, 2015 \"Nervous\", a song by K.Flay from Solutions, 2019 \"Nervous\", a song by L Devine, 2018 \"Nervous\", a song by Nick Jonas from Spaceman, 2021 \"Nervous\", a song by the Drums from Brutalism, 2019 \"Nervous\", a song by X Ambassadors from VHS, 2015 Nervous Records, a UK record label Nervous Records (US), a US record label See also \"Nervousness\", a song by the Gigolo Aunts from Tales from the Vinegar Side Nervous Norvus (1912–1968), the performing name of Jimmy Drake Nervous shark, a species of requiem shark All pages with titles beginning with Nervous"
+    },
+    {
+      "chunk_id": "wikipedia:Confusion#0001",
+      "doc_id": "wikipedia:Confusion",
+      "title": "Confusion",
+      "url": "https://en.wikipedia.org/?curid=2079352",
+      "source_type": "wikipedia",
+      "score": 0.5913159757852554,
+      "text": "mix, blend, pour together, disorder, embroil.\" Causes Confusion may result from drug side effects or from a relatively sudden brain dysfunction. Acute confusion is often called delirium (or \"acute confusional state\"), although delirium often includes a much broader array of disorders than simple confusion. These disorders include the inability to focus attention; various impairments in awareness, and temporal or spatial dis-orientation. Mental..."
+    },
+    {
+      "chunk_id": "wikipedia:Confusion#0000",
+      "doc_id": "wikipedia:Confusion",
+      "title": "Confusion",
+      "url": "https://en.wikipedia.org/?curid=2079352",
+      "source_type": "wikipedia",
+      "score": 0.5893490076065063,
+      "text": "In psychology, confusion is the quality or emotional state of being bewildered or unclear. The term \"acute mental confusion\" is often used interchangeably with delirium in the International Statistical Classification of Diseases and Related Health Problems and the Medical Subject Headings publications to describe the pathology. These refer to the loss of orientation, or the ability to place oneself correctly in the world by time, location and personal identity. Mental confusion is sometimes accompanied by disordered consciousness (the loss of linear thinking) and memory loss (the inability to correctly recall previous events or learn new material). Etymology The word confusion derives from the Latin word, confundo, which means \"confuse, mix, blend, pour together, disorder, embroil.\" Causes Confusion may result from drug side effects or from a relatively sudden brain dysfunction."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is sitting in a car having his brain expanded.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "his brain"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they forget everything they studied once it comes time to take an exam.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "everything"
+        ]
+      },
+      "title": {
+        "text": "It goes it goes it goes it goes it goes it goes it goes it goes it goes it goes it goes it goes it goes 75%",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "goes"
+        ]
+      },
+      "text": {
+        "text": "Wiy brain while studying tw = a AA Wye EL a \\4 en CN Wiy brain during the exam AOA SS ft, mY . “, Sse CR. - == KAPWING",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Wiy brain",
+          "the exam",
+          "wiy",
+          "brain",
+          "while",
+          "studying",
+          "wye",
+          "during",
+          "exam",
+          "aoa",
+          "sse",
+          "kapwing"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "goes",
+      "Wiy brain",
+      "the exam",
+      "wiy",
+      "brain",
+      "while",
+      "studying",
+      "wye",
+      "during",
+      "exam",
+      "aoa",
+      "sse",
+      "kapwing"
+    ],
+    "secondary_terms": [
+      "his brain",
+      "everything"
+    ],
+    "queries": [
+      "\"Wiy brain\" \"the exam\" \"goes\" \"wiy\"",
+      "\"goes\" \"wiy\" \"brain\" \"while\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,197 @@
+{
+  "meme_id": "meme_00539",
+  "queries": [
+    "\"People\" \"Gotham City\" \"gotham\" \"city\" \"appears\"",
+    "\"city\" \"appears\" \"mutating\" \"accor\""
+  ],
+  "primary_terms": [
+    "Gotham City",
+    "gotham",
+    "city",
+    "appears",
+    "mutating",
+    "accor",
+    "ited",
+    "culture",
+    "journalist"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Two-Face#0000",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 0.6027423620224,
+      "text": "Two-Face is a supervillain appearing in American comic books published by DC Comics. The character was created by Bob Kane, and first appeared in Detective Comics #66 (August 1942). He has become one of the superhero Batman's most enduring enemies belonging to the collective of adversaries that make up his rogues gallery. In his comic book appearances, Two-Face is the alter ego of Harvey Dent, Gotham City's former district attorney who becomes a criminal mastermind obsessed with duality and the number two. Half of his face is hideously scarred after mob boss Sal Maroni throws acid at him. The resulting disfigurement drives him insane and causes him to make decisions based on the flip of a coin. The Modern Age of Comic Books portrays the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.5868267178535461,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Phoenix#0001",
+      "doc_id": "wikipedia:Phoenix",
+      "title": "Phoenix",
+      "url": "https://en.wikipedia.org/?curid=23689",
+      "source_type": "wikipedia",
+      "score": 0.5202399551868438,
+      "text": "an unincorporated community Phoenix, Mississippi, an unincorporated community Phoenix, Edison, New Jersey, a neighborhood of the township of Edison Phoenix, Sayreville, New Jersey, a neighborhood of the borough of Sayreville Phoenix, New York, a village Phoenix, Oregon, a city Elsewhere Phoenix (Caria), a town of ancient..."
+    },
+    {
+      "chunk_id": "wikipedia:Your Town#0001",
+      "doc_id": "wikipedia:Your Town",
+      "title": "Your Town",
+      "url": "https://en.wikipedia.org/?curid=10652571",
+      "source_type": "wikipedia",
+      "score": 0.5028220564126968,
+      "text": "2:25 US release CD single (Chaos 42K 74959) \"Your Town\" (Euro 7-inch) – 3:49 \"Your Town\" (Barrio Mix radio edit) – 4:09 \"Your Town\" (Perfecto mix) – 6:28 \"Your Town\" (Relaxation dub) – 6:08 \"Your Town\" (Barrio mix instrumental) – 6:05 Charts Release history References"
+    },
+    {
+      "chunk_id": "wikipedia:Appearance#0001",
+      "doc_id": "wikipedia:Appearance",
+      "title": "Appearance",
+      "url": "https://en.wikipedia.org/?curid=8104650",
+      "source_type": "wikipedia",
+      "score": 0.489812633395195,
+      "text": "submits himself to the jurisdiction of the court. Appear or Appears may refer to: \"Appear\" (나타나) a song from Secret Garden OST (2010), by Kim Bum-soo. \"Appears\", a song released by Ayumi Hamasaki in 1999 Appearing may refer to: Appearing (media consultants) - \"Appearing\", broadcast media promotion consultants, a PR agency headed by Scott Piering See also All pages with titles beginning with Appearance All pages with titles containing Appearance Apparition (disambiguation), any instance of appearing, but usually referring to a supernatural phenomenon Cap (sport) in some sports is a metaphorical term for a player's appearance on a select team, such as a national team"
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0001",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.3883533179759979,
+      "text": "such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns. Under the name of magnitude comes what is continuous and unified and divisible only into smaller divisibles, such as: matter, mass, energy, liquid, material—all cases of non-collective nouns. Along with analyzing its nature and classification, the issues of quantity involve such closely related topics as dimensionality..."
+    },
+    {
+      "chunk_id": "wikipedia:Arkham#0000",
+      "doc_id": "wikipedia:Arkham",
+      "title": "Arkham",
+      "url": "https://en.wikipedia.org/?curid=65730",
+      "source_type": "wikipedia",
+      "score": 0.3831028759479523,
+      "text": "Arkham () is a fictional city situated in Massachusetts, United States. An integral part of the Lovecraft Country setting created by H. P. Lovecraft, Arkham is featured in many of his stories and those of other Cthulhu Mythos writers. Arkham House, a publishing company started by two of Lovecraft's correspondents, August Derleth and Donald Wandrei, takes its name from this city as a tribute. Arkham Asylum, a fictional mental hospital in DC Comics' Batman mythos, is also named after Lovecraft's Arkham. In Lovecraft's stories Arkham is the home of Miskatonic University, which features prominently in many of Lovecraft's works. The institution finances the expeditions in the novellas, At the Mountains of Madness (1936) and The Shadow Out of Time (1936). Walter Gilman, of \"The Dreams in the Witch House\" (1933), attends classes at the university. Other notable institutions in Arkham are the Arkham Historical Society and the Arkham Sanitarium."
+    },
+    {
+      "chunk_id": "wikipedia:Phoenix#0000",
+      "doc_id": "wikipedia:Phoenix",
+      "title": "Phoenix",
+      "url": "https://en.wikipedia.org/?curid=23689",
+      "source_type": "wikipedia",
+      "score": 0.37986592650413514,
+      "text": "Phoenix most often refers to: Phoenix (mythology), an immortal bird in ancient Greek mythology Phoenix, Arizona, the capital of the U.S. state of Arizona and the most populous state capital in the United States Phoenix may also refer to: Greek mythology Phoenix (Greek mythology), several other figures in Greek mythology, including: Phoenix (son of Agenor), brother or father of Europa Phoenix (son of Amyntor), king of the Dolopians who raises Achilles Places Canada Phoenix, Alberta, a ghost town Phoenix, British Columbia, a ghost town United States Phoenix, Arizona, capital of Arizona and most populous city in the state Phoenix metropolitan area, Arizona Phoenix, Georgia, an unincorporated community Phoenix, Illinois, a village Phoenix, Louisiana, an unincorporated community Phoenix, Maryland, an unincorporated community Phoenix, Michigan, an unincorporated community Phoenix, Mississippi, an unincorporated community Phoenix, Edison, New Jersey, a neighborhood of the township of Edison"
+    },
+    {
+      "chunk_id": "wikipedia:Following#0000",
+      "doc_id": "wikipedia:Following",
+      "title": "Following",
+      "url": "https://en.wikipedia.org/?curid=23011287",
+      "source_type": "wikipedia",
+      "score": 0.3526966631412506,
+      "text": "Following is a 1998 British independent neo-noir crime thriller film written, produced, directed, photographed, and edited by Christopher Nolan in his feature film directorial debut. It tells the story of a young man who follows strangers around the streets of London and is drawn into a criminal underworld when he fails to keep his distance. The film was designed to be as inexpensive as possible to make. Scenes were heavily rehearsed so just one or two takes were needed to economise on 16mm film stock, the production's greatest expense, and for which Nolan was paying from his salary. Unable to afford expensive professional lighting equipment, Nolan mostly used available light. Along with writing, directing, and photographing the film, Nolan helped in editing and production. The film was released by The Criterion Collection on both Blu-ray and DVD in North America on 11 December 2012."
+    },
+    {
+      "chunk_id": "wikipedia:His Family#0001",
+      "doc_id": "wikipedia:His Family",
+      "title": "His Family",
+      "url": "https://en.wikipedia.org/?curid=3241257",
+      "source_type": "wikipedia",
+      "score": 0.3477477043867111,
+      "text": "changes that have come to New York since his arrival in the city as a young man from a New Hampshire farm somewhere near the time of the Civil War. He is driven by his wife's dying request to remain close to their three daughters, yet he feels very distant from them—this despite the fact that the younger two (Deborah, a school principal, and Laura) live in the family home with him, and Edith, who is..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "People are dressed up on the left and looking weird on the right.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "People",
+          "the right"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that People in America are starting to look like Supervillains.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "People",
+          "America",
+          "Supervillains"
+        ]
+      },
+      "title": {
+        "text": "Gotham City",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Gotham City",
+          "gotham",
+          "city"
+        ]
+      },
+      "text": {
+        "text": "The US appears to be slowly mutating into Gotham City ZO 2 @ [accor ===) A | EE ited ee the, : or 5 Se ; CULTURE JOURNALIST",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "appears",
+          "mutating",
+          "gotham",
+          "city",
+          "accor",
+          "ited",
+          "culture",
+          "journalist"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Gotham City",
+      "gotham",
+      "city",
+      "appears",
+      "mutating",
+      "accor",
+      "ited",
+      "culture",
+      "journalist"
+    ],
+    "secondary_terms": [
+      "People",
+      "the right",
+      "America",
+      "Supervillains"
+    ],
+    "queries": [
+      "\"People\" \"Gotham City\" \"gotham\" \"city\" \"appears\"",
+      "\"city\" \"appears\" \"mutating\" \"accor\""
+    ]
+  },
+  "source_jsonl_id": null
+}

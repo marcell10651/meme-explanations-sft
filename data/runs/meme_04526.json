@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_04526",
+  "queries": [
+    "\"Harry Potter\" \"thought\" \"okay\" \"cse\" \"whatihappened\"",
+    "\"cse\" \"whatihappened\" \"him\" \"visited\""
+  ],
+  "primary_terms": [
+    "thought",
+    "okay",
+    "cse",
+    "whatihappened",
+    "him",
+    "visited",
+    "dragonsfuckingcars"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Draco Malfoy#0000",
+      "doc_id": "wikipedia:Draco Malfoy",
+      "title": "Draco Malfoy",
+      "url": "https://en.wikipedia.org/?curid=44334",
+      "source_type": "wikipedia",
+      "score": 0.465083247423172,
+      "text": "Draco Lucius Malfoy is a fictional character and a major antagonist in J. K. Rowling's Harry Potter series. He is a student in Harry Potter's year belonging in the Slytherin house. He is frequently accompanied by his two cronies, Vincent Crabbe and Gregory Goyle, who act as henchmen. Draco is characterised as a cowardly bully who tricks and hurts people to get what he wants; he is also a cunning user of magic. He was played by Tom Felton in the Harry Potter film series, while Lox Pratt is set to portray him in the TV series adaptation. Character development Draco serves as a foil to the hero, Harry Potter, and is loosely based on bullies Rowling encountered during her school days. Harry first encounters Draco's snobbish bigotry after their initial encounter at Madam Malkin's. Rowling uses the Malfoys to introduce themes of intolerance and bigotry into a setting where people are often judged solely by their blood lineage rather than their good character or accomplishments."
+    },
+    {
+      "chunk_id": "wikipedia:Edit#0001",
+      "doc_id": "wikipedia:Edit",
+      "title": "Edit",
+      "url": "https://en.wikipedia.org/?curid=1239591",
+      "source_type": "wikipedia",
+      "score": 0.46472692489624023,
+      "text": "the MS-DOS Editor, a plain-text editor for MS-DOS, included in some versions of Microsoft Windows Edits (app), an American app The Edit (film), a 1985 short film The Edit, a fashion magazine published by Net-a-Porter See also All pages with titles beginning with Edit All pages with titles containing Edit Edith, a personal..."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0001",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.45928600430488586,
+      "text": "state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son. The principal, worried for his school's reputation, tries to contain the situation and hides the letter in his office, while the four parents instructs their children to keep quiet. Ho-chang, curious to..."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0001",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.4591594636440277,
+      "text": "thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references. Major themes in the series include prejudice, corruption, madness, love, and death. Since the release of the first novel, Harry Potter and the Philosopher's Stone, on 26 June 1997, the books have found immense popularity and commercial success worldwide..."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0000",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.43705953657627106,
+      "text": "Great may refer to: Descriptions or measurements Great, a relative measurement in physical space, see Size Greatness, being divine, superior, majestic, or transcendent People List of people known as \"the Great\" Artel Great (born 1981), American actor Great Osobor (born 2002), Spanish-born British basketball player Other uses Great (1975 film), a British animated short about Isambard Kingdom Brunel Great (2013 film), a German short film Great (supermarket), a supermarket in Hong Kong GReAT, Graph Rewriting and Transformation, a Model Transformation Language Gang Resistance Education and Training, or GREAT, a school-based and police officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great!"
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0001",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.4273251950740814,
+      "text": "due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\". The character of Hagrid and conversations between him, Harry Potter, Ron Weasley and Hermione Granger in his hut are expository through the series, due to the fact that the trio frequently discover things about Albus Dumbledore and Hogwarts by talking with Hagrid, as he has a habit of letting..."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0000",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.4141201376914978,
+      "text": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Granger, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's conflict with Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and non-magical people, known in-universe as Muggles. The series was originally published in English by Bloomsbury in the United Kingdom and Scholastic Press in the United States. A series of many genres, including fantasy, drama, coming-of-age fiction, and the British school story (which includes elements of mystery, thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references."
+    },
+    {
+      "chunk_id": "wikipedia:Timon#0001",
+      "doc_id": "wikipedia:Timon",
+      "title": "Timon",
+      "url": "https://en.wikipedia.org/?curid=358706",
+      "source_type": "wikipedia",
+      "score": 0.4023594558238983,
+      "text": "the title character of The History of Timon of Athens the Man-hater, a rewrite of Shakespeare's original play by Thomas Shadwell Timon, a film and television character, originally from the film The Lion King Timon (Rome character), in the 2005 television series Rome Timon, one of the minor characters in the 2017 Netflix series, Big Mouth (American..."
+    },
+    {
+      "chunk_id": "wikipedia:Corona#0001",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.39358770847320557,
+      "text": "into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities Corona (fictional world), in R. A. Salvatore's DemonWars novels Corona, a character in the game Doraemon: Nobita to Mittsu no Seireiseki Corona, a character in the Spider..."
+    },
+    {
+      "chunk_id": "wikipedia:Harry#0000",
+      "doc_id": "wikipedia:Harry",
+      "title": "Harry",
+      "url": "https://en.wikipedia.org/?curid=12500869",
+      "source_type": "wikipedia",
+      "score": 0.3914087414741516,
+      "text": "Harry may refer to: Television Harry (American TV series), 1987 comedy series starring Alan Arkin Harry (British TV series), 1993 BBC drama that ran for two seasons Harry (game show), 2012 French game show hosted by Sébastien Folin Harry (New Zealand TV series), 2013 crime drama starring Oscar Kightley Harry (talk show), 2016 American daytime talk show hosted by Harry Connick Jr. People and fictional characters Harry (given name), a list of people and fictional characters with the given or nickname including Prince Harry, Duke of Sussex (born 1984) Harry (surname), a list of people with the surname Other uses \"Harry\", the tunnel used in the Stalag Luft III escape (\"The Great Escape\") of World War II Harry (album), a 1969 album by Harry Nilsson Harry (derogatory term), derogatory term used in Norway Harry (newspaper), an underground newspaper in Baltimore, Maryland \"Harry (poem)\", 1962 poem by Francis Webb See also All pages with titles beginning with Harry Old Harry (disambiguation)"
+    }
+  ]
+}

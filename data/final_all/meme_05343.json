@@ -1,0 +1,191 @@
+{
+  "meme_id": "meme_05343",
+  "queries": [
+    "\"Guys\" \"Pleasé\" \"the cat\" \"cat\"",
+    "\"Harry Potter\" \"Guys\" \"Pleasé\" \"Dumbledore\"",
+    "\"Pleasé\" \"Dumbledore\" \"the cat\" \"the people\""
+  ],
+  "primary_terms": [
+    "Guys",
+    "the cat",
+    "cat",
+    "Pleasé",
+    "him"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Albus Dumbledore#0000",
+      "doc_id": "wikipedia:Albus Dumbledore",
+      "title": "Albus Dumbledore",
+      "url": "https://en.wikipedia.org/?curid=45322",
+      "source_type": "wikipedia",
+      "score": 1.0907114505767823,
+      "text": "Albus Dumbledore is a fictional character in the Harry Potter series of novels by J. K. Rowling. For most of the series, he is the headmaster of the wizarding school Hogwarts. He is also the founder and leader of the Order of the Phoenix, an organisation dedicated to fighting the Dark wizard Lord Voldemort. In the novels, Dumbledore is widely regarded as one of the most powerful and influential wizards of his time. Renowned for his wisdom, kindness, and formidable magical abilities, he plays a crucial role in shaping the events of the wizarding world. As a mentor to Harry Potter, he provides guidance and crucial knowledge in the fight against Voldemort. Despite his benevolent image, Dumbledore's past is marked by tragedy and complexity, including his youthful association with Gellert Grindelwald, a dark wizard he later defeated. His philosophical views on power, love, and death are central themes in the series."
+    },
+    {
+      "chunk_id": "wikipedia:Draco Malfoy#0000",
+      "doc_id": "wikipedia:Draco Malfoy",
+      "title": "Draco Malfoy",
+      "url": "https://en.wikipedia.org/?curid=44334",
+      "source_type": "wikipedia",
+      "score": 0.9209696114063263,
+      "text": "Draco Lucius Malfoy is a fictional character and a major antagonist in J. K. Rowling's Harry Potter series. He is a student in Harry Potter's year belonging in the Slytherin house. He is frequently accompanied by his two cronies, Vincent Crabbe and Gregory Goyle, who act as henchmen. Draco is characterised as a cowardly bully who tricks and hurts people to get what he wants; he is also a cunning user of magic. He was played by Tom Felton in the Harry Potter film series, while Lox Pratt is set to portray him in the TV series adaptation. Character development Draco serves as a foil to the hero, Harry Potter, and is loosely based on bullies Rowling encountered during her school days. Harry first encounters Draco's snobbish bigotry after their initial encounter at Madam Malkin's. Rowling uses the Malfoys to introduce themes of intolerance and bigotry into a setting where people are often judged solely by their blood lineage rather than their good character or accomplishments."
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0000",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.7544000297784805,
+      "text": "Nobody most often refers to: Nobody, an indefinite pronoun Nobody may also refer to: Fictional characters Nobody (Kingdom Hearts), a race of beings in the Kingdom Hearts video game series Nobody (Devil May Cry), a demon appearing in Devil May Cry Nobody, a character in the Jim Jarmusch films Dead Man and Ghost Dog: The Way of the Samurai Nobody, a character in the 1973 Italian film My Name Is Nobody Nobody, a character in the Teenage Mutant Ninja Turtles franchise Odysseus, who used the name \"nobody\" in his battle against Polyphemus Film and television Nobody (1921 film), an American silent film \"The Nobody\" (The Amazing World of Gumball), a 2015 TV episode \"Nobody\" (Folklore), a 2018 TV episode Nobody (2021 film), American thriller film Nobody (2025 film), Chinese animated film Music Nobody (producer) (born 1977), American record producer Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs"
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0000",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.7411239147186279,
+      "text": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Granger, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's conflict with Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and non-magical people, known in-universe as Muggles. The series was originally published in English by Bloomsbury in the United Kingdom and Scholastic Press in the United States. A series of many genres, including fantasy, drama, coming-of-age fiction, and the British school story (which includes elements of mystery, thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references."
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0001",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.7296152770519256,
+      "text": "due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\". The character of Hagrid and conversations between him, Harry Potter, Ron Weasley and Hermione Granger in his hut are expository through the series, due to the fact that the trio frequently discover things about Albus Dumbledore and Hogwarts by talking with Hagrid, as he has a habit of letting..."
+    },
+    {
+      "chunk_id": "wikipedia:Draco Malfoy#0001",
+      "doc_id": "wikipedia:Draco Malfoy",
+      "title": "Draco Malfoy",
+      "url": "https://en.wikipedia.org/?curid=44334",
+      "source_type": "wikipedia",
+      "score": 0.7149246096611023,
+      "text": "and bigotry into a setting where people are often judged solely by their blood lineage rather than their good character or accomplishments. Draco, adhering to his family's beliefs, thinks that Muggle-born witches and wizards, which he and other characters derogatorily describe by the epithet Mudbloods, should be denied a magical education. Harry..."
+    },
+    {
+      "chunk_id": "wikipedia:Potter#0000",
+      "doc_id": "wikipedia:Potter",
+      "title": "Potter",
+      "url": "https://en.wikipedia.org/?curid=170486",
+      "source_type": "wikipedia",
+      "score": 0.6998344957828522,
+      "text": "A potter is someone who makes pottery. Potter may also refer to: Places United States Potter, originally a section on the Alaska Railroad, currently a neighborhood of Anchorage, Alaska, US Potter, Arkansas Potter, Nebraska Potters, New Jersey Potter, New York Potter, Wisconsin Potter County, Pennsylvania Potter County, South Dakota Potter County, Texas Potter Lake, Wisconsin Potter Township (disambiguation) Potter Valley, California Potter Valley AVA, California wine region in Mendocino County Potter Cemetery, Michigan Elsewhere 7320 Potter, an asteroid Potter Island, Nunavut, Canada Potter Peninsula, South Shetland Islands People and fictional characters Potter (name), a given name and a surname, including a list of people and fictional characters with the name Arts, entertainment, and media Potter (TV series), a TV sitcom starring Arthur Lowe Harry and the Potters, an American rock band Harry Potter, worldwide bestselling book and film series Miss Potter, a 2006 film by Chris Noonan"
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0000",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.6953369975090027,
+      "text": "Rubeus Hagrid () is a fictional character in the Harry Potter series of novels by J. K. Rowling. He was introduced in Harry Potter and the Philosopher's Stone (1997) as a half-giant who is the gamekeeper and groundskeeper at the wizarding school Hogwarts. He is a member of the Order of the Phoenix and eventually becomes the Care of Magical Creatures professor. Hagrid is portrayed by Robbie Coltrane in all eight Harry Potter films. Creation and development Rubeus Hagrid was one of the first characters Rowling created. In a 1999 interview, she explained that the name \"Hagrid\" is an Old English word, referring to hagridden, meaning 'tormented by hags'. She said it means \"you'd had a bad night\" and she explained that Hagrid \"has a lot of bad nights\" due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\"."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0001",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.6915776133537292,
+      "text": "thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references. Major themes in the series include prejudice, corruption, madness, love, and death. Since the release of the first novel, Harry Potter and the Philosopher's Stone, on 26 June 1997, the books have found immense popularity and commercial success worldwide..."
+    },
+    {
+      "chunk_id": "wikipedia:Harry#0000",
+      "doc_id": "wikipedia:Harry",
+      "title": "Harry",
+      "url": "https://en.wikipedia.org/?curid=12500869",
+      "source_type": "wikipedia",
+      "score": 0.6699129045009613,
+      "text": "Harry may refer to: Television Harry (American TV series), 1987 comedy series starring Alan Arkin Harry (British TV series), 1993 BBC drama that ran for two seasons Harry (game show), 2012 French game show hosted by Sébastien Folin Harry (New Zealand TV series), 2013 crime drama starring Oscar Kightley Harry (talk show), 2016 American daytime talk show hosted by Harry Connick Jr. People and fictional characters Harry (given name), a list of people and fictional characters with the given or nickname including Prince Harry, Duke of Sussex (born 1984) Harry (surname), a list of people with the surname Other uses \"Harry\", the tunnel used in the Stalag Luft III escape (\"The Great Escape\") of World War II Harry (album), a 1969 album by Harry Nilsson Harry (derogatory term), derogatory term used in Norway Harry (newspaper), an underground newspaper in Baltimore, Maryland \"Harry (poem)\", 1962 poem by Francis Webb See also All pages with titles beginning with Harry Old Harry (disambiguation)"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A cat is growling above a decomposing body above Harry Potter who is above Dumbledore.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Harry Potter",
+          "Dumbledore"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster mocks the people who show pity for animals on social media but don't really help the human who is in need.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the people",
+          "pity",
+          "animals",
+          "social media",
+          "the human"
+        ]
+      },
+      "title": {
+        "text": "Guys...Dont the cat",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Guys",
+          "the cat",
+          "cat"
+        ]
+      },
+      "text": {
+        "text": "Pleasé do ‘not the.cat _what happened to him’? _ he the cat",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Pleasé",
+          "him",
+          "the cat"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Guys",
+      "the cat",
+      "cat",
+      "Pleasé",
+      "him"
+    ],
+    "secondary_terms": [
+      "Harry Potter",
+      "Dumbledore",
+      "the people",
+      "pity",
+      "animals",
+      "social media",
+      "the human"
+    ],
+    "queries": [
+      "\"Guys\" \"Pleasé\" \"the cat\" \"cat\"",
+      "\"Harry Potter\" \"Guys\" \"Pleasé\" \"Dumbledore\"",
+      "\"Pleasé\" \"Dumbledore\" \"the cat\" \"the people\""
+    ]
+  },
+  "source_jsonl_id": null
+}

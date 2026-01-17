@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_04365",
+  "queries": [
+    "\"Cricket\" \"Dear England\" \"dear\" \"england\" \"eis\"",
+    "\"england\" \"eis\" \"erb\" \"cricket\""
+  ],
+  "primary_terms": [
+    "Dear England",
+    "dear",
+    "england",
+    "eis",
+    "erb",
+    "cricket",
+    "paddleball"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Winning#0001",
+      "doc_id": "wikipedia:Winning",
+      "title": "Winning",
+      "url": "https://en.wikipedia.org/?curid=28094145",
+      "source_type": "wikipedia",
+      "score": 0.6461556315422058,
+      "text": "People with surname Charles Winning (1889–1967), Australian cricketer David Winning (born 1961), Canadian and American film director, producer, screenwriter Thomas Winning (1925–2001), Scottish Roman Catholic cardinal See also Charlie Sheen, who used the word as a catchphrase All pages with titles beginning..."
+    },
+    {
+      "chunk_id": "wikipedia:Emon#0001",
+      "doc_id": "wikipedia:Emon",
+      "title": "Emon",
+      "url": "https://en.wikipedia.org/?curid=52429604",
+      "source_type": "wikipedia",
+      "score": 0.6119231194257736,
+      "text": "(born 1993), Bangladeshi footballer Anisul Islam Emon (born 1994), Bangladeshi cricketer Parvez Hossain Emon (born 2002), Bangladeshi cricketer Abu Shahed Emon (fl. 2000s), Bangladeshi film director Emon Saha (fl. 2000s), Bangladeshi composer Emon Ahmed (fl. 2008–2010), Bangladeshi cricketer Emon Chowdhury, Bangladeshi musician Emon..."
+    },
+    {
+      "chunk_id": "wikipedia:British#0000",
+      "doc_id": "wikipedia:British",
+      "title": "British",
+      "url": "https://en.wikipedia.org/?curid=3962",
+      "source_type": "wikipedia",
+      "score": 0.49963927268981934,
+      "text": "British may refer to: Peoples, culture, and language British people, nationals or natives of the United Kingdom, British Overseas Territories and Crown Dependencies. British national identity, the characteristics of British people and culture British English, the English language as spoken and written in United Kingdom of Great Britain and Northern Ireland and, more broadly, throughout the British Isles Celtic Britons, an ancient ethno-linguistic group Brittonic languages, a branch of the Insular Celtic language family (formerly called British) Common Brittonic, an ancient language Other uses People or things associated with: Great Britain, an island British Isles, an island group United Kingdom, a sovereign state British Empire, a historical global colonial empire Kingdom of Great Britain (1707–1800) United Kingdom of Great Britain and Ireland (1801–1922) British Raj, an informal empire ruled directly by the Crown on the Indian subcontinent British Hong Kong, colonial Hong Kong under"
+    },
+    {
+      "chunk_id": "wikipedia:Exchange#0001",
+      "doc_id": "wikipedia:Exchange",
+      "title": "Exchange",
+      "url": "https://en.wikipedia.org/?curid=41125",
+      "source_type": "wikipedia",
+      "score": 0.44521287083625793,
+      "text": "Exchange (economics), in a market economy Exchange (organized market), where securities etc are bought and sold Places Exchange, Indiana, U.S. Exchange, Missouri, U.S. Exchange, Pennsylvania, U.S. Exchange, West Virginia, U.S. Exchange Alley, in London, United Kingdom Exchange District, a historic area in Winnipeg, Manitoba..."
+    },
+    {
+      "chunk_id": "wikipedia:Final#0001",
+      "doc_id": "wikipedia:Final",
+      "title": "Final",
+      "url": "https://en.wikipedia.org/?curid=759020",
+      "source_type": "wikipedia",
+      "score": 0.4221298545598984,
+      "text": "electronic musical group Final (Vol. 1), 2021 album by Enrique Iglesias Final (Vol. 2), 2024 album by Enrique Iglesias The Final (album), by Wham! \"The Final\", a song by Dir en grey on the album Withering to Death Other uses Final case, a grammatical case Part of a syllable NBA Finals, the championship competition of the National Basketball Association..."
+    },
+    {
+      "chunk_id": "wikipedia:April#0000",
+      "doc_id": "wikipedia:April",
+      "title": "April",
+      "url": "https://en.wikipedia.org/?curid=1004",
+      "source_type": "wikipedia",
+      "score": 0.4168431520462036,
+      "text": "April is the fourth month of the year in the Gregorian and Julian calendars. Its length is 30 days. April is commonly associated with the season of spring in the Northern Hemisphere, and autumn in the Southern Hemisphere, where it is the seasonal equivalent to October in the Northern Hemisphere and vice versa. History The Romans gave this month the Latin name Aprilis but the derivation of this name is uncertain. The traditional etymology is from the verb aperire, \"to open\", in allusion to its being the season when trees and flowers begin to \"open\", which is supported by comparison with the modern Greek use of άνοιξη (ánixi) (opening) for spring. Since some of the Roman months were named in honor of divinities, and as April was sacred to the goddess Venus, her Veneralia being held on the first day, it has been suggested that Aprilis was originally her month Aphrilis, from her equivalent Greek goddess name Aphrodite (Aphros), or the Etruscan name Apru."
+    },
+    {
+      "chunk_id": "wikipedia:Profit#0001",
+      "doc_id": "wikipedia:Profit",
+      "title": "Profit",
+      "url": "https://en.wikipedia.org/?curid=18487619",
+      "source_type": "wikipedia",
+      "score": 0.4089469313621521,
+      "text": "player Places Profit, United States Virgin Islands See also All pages with titles beginning with Profit All pages with titles containing Profit Proffit (disambiguation) Proffitt (disambiguation) Prophet (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Left- and right-hand traffic#0001",
+      "doc_id": "wikipedia:Left- and right-hand traffic",
+      "title": "Left- and right-hand traffic",
+      "url": "https://en.wikipedia.org/?curid=213380",
+      "source_type": "wikipedia",
+      "score": 0.40642739832401276,
+      "text": "the rear overtakes the one in the front. For example, a driver in an LHT country would typically overtake on the right of the vehicle being overtaken. RHT is used in 165 countries and territories, mainly in the Americas, Continental Europe, most of Africa and mainland Asia (except South Asia and Thailand), while 75 countries use LHT, which account for about a sixth of the world's land area, a quarter of its roads, and about a third of its population. In 1919, 104 of the world's territories were LHT and an equal number were RHT. Between 1919 and 1986, 34 of the LHT territories switched..."
+    },
+    {
+      "chunk_id": "wikipedia:Welsh Corgi#0001",
+      "doc_id": "wikipedia:Welsh Corgi",
+      "title": "Welsh Corgi",
+      "url": "https://en.wikipedia.org/?curid=247458",
+      "source_type": "wikipedia",
+      "score": 0.40197813510894775,
+      "text": "Vallhund. The Pembroke is the more popular of the two, yet still appears on the Kennel Club's vulnerable dog breeds of the United Kingdom list. The Pembroke Welsh Corgi gained popularity because Elizabeth II personally owned more than 30 Pembrokes or Corgi-Dachshund crosses (known as dorgis). History Pembrokeshire and Cardiganshire are adjoining historical agricultural counties..."
+    },
+    {
+      "chunk_id": "wikipedia:Tine#0001",
+      "doc_id": "wikipedia:Tine",
+      "title": "Tine",
+      "url": "https://en.wikipedia.org/?curid=1389414",
+      "source_type": "wikipedia",
+      "score": 0.37756817042827606,
+      "text": "literary critic and poet Tine De Caigny (born 1997), Belgian footballer Tine Eerlingen (born 1976), Belgian politician Tine Fischer, Danish film executive, appointed head of the Danish Film Institute from August 2024 Tine Hribar (born 1941), Slovenian philosopher Tine Kavčič (born 1994), Slovenian footballer Tine Ladefoged (born 1977), Danish handball..."
+    }
+  ]
+}

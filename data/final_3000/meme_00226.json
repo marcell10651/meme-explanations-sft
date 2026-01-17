@@ -1,0 +1,209 @@
+{
+  "meme_id": "meme_00226",
+  "queries": [
+    "\"There\" \"The wand\" \"the wizard\" \"wand\" \"chooses\"",
+    "\"wand\" \"chooses\" \"wizard\" \"sibling\""
+  ],
+  "primary_terms": [
+    "The wand",
+    "the wizard",
+    "wand",
+    "chooses",
+    "wizard",
+    "your sibling",
+    "your pet",
+    "sibling",
+    "calls",
+    "pet",
+    "stays",
+    "tsi",
+    "net",
+    "ton"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Albus Dumbledore#0000",
+      "doc_id": "wikipedia:Albus Dumbledore",
+      "title": "Albus Dumbledore",
+      "url": "https://en.wikipedia.org/?curid=45322",
+      "source_type": "wikipedia",
+      "score": 0.8379478275775909,
+      "text": "Albus Dumbledore is a fictional character in the Harry Potter series of novels by J. K. Rowling. For most of the series, he is the headmaster of the wizarding school Hogwarts. He is also the founder and leader of the Order of the Phoenix, an organisation dedicated to fighting the Dark wizard Lord Voldemort. In the novels, Dumbledore is widely regarded as one of the most powerful and influential wizards of his time. Renowned for his wisdom, kindness, and formidable magical abilities, he plays a crucial role in shaping the events of the wizarding world. As a mentor to Harry Potter, he provides guidance and crucial knowledge in the fight against Voldemort. Despite his benevolent image, Dumbledore's past is marked by tragedy and complexity, including his youthful association with Gellert Grindelwald, a dark wizard he later defeated. His philosophical views on power, love, and death are central themes in the series."
+    },
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0000",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 0.7862179905176163,
+      "text": "Rubeus Hagrid () is a fictional character in the Harry Potter series of novels by J. K. Rowling. He was introduced in Harry Potter and the Philosopher's Stone (1997) as a half-giant who is the gamekeeper and groundskeeper at the wizarding school Hogwarts. He is a member of the Order of the Phoenix and eventually becomes the Care of Magical Creatures professor. Hagrid is portrayed by Robbie Coltrane in all eight Harry Potter films. Creation and development Rubeus Hagrid was one of the first characters Rowling created. In a 1999 interview, she explained that the name \"Hagrid\" is an Old English word, referring to hagridden, meaning 'tormented by hags'. She said it means \"you'd had a bad night\" and she explained that Hagrid \"has a lot of bad nights\" due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\"."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0000",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.7388750433921814,
+      "text": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Granger, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's conflict with Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and non-magical people, known in-universe as Muggles. The series was originally published in English by Bloomsbury in the United Kingdom and Scholastic Press in the United States. A series of many genres, including fantasy, drama, coming-of-age fiction, and the British school story (which includes elements of mystery, thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references."
+    },
+    {
+      "chunk_id": "wikipedia:Draco Malfoy#0001",
+      "doc_id": "wikipedia:Draco Malfoy",
+      "title": "Draco Malfoy",
+      "url": "https://en.wikipedia.org/?curid=44334",
+      "source_type": "wikipedia",
+      "score": 0.6187670290470123,
+      "text": "and bigotry into a setting where people are often judged solely by their blood lineage rather than their good character or accomplishments. Draco, adhering to his family's beliefs, thinks that Muggle-born witches and wizards, which he and other characters derogatorily describe by the epithet Mudbloods, should be denied a magical education. Harry..."
+    },
+    {
+      "chunk_id": "wikipedia:Potter#0000",
+      "doc_id": "wikipedia:Potter",
+      "title": "Potter",
+      "url": "https://en.wikipedia.org/?curid=170486",
+      "source_type": "wikipedia",
+      "score": 0.5113315135240555,
+      "text": "A potter is someone who makes pottery. Potter may also refer to: Places United States Potter, originally a section on the Alaska Railroad, currently a neighborhood of Anchorage, Alaska, US Potter, Arkansas Potter, Nebraska Potters, New Jersey Potter, New York Potter, Wisconsin Potter County, Pennsylvania Potter County, South Dakota Potter County, Texas Potter Lake, Wisconsin Potter Township (disambiguation) Potter Valley, California Potter Valley AVA, California wine region in Mendocino County Potter Cemetery, Michigan Elsewhere 7320 Potter, an asteroid Potter Island, Nunavut, Canada Potter Peninsula, South Shetland Islands People and fictional characters Potter (name), a given name and a surname, including a list of people and fictional characters with the name Arts, entertainment, and media Potter (TV series), a TV sitcom starring Arthur Lowe Harry and the Potters, an American rock band Harry Potter, worldwide bestselling book and film series Miss Potter, a 2006 film by Chris Noonan"
+    },
+    {
+      "chunk_id": "wikipedia:Kirby#0001",
+      "doc_id": "wikipedia:Kirby",
+      "title": "Kirby",
+      "url": "https://en.wikipedia.org/?curid=706419",
+      "source_type": "wikipedia",
+      "score": 0.5110573083162308,
+      "text": "an episode of the television series Dynasty Kirby: King of Comics, a 2008 biography by Mark Evanier Buildings Kirby Building, a skyscraper in Dallas, Texas, United States Kirby Lofts, a building in Houston, Texas, United States Kirby Hall, an Elizabethan country house near Corby, Northamptonshire, England Kirby House..."
+    },
+    {
+      "chunk_id": "wikipedia:Christ in the House of His Parents#0001",
+      "doc_id": "wikipedia:Christ in the House of His Parents",
+      "title": "Christ in the House of His Parents",
+      "url": "https://en.wikipedia.org/?curid=7684921",
+      "source_type": "wikipedia",
+      "score": 0.49461865425109863,
+      "text": "Anne, removes the nail with a pair of pincers, his concerned mother, Mary, offers her cheek for a kiss. Joseph examines Jesus's wounded hand. A young boy, who would later be known as John the Baptist, brings in water to wash the wound, prefiguring his later baptism of Christ. An assistant of Joseph, who represents Jesus's future Apostles, observes these events. In the background of the painting various..."
+    },
+    {
+      "chunk_id": "wikipedia:Accessory#0001",
+      "doc_id": "wikipedia:Accessory",
+      "title": "Accessory",
+      "url": "https://en.wikipedia.org/?curid=1949788",
+      "source_type": "wikipedia",
+      "score": 0.48200565576553345,
+      "text": "and terminating cables Accessory fruit, in which some of the flesh is derived from tissues other than the flower ovary See also All pages with titles beginning with Accessory All pages with titles containing Accessory Access (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Please#0000",
+      "doc_id": "wikipedia:Please",
+      "title": "Please",
+      "url": "https://en.wikipedia.org/?curid=63658677",
+      "source_type": "wikipedia",
+      "score": 0.4776610493659973,
+      "text": "Please is a word used in the English language to indicate politeness and respect while making a request. Derived from shortening the phrase \"if you please\" or \"if it please(s) you\", the term has taken on substantial nuance based on its intonation and the relationship between the persons between whom it is used. In much of the Western world, use of the word is considered proper etiquette, and parents and authority figures often imprint upon children the importance of saying \"please\" when asking for something from an early age, leading to the description of the term as \"the magic word\". Origin and understanding \"Please\" is a shortening of the phrase, if you please, an intransitive, ergative form taken from if it please you, which is in turn a calque of the French s'il vous plaît, which replaced pray."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.4755056858062744,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "There is a smiling woman, then a smiling man, then a cat.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "then a smiling man"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that pet owners are proud when their pets choose them over others.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "pet owners",
+          "their pets",
+          "others"
+        ]
+      },
+      "title": {
+        "text": "The wand chooses the wizard",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The wand",
+          "the wizard",
+          "wand",
+          "chooses",
+          "wizard"
+        ]
+      },
+      "text": {
+        "text": "When your sibling calls your pet but it stays with you: : 4 tsi} ' ~ net 7 “| vo ~ ov ae ae So y 7 }} TON",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "your sibling",
+          "your pet",
+          "sibling",
+          "calls",
+          "pet",
+          "stays",
+          "tsi",
+          "net",
+          "ton"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "The wand",
+      "the wizard",
+      "wand",
+      "chooses",
+      "wizard",
+      "your sibling",
+      "your pet",
+      "sibling",
+      "calls",
+      "pet",
+      "stays",
+      "tsi",
+      "net",
+      "ton"
+    ],
+    "secondary_terms": [
+      "then a smiling man",
+      "pet owners",
+      "their pets",
+      "others"
+    ],
+    "queries": [
+      "\"There\" \"The wand\" \"the wizard\" \"wand\" \"chooses\"",
+      "\"wand\" \"chooses\" \"wizard\" \"sibling\""
+    ]
+  },
+  "source_jsonl_id": null
+}

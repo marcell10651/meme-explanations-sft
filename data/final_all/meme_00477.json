@@ -1,0 +1,187 @@
+{
+  "meme_id": "meme_00477",
+  "queries": [
+    "\"the law\" \"law\" \"friendly{cat\" \"whenjyouencounterfajrandom\"",
+    "\"friendly{cat\" \"whenjyouencounterfajrandom\" \"friendly\" \"cat\""
+  ],
+  "primary_terms": [
+    "the law",
+    "law",
+    "friendly{cat",
+    "whenjyouencounterfajrandom",
+    "friendly",
+    "cat"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Friendly#0001",
+      "doc_id": "wikipedia:Friendly",
+      "title": "Friendly",
+      "url": "https://en.wikipedia.org/?curid=466246",
+      "source_type": "wikipedia",
+      "score": 0.9398033142089843,
+      "text": "Hall, a building on the University of Oregon campus Friendly High School, a public high school in Fort Washington, Maryland, United States Henry J. Friendly Medal, awarded by the American Law Institute for contributions to the field of law Friendly TV, a British TV station from 2003 to 2010 \"Friendly\", a song by J Hus from Common Sense (2017) \"Friendly\", a song by Sakanaction from Adapt (2022) See also Henry the Friendly (1299–1327), son of King Albert I of Germany Friendly number, in mathematics, shares a property concerning..."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.7478059351444244,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Feline#0000",
+      "doc_id": "wikipedia:Feline",
+      "title": "Feline",
+      "url": "https://en.wikipedia.org/?curid=45339",
+      "source_type": "wikipedia",
+      "score": 0.6567449629306793,
+      "text": "Feline may refer to: Zoology Loosely, Felidae, a member of the cat family, which includes the subfamilies Pantherinae and Felinae (conventionally designated a felid). Following the taxonomic convention, Felinae, the subfamily of Felidae that includes domestic cats and smaller wild cats. Cat, the domesticated feline. Music Feline (band), a late-1990s London-based English rock group. Feline (The Stranglers album), 1983. Feline (1998 album), the self-titled album by Feline, expanded release of Save Your Face. Feline (Ella Eyre album) (2015), the debut studio album by Ella Eyre. Feline (song), a song on Delta Goodrem's 2016 album Wings of the Wild. \"Feline\", a song by the Cat Empire Comics Feline (comics), a fictional character from the Malibu comics line. See also FÉLIN, a French infantry combat system Félines (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Love#0000",
+      "doc_id": "wikipedia:Love",
+      "title": "Love",
+      "url": "https://en.wikipedia.org/?curid=17547",
+      "source_type": "wikipedia",
+      "score": 0.4780025392770767,
+      "text": "Love is an emotion involving strong attraction, affection, emotional attachment or concern for a person, animal, or thing. It is expressed in many forms, encompassing a range of strong and positive emotional and mental states, from the most sublime virtue, good habit, deepest interpersonal affection, to the simplest pleasure. An example of this range of meanings is that the love of a mother differs from the love of a spouse, which differs from the love of food. Love is considered to be both positive and negative, with its virtue representing kindness, compassion, and affection—\"the unselfish, loyal, and benevolent concern for the good of another\"—and its vice representing a moral flaw akin to vanity, selfishness, amour-propre, and egotism. It may also describe compassionate and affectionate actions towards other humans, oneself, or animals."
+    },
+    {
+      "chunk_id": "wikipedia:Brand#0001",
+      "doc_id": "wikipedia:Brand",
+      "title": "Brand",
+      "url": "https://en.wikipedia.org/?curid=18950900",
+      "source_type": "wikipedia",
+      "score": 0.45731679201126096,
+      "text": "into the animal's skin with a hot branding iron. If a person stole any of the cattle, anyone else who saw the symbol could deduce the actual owner. The etymology of the word “brand” originates from the Old Norse word \"brandr\" from the 10th Century, which means “to burn\". The term \"brand\" has been extended to mean a strategic personality for a product or company, so that \"brand\" now suggests the values and promises that a consumer..."
+    },
+    {
+      "chunk_id": "wikipedia:Brand#0000",
+      "doc_id": "wikipedia:Brand",
+      "title": "Brand",
+      "url": "https://en.wikipedia.org/?curid=18950900",
+      "source_type": "wikipedia",
+      "score": 0.43740919828414915,
+      "text": "A brand is a name, term, design, symbol or any other feature that distinguishes one seller's goods or service from those of other sellers. Brands are used in business, marketing, and advertising for recognition and, importantly, to create and store value as brand equity for the object identified, to the benefit of the brand's customers, its owners and shareholders. Brand names are sometimes distinguished from generic or store brands. The practice of branding—in the original literal sense of marking by burning—is thought to have begun with the ancient Egyptians, who are known to have engaged in livestock branding and branded slaves as early as 2,700 BCE. Branding was used to differentiate one person's cattle from another's by means of a distinctive symbol burned into the animal's skin with a hot branding iron. If a person stole any of the cattle, anyone else who saw the symbol could deduce the actual owner."
+    },
+    {
+      "chunk_id": "wikipedia:Police#0000",
+      "doc_id": "wikipedia:Police",
+      "title": "Police",
+      "url": "https://en.wikipedia.org/?curid=23627",
+      "source_type": "wikipedia",
+      "score": 0.4315132021903992,
+      "text": "The police are a constituted body of people empowered by a state with the aim of enforcing the law and protecting the public order as well as the public itself. This commonly includes ensuring the safety, health, and possessions of citizens, and to prevent crime and civil disorder. Their lawful powers encompass arrest and the use of force legitimized by the state's monopoly on violence. The term is most commonly associated with the police forces of a sovereign state that are authorized to exercise the police power of that state within a defined legal or territorial area of responsibility. Police forces are often defined as being separate from the military and other organizations involved in the defense of the state against foreign aggressors; however, gendarmerie are military units charged with civil policing. Police forces are usually public sector services, funded through taxes. Law enforcement is only part of policing activity."
+    },
+    {
+      "chunk_id": "wikipedia:Trial#0000",
+      "doc_id": "wikipedia:Trial",
+      "title": "Trial",
+      "url": "https://en.wikipedia.org/?curid=3276812",
+      "source_type": "wikipedia",
+      "score": 0.42761553525924684,
+      "text": "In law, a trial is a coming together of parties to a dispute, to present information (in the form of evidence) in a tribunal, a formal setting with the authority to adjudicate claims or disputes. One form of tribunal is a court. The tribunal, which may occur before a judge, jury, or other designated trier of fact, aims to achieve a resolution to their dispute. Types by finder of fact Where the trial is held before a group of members of the community, it is called a jury trial. Where the trial is held solely before a judge, it is called a bench trial. Hearings before administrative bodies may have many of the features of a trial before a court, but are typically not referred to as trials. An appeal (appellate proceeding) is also generally not deemed a trial, because such proceedings are usually restricted to a review of the evidence presented before the trial court, and do not permit the introduction of new evidence."
+    },
+    {
+      "chunk_id": "wikipedia:Cunt#0000",
+      "doc_id": "wikipedia:Cunt",
+      "title": "Cunt",
+      "url": "https://en.wikipedia.org/?curid=46963",
+      "source_type": "wikipedia",
+      "score": 0.4162805676460266,
+      "text": "Cunt ( ) is a vulgar word for the vulva in its primary sense, and it is used in a variety of ways, including as a term of disparagement. It is often used as a disparaging and obscene term for a woman in the United States, an unpleasant or objectionable person (regardless of gender) in the United Kingdom and Ireland, or a contemptible man in Australia and New Zealand. In Australia and New Zealand, it can also be a neutral or positive term when used with a positive qualifier (e.g., \"He's a good cunt\"). The term has various derivative senses, including adjective and verb uses. History The earliest known use of the word, according to the Oxford English Dictionary, was as part of a placename: an Oxford street called Gropecunt Lane, c. 1230, now by the name of Grove Passage or Magpie Lane. Use of the word as a term of abuse is relatively recent, dating from the late nineteenth century."
+    },
+    {
+      "chunk_id": "wikipedia:Good#0000",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 0.3989202678203583,
+      "text": "In most contexts, the concept of good denotes the conduct that should be preferred when posed with a choice between possible actions. Good is generally considered to be the opposite of evil. The specific meaning and etymology of the term and its associated translations among ancient and contemporary languages show substantial variation in its inflection and meaning, depending on circumstances of place and history, or of philosophical or religious context. History of Western ideas Every language has a word expressing good in the sense of \"having the right or desirable quality\" (ἀρετή) and bad in the sense \"undesirable\". A sense of moral judgment and a distinction \"right and wrong, good and bad\" are cultural universals. Plato and Aristotle Although the history of the origin of the use of the concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "the frog is touching the black rat",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the frog",
+          "the black rat"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster thinks that people on the internet really like cats",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "people",
+          "the internet",
+          "cats"
+        ]
+      },
+      "title": {
+        "text": "It is the law.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the law",
+          "law"
+        ]
+      },
+      "text": {
+        "text": "\\Whenjyouencounterfajrandom) friendly{cat} ——™~ MO Ss = aa . _ . - | io TS . at _ “om eee",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "friendly{cat",
+          "whenjyouencounterfajrandom",
+          "friendly",
+          "cat"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the law",
+      "law",
+      "friendly{cat",
+      "whenjyouencounterfajrandom",
+      "friendly",
+      "cat"
+    ],
+    "secondary_terms": [
+      "the frog",
+      "the black rat",
+      "people",
+      "the internet",
+      "cats"
+    ],
+    "queries": [
+      "\"the law\" \"law\" \"friendly{cat\" \"whenjyouencounterfajrandom\"",
+      "\"friendly{cat\" \"whenjyouencounterfajrandom\" \"friendly\" \"cat\""
+    ]
+  },
+  "source_jsonl_id": null
+}

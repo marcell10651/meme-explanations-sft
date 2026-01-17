@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_01075",
+  "queries": [
+    "\"the Twitter board\" \"Elon\" \"the money\" \"not\"",
+    "\"the money\" \"not\" \"money\" \"sending\""
+  ],
+  "primary_terms": [
+    "the money",
+    "not",
+    "money",
+    "sending",
+    "message",
+    "Elon",
+    "everyone",
+    "the Twitter board",
+    "hark",
+    "vue"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Money#0001",
+      "doc_id": "wikipedia:Money",
+      "title": "Money",
+      "url": "https://en.wikipedia.org/?curid=8983183",
+      "source_type": "wikipedia",
+      "score": 0.957985121011734,
+      "text": "be accepted as a form of payment within the boundaries of the country, for \"all debts, public and private\", in the case of the United States dollar. The money supply of a country comprises all currency in circulation (banknotes and coins currently issued) and, depending on the particular definition used, one or more types of bank money (the balances held in checking accounts, savings accounts, and other types of bank accounts). Bank money, whose value exists on the books of financial institutions and can be converted..."
+    },
+    {
+      "chunk_id": "wikipedia:Exchange#0000",
+      "doc_id": "wikipedia:Exchange",
+      "title": "Exchange",
+      "url": "https://en.wikipedia.org/?curid=41125",
+      "source_type": "wikipedia",
+      "score": 0.5946117043495178,
+      "text": "Exchange or exchanged may refer to: Arts, entertainment and media Film and television Exchange (film), or Deep Trap, 2015 South Korean psychological thriller Exchanged (film), 2019 Peruvian fantasy comedy Exchange (TV program), 2021 South Korean dating reality show Gaming Exchange (chess), closely related captures of pieces of both players in chess The exchange (chess), an exchange of a minor piece for a rook Music Exchange, a new-age jazz band of Steve Sexton and Gerald O'Brien, and their 1992 self-titled album Exchange (EP), by Against All Authority and The Criminals, 1999 \"Exchange\" (song), by Bryson Tiller, 2015 \"Exchange\" and \"(Exchange)\", songs on Massive Attack's 1998 album Mezzanine (album) Business and economics Bureau de change, or currency exchange Cryptocurrency exchange, to trade cryptocurrencies or digital currencies Exchange (economics), in a market economy Exchange (organized market), where securities etc are bought and sold Places Exchange, Indiana, U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Check#0000",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.4692857712507248,
+      "text": "Check or cheque, may refer to: Places Check, Virginia Arts, entertainment, and media Check (film), a 2021 Indian Telugu-language film \"The Check\" (The Amazing World of Gumball), a 2015 episode of The Amazing World of Gumball The Checks (episode), a 1996 TV episode of Seinfeld Games and sports Check (chess), a threat to capture the king or general Check (poker), declining to bet Checking (ice hockey), several techniques Casino chip, less commonly referred to as a check Music The Checks (band), a New Zealand band \"Check\" (Meek Mill song), 2015 \"Check\" (Young Thug song), 2015 \"Check\", a song by bbno$, 2025 \"Check\", a song by Chris Janson from Real Friends, 2019 \"Check\", a song by E-40 from The D-Boy Diary: Book 1, 2016 \"Check\", a song by Flo from Access All Areas, 2024 \"Check\", a song by Girls' Generation from Lion Heart, 2015 \"Check\", a song by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal"
+    },
+    {
+      "chunk_id": "wikipedia:Daughter#0001",
+      "doc_id": "wikipedia:Daughter",
+      "title": "Daughter",
+      "url": "https://en.wikipedia.org/?curid=449913",
+      "source_type": "wikipedia",
+      "score": 0.46227793097496034,
+      "text": "subject daughters to female infanticide. In some societies, it is the custom for a daughter to be 'sold' to her husband, who must pay a bride price. The reverse of this custom, where the parents pay the husband a sum of money to compensate for the financial burden of the woman and is known as a dowry. The payment of a dowry can be found in societies where women do not labour outside the home. Perception In the United States, the birth rate is 105 sons to 100 daughters which..."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0000",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.4447062909603119,
+      "text": "The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies. The Internet carries a vast range of information services and resources, such as the interlinked hypertext documents and applications of the World Wide Web (WWW), electronic mail, discussion groups, internet telephony, streaming media and file sharing. Most traditional communication media, including telephone, radio, television, paper mail, newspapers, and print publishing, have been transformed by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites."
+    },
+    {
+      "chunk_id": "wikipedia:Contribution#0000",
+      "doc_id": "wikipedia:Contribution",
+      "title": "Contribution",
+      "url": "https://en.wikipedia.org/?curid=1522920",
+      "source_type": "wikipedia",
+      "score": 0.4163825213909149,
+      "text": "Contribution may refer to: Music Contribution (album), by Mica Paris (1990) \"Contribution\" (song), title song from the album Contribution, a 1976 album by Shawn Phillips A contribution concert is where a band plays in the songs of or in the style of a separate band Finance and law Contribution (law), an agreement between defendants in a suit to apportion liability Contributions, a vital goal of fundraising Contribution margin, the selling price per unit minus the variable cost per unit Contribution, a principle of insurance Sport Goal contribution, a player statistic in association football See also Adobe Contribute, former web-editing software"
+    },
+    {
+      "chunk_id": "wikipedia:Cashier#0001",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.37712464332580564,
+      "text": "/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers. Cashiers record amounts received, may prepare reports of transactions, and verify cash register totals against cash on hand. A cashier may be required to know value and features of items for which money is received; may cash checks; may give cash refunds..."
+    },
+    {
+      "chunk_id": "wikipedia:Medium#0001",
+      "doc_id": "wikipedia:Medium",
+      "title": "Medium",
+      "url": "https://en.wikipedia.org/?curid=19967",
+      "source_type": "wikipedia",
+      "score": 0.37378327548503876,
+      "text": "media List of art media (plural: media), materials and techniques used by an artist to produce a work Medium (band), an American rock band Medium (TV series), an American television series starring Patricia Arquette about a medium (psychic intermediary) working as a consultant for a district attorney's office Medium Productions..."
+    },
+    {
+      "chunk_id": "wikipedia:Profit#0001",
+      "doc_id": "wikipedia:Profit",
+      "title": "Profit",
+      "url": "https://en.wikipedia.org/?curid=18487619",
+      "source_type": "wikipedia",
+      "score": 0.370584100484848,
+      "text": "player Places Profit, United States Virgin Islands See also All pages with titles beginning with Profit All pages with titles containing Profit Proffit (disambiguation) Proffitt (disambiguation) Prophet (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Propaganda#0000",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 0.37038467526435853,
+      "text": "Propaganda is communication that is primarily used to influence or persuade an audience to further an agenda, which may not be objective and may be selectively presenting facts to encourage a particular synthesis or perception, or using loaded language to produce an emotional rather than a rational response to the information that is being presented. Propaganda can be found in a wide variety of different contexts. Beginning in the twentieth century, the English term propaganda became associated with a manipulative approach, but historically, propaganda had been a neutral descriptive term of any material that promotes certain opinions, ideologies or concepts. A wide range of materials and media are used for conveying propaganda messages, which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_01031",
+  "queries": [
+    "\"Titanic\" \"the stars\" \"will\" \"captain\"",
+    "\"will\" \"captain\" \"men\" \"feelings\""
+  ],
+  "primary_terms": [
+    "will",
+    "captain",
+    "men",
+    "Titanic",
+    "feelings",
+    "something",
+    "the stars"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Captain#0000",
+      "doc_id": "wikipedia:Captain",
+      "title": "Captain",
+      "url": "https://en.wikipedia.org/?curid=47671806",
+      "source_type": "wikipedia",
+      "score": 0.9778159976005554,
+      "text": "Captain is a title, an appellative for the commanding officer of a military unit; the supreme leader or highest rank officer of a navy ship, merchant ship, aeroplane, spacecraft, or other vessel; or the commander of a port, fire or police department, election precinct, etc. In militaries, the captain is typically at the level of an officer commanding a company or battalion of infantry, a ship, or a battery of artillery, or another distinct unit. It can also be a rank of command in an air force. The term also may be used as an informal or honorary title for persons in similar commanding roles. Etymology The word \"captain\" derives from the Middle English \"capitane\", itself coming from the Latin \"caput\", meaning \"head\". It is considered cognate with the Greek word katepánō (Ancient Greek: κατεπάνω, lit. '[the one placed] at the top', or \"the topmost\"), which was used as title for a senior Byzantine military rank and office. The word was Latinized as Ancient Greek: capetanus or catepan."
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo DiCaprio#0001",
+      "doc_id": "wikipedia:Leonardo DiCaprio",
+      "title": "Leonardo DiCaprio",
+      "url": "https://en.wikipedia.org/?curid=52711",
+      "source_type": "wikipedia",
+      "score": 0.7195743232965469,
+      "text": "What's Eating Gilbert Grape (1993). DiCaprio achieved international stardom with the star-crossed romances Romeo + Juliet (1996) and Titanic (1997). After the latter became the highest-grossing film in the world at the time, he reduced his workload for a few years. In an attempt to shed his image of a romantic hero, DiCaprio sought roles in other genres, including..."
+    },
+    {
+      "chunk_id": "wikipedia:Jaws (film)#0001",
+      "doc_id": "wikipedia:Jaws (film)",
+      "title": "Jaws (film)",
+      "url": "https://en.wikipedia.org/?curid=74830",
+      "source_type": "wikipedia",
+      "score": 0.5635942935943603,
+      "text": "1974, Jaws was the first major motion picture to be shot on the ocean and consequently had a troubled production, going over budget and schedule. As the art department's mechanical sharks often malfunctioned, Spielberg decided to mostly suggest the shark's presence, employing an ominous and minimalist theme created by composer John Williams to indicate its impending appearances. Spielberg and others have compared this suggestive approach to that of director Alfred Hitchcock. Universal Pictures released the film..."
+    },
+    {
+      "chunk_id": "wikipedia:The Lady Doctor#0001",
+      "doc_id": "wikipedia:The Lady Doctor",
+      "title": "The Lady Doctor",
+      "url": "https://en.wikipedia.org/?curid=46194248",
+      "source_type": "wikipedia",
+      "score": 0.5502190798521042,
+      "text": "the case, which will turn out to be a mess. Cast Totò as Michele Spillone aka Mike Vittorio De Sica as Marquis Vittorio de Vitti Abbe Lane as Dr. Brigitte Baker Titina De Filippo as Marquise de Vitti Germán Cobos as Lawyer Otello Bellomo Pierre Mondy as Romeo Agostino Salvietti as Gennaro Tecla Scarano as Ada Barbalunga Darry Cowl as Egisto Rafael Bardem as Elia Vagoni Luigi Pavese as Head of the investigative agency Franco Coop as La Conchiglia's Maitre Giulio Calì as Fool from Villa Valeria Dante Maggio as La Conchiglia's Waiter Teddy Reno as Himself Antonio..."
+    },
+    {
+      "chunk_id": "wikipedia:Another Man, Another Chance#0001",
+      "doc_id": "wikipedia:Another Man, Another Chance",
+      "title": "Another Man, Another Chance",
+      "url": "https://en.wikipedia.org/?curid=17874058",
+      "source_type": "wikipedia",
+      "score": 0.5483055919408798,
+      "text": "return to France and is about to leave but then she and David silently and carefully fall in love for the second time in their lives and hope returns. Cast James Caan as David Williams Geneviève Bujold as Jeanne Leroy (née Perriere) Francis Huster as Francis Leroy Susan Tyrrell as Debby / Alice Jennifer Warren as Mary Williams Rossie Harris as Simon Linda Lee Lyons as Sarah Jacques Villeret as Customer Fred Stuthman as Mary's Father Diana Douglas as Mary's Mother Michael Berryman as 1st..."
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo DiCaprio#0000",
+      "doc_id": "wikipedia:Leonardo DiCaprio",
+      "title": "Leonardo DiCaprio",
+      "url": "https://en.wikipedia.org/?curid=52711",
+      "source_type": "wikipedia",
+      "score": 0.5114569783210754,
+      "text": "Leonardo Wilhelm DiCaprio ( ; Italian: [diˈkaːprjo]; born November 11, 1974) is an American actor and film producer. Known for his work in biographical and period films, he is the recipient of numerous accolades, including an Academy Award, a British Academy Film Award, a Silver Bear and three Golden Globe Awards. His films as a leading actor have grossed $7 billion worldwide, and he has been placed eight times in annual rankings of the world's highest-paid actors. Born in Los Angeles, DiCaprio began his career in the late 1980s by appearing in television commercials. He had a recurring role in the sitcom Parenthood (1990–1991), and had his first major film part as author Tobias Wolff in This Boy's Life (1993). He received critical acclaim and his first Academy Award nomination for playing a developmentally disabled boy in What's Eating Gilbert Grape (1993). DiCaprio achieved international stardom with the star-crossed romances Romeo + Juliet (1996) and Titanic (1997)."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0001",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.4995279014110565,
+      "text": "Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing. While the game was initially released in 2018 to little mainstream attention, it received a massive rise in popularity in 2020 due to many Twitch streamers and YouTubers playing it during the COVID-19 pandemic..."
+    },
+    {
+      "chunk_id": "wikipedia:Respect#0001",
+      "doc_id": "wikipedia:Respect",
+      "title": "Respect",
+      "url": "https://en.wikipedia.org/?curid=364338",
+      "source_type": "wikipedia",
+      "score": 0.468125593662262,
+      "text": ". Such acts may have very different interpretations depending on the cultural context. The end goal is for all people to be treated with respect. Signs and other ways of showing respect Language One definition of respect is a feeling of admiration for someone or something elicited by their abilities, qualities, and achievements. An honorific is a word..."
+    },
+    {
+      "chunk_id": "wikipedia:Hulk#0001",
+      "doc_id": "wikipedia:Hulk",
+      "title": "Hulk",
+      "url": "https://en.wikipedia.org/?curid=31509",
+      "source_type": "wikipedia",
+      "score": 0.4445502579212189,
+      "text": "the detonation of an experimental bomb, Banner is physically transformed into the Hulk when subjected to emotional stress, at or against his will. This transformation often leads to destructive rampages and conflicts that complicate Banner's civilian life. The Hulk's level of strength is usually conveyed proportionate to his anger level. Commonly portrayed as a raging savage, the Hulk..."
+    },
+    {
+      "chunk_id": "wikipedia:Greedy#0001",
+      "doc_id": "wikipedia:Greedy",
+      "title": "Greedy",
+      "url": "https://en.wikipedia.org/?curid=1376590",
+      "source_type": "wikipedia",
+      "score": 0.42874781489372255,
+      "text": "2019), pseudonym of Andrew McArthur Smith, singer, musician and songwriter with the Australian pop/new wave band Mental As Anything Greedy Vance Jr. (born 2001), American football player Greedy Williams (born 1997), American football player nicknamed \"Greedy\" Jack Greedy (1929–1988), Canadian racing driver, member of the Canadian Motorsport Hall of Fame Fictional characters Greedy Gretchen, a character who appeared in episodes of the American TV sitcoms Three's Company and Three's a Crowd Greedy Smurf, a character in The Smurfs franchise Mr. Greedy, title character of a book in the Mr..."
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "meme_id": "meme_03625",
+  "queries": [
+    "\"*Teleports\" \"behind\" \"closed\" \"door\"",
+    "\"closed\" \"door\" \"exists\" \"mom\""
+  ],
+  "primary_terms": [
+    "*Teleports",
+    "teleports",
+    "behind",
+    "closed",
+    "door",
+    "exists",
+    "mom",
+    "aan"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Door#0000",
+      "doc_id": "wikipedia:Door",
+      "title": "Door",
+      "url": "https://en.wikipedia.org/?curid=8637",
+      "source_type": "wikipedia",
+      "score": 0.905325835943222,
+      "text": "A door is a hinged or otherwise movable barrier that allows ingress (entry) into and egress (exit) from an enclosure. The created opening in the wall is a doorway or portal. A door's essential and primary purpose is to provide security by controlling access to the doorway (portal). Conventionally, it is a panel that fits into the doorway of a building, room, or vehicle. Doors are generally made of a material suited to the door's task. They are commonly attached by hinges, but can move by other means, such as slides or counterbalancing. The door may be able to move in various ways (at angles away from the doorway/portal, by sliding on a plane parallel to the frame, by folding in angles on a parallel plane, or by spinning along an axis at the center of the frame) to allow or prevent ingress or egress. In most cases, a door's interior matches its exterior side. But in other cases (e.g., a vehicle door) the two sides are radically different."
+    },
+    {
+      "chunk_id": "wikipedia:Close#0001",
+      "doc_id": "wikipedia:Close",
+      "title": "Close",
+      "url": "https://en.wikipedia.org/?curid=4583933",
+      "source_type": "wikipedia",
+      "score": 0.7844044864177704,
+      "text": "associated with it Close (2019 film), an action thriller Close (2022 film), a Belgian drama film Close (street), an alley or cul-de-sac Close, old English term for an estate Close, a common stair or entryway in a Scottish tenement Close (system call), a system call in computer software Close, a character in Go! Princess PreCure ��2..."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0001",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.7549469232559204,
+      "text": "a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly. Where the hall inside the front door of a house is elongated, it may be called a passage, corridor (from Spanish corredor used in El Escorial and 100 years later in Castle Howard), or hallway. History In warmer climates, the houses of the wealthy were often built around a courtyard, but in northern areas manors were built around a great hall. The hall was home to the hearth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Room#0000",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.6974272847175598,
+      "text": "In a building or a ship, a room is any enclosed space within a number of walls to which entry is possible only via a door or other dividing structure. The entrance connects it to either a passageway, another room, or the outdoors. The space is typically large enough for several people to move about. The size, fixtures, furnishings, and sometimes placement of the room within the building or ship (or sometimes a train) support the activity to be conducted in it. History Historically, the use of rooms dates at least to early Minoan cultures about 2200 BC, where excavations at Akrotiri on Santorini reveal clearly defined rooms within certain structures. In early structures, the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses."
+    },
+    {
+      "chunk_id": "wikipedia:Lockdown#0000",
+      "doc_id": "wikipedia:Lockdown",
+      "title": "Lockdown",
+      "url": "https://en.wikipedia.org/?curid=2530301",
+      "source_type": "wikipedia",
+      "score": 0.6339618027210235,
+      "text": "A lockdown ( ) is a restriction policy for people, community or a country to stay where they are, usually due to specific risks that could possibly harm the people if they move and interact freely. The term is used for a prison protocol that usually prevents people, information or objects from leaving an area. The protocol can usually only be initiated by someone in a position of authority. A lockdown can also be used to protect people inside a facility or, for example, a computing system, from a threat or other external event. In buildings doors leading outside are usually locked so that no person may enter or exit. Types Lockdowns may be adopted as a preventative measure or in response to a crisis as an emergency measure. Preventive lockdown A preventive lockdown is a preemptive action plan implemented to address an unusual scenario or a weakness in system to preempt any danger to ensure the safety and security of people, organisation and system."
+    },
+    {
+      "chunk_id": "wikipedia:Quiet#0001",
+      "doc_id": "wikipedia:Quiet",
+      "title": "Quiet",
+      "url": "https://en.wikipedia.org/?curid=1612819",
+      "source_type": "wikipedia",
+      "score": 0.44824403524398804,
+      "text": "The Quiet, an album by Bella Morte \"Quiet\", a song by Tim Minchin from the musical Matilda In religion Prayer of Quiet, a term from Christian theology relating to degrees of contemplation or contemplative prayer Quietism (Christian philosophy) Quiet Time Other Buy Quiet, an American health and safety initiative to select and purchase the..."
+    },
+    {
+      "chunk_id": "wikipedia:Open#0001",
+      "doc_id": "wikipedia:Open",
+      "title": "Open",
+      "url": "https://en.wikipedia.org/?curid=514174",
+      "source_type": "wikipedia",
+      "score": 0.4445057511329651,
+      "text": "magazine featuring current affairs OPEN (North Dakota magazine), an out-of-print magazine that was printed in the Fargo, North Dakota area of the U.S. Open: An Autobiography, tennis player Andre Agassi's 2009 memoir Computing and mathematics Open (process), a program launcher invoked from the command line in NeXTSTEP or Mac OS X Open (system call), standardized system call for opening files Open set, in mathematics..."
+    },
+    {
+      "chunk_id": "wikipedia:Accessory#0001",
+      "doc_id": "wikipedia:Accessory",
+      "title": "Accessory",
+      "url": "https://en.wikipedia.org/?curid=1949788",
+      "source_type": "wikipedia",
+      "score": 0.4404401481151581,
+      "text": "and terminating cables Accessory fruit, in which some of the flesh is derived from tissues other than the flower ovary See also All pages with titles beginning with Accessory All pages with titles containing Accessory Access (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Silence#0001",
+      "doc_id": "wikipedia:Silence",
+      "title": "Silence",
+      "url": "https://en.wikipedia.org/?curid=440579",
+      "source_type": "wikipedia",
+      "score": 0.43223440647125244,
+      "text": "disciplines, people maintain silence for protracted periods, or even for the rest of their lives, as an ascetic means of spiritual transformation. Perception In the philosophy of perception and the science of perception, there has been a longstanding controversy as to how humans experience silence: \"the perceptual view (we literally hear silence), and..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.42799751460552216,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man stands in a doorway filled with light.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "light"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that mom's are able to enter any room no matter the lock.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "that mom",
+          "any room",
+          "the lock"
+        ]
+      },
+      "title": {
+        "text": "*Teleports behind you*",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "*Teleports",
+          "teleports",
+          "behind"
+        ]
+      },
+      "text": {
+        "text": "Closed door: *exists” My mom: Le ‘i, “ \\ . : ‘ a aan \\ \\ I “ \" \\ \\ - oN om yO \\ | : VA \\. le \\ __s\\ eo) _\\",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "closed",
+          "door",
+          "exists",
+          "mom",
+          "aan"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "*Teleports",
+      "teleports",
+      "behind",
+      "closed",
+      "door",
+      "exists",
+      "mom",
+      "aan"
+    ],
+    "secondary_terms": [
+      "light",
+      "that mom",
+      "any room",
+      "the lock"
+    ],
+    "queries": [
+      "\"*Teleports\" \"behind\" \"closed\" \"door\"",
+      "\"closed\" \"door\" \"exists\" \"mom\""
+    ]
+  },
+  "source_jsonl_id": null
+}

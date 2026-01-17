@@ -1,0 +1,201 @@
+{
+  "meme_id": "meme_00132",
+  "queries": [
+    "\"aredy yeoman Tan\" \"his entire school career\" \"brave Hagrid\" \"two manipulative men\"",
+    "\"brave Hagrid\" \"two manipulative men\" \"Thanks\" \"Harry\""
+  ],
+  "primary_terms": [
+    "Thanks",
+    "nothing",
+    "harry",
+    "Names",
+    "his kid",
+    "two manipulative men",
+    "brave Hagrid",
+    "care",
+    "his entire school career",
+    "wan",
+    "aredy yeoman Tan"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Rubeus Hagrid#0000",
+      "doc_id": "wikipedia:Rubeus Hagrid",
+      "title": "Rubeus Hagrid",
+      "url": "https://en.wikipedia.org/?curid=18841773",
+      "source_type": "wikipedia",
+      "score": 1.0741593956947326,
+      "text": "Rubeus Hagrid () is a fictional character in the Harry Potter series of novels by J. K. Rowling. He was introduced in Harry Potter and the Philosopher's Stone (1997) as a half-giant who is the gamekeeper and groundskeeper at the wizarding school Hogwarts. He is a member of the Order of the Phoenix and eventually becomes the Care of Magical Creatures professor. Hagrid is portrayed by Robbie Coltrane in all eight Harry Potter films. Creation and development Rubeus Hagrid was one of the first characters Rowling created. In a 1999 interview, she explained that the name \"Hagrid\" is an Old English word, referring to hagridden, meaning 'tormented by hags'. She said it means \"you'd had a bad night\" and she explained that Hagrid \"has a lot of bad nights\" due to his heavy drinking. In Latin, \"Rubeus\" means \"red\", and was chosen because Rowling conceived of Hagrid as an \"earthy, warm, and physical man\"."
+    },
+    {
+      "chunk_id": "wikipedia:Albus Dumbledore#0000",
+      "doc_id": "wikipedia:Albus Dumbledore",
+      "title": "Albus Dumbledore",
+      "url": "https://en.wikipedia.org/?curid=45322",
+      "source_type": "wikipedia",
+      "score": 0.7038608402013778,
+      "text": "Albus Dumbledore is a fictional character in the Harry Potter series of novels by J. K. Rowling. For most of the series, he is the headmaster of the wizarding school Hogwarts. He is also the founder and leader of the Order of the Phoenix, an organisation dedicated to fighting the Dark wizard Lord Voldemort. In the novels, Dumbledore is widely regarded as one of the most powerful and influential wizards of his time. Renowned for his wisdom, kindness, and formidable magical abilities, he plays a crucial role in shaping the events of the wizarding world. As a mentor to Harry Potter, he provides guidance and crucial knowledge in the fight against Voldemort. Despite his benevolent image, Dumbledore's past is marked by tragedy and complexity, including his youthful association with Gellert Grindelwald, a dark wizard he later defeated. His philosophical views on power, love, and death are central themes in the series."
+    },
+    {
+      "chunk_id": "wikipedia:Harold#0000",
+      "doc_id": "wikipedia:Harold",
+      "title": "Harold",
+      "url": "https://en.wikipedia.org/?curid=555297",
+      "source_type": "wikipedia",
+      "score": 0.6276192128658294,
+      "text": "Harold may refer to: People Harold (given name), including a list of persons and fictional characters with the name Harold (surname), surname in the English language András Arató, known in meme culture as \"Hide the Pain Harold\" Arts and entertainment Harold (film), a 2008 comedy film Harold, an 1876 poem by Alfred, Lord Tennyson Harold, the Last of the Saxons, an 1848 book by Edward Bulwer-Lytton, 1st Baron Lytton Harold or the Norman Conquest, an opera by Frederic Cowen Harold, an 1885 opera by Eduard Nápravník Harold, a character from the cartoon The Grim Adventures of Billy & Mandy Harold & Kumar, a US movie; Harold/Harry is the main actor in the show."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0000",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.6216065347194671,
+      "text": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Granger, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's conflict with Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and non-magical people, known in-universe as Muggles. The series was originally published in English by Bloomsbury in the United Kingdom and Scholastic Press in the United States. A series of many genres, including fantasy, drama, coming-of-age fiction, and the British school story (which includes elements of mystery, thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references."
+    },
+    {
+      "chunk_id": "wikipedia:Albus Dumbledore#0001",
+      "doc_id": "wikipedia:Albus Dumbledore",
+      "title": "Albus Dumbledore",
+      "url": "https://en.wikipedia.org/?curid=45322",
+      "source_type": "wikipedia",
+      "score": 0.6027115494012832,
+      "text": "with Gellert Grindelwald, a dark wizard he later defeated. His philosophical views on power, love, and death are central themes in the series. Dumbledore is portrayed by Richard Harris in the film adaptations of Harry Potter and the Philosopher's Stone (2001) and Harry Potter and the Chamber of Secrets (2002). Following Harris' death in October 2002, Michael Gambon was cast in the role. He plays Dumbledore in six..."
+    },
+    {
+      "chunk_id": "wikipedia:Draco Malfoy#0000",
+      "doc_id": "wikipedia:Draco Malfoy",
+      "title": "Draco Malfoy",
+      "url": "https://en.wikipedia.org/?curid=44334",
+      "source_type": "wikipedia",
+      "score": 0.5946903049945831,
+      "text": "Draco Lucius Malfoy is a fictional character and a major antagonist in J. K. Rowling's Harry Potter series. He is a student in Harry Potter's year belonging in the Slytherin house. He is frequently accompanied by his two cronies, Vincent Crabbe and Gregory Goyle, who act as henchmen. Draco is characterised as a cowardly bully who tricks and hurts people to get what he wants; he is also a cunning user of magic. He was played by Tom Felton in the Harry Potter film series, while Lox Pratt is set to portray him in the TV series adaptation. Character development Draco serves as a foil to the hero, Harry Potter, and is loosely based on bullies Rowling encountered during her school days. Harry first encounters Draco's snobbish bigotry after their initial encounter at Madam Malkin's. Rowling uses the Malfoys to introduce themes of intolerance and bigotry into a setting where people are often judged solely by their blood lineage rather than their good character or accomplishments."
+    },
+    {
+      "chunk_id": "wikipedia:Harry#0000",
+      "doc_id": "wikipedia:Harry",
+      "title": "Harry",
+      "url": "https://en.wikipedia.org/?curid=12500869",
+      "source_type": "wikipedia",
+      "score": 0.4890146017074585,
+      "text": "Harry may refer to: Television Harry (American TV series), 1987 comedy series starring Alan Arkin Harry (British TV series), 1993 BBC drama that ran for two seasons Harry (game show), 2012 French game show hosted by Sébastien Folin Harry (New Zealand TV series), 2013 crime drama starring Oscar Kightley Harry (talk show), 2016 American daytime talk show hosted by Harry Connick Jr. People and fictional characters Harry (given name), a list of people and fictional characters with the given or nickname including Prince Harry, Duke of Sussex (born 1984) Harry (surname), a list of people with the surname Other uses \"Harry\", the tunnel used in the Stalag Luft III escape (\"The Great Escape\") of World War II Harry (album), a 1969 album by Harry Nilsson Harry (derogatory term), derogatory term used in Norway Harry (newspaper), an underground newspaper in Baltimore, Maryland \"Harry (poem)\", 1962 poem by Francis Webb See also All pages with titles beginning with Harry Old Harry (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0001",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.4657320976257324,
+      "text": "Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends. During this time, Craig starts high school and becomes close to Ms. Hart, a teacher who comes to his aid when Kenny Yankovich, a school bully, attempts to intimidate him. After winning $3,000 from a lottery ticket that Harrigan..."
+    },
+    {
+      "chunk_id": "wikipedia:Harry Potter#0001",
+      "doc_id": "wikipedia:Harry Potter",
+      "title": "Harry Potter",
+      "url": "https://en.wikipedia.org/?curid=2387806",
+      "source_type": "wikipedia",
+      "score": 0.4406024575233459,
+      "text": "thriller, adventure, horror, and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references. Major themes in the series include prejudice, corruption, madness, love, and death. Since the release of the first novel, Harry Potter and the Philosopher's Stone, on 26 June 1997, the books have found immense popularity and commercial success worldwide..."
+    },
+    {
+      "chunk_id": "wikipedia:Potter#0001",
+      "doc_id": "wikipedia:Potter",
+      "title": "Potter",
+      "url": "https://en.wikipedia.org/?curid=170486",
+      "source_type": "wikipedia",
+      "score": 0.4050113022327423,
+      "text": "Lowe Harry and the Potters, an American rock band Harry Potter, worldwide bestselling book and film series Miss Potter, a 2006 film by Chris Noonan The Potters (artists group), a women's artistic and literary group in St. Louis, Missouri The Potters (film), a lost 1927 silent film Sports Stoke City F.C or The Potters..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Hagrid is standing proudly in a crowd.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Hagrid"
+        ]
+      },
+      "meme_captions": {
+        "text": "Poster thinks Harry Potter placed his admiration on the wrong people.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Harry Potter",
+          "his admiration",
+          "the wrong people"
+        ]
+      },
+      "title": {
+        "text": "Thanks for nothing Harry",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Thanks",
+          "nothing",
+          "harry"
+        ]
+      },
+      "text": {
+        "text": "Harry: Names his kid after two manipulative men and calls them brave Hagrid who took care of Harry like a second father throughout his entire school career: wan\" aredy yeoman Tan): _ . . \\, ” oer 2 fare, or . . * / . rs. _ Ke Sar pee",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Harry",
+          "Names",
+          "his kid",
+          "two manipulative men",
+          "brave Hagrid",
+          "care",
+          "his entire school career",
+          "wan",
+          "aredy yeoman Tan"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Thanks",
+      "nothing",
+      "harry",
+      "Names",
+      "his kid",
+      "two manipulative men",
+      "brave Hagrid",
+      "care",
+      "his entire school career",
+      "wan",
+      "aredy yeoman Tan"
+    ],
+    "secondary_terms": [
+      "Hagrid",
+      "Harry Potter",
+      "his admiration",
+      "the wrong people"
+    ],
+    "queries": [
+      "\"aredy yeoman Tan\" \"his entire school career\" \"brave Hagrid\" \"two manipulative men\"",
+      "\"brave Hagrid\" \"two manipulative men\" \"Thanks\" \"Harry\""
+    ]
+  },
+  "source_jsonl_id": null
+}

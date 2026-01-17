@@ -1,0 +1,204 @@
+{
+  "meme_id": "meme_00806",
+  "queries": [
+    "\"the high value male\" \"Hey girl\" \"pov\" \"high\"",
+    "\"pov\" \"high\" \"value\" \"male\""
+  ],
+  "primary_terms": [
+    "the high value male",
+    "pov",
+    "high",
+    "value",
+    "male",
+    "wants",
+    "buy",
+    "drink",
+    "Hey girl",
+    "hey",
+    "girl",
+    "werewolf",
+    "cause",
+    "lycan",
+    "booty",
+    "cin"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Lady#0000",
+      "doc_id": "wikipedia:Lady",
+      "title": "Lady",
+      "url": "https://en.wikipedia.org/?curid=555643",
+      "source_type": "wikipedia",
+      "score": 0.777517956495285,
+      "text": "A lady is a woman who behaves in a polite way. Once used to describe only women of a high social class or status, the female counterpart of lord, now it may refer to any adult woman, as gentleman can be used for men. \"Lady\" is also a formal title in the United Kingdom. \"Lady\" is used before the family name or peerage of a woman with a title of nobility or honorary title suo jure (in her own right), such as female members of the Order of the Garter and Order of the Thistle, or the wife of a lord, a baronet, Scottish feudal baron, laird, or a knight, and also before the first name of the daughter of a duke, marquess, or earl. Etymology The word comes from Old English hlǣfdige; the first part of the word is a mutated form of hlāf, \"loaf, bread\", also seen in the corresponding hlāford, \"lord\"."
+    },
+    {
+      "chunk_id": "wikipedia:Daughter#0000",
+      "doc_id": "wikipedia:Daughter",
+      "title": "Daughter",
+      "url": "https://en.wikipedia.org/?curid=449913",
+      "source_type": "wikipedia",
+      "score": 0.6525378197431564,
+      "text": "A daughter is a female offspring; a girl or a woman in relation to her parents. Daughterhood is the state, condition or quality of being someone's daughter. The male counterpart is a son. Analogously the name is used in several areas to show relations between groups or elements. From biological perspective, a daughter is a first degree relative. The word daughter also has several other connotations attached to it, one of these being used in reference to a female descendant or consanguinity. It can also be used as a term of endearment coming from an elder. In patriarchal societies, daughters often have different or lesser familial rights than sons. A family may prefer to have sons rather than daughters and subject daughters to female infanticide. In some societies, it is the custom for a daughter to be 'sold' to her husband, who must pay a bride price."
+    },
+    {
+      "chunk_id": "wikipedia:Homies (toy)#0000",
+      "doc_id": "wikipedia:Homies (toy)",
+      "title": "Homies (toy)",
+      "url": "https://en.wikipedia.org/?curid=1380153",
+      "source_type": "wikipedia",
+      "score": 0.6512169361114502,
+      "text": "Homies are a series of two-inch plastic collectible figurines representing various Chicano Mexican American characters. The line of toys was created by David Gonzales and based on a comic strip that Gonzales created featuring a cast of characters from his youth. Introduced in the year 1998, Homies were initially sold in grocery store vending machines and have become a highly collectible item, and have spawned many imitation toys. Background and history Gonzales began drawing comics while he was in high school. His amateur comic strip was called The Adventures of Chico Loco, and the characters were based on \"barrio guys,\" as Gonzales grew up on the tough streets of a poverty-ridden Mexican-American neighborhood. The main character, based on Gonzales himself, was called \"Hollywood.\" The strip, which later changed its title to The Adventures of Hollywood, was picked up by Lowrider magazine and published monthly."
+    },
+    {
+      "chunk_id": "wikipedia:Sone#0000",
+      "doc_id": "wikipedia:Sone",
+      "title": "Sone",
+      "url": "https://en.wikipedia.org/?curid=215436",
+      "source_type": "wikipedia",
+      "score": 0.6155590176582336,
+      "text": "The sone () is a unit of loudness, the subjective perception of sound pressure. The study of perceived loudness is included in the topic of psychoacoustics and employs methods of psychophysics. Doubling the perceived loudness doubles the sone value. Proposed by Stanley Smith Stevens in 1936, it is not an SI unit. Definition and conversions According to Stevens' definition, a loudness of 1 sone is equivalent to 40 phons (a 1 kHz tone at 40 dB SPL). The phons scale aligns with dB, not with loudness, so the sone and phon scales are not proportional. Rather, the loudness in sones is, at least very nearly, a power law function of the signal intensity, with an exponent of 0.3. With this exponent, each 10 phon increase (or 10 dB at 1 kHz) produces almost exactly a doubling of the loudness in sones."
+    },
+    {
+      "chunk_id": "wikipedia:Respect#0000",
+      "doc_id": "wikipedia:Respect",
+      "title": "Respect",
+      "url": "https://en.wikipedia.org/?curid=364338",
+      "source_type": "wikipedia",
+      "score": 0.6060872495174408,
+      "text": "Respect, also called esteem, is a positive feeling or deferential action shown towards someone or something considered important or held in high esteem or regard. It conveys a sense of admiration for good or valuable qualities. It is also the process of honoring someone by exhibiting care, concern, or consideration for their needs or feelings. In many cultures, people are considered to be worthy of respect until they prove otherwise. Some people may earn special respect through their exemplary actions or social roles. In \"honor cultures\", respect is more often earned in this way than granted by default. Courtesies that show respect may include simple words and phrases like \"thank you\" in the West or \"namaste\" in the Indian subcontinent, or simple physical signs like a slight bow, a smile, direct eye contact, or a handshake. Such acts may have very different interpretations depending on the cultural context. The end goal is for all people to be treated with respect."
+    },
+    {
+      "chunk_id": "wikipedia:Homies (toy)#0001",
+      "doc_id": "wikipedia:Homies (toy)",
+      "title": "Homies (toy)",
+      "url": "https://en.wikipedia.org/?curid=1380153",
+      "source_type": "wikipedia",
+      "score": 0.6002077221870422,
+      "text": "called \"Hollywood.\" The strip, which later changed its title to The Adventures of Hollywood, was picked up by Lowrider magazine and published monthly. More and more barrio characters from Gonzales' experiences were introduced to the public through the Hollywood strip — these became \"Homies.\" The word \"homie\" is an English language slang term found in American urban culture, with the word \"homeboy\" meaning a male friend..."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.5508653283119201,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Greedy#0001",
+      "doc_id": "wikipedia:Greedy",
+      "title": "Greedy",
+      "url": "https://en.wikipedia.org/?curid=1376590",
+      "source_type": "wikipedia",
+      "score": 0.5252102673053741,
+      "text": "2019), pseudonym of Andrew McArthur Smith, singer, musician and songwriter with the Australian pop/new wave band Mental As Anything Greedy Vance Jr. (born 2001), American football player Greedy Williams (born 1997), American football player nicknamed \"Greedy\" Jack Greedy (1929–1988), Canadian racing driver, member of the Canadian Motorsport Hall of Fame Fictional characters Greedy Gretchen, a character who appeared in episodes of the American TV sitcoms Three's Company and Three's a Crowd Greedy Smurf, a character in The Smurfs franchise Mr. Greedy, title character of a book in the Mr..."
+    },
+    {
+      "chunk_id": "wikipedia:Strongest Deliveryman#0000",
+      "doc_id": "wikipedia:Strongest Deliveryman",
+      "title": "Strongest Deliveryman",
+      "url": "https://en.wikipedia.org/?curid=54055069",
+      "source_type": "wikipedia",
+      "score": 0.5247386157512665,
+      "text": "Strongest Deliveryman (Korean: 최강 배달꾼; RR: Choegang baedalkkun) is a 2017 South Korean television series starring Go Kyung-pyo, Chae Soo-bin, Kim Seon-ho, and Go Won-hee. It premiered on August 4, 2017, and aired every Friday and Saturday at 23:00 (KST) on KBS2 until September 23, 2017. Synopsis Choi Kang-soo is a deliveryman who wants to become the CEO of his own delivery app company. The series tells of his journey to achieving love and success. Cast Main Go Kyung-pyo as Choi Kang-soo A veteran deliveryman who puts his life on the line at whatever he does. Chae Soo-bin as Lee Dan-ah A delivery woman who is so single-minded about making money and escaping from \"Hell Joseon\" that she turns down all advances from men. Kim Seon-ho as Oh Jin-kyu A rich man's son, the former Head Manager of Jung Family Seollongtang, he is stubborn at first but changes later. Go Won-hee as Lee Ji-yoon The daughter of the Jung Family Foods' CEO. She wants to become independent, so runs away from home."
+    },
+    {
+      "chunk_id": "wikipedia:Brother#0000",
+      "doc_id": "wikipedia:Brother",
+      "title": "Brother",
+      "url": "https://en.wikipedia.org/?curid=4098495",
+      "source_type": "wikipedia",
+      "score": 0.5166994810104371,
+      "text": "A brother (pl.: brothers or brethren) is a man or boy who shares one or more parents with another; a male sibling. The female counterpart is a sister. Although the term typically refers to a familial relationship, it is sometimes used endearingly to refer to non-familial relationships. A full brother is a first degree relative. Overview The term brother comes from the Proto-Indo-European *bʰréh₂tēr, which becomes Latin frater, of the same meaning. Sibling warmth or affection between male siblings has been correlated to some more negative effects. In pairs of brothers, higher sibling warmth is related to more risk taking behaviour, although risk taking behaviour is not related to sibling warmth in any other type of sibling pair. The cause of this phenomenon in which sibling warmth is only correlated with risk taking behaviours in brother pairs still is unclear."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Its a werewolf making a joke.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster used a pun in a pick up line.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "title": {
+        "text": "POV: the high value male wants to buy you a drink",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the high value male",
+          "pov",
+          "high",
+          "value",
+          "male",
+          "wants",
+          "buy",
+          "drink"
+        ]
+      },
+      "text": {
+        "text": "Hey girl! Are you a werewolf? cause I’m lycan that booty A. wt d the sy fy”. - ey we J cin ‘ AL? 7 * th ; Ny ~ My ON . \\ (na Ox a \\ * L ‘sy",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Hey girl",
+          "hey",
+          "girl",
+          "werewolf",
+          "cause",
+          "lycan",
+          "booty",
+          "cin"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the high value male",
+      "pov",
+      "high",
+      "value",
+      "male",
+      "wants",
+      "buy",
+      "drink",
+      "Hey girl",
+      "hey",
+      "girl",
+      "werewolf",
+      "cause",
+      "lycan",
+      "booty",
+      "cin"
+    ],
+    "secondary_terms": [],
+    "queries": [
+      "\"the high value male\" \"Hey girl\" \"pov\" \"high\"",
+      "\"pov\" \"high\" \"value\" \"male\""
+    ]
+  },
+  "source_jsonl_id": null
+}

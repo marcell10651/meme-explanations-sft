@@ -1,0 +1,190 @@
+{
+  "meme_id": "meme_00074",
+  "queries": [
+    "\"Miss Universe\" \"humans\" \"cheat\" \"winning\" \"miss\"",
+    "\"Miss Universe\" \"two men\" \"their hands\" \"the one\"",
+    "\"their hands\" \"the one\" \"the right\" \"humans\""
+  ],
+  "primary_terms": [
+    "humans",
+    "cheat",
+    "winning",
+    "miss",
+    "universe"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Miss Universe#0000",
+      "doc_id": "wikipedia:Miss Universe",
+      "title": "Miss Universe",
+      "url": "https://en.wikipedia.org/?curid=150340",
+      "source_type": "wikipedia",
+      "score": 1.0932570815086364,
+      "text": "Miss Universe is an annual international major beauty pageant that is run by the Thailand and Mexican-based Miss Universe Organization. Along with Miss World, Miss International, and Miss Earth, it is one of the Big Four beauty pageants. The Miss Universe Organization and its brand is owned by JKN Global Group and Legacy Holding Group USA Inc., an American division of Mexican company Legacy Holding through the joint venture company JKN Legacy Inc. Telemundo had the licensing rights to air the pageant through 2023. The pageant's advocacy is \"humanitarian issues and is a voice to affect positive change in the world\". The reigning Miss Universe is Fátima Bosch from Mexico who was crowned on November 20, 2025, in Pak Kret, Thailand. History The title \"Miss Universe\" was first used by the International Pageant of Pulchritude in 1926. This contest was held annually until 1935, when the Great Depression and other events preceding World War II led to its demise."
+    },
+    {
+      "chunk_id": "wikipedia:Others#0000",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.9293262869119644,
+      "text": "Others or The Others may refer to: Fictional characters Others (A Song of Ice and Fire), supernatural creatures in the fictional world of George R. R. Martin's fantasy series A Song of Ice and Fire Others (Lost), mysterious inhabitants of a strange island in the South Pacific in the television series Lost Others (Night Watch), a fictional group of people with supernatural abilities in Sergey Lukyanenko's Watches novel pentalogy The Others (Vok), a character from the Beast Wars franchise The Others, a reference to Cro-Magnon peoples in Jean M. Auel's Earth's Children series The Others, a group of allies of Aquaman in comics, introduced in 2012 and featured in a 2014 series The Others, the Ancients who have achieved Ascension in the Stargate universe The Others, a series of alien extraterrestrial species from The 5th Wave novels and film Films The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001"
+    },
+    {
+      "chunk_id": "wikipedia:Hand#0000",
+      "doc_id": "wikipedia:Hand",
+      "title": "Hand",
+      "url": "https://en.wikipedia.org/?curid=19166474",
+      "source_type": "wikipedia",
+      "score": 0.9162938356399536,
+      "text": "A hand is a prehensile, multi-fingered appendage located at the end of the forearm or forelimb of primates such as humans, chimpanzees, monkeys, and lemurs. A few other vertebrates such as the koala (which has two opposable thumbs on each \"hand\" and fingerprints extremely similar to human fingerprints) are often described as having \"hands\" instead of paws on their front limbs. The raccoon is usually described as having \"hands\" though opposable thumbs are lacking. Some evolutionary anatomists use the term hand to refer to the appendage of digits on the forelimb more generally—for example, in the context of whether the three digits of the bird hand involved the same homologous loss of two digits as in the dinosaur hand. The human hand usually has five digits: four fingers plus one thumb; however, these are often referred to collectively as five fingers, whereby the thumb is included as one of the fingers."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0000",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.8738361895084381,
+      "text": "Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth. The game allows for cross-platform play; it was released on iOS and Android devices in June 2018 and on Windows later that year in November. It was ported to the Nintendo Switch in December 2020 and on the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in December 2021. A virtual reality adaptation, Among Us VR, was released on November 10, 2022. Among Us takes place in space-themed settings where players are colorful, armless cartoon astronauts. Each player takes on one of two roles: most are Crewmates, but a small number are Impostors. Crewmates work to complete assigned tasks in the game while identifying and voting out suspected Impostors (who appear identical to Crewmates) using social deduction, while Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing."
+    },
+    {
+      "chunk_id": "wikipedia:Miss#0000",
+      "doc_id": "wikipedia:Miss",
+      "title": "Miss",
+      "url": "https://en.wikipedia.org/?curid=23807088",
+      "source_type": "wikipedia",
+      "score": 0.7602058708667755,
+      "text": "Miss (pronounced ) is an English-language honorific typically used for a girl, for an unmarried woman (when not using another title such as \"Doctor\" or \"Dame\"), or for a married woman retaining her maiden name. Originating in the 17th century, it is a contraction of mistress. The plural of Miss is Misses or occasionally Mses. History Origins Like Ms and Mrs, Miss has its roots in the title Mistress. Miss was originally a title given primarily to children rather than adults. During the 1700s, its usage broadened to encompass adult women. The title emerged as a polite way to address women, reflecting changing societal norms and class distinctions. Prior to this, referring to an adult woman as a Miss might have carried connotations of prostitution. Evolution of meanings and usage The meanings of both Miss and Mrs underwent transformations over time. Historically, these titles did not solely indicate marital status."
+    },
+    {
+      "chunk_id": "wikipedia:Finger#0000",
+      "doc_id": "wikipedia:Finger",
+      "title": "Finger",
+      "url": "https://en.wikipedia.org/?curid=37618",
+      "source_type": "wikipedia",
+      "score": 0.741698271036148,
+      "text": "A finger is a prominent digit on the forelimbs of most tetrapod vertebrate animals, especially those with prehensile extremities (i.e. hands) such as humans and other primates. Most tetrapods have five digits (pentadactyly), and short digits (i.e. significantly shorter than the metacarpal/metatarsals) are typically referred to as toes, while those that are notably elongated are called fingers. In humans, the fingers are flexibly articulated and opposable, serving as an important organ of tactile sensation and fine movements, which are crucial to the dexterity of the hands and the ability to grasp and manipulate objects Humans Usually humans have five digits, the bones of which are termed phalanges, on each hand, although some people have more or fewer than five due to congenital disorders such as polydactyly or oligodactyly, or accidental or intentional amputations. The first digit is the thumb, followed by the index finger, middle finger, ring finger, and little finger or pinkie."
+    },
+    {
+      "chunk_id": "wikipedia:Potter#0001",
+      "doc_id": "wikipedia:Potter",
+      "title": "Potter",
+      "url": "https://en.wikipedia.org/?curid=170486",
+      "source_type": "wikipedia",
+      "score": 0.7211553812026977,
+      "text": "Lowe Harry and the Potters, an American rock band Harry Potter, worldwide bestselling book and film series Miss Potter, a 2006 film by Chris Noonan The Potters (artists group), a women's artistic and literary group in St. Louis, Missouri The Potters (film), a lost 1927 silent film Sports Stoke City F.C or The Potters..."
+    },
+    {
+      "chunk_id": "wikipedia:Miss#0001",
+      "doc_id": "wikipedia:Miss",
+      "title": "Miss",
+      "url": "https://en.wikipedia.org/?curid=23807088",
+      "source_type": "wikipedia",
+      "score": 0.6922979712486267,
+      "text": "and usage The meanings of both Miss and Mrs underwent transformations over time. Historically, these titles did not solely indicate marital status. Even after the adoption of Miss by many adult single women in 18th-century England, Mrs continued to signify social or business standing, rather than merely marital status, until at least the mid-19th century. Racial discrimination Being addressed with..."
+    },
+    {
+      "chunk_id": "wikipedia:Hand#0001",
+      "doc_id": "wikipedia:Hand",
+      "title": "Hand",
+      "url": "https://en.wikipedia.org/?curid=19166474",
+      "source_type": "wikipedia",
+      "score": 0.6915286779403687,
+      "text": "four fingers plus one thumb; however, these are often referred to collectively as five fingers, whereby the thumb is included as one of the fingers. It has 27 bones, not including the sesamoid bone, the number of which varies among people, 14 of which are the phalanges (proximal, intermediate and distal) of the fingers and thumb. The metacarpal bones connect the fingers and the carpal bones of the wrist. Each human hand has five..."
+    },
+    {
+      "chunk_id": "wikipedia:Everything#0000",
+      "doc_id": "wikipedia:Everything",
+      "title": "Everything",
+      "url": "https://en.wikipedia.org/?curid=17181902",
+      "source_type": "wikipedia",
+      "score": 0.6889920800924301,
+      "text": "Everything, every-thing, or every thing, is all that exists; it is an antithesis (opposite) of nothing, and its complement. It is the totality of things relevant to some subject matter. The universe is everything that exists theoretically, though a multiverse may exist according to theoretical cosmology predictions. It may refer to an anthropocentric worldview, or the sum of human experience, history, and the human condition in general. Every object and entity is a part of everything, including all physical bodies and in some cases all abstract objects. To describe or know of everything as a spatial consideration in a local environment, such as the world in which humans mostly live, is possible. The detemination of all things in the universe is unknown because of the physics beyond the observed universe and the problem of knowing physics at the range infinite."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "two men extending their hands, while the one at the right is holding a fire",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "two men",
+          "their hands",
+          "the one",
+          "the right"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is joking about how humans win Miss Universe over aliens every time.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "humans",
+          "Miss Universe",
+          "aliens"
+        ]
+      },
+      "title": {
+        "text": "u humans cheat.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "humans",
+          "cheat"
+        ]
+      },
+      "text": {
+        "text": "Winning) miss universe — . | _",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "winning",
+          "miss",
+          "universe"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "humans",
+      "cheat",
+      "winning",
+      "miss",
+      "universe"
+    ],
+    "secondary_terms": [
+      "two men",
+      "their hands",
+      "the one",
+      "the right",
+      "humans",
+      "Miss Universe",
+      "aliens"
+    ],
+    "queries": [
+      "\"Miss Universe\" \"humans\" \"cheat\" \"winning\" \"miss\"",
+      "\"Miss Universe\" \"two men\" \"their hands\" \"the one\"",
+      "\"their hands\" \"the one\" \"the right\" \"humans\""
+    ]
+  },
+  "source_jsonl_id": null
+}

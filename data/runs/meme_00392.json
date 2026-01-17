@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_00392",
+  "queries": [
+    "\"she back\" \"back\" \"breaking\" \"news\"",
+    "\"breaking\" \"news\" \"queentelizabeththas\" \"won\""
+  ],
+  "primary_terms": [
+    "she back",
+    "back",
+    "breaking",
+    "news",
+    "queentelizabeththas",
+    "won"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Expose#0000",
+      "doc_id": "wikipedia:Expose",
+      "title": "Expose",
+      "url": "https://en.wikipedia.org/?curid=591548",
+      "source_type": "wikipedia",
+      "score": 0.5156040549278259,
+      "text": "Expose, exposé, exposed, or exposing may refer to: News sources Exposé (journalism), a form of investigative journalism The Exposé, a British conspiracist website Exeposé, a student-run newspaper of the University of Exeter Film and TV Film Exposé (film), a 1976 thriller film Exposed (1932 film), a 1932 film starring Barbara Kent Exposed (1938 film), a 1938 film starring Glenda Farrell Exposed (1947 film), a 1947 film starring Adele Mara Exposed (1983 film), a 1983 film starring Nastassja Kinski Exposed (2003 film), a 2003 American independent comedy film Exposed (2011 film), a 2011 film starring Jodi Lyn O'Keefe Exposed (2016 film), a 2016 film starring Keanu Reeves Television \"Exposé\" (Lost), a 2007 episode of Lost Exposé: America's Investigative Reports, a PBS news/documentary series eXposed, the pilot of the American television show The Gifted Exposed (American game show), a 2007 American dating game show that aired on MTV Exposed (Canadian TV program), a 2004 Canadian music"
+    },
+    {
+      "chunk_id": "wikipedia:Wild#0001",
+      "doc_id": "wikipedia:Wild",
+      "title": "Wild",
+      "url": "https://en.wikipedia.org/?curid=1101278",
+      "source_type": "wikipedia",
+      "score": 0.4869080990552902,
+      "text": "-piece classical female group Albums and EPs Wild (EP), 2015 Wild, a 1999 album by Inkubus Sukkubus Wild, a 2016 album by Joanne Shaw Taylor Wild!, a 1989 album by Erasure Wild!!, a 2004 album by Terry Silverlight The Wild (Raekwon album), 2017 The Wild (The Rural Alberta Advantage album), 2017 Songs and singles..."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0001",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.4155150502920151,
+      "text": "network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story, one of the main characters in the 2006 film Lady in the Water Kahaani, or Story, a 2012 Indian film by Sujoy Ghosh The Story (film documentary short), a 2000 short film by John Little The..."
+    },
+    {
+      "chunk_id": "wikipedia:Down#0001",
+      "doc_id": "wikipedia:Down",
+      "title": "Down",
+      "url": "https://en.wikipedia.org/?curid=8550",
+      "source_type": "wikipedia",
+      "score": 0.39113876819610593,
+      "text": "American rapper Film and television Down (film), a 2001 English remake of the film De Lift \"Down\" (Breaking Bad), an episode of the second season of Breaking Bad \"Down\" (Into the Dark), an episode of the first season of Into the Dark Literature Down (comics), a comic book published by Top Cow Productions Down (novel), a 1997..."
+    },
+    {
+      "chunk_id": "wikipedia:Backseat#0000",
+      "doc_id": "wikipedia:Backseat",
+      "title": "Backseat",
+      "url": "https://en.wikipedia.org/?curid=8201491",
+      "source_type": "wikipedia",
+      "score": 0.3806444764137268,
+      "text": "Backseat or back seat may refer to: a car seat located at the rear of a vehicle Backseat (band), Danish pop / rock group Backseat (album), a 1986 album by Finnish hard rock band Peer Günt \"Backseat\" (song), a 2011 single by the New Boyz featuring The Cataracs and Dev \"Back Seat (of My Jeep)\",by LL Cool J, 1993 \"Backseat\", a song by Charli XCX from the 2017 mixtape Pop 2 \"Backseat\", a song by K.A.R.D's BM and Somin \"Back Seat (Wit No Sheets)\", a song by H-Town from the 1994 album Beggin' After Dark See also \"The Back Seat of My Car\", a 1971 single release from the Paul McCartney album Ram Back-seat driver, a passenger in a vehicle who is not the driver that gives unwanted advice and/or criticism to the driver Back Seat Drivers, an Australian television program"
+    },
+    {
+      "chunk_id": "wikipedia:Update#0000",
+      "doc_id": "wikipedia:Update",
+      "title": "Update",
+      "url": "https://en.wikipedia.org/?curid=1237226",
+      "source_type": "wikipedia",
+      "score": 0.3726702094078064,
+      "text": "Update(s) or updated may refer to: Music Update (Anouk album), 2004 Update (Berlin Jazz Orchestra album), 2004 Update (Jane Zhang album), 2007 Update (Mal Waldron album), 1987 Update (Yandel album), 2017 Updated (M. Pokora album), an English-language version of Mise à jour, 2011 Other uses DR Update, a defunct Danish television news channel Software update, modifying installed software to be more up-to-date Update (SQL), a statement for changing database records Updates, a program broadcast by CNN Philippines See also Bayesian inference, a type of reasoning described as updating Patch (computing), a form of software update Upgrade, replacing or adding to improve"
+    },
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.36659965515136717,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Man on a String#0001",
+      "doc_id": "wikipedia:Man on a String",
+      "title": "Man on a String",
+      "url": "https://en.wikipedia.org/?curid=35028463",
+      "source_type": "wikipedia",
+      "score": 0.3510711193084717,
+      "text": "of making a documentary film there. Helen is having an affair with Kubelov, but the Bensons' home has been bugged and they try to flee to Mexico. In the meantime, Boris is sent to Moscow to be entrusted with a new assignment, so Avery gives him a code word (\"cinerama\") to use should he find himself in danger. Upon learning that Adrian intends to publicly expose Boris and Kubelov, Avery is..."
+    },
+    {
+      "chunk_id": "wikipedia:Winning#0000",
+      "doc_id": "wikipedia:Winning",
+      "title": "Winning",
+      "url": "https://en.wikipedia.org/?curid=28094145",
+      "source_type": "wikipedia",
+      "score": 0.3452711760997772,
+      "text": "Winning may refer to: Victory Film Winning (film), a 1969 movie starring Paul Newman Winning: The Racing Life of Paul Newman, a 2015 documentary by Adam Carolla and Nate Adams Music Winning (band), a Bangladeshi rock band Winning, an album by Ten Foot Pole, 2022 Songs \"Winning\" (song), by Russ Ballard, 1976; covered by Santana, 1981 \"Winnin'\", by Chief Keef from Back from the Dead, 2012 \"Winning\", by Chris Rea from Wired to the Moon, 1984 \"Winning\", by Ciara featuring Big Freedia from CiCi, 2023 \"Winnin\", by City Girls from City on Lock, 2020 \"Winning\", by Emily Haines and the Soft Skeleton from Knives Don't Have Your Back, 2006 \"Winning\", by Gentle Giant from The Missing Piece \"Winning (A song by Charlie Sheen)\", by the Gregory Brothers Other uses Winning (book), a 2005 management book by Jack Welch Winning Appliances, an Australian retailer People with surname Charles Winning (1889–1967), Australian cricketer David Winning (born 1961), Canadian and American film director, producer,"
+    },
+    {
+      "chunk_id": "wikipedia:Perfect#0001",
+      "doc_id": "wikipedia:Perfect",
+      "title": "Perfect",
+      "url": "https://en.wikipedia.org/?curid=217503",
+      "source_type": "wikipedia",
+      "score": 0.3451547771692276,
+      "text": "album) (2004) Perfect (Half Japanese album) (2016) perfecT, an album by Sam Shaber Perfect, an album by True Faith or its title track Perfect, an album by Benny Hester or its title track EPs Perfect (Mannequin Pussy EP) (2021) Songs \"Perfect\" (Vanessa Amorosi song) (2008) \"Perfect\" (Anne-Marie song) (2018..."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_01628",
+  "queries": [
+    "\"Normal\" \"a slightly different version\" \"the same thing\" \"mysterious disease\" \"exasperated staring\"",
+    "\"mysterious disease\" \"exasperated staring\" \"here\" \"different\""
+  ],
+  "primary_terms": [
+    "a slightly different version",
+    "the same thing",
+    "here",
+    "different",
+    "version",
+    "same",
+    "mysterious disease",
+    "doctors",
+    "exasperated staring"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Disorder#0000",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 1.1569225072860718,
+      "text": "Disorder may refer to randomness, a lack of intelligible pattern, or: Healthcare Disorder (medicine), a functional abnormality or disturbance Mental disorder or psychological disorder, a psychological pattern associated with distress or disability that occurs in a person and is not a part of normal development or culture: Anxiety disorder, different forms of abnormal and pathological fear and anxiety Attention-deficit hyperactivity disorder Autism spectrum disorder Conversion disorder, neurological symptoms such as numbness, blindness, paralysis, or fits, where no neurological explanation is possible Obsessive–compulsive disorder, an anxiety disorder characterized by repetitive behaviors aimed at reducing anxiety Obsessive–compulsive personality disorder, obsession with perfection, rules, and organization Personality disorder, an enduring pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement"
+    },
+    {
+      "chunk_id": "wikipedia:Looking#0000",
+      "doc_id": "wikipedia:Looking",
+      "title": "Looking",
+      "url": "https://en.wikipedia.org/?curid=55409949",
+      "source_type": "wikipedia",
+      "score": 0.700996047258377,
+      "text": "Looking is the act of intentionally focusing visual perception on someone or something, for the purpose of obtaining information, and possibly to convey interest or another sentiment. A large number of troponyms exist to describe variations of looking at things, with prominent examples including the verbs \"stare, gaze, gape, gawp, gawk, goggle, glare, glimpse, glance, peek, peep, peer, squint, leer, gloat, and ogle\". Additional terms with nuanced meanings include viewing, watching, eyeing, observing, beholding, and scanning. Looking is both a physical act of directing the focus of the eyes, and a psychological act of interpreting what is seen and choosing whether to continue looking at it, or to look elsewhere. Where more than one person is involved, looking may lead to eye contact between those doing the looking, which raises further implications for the relationship established through that act."
+    },
+    {
+      "chunk_id": "wikipedia:Dyslexia#0000",
+      "doc_id": "wikipedia:Dyslexia",
+      "title": "Dyslexia",
+      "url": "https://en.wikipedia.org/?curid=8305",
+      "source_type": "wikipedia",
+      "score": 0.690288758277893,
+      "text": "Dyslexia, also known as \"word blindness\", is a learning disability that affects either reading or writing. Different people are affected to different degrees. Problems may include difficulties in spelling words, reading quickly, writing words, \"sounding out\" words in the head, pronouncing words when reading aloud and understanding what one reads. Often these difficulties are first noticed at school. The difficulties are involuntary, and people with this disorder have a normal desire to learn. People with dyslexia have higher rates of attention deficit hyperactivity disorder (ADHD), developmental language disorders, and difficulties with numbers. Dyslexia is believed to be caused by the interaction of genetic and environmental factors. Some cases run in families. Dyslexia that develops due to a traumatic brain injury, stroke, or dementia is sometimes called \"acquired dyslexia\" or alexia."
+    },
+    {
+      "chunk_id": "wikipedia:Confusion#0001",
+      "doc_id": "wikipedia:Confusion",
+      "title": "Confusion",
+      "url": "https://en.wikipedia.org/?curid=2079352",
+      "source_type": "wikipedia",
+      "score": 0.6695653796195984,
+      "text": "mix, blend, pour together, disorder, embroil.\" Causes Confusion may result from drug side effects or from a relatively sudden brain dysfunction. Acute confusion is often called delirium (or \"acute confusional state\"), although delirium often includes a much broader array of disorders than simple confusion. These disorders include the inability to focus attention; various impairments in awareness, and temporal or spatial dis-orientation. Mental..."
+    },
+    {
+      "chunk_id": "wikipedia:Staring#0000",
+      "doc_id": "wikipedia:Staring",
+      "title": "Staring",
+      "url": "https://en.wikipedia.org/?curid=4409451",
+      "source_type": "wikipedia",
+      "score": 0.6690599918365479,
+      "text": "Staring is a prolonged gaze or fixed look. In staring, one subject or person is the continual focus of visual interest, for a long amount of time. The meaning, purpose, and rudeness, of staring varies widely between cultures. Staring can be interpreted as being either hostile like disapproval of another's behavior, or the result of intense concentration, interest or affection. Staring behavior can be considered as a form of aggression like when it is an invasion of an individual's privacy in certain contexts, or as a nonverbal cue to convey feelings of attraction in a social setting. The resultant behavior or action defines whether it is aggressive in nature (e.g. leering that results in street harassment), passive or active expression of attraction, etc. However, to some extent staring often occurs accidentally, and often a person would be simply staring into a space for awareness, or could be lost in thought (sometimes known as daydreaming), stupefied, or be unable to see."
+    },
+    {
+      "chunk_id": "wikipedia:Normal People#0000",
+      "doc_id": "wikipedia:Normal People",
+      "title": "Normal People",
+      "url": "https://en.wikipedia.org/?curid=59041422",
+      "source_type": "wikipedia",
+      "score": 0.667237001657486,
+      "text": "Normal People is a 2018 novel by the Irish author Sally Rooney. Normal People is Rooney's second novel, published after Conversations with Friends (2017). It was first published by Faber & Faber on 30 August 2018. The book became a bestseller in the United States, selling almost 64,000 copies in hardcover in its first four months of release. It was also a bestseller in China, where its coming of age theme was popular with younger readers. A critically acclaimed and Emmy nominated television adaptation of the same name aired from April 2020 on BBC Three and Hulu. A number of publications ranked it one of the best books of the 2010s. Synopsis The novel follows the complex friendship and relationship between two teenagers from different social classes, Connell and Marianne, who both attend the same secondary school in County Sligo, Ireland, and, later, Trinity College Dublin (TCD). It is set during the post-2008 Irish economic downturn, from 2011 through 2015."
+    },
+    {
+      "chunk_id": "wikipedia:Staring#0001",
+      "doc_id": "wikipedia:Staring",
+      "title": "Staring",
+      "url": "https://en.wikipedia.org/?curid=4409451",
+      "source_type": "wikipedia",
+      "score": 0.6626047194004059,
+      "text": "would be simply staring into a space for awareness, or could be lost in thought (sometimes known as daydreaming), stupefied, or be unable to see. As such, the meaning of a person's staring behavior depends upon the attributions made by the observer. When caught staring, the moment can be a source of embarrassment depending on the reason for staring. For example..."
+    },
+    {
+      "chunk_id": "wikipedia:Confusion#0000",
+      "doc_id": "wikipedia:Confusion",
+      "title": "Confusion",
+      "url": "https://en.wikipedia.org/?curid=2079352",
+      "source_type": "wikipedia",
+      "score": 0.6351507902145386,
+      "text": "In psychology, confusion is the quality or emotional state of being bewildered or unclear. The term \"acute mental confusion\" is often used interchangeably with delirium in the International Statistical Classification of Diseases and Related Health Problems and the Medical Subject Headings publications to describe the pathology. These refer to the loss of orientation, or the ability to place oneself correctly in the world by time, location and personal identity. Mental confusion is sometimes accompanied by disordered consciousness (the loss of linear thinking) and memory loss (the inability to correctly recall previous events or learn new material). Etymology The word confusion derives from the Latin word, confundo, which means \"confuse, mix, blend, pour together, disorder, embroil.\" Causes Confusion may result from drug side effects or from a relatively sudden brain dysfunction."
+    },
+    {
+      "chunk_id": "wikipedia:Pain#0001",
+      "doc_id": "wikipedia:Pain",
+      "title": "Pain",
+      "url": "https://en.wikipedia.org/?curid=24373",
+      "source_type": "wikipedia",
+      "score": 0.6117148995399475,
+      "text": "most developed countries. It is a major symptom in many medical conditions, and can interfere with a person's quality of life and general functioning. People in pain experience impaired concentration, working memory, mental flexibility, problem solving and information processing speed, and are more likely to experience irritability, depression, and anxiety. Simple pain medications..."
+    },
+    {
+      "chunk_id": "wikipedia:Fear#0001",
+      "doc_id": "wikipedia:Fear",
+      "title": "Fear",
+      "url": "https://en.wikipedia.org/?curid=10828",
+      "source_type": "wikipedia",
+      "score": 0.6080520153045654,
+      "text": ". Phobias, or exaggerated and often disabling fears, are usually similarly dysfunctional. Fear is often framed as a distinct product of evolution. This hypothesis, however, is becoming increasingly problematic because the psychological, (neuro)physiological, and behavioral changes and features associated with fear are consistently found to be shared with other negative, highly arousing emotional states such as anger, sadness, disgust, and anxiety. A more scientifically defensible product of evolution is flexibility..."
+    }
+  ]
+}

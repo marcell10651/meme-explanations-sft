@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_01429",
+  "queries": [
+    "\"the love\" \"once\" \"find\" \"already\"",
+    "\"find\" \"already\" \"too\" \"late\""
+  ],
+  "primary_terms": [
+    "once",
+    "find",
+    "already",
+    "too",
+    "late",
+    "the love",
+    "your life",
+    "pizza",
+    "scissors"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Find#0000",
+      "doc_id": "wikipedia:Find",
+      "title": "Find",
+      "url": "https://en.wikipedia.org/?curid=13400909",
+      "source_type": "wikipedia",
+      "score": 0.8367441356182098,
+      "text": "Find, FIND or Finding may refer to: Computing find (Unix), a command on UNIX platforms find (Windows), a command on DOS/Windows platforms Books The Find (2010), by Kathy Page The Find (2014), by William Hope Hodgson Film and television \"The Find\", an episode of Beyond Belief: Fact or Fiction \"The Find\", an episode of reality TV show The Curse of Oak Island Music Find (Hidden in Plain View EP), 2001 Find (SS501 EP) The Find, a 2005 hip hop album by Ohmega Watts People Áed Find (died 778), king of Dál Riata (modern-day Scotland) Caittil Find, Norse-Gaelic warrior contingent leader Cumméne Find (died 669), seventh abbot of Iona, Scotland Other uses Find, in archaeology Finding (jewelcrafting), jewellery components Meteorite find, a found meteorite not observed to have fallen Foundation for Innovative New Diagnostics, a not-for-profit organisation Facial Images National Database See also Discovery (observation) Finder (disambiguation) Locate (disambiguation) Searching (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Already#0000",
+      "doc_id": "wikipedia:Already",
+      "title": "Already",
+      "url": "https://en.wikipedia.org/?curid=57931026",
+      "source_type": "wikipedia",
+      "score": 0.8015410959720611,
+      "text": "Already may refer to: Albums Already (Jesus Jones album), 1997 Already (Edison Lighthouse album), 1971 Songs \"Already\" (song), 2019 song by Beyoncé, Shatta Wale and Major Lazer \"Already\", 2009 song by Mannie Fresh on his album Return of the Ballin' \"Already\", 2011 song by Freddie Gibbs on his album Lord Giveth, Lord Taketh Away \"Already\", 2011 song by Samiyam on his album Sam Baker's Album \"Already\", 2013 song by Gucci Mane on his mixtape Trap House 4 \"Already\", 2014 song by Anderson Paak on his album Venice \"Already\", 2014 song by Chief Keef on his album Nobody \"Already\", 2022 song by (G)I-dle on their album I Never Die"
+    },
+    {
+      "chunk_id": "wikipedia:Before#0000",
+      "doc_id": "wikipedia:Before",
+      "title": "Before",
+      "url": "https://en.wikipedia.org/?curid=39628822",
+      "source_type": "wikipedia",
+      "score": 0.6226124823093414,
+      "text": "Before is the opposite of after, and may refer to: Literature \"Before\" (short story) by Gael Baudino, 1996 Before by Anna Todd, 2015 Music Before (Gold Panda EP), 2009 Before (James Blake EP), 2020 \"Before\" (song), a 1996 song by the Pet Shop Boys \"Before\", a song by the Empire of the Sun from Two Vines \"Before\", a song by Anastacia from Evolution Television and film Before trilogy, by Richard Linklater Before Sunrise, 1995 Before Sunset, 2004 Before Midnight, 2013 Before (TV series), 2024 See also Before Christ (BC), an epoch used in dating years prior to the estimated birth of Jesus Before Common Era (BCE), an alternative naming of the traditional calendar era primarily used in academic circles Before Present (BP), a timescale used mainly in geology All pages with titles beginning with Before All pages with titles containing Before"
+    },
+    {
+      "chunk_id": "wikipedia:After#0000",
+      "doc_id": "wikipedia:After",
+      "title": "After",
+      "url": "https://en.wikipedia.org/?curid=1629839",
+      "source_type": "wikipedia",
+      "score": 0.5823221504688263,
+      "text": "After may refer to: Literature After (Elgar), an 1895 poem by Philip Bourke Marston set to music by Edward Elgar After (Prose novel), a 2003 novel by Francine Prose After (Chalifour book), a 2005 book by Canadian writer Francis Chalifour After (Todd novel), a 2013 novel by Anna Todd After: A Doctor Explores What Near-Death Experiences Reveal about Life and Beyond, a 2021 book by Bruce Greyson Music After (band) After (Elgar), a poem by P. B. Marston set to music by Edward Elgar, 1895 After (Ihsahn album), 2010 After (Lady Lamb album), 2015 After (Mount Eerie album), 2018 After, a 1995 album by Sammi Cheng \"After\", a 2011 song by Moby from Destroyed \"After\", a 2023 song by Pabllo Vittar from Noitada \"After\", a 2014 song by Amy Lee featuring Dave Eggar from the album Aftermath TV and film After (2009 film), a Spanish drama film After (2012 film), a sci-fi thriller film written and directed by Ryan Smith After, a 2012 film starring Julie Gayet After (2019 film), an American film, based"
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0000",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.5692518264055252,
+      "text": "Finally may refer to: Albums Finally (Namie Amuro album) (2017) Finally!, a 2024 album by The Aquabats Finally (Blackstreet album) or its title song Finally (Sean Ensign album) or its title song \"It's My Life (Finally)\" Finally (Layzie Bone & A.K. album) (2008) Finally... (EP), a 1996 EP by Low Finally... (album), a 2002 album by One True Thing Finally (CeCe Peniston album) or its title song Finally! (T. G. Sheppard album) (1982) Finally (Velvet album) (2006) Finally!, a 2008 album by Iya Villania ...finally, a 1996 album by Too Much Joy Songs \"Finally\" (CeCe Peniston song) (1991) \"Finally\" (D'banj song) (2013) \"Finally\" (Fergie song) (2008) \"Finally\" (Kings of Tomorrow song) (2001) \"Finally\" (T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A."
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.5386832058429718,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:First Time#0000",
+      "doc_id": "wikipedia:First Time",
+      "title": "First Time",
+      "url": "https://en.wikipedia.org/?curid=2039755",
+      "source_type": "wikipedia",
+      "score": 0.5349294096231461,
+      "text": "First Time or The First Time may refer to: Film and television Films The First Time (1952 film), an American comedy-drama directed by Frank Tashlin The First Time (1969 film), an American coming-of-age film directed by James Neilson The First Time (1981 film), an American coming of age comedy film The First Time, a 1982 American television film starring Jennifer Jason Leigh First Time, a 1983 Hong Kong film produced by Peter Yang The First Time, a 1983 comedy featuring Wendie Jo Sperber First Time, a 2003 Philippine film featuring Ryan Eigenmann The First Time (2012 film), an American teen romantic comedy by Jon Kasdan First Time (2012 film), a Chinese romance film directed by Han Yan Television First Time (TV series), a 2010 Philippine romantic drama Episodes \"First Time\" (South of Nowhere) \"The First Time\" (Glee) \"The First Time\" (One Day at a Time) \"The First Time\" (That '70s Show) Literature The First Time (memoir), a 1998 book by Cher and Jeff Coplon First Time, a 2008 novel by"
+    },
+    {
+      "chunk_id": "wikipedia:Love#0000",
+      "doc_id": "wikipedia:Love",
+      "title": "Love",
+      "url": "https://en.wikipedia.org/?curid=17547",
+      "source_type": "wikipedia",
+      "score": 0.531354558467865,
+      "text": "Love is an emotion involving strong attraction, affection, emotional attachment or concern for a person, animal, or thing. It is expressed in many forms, encompassing a range of strong and positive emotional and mental states, from the most sublime virtue, good habit, deepest interpersonal affection, to the simplest pleasure. An example of this range of meanings is that the love of a mother differs from the love of a spouse, which differs from the love of food. Love is considered to be both positive and negative, with its virtue representing kindness, compassion, and affection—\"the unselfish, loyal, and benevolent concern for the good of another\"—and its vice representing a moral flaw akin to vanity, selfishness, amour-propre, and egotism. It may also describe compassionate and affectionate actions towards other humans, oneself, or animals."
+    },
+    {
+      "chunk_id": "wikipedia:Certain Things Are Likely#0001",
+      "doc_id": "wikipedia:Certain Things Are Likely",
+      "title": "Certain Things Are Likely",
+      "url": "https://en.wikipedia.org/?curid=23239484",
+      "source_type": "wikipedia",
+      "score": 0.5276188611984253,
+      "text": "Instrumental)\" Chart performance In film \"Certain Things Are Likely\" can be heard in the American teen romantic comedy film, Can't Buy Me Love (1987). It can also be heard in the Italian giallo film Too Beautiful to Die (1988) See also List of Billboard number-one dance singles of 1987 References External links \"Certain Things Are Likely\" at Discogs (list of releases)"
+    },
+    {
+      "chunk_id": "wikipedia:Your Choice#0001",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.5266163408756256,
+      "text": "'s World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia. Background We thought the message of love is what could really console people and resonate with them, especially in these tough times that we're having. [...] This time, we wanted to use this word, \"love,\" and the concept..."
+    }
+  ]
+}

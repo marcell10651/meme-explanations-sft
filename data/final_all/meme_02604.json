@@ -1,0 +1,185 @@
+{
+  "meme_id": "meme_02604",
+  "queries": [
+    "\"one seagull\" \"its face\" \"the camera\" \"their teachers\"",
+    "\"the camera\" \"their teachers\" \"seagulls\" \"students\""
+  ],
+  "primary_terms": [
+    "can",
+    "all",
+    "hear",
+    "intellectual"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Camera#0000",
+      "doc_id": "wikipedia:Camera",
+      "title": "Camera",
+      "url": "https://en.wikipedia.org/?curid=52648",
+      "source_type": "wikipedia",
+      "score": 0.8519556045532226,
+      "text": "A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film. As a pivotal technology in the fields of photography and videography, cameras have played a significant role in the progression of visual arts, media, entertainment, surveillance, and scientific research. The invention of the camera dates back to the 19th century and has since evolved with advancements in technology, leading to a vast array of types and models in the 21st century. Cameras function through a combination of multiple mechanical components and principles. These include exposure control, which regulates the amount of light reaching the sensor or film; the lens, which focuses the light; the viewfinder, which allows the user to preview the scene; and the film or sensor, which captures the image."
+    },
+    {
+      "chunk_id": "wikipedia:Teacher#0000",
+      "doc_id": "wikipedia:Teacher",
+      "title": "Teacher",
+      "url": "https://en.wikipedia.org/?curid=205075",
+      "source_type": "wikipedia",
+      "score": 0.8360518336296081,
+      "text": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence, or virtue, via the practice of teaching. Informally the role of teacher may be taken on by anyone (e.g. when showing a colleague how to perform a specific task). In some countries, teaching young people of school age may be carried out in an informal setting, such as within the family (homeschooling), rather than in a formal setting such as a school or college. Some other professions may involve a significant amount of teaching (e.g. youth worker, pastor). In most countries, formal teaching of students is usually carried out by paid professional teachers. This article focuses on those who are employed, as their main role, to teach others in a formal education context, such as at a school or other place of initial formal education or training. Duties and functions A teacher's role may vary among cultures."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0001",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.731260871887207,
+      "text": "The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff from Doctor Who The Class (TV series), a CBS sitcom Class (2023 TV series), a 2023 Indian Netflix teen drama Literature Class: A Guide Through the American Status System,..."
+    },
+    {
+      "chunk_id": "wikipedia:Jaws (film)#0000",
+      "doc_id": "wikipedia:Jaws (film)",
+      "title": "Jaws (film)",
+      "url": "https://en.wikipedia.org/?curid=74830",
+      "source_type": "wikipedia",
+      "score": 0.7277946233749389,
+      "text": "Jaws is a 1975 American thriller film directed by Steven Spielberg. Based on the 1974 novel by Peter Benchley, it stars Roy Scheider as police chief Martin Brody, who, with the help of a marine biologist (Richard Dreyfuss) and a professional shark hunter (Robert Shaw), hunts a man-eating great white shark that attacks beachgoers at a New England summer resort town. Murray Hamilton plays the town's mayor, and Lorraine Gary portrays Brody's wife. The screenplay is credited to Benchley, who wrote the first drafts, and actor-writer Carl Gottlieb, who rewrote the script during principal photography. Shot mostly on location at Martha's Vineyard in Massachusetts from May to October 1974, Jaws was the first major motion picture to be shot on the ocean and consequently had a troubled production, going over budget and schedule."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0000",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.7243446826934814,
+      "text": "Class, Classes, or The Class may refer to: Common uses not otherwise categorized Class (biology), a taxonomic rank Class (knowledge representation), a collection of individuals or objects Class (philosophy), an analytical concept used differently from such group phenomena as \"types\" or \"kinds\" Class (set theory), a collection of sets that can be unambiguously defined by a property that all its members share Hazard class, a dangerous goods classification Social class, the hierarchical arrangement of individuals in society, usually defined by wealth and occupation Working class, can be defined by rank, income or collar Arts, entertainment, and media \"The Class\" (song), 1959 Chubby Checker song Character class, in role-playing games and other genres Class 95 (radio station), a Singaporean radio channel Films Class (film), 1983 American film The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff"
+    },
+    {
+      "chunk_id": "wikipedia:Jaws (film)#0001",
+      "doc_id": "wikipedia:Jaws (film)",
+      "title": "Jaws (film)",
+      "url": "https://en.wikipedia.org/?curid=74830",
+      "source_type": "wikipedia",
+      "score": 0.7215643525123596,
+      "text": "1974, Jaws was the first major motion picture to be shot on the ocean and consequently had a troubled production, going over budget and schedule. As the art department's mechanical sharks often malfunctioned, Spielberg decided to mostly suggest the shark's presence, employing an ominous and minimalist theme created by composer John Williams to indicate its impending appearances. Spielberg and others have compared this suggestive approach to that of director Alfred Hitchcock. Universal Pictures released the film..."
+    },
+    {
+      "chunk_id": "wikipedia:Trick#0001",
+      "doc_id": "wikipedia:Trick",
+      "title": "Trick",
+      "url": "https://en.wikipedia.org/?curid=274735",
+      "source_type": "wikipedia",
+      "score": 0.6923341423273086,
+      "text": "Andrzej Jakimowski Trick (2010 film), Polish film by Jan Hryniak Trick (2019 film), American Halloween-themed horror film The Trick (film), a 2021 BBC film about the Climatic Research Unit email controversy Literature Trick (novel), a 2015 novel by Natalia Jaster Tricks, a 1979 chronicle of homosexual encounters by Renaud Camus Tricks..."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.6670386552810669,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:Camera lens#0000",
+      "doc_id": "wikipedia:Camera lens",
+      "title": "Camera lens",
+      "url": "https://en.wikipedia.org/?curid=193977",
+      "source_type": "wikipedia",
+      "score": 0.6232924520969391,
+      "text": "A camera lens, photographic lens or photographic objective is an optical lens or assembly of lenses (compound lens) used in conjunction with a camera body and mechanism to make images of objects either on photographic film or on other media capable of storing an image chemically or electronically. There is no major difference in principle between a lens used for a still camera, a video camera, a telescope, a microscope, or other apparatus, but the details of design and construction are different. A lens might be permanently fixed to a camera, or it might be interchangeable with lenses of different focal lengths, apertures, and other properties. While in principle a simple convex lens will suffice, in practice a compound lens made up of a number of optical lens elements is required to correct (as much as possible) the many optical aberrations that arise. Some aberrations will be present in any lens system."
+    },
+    {
+      "chunk_id": "wikipedia:Others#0000",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.5970880001783371,
+      "text": "Others or The Others may refer to: Fictional characters Others (A Song of Ice and Fire), supernatural creatures in the fictional world of George R. R. Martin's fantasy series A Song of Ice and Fire Others (Lost), mysterious inhabitants of a strange island in the South Pacific in the television series Lost Others (Night Watch), a fictional group of people with supernatural abilities in Sergey Lukyanenko's Watches novel pentalogy The Others (Vok), a character from the Beast Wars franchise The Others, a reference to Cro-Magnon peoples in Jean M. Auel's Earth's Children series The Others, a group of allies of Aquaman in comics, introduced in 2012 and featured in a 2014 series The Others, the Ancients who have achieved Ascension in the Stargate universe The Others, a series of alien extraterrestrial species from The 5th Wave novels and film Films The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A group of seagulls are sitting across some ropes, and one seagull has its face up close to the camera.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "seagulls",
+          "some ropes",
+          "one seagull",
+          "its face",
+          "the camera"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that sometimes students know more than their teachers.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "students",
+          "their teachers"
+        ]
+      },
+      "title": {
+        "text": "We can all hear it",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "can",
+          "all",
+          "hear"
+        ]
+      },
+      "text": {
+        "text": "MEAN INTELLECTUAL:",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "intellectual"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "can",
+      "all",
+      "hear",
+      "intellectual"
+    ],
+    "secondary_terms": [
+      "seagulls",
+      "some ropes",
+      "one seagull",
+      "its face",
+      "the camera",
+      "students",
+      "their teachers"
+    ],
+    "queries": [
+      "\"one seagull\" \"its face\" \"the camera\" \"their teachers\"",
+      "\"the camera\" \"their teachers\" \"seagulls\" \"students\""
+    ]
+  },
+  "source_jsonl_id": null
+}

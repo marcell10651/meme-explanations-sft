@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_02069",
+  "queries": [
+    "\"the post\" \"honor\" \"bound\" \"actually\"",
+    "\"bound\" \"actually\" \"liking\" \"post\""
+  ],
+  "primary_terms": [
+    "honor",
+    "bound",
+    "the post",
+    "actually",
+    "liking",
+    "post",
+    "downvote"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Post#0000",
+      "doc_id": "wikipedia:Post",
+      "title": "Post",
+      "url": "https://en.wikipedia.org/?curid=230424",
+      "source_type": "wikipedia",
+      "score": 0.8236175894737243,
+      "text": "Post, POST, or posting may refer to: Postal services Mail, the postal system, especially in Commonwealth of Nations countries An Post, the Irish national postal service Canada Post, Canadian postal service Deutsche Post, German postal service Iraqi Post, Iraqi postal service Russian Post, Russian postal service Hotel post, a service formerly offered by remote Swiss hotels for the carriage of mail to the nearest official post office United States Postal Service or USPS Parcel post, a postal service for mail that is heavier than ordinary letters Work Post, a job or occupation Newspaper The Manica Post Regional newspaper in Manicaland province, Zimbabwe The Rakyat Post Malaysian online daily newspaper Bangkok Post English language newspaper in Thailand Architecture and structures Lamppost, a raised source of light on the edge of a road Post (structural), timber framing Post and lintel, a building system Scratch post Steel fence post Trading post Utility pole or utility post Military"
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.7536738783121109,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Respect#0000",
+      "doc_id": "wikipedia:Respect",
+      "title": "Respect",
+      "url": "https://en.wikipedia.org/?curid=364338",
+      "source_type": "wikipedia",
+      "score": 0.7370876878499985,
+      "text": "Respect, also called esteem, is a positive feeling or deferential action shown towards someone or something considered important or held in high esteem or regard. It conveys a sense of admiration for good or valuable qualities. It is also the process of honoring someone by exhibiting care, concern, or consideration for their needs or feelings. In many cultures, people are considered to be worthy of respect until they prove otherwise. Some people may earn special respect through their exemplary actions or social roles. In \"honor cultures\", respect is more often earned in this way than granted by default. Courtesies that show respect may include simple words and phrases like \"thank you\" in the West or \"namaste\" in the Indian subcontinent, or simple physical signs like a slight bow, a smile, direct eye contact, or a handshake. Such acts may have very different interpretations depending on the cultural context. The end goal is for all people to be treated with respect."
+    },
+    {
+      "chunk_id": "wikipedia:Graphics#0001",
+      "doc_id": "wikipedia:Graphics",
+      "title": "Graphics",
+      "url": "https://en.wikipedia.org/?curid=382466",
+      "source_type": "wikipedia",
+      "score": 0.6237167775630951,
+      "text": "the deliberate selection, creation, or arrangement of typography alone, as in a brochure, flyer, poster, web site, or book without any other element. The objective can be clarity or effective communication, association with other cultural elements, or merely the creation of a distinctive style. Graphics can be functional or artistic. The latter can be a recorded version, such as a photograph, or an interpretation by a scientist to highlight..."
+    },
+    {
+      "chunk_id": "wikipedia:Love#0001",
+      "doc_id": "wikipedia:Love",
+      "title": "Love",
+      "url": "https://en.wikipedia.org/?curid=17547",
+      "source_type": "wikipedia",
+      "score": 0.5503068923950195,
+      "text": "vanity, selfishness, amour-propre, and egotism. It may also describe compassionate and affectionate actions towards other humans, oneself, or animals. In its various forms, love acts as a major facilitator of interpersonal relationships, and owing to its central psychological importance, is one of the most common themes in the creative arts. Love has been postulated to be a function that keeps human beings together against menaces and to facilitate the continuation of the species. Ancient Greek..."
+    },
+    {
+      "chunk_id": "wikipedia:Instagram#0001",
+      "doc_id": "wikipedia:Instagram",
+      "title": "Instagram",
+      "url": "https://en.wikipedia.org/?curid=31591547",
+      "source_type": "wikipedia",
+      "score": 0.5494901150465011,
+      "text": "distinguished by allowing content to be framed only in a square (1:1) aspect ratio of 640 pixels to match the display width of the iPhone at the time. In 2015, this restriction was eased with an increase to 1080 pixels. It also added messaging features, the ability to include multiple images or videos in a single post, and a Stories feature—similar to..."
+    },
+    {
+      "chunk_id": "wikipedia:Privileged#0000",
+      "doc_id": "wikipedia:Privileged",
+      "title": "Privileged",
+      "url": "https://en.wikipedia.org/?curid=18250583",
+      "source_type": "wikipedia",
+      "score": 0.5225349962711334,
+      "text": "Privileged may refer to: Film and television Privileged (TV series), a 2008 US television series Privileged (film), a 1982 Hollywood film Other uses Immunologically privileged site, a body location where immune response to antigens is non-destructive or suppressed Privileged motion, a motion of parliamentary procedure Privileged group, an economics term Privileged pattern, a musical motive, figure, or chord which is repeated and transposed Referring to a season of the Catholic Church's and other Christian churches' liturgical years besides Ordinary Time (Easter, Christmas, Lent, Advent) See also Privilege (disambiguation) All pages with titles beginning with Privileged All pages with titles containing Privileged"
+    },
+    {
+      "chunk_id": "wikipedia:Respect#0001",
+      "doc_id": "wikipedia:Respect",
+      "title": "Respect",
+      "url": "https://en.wikipedia.org/?curid=364338",
+      "source_type": "wikipedia",
+      "score": 0.44743741154670713,
+      "text": ". Such acts may have very different interpretations depending on the cultural context. The end goal is for all people to be treated with respect. Signs and other ways of showing respect Language One definition of respect is a feeling of admiration for someone or something elicited by their abilities, qualities, and achievements. An honorific is a word..."
+    },
+    {
+      "chunk_id": "wikipedia:Position#0001",
+      "doc_id": "wikipedia:Position",
+      "title": "Position",
+      "url": "https://en.wikipedia.org/?curid=268217",
+      "source_type": "wikipedia",
+      "score": 0.44212228059768677,
+      "text": "of beliefs about questions in philosophy Position (finance), commitments in a financial marketplace Social position, the position of an individual in a society and culture Political position within a political spectrum Science and mathematics Position (vector), a mathematical identification of relative location Position in positional..."
+    },
+    {
+      "chunk_id": "wikipedia:Hero#0000",
+      "doc_id": "wikipedia:Hero",
+      "title": "Hero",
+      "url": "https://en.wikipedia.org/?curid=13706",
+      "source_type": "wikipedia",
+      "score": 0.4254757583141327,
+      "text": "A hero (feminine: heroine) is a real person or fictional character who, in the face of danger, combats adversity through feats of ingenuity, courage, or strength. The original hero type of classical epics did such things for the sake of glory and honor. Post-classical and modern heroes, on the other hand, perform great deeds or selfless acts for the common good instead of the classical goal of wealth, pride, and fame. The antonym of hero is villain. Other terms associated with the concept of hero may include good guy or white hat. In classical literature, the hero is the main or revered character in heroic epic poetry celebrated through ancient legends of a people, often striving for military conquest and living by a continually flawed personal honor code. The definition of a hero has changed throughout time. Merriam Webster dictionary defines a hero as \"a person who is admired for great or brave acts or fine qualities\"."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The little girl is crying while she is coloring.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The little girl"
+        ]
+      },
+      "meme_captions": {
+        "text": "The poster is implying the need to downvote certain posts though not happy to do it just like the girl in the picture.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "certain posts",
+          "the girl",
+          "the picture"
+        ]
+      },
+      "title": {
+        "text": "Bound by honor",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "honor",
+          "bound"
+        ]
+      },
+      "text": {
+        "text": "Actually liking the post but have to downvote for 69/420 mt ~s a. me ‘ a fj \\ ' J. \\ SS",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the post",
+          "actually",
+          "liking",
+          "post",
+          "downvote"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "honor",
+      "bound",
+      "the post",
+      "actually",
+      "liking",
+      "post",
+      "downvote"
+    ],
+    "secondary_terms": [
+      "The little girl",
+      "certain posts",
+      "the girl",
+      "the picture"
+    ],
+    "queries": [
+      "\"the post\" \"honor\" \"bound\" \"actually\"",
+      "\"bound\" \"actually\" \"liking\" \"post\""
+    ]
+  },
+  "source_jsonl_id": null
+}

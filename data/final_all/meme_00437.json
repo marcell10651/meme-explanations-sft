@@ -1,0 +1,186 @@
+{
+  "meme_id": "meme_00437",
+  "queries": [
+    "\"People\" \"flower umbrella\" \"the rain\" \"umbrella\" \"flower\"",
+    "\"People\" \"flower umbrella\" \"the rain\" \"two girls\"",
+    "\"the rain\" \"two girls\" \"patterned umbrella\" \"umbrella\""
+  ],
+  "primary_terms": [
+    "umbrella",
+    "flower",
+    "that guy",
+    "flower umbrella",
+    "the rain"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Rain#0000",
+      "doc_id": "wikipedia:Rain",
+      "title": "Rain",
+      "url": "https://en.wikipedia.org/?curid=19009110",
+      "source_type": "wikipedia",
+      "score": 1.103374868631363,
+      "text": "Rain is a form of precipitation where water droplets that have condensed from atmospheric water vapor fall by gravity. Rain is a major component of the water cycle and is responsible for depositing most of the fresh water on the Earth. It provides water for hydroelectric power plants, crop irrigation, and suitable conditions for many types of ecosystems. The major cause of rain production is moisture moving along three-dimensional zones of temperature and moisture contrasts known as weather fronts. If enough moisture and upward motion is present, precipitation falls from convective clouds (those with strong upward vertical motion) such as cumulonimbus (thunder clouds) which can organize into narrow rainbands. In mountainous areas, heavy precipitation is possible where upslope flow is maximized within windward sides of the terrain at elevation which forces moist air to condense and fall out as rainfall along the sides of mountains."
+    },
+    {
+      "chunk_id": "wikipedia:Water#0001",
+      "doc_id": "wikipedia:Water",
+      "title": "Water",
+      "url": "https://en.wikipedia.org/?curid=33306",
+      "source_type": "wikipedia",
+      "score": 0.9774906635284424,
+      "text": "'s triple point, water exists on Earth as a solid, a liquid, and a gas. It forms precipitation in the form of rain and aerosols in the form of fog. Clouds consist of suspended droplets of water and ice, its solid state. When finely divided, crystalline ice may precipitate in the form of snow. The gaseous state of water is steam or water vapor. Water covers about 71.0% of the Earth's surface..."
+    },
+    {
+      "chunk_id": "wikipedia:Point#0001",
+      "doc_id": "wikipedia:Point",
+      "title": "Point",
+      "url": "https://en.wikipedia.org/?curid=48221",
+      "source_type": "wikipedia",
+      "score": 0.7630884200334549,
+      "text": "rainfall in Australia Point (typography) Points, an antler's size by the number of its tips Printer point, an unit of relative exposure in photography Navigation One of the 32 directional points of the compass Point of sail, a sailing craft's direction of travel in relation to wind direction Point, the direction of an object by its..."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0000",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.7012167870998383,
+      "text": "Things or The Things may refer to: Music Things (album), by Uri Caine and Paolo Fresu, 2006 \"Things\" (Bobby Darin song), 1962; covered by Ronnie Dove, 1975 \"Things\", a song by Joe Walsh from There Goes the Neighborhood, 1981 \"Things\", a song by John Cale from HoboSapiens, 2003 \"Things\", a song by Split Enz, 1979 \"Things\", a song by Paul Westerberg from 14 Songs, 1993 \"The Things\", a song by Audio Bullys from Ego War, 2003 Literature Things, a 1914 novel by Alice Duer Miller Things: A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K."
+    },
+    {
+      "chunk_id": "wikipedia:Harold#0000",
+      "doc_id": "wikipedia:Harold",
+      "title": "Harold",
+      "url": "https://en.wikipedia.org/?curid=555297",
+      "source_type": "wikipedia",
+      "score": 0.6357930898666382,
+      "text": "Harold may refer to: People Harold (given name), including a list of persons and fictional characters with the name Harold (surname), surname in the English language András Arató, known in meme culture as \"Hide the Pain Harold\" Arts and entertainment Harold (film), a 2008 comedy film Harold, an 1876 poem by Alfred, Lord Tennyson Harold, the Last of the Saxons, an 1848 book by Edward Bulwer-Lytton, 1st Baron Lytton Harold or the Norman Conquest, an opera by Frederic Cowen Harold, an 1885 opera by Eduard Nápravník Harold, a character from the cartoon The Grim Adventures of Billy & Mandy Harold & Kumar, a US movie; Harold/Harry is the main actor in the show."
+    },
+    {
+      "chunk_id": "wikipedia:Party#0000",
+      "doc_id": "wikipedia:Party",
+      "title": "Party",
+      "url": "https://en.wikipedia.org/?curid=23995",
+      "source_type": "wikipedia",
+      "score": 0.6244525611400604,
+      "text": "A party is a gathering of people who have been invited by a host for the purposes of socializing, conversation, recreation, or as part of a festival or other commemoration or celebration of a special occasion. A party will often feature food and beverages, and generally conversation, music, dancing, or other forms of entertainment. Some parties are held in honor of a specific person, day, or event, such as a birthday party, a Super Bowl party, or a St. Patrick's Day party. Parties of this kind are often called celebrations. A party is not necessarily a private occasion. Public parties are sometimes held in parks, restaurants, pubs, beer gardens, nightclubs, or bars, and people attending such parties may be charged an admission fee by the host. Large parties in public streets may celebrate events such as Mardi Gras or the signing of a peace treaty ending a long war."
+    },
+    {
+      "chunk_id": "wikipedia:Party#0001",
+      "doc_id": "wikipedia:Party",
+      "title": "Party",
+      "url": "https://en.wikipedia.org/?curid=23995",
+      "source_type": "wikipedia",
+      "score": 0.6196182519197464,
+      "text": "admission fee by the host. Large parties in public streets may celebrate events such as Mardi Gras or the signing of a peace treaty ending a long war. Types Balls Banquets Birthday party A birthday party is a celebration of the anniversary of the birth of the person who is being honored. While there is historical precedent for birthday parties for the rich and powerful throughout history, the tradition extended to middle-class Americans around the..."
+    },
+    {
+      "chunk_id": "wikipedia:Disaster#0000",
+      "doc_id": "wikipedia:Disaster",
+      "title": "Disaster",
+      "url": "https://en.wikipedia.org/?curid=8137",
+      "source_type": "wikipedia",
+      "score": 0.5770772844552994,
+      "text": "A disaster is an event that causes such serious harm to people, buildings, economies, or the environment that the affected community cannot handle it alone. The United Nations Office for Disaster Risk Reduction defines a disaster as \"a serious disruption of the functioning of a community or a society at any scale due to hazardous events interacting with conditions of exposure, vulnerability and capacity, leading to one or more of the following: human, material, economic and environmental losses and impacts\". Natural disasters like avalanches, floods, earthquakes, and wildfires are caused by natural hazards. Human-made disasters like oil spills, terrorist attacks and power outages are caused by people. It may be difficult to separate natural and human-made disasters because human actions can make natural disasters worse. Climate change also affects how often disasters due to extreme weather hazards happen."
+    },
+    {
+      "chunk_id": "wikipedia:Some People#0000",
+      "doc_id": "wikipedia:Some People",
+      "title": "Some People",
+      "url": "https://en.wikipedia.org/?curid=38582232",
+      "source_type": "wikipedia",
+      "score": 0.5718581676483154,
+      "text": "Some People may refer to: Some People (film), 1962 Some People, a 1927 novel by Harold Nicolson \"Some People\", song by LeAnn Rimes Music Albums Some People (Jon English album), 1983 Some People (Belouis Some album), 1985 Songs \"Some People\" (Belouis Some song), 1985 \"Some People\" (Cliff Richard song), 1987 \"Some People\" (LeAnn Rimes song), 2006 \"Some People\" (E. G. Daily song), 1989 \"Some People\", by Janis Ian from her 1978 self-titled album \"Some People\", by Fra Lippo Lippi from the 1987 album Light and Shade \"Some People (Ton désir)\", by Ocean Drive, 2009 \"Some People\", by James Reyne from the 1991 album Electric Digger Dandy \"Some People\", from the 1959 musical Gypsy \"Some People\", by Anne-Marie from the deluxe edition of the 2018 album Speak Your Mind \"Some People\", by Goldfrapp from the 2008 album Seventh Tree"
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.5267600417137146,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "People are laughing at a man carrying a floral umbrella.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "People"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is conveying that two girls are criticism for the meme poster carrying flower patterned umbrella.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "two girls",
+          "criticism",
+          "flower",
+          "patterned umbrella"
+        ]
+      },
+      "title": {
+        "text": "Me and flower umbrella.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "umbrella",
+          "flower"
+        ]
+      },
+      "text": {
+        "text": "La Wes + PES) Ayer NG aes \\ \"\" My mother gave Look at that guy's me this because flower umbrella | would get wet in the rain.I love my mom forever.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "that guy",
+          "flower umbrella",
+          "the rain"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "umbrella",
+      "flower",
+      "that guy",
+      "flower umbrella",
+      "the rain"
+    ],
+    "secondary_terms": [
+      "People",
+      "two girls",
+      "criticism",
+      "flower",
+      "patterned umbrella"
+    ],
+    "queries": [
+      "\"People\" \"flower umbrella\" \"the rain\" \"umbrella\" \"flower\"",
+      "\"People\" \"flower umbrella\" \"the rain\" \"two girls\"",
+      "\"the rain\" \"two girls\" \"patterned umbrella\" \"umbrella\""
+    ]
+  },
+  "source_jsonl_id": null
+}

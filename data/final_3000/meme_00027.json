@@ -1,0 +1,197 @@
+{
+  "meme_id": "meme_00027",
+  "queries": [
+    "\"Poor sneks\" \"only two animals\" \"God\" \"Centipede\"",
+    "\"God\" \"Centipede\" \"poor\" \"sneks\""
+  ],
+  "primary_terms": [
+    "Poor sneks",
+    "poor",
+    "sneks",
+    "God",
+    "only two animals",
+    "Centipede"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Centipede#0000",
+      "doc_id": "wikipedia:Centipede",
+      "title": "Centipede",
+      "url": "https://en.wikipedia.org/?curid=186495",
+      "source_type": "wikipedia",
+      "score": 0.8959393262863159,
+      "text": "Centipedes (from Neo-Latin centi-, \"hundred\", and Latin pes, pedis, \"foot\") are predatory arthropods belonging to the class Chilopoda (Ancient Greek χεῖλος, kheilos, \"lip\", and Neo-Latin suffix -poda, \"foot\", describing the forcipules) of the subphylum Myriapoda, an arthropod group which includes millipedes and other multi-legged animals. Centipedes are elongated segmented (metameric) animals with one pair of legs per body segment. All centipedes are venomous and can inflict painful stings, injecting their venom through pincer-like appendages known as forcipules or toxicognaths, which are actually modified legs instead of fangs. Despite the name, no species of centipede has exactly 100 legs; the number of pairs of legs is an odd number that ranges from 15 pairs to 191 pairs. Centipedes are predominantly generalist carnivores, hunting for a variety of prey items that can be overpowered."
+    },
+    {
+      "chunk_id": "wikipedia:Satan#0001",
+      "doc_id": "wikipedia:Satan",
+      "title": "Satan",
+      "url": "https://en.wikipedia.org/?curid=27694",
+      "source_type": "wikipedia",
+      "score": 0.6097136199474334,
+      "text": "from the Zoroastrian figure of Angra Mainyu, the satan developed into a malevolent entity with abhorrent qualities in dualistic opposition to God. In the apocryphal Book of Jubilees, Yahweh grants the satan (referred to as Mastema) authority over a group of fallen angels, or their offspring, to tempt humans to sin and punish them. Although the Book of Genesis does not name him specifically, Christians often identify the serpent in the Garden of Eden as Satan. In the Synoptic..."
+    },
+    {
+      "chunk_id": "wikipedia:Others#0000",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.5678292512893677,
+      "text": "Others or The Others may refer to: Fictional characters Others (A Song of Ice and Fire), supernatural creatures in the fictional world of George R. R. Martin's fantasy series A Song of Ice and Fire Others (Lost), mysterious inhabitants of a strange island in the South Pacific in the television series Lost Others (Night Watch), a fictional group of people with supernatural abilities in Sergey Lukyanenko's Watches novel pentalogy The Others (Vok), a character from the Beast Wars franchise The Others, a reference to Cro-Magnon peoples in Jean M. Auel's Earth's Children series The Others, a group of allies of Aquaman in comics, introduced in 2012 and featured in a 2014 series The Others, the Ancients who have achieved Ascension in the Stargate universe The Others, a series of alien extraterrestrial species from The 5th Wave novels and film Films The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001"
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0000",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.5600922167301178,
+      "text": "Thanos () is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man #55 (cover date February 1973). An Eternal–Deviant warlord from the moon Titan, Thanos is regarded as one of the most powerful beings in the Marvel Universe. Due to his genocidal tendencies, he has clashed with many heroes including the Avengers and the Guardians of the Galaxy. In creating Thanos, Starlin drew inspiration from Jack Kirby's New Gods series for DC Comics, particularly the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified."
+    },
+    {
+      "chunk_id": "wikipedia:Four Horsemen of the Apocalypse#0000",
+      "doc_id": "wikipedia:Four Horsemen of the Apocalypse",
+      "title": "Four Horsemen of the Apocalypse",
+      "url": "https://en.wikipedia.org/?curid=39430",
+      "source_type": "wikipedia",
+      "score": 0.5413459300994873,
+      "text": "The Four Horsemen of the Apocalypse are figures in the Book of Revelation in the New Testament of the Bible, a piece of apocalypse literature attributed to John of Patmos, and generally regarded as dating from about AD 95. Similar allusions are contained in the Old Testament books of Ezekiel and Zechariah, written centuries prior. Though the text only provides a name for the fourth horseman, subsequent commentary often identifies them as personifications of Conquest, War, Famine, and Death. Revelation 6 tells of a book or scroll in God's right hand that is sealed with seven seals. The Lamb of God/Lion of Judah opens the first four of the seven seals, which summons four beings that ride out on white, red, black, and pale horses. All of the horsemen save for Death are portrayed as being human in appearance. In John's revelation the first horseman rides a white horse, carries a bow, and is given a crown as a figure of conquest, perhaps invoking pestilence, or the Antichrist."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0001",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.5294599294662475,
+      "text": "A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K. Le Guin, originally published as \"The End\" in the 1970 anthology Orbit 6, edited by Damon Knight Things, a 1981 picture book by Roger Hargreaves The Things, a 1994 novel by Martyn Godfrey Things, a 1997 novel by Rodman Philbrick and Lynn Harnett, the second installment in the Visitors trilogy \"The Things\" (short story), a 2010 short story by Peter Watts Other uses TheThings, a news website Things (Chill), a 1984 role-playing game supplement Things (film), a 1989 Canadian horror film Things (software), task management software The Things, recurring..."
+    },
+    {
+      "chunk_id": "wikipedia:Shit#0000",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 0.5153733640909195,
+      "text": "Shit is an English-language profanity. As a noun, it refers to fecal matter, and as a verb it means to defecate; in the plural (\"the shits\"), it means diarrhea. Shite is a common variant in British and Irish English. As a slang term, shit has many meanings, including: nonsense, foolishness, something of little value or quality, trivial and usually boastful or inaccurate talk or a contemptible person. It could also be used to refer to any other noun in general or as an expression of annoyance, concern, surprise or anger. Etymology The word is likely derived from Old English, having the nouns scite (dung, attested only in place names) and scitte (diarrhoea) and the verb scītan (to defecate, attested only in bescītan, to cover with excrement); eventually it morphed into Middle English schītte (excrement), schyt (diarrhoea) and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:Hand#0000",
+      "doc_id": "wikipedia:Hand",
+      "title": "Hand",
+      "url": "https://en.wikipedia.org/?curid=19166474",
+      "source_type": "wikipedia",
+      "score": 0.4992162585258484,
+      "text": "A hand is a prehensile, multi-fingered appendage located at the end of the forearm or forelimb of primates such as humans, chimpanzees, monkeys, and lemurs. A few other vertebrates such as the koala (which has two opposable thumbs on each \"hand\" and fingerprints extremely similar to human fingerprints) are often described as having \"hands\" instead of paws on their front limbs. The raccoon is usually described as having \"hands\" though opposable thumbs are lacking. Some evolutionary anatomists use the term hand to refer to the appendage of digits on the forelimb more generally—for example, in the context of whether the three digits of the bird hand involved the same homologous loss of two digits as in the dinosaur hand. The human hand usually has five digits: four fingers plus one thumb; however, these are often referred to collectively as five fingers, whereby the thumb is included as one of the fingers."
+    },
+    {
+      "chunk_id": "wikipedia:Shit#0001",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 0.4650152623653412,
+      "text": "and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire. The word may be further traced to Proto-Germanic *skit-, and ultimately to Proto-Indo-European *skheid- \"cut, separate\", the same root believed to have become the word shed. The word has several cognates in modern..."
+    },
+    {
+      "chunk_id": "wikipedia:Luck#0000",
+      "doc_id": "wikipedia:Luck",
+      "title": "Luck",
+      "url": "https://en.wikipedia.org/?curid=192727",
+      "source_type": "wikipedia",
+      "score": 0.45770177245140076,
+      "text": "Luck is a phenomenon or belief that humans may associate with experiencing improbable events, especially improbably positive or negative events. Philosophical naturalism, eschewing any supernatural explanations, might suggest that positive or negative events may happen at any time (due to both random and non-random natural and artificial processes), and that even improbable events can happen by random chance. In this view, the epithet \"lucky\" or \"unlucky\" is a descriptive label that refers to an event's positivity, negativity, or improbability. Supernatural interpretations of luck consider it to be an attribute of a person or of an object, or the result of a favorable (or unfavorable) view manifested by a deity towards the lucky (or unlucky) person. These interpretations often prescribe how luckiness or unluckiness can be obtained, such as by carrying a lucky charm or offering sacrifices or prayers to a deity."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a boy with an altered face and a white face with round eyes.. the upper picture shows some complaining bitterly while the lower picture shows a person pitying him and feeling overwhelmed",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "round eyes",
+          "the upper picture",
+          "the lower picture",
+          "him"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster thinks it's funny that God would create a creature with thousands of legs and absolutely no legs at all.. The person who wrote the post is saying they don't have any good things to choose from.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "God",
+          "thousands",
+          "legs",
+          "The person",
+          "the post",
+          "any good things"
+        ]
+      },
+      "title": {
+        "text": "Poor sneks",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Poor sneks",
+          "poor",
+          "sneks"
+        ]
+      },
+      "text": {
+        "text": "God: Okay, so there are only two animals left to be created and there are a 100 legs for them to choose fro- Centipede: et eee MAS ° . Wy ~ vn ’ -'@\\KS wry uN a eet a, Me ~ (WK JO lillie SUI gn e Snake: Y <OREAe) ee)",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "God",
+          "only two animals",
+          "Centipede"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Poor sneks",
+      "poor",
+      "sneks",
+      "God",
+      "only two animals",
+      "Centipede"
+    ],
+    "secondary_terms": [
+      "round eyes",
+      "the upper picture",
+      "the lower picture",
+      "him",
+      "God",
+      "thousands",
+      "legs",
+      "The person",
+      "the post",
+      "any good things"
+    ],
+    "queries": [
+      "\"Poor sneks\" \"only two animals\" \"God\" \"Centipede\"",
+      "\"God\" \"Centipede\" \"poor\" \"sneks\""
+    ]
+  },
+  "source_jsonl_id": null
+}

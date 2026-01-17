@@ -1,0 +1,213 @@
+{
+  "meme_id": "meme_06057",
+  "queries": [
+    "\"Conspiracy theorists\" \"Australia\" \"even\" \"exist\"",
+    "\"even\" \"exist\" \"conspiracy\" \"theorists\""
+  ],
+  "primary_terms": [
+    "even",
+    "exist",
+    "Conspiracy theorists",
+    "Australia",
+    "conspiracy",
+    "theorists",
+    "exploding",
+    "doesn",
+    "australian",
+    "contemplating",
+    "existence"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Shit happens#0000",
+      "doc_id": "wikipedia:Shit happens",
+      "title": "Shit happens",
+      "url": "https://en.wikipedia.org/?curid=1176627",
+      "source_type": "wikipedia",
+      "score": 0.9436908304691315,
+      "text": "Shit happens is a slang sentence that is used as a simple existential observation that life is full of unfortunate unpredictable events, similar to \"c'est la vie\". The sentence is an acknowledgment that bad things happen to people seemingly for no particular reason. It can also be said less vulgarly, including phrases such as \"it happens\" or \"stuff happens\". History The fact that people have been remarking that \"shit happens\" has been attested from 1964, when Carl Werthman quoted an example in his UC Berkeley masters thesis; the relevant excerpt was published in The American City (edited by Anselm L. Strauss) in 1968. Examples of usage In 2011, Australian politician Tony Abbott, who was at the time Opposition Leader and leader of the Liberal Party (later becoming Prime Minister), used the sentence in an interview. See also Murphy's law – Adage that anything that can go wrong will go wrong Butterfly effect – Idea that small causes can have large effects References External links"
+    },
+    {
+      "chunk_id": "wikipedia:Success#0001",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.703961706161499,
+      "text": "a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness. It may also be difficult or impossible to ascertain whether a situation meets criteria for success or failure due to ambiguous or ill-defined definition of those criteria. Finding useful and effective criteria, or heuristics, to judge the failure or success of a situation may itself be a significant task. In American culture DeVitis and Rich link the..."
+    },
+    {
+      "chunk_id": "wikipedia:Everything#0000",
+      "doc_id": "wikipedia:Everything",
+      "title": "Everything",
+      "url": "https://en.wikipedia.org/?curid=17181902",
+      "source_type": "wikipedia",
+      "score": 0.6756950080394745,
+      "text": "Everything, every-thing, or every thing, is all that exists; it is an antithesis (opposite) of nothing, and its complement. It is the totality of things relevant to some subject matter. The universe is everything that exists theoretically, though a multiverse may exist according to theoretical cosmology predictions. It may refer to an anthropocentric worldview, or the sum of human experience, history, and the human condition in general. Every object and entity is a part of everything, including all physical bodies and in some cases all abstract objects. To describe or know of everything as a spatial consideration in a local environment, such as the world in which humans mostly live, is possible. The detemination of all things in the universe is unknown because of the physics beyond the observed universe and the problem of knowing physics at the range infinite."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.6559988021850586,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Even#0001",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.5969828844070435,
+      "text": "an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even (band), an Australian alternative rock band \"Even\", a song by Chris Brown from his 2017 album Heartbreak on a Full Moon Even Hotels, one of brands of IHG Hotels & Resorts See also Evens..."
+    },
+    {
+      "chunk_id": "wikipedia:Australia#0000",
+      "doc_id": "wikipedia:Australia",
+      "title": "Australia",
+      "url": "https://en.wikipedia.org/?curid=4689264",
+      "source_type": "wikipedia",
+      "score": 0.5757764101028442,
+      "text": "Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. It has a total area of 7,688,287 km2 (2,968,464 sq mi), making it the sixth-largest country in the world and the largest in Oceania. Australia is the world's flattest and driest inhabited continent. It is a megadiverse country, and its size gives it a wide variety of landscapes and climates including deserts in the interior and tropical rainforests along the coast. The ancestors of Aboriginal Australians began arriving from Southeast Asia 50,000 to 65,000 years ago, during the Last Glacial Period. By the time of British settlement, Aboriginal Australians spoke more than 250 distinct languages and had one of the oldest living cultures in the world. Australia's written history commenced with Dutch exploration of most of the coastline in the 17th century."
+    },
+    {
+      "chunk_id": "wikipedia:Success#0000",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.5659456461668014,
+      "text": "Success is the state or condition of meeting a defined range of expectations. It may be viewed as the opposite of failure. The criteria for success depend on context, and may be relative to a particular observer or belief system. One person might consider a success what another person considers a failure, particularly in cases of direct competition or a zero-sum game. Similarly, the degree of success or failure in a situation may be differently viewed by distinct observers or participants, such that a situation that one considers to be a success, another might consider to be a failure, a qualified success or a neutral situation. For example, a film that is a commercial failure or even a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0001",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.5574412941932678,
+      "text": "Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing. While the game was initially released in 2018 to little mainstream attention, it received a massive rise in popularity in 2020 due to many Twitch streamers and YouTubers playing it during the COVID-19 pandemic..."
+    },
+    {
+      "chunk_id": "wikipedia:Terror#0000",
+      "doc_id": "wikipedia:Terror",
+      "title": "Terror",
+      "url": "https://en.wikipedia.org/?curid=54662",
+      "source_type": "wikipedia",
+      "score": 0.5435517638921737,
+      "text": "Terror(s) or The Terror may refer to: Politics Terrorism, the use of violence against non-combatants to achieve political or ideological aims Reign of Terror, commonly known as The Terror, a period of violence (1793–1794) after the onset of the French Revolution Terror (politics), a policy of political repression and violence The Terror (Karlovo massacre), a massacre of Bulgarian civilians in Karlovo, followed by police and legal repression in the second half of 1878 The Great Purge in the 1930s Soviet Union is also known as the \"Great Terror\" or \"The Terror\" Emotions An extreme form of fear, the emotional response to a threat or danger Angst, a form of anxiety or fear described in existentialist philosophy Anxiety, a sense of dread Panic, a sudden overwhelming fear Arts, entertainment and media Fictional entities Terror (Marvel Comics), a Marvel Comics character Terror (New England Comics), a supervillain Terror, a land/sea/airship in Jules Verne's novel Master of the World Film The"
+    },
+    {
+      "chunk_id": "wikipedia:Qantas#0001",
+      "doc_id": "wikipedia:Qantas",
+      "title": "Qantas",
+      "url": "https://en.wikipedia.org/?curid=25254",
+      "source_type": "wikipedia",
+      "score": 0.5431285917758941,
+      "text": "served Queensland and the Northern Territory. Since then, the company has undergone several changes, including nationalisation and privatisation. It is popularly nicknamed \"The Flying Kangaroo\" and has the official slogan \"Spirit of Australia\". Qantas is based in the Sydney suburb of Mascot, adjacent to its main hub at Sydney Airport. As of March 2023, Qantas Group had a 60.8% share of the Australian domestic market. Various..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The man's hand is on his chin.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The man's hand",
+          "his chin"
+        ]
+      },
+      "meme_captions": {
+        "text": "Apparently some conspiracy theorists think Australia doesn't exist so a man from Australia is making fun of how ridiculous that is.. Meme poster is conveying that Australian wonders how conspiracy theorists debate whether it exists.. Being an Australian, the meme poster can't express the fact to the people who doesn't accept Australia to be exists. Meme poster thinks those that deny the existence of a whole continent are not correct.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "some conspiracy theorists",
+          "Australia",
+          "fun",
+          "conspiracy theorists",
+          "the fact",
+          "the people",
+          "exists",
+          "the existence"
+        ]
+      },
+      "title": {
+        "text": "Do I even exist?",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "even",
+          "exist"
+        ]
+      },
+      "text": {
+        "text": "Conspiracy theorists exploding how Australia doesn’t exist: Me, an Australian contemplating my existence: ( a",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Conspiracy theorists",
+          "Australia",
+          "conspiracy",
+          "theorists",
+          "exploding",
+          "doesn",
+          "exist",
+          "australian",
+          "contemplating",
+          "existence"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "even",
+      "exist",
+      "Conspiracy theorists",
+      "Australia",
+      "conspiracy",
+      "theorists",
+      "exploding",
+      "doesn",
+      "australian",
+      "contemplating",
+      "existence"
+    ],
+    "secondary_terms": [
+      "The man's hand",
+      "his chin",
+      "some conspiracy theorists",
+      "Australia",
+      "fun",
+      "conspiracy theorists",
+      "the fact",
+      "the people",
+      "exists",
+      "the existence"
+    ],
+    "queries": [
+      "\"Conspiracy theorists\" \"Australia\" \"even\" \"exist\"",
+      "\"even\" \"exist\" \"conspiracy\" \"theorists\""
+    ]
+  },
+  "source_jsonl_id": null
+}

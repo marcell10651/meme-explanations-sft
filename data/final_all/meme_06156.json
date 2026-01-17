@@ -1,0 +1,232 @@
+{
+  "meme_id": "meme_06156",
+  "queries": [
+    "\"The ski\" \"Bank robbers\" \"the ski mask\" \"came\"",
+    "\"the ski mask\" \"came\" \"first\" \"ski\""
+  ],
+  "primary_terms": [
+    "The ski",
+    "the ski mask",
+    "came",
+    "first",
+    "ski",
+    "mask",
+    "Bank robbers",
+    "bank",
+    "robbers",
+    "after",
+    "inventing",
+    "skiing",
+    "foe",
+    "pie",
+    "pao",
+    "set",
+    "fafa",
+    "leg",
+    "mie"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Mask#0000",
+      "doc_id": "wikipedia:Mask",
+      "title": "Mask",
+      "url": "https://en.wikipedia.org/?curid=247083",
+      "source_type": "wikipedia",
+      "score": 0.8762156426906585,
+      "text": "A mask is an object normally worn on the face, typically for protection, disguise, performance, or entertainment, and often employed for rituals and rites. Masks have been used since antiquity for both ceremonial and practical purposes, as well as in the performing arts and for entertainment. They are usually worn on the face, although they may also be positioned for effect elsewhere on the wearer's body. In art history, especially sculpture, \"mask\" is the term for a face without a body that is not modelled in the round (which would make it a \"head\"), but for example appears in low relief. Etymology The word \"mask\" appeared in English in the 1530s, from Middle French masque \"covering to hide or guard the face\", derived in turn from Italian maschera, from Medieval Latin masca \"mask, specter, nightmare\". This word is of uncertain origin, perhaps from Arabic maskharah مَسْخَرَۃٌ \"buffoon\", from the verb sakhira \"to ridicule\"."
+    },
+    {
+      "chunk_id": "wikipedia:Tony#0001",
+      "doc_id": "wikipedia:Tony",
+      "title": "Tony",
+      "url": "https://en.wikipedia.org/?curid=264960",
+      "source_type": "wikipedia",
+      "score": 0.7018435418605804,
+      "text": "thriller film \"Tony\" (Skins series 1), the first episode of British comedy-drama Skins \"Tony\" (Skins series 2), episode six of the second series of Skins Music Tony T., stage name of British singer, rapper and DJ Neal Antone Dyer (born 1971) Tony (album), a 1957 album by Tony Bennett \"T.O.N.Y. (Top of New York)\", a 1997 single..."
+    },
+    {
+      "chunk_id": "wikipedia:Trick#0001",
+      "doc_id": "wikipedia:Trick",
+      "title": "Trick",
+      "url": "https://en.wikipedia.org/?curid=274735",
+      "source_type": "wikipedia",
+      "score": 0.6865830779075622,
+      "text": "Andrzej Jakimowski Trick (2010 film), Polish film by Jan Hryniak Trick (2019 film), American Halloween-themed horror film The Trick (film), a 2021 BBC film about the Climatic Research Unit email controversy Literature Trick (novel), a 2015 novel by Natalia Jaster Tricks, a 1979 chronicle of homosexual encounters by Renaud Camus Tricks..."
+    },
+    {
+      "chunk_id": "wikipedia:Sneaky Pete#0000",
+      "doc_id": "wikipedia:Sneaky Pete",
+      "title": "Sneaky Pete",
+      "url": "https://en.wikipedia.org/?curid=47942695",
+      "source_type": "wikipedia",
+      "score": 0.6187942892313003,
+      "text": "Sneaky Pete is an American comedy crime drama television series created by David Shore and Bryan Cranston. The series follows Marius Josipović (Giovanni Ribisi), a released convict who adopts the identity of his cellmate, Pete Murphy, to avoid his past life. The series also stars Marin Ireland, Shane McRae, Libe Barer, Michael Drayer, Peter Gerety and Margo Martindale. The pilot episode premiered on August 7, 2015, and was followed by a full series order that September. Shore left the project in early 2016 and was replaced by Graham Yost, who served as executive producer and showrunner for the remaining nine episodes. The first season premiered in its entirety on January 13, 2017, exclusively on Amazon Prime Video. On January 19, 2017, Amazon announced that Sneaky Pete had been renewed for a second season, which was released on March 9, 2018. On July 28, 2018, Amazon announced that the series had been renewed for a third season, which was released on May 10, 2019."
+    },
+    {
+      "chunk_id": "wikipedia:New Shoes#0000",
+      "doc_id": "wikipedia:New Shoes",
+      "title": "New Shoes",
+      "url": "https://en.wikipedia.org/?curid=10317022",
+      "source_type": "wikipedia",
+      "score": 0.5973027765750885,
+      "text": "\"New Shoes\" is a song by Scottish singer-songwriter Paolo Nutini, released as the fourth single from debut album, These Streets. It was used as the headlining single for the US release of the album. The song peaked at number 21 on the UK Singles Chart, number eight on the US Billboard Bubbling Under Hot 100 chart, and number one on the Billboard Triple A chart. The song was used for a 2007 international ad campaign by Puma AG. Charts Weekly charts Year-end charts Certifications Cover versions Lena Meyer-Landrut covered this song on some editions of her album My Cassette Player. A live version is found on the platinum edition of her album Good News and on her DVD \"Good News Live\". References"
+    },
+    {
+      "chunk_id": "wikipedia:Rost#0001",
+      "doc_id": "wikipedia:Rost",
+      "title": "Rost",
+      "url": "https://en.wikipedia.org/?curid=16503566",
+      "source_type": "wikipedia",
+      "score": 0.5748210161924362,
+      "text": "1962), a Hungarian lyric soprano Burkhard Rost (born 1961), a German scientist - computational biologists Christina Rost (born 1952), a German former women's team handball player Clarence Rost (1914–2008), a former Canadian professional ice hockey player Erik Rost (born 1985), a Swedish ski-orienteering competitor Frank Rost..."
+    },
+    {
+      "chunk_id": "wikipedia:Suit#0000",
+      "doc_id": "wikipedia:Suit",
+      "title": "Suit",
+      "url": "https://en.wikipedia.org/?curid=339784",
+      "source_type": "wikipedia",
+      "score": 0.5701460927724838,
+      "text": "A suit, also called a lounge suit, business suit, dress suit, or formal suit, is a set of clothes comprising a suit jacket and trousers of identical textiles generally worn with a collared dress shirt, necktie, and dress shoes. A skirt suit is similar, but with a matching pencil skirt instead of trousers. It is currently considered semi-formal wear or business wear in contemporary Western dress codes; however, when the suit was originally developed it was considered an informal or more casual option compared to the prevailing clothing standards of aristocrats and businessmen. The lounge suit originated in 19th-century Britain as sportswear and British country clothing, which is why it was seen as more casual than citywear at that time, with the roots of the suit coming from early modern Western Europe formal court or military clothes. After replacing the black frock coat in the early 20th century as regular daywear, a sober one-coloured suit became known as a lounge suit."
+    },
+    {
+      "chunk_id": "wikipedia:Trick#0000",
+      "doc_id": "wikipedia:Trick",
+      "title": "Trick",
+      "url": "https://en.wikipedia.org/?curid=274735",
+      "source_type": "wikipedia",
+      "score": 0.5558952450752258,
+      "text": "Trick(s) may refer to: People Trick McSorley (1852–1936), American professional baseball player Armon Trick (born 1978), retired German international rugby union player David Trick (born 1955), former Ontario civil servant and university administrator Marcus Trick (born 1977), retired German international rugby union player Stanley Arthur Trick (1884–1958), English cricketer for Essex Stephanie Trick (born 1987), American stride, ragtime and jazz pianist Trick Daddy (born 1974), American rapper and producer Trick-Trick (born 1973), Detroit rapper Junaid Hussain (1994–2015), British hacker and propagandist who used the alias TriCk Arts, entertainment, and media Films Tricks (1925 film), American silent film Trick (1999 film), American gay romantic-comedy Tricks (1997 film), TV movie; see Jay Friedkin Tricks (2007 film), Polish film by Andrzej Jakimowski Trick (2010 film), Polish film by Jan Hryniak Trick (2019 film), American Halloween-themed horror film The Trick (film), a 2021 BBC"
+    },
+    {
+      "chunk_id": "wikipedia:Sneaky Pete#0001",
+      "doc_id": "wikipedia:Sneaky Pete",
+      "title": "Sneaky Pete",
+      "url": "https://en.wikipedia.org/?curid=47942695",
+      "source_type": "wikipedia",
+      "score": 0.5422502219676971,
+      "text": "released on March 9, 2018. On July 28, 2018, Amazon announced that the series had been renewed for a third season, which was released on May 10, 2019. On June 4, 2019, Amazon cancelled the series after three seasons. Premise Sneaky Pete follows Marius, a con man who gets out of prison only to find himself hunted by the vicious gangster he once robbed. With nowhere..."
+    },
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0001",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.5422320276498794,
+      "text": "What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help. Early episodes featured both men and women; however, as the men's transformations did not prove to be as remarkable, all later episodes featured women exclusively. Some episodes featured both the nominee and the nominator being..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man in a ski mask is sleeping on a pile of money",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "money"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey how did bank robbers do their job before ski masks.. The meme poster mocks Bank robbers after inventing the skiing.. Meme poster thinks bank robber use ski equipment to commit crimes.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "bank robbers",
+          "their job",
+          "ski masks",
+          "the skiing",
+          "bank robber",
+          "ski equipment",
+          "crimes"
+        ]
+      },
+      "title": {
+        "text": "What came first? The ski or the ski mask?",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The ski",
+          "the ski mask",
+          "came",
+          "first",
+          "ski",
+          "mask"
+        ]
+      },
+      "text": {
+        "text": "Bank robbers after inventing skiing FOE OF ea Na pie Se Pao fa | = set (i [92 fafa leg mie” - SN",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Bank robbers",
+          "bank",
+          "robbers",
+          "after",
+          "inventing",
+          "skiing",
+          "foe",
+          "pie",
+          "pao",
+          "set",
+          "fafa",
+          "leg",
+          "mie"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "The ski",
+      "the ski mask",
+      "came",
+      "first",
+      "ski",
+      "mask",
+      "Bank robbers",
+      "bank",
+      "robbers",
+      "after",
+      "inventing",
+      "skiing",
+      "foe",
+      "pie",
+      "pao",
+      "set",
+      "fafa",
+      "leg",
+      "mie"
+    ],
+    "secondary_terms": [
+      "money",
+      "bank robbers",
+      "their job",
+      "ski masks",
+      "the skiing",
+      "bank robber",
+      "ski equipment",
+      "crimes"
+    ],
+    "queries": [
+      "\"The ski\" \"Bank robbers\" \"the ski mask\" \"came\"",
+      "\"the ski mask\" \"came\" \"first\" \"ski\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_00349",
+  "queries": [
+    "\"Mom\" \"later\" \"got\" \"bendy\"",
+    "\"got\" \"bendy\" \"boi\" \"school\""
+  ],
+  "primary_terms": [
+    "later",
+    "got",
+    "bendy",
+    "boi",
+    "school",
+    "Mom",
+    "class"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0000",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.6963932275772095,
+      "text": "I Want to Know Your Parents (Korean: 니 부모 얼굴이 보고 싶다; RR: ni bumo eolguri bogo sipda; lit. 'I Want to See Your Parents' Faces') is a 2022 South Korean mystery thriller film directed by Kim Ji-hoon and written by Gim Gyung-mi. Based on a Japanese theatrical play Oya no Kao ga Mitai by Seigo Hatasawa, the film stars Sul Kyung-gu, Chun Woo-hee, Moon So-ri, Oh Dal-su and Ko Chang-seok. It was released theatrically on April 27, 2022. Plot Lawyer Kang Ho-chang receives a call to from his son's teacher Song Jeong-wook to come to Haneum International School, where he meets four other parents: math teacher Jung, retired police officer Park Mu-Taek and his wife, and doctor Do Ji-yeol. The school's principal informs them that one of the students, Kim Gon-woo, was rescued from drowning in a lake. Jeong-wook reveals that the boy, now in a comatose state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son."
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.6766915082931518,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:Friendly#0000",
+      "doc_id": "wikipedia:Friendly",
+      "title": "Friendly",
+      "url": "https://en.wikipedia.org/?curid=466246",
+      "source_type": "wikipedia",
+      "score": 0.5911899268627167,
+      "text": "Friendly may refer to: Places Friendly, West Yorkshire, England, a settlement Friendly, Maryland, United States, an unincorporated community and census-designated place Friendly, Eugene, Oregon, United States, a neighborhood Friendly, West Virginia, United States, a town Friendly Islands or Tonga People Friendly (surname) Friendly (musician), Australian-born musician Andrew Kornweibel (fl. 1998–?) Other uses Friendly (sport), a game of association football or bandy that has no consequence in a wider competition Friendly's, an American restaurant chain Friendly Center, a shopping mall in Greensboro, North Carolina, United States Friendly Hall, a building on the University of Oregon campus Friendly High School, a public high school in Fort Washington, Maryland, United States Henry J."
+    },
+    {
+      "chunk_id": "wikipedia:Thin Lizzy#0001",
+      "doc_id": "wikipedia:Thin Lizzy",
+      "title": "Thin Lizzy",
+      "url": "https://en.wikipedia.org/?curid=166705",
+      "source_type": "wikipedia",
+      "score": 0.5874607026576996,
+      "text": "Boys Are Back in Town\" (1976) and \"Waiting for an Alibi\" (1979) were international hits, and several Thin Lizzy albums reached the top ten in the UK. The band's music reflects a wide range of influences including blues, soul music, psychedelic rock, and traditional Irish folk music, but is generally classified as hard rock or sometimes heavy metal. Lynott led the group throughout their fourteen-year recording career of..."
+    },
+    {
+      "chunk_id": "wikipedia:Easy#0001",
+      "doc_id": "wikipedia:Easy",
+      "title": "Easy",
+      "url": "https://en.wikipedia.org/?curid=7445591",
+      "source_type": "wikipedia",
+      "score": 0.5734215974807739,
+      "text": "song), 2010 \"Easy\" (Ice MC song), 1989 \"Easy\" (Jvke song), 2025 \"Easy\" (KSI, Bugzy Malone and R3hab song), 2023 \"Easy\" (Le Sserafim song), 2024 \"Easy\" (Mat Zo and Porter Robinson song), 2013 \"Easy\" (Pale Waves song), 2021 \"Easy\" (Paula DeAnda song), 2007 \"Easy\" (Rascal Flatts song), featuring Natasha Bedingfield, 2011..."
+    },
+    {
+      "chunk_id": "wikipedia:SpongeBob SquarePants#0001",
+      "doc_id": "wikipedia:SpongeBob SquarePants",
+      "title": "SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/?curid=2655089",
+      "source_type": "wikipedia",
+      "score": 0.562179958820343,
+      "text": "to Nickelodeon. The network's executives wanted SpongeBob to be a child in school, but Hillenburg preferred SpongeBob to be an adult character. He was prepared to abandon the series, but compromised by creating a boating school so SpongeBob could attend school as an adult. SpongeBob SquarePants received widespread critical acclaim in its early years, with praise given to its characters, surreal humor..."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.547333350777626,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:Normal People#0001",
+      "doc_id": "wikipedia:Normal People",
+      "title": "Normal People",
+      "url": "https://en.wikipedia.org/?curid=59041422",
+      "source_type": "wikipedia",
+      "score": 0.5355362623929978,
+      "text": "in County Sligo, Ireland, and, later, Trinity College Dublin (TCD). It is set during the post-2008 Irish economic downturn, from 2011 through 2015. Connell is a popular, handsome, and highly intelligent secondary school student raised by a working-class single mother. Marianne is also highly intelligent but is considered intimidating and a social outcast at their school..."
+    },
+    {
+      "chunk_id": "wikipedia:Cool#0001",
+      "doc_id": "wikipedia:Cool",
+      "title": "Cool",
+      "url": "https://en.wikipedia.org/?curid=4175379",
+      "source_type": "wikipedia",
+      "score": 0.5330662488937378,
+      "text": "Cool\" (Dua Lipa song) (2020) \"Cool\" (Gwen Stefani song) (2005) \"Cool\" (The Time song) (1981), later covered by Snoop Dogg and Prince \"Cool\" (West Side Story song) (1957) \"Cool\", a 2011 song by Jason Blaine from Life So Far \"Cool\", a 2018 song by Felix Jaehn, featuring Marc E. Bassy and Gucci Mane, from I (Felix Jaehn..."
+    },
+    {
+      "chunk_id": "wikipedia:Bad Luck Brian#0000",
+      "doc_id": "wikipedia:Bad Luck Brian",
+      "title": "Bad Luck Brian",
+      "url": "https://en.wikipedia.org/?curid=44976515",
+      "source_type": "wikipedia",
+      "score": 0.518904647231102,
+      "text": "Kyle Edward Craven (born August 10, 1989), commonly known by his Internet nickname \"Bad Luck Brian\", is an American Internet celebrity known for his photo which was posted on Reddit in 2012, which quickly became a popular Internet meme. Bad Luck Brian is an image macro style of meme. His captions describe a variety of unlucky, embarrassing and tragic events. Meme Origin On January 23, 2012, at 2:15 UTC, Ian Davies uploaded a photo to Reddit of his friend Kyle Craven. Craven and Davies both attended Archbishop Hoban High School in Akron, Ohio. The photo which became Bad Luck Brian was originally taken for the high school's 2005–06 yearbook. Craven stated that he rubbed his face with a sweater to redden it and donned a goofy smile. The school principal required him to retake the photo, but Craven and Davies had already scanned and saved the original picture."
+    }
+  ]
+}

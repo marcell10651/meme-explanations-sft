@@ -1,0 +1,192 @@
+{
+  "meme_id": "meme_00010",
+  "queries": [
+    "\"Rad\" \"name\" \"calls\" \"cat\"",
+    "\"calls\" \"cat\" \"doesn\" \"give\""
+  ],
+  "primary_terms": [
+    "name",
+    "Rad",
+    "calls",
+    "cat",
+    "doesn",
+    "give",
+    "fuck",
+    "shit",
+    "mag",
+    "say"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Call#0000",
+      "doc_id": "wikipedia:Call",
+      "title": "Call",
+      "url": "https://en.wikipedia.org/?curid=40829",
+      "source_type": "wikipedia",
+      "score": 0.8896423697471618,
+      "text": "Call or Calls may refer to: Arts, entertainment, and media Games Call (poker), a bet matching an opponent's Call, in the game of contract bridge, a bid, pass, double, or redouble in the bidding stage Music and dance Call (band), from Lahore, Pakistan Call, a command in square dancing, delivered by a caller \"Call / I4U\", a 2011 single by Japanese music group AAA \"Call\", a 2002 song by Ashanti from her album Ashanti \"Call\" (Stray Kids song), 2021 Film Call (film), or The Call, 2020 South Korean film Calls (film), 2021 Indian Tamil-language crime thriller film Television Calls (TV series), a mystery thriller TV series on Apple TV+ Finance Call on shares, a request for a further payment on partly paid share capital Call option, a term in stock trading Places Call, North Carolina, United States Call, Texas, United States Science and technology Computing Call, a shell command in DOS, OS/2 and Microsoft Windows command-line interpreters Call, a method of invoking a subroutine, including"
+    },
+    {
+      "chunk_id": "wikipedia:Name#0000",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.7477945566177369,
+      "text": "A name is a term used for identification by an external observer. They can identify a class or category of things, or a single thing, either uniquely, or within a given context. The entity identified by a name is called its referent. A personal name identifies, not necessarily uniquely, a specific individual human. The name of a specific entity is sometimes called a proper name (although that term has a philosophical meaning as well) and is, when consisting of only one word, a proper noun. Other nouns are sometimes called \"common names\" or (obsolete) \"general names\". A name can be given to a person, place, or thing; for example, parents can give their child a name or a scientist can give an element a name. Etymology The word name comes from Old English nama; cognate with Old High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥."
+    },
+    {
+      "chunk_id": "wikipedia:Donald#0000",
+      "doc_id": "wikipedia:Donald",
+      "title": "Donald",
+      "url": "https://en.wikipedia.org/?curid=793569",
+      "source_type": "wikipedia",
+      "score": 0.6667307138442993,
+      "text": "Donald is a Scottish masculine given name. It is derived from the Gaelic name Dòmhnall. This comes from the Proto-Celtic *Dumno-ualos (\"world-ruler\" or \"world-wielder\"). The final -d in Donald is partly derived from a misinterpretation of the Gaelic pronunciation by English speakers. A short form of Donald is Don, and pet forms of Donald include Donnie and Donny. The feminine given name Donella is derived from Donald. Donald has cognates in other Celtic languages: Modern Irish Dónal (anglicised as Donal and Donall); Scottish Gaelic Dòmhnall, Domhnull and Dòmhnull; Welsh Dyfnwal and Cumbric Dumnagual. Although the feminine given name Donna is sometimes used as a feminine form of Donald, the names are not etymologically related."
+    },
+    {
+      "chunk_id": "wikipedia:Feline#0000",
+      "doc_id": "wikipedia:Feline",
+      "title": "Feline",
+      "url": "https://en.wikipedia.org/?curid=45339",
+      "source_type": "wikipedia",
+      "score": 0.6656578540802002,
+      "text": "Feline may refer to: Zoology Loosely, Felidae, a member of the cat family, which includes the subfamilies Pantherinae and Felinae (conventionally designated a felid). Following the taxonomic convention, Felinae, the subfamily of Felidae that includes domestic cats and smaller wild cats. Cat, the domesticated feline. Music Feline (band), a late-1990s London-based English rock group. Feline (The Stranglers album), 1983. Feline (1998 album), the self-titled album by Feline, expanded release of Save Your Face. Feline (Ella Eyre album) (2015), the debut studio album by Ella Eyre. Feline (song), a song on Delta Goodrem's 2016 album Wings of the Wild. \"Feline\", a song by the Cat Empire Comics Feline (comics), a fictional character from the Malibu comics line. See also FÉLIN, a French infantry combat system Félines (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Tell#0000",
+      "doc_id": "wikipedia:Tell",
+      "title": "Tell",
+      "url": "https://en.wikipedia.org/?curid=4638647",
+      "source_type": "wikipedia",
+      "score": 0.5338003814220429,
+      "text": "Tell may refer to: Tell (archaeology), a type of archaeological site Tell (name), a name used as a given name and a surname Tell (poker), a subconscious behavior that can betray information to an observant opponent Arts, entertainment, and media Tell (2012 film), a short psychological horror film by Ryan Connolly Tell (2014 film), a crime thriller starring Katee Sackhoff, Jason Lee and Milo Ventimiglia Tell Magazine, a Nigerian newsweekly \"The Tell\", an episode of NCIS \"The Tell\" (Teen Wolf), a television episode The Tell, a photomural, part of the Laguna Canyon Project Places Middle East Tel Aviv, Israel Et-Tell, an archaeological site identified with Bethsaida Tell, West Bank, a Palestinian village near Nablus Ancient Tell, Beirut, Lebanon; the Canaanite pre-Phoenician era of Beirut and archaeological site United States Tell, Texas, unincorporated community in the United States Tell, Wisconsin, town in the United States Tell City, Indiana, township in the United States Tell"
+    },
+    {
+      "chunk_id": "wikipedia:Charmer#0001",
+      "doc_id": "wikipedia:Charmer",
+      "title": "Charmer",
+      "url": "https://en.wikipedia.org/?curid=40421866",
+      "source_type": "wikipedia",
+      "score": 0.5094898402690887,
+      "text": "2007 \"Charmer\" (N-Dubz song), 2022 Other uses Charmer (folklore), English practitioners of a specific kind of folk magic Charmers, comic strip by Hallmark Cards (1975–1981) See also Charm (disambiguation) Snake charmer (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Sapera#0000",
+      "doc_id": "wikipedia:Sapera",
+      "title": "Sapera",
+      "url": "https://en.wikipedia.org/?curid=13221875",
+      "source_type": "wikipedia",
+      "score": 0.5067912071943284,
+      "text": "Sapera is a name given to the snake charmers of India. Since the introduction of the Wildlife Protection Act of 1972 the Sapera's numbers have been dwindling - what was in the thousands is now limited to only a few hundred. Their professions and their religion are slowly being 'phased out' by a law that was put in place to stop the illegal skin/fur trade. Many Sapera practice their trade/snake handling based upon their following of the God Shiva - depicted with a Cobra. Most of the saperas are found to be in Dehradun, Uttarakhand north part of India. But some saperas are also to be found in some parts of Bihar where they doing business from unstable places, moving here and there, and show their talents with 'saanp' snakes and earn some money. See also Kalbelia Jogi sect External links Shuvani"
+    },
+    {
+      "chunk_id": "wikipedia:TEED#0001",
+      "doc_id": "wikipedia:TEED",
+      "title": "TEED",
+      "url": "https://en.wikipedia.org/?curid=36589190",
+      "source_type": "wikipedia",
+      "score": 0.495727288722992,
+      "text": "gets hip for six months and then falls out of fashion.\" Musical career On 11 June 2012, TEED's debut album Trouble was released by Polydor Records. The album was well received, with favourable reviews from several well-respected music publications including the NME (\"One of the UK's most exciting young producers\"), Pitchfork and the BBC. Trouble was named by iTunes UK as their 'Debut Electronic album of the year', it was DJ Magazine's..."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.49319465756416325,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:Shit#0000",
+      "doc_id": "wikipedia:Shit",
+      "title": "Shit",
+      "url": "https://en.wikipedia.org/?curid=38221",
+      "source_type": "wikipedia",
+      "score": 0.4755321323871613,
+      "text": "Shit is an English-language profanity. As a noun, it refers to fecal matter, and as a verb it means to defecate; in the plural (\"the shits\"), it means diarrhea. Shite is a common variant in British and Irish English. As a slang term, shit has many meanings, including: nonsense, foolishness, something of little value or quality, trivial and usually boastful or inaccurate talk or a contemptible person. It could also be used to refer to any other noun in general or as an expression of annoyance, concern, surprise or anger. Etymology The word is likely derived from Old English, having the nouns scite (dung, attested only in place names) and scitte (diarrhoea) and the verb scītan (to defecate, attested only in bescītan, to cover with excrement); eventually it morphed into Middle English schītte (excrement), schyt (diarrhoea) and shiten (to defecate), and it is virtually certain that it was used in some form by preliterate Germanic tribes at the time of the Roman Empire."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is excitedly talking on the phone.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the phone"
+        ]
+      },
+      "meme_captions": {
+        "text": "The cat doesn't come unless you whisper random sounds to it.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The cat"
+        ]
+      },
+      "title": {
+        "text": "It do be like that",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "text": {
+        "text": "Me: *Calls my cat by name* My cat: *doesn’‘t give a fuck* Me: pspspsps My cat: | Be Eo BSG ae me . ~ SN} \\ Shit MaG)FO, thetts you Rad to say",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "name",
+          "Rad",
+          "calls",
+          "cat",
+          "doesn",
+          "give",
+          "fuck",
+          "shit",
+          "mag",
+          "say"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "name",
+      "Rad",
+      "calls",
+      "cat",
+      "doesn",
+      "give",
+      "fuck",
+      "shit",
+      "mag",
+      "say"
+    ],
+    "secondary_terms": [
+      "the phone",
+      "The cat"
+    ],
+    "queries": [
+      "\"Rad\" \"name\" \"calls\" \"cat\"",
+      "\"calls\" \"cat\" \"doesn\" \"give\""
+    ]
+  },
+  "source_jsonl_id": null
+}

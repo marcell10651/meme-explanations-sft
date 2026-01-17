@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_00519",
+  "queries": [
+    "\"Americans\" \"built\" \"different\" \"epad\"",
+    "\"different\" \"epad\" \"can\" \"drink\""
+  ],
+  "primary_terms": [
+    "built",
+    "different",
+    "Americans",
+    "epad",
+    "can",
+    "drink",
+    "sorry",
+    "dad",
+    "only",
+    "germans"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Different#0000",
+      "doc_id": "wikipedia:Different",
+      "title": "Different",
+      "url": "https://en.wikipedia.org/?curid=1826536",
+      "source_type": "wikipedia",
+      "score": 0.7954975634813308,
+      "text": "Different may refer to: Music Albums Different (Kate Ryan album), 2002 Different (Thomas Anders album), 1989 Different, an EP (2016) and album (2017) by Micah Tyler, or the title song Songs \"Different\" (Band-Maid song), 2020 \"Different\" (Le Sserafim song), 2025 \"Different\" (Robbie Williams song), 2012 \"Different\", by Acceptance from Phantoms, 2005 \"Different\", by Burna Boy from African Giant, 2019 \"Different\", by Cass Elliot from the soundtrack of the film Pufnstuf, 1970 \"Different\", by Dreamscape from 5th Season, 2007 \"Different\", by Egypt Central from Egypt Central, 2005 \"Different\", by Future and Juice Wrld from Wrld on Drugs, 2018 \"Different\", by Jamie Shaw, 2006 \"Different\", by No Malice from Hear Ye Him, 2013 \"Different\", by Pendulum from In Silico, 2008 \"Different\", by Winner from 2014 S/S, 2014 \"Different\", by Ximena Sariñana from Ximena Sariñana, 2011 Other uses Different ideal, or the different, in algebraic number theory See also All pages with titles beginning with"
+    },
+    {
+      "chunk_id": "wikipedia:American#0000",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.6658736050128937,
+      "text": "American(s) may refer to: American, something of, from, or related to the United States of America, commonly known as the \"United States\" or \"America\" Americans, citizens and nationals of the United States of America American ancestry, people who self-identify their ancestry as \"American\" American English, the set of varieties of the English language native to the United States Native Americans in the United States, indigenous peoples of the United States American, something of, from, or related to the Americas, also known as \"America\" Indigenous peoples of the Americas American (word), for analysis and history of the meanings in various contexts Organizations American Airlines, U.S.-based airline headquartered in Fort Worth, Texas American Athletic Conference, an American college athletic conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C."
+    },
+    {
+      "chunk_id": "wikipedia:Drinking#0000",
+      "doc_id": "wikipedia:Drinking",
+      "title": "Drinking",
+      "url": "https://en.wikipedia.org/?curid=66254",
+      "source_type": "wikipedia",
+      "score": 0.6551057577133179,
+      "text": "Drinking is the act of ingesting water or other liquids into the body through the mouth, proboscis, or elsewhere. Humans drink by swallowing, completed by peristalsis in the esophagus. The physiological processes of drinking vary widely among other animals. Most animals drink water to maintain bodily hydration, although many can survive on the water gained from their food. Water is required for many physiological processes. Both inadequate and (less commonly) excessive water intake are associated with health problems. Methods of drinking In humans When a liquid enters a human mouth, the swallowing process is completed by peristalsis which delivers the liquid through the esophagus to the stomach; much of the activity is assisted by gravity. The liquid may be poured from the hands or drinkware may be used as vessels. Drinking can also be by sipping or sucking, typically when imbibing hot liquids or drinking from a spoon."
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0000",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.6300900101661682,
+      "text": "A drink or beverage is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, juice, smoothies and soft drinks. Traditionally warm beverages encompass coffee, tea, and hot chocolate. Caffeinated drinks that contain the stimulant caffeine, have been consumed for centuries. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the psychoactive substance ethanol, have been part of human culture for more than 8,000 years. Non-alcoholic drinks typically refer to beverages that are traditionally alcoholic—such as beer, wine, or cocktails—but are produced with a very low alcohol by volume content. This category includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines."
+    },
+    {
+      "chunk_id": "wikipedia:Boing#0001",
+      "doc_id": "wikipedia:Boing",
+      "title": "Boing",
+      "url": "https://en.wikipedia.org/?curid=28167700",
+      "source_type": "wikipedia",
+      "score": 0.5863772749900817,
+      "text": "DS, a 2007 video game Gerald McBoing-Boing, a 1950 animated short film Other uses Pascual Boing, a Mexican beverage company that produces Boing! drinks See also Big Boing (disambiguation) Boeing, an American multinational aerospace and defense corporation Booing, showing displeasure by loudly yelling \"Boo!\" and sustaining the \"oo\" sound Boingo (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Different#0001",
+      "doc_id": "wikipedia:Different",
+      "title": "Different",
+      "url": "https://en.wikipedia.org/?curid=1826536",
+      "source_type": "wikipedia",
+      "score": 0.571400260925293,
+      "text": "from Ximena Sariñana, 2011 Other uses Different ideal, or the different, in algebraic number theory See also All pages with titles beginning with Different All pages with titles containing Different Difference (disambiguation) Differential (disambiguation) Diffident, or shy"
+    },
+    {
+      "chunk_id": "wikipedia:Cant#0001",
+      "doc_id": "wikipedia:Cant",
+      "title": "Cant",
+      "url": "https://en.wikipedia.org/?curid=63313",
+      "source_type": "wikipedia",
+      "score": 0.5617705047130584,
+      "text": "musician), an American performer who goes by \"CANT\" University of Canterbury, a New Zealand university which uses Cantuar or Cant as an abbreviation for their name in post-nominal letters See also CANT (disambiguation) All pages with titles containing Cant Canté, a commune in Ariège, France Canter (disambiguation) Canticle Kant (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0001",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.5517339825630188,
+      "text": "includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines. Biology When the human body becomes dehydrated, a person experiences thirst. This craving of fluids results in an instinctive need to drink. Thirst is regulated by the hypothalamus in response to subtle changes in the body's electrolyte levels, and also as a result..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0000",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5490310609340667,
+      "text": "Two Dogs was a ready-to-drink beverage that was first introduced in Australia in 1993 and went on to become available throughout the world. It was a lemon flavoured alcoholic beverage that is widely considered to have been the \"world’s first brewed alcoholic lemonade\" (despite the pre-existence of traditional drinks like sima), paving the way for similar products such as Hooper's Hooch and Mike's Hard Lemonade. Two Dogs was created in 1993 by the South Australian brewer Duncan MacGillivray. The tale behind the drink says that MacGillivray, an owner of a small brewery and pub in South Australia, was having a beer with some friends who owned a lemon farm. They mentioned that they didn't know what to do with all their lemons that they couldn't sell due to size. Duncan said \"I'll try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well."
+    },
+    {
+      "chunk_id": "wikipedia:Calm#0001",
+      "doc_id": "wikipedia:Calm",
+      "title": "Calm",
+      "url": "https://en.wikipedia.org/?curid=3042950",
+      "source_type": "wikipedia",
+      "score": 0.5377136528491974,
+      "text": "Miserably, a UK charity Department of Conservation and Land Management (Western Australia) Laws Commercial Advertisement Loudness Mitigation Act, U.S. legislation prohibiting TV commercials from being louder than the program on which they are shown Conservation and Land Management Act 1984, or CALM Act, Western Australian legislation that created the Department of Conservation and Land Management People Jonathan Calm (born 1971), American visual artist Marie Calm (1832..."
+    }
+  ]
+}

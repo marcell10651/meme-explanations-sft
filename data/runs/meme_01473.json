@@ -1,0 +1,105 @@
+{
+  "meme_id": "meme_01473",
+  "queries": [
+    "\"The human body\" \"Science\" \"hell\" \"sleep\"",
+    "\"The human body\" \"Big bird\" \"Science\" \"hell\""
+  ],
+  "primary_terms": [
+    "hell",
+    "Science",
+    "The human body",
+    "sleep"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Life#0001",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.6757582426071167,
+      "text": "forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota. Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species..."
+    },
+    {
+      "chunk_id": "wikipedia:Soul#0000",
+      "doc_id": "wikipedia:Soul",
+      "title": "Soul",
+      "url": "https://en.wikipedia.org/?curid=28297",
+      "source_type": "wikipedia",
+      "score": 0.6541367173194885,
+      "text": "The soul is the immaterial aspect or essence of a living being. It is typically believed to be immortal and to exist apart from the material world. The three main theories that describe the relationship between the soul and the body are interactionism, parallelism, and epiphenomenalism. Anthropologists and psychologists have found that most humans are naturally inclined to believe in the existence of the soul and that they have cross-culturally distinguished between souls and bodies. The soul has been the central area of interest in philosophy since ancient times. Socrates envisioned the soul to possess a rational faculty, its practice being man's most godlike activity. Plato believed the soul to be the person's real self, an immaterial and immortal dweller of our lives that continues and thinks even after death. Aristotle sketched out the soul as the \"first actuality\" of a naturally organized body—form and matter arrangement allowing natural beings to aspire to full actualization."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0000",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.6477839410305023,
+      "text": "Science is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe. Modern science is typically divided into two – or three – major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies. While referred to as the formal sciences, the study of logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology. Meanwhile, applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine. The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE)."
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0000",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.6252313911914825,
+      "text": "A scientist is an expert who conducts scientific research to advance knowledge in science. In classical antiquity, there was no real ancient analog of a modern scientist. Instead, philosophers engaged in the philosophical study of nature called natural philosophy. Though Thales (c. 624–545 BC) was arguably the first scientist for describing how cosmic events may be seen as natural, not necessarily caused by gods, it was not until the 19th century that the term scientist came into regular use: it was coined by the theologian, philosopher, and historian of science William Whewell in 1833 to describe Mary Somerville. History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0001",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.6169309079647064,
+      "text": "historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE). Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity and later medieval scholarship, whereby formal attempts were made to provide explanations of events in the physical world based on natural causes; while further..."
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0001",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.5981523156166076,
+      "text": "History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time. Scientists of different eras (and before them, natural philosophers, mathematicians, natural historians, natural theologians, engineers, and others who contributed to the development of science) have had widely different places in society, and the social norms, ethical values, and epistemic virtues associated with scientists—and expected of them—have changed over time as well. Accordingly, many different historical figures..."
+    },
+    {
+      "chunk_id": "wikipedia:Environment#0000",
+      "doc_id": "wikipedia:Environment",
+      "title": "Environment",
+      "url": "https://en.wikipedia.org/?curid=37039",
+      "source_type": "wikipedia",
+      "score": 0.5793044924736023,
+      "text": "Environment most often refers to: Natural environment, refers to all living and non-living things occurring naturally and the physical and biological factors along with their chemical interactions that impact on any organism or a group of organisms Other physical and cultural environments Ecology, the study of the relations of organisms to one another and to their physical surroundings Environment (systems), the surroundings of a physical system that may interact with the system by exchanging mass, energy, or other properties. Built environment, constructed surroundings that provide the settings for human activity, ranging from the large-scale civic surroundings to the personal places Social environment, the culture that an individual lives in, and the people and institutions with whom they interact Market environment, business term Arts, entertainment and publishing Environment (magazine), a peer-reviewed, popular environmental science publication founded in 1958 Environment (1917"
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.5655318796634674,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Immortal#0000",
+      "doc_id": "wikipedia:Immortal",
+      "title": "Immortal",
+      "url": "https://en.wikipedia.org/?curid=277492",
+      "source_type": "wikipedia",
+      "score": 0.5463677108287811,
+      "text": "Immortality is the ability to live forever, or eternal life. Immortal or Immortality may also refer to: Film The Immortals (1995 film), an American crime film Immortality, an alternate title for the 1998 British film The Wisdom of Crocodiles Immortality (2016 film), an Iranian experimental drama film Immortal (2004 film), a French science fiction film by Enki Bilal Immortals (2011 film), an American mythical action film Immortal (2015 film), an Iranian drama film Immortal (2022 film), a Finnish action film The Immortals (2015 film), an Indian documentary film The Immortal (2018 film), a Vietnamese fantasy film The Immortal (2019 film), an Italian crime film Immortal (2019 film), an American thriller film Literature Immortals, the elected members of the Académie Française Immortal (Buffy novel), a 1999 Buffy the Vampire Slayer novelization by Christopher Golden and Nancy Holder Immortal (Image Comics), a comic book superhero character from the Image Comics series Invincible Immortal"
+    },
+    {
+      "chunk_id": "wikipedia:Mind#0001",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.5340170562267303,
+      "text": "between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another. The dominant philosophical position since the 20th century has been physicalism, which says that everything is material, meaning that minds are certain aspects or features of some material objects. The evolutionary history of the mind is tied to the development of nervous systems, which..."
+    }
+  ]
+}

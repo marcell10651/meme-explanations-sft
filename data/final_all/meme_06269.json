@@ -1,0 +1,205 @@
+{
+  "meme_id": "meme_06269",
+  "queries": [
+    "\"her office\" \"the mask\" \"naturally\" \"avoid\"",
+    "\"naturally\" \"avoid\" \"much\" \"can\""
+  ],
+  "primary_terms": [
+    "naturally",
+    "avoid",
+    "much",
+    "can",
+    "now",
+    "her office",
+    "time",
+    "firs",
+    "the mask"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Lockdown#0001",
+      "doc_id": "wikipedia:Lockdown",
+      "title": "Lockdown",
+      "url": "https://en.wikipedia.org/?curid=2530301",
+      "source_type": "wikipedia",
+      "score": 0.6413250178098678,
+      "text": "to address an unusual scenario or a weakness in system to preempt any danger to ensure the safety and security of people, organisation and system. The focus for preventive actions is to avoid dangers and risks arising from the nonconformity to the normal circumstances, but also commonly includes improvements in efficiency. Preventive lockdowns are preemptive lockdowns..."
+    },
+    {
+      "chunk_id": "wikipedia:Sunglasses#0000",
+      "doc_id": "wikipedia:Sunglasses",
+      "title": "Sunglasses",
+      "url": "https://en.wikipedia.org/?curid=173759",
+      "source_type": "wikipedia",
+      "score": 0.5140081524848938,
+      "text": "Sunglasses or sun glasses (informally called shades or sunnies; more names below) are a form of protective eyewear designed primarily to prevent bright sunlight and high-energy visible light from damaging or discomforting the eyes. They can sometimes also function as a visual aid, as variously termed spectacles or glasses exist, featuring lenses that are colored, polarized or darkened. In the early 20th century, they were also known as sun cheaters (cheaters then being an American slang term for glasses). Since the 1930s, sunglasses have been a popular fashion accessory, especially on the beach. The American Optometric Association recommends wearing sunglasses that block ultraviolet radiation (UV) whenever a person is in the sunlight to protect the eyes from UV and blue light, which can cause several serious eye problems."
+    },
+    {
+      "chunk_id": "wikipedia:Pain#0000",
+      "doc_id": "wikipedia:Pain",
+      "title": "Pain",
+      "url": "https://en.wikipedia.org/?curid=24373",
+      "source_type": "wikipedia",
+      "score": 0.49257338345050816,
+      "text": "Pain is a distressing feeling often caused by intense or damaging stimuli. The International Association for the Study of Pain defines pain as \"an unpleasant sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage.\" Pain motivates organisms to withdraw from damaging situations, to protect a damaged body part while it heals, and to avoid similar experiences in the future. Congenital insensitivity to pain may result in reduced life expectancy. Most pain resolves once the noxious stimulus is removed and the body has healed, but it may persist despite removal of the stimulus and apparent healing of the body. Sometimes pain arises in the absence of any detectable stimulus, damage or disease. Pain is the most common reason for physician consultation in most developed countries. It is a major symptom in many medical conditions, and can interfere with a person's quality of life and general functioning."
+    },
+    {
+      "chunk_id": "wikipedia:Quantity#0000",
+      "doc_id": "wikipedia:Quantity",
+      "title": "Quantity",
+      "url": "https://en.wikipedia.org/?curid=691277",
+      "source_type": "wikipedia",
+      "score": 0.4811316162347794,
+      "text": "Quantity or amount is a property that includes numbers and quantifiable phenomena such as mass, time, distance, heat, angle, and information. Quantities can commonly be compared in terms of \"more\", \"less\", or \"equal\", or by assigning a numerical value multiple of a unit of measurement. Quantity is among the basic classes of things along with quality, substance, change, and relation. Some quantities are such by their inner nature (as number), while others function as states (properties, dimensions, attributes) of things such as heavy and light, long and short, broad and narrow, small and great, or much and little. Under the name of multitude comes what is discontinuous and discrete and divisible ultimately into indivisibles, such as: army, fleet, flock, government, company, party, people, mess (military), chorus, crowd, and number; all which are cases of collective nouns."
+    },
+    {
+      "chunk_id": "wikipedia:Staring#0001",
+      "doc_id": "wikipedia:Staring",
+      "title": "Staring",
+      "url": "https://en.wikipedia.org/?curid=4409451",
+      "source_type": "wikipedia",
+      "score": 0.47424498498439793,
+      "text": "would be simply staring into a space for awareness, or could be lost in thought (sometimes known as daydreaming), stupefied, or be unable to see. As such, the meaning of a person's staring behavior depends upon the attributions made by the observer. When caught staring, the moment can be a source of embarrassment depending on the reason for staring. For example..."
+    },
+    {
+      "chunk_id": "wikipedia:Mask#0000",
+      "doc_id": "wikipedia:Mask",
+      "title": "Mask",
+      "url": "https://en.wikipedia.org/?curid=247083",
+      "source_type": "wikipedia",
+      "score": 0.4622306823730469,
+      "text": "A mask is an object normally worn on the face, typically for protection, disguise, performance, or entertainment, and often employed for rituals and rites. Masks have been used since antiquity for both ceremonial and practical purposes, as well as in the performing arts and for entertainment. They are usually worn on the face, although they may also be positioned for effect elsewhere on the wearer's body. In art history, especially sculpture, \"mask\" is the term for a face without a body that is not modelled in the round (which would make it a \"head\"), but for example appears in low relief. Etymology The word \"mask\" appeared in English in the 1530s, from Middle French masque \"covering to hide or guard the face\", derived in turn from Italian maschera, from Medieval Latin masca \"mask, specter, nightmare\". This word is of uncertain origin, perhaps from Arabic maskharah مَسْخَرَۃٌ \"buffoon\", from the verb sakhira \"to ridicule\"."
+    },
+    {
+      "chunk_id": "wikipedia:Reason#0000",
+      "doc_id": "wikipedia:Reason",
+      "title": "Reason",
+      "url": "https://en.wikipedia.org/?curid=42446",
+      "source_type": "wikipedia",
+      "score": 0.45519544482231145,
+      "text": "Reason is the capacity of consciously applying logic by drawing valid conclusions from new or existing information, with the aim of seeking truth. It is associated with such characteristically human activities as philosophy, religion, science, language, and mathematics, and is normally considered to be a distinguishing ability possessed by humans. Reason is sometimes referred to as rationality, although the latter is more about its application. Reasoning involves using more-or-less rational processes of thinking and cognition to extrapolate from one's existing knowledge to generate new knowledge, and involves the use of one's intellect. The field of logic studies the ways in which humans can use formal reasoning to produce logically valid arguments and true conclusions. Reasoning may be subdivided into forms of logical reasoning, such as deductive reasoning, inductive reasoning, and abductive reasoning."
+    },
+    {
+      "chunk_id": "wikipedia:Two-Face#0000",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 0.446904656291008,
+      "text": "Two-Face is a supervillain appearing in American comic books published by DC Comics. The character was created by Bob Kane, and first appeared in Detective Comics #66 (August 1942). He has become one of the superhero Batman's most enduring enemies belonging to the collective of adversaries that make up his rogues gallery. In his comic book appearances, Two-Face is the alter ego of Harvey Dent, Gotham City's former district attorney who becomes a criminal mastermind obsessed with duality and the number two. Half of his face is hideously scarred after mob boss Sal Maroni throws acid at him. The resulting disfigurement drives him insane and causes him to make decisions based on the flip of a coin. The Modern Age of Comic Books portrays the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse."
+    },
+    {
+      "chunk_id": "wikipedia:The Lady Doctor#0000",
+      "doc_id": "wikipedia:The Lady Doctor",
+      "title": "The Lady Doctor",
+      "url": "https://en.wikipedia.org/?curid=46194248",
+      "source_type": "wikipedia",
+      "score": 0.42225719690322877,
+      "text": "The Lady Doctor (Italian: Totò, Vittorio e la dottoressa, also known as Totò, Vittorio and the Doctor) is a 1957 Italian comedy film directed by Camillo Mastrocinque. Plot Michele and Gennaro work as attendants in the investigation agency \"Nulla sfugge\" (\"Nothing escapes\"). When their boss is forced to be absent from the office to follow an important investigation, the two decide to take his place, pretending to be skilled investigators. Two old sisters, Ada and Ida, come to the agency to ask them to investigate the conduct of the wife of their only nephew, an American doctor from Boston, and they accept the case, which will turn out to be a mess. Cast Totò as Michele Spillone aka Mike Vittorio De Sica as Marquis Vittorio de Vitti Abbe Lane as Dr."
+    },
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0000",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.417715585231781,
+      "text": "What Not to Wear is an American makeover reality television series based on the British show of the same name. The show premiered on January 18, 2003, and ended on October 18, 2013, airing on TLC in the United States. What Not to Wear was hosted by Stacy London and Clinton Kelly, though London's Season 1 co-host was Wayne Scot Lukas. Also part of the show was head makeover artist Carmindy and hairstylist Nick Arrojo from season 1 through season 6. Celebrity hairstylist Ted Gibson replaced Arrojo beginning in season 7, through season 10. On March 6, 2013, TLC announced that the tenth season of What Not to Wear would be its last. Format Participants were nominated by friends, co-workers, or relatives. Some episodes involved self-nominations, such as the class reunion specials or mall nominations. In the latter, What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The man is happy at the top, but not at the bottom.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The man",
+          "the top",
+          "the bottom"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster was happy a female coworker wanted to see them until they learned she's the business therapist.. Meme poster was happy to talk to a attractive coworker until he learned she was there to give him therapy.. The meme poster realizes that he is with the wrong woman with problems.. Poster is surprised that the person can see through his placid mask.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the business therapist",
+          "him",
+          "therapy",
+          "the wrong woman",
+          "problems",
+          "the person",
+          "his placid mask"
+        ]
+      },
+      "title": {
+        "text": "Naturally, I avoid her as much as I can now",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "naturally",
+          "avoid",
+          "much",
+          "can",
+          "now"
+        ]
+      },
+      "text": {
+        "text": "The cute ANY | colleague says : ho, you should stop {x A) Y by her office and a . Vee have a chat from [ *7 ; Yo time to time c \\= \\4t She is a fa Y | psychologist who [firs a) 9 can possibly see \\\\ x Y ; through the mask an ~ = you put on at we, Ke work c \\ |",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "her office",
+          "time",
+          "firs",
+          "the mask"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "naturally",
+      "avoid",
+      "much",
+      "can",
+      "now",
+      "her office",
+      "time",
+      "firs",
+      "the mask"
+    ],
+    "secondary_terms": [
+      "The man",
+      "the top",
+      "the bottom",
+      "the business therapist",
+      "him",
+      "therapy",
+      "the wrong woman",
+      "problems",
+      "his placid mask"
+    ],
+    "queries": [
+      "\"her office\" \"the mask\" \"naturally\" \"avoid\"",
+      "\"naturally\" \"avoid\" \"much\" \"can\""
+    ]
+  },
+  "source_jsonl_id": null
+}

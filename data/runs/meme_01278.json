@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_01278",
+  "queries": [
+    "\"Person\" \"only cobblestone* Diorite\" \"Andesite\" \"Granite\" \"especially\"",
+    "\"Granite\" \"especially\" \"cobble\" \"build\""
+  ],
+  "primary_terms": [
+    "especially",
+    "cobble",
+    "build",
+    "only cobblestone* Diorite",
+    "Andesite",
+    "Granite"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Grade#0001",
+      "doc_id": "wikipedia:Grade",
+      "title": "Grade",
+      "url": "https://en.wikipedia.org/?curid=91313",
+      "source_type": "wikipedia",
+      "score": 0.7216634750366211,
+      "text": "Graded bedding, a description of the variation in grain size through a bed in a sedimentary rock Metamorphic grade, an indication of the degree of metamorphism of rocks Ore grade, a measure that describes the concentration of a valuable natural material in the surrounding ore Engineering and technology Grade (fasteners), the..."
+    },
+    {
+      "chunk_id": "wikipedia:Floor#0000",
+      "doc_id": "wikipedia:Floor",
+      "title": "Floor",
+      "url": "https://en.wikipedia.org/?curid=82926",
+      "source_type": "wikipedia",
+      "score": 0.7102985739707947,
+      "text": "A floor is the bottom surface of a room or vehicle. Floors vary from simple dirt in a cave to many layered surfaces made with modern technology. Floors may be stone, wood, bamboo, metal, or any other material that can support the expected load. The levels of a building are often referred to as floors, although sometimes referred to as storeys. Floors typically consist of a subfloor for support and a floor covering used to give a good walking surface. In modern buildings, the subfloor often has electrical wiring, plumbing, and other services built in. As floors must meet many needs, some essential to safety, floors are built to strict building codes in some regions. Special floor structures Where a special floor structure like a floating floor is laid upon another floor, both may be called subfloors."
+    },
+    {
+      "chunk_id": "wikipedia:Rock#0000",
+      "doc_id": "wikipedia:Rock",
+      "title": "Rock",
+      "url": "https://en.wikipedia.org/?curid=25683",
+      "source_type": "wikipedia",
+      "score": 0.6500462293624878,
+      "text": "Rock most often refers to: Rock (geology), a naturally occurring solid aggregate of minerals or mineraloids Rock music, a genre of popular music Rock or Rocks may also refer to: Places United Kingdom Rock, Caerphilly, a location in Wales Rock, Cornwall, a village in England Rock, County Tyrone, a village in Northern Ireland Rock, Devon, a location in England Rock, Neath Port Talbot, a location in Wales Rock, Northumberland, a village in England Rock, Somerset, a location in England Rock, West Sussex, a hamlet in Washington, England Rock, Worcestershire, a village and civil parish in England United States Rock, Kansas, an unincorporated community Rock, Michigan, an unincorporated community Rock, West Virginia, an unincorporated community Rock, Rock County, Wisconsin, a town in southern Wisconsin Rock, Wood County, Wisconsin, a town in central Wisconsin Elsewhere Corregidor, an island in the Philippines also known as \"The Rock\" Jamaica, an island in the Caribbean is locally referred to"
+    },
+    {
+      "chunk_id": "wikipedia:Relief#0001",
+      "doc_id": "wikipedia:Relief",
+      "title": "Relief",
+      "url": "https://en.wikipedia.org/?curid=545811",
+      "source_type": "wikipedia",
+      "score": 0.6435606181621552,
+      "text": ". In other materials such as metal, clay, plaster stucco, ceramics or papier-mâché the form can be simply added to or raised up from the background. Monumental bronze reliefs are made by casting. There are different degrees of relief depending on the degree of projection of the sculpted form from the field, for which the Italian and French terms are still sometimes used..."
+    },
+    {
+      "chunk_id": "wikipedia:Forge#0001",
+      "doc_id": "wikipedia:Forge",
+      "title": "Forge",
+      "url": "https://en.wikipedia.org/?curid=11057",
+      "source_type": "wikipedia",
+      "score": 0.5686814188957214,
+      "text": "or a salt brine instead; many metals require more than plain water hardening. The slack tub also provides water to control the fire in the forge. Types Coal/coke/charcoal forge A forge typically uses bituminous coal, industrial coke or charcoal as the fuel to heat metal. The designs of these forges have varied over time, but whether the fuel is coal, coke or charcoal the basic design has remained the same. A forge of this type..."
+    },
+    {
+      "chunk_id": "wikipedia:Three Rocks, California#0000",
+      "doc_id": "wikipedia:Three Rocks, California",
+      "title": "Three Rocks, California",
+      "url": "https://en.wikipedia.org/?curid=22780127",
+      "source_type": "wikipedia",
+      "score": 0.5596693158149719,
+      "text": "Three Rocks is a census-designated place in Fresno County, California, United States. It lies at an elevation of 423 ft (129 m). The population is 246. It was founded by Raymond Minnite of Hiawatha, Utah in 1954. While sitting at the corner of Clarkson Ave and Derrick Ave (HWY 33) counting cars, and dreaming about how many he could make stop, he noticed three large boulders off in the horizon where the Sierra Madre mountain range met the sky, known historically as the Joaquin Rocks, or Las Tres Piedras. This would become the name of the town he founded. Demographics Three Rocks first appeared as a census designated place in the 2010 U.S. census. The 2020 United States census reported that Three Rocks had a population of 248. The population density was 330.7 inhabitants per square mile (127.7/km2)."
+    },
+    {
+      "chunk_id": "wikipedia:Well#0001",
+      "doc_id": "wikipedia:Well",
+      "title": "Well",
+      "url": "https://en.wikipedia.org/?curid=15105978",
+      "source_type": "wikipedia",
+      "score": 0.5505110621452332,
+      "text": "back at least as far as the Iron Age. Wells have traditionally been sunk by hand digging, as is still the case in rural areas of the developing world. These wells are inexpensive and low-tech as they use mostly manual labour, and the structure can be lined with brick or stone as the excavation proceeds. A more modern method called caissoning uses pre-cast reinforced concrete well rings that are lowered into the hole. Driven wells can be created in unconsolidated material with..."
+    },
+    {
+      "chunk_id": "wikipedia:Three Rocks, California#0001",
+      "doc_id": "wikipedia:Three Rocks, California",
+      "title": "Three Rocks, California",
+      "url": "https://en.wikipedia.org/?curid=22780127",
+      "source_type": "wikipedia",
+      "score": 0.5180201232433319,
+      "text": "2020 United States census reported that Three Rocks had a population of 248. The population density was 330.7 inhabitants per square mile (127.7/km2). The racial makeup of Three Rocks was 35 (14.1%) White, 0 (0.0%) African American, 7 (2.8%) Native American, 1 (0.4%) Asian, 0 (0.0%) Pacific Islander, 165 (66.5%) from other races, and 40 (16.1%) from two or more races. Hispanic or Latino of any race were 245 persons (98.8%). The whole population lived in households. There were 63 households, out of which 22 (34.9%) had children..."
+    },
+    {
+      "chunk_id": "wikipedia:Glass#0000",
+      "doc_id": "wikipedia:Glass",
+      "title": "Glass",
+      "url": "https://en.wikipedia.org/?curid=12581",
+      "source_type": "wikipedia",
+      "score": 0.4997965842485428,
+      "text": "Glass is an amorphous (non-crystalline) solid. Because it is often transparent and chemically inert, glass has found widespread practical, technological, and decorative use in window panes, tableware, and optics. Some common objects made of glass are named after the material, e.g., a \"glass\" for drinking, \"glasses\" for vision correction, and a \"magnifying glass\". Glass is most often formed by rapid cooling (quenching) of the molten form. Some glasses such as volcanic glass are naturally occurring, and obsidian has been used to make arrowheads and knives since the Stone Age. Archaeological evidence suggests glassmaking dates back to at least 3600 BC in Mesopotamia, Egypt, or Syria. The earliest known glass objects were beads, perhaps created accidentally during metalworking or the production of faience, which is a form of pottery using lead glazes."
+    },
+    {
+      "chunk_id": "wikipedia:Forge#0000",
+      "doc_id": "wikipedia:Forge",
+      "title": "Forge",
+      "url": "https://en.wikipedia.org/?curid=11057",
+      "source_type": "wikipedia",
+      "score": 0.4804680496454239,
+      "text": "A forge is a type of hearth used for heating metals, or the workplace (smithy) where such a hearth is located. The forge is used by the smith to heat a piece of metal to a temperature at which it becomes easier to shape by forging, or to the point at which work hardening no longer occurs. The metal (known as the \"workpiece\") is transported to and from the forge using tongs, which are also used to hold the workpiece on the smithy's anvil while the smith works it with a hammer. Sometimes, such as when hardening steel or cooling the work so that it may be handled with bare hands, the workpiece is transported to the slack tub, which rapidly cools the workpiece in a large body of water. However, depending on the metal type, it may require an oil quench or a salt brine instead; many metals require more than plain water hardening. The slack tub also provides water to control the fire in the forge."
+    }
+  ]
+}

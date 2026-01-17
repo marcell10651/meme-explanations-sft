@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_04527",
+  "queries": [
+    "\"the same exact meme\" \"Elon\" \"ANt\" \"the nose\"",
+    "\"ANt\" \"the nose\" \"has\" \"actually\""
+  ],
+  "primary_terms": [
+    "the nose",
+    "has",
+    "actually",
+    "laughed",
+    "not",
+    "exhale",
+    "nose",
+    "single",
+    "one",
+    "the same exact meme",
+    "Elon",
+    "ANt"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Elephant#0000",
+      "doc_id": "wikipedia:Elephant",
+      "title": "Elephant",
+      "url": "https://en.wikipedia.org/?curid=9279",
+      "source_type": "wikipedia",
+      "score": 0.7795512944459915,
+      "text": "Elephants are the largest living land animals. Three living species are currently recognised: the African bush elephant (Loxodonta africana), the African forest elephant (L. cyclotis), and the Asian elephant (Elephas maximus). They are the only surviving members of the family Elephantidae and the order Proboscidea; extinct relatives include mammoths and mastodons. Distinctive features of elephants include a long proboscis called a trunk, tusks, large ear flaps, pillar-like legs, and tough but sensitive grey skin. The trunk is prehensile, bringing food and water to the mouth and grasping objects. Tusks, which are derived from the incisor teeth, serve both as weapons and as tools for moving objects and digging. The large ear flaps assist in maintaining a constant body temperature as well as in communication. African elephants have larger ears and concave backs, whereas Asian elephants have smaller ears and convex or level backs."
+    },
+    {
+      "chunk_id": "wikipedia:Actually#0000",
+      "doc_id": "wikipedia:Actually",
+      "title": "Actually",
+      "url": "https://en.wikipedia.org/?curid=750827",
+      "source_type": "wikipedia",
+      "score": 0.6839579582214356,
+      "text": "Actually (stylised as Pet Shop Boys, actually.) is the second studio album by English synth-pop duo Pet Shop Boys, released on 7 September 1987 by Parlophone in the United Kingdom and by EMI Manhattan in North America. The album features two number one singles, \"It's a Sin\" and \"Heart\", and a duet with Dusty Springfield, \"What Have I Done to Deserve This?\" Actually is the Pet Shop Boys' top-selling album in the UK, certified triple platinum with over one million sales; worldwide it has sold over four million copies. Background and recording For their second album, Pet Shop Boys still had material from their early songwriting days, including \"It's a Sin\" (1982), \"Rent\" (1984), and \"One More Chance\" which they had recorded with Bobby Orlando and released as an unsuccessful single outside the UK in 1984."
+    },
+    {
+      "chunk_id": "wikipedia:Rock Your Baby#0001",
+      "doc_id": "wikipedia:Rock Your Baby",
+      "title": "Rock Your Baby",
+      "url": "https://en.wikipedia.org/?curid=7758996",
+      "source_type": "wikipedia",
+      "score": 0.6769776076078415,
+      "text": "and drums, and their fellow Sunshine Band member Jerome Smith on electric guitar. The song became one of the first pop hits to use a drum machine. The track was not originally intended for McCrae, but he happened to be in the studio at the time and added his distinct falsetto vocals. Music critic Robert Christgau has described the result as \"irresistibly Memphis-cum-disco-with-a-hook.\" Legacy \"Rock Your Baby\" influenced John Lennon's \"Whatever Gets You thru the Night..."
+    },
+    {
+      "chunk_id": "wikipedia:Face#0001",
+      "doc_id": "wikipedia:Face",
+      "title": "Face",
+      "url": "https://en.wikipedia.org/?curid=53234",
+      "source_type": "wikipedia",
+      "score": 0.6614431738853455,
+      "text": "shape, nostrils, and nasal septum The cheeks, covering the maxilla and mandible (or jaw), the extremity of which is the chin The mouth, with the upper lip divided by the philtrum, sometimes revealing the teeth Facial appearance is vital for human recognition and communication. Facial muscles in humans allow expression of emotions. The face..."
+    },
+    {
+      "chunk_id": "wikipedia:Better#0000",
+      "doc_id": "wikipedia:Better",
+      "title": "Better",
+      "url": "https://en.wikipedia.org/?curid=7973413",
+      "source_type": "wikipedia",
+      "score": 0.6282067269086837,
+      "text": "Better may refer to: \"to better\" as a verb, meaning to undergo betterment better, an alternate spelling of bettor, someone who bets (gambles) Music Albums Better (Chrisette Michele album), 2013 Better (Brian McKnight album), 2016 Better (Haley Reinhart album), 2016 Better (BoA album), 2020 Songs \"Better\" (The Screaming Jets song), 1991 \"Better\" (Brooke Fraser song), 2003 \"Better\" (Tom Baxter song)\", 2007, covered by Boyzone in 2008 \"Better\" (Guns N' Roses song), 2008 \"Better\" (Maggie Rose song), 2012 \"Better\" (Kim Hyung-jun song), 2014 \"Better\" (Banks song), 2015 \"Better\" (Haley Reinhart song), 2016 \"Better\" (Meghan Trainor song), 2016 \"Better\" (Mallrat song), 2017 \"Better\" (Khalid song), 2018 \"Better\" (Lena Meyer-Landrut and Nico Santos song), 2019 \"Better\" (Twice song), 2020 \"Better\" (Zayn song), 2020 \"Better\" (MK and Burns song), 2022 \"Better\" a 1992 song by Helmet from the album, Meantime \"Better\" a 1999 song by 8stops7 from the album, In Moderation \"Better\", a track from the 2000"
+    },
+    {
+      "chunk_id": "wikipedia:Head#0000",
+      "doc_id": "wikipedia:Head",
+      "title": "Head",
+      "url": "https://en.wikipedia.org/?curid=1209545",
+      "source_type": "wikipedia",
+      "score": 0.6153353989124298,
+      "text": "A head is the part of an organism which usually includes the ears, brain, forehead, cheeks, chin, eyes, nose, and mouth, each of which aid in various sensory functions such as sight, hearing, smell, and taste. Some very simple animals may not have a head, but many bilaterally symmetric forms do, regardless of size. Heads develop in animals by an evolutionary trend known as cephalization. In bilaterally symmetrical animals, nervous tissue concentrate at the anterior region, forming structures responsible for information processing. Through biological evolution, sense organs and feeding structures also concentrate into the anterior region; these collectively form the head. Human head The human head is an anatomical unit that consists of the skull, hyoid bone and cervical vertebrae. The skull consists of the brain case which encloses the cranial cavity, and the facial skeleton, which includes the mandible. There are eight bones in the brain case and fourteen in the facial skeleton."
+    },
+    {
+      "chunk_id": "wikipedia:Face#0000",
+      "doc_id": "wikipedia:Face",
+      "title": "Face",
+      "url": "https://en.wikipedia.org/?curid=53234",
+      "source_type": "wikipedia",
+      "score": 0.6133818089962005,
+      "text": "The face is the front of the head in humans and many other animals that features most of the sense organs including the eyes, nose and mouth. Many animals may express emotions through their face. Sense organs in the faces of different animals are varied such as the snout, and the proboscis. Many animals are flat-faced (brachycephalic) such as the pug dog. The human face is crucial for identity, and damage such as scarring or developmental deformities may adversely affect the psyche. Human face Structure The front of the human head is called the face. It includes several distinct areas, of which the main features are: The forehead, comprising the skin beneath the hairline, bordered laterally by the temples and inferiorly by eyebrows and ears The eyes, sitting in the orbit and protected by eyelids and eyelashes The distinctive human nose shape, nostrils, and nasal septum The cheeks, covering the maxilla and mandible (or jaw), the extremity of which is the chin The mouth, with the upper"
+    },
+    {
+      "chunk_id": "wikipedia:Yeah Yeah Yeahs#0000",
+      "doc_id": "wikipedia:Yeah Yeah Yeahs",
+      "title": "Yeah Yeah Yeahs",
+      "url": "https://en.wikipedia.org/?curid=314405",
+      "source_type": "wikipedia",
+      "score": 0.6077499926090241,
+      "text": "Yeah Yeah Yeahs are an American indie rock band formed in New York City in 2000. The group consists of vocalist/pianist Karen O, guitarist/keyboardist Nick Zinner, and drummer Brian Chase; they do not have a bassist but have been complemented during live shows by David Pajo and Imaad Wasif. They are known for energetic performances and a blend of genres, including art rock and dance-rock. Yeah Yeah Yeahs found critical and commercial success with their debut album, Fever to Tell (2003), which is cited as their best work. It produced the breakthrough single \"Maps\", which became the band's signature song. They issued a second album, Show Your Bones (2006), and shifted to dance-punk with their third, It's Blitz! (2009). Both records received positive reviews, and the latter spawned the hit single \"Heads Will Roll\". The band's fourth album, Mosquito (2013), became their highest-charting record in the United States but did not match the reception of its predecessors."
+    },
+    {
+      "chunk_id": "wikipedia:Meme#0000",
+      "doc_id": "wikipedia:Meme",
+      "title": "Meme",
+      "url": "https://en.wikipedia.org/?curid=19312",
+      "source_type": "wikipedia",
+      "score": 0.601538610458374,
+      "text": "A meme ( ; MEEM) is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures. In popular language, a meme may refer to an Internet meme, typically an image, that is remixed, copied, and circulated in a shared cultural experience online. Proponents theorize that memes are a viral phenomenon that may evolve by natural selection in a manner analogous to that of biological evolution."
+    },
+    {
+      "chunk_id": "wikipedia:Simba#0001",
+      "doc_id": "wikipedia:Simba",
+      "title": "Simba",
+      "url": "https://en.wikipedia.org/?curid=983014",
+      "source_type": "wikipedia",
+      "score": 0.5873565584421158,
+      "text": "as an original character, Simba was inspired by Moses and Joseph from the Bible, as well as the title character from William Shakespeare's Hamlet. Despite sharing similarities with the character from the anime television series Kimba the White Lion, Disney has refuted claims that Simba was inspired by Kimba. Mark Henn and Ruben A. Aquino were supervising animators for the cub and adult Simba, respectively, with both animators researching..."
+    }
+  ]
+}

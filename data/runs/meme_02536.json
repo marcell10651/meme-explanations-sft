@@ -1,0 +1,112 @@
+{
+  "meme_id": "meme_02536",
+  "queries": [
+    "\"Kanye West\" \"yellow phosphorus\" \"the man\" \"yellow\" \"phosphorus\"",
+    "\"yellow\" \"phosphorus\" \"staring\" \"man\""
+  ],
+  "primary_terms": [
+    "yellow phosphorus",
+    "yellow",
+    "phosphorus",
+    "the man",
+    "staring",
+    "man",
+    "drinking",
+    "called",
+    "lemonade",
+    "its",
+    "not"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Green#0000",
+      "doc_id": "wikipedia:Green",
+      "title": "Green",
+      "url": "https://en.wikipedia.org/?curid=12460",
+      "source_type": "wikipedia",
+      "score": 0.9155989766120911,
+      "text": "Green is the color between cyan and yellow on the visible spectrum. It is evoked by light which has a dominant wavelength of roughly 495–570 nm. In subtractive color systems, used in painting and color printing, it is created by a combination of yellow and cyan; in the RGB color model, used on television and computer screens, it is one of the additive primary colors, along with red and blue, which are mixed in different combinations to create all other colors. By far the largest contributor to green in nature is chlorophyll, the chemical by which plants photosynthesize and convert sunlight into chemical energy. Many creatures have adapted to their green environments by taking on a green hue themselves as camouflage. Several minerals have a green color, including the emerald, which is colored green by its chromium content."
+    },
+    {
+      "chunk_id": "wikipedia:Name#0001",
+      "doc_id": "wikipedia:Name",
+      "title": "Name",
+      "url": "https://en.wikipedia.org/?curid=164226",
+      "source_type": "wikipedia",
+      "score": 0.6299323350191116,
+      "text": "High German (OHG) namo, Sanskrit नामन् (nāman), Latin nomen, Greek ὄνομα (onoma), and Persian نام (nâm), from the Proto-Indo-European (PIE) *h₁nómn̥. Outside Indo-European, it can be connected to Proto-Uralic *nime. Naming conventions A naming convention is a set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria for naming things. Parents may follow a naming convention..."
+    },
+    {
+      "chunk_id": "wikipedia:Finger#0000",
+      "doc_id": "wikipedia:Finger",
+      "title": "Finger",
+      "url": "https://en.wikipedia.org/?curid=37618",
+      "source_type": "wikipedia",
+      "score": 0.6074653655290604,
+      "text": "A finger is a prominent digit on the forelimbs of most tetrapod vertebrate animals, especially those with prehensile extremities (i.e. hands) such as humans and other primates. Most tetrapods have five digits (pentadactyly), and short digits (i.e. significantly shorter than the metacarpal/metatarsals) are typically referred to as toes, while those that are notably elongated are called fingers. In humans, the fingers are flexibly articulated and opposable, serving as an important organ of tactile sensation and fine movements, which are crucial to the dexterity of the hands and the ability to grasp and manipulate objects Humans Usually humans have five digits, the bones of which are termed phalanges, on each hand, although some people have more or fewer than five due to congenital disorders such as polydactyly or oligodactyly, or accidental or intentional amputations. The first digit is the thumb, followed by the index finger, middle finger, ring finger, and little finger or pinkie."
+    },
+    {
+      "chunk_id": "wikipedia:Different Times, Different Places#0001",
+      "doc_id": "wikipedia:Different Times, Different Places",
+      "title": "Different Times, Different Places",
+      "url": "https://en.wikipedia.org/?curid=74440146",
+      "source_type": "wikipedia",
+      "score": 0.5842776358127594,
+      "text": "Ogun in 2016. Both volumes showcase Miller's compositions. Reception Mike Hobart of the Financial Times noted the \"pulsating riffs, moments of calm... horns playing with passion and technical flair,\" and stated: \"The powerful and firm-fingered Miller developed a telepathic relationship with drummer and fellow exile Louis Moholo Moholo, and they switch mood in the blink of an eye.\" A reviewer for The Free Jazz Collective wrote: \"it's difficult not to be astounded by..."
+    },
+    {
+      "chunk_id": "wikipedia:Staring#0000",
+      "doc_id": "wikipedia:Staring",
+      "title": "Staring",
+      "url": "https://en.wikipedia.org/?curid=4409451",
+      "source_type": "wikipedia",
+      "score": 0.561217975616455,
+      "text": "Staring is a prolonged gaze or fixed look. In staring, one subject or person is the continual focus of visual interest, for a long amount of time. The meaning, purpose, and rudeness, of staring varies widely between cultures. Staring can be interpreted as being either hostile like disapproval of another's behavior, or the result of intense concentration, interest or affection. Staring behavior can be considered as a form of aggression like when it is an invasion of an individual's privacy in certain contexts, or as a nonverbal cue to convey feelings of attraction in a social setting. The resultant behavior or action defines whether it is aggressive in nature (e.g. leering that results in street harassment), passive or active expression of attraction, etc. However, to some extent staring often occurs accidentally, and often a person would be simply staring into a space for awareness, or could be lost in thought (sometimes known as daydreaming), stupefied, or be unable to see."
+    },
+    {
+      "chunk_id": "wikipedia:Sone#0000",
+      "doc_id": "wikipedia:Sone",
+      "title": "Sone",
+      "url": "https://en.wikipedia.org/?curid=215436",
+      "source_type": "wikipedia",
+      "score": 0.5276028275489807,
+      "text": "The sone () is a unit of loudness, the subjective perception of sound pressure. The study of perceived loudness is included in the topic of psychoacoustics and employs methods of psychophysics. Doubling the perceived loudness doubles the sone value. Proposed by Stanley Smith Stevens in 1936, it is not an SI unit. Definition and conversions According to Stevens' definition, a loudness of 1 sone is equivalent to 40 phons (a 1 kHz tone at 40 dB SPL). The phons scale aligns with dB, not with loudness, so the sone and phon scales are not proportional. Rather, the loudness in sones is, at least very nearly, a power law function of the signal intensity, with an exponent of 0.3. With this exponent, each 10 phon increase (or 10 dB at 1 kHz) produces almost exactly a doubling of the loudness in sones."
+    },
+    {
+      "chunk_id": "wikipedia:Young Man#0000",
+      "doc_id": "wikipedia:Young Man",
+      "title": "Young Man",
+      "url": "https://en.wikipedia.org/?curid=16302334",
+      "source_type": "wikipedia",
+      "score": 0.5171871095895767,
+      "text": "Young Man may refer to: Boy or young adult man Music Young Man (Billy Dean album) or the title song, 1990 Young Man, an album by Jack Ingram, 2004 \"Young Man\", a song by the Chicks from Gaslighter, 2020 \"Young Man\", a song by Justin Timberlake from Man of the Woods, 2018 \"Young Man\", a song by Living Colour from The Chair in the Doorway, 2009 \"Young Man\", a song by Rodney Atkins from Caught Up in the Country, 2019 Other uses The Young Man a 1984 novel by Botho Strauß Young Man of Arévalo (fl. 16th century), Spanish Morisco crypto-Muslim writer Young Man Kang (born 1966), South Korean filmmaker Young Man Lake, a lake in Montana, US Young Man (film), a 2022 Russian comedy film See also All pages with titles containing Young Man Naujawan (disambiguation) (lit."
+    },
+    {
+      "chunk_id": "wikipedia:Useless#0000",
+      "doc_id": "wikipedia:Useless",
+      "title": "Useless",
+      "url": "https://en.wikipedia.org/?curid=25714209",
+      "source_type": "wikipedia",
+      "score": 0.49679715037345884,
+      "text": "Useless may refer to: Useless (film), a 2007 Chinese documentary by Jia Zhangke Useless (EP), a 2000 EP by Unloco \"Useless\" (song), a 1997 song by Depeche Mode \"Useless\", a 2009 song by Cavo from Bright Nights Dark Days \"Useless\", a song by Faster Pussycat from The Power and the Glory Hole \"Useless\", a song by Myka Relocate from Lies to Light the Way \"Useless (I Don't Need You Now)\", a song by Kym Mazelle \"Useless (The Little Horse That Didn't Grow)\", a song by Waylon Jennings from Cowboys, Sisters, Rascals & Dirt \"Inútil\" (\"Useless\"), a song from the musical In the Heights \"Useless\", the sixth episode of the 2024 miniseries Manhunt See also All pages with titles beginning with Useless"
+    },
+    {
+      "chunk_id": "wikipedia:Glass#0001",
+      "doc_id": "wikipedia:Glass",
+      "title": "Glass",
+      "url": "https://en.wikipedia.org/?curid=12581",
+      "source_type": "wikipedia",
+      "score": 0.48558903038501744,
+      "text": "glass objects were beads, perhaps created accidentally during metalworking or the production of faience, which is a form of pottery using lead glazes. Due to its ease of formability into any shape, glass has been traditionally used for vessels, such as bowls, vases, bottles, jars and drinking glasses. Soda–lime glass, containing around 70% silica, accounts for around 90% of modern manufactured glass. Glass can be coloured by adding metal salts or painted and printed with vitreous enamels..."
+    },
+    {
+      "chunk_id": "wikipedia:WITS#0000",
+      "doc_id": "wikipedia:WITS",
+      "title": "WITS",
+      "url": "https://en.wikipedia.org/?curid=3083596",
+      "source_type": "wikipedia",
+      "score": 0.48389064073562627,
+      "text": "WITS or Wits may refer to: Acronym Wales Interpretation and Translation Service, a Welsh not-for-profit organisation Water Industry Telemetry Standard, a communications protocol Wellsite Information Transfer Specification, used by the petroleum industry Women in Technology and Science, an Irish organisation Workshop on Information Technologies and Systems, an academic conference on information systems World Integrated Trade Solution, a trade database provided by the World Bank Worldwide Incidents Tracking System, a discontinued publicly accessible terrorism database Worldwide Industrial Telemetry Standards, a suite of public utility protocols Arts and entertainment The Wits, a 17th-century English comedy play by Sir William Davenant The Wits, a 17th-century collection of comic sketches by Francis Kirkman the title school of WITS Academy, a 2015 teen sitcom on Nickelodeon Other uses Herman Wits (1636–1708), Dutch theologian Bidvest Wits F.C., a South African football club University of"
+    }
+  ]
+}

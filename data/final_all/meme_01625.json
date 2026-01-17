@@ -1,0 +1,195 @@
+{
+  "meme_id": "meme_01625",
+  "queries": [
+    "\"some Twitter thing\" \"twitter\" \"mysterious disease\" \"two seconds\"",
+    "\"mysterious disease\" \"two seconds\" \"exasperated staring\" \"sorta\""
+  ],
+  "primary_terms": [
+    "some Twitter thing",
+    "sorta",
+    "ripped",
+    "off",
+    "twitter",
+    "funny",
+    "mysterious disease",
+    "doctors",
+    "two seconds",
+    "exasperated staring"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Disorder#0000",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.6024472117424011,
+      "text": "Disorder may refer to randomness, a lack of intelligible pattern, or: Healthcare Disorder (medicine), a functional abnormality or disturbance Mental disorder or psychological disorder, a psychological pattern associated with distress or disability that occurs in a person and is not a part of normal development or culture: Anxiety disorder, different forms of abnormal and pathological fear and anxiety Attention-deficit hyperactivity disorder Autism spectrum disorder Conversion disorder, neurological symptoms such as numbness, blindness, paralysis, or fits, where no neurological explanation is possible Obsessive–compulsive disorder, an anxiety disorder characterized by repetitive behaviors aimed at reducing anxiety Obsessive–compulsive personality disorder, obsession with perfection, rules, and organization Personality disorder, an enduring pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement"
+    },
+    {
+      "chunk_id": "wikipedia:Quarantine#0000",
+      "doc_id": "wikipedia:Quarantine",
+      "title": "Quarantine",
+      "url": "https://en.wikipedia.org/?curid=25237",
+      "source_type": "wikipedia",
+      "score": 0.5670433640480042,
+      "text": "A quarantine is a restriction on the movement of people, animals, and goods which is intended to prevent the spread of disease or pests. It is often used in connection to disease and illness, preventing the movement of those who may have been exposed to a communicable disease, yet do not have a confirmed medical diagnosis. It is distinct from medical isolation, in which those confirmed to be infected with a communicable disease are isolated from the healthy population. The concept of quarantine is known to have been practised through history in various places. Notable quarantines in modern history include the village of Eyam in 1665 during the bubonic plague outbreak in England; East Samoa during the 1918 flu pandemic; the Diphtheria outbreak during the 1925 serum run to Nome, the 1972 Yugoslav smallpox outbreak, the SARS pandemic, the Ebola pandemic and extensive quarantines applied throughout the world during the COVID-19 pandemic since 2020."
+    },
+    {
+      "chunk_id": "wikipedia:COVID-19#0000",
+      "doc_id": "wikipedia:COVID-19",
+      "title": "COVID-19",
+      "url": "https://en.wikipedia.org/?curid=63030231",
+      "source_type": "wikipedia",
+      "score": 0.5588651746511459,
+      "text": "Coronavirus disease 2019 (COVID-19) is a contagious disease caused by the coronavirus SARS-CoV-2. In January 2020, the disease spread worldwide, resulting in the COVID-19 pandemic. The symptoms of COVID‑19 can vary but often include fever, fatigue, cough, breathing difficulties, loss of smell, and loss of taste. Symptoms may begin one to 14 days after exposure to the virus. At least a third of people who are infected do not develop noticeable symptoms. Of those who develop symptoms noticeable enough to be classified as patients, most (81%) develop mild to moderate symptoms (up to mild pneumonia), while 14% develop severe symptoms (dyspnea, hypoxia, or more than 50% lung involvement on imaging), and 5% develop critical symptoms (respiratory failure, shock, or multiorgan dysfunction). Older people have a higher risk of developing severe symptoms. Some complications result in death."
+    },
+    {
+      "chunk_id": "wikipedia:Two-Face#0000",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 0.5007023811340332,
+      "text": "Two-Face is a supervillain appearing in American comic books published by DC Comics. The character was created by Bob Kane, and first appeared in Detective Comics #66 (August 1942). He has become one of the superhero Batman's most enduring enemies belonging to the collective of adversaries that make up his rogues gallery. In his comic book appearances, Two-Face is the alter ego of Harvey Dent, Gotham City's former district attorney who becomes a criminal mastermind obsessed with duality and the number two. Half of his face is hideously scarred after mob boss Sal Maroni throws acid at him. The resulting disfigurement drives him insane and causes him to make decisions based on the flip of a coin. The Modern Age of Comic Books portrays the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse."
+    },
+    {
+      "chunk_id": "wikipedia:In His Image#0000",
+      "doc_id": "wikipedia:In His Image",
+      "title": "In His Image",
+      "url": "https://en.wikipedia.org/?curid=4401031",
+      "source_type": "wikipedia",
+      "score": 0.4843997657299042,
+      "text": "\"In His Image\" is an episode of the American television anthology series The Twilight Zone aired on January 3, 1963. This was the first episode of the fourth season. Each episode was expanded to an hour (with commercials) from \"In His Image\" until \"The Bard\". The fourth season is the only season of The Twilight Zone to have each episode one hour long. In this episode, a man finds his hometown is suddenly inconsistent with his memories of it and begins experiencing irrational urges to commit murder, two mysteries which together lead him to an unpleasant discovery about his identity. Opening narration What you have just witnessed could be the end of a particularly terrifying nightmare. It isn't – it's the beginning. Although Alan Talbot doesn't know it, he's about to enter a strange new world, too incredible to be real, too real to be a dream. It's called The Twilight Zone. Plot While waiting in a subway station, Alan Talbot is approached by an evangelist."
+    },
+    {
+      "chunk_id": "wikipedia:Quarantine#0001",
+      "doc_id": "wikipedia:Quarantine",
+      "title": "Quarantine",
+      "url": "https://en.wikipedia.org/?curid=25237",
+      "source_type": "wikipedia",
+      "score": 0.4681338518857956,
+      "text": "outbreak, the SARS pandemic, the Ebola pandemic and extensive quarantines applied throughout the world during the COVID-19 pandemic since 2020. Ethical and practical considerations need to be considered when applying quarantine to people. Practice differs from country to country; in some countries, quarantine is just one of many measures governed by legislation relating to the broader..."
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0001",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.4555460214614868,
+      "text": "suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital. Following his recovery, the now-unemployed Tramp is mistakenly arrested in a Communist demonstration. In jail, he accidentally ingests smuggled cocaine, and in his subsequent delirium, he avoids being put back in his cell. When he returns, he stumbles upon a jailbreak and knocks the convicts..."
+    },
+    {
+      "chunk_id": "wikipedia:The Lady Doctor#0000",
+      "doc_id": "wikipedia:The Lady Doctor",
+      "title": "The Lady Doctor",
+      "url": "https://en.wikipedia.org/?curid=46194248",
+      "source_type": "wikipedia",
+      "score": 0.3499868869781494,
+      "text": "The Lady Doctor (Italian: Totò, Vittorio e la dottoressa, also known as Totò, Vittorio and the Doctor) is a 1957 Italian comedy film directed by Camillo Mastrocinque. Plot Michele and Gennaro work as attendants in the investigation agency \"Nulla sfugge\" (\"Nothing escapes\"). When their boss is forced to be absent from the office to follow an important investigation, the two decide to take his place, pretending to be skilled investigators. Two old sisters, Ada and Ida, come to the agency to ask them to investigate the conduct of the wife of their only nephew, an American doctor from Boston, and they accept the case, which will turn out to be a mess. Cast Totò as Michele Spillone aka Mike Vittorio De Sica as Marquis Vittorio de Vitti Abbe Lane as Dr."
+    },
+    {
+      "chunk_id": "wikipedia:Doctor#0000",
+      "doc_id": "wikipedia:Doctor",
+      "title": "Doctor",
+      "url": "https://en.wikipedia.org/?curid=662249",
+      "source_type": "wikipedia",
+      "score": 0.3436900436878204,
+      "text": "Doctor most often refers to: Medical doctor, a person who is qualified to practice medicine Doctor (title), an academic title granted to holders of a doctorate Doctor, Doctors, The Doctor or The Doctors may also refer to: Arts and entertainment Fictional characters The Doctor, the main character of the BBC series Doctor Who List of fictional doctors Doctor (comics), several fictional characters Doctor, in the film My Giant Doctor, in Black Cat The Doctor, in Hellsing The Doctor, in video game Cave Story The Doctor (Star Trek) The Doctor, or Scalpel, in the Transformers film series The Doctor or Cobra Commander, in G.I."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.3384886384010315,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Dr. House with a gray suit and head tilted like he's listening to someone.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "head"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey how they feel like the show House is exaggerated.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the show",
+          "House"
+        ]
+      },
+      "title": {
+        "text": "I sorta ripped off some Twitter thing to make this but it's funny so shh",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "some Twitter thing",
+          "sorta",
+          "ripped",
+          "off",
+          "twitter",
+          "funny"
+        ]
+      },
+      "text": {
+        "text": "Patient dying from mysterious disease that 99.9% of doctors can't figure out: Dr Gregory house after two seconds of exasperated staring:",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "mysterious disease",
+          "doctors",
+          "two seconds",
+          "exasperated staring"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "some Twitter thing",
+      "sorta",
+      "ripped",
+      "off",
+      "twitter",
+      "funny",
+      "mysterious disease",
+      "doctors",
+      "two seconds",
+      "exasperated staring"
+    ],
+    "secondary_terms": [
+      "head",
+      "the show",
+      "House"
+    ],
+    "queries": [
+      "\"some Twitter thing\" \"twitter\" \"mysterious disease\" \"two seconds\"",
+      "\"mysterious disease\" \"two seconds\" \"exasperated staring\" \"sorta\""
+    ]
+  },
+  "source_jsonl_id": null
+}

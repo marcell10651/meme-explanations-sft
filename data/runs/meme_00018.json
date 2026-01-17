@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_00018",
+  "queries": [
+    "\"Porry Hatter\" \"Kid\" \"Mom\" \"his mom\"",
+    "\"Mom\" \"his mom\" \"porry\" \"hatter\""
+  ],
+  "primary_terms": [
+    "Porry Hatter",
+    "porry",
+    "hatter",
+    "Kid",
+    "his mom",
+    "Mom"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:WITS#0001",
+      "doc_id": "wikipedia:WITS",
+      "title": "WITS",
+      "url": "https://en.wikipedia.org/?curid=3083596",
+      "source_type": "wikipedia",
+      "score": 0.6491053104400635,
+      "text": "a 2015 teen sitcom on Nickelodeon Other uses Herman Wits (1636–1708), Dutch theologian Bidvest Wits F.C., a South African football club University of the Witwatersrand, Johannesburg, South Africa WITS (AM), an AM radio station in Sebring, Florida See also Wit (disambiguation) Witts, a surname Witz (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Mama#0001",
+      "doc_id": "wikipedia:Mama",
+      "title": "Mama",
+      "url": "https://en.wikipedia.org/?curid=383334",
+      "source_type": "wikipedia",
+      "score": 0.6480368375778198,
+      "text": "Wrestling Big Mama, former manager of American professional wrestler Jimmy Valiant (born 1942) Gemma Teller Morrow, a character on The Sons of Anarchy television show, called \"Mama\" by her lover Nero Padilla Mama Fratelli, a character in the 1985 American adventure comedy The Goonies Mama Maybelle Harper, a character in the..."
+    },
+    {
+      "chunk_id": "wikipedia:I Want to Know Your Parents#0001",
+      "doc_id": "wikipedia:I Want to Know Your Parents",
+      "title": "I Want to Know Your Parents",
+      "url": "https://en.wikipedia.org/?curid=54329548",
+      "source_type": "wikipedia",
+      "score": 0.6305720806121826,
+      "text": "state, had previously sent her a letter claiming that he was being bullied by sons of the four parents, including Kang Han-gyeol, Ho-chang's son. The principal, worried for his school's reputation, tries to contain the situation and hides the letter in his office, while the four parents instructs their children to keep quiet. Ho-chang, curious to..."
+    },
+    {
+      "chunk_id": "wikipedia:Daughter#0000",
+      "doc_id": "wikipedia:Daughter",
+      "title": "Daughter",
+      "url": "https://en.wikipedia.org/?curid=449913",
+      "source_type": "wikipedia",
+      "score": 0.5236018300056458,
+      "text": "A daughter is a female offspring; a girl or a woman in relation to her parents. Daughterhood is the state, condition or quality of being someone's daughter. The male counterpart is a son. Analogously the name is used in several areas to show relations between groups or elements. From biological perspective, a daughter is a first degree relative. The word daughter also has several other connotations attached to it, one of these being used in reference to a female descendant or consanguinity. It can also be used as a term of endearment coming from an elder. In patriarchal societies, daughters often have different or lesser familial rights than sons. A family may prefer to have sons rather than daughters and subject daughters to female infanticide. In some societies, it is the custom for a daughter to be 'sold' to her husband, who must pay a bride price."
+    },
+    {
+      "chunk_id": "wikipedia:His Family#0001",
+      "doc_id": "wikipedia:His Family",
+      "title": "His Family",
+      "url": "https://en.wikipedia.org/?curid=3241257",
+      "source_type": "wikipedia",
+      "score": 0.5140401721000671,
+      "text": "changes that have come to New York since his arrival in the city as a young man from a New Hampshire farm somewhere near the time of the Civil War. He is driven by his wife's dying request to remain close to their three daughters, yet he feels very distant from them—this despite the fact that the younger two (Deborah, a school principal, and Laura) live in the family home with him, and Edith, who is..."
+    },
+    {
+      "chunk_id": "wikipedia:Father#0001",
+      "doc_id": "wikipedia:Father",
+      "title": "Father",
+      "url": "https://en.wikipedia.org/?curid=83427",
+      "source_type": "wikipedia",
+      "score": 0.5131819993257523,
+      "text": "preexisting parent and may form a family unit but generally does not have the legal rights and responsibilities of a parent in relation to the child. The adjective \"paternal\" refers to a father and comparatively to \"maternal\" for a mother. The verb \"to father\" means to procreate or to sire a child from which also derives the noun \"fathering\". Biological fathers determine the sex of their child through a sperm cell..."
+    },
+    {
+      "chunk_id": "wikipedia:Tine#0000",
+      "doc_id": "wikipedia:Tine",
+      "title": "Tine",
+      "url": "https://en.wikipedia.org/?curid=1389414",
+      "source_type": "wikipedia",
+      "score": 0.4987392723560333,
+      "text": "Tine may refer to: Tine (structural), a 'prong' on a fork or similar implement, or any similar structure Tine (company), the biggest dairy producer in Norway Tine (film), a 1964 Danish film Tine, Iran, a village in Mazandaran Province, Iran Tiné, a town in Chad near the Mourdi Depression Tine test, a medical test for tuberculosis Tine 2.0, an open source business software covering the software categories groupware and Customer Relationship Management Tine (race), an alien race in the novels A Fire Upon the Deep and The Children of the Sky Given name Tine Asmundsen (born 1963), Norwegian jazz musician Tine Baun (born 1979), Danish badminton player Tine Bossuyt (born 1980), Belgian Olympic swimmer Tine Bryld (1939–2011), Danish social worker and writer Tine Cederkvist (born 1979), Danish footballer Tine Debeljak (1903–1989), Slovenian literary critic and poet Tine De Caigny (born 1997), Belgian footballer Tine Eerlingen (born 1976), Belgian politician Tine Fischer, Danish film"
+    },
+    {
+      "chunk_id": "wikipedia:Daughter#0001",
+      "doc_id": "wikipedia:Daughter",
+      "title": "Daughter",
+      "url": "https://en.wikipedia.org/?curid=449913",
+      "source_type": "wikipedia",
+      "score": 0.49740105867385864,
+      "text": "subject daughters to female infanticide. In some societies, it is the custom for a daughter to be 'sold' to her husband, who must pay a bride price. The reverse of this custom, where the parents pay the husband a sum of money to compensate for the financial burden of the woman and is known as a dowry. The payment of a dowry can be found in societies where women do not labour outside the home. Perception In the United States, the birth rate is 105 sons to 100 daughters which..."
+    },
+    {
+      "chunk_id": "wikipedia:Family#0000",
+      "doc_id": "wikipedia:Family",
+      "title": "Family",
+      "url": "https://en.wikipedia.org/?curid=10401954",
+      "source_type": "wikipedia",
+      "score": 0.4863072782754898,
+      "text": "Family (from Latin: familia) is a group of people related either by consanguinity (by recognized birth) or affinity (by marriage or other relationship). It forms the basis for social order. Ideally, families offer predictability, structure, and safety as members mature and learn to participate in the community. Historically, most human societies use family as the primary purpose of attachment, nurturance, and socialization. Anthropologists classify most family organizations as matrifocal (a mother and her children), patrifocal (a father and his children), conjugal (a married couple with children, also called the nuclear family), avuncular (a man, his sister, and her children), or extended (in addition to parents, spouse and children, may include grandparents, aunts, uncles, or cousins). The field of genealogy aims to trace family lineages through history. The family is also an important economic unit studied in family economics."
+    },
+    {
+      "chunk_id": "wikipedia:His Family#0000",
+      "doc_id": "wikipedia:His Family",
+      "title": "His Family",
+      "url": "https://en.wikipedia.org/?curid=3241257",
+      "source_type": "wikipedia",
+      "score": 0.4718963950872421,
+      "text": "His Family is a novel by Ernest Poole published in 1917 about the life of a New York widower and his three daughters in the 1910s. It received the first Pulitzer Prize for the Novel in 1918. Plot introduction His Family tells the story of a middle-class family in New York City in the 1910s. The family's patriarch, widower Roger Gale, struggles to deal with the way his daughters and grandchildren respond to the changing society. Each of his daughters responds in a distinctively different way to the circumstances of their lives, forcing Roger into attempting to calm the increasingly challenging family disputes that erupt. Synopsis The story begins in the spring of 1913 with Roger Gale, a New York businessman and a widower, owner of a media monitoring service, reflecting on the changes that have come to New York since his arrival in the city as a young man from a New Hampshire farm somewhere near the time of the Civil War."
+    }
+  ]
+}

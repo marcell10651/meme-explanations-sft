@@ -1,0 +1,184 @@
+{
+  "meme_id": "meme_02685",
+  "queries": [
+    "\"the fuck\" \"fuck\" \"place\" \"rain\"",
+    "\"place\" \"rain\" \"normal\" \"set\""
+  ],
+  "primary_terms": [
+    "the fuck",
+    "this place",
+    "fuck",
+    "place",
+    "rain",
+    "normal",
+    "set",
+    "gneezing"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Rain#0000",
+      "doc_id": "wikipedia:Rain",
+      "title": "Rain",
+      "url": "https://en.wikipedia.org/?curid=19009110",
+      "source_type": "wikipedia",
+      "score": 0.8478110194206238,
+      "text": "Rain is a form of precipitation where water droplets that have condensed from atmospheric water vapor fall by gravity. Rain is a major component of the water cycle and is responsible for depositing most of the fresh water on the Earth. It provides water for hydroelectric power plants, crop irrigation, and suitable conditions for many types of ecosystems. The major cause of rain production is moisture moving along three-dimensional zones of temperature and moisture contrasts known as weather fronts. If enough moisture and upward motion is present, precipitation falls from convective clouds (those with strong upward vertical motion) such as cumulonimbus (thunder clouds) which can organize into narrow rainbands. In mountainous areas, heavy precipitation is possible where upslope flow is maximized within windward sides of the terrain at elevation which forces moist air to condense and fall out as rainfall along the sides of mountains."
+    },
+    {
+      "chunk_id": "wikipedia:Point#0001",
+      "doc_id": "wikipedia:Point",
+      "title": "Point",
+      "url": "https://en.wikipedia.org/?curid=48221",
+      "source_type": "wikipedia",
+      "score": 0.841483598947525,
+      "text": "rainfall in Australia Point (typography) Points, an antler's size by the number of its tips Printer point, an unit of relative exposure in photography Navigation One of the 32 directional points of the compass Point of sail, a sailing craft's direction of travel in relation to wind direction Point, the direction of an object by its..."
+    },
+    {
+      "chunk_id": "wikipedia:Water#0001",
+      "doc_id": "wikipedia:Water",
+      "title": "Water",
+      "url": "https://en.wikipedia.org/?curid=33306",
+      "source_type": "wikipedia",
+      "score": 0.7867896616458893,
+      "text": "'s triple point, water exists on Earth as a solid, a liquid, and a gas. It forms precipitation in the form of rain and aerosols in the form of fog. Clouds consist of suspended droplets of water and ice, its solid state. When finely divided, crystalline ice may precipitate in the form of snow. The gaseous state of water is steam or water vapor. Water covers about 71.0% of the Earth's surface..."
+    },
+    {
+      "chunk_id": "wikipedia:Room#0000",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.553082275390625,
+      "text": "In a building or a ship, a room is any enclosed space within a number of walls to which entry is possible only via a door or other dividing structure. The entrance connects it to either a passageway, another room, or the outdoors. The space is typically large enough for several people to move about. The size, fixtures, furnishings, and sometimes placement of the room within the building or ship (or sometimes a train) support the activity to be conducted in it. History Historically, the use of rooms dates at least to early Minoan cultures about 2200 BC, where excavations at Akrotiri on Santorini reveal clearly defined rooms within certain structures. In early structures, the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses."
+    },
+    {
+      "chunk_id": "wikipedia:Winnie#0001",
+      "doc_id": "wikipedia:Winnie",
+      "title": "Winnie",
+      "url": "https://en.wikipedia.org/?curid=1601312",
+      "source_type": "wikipedia",
+      "score": 0.5520984292030334,
+      "text": "unincorporated community Other uses Tropical Storm Winnie (disambiguation) Winnie (hard disk), a colloquial term for hard disk used in the past Winnie (website), an application that helps parents go places with their children Winnie, one of a pair of British cross-Channel guns in the Second World War near Dover, the other being named..."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0000",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.533845043182373,
+      "text": "Fuck () is a profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives (such as fucker and fucking) are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off. Offensiveness It is unclear whether the word has always been considered a pejorative or, if not, when it first came to be used to describe (often in an extremely angry, hostile, or belligerent manner) unpleasant circumstances or people in an intentionally offensive way, such as in the term motherfucker, one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.5329527616500854,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Content#0001",
+      "doc_id": "wikipedia:Content",
+      "title": "Content",
+      "url": "https://en.wikipedia.org/?curid=426094",
+      "source_type": "wikipedia",
+      "score": 0.5054311066865921,
+      "text": "that exists in the form of digital data Table of contents, a list of chapters or sections in a document Places Content (Centreville, Maryland) also known as C.C. Harper Farm, a historic home located at Centreville, Maryland Content (Upper Marlboro, Maryland) also known as the Bowling House, a historic home located in Upper Marlboro, Maryland..."
+    },
+    {
+      "chunk_id": "wikipedia:Environment#0001",
+      "doc_id": "wikipedia:Environment",
+      "title": "Environment",
+      "url": "https://en.wikipedia.org/?curid=37039",
+      "source_type": "wikipedia",
+      "score": 0.49301493763923643,
+      "text": "entertainment and publishing Environment (magazine), a peer-reviewed, popular environmental science publication founded in 1958 Environment (1917 film), 1917 American silent film Environment (1922 film), 1922 American silent film Environment (1927 film), 1927 Australian silent film environments (album series), a series of LPs, cassettes..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0001",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.4815843850374222,
+      "text": "theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics. The home as a concept expands beyond residence as contemporary lifestyles and technological advances redefine the way the global population lives and works. The concept and experience encompasses the likes..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is happily about to press the red button.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the red button"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they get frazzled when they sneeze too hard.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "title": {
+        "text": "where the fuck are this place",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the fuck",
+          "this place",
+          "fuck",
+          "place"
+        ]
+      },
+      "text": {
+        "text": "rain ° normal set a e gneezing “Oo L/ TN ) me -",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "rain",
+          "normal",
+          "set",
+          "gneezing"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the fuck",
+      "this place",
+      "fuck",
+      "place",
+      "rain",
+      "normal",
+      "set",
+      "gneezing"
+    ],
+    "secondary_terms": [
+      "the red button"
+    ],
+    "queries": [
+      "\"the fuck\" \"fuck\" \"place\" \"rain\"",
+      "\"place\" \"rain\" \"normal\" \"set\""
+    ]
+  },
+  "source_jsonl_id": null
+}

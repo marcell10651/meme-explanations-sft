@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_05111",
+  "queries": [
+    "\"the shelf\" \"now\" \"ready\" \"elf\"",
+    "\"ready\" \"elf\" \"heard\" \"shelf\""
+  ],
+  "primary_terms": [
+    "now",
+    "ready",
+    "elf",
+    "the shelf",
+    "heard",
+    "shelf"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Ready#0001",
+      "doc_id": "wikipedia:Ready",
+      "title": "Ready",
+      "url": "https://en.wikipedia.org/?curid=9285499",
+      "source_type": "wikipedia",
+      "score": 0.8355884909629822,
+      "text": "and the Chocolate Box, 1974 \"Ready\", by Cherie from the Confessions of a Teenage Drama Queen soundtrack album, 2004 \"Ready\", by Jagged Edge from J.E. Heartbreak 2, 2014 \"Ready\", by Kelly Clarkson from All I Ever Wanted, 2009 \"Ready\", by Kovas, 2010 \"Ready\", by Montaigne from Complex, 2019 \"Ready\", by N-Toon from Toon Time, 2000 \"Ready\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:Waiting#0001",
+      "doc_id": "wikipedia:Waiting",
+      "title": "Waiting",
+      "url": "https://en.wikipedia.org/?curid=5769974",
+      "source_type": "wikipedia",
+      "score": 0.7544024586677551,
+      "text": "a 2024 novel by Michael Connelly Music The Waiting (band), a Christian pop rock band Waiting (KLF film), a video by The KLF Albums Waiting (Bobby Hutcherson album) (1976) Waiting (Fun Boy Three album) (1983) Waiting (Thursday album) (1999) Waiting... (EP), am EP by The Rockfords The Waiting (album), an album by Royal Wood..."
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0000",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.6604352295398712,
+      "text": "Wait or WAIT may refer to: Music Wait (musician), British town pipers Albums and EPs Wait (The Polyphonic Spree EP), by The Polyphonic Spree Wait (Emanuel Nice EP), a 2002 EP released by the band Emanuel Nice Wait (Steelheart album), or the title song Wait (Sons of Korah album), 2011 Wait (Pardon Us album), 2019 Songs \"Wait\" (Beatles song), 1965 \"Wait\" (Chantel Jeffries song), 2018 \"Wait\" (Earshot song), 2004 \"Wait\" (Huffamoose song), 1997 \"Wait\" (Gyan song), 1989 \"Wait\" (M83 song), 2012 \"Wait\" (Maggie Reilly song), 1992 \"Wait\" (Maroon 5 song), 2018 \"Wait\" (Seven Mary song), 2001 \"Wait\" (Wang Chung song), 1984 \"Wait\" (White Lion song), 1987 \"Wait (The Whisper Song)\", by Ying Yang Twins, 2005 \"Wait\", by 6ix9ine from TattleTales, 2020 \"Wait\", by The Afters from I Wish We All Could Win, 2005 \"Wait\", by C418 from Minecraft – Volume Beta, 2013 \"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV"
+    },
+    {
+      "chunk_id": "wikipedia:Store#0000",
+      "doc_id": "wikipedia:Store",
+      "title": "Store",
+      "url": "https://en.wikipedia.org/?curid=43365305",
+      "source_type": "wikipedia",
+      "score": 0.6025934815406799,
+      "text": "Store may refer to: Enterprises Retail store, a shop where merchandise is sold, usually products and usually on a retail basis, and where wares are often kept App store, an online retail store where apps are sold, included in many mobile operating systems Department store, a retail store offering a wide range of consumer goods Warehouse club (or wholesale club), a no-frills retail store, usually selling a wide variety of merchandise, in which customers may buy large, wholesale quantities at low prices Warehouse, a location where items are stored, e.g., a ship's paint store, and sometimes sold, e.g., Costco Warehouse Club Arts, entertainment, and media The Store (ITV), a British shopping television programming on ITV1 The Store (novel), a 1932 novel by Thomas Sigismund Stribling \"Store\", a song by Carly Rae Jepsen from the EP Emotion: Side B Other uses Data store, a repository for persistently storing and managing collections of data Štore, a town and a municipality in eastern Slovenia"
+    },
+    {
+      "chunk_id": "wikipedia:Your Choice#0000",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.570860630273819,
+      "text": "Your Choice is the ninth Korean extended play (EP) and eleventh overall by South Korean boy band Seventeen. Released through Pledis Entertainment on June 18, 2021, the album comes eight months after its predecessor, Semicolon. Characterized by hip hop and R&B elements, the album consists of six tracks, including the lead single, \"Ready to Love\". As part of the group's \"Power of 'Love'\" project, the album depicts the nature of love, and experiments with various genres, including disco funk, rock, and retro R&B. Seventeen promoted the album through performances on several South Korean and American music shows. Although the album received mixed reviews from critics, it achieved commercial success, selling over a million copies within its first four days of release. Your Choice topped the Gaon Album Chart and Billboard's World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia."
+    },
+    {
+      "chunk_id": "wikipedia:Delivery#0001",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.5684321522712708,
+      "text": "television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama. Music Deliver (The Mamas & the Papas album), 1967 Deliver (The Oak Ridge Boys album), 1983 Deliverin', a 1971 album by Poco \"Deliver\" (song), a 2017 song by Fifth Harmony \"Deliver\", a song by Lupe Fiasco from Tetsuo & Youth \"Delivery\" (song), a 2007 single..."
+    },
+    {
+      "chunk_id": "wikipedia:Waiting#0000",
+      "doc_id": "wikipedia:Waiting",
+      "title": "Waiting",
+      "url": "https://en.wikipedia.org/?curid=5769974",
+      "source_type": "wikipedia",
+      "score": 0.5647771656513214,
+      "text": "Waiting, Waitin, Waitin', or The Waiting may refer to: Art Waiting (Degas), a c. 1880–1882 pastel on paper by Edgar Degas Waiting (Millais), an 1854 painting by John Everett Millais Film Waiting (1991 film), a film by Jackie McKimmie Waiting... (film), a 2005 film starring Ryan Reynolds Waiting, a 2007 film by Zarina Bhimji Waiting (2015 film), an Indian drama film starring Naseeruddin Shah and Kalki Koechlin The Waiting (film), a 2020 American horror/romance/comedy by F. C. Rabbath The Good Neighbor (2016 film) (working title The Waiting), an American thriller film Literature Waiting (novel), a 1999 novel by Ha Jin Waiting (picture book), a 2015 children's book by Kevin Henkes The Waiting (graphic novel), a 2020 graphic novel by Keum Suk Gendry-Kim \"The Waiting\" (short story), or \"The Wait\", a 1950 story by Jorge Luis Borges The Waiting, a 2024 novel by Michael Connelly Music The Waiting (band), a Christian pop rock band Waiting (KLF film), a video by The KLF Albums Waiting (Bobby"
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.5465721189975739,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:Feline#0000",
+      "doc_id": "wikipedia:Feline",
+      "title": "Feline",
+      "url": "https://en.wikipedia.org/?curid=45339",
+      "source_type": "wikipedia",
+      "score": 0.5130989462137222,
+      "text": "Feline may refer to: Zoology Loosely, Felidae, a member of the cat family, which includes the subfamilies Pantherinae and Felinae (conventionally designated a felid). Following the taxonomic convention, Felinae, the subfamily of Felidae that includes domestic cats and smaller wild cats. Cat, the domesticated feline. Music Feline (band), a late-1990s London-based English rock group. Feline (The Stranglers album), 1983. Feline (1998 album), the self-titled album by Feline, expanded release of Save Your Face. Feline (Ella Eyre album) (2015), the debut studio album by Ella Eyre. Feline (song), a song on Delta Goodrem's 2016 album Wings of the Wild. \"Feline\", a song by the Cat Empire Comics Feline (comics), a fictional character from the Malibu comics line. See also FÉLIN, a French infantry combat system Félines (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Some Men#0001",
+      "doc_id": "wikipedia:Some Men",
+      "title": "Some Men",
+      "url": "https://en.wikipedia.org/?curid=10521839",
+      "source_type": "wikipedia",
+      "score": 0.502050518989563,
+      "text": "McElroy and Randy Redd. The Canadian premiere was produced by Raving Theatre in Vancouver, British Columbia from November 21 - December 2, 2007. The play had its West Coast premiere at the New Conservatory Theatre Center, San Francisco in June–July 2009. Overview In a gay bathhouse in 1975, a school librarian proposes to a war veteran. The scenes shift showing gay men in various..."
+    }
+  ]
+}

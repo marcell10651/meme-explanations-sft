@@ -1,0 +1,195 @@
+{
+  "meme_id": "meme_03280",
+  "queries": [
+    "\"twitter\" \"twitter blue tick\" \"Winrar\" \"watching\"",
+    "\"Winrar\" \"watching\" \"pay\" \"blue\""
+  ],
+  "primary_terms": [
+    "Winrar",
+    "twitter blue tick",
+    "watching",
+    "pay",
+    "twitter",
+    "blue",
+    "tick",
+    "aoe",
+    "vey"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Television#0001",
+      "doc_id": "wikipedia:Television",
+      "title": "Television",
+      "url": "https://en.wikipedia.org/?curid=29831",
+      "source_type": "wikipedia",
+      "score": 0.7122317850589752,
+      "text": "the primary medium for influencing public opinion. In the mid-1960s, color broadcasting was introduced in the U.S. and most other developed countries. The availability of various types of archival storage media such as Betamax and VHS tapes, LaserDiscs, high-capacity hard disk drives, CDs, DVDs, flash drives, high-definition HD DVDs and Blu-ray Discs, and cloud digital video recorders has enabled..."
+    },
+    {
+      "chunk_id": "wikipedia:Living#0001",
+      "doc_id": "wikipedia:Living",
+      "title": "Living",
+      "url": "https://en.wikipedia.org/?curid=1133759",
+      "source_type": "wikipedia",
+      "score": 0.6307638645172119,
+      "text": "program Living (2007 TV program), a 2007–2009 group of regional Canadian lifestyle programs Living (New Zealand TV channel), a New Zealand television station Living (UK TV channel), now Sky Witness, a British pay TV channel Living2, later Real Lives, a defunct sister channel Living (2012 film), a 2012 Russian drama film Living (2022..."
+    },
+    {
+      "chunk_id": "wikipedia:Finally#0001",
+      "doc_id": "wikipedia:Finally",
+      "title": "Finally",
+      "url": "https://en.wikipedia.org/?curid=15827567",
+      "source_type": "wikipedia",
+      "score": 0.6241381973028183,
+      "text": "(T.G. Sheppard song) (1982) \"Finally\", a song by the Frames from Burn the Maps \"Finally\", a song by Joyner Lucas from ADHD \"Finally\", a song by M.I.A. from AIM \"Finally\", a song by Yes from The Ladder \"Finally\", a 2019 single by Thabsie \"Finally\", a 2023 single by Jonas Blue and Rani Other uses Finally (company), an American light bulb company Finally (film), a 1991 documentary about Eric Burdon Finally, a keyword in exception handling syntax See also Final (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube Premium#0000",
+      "doc_id": "wikipedia:YouTube Premium",
+      "title": "YouTube Premium",
+      "url": "https://en.wikipedia.org/?curid=44382466",
+      "source_type": "wikipedia",
+      "score": 0.5289827883243561,
+      "text": "YouTube Premium (formerly Music Key and YouTube Red) is a subscription service offered by the American video platform YouTube. The service provides ad-free access to content across the service, as well as access to exclusive YouTube Originals programming produced in collaboration with the site's creators, ability to download videos and listen background playback of videos on mobile devices, and access to the music streaming service, YouTube Music, along with other benefits. It has over 125 million subscribers. The service was launched on November 14, 2014, as Music Key, offering advertisement-free streaming of music videos from participating labels on YouTube and Google Play Music. The service was then revised and relaunched as YouTube Red on October 21, 2015, expanding its scope to offer advertisement-free access to all YouTube videos, as opposed to just music."
+    },
+    {
+      "chunk_id": "wikipedia:Streamer#0001",
+      "doc_id": "wikipedia:Streamer",
+      "title": "Streamer",
+      "url": "https://en.wikipedia.org/?curid=79965",
+      "source_type": "wikipedia",
+      "score": 0.5124193429946899,
+      "text": "directed by Robert Altman Electronics and computing Streamer bass, a bass guitar produced by the German Warwick company A Digital media player, also called a \"Media Streamer\" or just a \"Streamer\" Streamer (software) Streamer (tape drive) Streaming media and over-the-top media service Other uses Streamer moth, the geometer..."
+    },
+    {
+      "chunk_id": "wikipedia:Naruto#0001",
+      "doc_id": "wikipedia:Naruto",
+      "title": "Naruto",
+      "url": "https://en.wikipedia.org/?curid=232190",
+      "source_type": "wikipedia",
+      "score": 0.4989561140537262,
+      "text": "in 72 tankōbon volumes. Viz Media licensed the manga for North American production and serialized Naruto in their digital Weekly Shonen Jump magazine. The manga was adapted into two anime television series by Pierrot and Aniplex, which ran from October 2002 to March 2017 on TV Tokyo. Pierrot also produced 11 animated films and 12 original video animations (OVAs). The franchise additionally includes light novels, video games, and trading cards. The story continues in Boruto..."
+    },
+    {
+      "chunk_id": "wikipedia:Content#0000",
+      "doc_id": "wikipedia:Content",
+      "title": "Content",
+      "url": "https://en.wikipedia.org/?curid=426094",
+      "source_type": "wikipedia",
+      "score": 0.492547869682312,
+      "text": "Content or contents may refer to: Media Content (media), information or experience provided to audience or end-users by publishers or media producers Content industry, an umbrella term that encompasses companies owning and providing mass media and media metadata Content provider, a provider of non-core services in the telecommunications industry Free content, published material that can be used, copied, and modified without significant legal restriction Open content, published material licensed to authorize copying and modification by anyone Web content, information published on the World Wide Web Content analysis, a methodology used in the social sciences and humanities for studying the content of communication Content format, an encoded format for converting a specific type of data to displayable information Digital content, content that exists in the form of digital data Table of contents, a list of chapters or sections in a document Places Content (Centreville, Maryland) also"
+    },
+    {
+      "chunk_id": "wikipedia:Video#0000",
+      "doc_id": "wikipedia:Video",
+      "title": "Video",
+      "url": "https://en.wikipedia.org/?curid=32441",
+      "source_type": "wikipedia",
+      "score": 0.48817387223243713,
+      "text": "Video is an electronic medium for the recording, copying, playback, broadcast, and display of moving-image media. Video was first developed for mechanical television systems, which were quickly replaced by cathode-ray tube (CRT) systems, which, in turn, were replaced by flat-panel displays. Video systems vary in display resolution, aspect ratio, refresh rate, color reproduction, and other qualities. Both analog and digital video can be carried on a variety of media, including radio, magnetic tape, optical discs, computer files, and network streaming. Etymology The word video comes from the Latin video, \"I see,\" the first-person singular present indicative of videre, \"to see\". History Analog video Video developed from facsimile systems developed in the mid-19th century. Mechanical video scanners, such as the Nipkow disk, were patented as early as 1884, but it took several decades before practical video systems could be developed."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0001",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.48159879446029663,
+      "text": "officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great! TV, British TV channel group The Great (TV series), an American comedy-drama See also All pages with titles containing great All pages with titles beginning with Great All pages with titles beginning with The Great All pages with titles beginning with The great The Great (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Medium#0001",
+      "doc_id": "wikipedia:Medium",
+      "title": "Medium",
+      "url": "https://en.wikipedia.org/?curid=19967",
+      "source_type": "wikipedia",
+      "score": 0.4799172431230545,
+      "text": "media List of art media (plural: media), materials and techniques used by an artist to produce a work Medium (band), an American rock band Medium (TV series), an American television series starring Patricia Arquette about a medium (psychic intermediary) working as a consultant for a district attorney's office Medium Productions..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man looks unimpressed with his hands on his hips.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "his hands",
+          "his hips"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that winrar has been asking you to pay beyond it's trial for years and we ignore it, but are now willing to pay for twitter verification.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "that winrar",
+          "years",
+          "twitter verification"
+        ]
+      },
+      "title": {
+        "text": "it really do be like that though",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "text": {
+        "text": "Winrar watching you pay 8S for twitter blue tick ae | ae ae - y) ; WN se\" ’ aoe Te “Ne fl), ~~ A uN vey, ! te; 4 ——, A ae ~~ ~~ \\ < ~ _",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Winrar",
+          "twitter blue tick",
+          "watching",
+          "pay",
+          "twitter",
+          "blue",
+          "tick",
+          "aoe",
+          "vey"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Winrar",
+      "twitter blue tick",
+      "watching",
+      "pay",
+      "twitter",
+      "blue",
+      "tick",
+      "aoe",
+      "vey"
+    ],
+    "secondary_terms": [
+      "his hands",
+      "his hips",
+      "that winrar",
+      "years",
+      "twitter verification"
+    ],
+    "queries": [
+      "\"twitter\" \"twitter blue tick\" \"Winrar\" \"watching\"",
+      "\"Winrar\" \"watching\" \"pay\" \"blue\""
+    ]
+  },
+  "source_jsonl_id": null
+}

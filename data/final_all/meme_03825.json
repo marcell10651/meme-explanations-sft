@@ -1,0 +1,178 @@
+{
+  "meme_id": "meme_03825",
+  "queries": [
+    "\"Unless\" \"the seven seas\" \"the world cup\" \"time\" \"mateys\"",
+    "\"FIFA organization\" \"the seven seas\" \"the world cup\" \"time\"",
+    "\"the world cup\" \"time\" \"mateys\" \"football\""
+  ],
+  "primary_terms": [
+    "time",
+    "the seven seas",
+    "mateys",
+    "football",
+    "the world cup"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Tine#0001",
+      "doc_id": "wikipedia:Tine",
+      "title": "Tine",
+      "url": "https://en.wikipedia.org/?curid=1389414",
+      "source_type": "wikipedia",
+      "score": 0.8399352043867111,
+      "text": "literary critic and poet Tine De Caigny (born 1997), Belgian footballer Tine Eerlingen (born 1976), Belgian politician Tine Fischer, Danish film executive, appointed head of the Danish Film Institute from August 2024 Tine Hribar (born 1941), Slovenian philosopher Tine Kavčič (born 1994), Slovenian footballer Tine Ladefoged (born 1977), Danish handball..."
+    },
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.8007696181535721,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Mater#0001",
+      "doc_id": "wikipedia:Mater",
+      "title": "Mater",
+      "url": "https://en.wikipedia.org/?curid=4910553",
+      "source_type": "wikipedia",
+      "score": 0.7566395610570907,
+      "text": "Mater, a major part of an astrolabe M.A.T.E.R., a football (soccer) club in Rome People Juris Māters (1845–1885), Latvian writer and journalist Rudy Mater (born 1980), French footballer See also Dura mater, the outermost layer of the meninges surrounding the brain and spinal cord in mammals Arachnoid..."
+    },
+    {
+      "chunk_id": "wikipedia:Year#0000",
+      "doc_id": "wikipedia:Year",
+      "title": "Year",
+      "url": "https://en.wikipedia.org/?curid=34341",
+      "source_type": "wikipedia",
+      "score": 0.6927740484476089,
+      "text": "A year is a unit of time based on how long it takes the Earth to orbit the Sun. In scientific use, the tropical year (approximately 365 solar days, 5 hours, 48 minutes, 45 seconds) and the sidereal year (about 20 minutes longer) are more exact. The modern calendar year, as reckoned according to the Gregorian calendar, approximates the tropical year by using a system of leap years. The term 'year' is also used to indicate other periods of roughly similar duration, such as the lunar year (a roughly 354-day cycle of twelve of the Moon's phases – see lunar calendar), as well as periods loosely associated with the calendar or astronomical year, such as the seasonal year, the fiscal year, the academic year, etc. Due to the Earth's axial tilt, the course of a year sees the passing of the seasons, marked by changes in weather, the hours of daylight, and, consequently, vegetation and soil fertility."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.6714989155530929,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:Country#0001",
+      "doc_id": "wikipedia:Country",
+      "title": "Country",
+      "url": "https://en.wikipedia.org/?curid=5165",
+      "source_type": "wikipedia",
+      "score": 0.6403898358345032,
+      "text": "of non-sovereign entities are commonly considered countries. The definition and usage of the word \"country\" has fluctuated and changed over time. The Economist wrote in 2010 that \"any attempt to find a clear definition of a country soon runs into a thicket of exceptions and anomalies.\" Areas much smaller than a political entity may be referred..."
+    },
+    {
+      "chunk_id": "wikipedia:Game#0001",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.6201409548521042,
+      "text": "may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports. All games must have a challenge and a structure; barring certain exceptions like sandbox games, all games also have an objective. Multiplayer games also include interaction between two or more players. Not all forms of play are considered games; toys and puzzles, for instance, are not games, as they do not have a..."
+    },
+    {
+      "chunk_id": "wikipedia:American#0001",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.6119395345449448,
+      "text": "conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C. Sports teams Soccer Baltimore Americans, the name of two soccer teams, one from 1939 to 1942 and one from 1942 to 1948 Chicago Americans, a soccer team in 1972 Dallas Americans, a soccer team from 1983 to 1985 Hartford Americans, a soccer..."
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo#0001",
+      "doc_id": "wikipedia:Leonardo",
+      "title": "Leonardo",
+      "url": "https://en.wikipedia.org/?curid=11525478",
+      "source_type": "wikipedia",
+      "score": 0.5943962097167969,
+      "text": "Crashcup People Leonardo da Vinci (1452–1519), Italian polymath Leonardo Araújo, Brazilian former footballer and manager, most recently the sporting director of Paris Saint-Germain Leonardo (footballer, born 1974), Brazilian forward Leonardo Pereira da Silva (1974–2016) Leonardo (footballer, born 1976), Brazilian winger Leonardo dos Santos..."
+    },
+    {
+      "chunk_id": "wikipedia:Decade#0000",
+      "doc_id": "wikipedia:Decade",
+      "title": "Decade",
+      "url": "https://en.wikipedia.org/?curid=695530",
+      "source_type": "wikipedia",
+      "score": 0.552017068862915,
+      "text": "A decade (from Ancient Greek: δεκάς, dekas, lit. 'group of 10') is a period of 10 years. It may also be called a decennium (from Latin: decennium, lit. 'ten-year'). Decades may describe any ten-year period, such as those of a person's life, or refer to specific groupings of calendar years. Usage Any period of ten years is a 'decade' or 'decennium'. For example, the statement that \"during his last decade, Mozart explored chromatic harmony to a degree rare at the time\" refers to the last 10 years of Wolfgang Amadeus Mozart's life without regard to which calendar years are encompassed. Also, 'the first decade' of a person's life begins on the day of their birth and ends at the end of their 10th year of life when they have their 10th birthday; the second decade of life starts with their 11th year of life (during which one is typically still referred to as being \"10\") and ends at the end of their 20th year of life, on their 20th birthday; similarly, the third decade of life, when one is in"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a boy is watching a superwoman",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "The meme poster wants to support football rather than supporting FIFA organization.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "football",
+          "FIFA organization"
+        ]
+      },
+      "title": {
+        "text": "It's time to sail the seven seas me mateys (Unless you don't care about football or the world cup)",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "time",
+          "the seven seas",
+          "mateys",
+          "football",
+          "the world cup"
+        ]
+      },
+      "text": {
+        "text": "a ys | at i ae ; ~ LT ? o5 , \\",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "time",
+      "the seven seas",
+      "mateys",
+      "football",
+      "the world cup"
+    ],
+    "secondary_terms": [
+      "football",
+      "FIFA organization"
+    ],
+    "queries": [
+      "\"Unless\" \"the seven seas\" \"the world cup\" \"time\" \"mateys\"",
+      "\"FIFA organization\" \"the seven seas\" \"the world cup\" \"time\"",
+      "\"the world cup\" \"time\" \"mateys\" \"football\""
+    ]
+  },
+  "source_jsonl_id": null
+}

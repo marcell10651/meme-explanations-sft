@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_05517",
+  "queries": [
+    "\"an American football meme\" \"the World Cup\" \"the last play\" \"\"Deflategate\"",
+    "\"the last play\" \"\"Deflategate\" \"the call\" \"honor\""
+  ],
+  "primary_terms": [
+    "honor",
+    "the World Cup",
+    "an American football meme",
+    "the call",
+    "the last play",
+    "\"Deflategate"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Play#0001",
+      "doc_id": "wikipedia:Play",
+      "title": "Play",
+      "url": "https://en.wikipedia.org/?curid=923188",
+      "source_type": "wikipedia",
+      "score": 0.7417204976081848,
+      "text": "and also known as Raftaar 24 x 7 The Play (film), a 2013 Indian Bengali-language film Aattam or The Play, a 2024 Indian Malayalam-language film Games and sports Gameplay Play from scrimmage in American and Canadian football The Play (American football), a famous last-second kickoff return by the California Golden Bears to beat the..."
+    },
+    {
+      "chunk_id": "wikipedia:Drama#0000",
+      "doc_id": "wikipedia:Drama",
+      "title": "Drama",
+      "url": "https://en.wikipedia.org/?curid=20913753",
+      "source_type": "wikipedia",
+      "score": 0.6131225824356079,
+      "text": "Drama is the specific mode of fiction represented in performance: a play, opera, mime, ballet, etc., performed in a theatre, or on radio or television. Considered as a genre of poetry in general, the dramatic mode has been contrasted with the epic and the lyrical modes ever since Aristotle's Poetics (c. 335 BC)—the earliest work of dramatic theory. The term \"drama\" comes from a Greek word meaning \"deed\" or \"act\" (δρᾶμα, drâma), which is derived from \"I do\" (δράω, dráō). The two masks associated with drama represent the traditional generic division between comedy and tragedy. In English (as was the analogous case in many other European languages), the word play or game (translating the Anglo-Saxon pleġan or Latin ludus) was the standard term for dramas until William Shakespeare's time—just as its creator was a play-maker rather than a dramatist and the building was a play-house rather than a theatre."
+    },
+    {
+      "chunk_id": "wikipedia:American#0001",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.5327486395835876,
+      "text": "conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C. Sports teams Soccer Baltimore Americans, the name of two soccer teams, one from 1939 to 1942 and one from 1942 to 1948 Chicago Americans, a soccer team in 1972 Dallas Americans, a soccer team from 1983 to 1985 Hartford Americans, a soccer..."
+    },
+    {
+      "chunk_id": "wikipedia:Modern Times (film)#0000",
+      "doc_id": "wikipedia:Modern Times (film)",
+      "title": "Modern Times (film)",
+      "url": "https://en.wikipedia.org/?curid=74962",
+      "source_type": "wikipedia",
+      "score": 0.48927844166755674,
+      "text": "Modern Times is a 1936 American part-talkie satirical slapstick comedy film produced, written and directed by Charlie Chaplin. In Chaplin's last performance as the iconic Little Tramp, his character struggles to survive in the modern, industrialized world. The film also stars Paulette Goddard, Henry Bergman, Tiny Sandford and Chester Conklin. Modern Times has won many awards and honors, and is widely considered one of the greatest films ever. It was one of the first 25 films selected by the Library of Congress for preservation in the National Film Registry for being \"culturally, historically, or aesthetically significant\". Plot The Tramp works on an assembly line, where he suffers greatly due to the stress and pace of the repetitive work. He eventually suffers a nervous breakdown and runs amok, getting stuck within a machine and throwing the factory into chaos; he is then sent to the hospital."
+    },
+    {
+      "chunk_id": "wikipedia:Drama#0001",
+      "doc_id": "wikipedia:Drama",
+      "title": "Drama",
+      "url": "https://en.wikipedia.org/?curid=20913753",
+      "source_type": "wikipedia",
+      "score": 0.47759589552879333,
+      "text": "until William Shakespeare's time—just as its creator was a play-maker rather than a dramatist and the building was a play-house rather than a theatre. The use of \"drama\" in a more narrow sense to designate a specific type of play dates from the modern era. \"Drama\" in this sense refers to a play that is neither a comedy nor a tragedy—for example, Zola's Thérèse Raquin (1873) or Chekhov's Ivanov (1887). It is this narrower sense that the..."
+    },
+    {
+      "chunk_id": "wikipedia:Final#0000",
+      "doc_id": "wikipedia:Final",
+      "title": "Final",
+      "url": "https://en.wikipedia.org/?curid=759020",
+      "source_type": "wikipedia",
+      "score": 0.4756140261888504,
+      "text": "Final, Finals or The Final may refer to: Final examination or finals, a test given at the end of a course of study or training Final (competition), the last or championship round of a sporting competition, match, game, or other contest which decides a winner for an event Another term for playoffs, describing a sequence of contests taking place after a regular season or round-robin tournament, culminating in a final by the first definition. Art and entertainment Finals (comics), a four-issue comic book mini-series The Finals, a first-person shooter game Film and television Final (film), a science fiction film The Final (film), a thriller film Finals (film), a 2019 Malayalam sports drama film \"Finals\" (Doctor in the House), a 1970 television episode Music Final, a tone of the Gregorian mode Final (band), an English electronic musical group Final (Vol. 1), 2021 album by Enrique Iglesias Final (Vol. 2), 2024 album by Enrique Iglesias The Final (album), by Wham!"
+    },
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.4735974967479706,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Final#0001",
+      "doc_id": "wikipedia:Final",
+      "title": "Final",
+      "url": "https://en.wikipedia.org/?curid=759020",
+      "source_type": "wikipedia",
+      "score": 0.46836066246032715,
+      "text": "electronic musical group Final (Vol. 1), 2021 album by Enrique Iglesias Final (Vol. 2), 2024 album by Enrique Iglesias The Final (album), by Wham! \"The Final\", a song by Dir en grey on the album Withering to Death Other uses Final case, a grammatical case Part of a syllable NBA Finals, the championship competition of the National Basketball Association..."
+    },
+    {
+      "chunk_id": "wikipedia:Timon#0000",
+      "doc_id": "wikipedia:Timon",
+      "title": "Timon",
+      "url": "https://en.wikipedia.org/?curid=358706",
+      "source_type": "wikipedia",
+      "score": 0.4564277082681656,
+      "text": "Timon is a masculine given name and a surname which may refer to: People Timon of Athens (person), 5th-century Athenian and legendary misanthrope Timon of Phlius (c. 320 BCE – c. 235 BCE), a Pyrrhonist philosopher of Ptolemaic Egypt and Hellenistic Greece Timon the Deacon, an early Christian leader Timon of Chaeronea, brother of Plutarch Timon Dobias (born 1989), Slovak footballer Timon Gremmels (born 1976), German politician Timon Haugan (born 1996), Norwegian alpine skier Timon Parris (born 1995), American football player Timon Screech, British art historian Timon Wellenreuther (born 1995), German football goalkeeper John Timon (1797–1867), first Roman Catholic Bishop of Buffalo, New York Juan José Timón (1937–2001), Uruguayan Olympic cyclist Fictional characters the title character of Timon of Athens, a play by William Shakespeare the title character of The History of Timon of Athens the Man-hater, a rewrite of Shakespeare's original play by Thomas Shadwell Timon, a film and"
+    },
+    {
+      "chunk_id": "wikipedia:Game#0001",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.435385525226593,
+      "text": "may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports. All games must have a challenge and a structure; barring certain exceptions like sandbox games, all games also have an objective. Multiplayer games also include interaction between two or more players. Not all forms of play are considered games; toys and puzzles, for instance, are not games, as they do not have a..."
+    }
+  ]
+}

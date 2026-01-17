@@ -1,0 +1,105 @@
+{
+  "meme_id": "meme_01654",
+  "queries": [
+    "\"Particle Man\" \"Song\" \"Giants\"",
+    "\"Particle Man\" \"Triangle song\" \"the music charts\" \"Song\"",
+    "\"the music charts\" \"Song\" \"Giants\" \"two men\""
+  ],
+  "primary_terms": [
+    "Song",
+    "Particle Man",
+    "Giants"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Loud#0000",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 1.09233415722847,
+      "text": "Loud most commonly refers to: Loudness, the subjective quality of sound of great intensity Loud may also refer to: Music Albums Loud (Half Japanese album), 1981 Loud (Rihanna album), 2010 Loud (Timo Maas album), 2001 Loud (Wicked Tinkers album), 1999 Loud, a 2000 album by Lexy & K-Paul Loud (EP), by American Pop-Rock band R5 Artists Loud (British band), a British 1990s band Loud (Israeli band), an Israeli psytrance music group Loud (rapper), a Canadian rapper from Quebec Loudness (band), a Japanese rock band Songs \"Loud\" (Mac Miller song), 2012 \"Loud\" (Shannon Noll song), 2007 \"Loud\" (Stan Walker song), 2011 \"Loud\" (R5 song), 2013 \"Loud\" (Tim Hicks song), 2018 \"Loud\", a song by Silk City, featuring GoldLink and Desiigner \"Loud\", a 2007 single by Big & Rich from the album Between Raising Hell and Amazing Grace \"Loud\", a song by Chocolate USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the"
+    },
+    {
+      "chunk_id": "wikipedia:Sexy, Sexy, Sexy#0001",
+      "doc_id": "wikipedia:Sexy, Sexy, Sexy",
+      "title": "Sexy, Sexy, Sexy",
+      "url": "https://en.wikipedia.org/?curid=38590761",
+      "source_type": "wikipedia",
+      "score": 1.0042701721191407,
+      "text": "the typical funk hallmarks of his more popular work. The song performed strongly on three separate Billboard charts as well as the Cashbox chart. It appeared in three separate releases under music label Polydor Records and reissued in 2020. Background In the early 1970s the United States saw the rise of ethnic blaxploitation films focussed on the contemporary experience and oppression of African Americans. The films pioneered..."
+    },
+    {
+      "chunk_id": "wikipedia:Away#0001",
+      "doc_id": "wikipedia:Away",
+      "title": "Away",
+      "url": "https://en.wikipedia.org/?curid=6770700",
+      "source_type": "wikipedia",
+      "score": 0.9835531771183014,
+      "text": "by Devin Townsend from Accelerated Evolution, 2003 \"Away\", by Davido from Timeless, 2023 \"Away\", by the Feelies from Only Life, 1988 \"Away\", by G.E.M. from Heartbeat, 2015 \"Away\", by Neurosis from Times of Grace, 1999 \"Away\", by Nightwish from Over the Hills and Far Away, 2001 \"Away\", by Of Mice & Men from Cold World, 2016 \"Away\", by Swallow the Sun from Songs from the North I, II & III..."
+    },
+    {
+      "chunk_id": "wikipedia:Believe#0001",
+      "doc_id": "wikipedia:Believe",
+      "title": "Believe",
+      "url": "https://en.wikipedia.org/?curid=4678533",
+      "source_type": "wikipedia",
+      "score": 0.9710227906703949,
+      "text": "or the title song (see below), 2009 Believe (Disturbed album), or the title song, 2002 Believe (Emerson Drive album), or the title song, 2009 Believe (Girlschool album), 2004 Believe (Jai McDowall album), 2011 Believe (The Jets album), 1989 Believe (Justin Bieber album), or the title song, 2012 Believe (Katherine Jenkins album), 2009..."
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0000",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.9594349324703216,
+      "text": "Wait or WAIT may refer to: Music Wait (musician), British town pipers Albums and EPs Wait (The Polyphonic Spree EP), by The Polyphonic Spree Wait (Emanuel Nice EP), a 2002 EP released by the band Emanuel Nice Wait (Steelheart album), or the title song Wait (Sons of Korah album), 2011 Wait (Pardon Us album), 2019 Songs \"Wait\" (Beatles song), 1965 \"Wait\" (Chantel Jeffries song), 2018 \"Wait\" (Earshot song), 2004 \"Wait\" (Huffamoose song), 1997 \"Wait\" (Gyan song), 1989 \"Wait\" (M83 song), 2012 \"Wait\" (Maggie Reilly song), 1992 \"Wait\" (Maroon 5 song), 2018 \"Wait\" (Seven Mary song), 2001 \"Wait\" (Wang Chung song), 1984 \"Wait\" (White Lion song), 1987 \"Wait (The Whisper Song)\", by Ying Yang Twins, 2005 \"Wait\", by 6ix9ine from TattleTales, 2020 \"Wait\", by The Afters from I Wish We All Could Win, 2005 \"Wait\", by C418 from Minecraft – Volume Beta, 2013 \"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV"
+    },
+    {
+      "chunk_id": "wikipedia:Whatever#0001",
+      "doc_id": "wikipedia:Whatever",
+      "title": "Whatever",
+      "url": "https://en.wikipedia.org/?curid=3429794",
+      "source_type": "wikipedia",
+      "score": 0.8295761942863464,
+      "text": "1982 \"Whatever\", by 4minute from Name Is 4Minute, 2013 \"Whatever\", by DJ Khaled from Grateful, 2017 \"Whatever\", by Gnarls Barkley from The Odd Couple, 2008 \"Whatever\", by Hüsker Dü from Zen Arcade, 1984 \"Whatever\", by Imogen Heap from I Megaphone, 1998 \"Whatever\", by Lil Tecca from We Love You Tecca 2, 2021 \"Whatever\", by Our Lady Peace..."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.808854877948761,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:Your Game#0001",
+      "doc_id": "wikipedia:Your Game",
+      "title": "Your Game",
+      "url": "https://en.wikipedia.org/?curid=4747095",
+      "source_type": "wikipedia",
+      "score": 0.7870691418647766,
+      "text": "gospel version) UK CD2 \"Your Game\" \"Take Control\" (Young, R. Stannard, J. Gallagher, S. Hale) \"Down\" (Young, S. Morales, R. Shaw, D. Siegel, D. Warner) \"Your Game\" (video) Credits and personnel Neil Conti – drums Taio Cruz – writer Stephen Lipson – producer, programming Bair MacKichan – drums, guitar, programming, writer Heff Moraes – mixing engineer Dave Naughton – Pro Tools Will Young – vocals, writer Charts Release history References External links Music video on YouTube"
+    },
+    {
+      "chunk_id": "wikipedia:Nobody#0001",
+      "doc_id": "wikipedia:Nobody",
+      "title": "Nobody",
+      "url": "https://en.wikipedia.org/?curid=4907924",
+      "source_type": "wikipedia",
+      "score": 0.7065405011177063,
+      "text": "Albums Nobody (album) or the title song, by Chief Keef, 2014 Nobody (EP) or the title song, by Cartman, 2000 Nobody, mixtape by twlv, 2018 Songs \"No Body\", by Blake Shelton, 2022 \"Nobody\" (1905 song), by Alex Rogers and Bert A. Williams \"Nobody\" (Avenged Sevenfold song), 2023 \"Nobody\" (DJ Neptune song), 2020 \"Nobody..."
+    },
+    {
+      "chunk_id": "wikipedia:Quiet#0000",
+      "doc_id": "wikipedia:Quiet",
+      "title": "Quiet",
+      "url": "https://en.wikipedia.org/?curid=1612819",
+      "source_type": "wikipedia",
+      "score": 0.6974084436893463,
+      "text": "Quiet may refer to: Silence, a relative or total lack of sound In music The Quiett (born 1985), South Korean rapper Quiet (album), a 1996 John Scofield album \"Quiet\", a song by Lights, from her album The Listening (2009) \"Quiet\" (MILCK song), a 2017 song written for the 2017 Women's March in Washington, D.C. Quiet (EP), a 2007 EP by Jim Ward \"Quiet\" (This Will Destroy You song), 2006 \"Quiet\" (Lil' Kim song), a song by Lil' Kim \"Quiet\", a song by Alien Ant Farm, from their 2003 albumTruant \"Quiet\", a song by Camila Cabello, from her album Familia (2022) \"Quiet\", a song by Demi Lovato, from her album Here We Go Again (2009) \"Quiet\", a song by The Smashing Pumpkins, from their album Siamese Dream (1993) \"Quiet\", a song by the Player Piano from their album Satellite (2007) \"Quiet\", a song by Royce da 5'9\", from his album Layers (2016) The Quiet, an album by Bella Morte \"Quiet\", a song by Tim Minchin from the musical Matilda In religion Prayer of Quiet, a term from Christian theology"
+    }
+  ]
+}

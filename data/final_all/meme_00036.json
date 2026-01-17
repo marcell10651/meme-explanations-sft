@@ -1,0 +1,206 @@
+{
+  "meme_id": "meme_00036",
+  "queries": [
+    "\"Ecosystem\" \"Dolphins\" \"Italy\" \"Japan\"",
+    "\"Italy\" \"Japan\" \"ecosystem back\" \"back normal\""
+  ],
+  "primary_terms": [
+    "Ecosystem",
+    "ecosystem back",
+    "back normal",
+    "back",
+    "normal",
+    "Dolphins",
+    "Italy",
+    "Japan",
+    "tae"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Italy#0000",
+      "doc_id": "wikipedia:Italy",
+      "title": "Italy",
+      "url": "https://en.wikipedia.org/?curid=14532",
+      "source_type": "wikipedia",
+      "score": 0.9260141968727111,
+      "text": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia. Italy shares land borders with France to the west; Switzerland and Austria to the north; Slovenia to the east; and the two enclaves of Vatican City and San Marino. It is the tenth-largest country in Europe by area, covering 301,340 km2 (116,350 sq mi), and the third-most populous member state of the European Union, with nearly 59 million inhabitants. Italy's capital and largest city is Rome; other major cities include Milan, Naples, Turin, Palermo, Bologna, Florence, Genoa, and Venice. The history of Italy goes back to numerous Italic peoples – notably including the ancient Romans, who conquered the Mediterranean world during the Roman Republic and ruled it for centuries during the Roman Empire."
+    },
+    {
+      "chunk_id": "wikipedia:Japan#0000",
+      "doc_id": "wikipedia:Japan",
+      "title": "Japan",
+      "url": "https://en.wikipedia.org/?curid=15573",
+      "source_type": "wikipedia",
+      "score": 0.8855674028396606,
+      "text": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands alongside 14,121 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of over 123 million as of 2025, it is the world's 11th most populous country. Tokyo is the country's capital and largest city. The first known habitation of the archipelago dates to the Upper Paleolithic, with the beginning of the Japanese Paleolithic dating to c. 36,000 BC. Between the 4th and 6th centuries, its kingdoms were united under an emperor in Nara and later in Heian-kyō."
+    },
+    {
+      "chunk_id": "wikipedia:Ecosystem#0001",
+      "doc_id": "wikipedia:Ecosystem",
+      "title": "Ecosystem",
+      "url": "https://en.wikipedia.org/?curid=9632",
+      "source_type": "wikipedia",
+      "score": 0.7395483911037445,
+      "text": "in the process of recovering from past disturbances. The tendency of an ecosystem to remain close to its equilibrium state, is termed its resistance. Its capacity to absorb disturbance and reorganize, while undergoing change so as to retain essentially the same function, structure, identity, is termed its ecological resilience. Ecosystems can be studied through a variety of approaches—theoretical studies, studies..."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0001",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.696188023686409,
+      "text": "forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota. Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species..."
+    },
+    {
+      "chunk_id": "wikipedia:Leonardo#0000",
+      "doc_id": "wikipedia:Leonardo",
+      "title": "Leonardo",
+      "url": "https://en.wikipedia.org/?curid=11525478",
+      "source_type": "wikipedia",
+      "score": 0.5652519971132278,
+      "text": "Leonardo or The Leonardo may refer to: Arts and entertainment Leonardo Journal, an arts journal Leonardo (Italian magazine), a philosophy magazine published in Florence, Italy, in 1903–1907 Leonardo (journal), published by the MIT Press Leonardo (Teenage Mutant Ninja Turtles), one of the main characters in the Teenage Mutant Ninja Turtles franchise Leonardo (TV channel), an Italian television channel Leonardo (2011 TV series), a CBBC television series which centers around teenage Leonardo da Vinci played by Jonathan Bailey Leonardo (2021 TV series), an Italian-American television series Leonardo the Musical: A Portrait of Love, a 1993 musical Leonardo/ISAST, the International Society for the Arts, Sciences and Technology \"The Leonardo\", a 1933 short story written in Russian by Vladimir Nabokov Leonardo, the assistant of inventor Clyde Crashcup People Leonardo da Vinci (1452–1519), Italian polymath Leonardo Araújo, Brazilian former footballer and manager, most recently the sporting"
+    },
+    {
+      "chunk_id": "wikipedia:Asia#0001",
+      "doc_id": "wikipedia:Asia",
+      "title": "Asia",
+      "url": "https://en.wikipedia.org/?curid=689",
+      "source_type": "wikipedia",
+      "score": 0.5637779831886292,
+      "text": "Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them. A commonly accepted division places Asia to the east of the Suez Canal separating it from Africa; and to the east of the Turkish straits, the Ural Mountains and Ural River, and to the south of the Caucasus Mountains and the Caspian and Black seas, separating it from Europe. Since the concept of Asia derives from the term for the eastern region from a European perspective, Asia..."
+    },
+    {
+      "chunk_id": "wikipedia:Elephant#0001",
+      "doc_id": "wikipedia:Elephant",
+      "title": "Elephant",
+      "url": "https://en.wikipedia.org/?curid=9279",
+      "source_type": "wikipedia",
+      "score": 0.5635763764381408,
+      "text": "well as in communication. African elephants have larger ears and concave backs, whereas Asian elephants have smaller ears and convex or level backs. Elephants are scattered throughout sub-Saharan Africa, South Asia, and Southeast Asia and are found in different habitats, including savannahs, forests, deserts, and marshes. They are herbivorous, and they stay near water when it is accessible. They are considered..."
+    },
+    {
+      "chunk_id": "wikipedia:Switzerland#0001",
+      "doc_id": "wikipedia:Switzerland",
+      "title": "Switzerland",
+      "url": "https://en.wikipedia.org/?curid=26748",
+      "source_type": "wikipedia",
+      "score": 0.5349371790885925,
+      "text": "linguistic and cultural regions—German, French, Italian, and Romansh—reflecting a long-standing tradition of multilingualism and cultural pluralism. Swiss national identity nonetheless remains fairly cohesive, rooted in a shared historical background, common values such as federalism and direct democracy, and Alpine symbolism. Swiss nationhood transcends language, ethnicity, and religion, leading..."
+    },
+    {
+      "chunk_id": "wikipedia:The Three Faces#0000",
+      "doc_id": "wikipedia:The Three Faces",
+      "title": "The Three Faces",
+      "url": "https://en.wikipedia.org/?curid=23666731",
+      "source_type": "wikipedia",
+      "score": 0.5077184647321701,
+      "text": "The Three Faces (Italian: I tre volti) is a 1965 Italian anthology film consisting of three segments directed by Michelangelo Antonioni, Mauro Bolognini, and Franco Indovina, starring Soraya either as herself or in fictitious roles. Cast \"Il provino\" Soraya as Herself Ivano Davoli as Davoli - Journalist Alfredo De Laurentiis as Himself Dino De Laurentiis as Himself Piero Tosi as Costumista Giorgio Sartarelli as Fotografo Ralph Serpe as Produttore \"Gli amanti celebri\" Soraya as Linda Richard Harris as Robert Jean Rougeul as Speaker Esmeralda Ruspoli as Edda José Luis de Vilallonga as Rodolph \"Latin Lover\" Soraya as Mrs Melville Alberto Sordi as Armando Tucci Nando Angelini as Fernando Angeli Goffredo Alessandrini as Direttore dell'agenzia Alberto Giubilo as 2nd journalist in Fiumicino Renato Tagliani Background According to Antonioni, producer De Laurentiis had imposed severe cuts on his segment, which in the theatrically released version served as a \"preface\" (Italian \"prefazione\") to"
+    },
+    {
+      "chunk_id": "wikipedia:Asia#0000",
+      "doc_id": "wikipedia:Asia",
+      "title": "Asia",
+      "url": "https://en.wikipedia.org/?curid=689",
+      "source_type": "wikipedia",
+      "score": 0.48901090025901794,
+      "text": "Asia ( AY-zhə, UK also AY-shə) is the largest continent in the world by both land area and population. It covers an area of more than 44 million square kilometres, about 30% of Earth's total land area and 8% of Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilisations. Its 4.7 billion people constitute roughly 60% of the world's population. Asia shares the landmass of Eurasia with Europe, and of Afro-Eurasia with both Europe and Africa. In general terms, it is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "godzilla is swimming underwater. this is a dangerous aquatic animal in the sea searching for a prey",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "godzilla",
+          "a dangerous aquatic animal",
+          "the sea"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster gets annoyed Dolphin return to Japan.. The person who wrote the post is making fun of Italy being happy about animals coming back",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "annoyed Dolphin return",
+          "Japan",
+          "The person",
+          "the post",
+          "fun",
+          "Italy",
+          "animals"
+        ]
+      },
+      "title": {
+        "text": "Ecosystem is back to normal",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Ecosystem",
+          "ecosystem back",
+          "back normal",
+          "back",
+          "normal"
+        ]
+      },
+      "text": {
+        "text": "Dolphins have returned to Italy Meanwhile in Japan he nr nn ae eo | Wo Seek foe tae OTR ee KAY “ee",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Dolphins",
+          "Italy",
+          "Japan",
+          "tae"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Ecosystem",
+      "ecosystem back",
+      "back normal",
+      "back",
+      "normal",
+      "Dolphins",
+      "Italy",
+      "Japan",
+      "tae"
+    ],
+    "secondary_terms": [
+      "godzilla",
+      "a dangerous aquatic animal",
+      "the sea",
+      "annoyed Dolphin return",
+      "Japan",
+      "The person",
+      "the post",
+      "fun",
+      "Italy",
+      "animals"
+    ],
+    "queries": [
+      "\"Ecosystem\" \"Dolphins\" \"Italy\" \"Japan\"",
+      "\"Italy\" \"Japan\" \"ecosystem back\" \"back normal\""
+    ]
+  },
+  "source_jsonl_id": null
+}

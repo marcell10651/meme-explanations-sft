@@ -1,0 +1,190 @@
+{
+  "meme_id": "meme_01535",
+  "queries": [
+    "\"GTA Online player\" \"Which one\" \"Incoming Strikeforce\" \"zodiac signs\"",
+    "\"Incoming Strikeforce\" \"zodiac signs\" \"which kind\" \"which\""
+  ],
+  "primary_terms": [
+    "Which one",
+    "which",
+    "one",
+    "zodiac signs",
+    "which kind",
+    "GTA Online player",
+    "Incoming Strikeforce"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:October#0001",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.827248466014862,
+      "text": "Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa. Symbols October's birthstones are the tourmaline and opal. Its birth flower is the calendula. The zodiac signs are Libra (until October 22) and Scorpio (from October 23 onward). Observances This list does not necessarily imply either official status..."
+    },
+    {
+      "chunk_id": "wikipedia:Corona#0001",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.6014758348464966,
+      "text": "into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities Corona (fictional world), in R. A. Salvatore's DemonWars novels Corona, a character in the game Doraemon: Nobita to Mittsu no Seireiseki Corona, a character in the Spider..."
+    },
+    {
+      "chunk_id": "wikipedia:Gangnam Style#0000",
+      "doc_id": "wikipedia:Gangnam Style",
+      "title": "Gangnam Style",
+      "url": "https://en.wikipedia.org/?curid=36584679",
+      "source_type": "wikipedia",
+      "score": 0.5766935020685195,
+      "text": "\"Gangnam Style\" (Korean: 강남스타일; pronounced [kaŋ.nam sɯ.tʰa.il]) is a K-pop song by South Korean singer Psy, released on July 15, 2012, by YG Entertainment as the lead single of his sixth studio album, Psy 6 (Six Rules), Part 1. The term \"Gangnam Style\" is a neologism that refers to the nouveau riche lifestyles associated with the Gangnam region of Seoul. \"Gangnam Style\" was released on to Psy's YouTube channel and debuted at number one on South Korea's Gaon Chart, receiving generally positive reviews, with praise for its catchy beat and Psy's amusing dancing during live performances and in various locations around the world in its music video. The song and its music video went viral in August 2012 and have influenced popular culture worldwide. In the United States, \"Gangnam Style\" peaked at number two on the Billboard Hot 100, which at the time, was the highest charting song by a South Korean artist."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.5149994403123855,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:Commit#0000",
+      "doc_id": "wikipedia:Commit",
+      "title": "Commit",
+      "url": "https://en.wikipedia.org/?curid=1946757",
+      "source_type": "wikipedia",
+      "score": 0.47854459285736084,
+      "text": "Commit may refer to: Computing Databases Commit (data management), a set of permanent changes in a database COMMIT (SQL), an SQL statement used to create such a changeset Version control Changeset, list of differences between two successive versions in a repository Commit (version control), the operation of committing such a changeset to the repository Microsoft Windows Commit charge, a concept in operating system-level memory management Others Materiel and IT Command (COMMIT), the defense procurement agency of the government of The Netherlands Commit (motion), a parliamentary motion Nicotine replacement therapy, by the trade name Commit Commit (card game), a 19th century American variant of the French card game, Comet See also Commitment (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Hulk#0000",
+      "doc_id": "wikipedia:Hulk",
+      "title": "Hulk",
+      "url": "https://en.wikipedia.org/?curid=31509",
+      "source_type": "wikipedia",
+      "score": 0.46907166242599485,
+      "text": "The Hulk is a superhero appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962). In his comic book appearances, the character, who has dissociative identity disorder (DID), is primarily represented by the alter ego Hulk, an immense, green-skinned, hulking brute, possessing a limitless degree of physical strength, and the alter ego Dr. Robert Bruce Banner, a physically weak, socially withdrawn, and emotionally reserved physicist, both of whom typically resent each other. Lee stated that the Hulk's creation was inspired by a combination of Frankenstein and Dr. Jekyll and Mr. Hyde. Following his accidental exposure to gamma rays while saving the life of Rick Jones during the detonation of an experimental bomb, Banner is physically transformed into the Hulk when subjected to emotional stress, at or against his will."
+    },
+    {
+      "chunk_id": "wikipedia:Among Us#0000",
+      "doc_id": "wikipedia:Among Us",
+      "title": "Among Us",
+      "url": "https://en.wikipedia.org/?curid=65260678",
+      "source_type": "wikipedia",
+      "score": 0.4099231123924255,
+      "text": "Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth. The game allows for cross-platform play; it was released on iOS and Android devices in June 2018 and on Windows later that year in November. It was ported to the Nintendo Switch in December 2020 and on the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in December 2021. A virtual reality adaptation, Among Us VR, was released on November 10, 2022. Among Us takes place in space-themed settings where players are colorful, armless cartoon astronauts. Each player takes on one of two roles: most are Crewmates, but a small number are Impostors. Crewmates work to complete assigned tasks in the game while identifying and voting out suspected Impostors (who appear identical to Crewmates) using social deduction, while Impostors have the objective of killing the Crewmates. The game was inspired by the party game Mafia and the science fiction horror film The Thing."
+    },
+    {
+      "chunk_id": "wikipedia:Hawk#0001",
+      "doc_id": "wikipedia:Hawk",
+      "title": "Hawk",
+      "url": "https://en.wikipedia.org/?curid=56890",
+      "source_type": "wikipedia",
+      "score": 0.394241726398468,
+      "text": "horizontal pursuit. The terms accipitrine hawk and buteonine hawk are used to distinguish between the types in regions where hawk applies to both. The term \"true hawk\" is sometimes used for the accipitrine hawks in regions where buzzard is preferred for the buteonine hawks. All these groups are members of the family Accipitridae, which includes hawks and buzzards as well as kites, harriers, and eagles. To confuse things further,..."
+    },
+    {
+      "chunk_id": "wikipedia:Hand#0000",
+      "doc_id": "wikipedia:Hand",
+      "title": "Hand",
+      "url": "https://en.wikipedia.org/?curid=19166474",
+      "source_type": "wikipedia",
+      "score": 0.3658900082111359,
+      "text": "A hand is a prehensile, multi-fingered appendage located at the end of the forearm or forelimb of primates such as humans, chimpanzees, monkeys, and lemurs. A few other vertebrates such as the koala (which has two opposable thumbs on each \"hand\" and fingerprints extremely similar to human fingerprints) are often described as having \"hands\" instead of paws on their front limbs. The raccoon is usually described as having \"hands\" though opposable thumbs are lacking. Some evolutionary anatomists use the term hand to refer to the appendage of digits on the forelimb more generally—for example, in the context of whether the three digits of the bird hand involved the same homologous loss of two digits as in the dinosaur hand. The human hand usually has five digits: four fingers plus one thumb; however, these are often referred to collectively as five fingers, whereby the thumb is included as one of the fingers."
+    },
+    {
+      "chunk_id": "wikipedia:Arms#0000",
+      "doc_id": "wikipedia:Arms",
+      "title": "Arms",
+      "url": "https://en.wikipedia.org/?curid=9843028",
+      "source_type": "wikipedia",
+      "score": 0.36499732732772827,
+      "text": "Arms or ARMS may also refer to: Arm or arms, the upper limbs of the body People Adonis Arms (born 1998), American basketball player Ida A. T. Arms (1856–1931), American missionary-educator, temperance leader Coat of arms or weapons Armaments or weapons Firearm Coat of arms In this sense, \"arms\" is a common element in pub names Enterprises Amherst Regional Middle School Arms Corporation, originally named Dandelion, a defunct Japanese animation studio who operated from 1996 to 2020 TRIN (finance) or Arms Index, a short-term stock trading index Australian Relief & Mercy Services, a part of Youth With A Mission Arts and entertainment ARMS (band), an American indie rock band formed in 2004 Arms (album), a 2016 album by Bell X1 \"Arms\" (song), a 2011 song by Christina Perri from the album lovestrong Arms (video game), a 2017 fighting video game for the Nintendo Switch ARMS Charity Concerts, a series of charitable rock concerts in support of Action into Research for Multiple Sclerosis in 1983"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "the upper picture is a flying jet while the lower picture shows same head with a headset",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the upper picture",
+          "the lower picture",
+          "same head"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that After a prompt question about their video game style, gamers realize they are mostly similar.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their video game style",
+          "gamers"
+        ]
+      },
+      "title": {
+        "text": "Which one are you?",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Which one",
+          "which",
+          "one"
+        ]
+      },
+      "text": {
+        "text": "F- zodiac signs, which kind of GTA Online player are you? (CR moh ISS ago A: \"Incoming B-11 B: \"Incoming Strikeforce!\" A-10 Warthog!\"",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "zodiac signs",
+          "which kind",
+          "GTA Online player",
+          "Incoming Strikeforce"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Which one",
+      "which",
+      "one",
+      "zodiac signs",
+      "which kind",
+      "GTA Online player",
+      "Incoming Strikeforce"
+    ],
+    "secondary_terms": [
+      "the upper picture",
+      "the lower picture",
+      "same head",
+      "their video game style",
+      "gamers"
+    ],
+    "queries": [
+      "\"GTA Online player\" \"Which one\" \"Incoming Strikeforce\" \"zodiac signs\"",
+      "\"Incoming Strikeforce\" \"zodiac signs\" \"which kind\" \"which\""
+    ]
+  },
+  "source_jsonl_id": null
+}

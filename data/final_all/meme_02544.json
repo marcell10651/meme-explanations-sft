@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_02544",
+  "queries": [
+    "\"Elon Musk\" \"Use\" \"the media\" \"checkmark\"",
+    "\"the media\" \"checkmark\" \"sorry\" \"don\""
+  ],
+  "primary_terms": [
+    "checkmark",
+    "sorry",
+    "don",
+    "see",
+    "Elon Musk",
+    "the media",
+    "Use"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Medium#0001",
+      "doc_id": "wikipedia:Medium",
+      "title": "Medium",
+      "url": "https://en.wikipedia.org/?curid=19967",
+      "source_type": "wikipedia",
+      "score": 0.799041485786438,
+      "text": "media List of art media (plural: media), materials and techniques used by an artist to produce a work Medium (band), an American rock band Medium (TV series), an American television series starring Patricia Arquette about a medium (psychic intermediary) working as a consultant for a district attorney's office Medium Productions..."
+    },
+    {
+      "chunk_id": "wikipedia:Content#0000",
+      "doc_id": "wikipedia:Content",
+      "title": "Content",
+      "url": "https://en.wikipedia.org/?curid=426094",
+      "source_type": "wikipedia",
+      "score": 0.7020469963550567,
+      "text": "Content or contents may refer to: Media Content (media), information or experience provided to audience or end-users by publishers or media producers Content industry, an umbrella term that encompasses companies owning and providing mass media and media metadata Content provider, a provider of non-core services in the telecommunications industry Free content, published material that can be used, copied, and modified without significant legal restriction Open content, published material licensed to authorize copying and modification by anyone Web content, information published on the World Wide Web Content analysis, a methodology used in the social sciences and humanities for studying the content of communication Content format, an encoded format for converting a specific type of data to displayable information Digital content, content that exists in the form of digital data Table of contents, a list of chapters or sections in a document Places Content (Centreville, Maryland) also"
+    },
+    {
+      "chunk_id": "wikipedia:Check#0001",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.6837400496006012,
+      "text": "by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal Juveniles, 1980 \"Check\", a song by Nas and Rick Ross from the soundtrack to Creed II, 2015 \"Check\", a song by Quin NFN, from 4Nun, 2019 \"Check\", a song by Qveen Herby from EP 8..."
+    },
+    {
+      "chunk_id": "wikipedia:Most#0001",
+      "doc_id": "wikipedia:Most",
+      "title": "Most",
+      "url": "https://en.wikipedia.org/?curid=26476214",
+      "source_type": "wikipedia",
+      "score": 0.6791006594896316,
+      "text": "(MoST), a defunct American fabless semiconductor company Most (Croatian political party), a party founded in 2012 Most Radio 105.8 FM, an Indonesian radio station See also MOST (disambiguation) The Most (disambiguation) Must (disambiguation) Moest (disambiguation) All pages with titles beginning with Most All pages with titles beginning..."
+    },
+    {
+      "chunk_id": "wikipedia:Internet#0000",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.6396528840065002,
+      "text": "The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies. The Internet carries a vast range of information services and resources, such as the interlinked hypertext documents and applications of the World Wide Web (WWW), electronic mail, discussion groups, internet telephony, streaming media and file sharing. Most traditional communication media, including telephone, radio, television, paper mail, newspapers, and print publishing, have been transformed by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites."
+    },
+    {
+      "chunk_id": "wikipedia:Instagram#0000",
+      "doc_id": "wikipedia:Instagram",
+      "title": "Instagram",
+      "url": "https://en.wikipedia.org/?curid=31591547",
+      "source_type": "wikipedia",
+      "score": 0.6157139897346496,
+      "text": "Instagram is an American photo and short-form video sharing social networking service owned by Meta Platforms. It allows users to upload media that can be edited with filters, be organized by hashtags, and be associated with a location via geographical tagging. Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tags and locations, view trending content, like photos, and follow other users to add their content to a personal feed. A Meta-operated image-centric social media platform, it is available on iOS, Android, Windows 10, and the web. Users can take photos and edit them using built-in filters and other tools, then share them on other social media platforms like Facebook. It supports 33 languages including English, Hindi, Spanish, French, Japanese, and Korean. Instagram was originally distinguished by allowing content to be framed only in a square (1:1) aspect ratio of 640 pixels to match the display width of the iPhone at the time."
+    },
+    {
+      "chunk_id": "wikipedia:Caption#0000",
+      "doc_id": "wikipedia:Caption",
+      "title": "Caption",
+      "url": "https://en.wikipedia.org/?curid=285212",
+      "source_type": "wikipedia",
+      "score": 0.6030435979366302,
+      "text": "Caption may refer to: Caption (text), explanatory text about specific published photos and articles An element of comics where words appear in a separate box; see Glossary of comics terminology § Caption Caption (comics convention), a small press and independent comic convention held annually in Oxford, England Caption (law), arrest or apprehension Closed captioning, used to provide the text of a show's audio portion to those who may have trouble hearing it Subtitles, textual versions of the dialog in film and other visual media Intertitle, a piece text edited into a film to convey information like dialogue <caption></caption>, an HTML element; see HTML element § caption"
+    },
+    {
+      "chunk_id": "wikipedia:Propaganda#0000",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 0.5984123259782791,
+      "text": "Propaganda is communication that is primarily used to influence or persuade an audience to further an agenda, which may not be objective and may be selectively presenting facts to encourage a particular synthesis or perception, or using loaded language to produce an emotional rather than a rational response to the information that is being presented. Propaganda can be found in a wide variety of different contexts. Beginning in the twentieth century, the English term propaganda became associated with a manipulative approach, but historically, propaganda had been a neutral descriptive term of any material that promotes certain opinions, ideologies or concepts. A wide range of materials and media are used for conveying propaganda messages, which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites."
+    },
+    {
+      "chunk_id": "wikipedia:Propaganda#0001",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 0.5933742880821228,
+      "text": "which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites. More recently, the digital age has given rise to new ways of disseminating propaganda, for example, in computational propaganda, bots and algorithms are used to manipulate public opinion, e.g., by creating fake or biased news to spread it on social media or using chatbots to mimic real people in discussions..."
+    },
+    {
+      "chunk_id": "wikipedia:Common#0001",
+      "doc_id": "wikipedia:Common",
+      "title": "Common",
+      "url": "https://en.wikipedia.org/?curid=568187",
+      "source_type": "wikipedia",
+      "score": 0.5711900800466537,
+      "text": "critic Arts, entertainment, and media Common (film), a 2014 BBC One film, written by Jimmy McGovern, on the UK's Joint Enterprise Law Dol Common, a character in The Alchemist by Ben Jonson Harvard Common Press of Boston, Massachusetts, a publisher of cookbooks and parenting books The Common Room, a former interactive TV show on ITV..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man with a face tattoo wearing a Burger King crown yells intensely.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a Burger King crown"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that Elon Musk is rumored to have racist people following him",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Elon Musk",
+          "racist people",
+          "him"
+        ]
+      },
+      "title": {
+        "text": "I'm sorry, I don't see checkmark",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "checkmark",
+          "sorry",
+          "don",
+          "see"
+        ]
+      },
+      "text": {
+        "text": "Elon Musk buys an airline the media: ; a an 7% t vt Use of N-Word Goes Up At Airports a> Wri",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Elon Musk",
+          "the media",
+          "Use"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "checkmark",
+      "sorry",
+      "don",
+      "see",
+      "Elon Musk",
+      "the media",
+      "Use"
+    ],
+    "secondary_terms": [
+      "a Burger King crown",
+      "Elon Musk",
+      "racist people",
+      "him"
+    ],
+    "queries": [
+      "\"Elon Musk\" \"Use\" \"the media\" \"checkmark\"",
+      "\"the media\" \"checkmark\" \"sorry\" \"don\""
+    ]
+  },
+  "source_jsonl_id": null
+}

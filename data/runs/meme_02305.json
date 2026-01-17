@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_02305",
+  "queries": [
+    "\"Twitter\" \"quite the turn\" \"events\" \"quite\" \"turn\"",
+    "\"quite\" \"turn\" \"bankruet\" \"may\""
+  ],
+  "primary_terms": [
+    "quite the turn",
+    "events",
+    "quite",
+    "turn",
+    "bankruet",
+    "may"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Even#0000",
+      "doc_id": "wikipedia:Even",
+      "title": "Even",
+      "url": "https://en.wikipedia.org/?curid=169948",
+      "source_type": "wikipedia",
+      "score": 0.6083024203777313,
+      "text": "Even may refer to: General Even (company), a Brazilian construction and real estate company Even (given name), a Norwegian male personal name Even (surname), a Breton surname Even (people), an ethnic group from Siberia and Russian Far East Even language, a language spoken by the Evens Odd and Even, a solitaire game which is played with two decks of playing cards Evening, the period of a day that begins at the end of daylight and overlaps with the beginning of night Science and technology In mathematics, the term even is used in several senses related to odd: even and odd numbers, an integer is even if dividing by two yields an integer even and odd functions, a function is even if f(−x) = f(x) for all x even and odd permutations, a permutation of a finite set is even if it is composed of an even number of transpositions Singly even number, an integer divisible by 2 but not divisible by 4 Even code, if the Hamming weight of all of a binary code's codewords is even Entertainment Even"
+    },
+    {
+      "chunk_id": "wikipedia:Fast#0000",
+      "doc_id": "wikipedia:Fast",
+      "title": "Fast",
+      "url": "https://en.wikipedia.org/?curid=1899768",
+      "source_type": "wikipedia",
+      "score": 0.5658280462026596,
+      "text": "Fast or FAST may refer to: Arts and entertainment \"Fast\" (Juice Wrld song), 2019 \"Fast\" (Luke Bryan song), 2016 \"Fast\" (Sueco song), 2019 \"Fast\" (GloToven song), 2019 Fast, an album by Custom, 2002 Fast, a 2010 short film starring Charlyne Yi \"Fast (Motion)\", 2021 song by Saweetie Fast & Furious, an action franchise \"Fast\" (Demi Lovato song), 2025 Computing and software FAST protocol, an adaptation of the FIX protocol, optimized for streaming FAST TCP, a TCP congestion avoidance algorithm Facilitated Application Specification Techniques, a team-oriented approach for requirement gathering Fatigue Avoidance Scheduling Tool, software to develop work schedules Features from accelerated segment test, computer vision method for corner detection Feedback arc set in Tournaments, a computational problem in graph theory Government Faʻatuatua i le Atua Samoa ua Tasi (FAST), a political party in Samoa Fixing America's Surface Transportation Act, passed by the United States Congress"
+    },
+    {
+      "chunk_id": "wikipedia:Appearance#0000",
+      "doc_id": "wikipedia:Appearance",
+      "title": "Appearance",
+      "url": "https://en.wikipedia.org/?curid=8104650",
+      "source_type": "wikipedia",
+      "score": 0.5000172913074493,
+      "text": "Appearance may refer to: Visual appearance, the way in which objects reflect and transmit light Human physical appearance, what someone looks like Appearances (film), a 1921 film directed by Donald Crisp Appearance (philosophy), or phenomenon Phantasiai, a term in ancient Greek philosophy variously translated as \"appearances,\" \"impressions,\" \"presentations,\" and \"representations.\" Appearance (law), the coming into court of either of the parties to a suit, and/or the formal act by which a defendant submits himself to the jurisdiction of the court. Appear or Appears may refer to: \"Appear\" (나타나) a song from Secret Garden OST (2010), by Kim Bum-soo."
+    },
+    {
+      "chunk_id": "wikipedia:Very#0000",
+      "doc_id": "wikipedia:Very",
+      "title": "Very",
+      "url": "https://en.wikipedia.org/?curid=611276",
+      "source_type": "wikipedia",
+      "score": 0.4961111456155777,
+      "text": "Very may refer to: English's prevailing intensifier Businesses The Very Group, a British retail/consumer finance corporation Very (online retailer), their main e-commerce brand VERY TV, a Thai television channel Places Véry, a commune in Meuse department, France Very (lunar crater), on the Moon Very (Martian crater), on Mars Music Very (Pet Shop Boys album), 1993 Very (Dreamscape album), 1999 Very, an album by Miki Furukawa, 2010 People Edward Wilson Very (1847–1910), US Navy officer, inventor of the Very flare gun Frank Washington Very (1852–1927), American astronomer Jones Very (1813–1880), American poet, essayist, clergyman and mystic Lydia Louisa Anna Very (1823–1901), American author and illustrator Pierre Véry (1900–1960), French novelist and screenwriter Very Idham Henyansyah (born 1978), Indonesian serial killer Other uses Very, the most common type of flare gun See also Vary (disambiguation) Vari (disambiguation) Verree, a given name and surname Verey, a surname"
+    },
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.47523750066757203,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Phrase#0000",
+      "doc_id": "wikipedia:Phrase",
+      "title": "Phrase",
+      "url": "https://en.wikipedia.org/?curid=44975",
+      "source_type": "wikipedia",
+      "score": 0.4678997606039047,
+      "text": "In grammar, a phrase — called an expression in some contexts — is a group of one or more words acting as a grammatical unit. For instance, the English expression \"the very happy squirrel\" is a noun phrase which contains the adjective phrase \"very happy\". Phrases can consist of a single word or a complete sentence. In theoretical linguistics, phrases are often analyzed as units of syntactic structure such as a constituent. There is a difference between the common use of the term phrase and its technical use in linguistics. In common usage, a phrase is usually a group of words with some special idiomatic meaning or other significance, such as \"all rights reserved\", \"economical with the truth\", or \"kick the bucket\". It may be a euphemism, a saying or proverb, a fixed expression, a figure of speech, etc. In linguistics, these are known as phrasemes."
+    },
+    {
+      "chunk_id": "wikipedia:Rive#0000",
+      "doc_id": "wikipedia:Rive",
+      "title": "Rive",
+      "url": "https://en.wikipedia.org/?curid=6562079",
+      "source_type": "wikipedia",
+      "score": 0.4609085828065872,
+      "text": "Rive or La Rive may refer to: Places Rive, Piedmont, Italy Rive d'Arcano, Friuli-Venezia Giulia, Italy Rive Droite, Paris, France Rive Gauche, Paris, France People De la Rive, a surname and list of people Joey Rive (July 8, 1963) American tennis player Julie Rivé-King (1854-1937), American musician Lyndon Rive, cofounder of Solar City and cousin of Elon Musk Richard Rive (1931-1989), South African academic and writer Robert Rive, 19th century photographer Other La Rive, a restaurant in Amsterdam, Netherlands La Rive Condominiums, Minneapolis, Minnesota, US Rive (video game), a 2016 platforming shoot-em-up video game Wood splitting, or riving See also Longue-Rive, Quebec, Canada Belle Rive (disambiguation) Rives (disambiguation) Rivière (disambiguation) Ríos (disambiguation) Rio (disambiguation) Rivers (disambiguation) River (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Absolutely#0001",
+      "doc_id": "wikipedia:Absolutely",
+      "title": "Absolutely",
+      "url": "https://en.wikipedia.org/?curid=1914454",
+      "source_type": "wikipedia",
+      "score": 0.45905303955078125,
+      "text": "Hard Way Absolutely (TV series), a British comedy sketch show Abso Lutely Productions, a production company started by Tim Heidecker and Eric Wareheim See also Absolute (disambiguation) Absoluteness, a description of formulas that have the same truth value in each of some class of structures Absolution (disambiguation) Definitely (disambiguation..."
+    },
+    {
+      "chunk_id": "wikipedia:Maybe#0000",
+      "doc_id": "wikipedia:Maybe",
+      "title": "Maybe",
+      "url": "https://en.wikipedia.org/?curid=3627756",
+      "source_type": "wikipedia",
+      "score": 0.4552601635456085,
+      "text": "Maybe may refer to: Music Albums Maybe (Sharon O'Neill album), 1981 Maybe, a 1970 album by The Three Degrees Songs \"Maybe\" (Allan Flynn and Frank Madden song), 1935 \"Maybe\" (Brainstorm song), 2001 \"Maybe\" (Carmada song), 2014 \"Maybe\" (The Chantels song), 1957 \"Maybe\" (Emma Bunton song), 2003 \"Maybe\" (Enrique Iglesias song), 2002 \"Maybe\" (Ingrid Michaelson song), 2009 \"Maybe\" (Jay Sean song), 2008 \"Maybe\" (Kenny Rogers and Holly Dunn song), 1990 \"Maybe\" (Machine Gun Kelly song), 2022 \"Maybe\" (N.E.R.D song), 2004 \"Maybe\" (No Angels song), 2007 \"Maybe\" (Sharon O'Neill song), 1981 \"Maybe\" (Sick Puppies song), 2010 \"Maybe\" (Maybe Man), 2023 \"Maybe\" (Teyana Taylor song), 2014 \"Maybe\" (Toni Braxton song), 2001 \"Maybe\", a song by Aṣa from Beautiful Imperfection, 2010 \"Maybe\", a song by Birdy from Fire Within, 2013 \"Maybe\", a song by Craig Davis from 22, 2022 \"Maybe\", a song by Dave Gahan released as a B-side on the single \"Dirty Sticky Floors\", 2003 \"Maybe\", a song by Estelle from The 18th"
+    },
+    {
+      "chunk_id": "wikipedia:Please#0001",
+      "doc_id": "wikipedia:Please",
+      "title": "Please",
+      "url": "https://en.wikipedia.org/?curid=63658677",
+      "source_type": "wikipedia",
+      "score": 0.4535211741924286,
+      "text": "you please, an intransitive, ergative form taken from if it please you, which is in turn a calque of the French s'il vous plaît, which replaced pray. The exact time frame of the shortening is unknown, though it has been noted that this form appears not to have been known to William Shakespeare, for whom \"please you\" is the shortest form used in any of his works. A variation of the phrase, \"may it please the court\", remains in use as a formality for attorneys addressing judges in legal proceedings. Despite its straightforward definition..."
+    }
+  ]
+}

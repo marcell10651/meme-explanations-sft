@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_04229",
+  "queries": [
+    "\"Netflix\" \"feels\" \"youre\" \"binging\" \"jimc\"",
+    "\"A green three headed dragon\" \"Netflix\" \"Amazon\" \"fantastic series lineups\"",
+    "\"Amazon\" \"fantastic series lineups\" \"some poor ones\" \"Disney\""
+  ],
+  "primary_terms": [
+    "feels",
+    "youre",
+    "binging",
+    "jimc"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Great#0001",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.9263934195041656,
+      "text": "officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great! TV, British TV channel group The Great (TV series), an American comedy-drama See also All pages with titles containing great All pages with titles beginning with Great All pages with titles beginning with The Great All pages with titles beginning with The great The Great (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Doomed#0000",
+      "doc_id": "wikipedia:Doomed",
+      "title": "Doomed",
+      "url": "https://en.wikipedia.org/?curid=9401997",
+      "source_type": "wikipedia",
+      "score": 0.7489107251167297,
+      "text": "Doomed may refer to: \"Doomed\" (Buffy the Vampire Slayer), a 1999 episode of the television series Buffy the Vampire Slayer \"Doomed\", an episode of the 2006 television series Fantastic Four: World's Greatest Heroes Doomed!: The Untold Story of Roger Corman's The Fantastic Four, a 2015 documentary film Doomed (novel), a 2013 novel by Chuck Palahniuk \"Doomed\" (Bring Me the Horizon song), 2015 \"Doomed\" (Moses Sumney song), 2017 DoomEd, an editor for the video game Doom Doomed, a 1975 performance art piece by Chris Burden The Doomed (film), a 1924 German silent drama film \"The Doomed\", a 2017 song by A Perfect Circle See also Doom (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Best#0001",
+      "doc_id": "wikipedia:Best",
+      "title": "Best",
+      "url": "https://en.wikipedia.org/?curid=172707",
+      "source_type": "wikipedia",
+      "score": 0.7079513669013977,
+      "text": "Bronx Environmental Stewardship Training, a program of the Sustainable South Bronx organization Smart BEST, a Japanese experimental train Brihanmumbai Electric Supply and Transport, in Mumbai, India Film and television Best (film), a 2000 George Best biopic The Best (TV series), a 2002 British cooking programme Best: His Mother's Son..."
+    },
+    {
+      "chunk_id": "wikipedia:Timon and Pumbaa#0000",
+      "doc_id": "wikipedia:Timon and Pumbaa",
+      "title": "Timon and Pumbaa",
+      "url": "https://en.wikipedia.org/?curid=4449334",
+      "source_type": "wikipedia",
+      "score": 0.5706211775541306,
+      "text": "Timon and Pumbaa are an animated meerkat and warthog duo introduced in Disney's 1994 animated feature film The Lion King and its franchise. Timon was played through his many appearances by Nathan Lane (in all three films and early episodes of the show), Max Casella (the original actor in Broadway musical), Kevin Schon (in certain episodes of the show), Quinton Flynn (in certain episodes of the show), Bruce Lanoil in the Wild About Safety shorts and Kingdom Hearts II, while Pumbaa is voiced by Ernie Sabella (in all of his traditionally animated speaking appearances), and was portrayed by Tom Alan Robbins in the original cast of the Broadway musical. In the CGI remake, the characters are portrayed by Billy Eichner and Seth Rogen, respectively. Nathan Lane and Ernie Sabella first came to audition for the roles of the hyenas, but when the producers saw how well they worked together, they decided to cast them as Timon and Pumbaa."
+    },
+    {
+      "chunk_id": "wikipedia:Lost#0000",
+      "doc_id": "wikipedia:Lost",
+      "title": "Lost",
+      "url": "https://en.wikipedia.org/?curid=502128",
+      "source_type": "wikipedia",
+      "score": 0.5410782843828201,
+      "text": "Lost or LOST may refer to getting lost, or to: Arts, entertainment, and media Television Lost (TV series), a 2004 American drama series about people who become stranded on a mysterious island Lost (2001 TV series), a short-lived American and British reality series Lost (South Korean TV series), a 2021 South Korean series \"Lost\" (The Bill), a 1985 episode \"Lost\" (Shameless), an episode of the American TV series Shameless \"Lost\" (Stargate Universe), an episode of science fiction series Stargate Universe \"Lost\", an episode of Unleashed! \"Lost\", an episode of the Canadian documentary TV series Mayday \"Lost\", an episode of Disney's So Weird \"The Lost\" (Class), an episode of the first series of the Doctor Who spin-off series Class Films Lost (1950 film), a Mexican film directed by Fernando A. Rivero Lost (1956 film), a British thriller starring David Farrar Lost (1983 film), an American film directed by Al Adamson Lost!"
+    },
+    {
+      "chunk_id": "wikipedia:Pixar#0000",
+      "doc_id": "wikipedia:Pixar",
+      "title": "Pixar",
+      "url": "https://en.wikipedia.org/?curid=78969",
+      "source_type": "wikipedia",
+      "score": 0.5409456789493561,
+      "text": "Pixar (), doing business as Pixar Animation Studios, is an American animation studio based in Emeryville, California, known for its commercially successful computer-animated feature films. Pixar is a subsidiary of Walt Disney Studios, a division of the Disney Entertainment segment of the Walt Disney Company. The studio started in 1979 as part of the Lucasfilm computer division. It was known as the Graphics Group before its spin-off as a corporation in 1986, with funding from Apple co-founder Steve Jobs, who became its majority shareholder. The studio's mascot is Luxo Jr., a desk lamp from the studio's 1986 short film of the same name. Disney announced its acquisition of Pixar in January 2006, and completed it in May 2006. Pixar is best known for its feature films, technologically powered by its RenderMan software."
+    },
+    {
+      "chunk_id": "wikipedia:The Walt Disney Company#0001",
+      "doc_id": "wikipedia:The Walt Disney Company",
+      "title": "The Walt Disney Company",
+      "url": "https://en.wikipedia.org/?curid=37398",
+      "source_type": "wikipedia",
+      "score": 0.5407246649265289,
+      "text": "theme parks in the 1950s. However, following Walt Disney's death in 1966, the company's profits, especially in the animation sector, began to decline. In 1984, Disney's shareholders voted Michael Eisner as CEO, who led a reversal of the company's decline through a combination of international theme park expansion and the highly successful Disney Renaissance period..."
+    },
+    {
+      "chunk_id": "wikipedia:Others#0000",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.5236089825630188,
+      "text": "Others or The Others may refer to: Fictional characters Others (A Song of Ice and Fire), supernatural creatures in the fictional world of George R. R. Martin's fantasy series A Song of Ice and Fire Others (Lost), mysterious inhabitants of a strange island in the South Pacific in the television series Lost Others (Night Watch), a fictional group of people with supernatural abilities in Sergey Lukyanenko's Watches novel pentalogy The Others (Vok), a character from the Beast Wars franchise The Others, a reference to Cro-Magnon peoples in Jean M. Auel's Earth's Children series The Others, a group of allies of Aquaman in comics, introduced in 2012 and featured in a 2014 series The Others, the Ancients who have achieved Ascension in the Stargate universe The Others, a series of alien extraterrestrial species from The 5th Wave novels and film Films The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001"
+    },
+    {
+      "chunk_id": "wikipedia:Delivery#0001",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.5231389701366425,
+      "text": "television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama. Music Deliver (The Mamas & the Papas album), 1967 Deliver (The Oak Ridge Boys album), 1983 Deliverin', a 1971 album by Poco \"Deliver\" (song), a 2017 song by Fifth Harmony \"Deliver\", a song by Lupe Fiasco from Tetsuo & Youth \"Delivery\" (song), a 2007 single..."
+    },
+    {
+      "chunk_id": "wikipedia:LOTS#0000",
+      "doc_id": "wikipedia:LOTS",
+      "title": "LOTS",
+      "url": "https://en.wikipedia.org/?curid=20629362",
+      "source_type": "wikipedia",
+      "score": 0.5147807002067566,
+      "text": "LOTS may refer to: LOTS (personality psychology), an acronym providing a broad classification of data source for personality psychology assessment London Omnibus Traction Society, a bus society Legend of the Seeker, a television series based on novels in the Sword of Truth series by Terry Goodkind Legends of the Superheroes, a 1979 television series based on DC Comics characters. Lucifer on the Sofa, a 2022 album by American rock band Spoon A linearly ordered topological space. See also All pages with titles beginning with LOTS All pages with titles containing LOTS All pages with titles beginning with lots Lot (disambiguation) Lotts (disambiguation)"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_04472",
+  "queries": [
+    "\"Starbucks\" \"an overweight, ugly McFadden\" \"Pee\" \"star bucks\" \"overweight\"",
+    "\"star bucks\" \"overweight\" \"ugly\" \"mcfadden\""
+  ],
+  "primary_terms": [
+    "an overweight, ugly McFadden",
+    "overweight",
+    "ugly",
+    "mcfadden",
+    "star bucks",
+    "anyone",
+    "Pee"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Rich#0000",
+      "doc_id": "wikipedia:Rich",
+      "title": "Rich",
+      "url": "https://en.wikipedia.org/?curid=327881",
+      "source_type": "wikipedia",
+      "score": 0.6718187689781189,
+      "text": "Rich may refer to: Common uses Rich, an entity possessing wealth Rich, an intense flavor, color, sound, texture, or feeling Rich (wine), a descriptor in wine tasting Places United States Rich, Mississippi, an unincorporated community Rich County, Utah Rich Mountain (disambiguation) Rich Township, Cook County, Illinois Rich Township, Anderson County, Kansas Rich Township, Lapeer County, Michigan Elsewhere Er-Rich, Morocco, a town Rich River, Victoria, Australia People Rich (given name), often short for Richard Rich (surname) Arts, entertainment, and media Fictional characters DS Terry Rich, a character in the British soap opera EastEnders Rich, a character in the American sitcom television series The Hogan Family Rich Halke, a character in the TV sitcom Step by Step Rich Hardbeck, a character in the British television series Skins Rich Millar, a character in the British soap opera Doctors Richie Rich (character), a fictional character Music Rich, half of the American country music duo"
+    },
+    {
+      "chunk_id": "wikipedia:Greedy#0001",
+      "doc_id": "wikipedia:Greedy",
+      "title": "Greedy",
+      "url": "https://en.wikipedia.org/?curid=1376590",
+      "source_type": "wikipedia",
+      "score": 0.5654639005661011,
+      "text": "2019), pseudonym of Andrew McArthur Smith, singer, musician and songwriter with the Australian pop/new wave band Mental As Anything Greedy Vance Jr. (born 2001), American football player Greedy Williams (born 1997), American football player nicknamed \"Greedy\" Jack Greedy (1929–1988), Canadian racing driver, member of the Canadian Motorsport Hall of Fame Fictional characters Greedy Gretchen, a character who appeared in episodes of the American TV sitcoms Three's Company and Three's a Crowd Greedy Smurf, a character in The Smurfs franchise Mr. Greedy, title character of a book in the Mr..."
+    },
+    {
+      "chunk_id": "wikipedia:Small Faces#0001",
+      "doc_id": "wikipedia:Small Faces",
+      "title": "Small Faces",
+      "url": "https://en.wikipedia.org/?curid=167663",
+      "source_type": "wikipedia",
+      "score": 0.5612027645111084,
+      "text": "1969, Marriott left to form Humble Pie, while Lane, Jones and McLagan continued under the shortened name the Faces with Rod Stewart and Ronnie Wood. Following the breakup of both the Faces and Humble Pie in 1975, the classic Marriott/Lane/McLagan/Jones line-up of the Small Faces re-formed after a re-release of \"Itchycoo Park\" became a top-ten hit. Lane left shortly thereafter, and was..."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.4917154014110565,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:Rich#0001",
+      "doc_id": "wikipedia:Rich",
+      "title": "Rich",
+      "url": "https://en.wikipedia.org/?curid=327881",
+      "source_type": "wikipedia",
+      "score": 0.46685826778411865,
+      "text": "a character in the British soap opera Doctors Richie Rich (character), a fictional character Music Rich, half of the American country music duo Big & Rich Rich Velonskis, half of the American duo Nikki & Rich \"Rich\" (Maren Morris song), 2018 \"Rich\", a song by Jawbreaker from Etc., 2002 \"Rich\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:Sexy, Sexy, Sexy#0000",
+      "doc_id": "wikipedia:Sexy, Sexy, Sexy",
+      "title": "Sexy, Sexy, Sexy",
+      "url": "https://en.wikipedia.org/?curid=38590761",
+      "source_type": "wikipedia",
+      "score": 0.4583228528499603,
+      "text": "\"Sexy, Sexy, Sexy\" is a 1973 song written and recorded by James Brown, for the film Slaughter's Big Rip-Off. The song appeared on the film's soundtrack, and was released as a single in 1973. The song, and wider album, emerged from an era which saw the rise of blaxploitation films. Such films represented the struggle of African Americans against poverty and crime under a white-dominated society. While \"Sexy, Sexy, Sexy\" was received well by contemporary and modern audiences alike, it received negative reviews from critics. Brown used the same backing track and chord progression from his 1966 hit \"Money Won't Change You\" when composing the song, which prompted a poor critical response. Despite Brown's reuse of his earlier work, \"Sexy, Sexy, Sexy\" showcased the typical funk hallmarks of his more popular work. The song performed strongly on three separate Billboard charts as well as the Cashbox chart."
+    },
+    {
+      "chunk_id": "wikipedia:Greedy#0000",
+      "doc_id": "wikipedia:Greedy",
+      "title": "Greedy",
+      "url": "https://en.wikipedia.org/?curid=1376590",
+      "source_type": "wikipedia",
+      "score": 0.4460766613483429,
+      "text": "Someone who is greedy is consumed with selfish desires. Greedy may also refer to: Music Greedy (album), an album by Headless Chickens, 1997 Greedy, an album by Mekdes, 2022 \"Greedy\" (Ariana Grande song), 2016 \"Greedy\" (Tate McRae song), 2023 \"Greedy\", a song by All from Mass Nerder, 1998 \"Greedy\", a song by The Away Team from Training Day, 2007 \"Greedy\", a song by Lyfe Jennings from Lyfe 268‒192, 2004 \"Greedy\", a song by Pure, 1993 \"Greedy\", a song by Rich the Kid from Keep Flexin, 2016 \"Greedy\", a song by PartyNextDoor and Drake from Some Sexy Songs 4 U, 2025 People Greedy Smith (1956–2019), pseudonym of Andrew McArthur Smith, singer, musician and songwriter with the Australian pop/new wave band Mental As Anything Greedy Vance Jr."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.44512639939785004,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.43926191329956055,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:What Not to Wear (American TV series)#0000",
+      "doc_id": "wikipedia:What Not to Wear (American TV series)",
+      "title": "What Not to Wear (American TV series)",
+      "url": "https://en.wikipedia.org/?curid=7195003",
+      "source_type": "wikipedia",
+      "score": 0.4153129756450653,
+      "text": "What Not to Wear is an American makeover reality television series based on the British show of the same name. The show premiered on January 18, 2003, and ended on October 18, 2013, airing on TLC in the United States. What Not to Wear was hosted by Stacy London and Clinton Kelly, though London's Season 1 co-host was Wayne Scot Lukas. Also part of the show was head makeover artist Carmindy and hairstylist Nick Arrojo from season 1 through season 6. Celebrity hairstylist Ted Gibson replaced Arrojo beginning in season 7, through season 10. On March 6, 2013, TLC announced that the tenth season of What Not to Wear would be its last. Format Participants were nominated by friends, co-workers, or relatives. Some episodes involved self-nominations, such as the class reunion specials or mall nominations. In the latter, What Not to Wear set up a 360-degree mirror in various malls across the United States, which allowed women to explain why they needed fashion help."
+    }
+  ]
+}

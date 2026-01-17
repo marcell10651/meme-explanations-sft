@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_06024",
+  "queries": [
+    "\"Customer\" \"the receipt\" \"based\" \"story\"",
+    "\"based\" \"story\" \"want\" \"receipt\""
+  ],
+  "primary_terms": [
+    "based",
+    "story",
+    "the receipt",
+    "Customer",
+    "want",
+    "receipt"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Cashier#0001",
+      "doc_id": "wikipedia:Cashier",
+      "title": "Cashier",
+      "url": "https://en.wikipedia.org/?curid=790258",
+      "source_type": "wikipedia",
+      "score": 0.9360261976718902,
+      "text": "/or by credit/debit card) for the goods or services exchanged, records the amount received, makes change, and issues receipts or tickets to customers. Cashiers record amounts received, may prepare reports of transactions, and verify cash register totals against cash on hand. A cashier may be required to know value and features of items for which money is received; may cash checks; may give cash refunds..."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.8903904616832733,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Store#0000",
+      "doc_id": "wikipedia:Store",
+      "title": "Store",
+      "url": "https://en.wikipedia.org/?curid=43365305",
+      "source_type": "wikipedia",
+      "score": 0.7762246191501617,
+      "text": "Store may refer to: Enterprises Retail store, a shop where merchandise is sold, usually products and usually on a retail basis, and where wares are often kept App store, an online retail store where apps are sold, included in many mobile operating systems Department store, a retail store offering a wide range of consumer goods Warehouse club (or wholesale club), a no-frills retail store, usually selling a wide variety of merchandise, in which customers may buy large, wholesale quantities at low prices Warehouse, a location where items are stored, e.g., a ship's paint store, and sometimes sold, e.g., Costco Warehouse Club Arts, entertainment, and media The Store (ITV), a British shopping television programming on ITV1 The Store (novel), a 1932 novel by Thomas Sigismund Stribling \"Store\", a song by Carly Rae Jepsen from the EP Emotion: Side B Other uses Data store, a repository for persistently storing and managing collections of data Štore, a town and a municipality in eastern Slovenia"
+    },
+    {
+      "chunk_id": "wikipedia:Sales#0000",
+      "doc_id": "wikipedia:Sales",
+      "title": "Sales",
+      "url": "https://en.wikipedia.org/?curid=155698",
+      "source_type": "wikipedia",
+      "score": 0.6954714715480804,
+      "text": "Sales are activities related to selling or the number of goods sold in a given targeted time period. The delivery of a service for a cost is also considered a sale. A period during which goods are sold for a reduced price may also be referred to as a \"sale\". The seller, or the provider of the goods or services, completes a sale in an interaction with a buyer, which may occur at the point of sale or in response to a purchase order from a customer. There is a passing of title (property or ownership) of the item, and the settlement of a price, in which agreement is reached on a price for which transfer of ownership of the item will occur. The seller, not the purchaser, typically executes the sale and it may be completed prior to the obligation of payment."
+    },
+    {
+      "chunk_id": "wikipedia:Sales#0001",
+      "doc_id": "wikipedia:Sales",
+      "title": "Sales",
+      "url": "https://en.wikipedia.org/?curid=155698",
+      "source_type": "wikipedia",
+      "score": 0.652484118938446,
+      "text": "of the item will occur. The seller, not the purchaser, typically executes the sale and it may be completed prior to the obligation of payment. In the case of indirect interaction, a person who sells goods or service on behalf of the owner is known as a salesman or saleswoman or salesperson, but this often refers to someone selling goods in a store/shop, in which case other terms are also common, including salesclerk, shop assistant, and retail clerk. In common law countries, sales are governed generally by the common law and commercial codes. In the United States, the laws governing..."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0001",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.6335571467876434,
+      "text": "network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story, one of the main characters in the 2006 film Lady in the Water Kahaani, or Story, a 2012 Indian film by Sujoy Ghosh The Story (film documentary short), a 2000 short film by John Little The..."
+    },
+    {
+      "chunk_id": "wikipedia:Aladdin#0000",
+      "doc_id": "wikipedia:Aladdin",
+      "title": "Aladdin",
+      "url": "https://en.wikipedia.org/?curid=166604",
+      "source_type": "wikipedia",
+      "score": 0.6327034503221511,
+      "text": "Aladdin ( ə-LAD-in; Arabic: علاء الدين, romanized: ʻAlāʼu d-Dīn/ʻAlāʼ ad-Dīn, IPA: [ʕalaːʔ adˈdiːn], ATU 561, 'Aladdin') is a Middle-Eastern folk tale. It is one of the best-known tales associated with One Thousand and One Nights (often known in English as The Arabian Nights), despite not being part of the original text; it was added by the Frenchman Antoine Galland, based on a folk tale that he heard from the Syrian storyteller Hanna Diyab. Sources Known along with Ali Baba as one of the \"orphan tales\", the story was not part of the original Nights collection and has no authentic Arabic textual source, but was incorporated into the book Les mille et une nuits by its French translator, Antoine Galland. John Payne quotes passages from Galland's unpublished diary recording Galland's encounter with a Maronite storyteller from Aleppo, Hanna Diyab."
+    },
+    {
+      "chunk_id": "wikipedia:Legend#0000",
+      "doc_id": "wikipedia:Legend",
+      "title": "Legend",
+      "url": "https://en.wikipedia.org/?curid=53974",
+      "source_type": "wikipedia",
+      "score": 0.6320823192596435,
+      "text": "A legend is a genre of folklore that consists of a narrative featuring human actions, believed or perceived to have taken place in human history. Narratives in this genre may demonstrate human values, and possess certain qualities that give the tale verisimilitude. Legend, for its active and passive participants, may include miracles. Legends may be transformed over time to keep them fresh and vital. Many legends operate within the realm of uncertainty, never being entirely believed by the participants, but also never being resolutely doubted. Legends are sometimes distinguished from myths in that they concern human beings as the main characters and do not necessarily have supernatural origins, and sometimes in that they have some sort of historical basis whereas myths generally do not. The Brothers Grimm defined legend as \"folktale historically grounded\"."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.6034348607063293,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Praise#0000",
+      "doc_id": "wikipedia:Praise",
+      "title": "Praise",
+      "url": "https://en.wikipedia.org/?curid=44749915",
+      "source_type": "wikipedia",
+      "score": 0.5996200203895569,
+      "text": "Praise as a form of social interaction expresses recognition, reassurance or admiration. Praise is expressed verbally as well as by body language (facial expression and gestures). Verbal praise consists of a positive evaluations of another's attributes or actions, where the evaluator presumes the validity of the standards on which the evaluation is based. As a form of social manipulation, praise becomes a form of reward and furthers behavioral reinforcement by conditioning. The influence of praise on an individual can depend on many factors, including the context, the meanings the praise may convey, and the characteristics and interpretations of the recipient. While praise may share some predictive relationships (both positive and negative) with tangible (material) rewards, praise tends to be less salient and expected, conveys more information about competence, and is typically given more immediately after the desired behavior."
+    }
+  ]
+}

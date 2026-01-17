@@ -1,0 +1,220 @@
+{
+  "meme_id": "meme_02135",
+  "queries": [
+    "\"Making\" \"the past 30 years\" \"Star Wars\" \"the Joker\" \"Lex Luthor\"",
+    "\"the Joker\" \"Lex Luthor\" \"Cars\" \"Marvel\""
+  ],
+  "primary_terms": [
+    "every line",
+    "Cars",
+    "making",
+    "every",
+    "line",
+    "day",
+    "Marvel",
+    "Moves",
+    "Thanos",
+    "Star Wars",
+    "new villain",
+    "People",
+    "the past 30 years",
+    "Batman",
+    "the Joker",
+    "Superman",
+    "Lex Luthor"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Superhero#0001",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 0.9075218856334686,
+      "text": "media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins. Most superheroes (for example, Superman and Spider-Man) usually possess non-human or superhuman biology, while others (such as Batman and Iron Man) derive their status from advanced technology they create and use; others may use or possess objects that have superhuman, mystical, or alien powers (such as Green Lantern and He-Man), or study and practice magic to achieve their abilities (such as Doctor Fate and Doctor Strange). The Dictionary.com definition of \"superhero\" is \"a..."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0000",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.9040193974971771,
+      "text": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Considered one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays. Spider-Man is the secret identity of Peter Benjamin Parker, who was raised by his Aunt May and Uncle Ben in Queens, New York City, after the death of his parents. Lee, Ditko, and later writers had the character deal with the struggles of adolescence and young adulthood. Readers identified with his self-doubt and loneliness. Unlike previous teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J."
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0001",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.8425896644592286,
+      "text": "the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified. Perhaps the character's best-known storyline is The Infinity Gauntlet (1991), the culmination of several story arcs that see him gather the six Infinity Gems and use them to kill half of the universe's population, including many of its heroes, to woo Mistress Death, the living embodiment of death in the Marvel Universe. Although these events were later undone, the storyline has remained one of the most popular published by Marvel. Debuting in the Bronze Age of comic books, the character..."
+    },
+    {
+      "chunk_id": "wikipedia:Superman#0000",
+      "doc_id": "wikipedia:Superman",
+      "title": "Superman",
+      "url": "https://en.wikipedia.org/?curid=28381",
+      "source_type": "wikipedia",
+      "score": 0.8062982618808746,
+      "text": "Superman is a superhero created by writer Jerry Siegel and artist Joe Shuster, first appearing in issue #1 of Action Comics, published in the United States on April 18, 1938. Superman has been regularly published in American comic books since then, and has been adapted to other media including radio serials, novels, films, television shows, theater, and video games. Superman is the archetypal superhero: he wears an outlandish costume, uses a codename, and fights evil and averts disasters with the aid of extraordinary abilities. Although there are earlier characters who arguably fit this definition, it was Superman who popularized the superhero genre and established its conventions. He was the best-selling superhero in American comic books up until the 1980s; it is also the best-selling comic book series in the world with 600 million copies sold. Superman was born Kal-El, on the fictional planet Krypton."
+    },
+    {
+      "chunk_id": "wikipedia:Two-Face#0000",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 0.747258460521698,
+      "text": "Two-Face is a supervillain appearing in American comic books published by DC Comics. The character was created by Bob Kane, and first appeared in Detective Comics #66 (August 1942). He has become one of the superhero Batman's most enduring enemies belonging to the collective of adversaries that make up his rogues gallery. In his comic book appearances, Two-Face is the alter ego of Harvey Dent, Gotham City's former district attorney who becomes a criminal mastermind obsessed with duality and the number two. Half of his face is hideously scarred after mob boss Sal Maroni throws acid at him. The resulting disfigurement drives him insane and causes him to make decisions based on the flip of a coin. The Modern Age of Comic Books portrays the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse."
+    },
+    {
+      "chunk_id": "wikipedia:Walter White (Breaking Bad)#0000",
+      "doc_id": "wikipedia:Walter White (Breaking Bad)",
+      "title": "Walter White (Breaking Bad)",
+      "url": "https://en.wikipedia.org/?curid=22530352",
+      "source_type": "wikipedia",
+      "score": 0.731208723783493,
+      "text": "Walter Hartwell White Sr., also known by his alias Heisenberg, is a fictional character and the main protagonist of the American crime drama television series Breaking Bad. He is portrayed by Bryan Cranston. Walter is a skilled chemist who co-founded a technology firm before he accepted a buy-out from his partners. While his partners became wealthy, Walter became a high school chemistry teacher in Albuquerque, New Mexico, barely making ends meet with his family: his wife, Skyler (Anna Gunn), and their son, Walter Jr. (RJ Mitte). At the start of the series, the day after his 50th birthday, he is diagnosed with Stage III lung cancer. After this discovery, Walter decides to manufacture and sell methamphetamine with his former student Jesse Pinkman (Aaron Paul) to ensure his family's financial security after his death. Due to his expertise, Walter's \"blue meth\" is purer than any other on the market, and he is pulled deeper into the illicit drug trade."
+    },
+    {
+      "chunk_id": "wikipedia:Made#0001",
+      "doc_id": "wikipedia:Made",
+      "title": "Made",
+      "url": "https://en.wikipedia.org/?curid=666961",
+      "source_type": "wikipedia",
+      "score": 0.7271645784378051,
+      "text": "of Art and Digital Entertainment Geography Made (Netherlands), a town in the Netherlands People van der Made - Dutch family name Dalem Di Made (fl. 1623–1642), Balinese king Ida Bagus Made (1915–1999), Balinese painter Joseph Made, Zimbabwean politician Sacco van der Made (1918–1997), Dutch actor and voice actor Simon van Groenewegen van der Made (1613–1652), Dutch jurist Tilly van der Made (1938–2019), Dutch runner Other uses Made man, a fully initiated member of the American mafia Museum of Australian Democracy at Eureka (M.A.D.E.), an Australian museum"
+    },
+    {
+      "chunk_id": "wikipedia:Two-Face#0001",
+      "doc_id": "wikipedia:Two-Face",
+      "title": "Two-Face",
+      "url": "https://en.wikipedia.org/?curid=477701",
+      "source_type": "wikipedia",
+      "score": 0.6999248623847961,
+      "text": "the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse. The modern version is also established as having once been an ally of Batman and Commissioner James Gordon, and a close friend of Batman's secret identity, Bruce Wayne. The character has been adapted in various media incarnations, having been portrayed in film by Billy Dee Williams in Batman (1989), Tommy Lee..."
+    },
+    {
+      "chunk_id": "wikipedia:Hero#0001",
+      "doc_id": "wikipedia:Hero",
+      "title": "Hero",
+      "url": "https://en.wikipedia.org/?curid=13706",
+      "source_type": "wikipedia",
+      "score": 0.689678943157196,
+      "text": "a hero has changed throughout time. Merriam Webster dictionary defines a hero as \"a person who is admired for great or brave acts or fine qualities\". Examples of heroes range from mythological figures, such as Gilgamesh and Iphigenia, to historical and modern figures, such as Joan of Arc, Giuseppe Garibaldi, Sophie Scholl, Alvin York, Audie Murphy, and Chuck Yeager, and fictional \"superheroes\", including Superman..."
+    },
+    {
+      "chunk_id": "wikipedia:Superman#0001",
+      "doc_id": "wikipedia:Superman",
+      "title": "Superman",
+      "url": "https://en.wikipedia.org/?curid=28381",
+      "source_type": "wikipedia",
+      "score": 0.686029589176178,
+      "text": "it is also the best-selling comic book series in the world with 600 million copies sold. Superman was born Kal-El, on the fictional planet Krypton. As a baby, his parents Jor-El and Lara sent him to Earth in a small spaceship shortly before Krypton was destroyed in an apocalyptic cataclysm. His ship landed in the American countryside near the fictional town of Smallville, Kansas, where he was found and adopted by farmers Jonathan..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The tow truck looks sleepy while towing a blue car.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The tow truck"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that While other movie franchises move on from their villains quickly, dc just has batman continually fight the joker.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "other movie franchises",
+          "their villains",
+          "batman",
+          "the joker"
+        ]
+      },
+      "title": {
+        "text": "Making a meme of every line from Cars 2 Day 54",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "every line",
+          "Cars",
+          "making",
+          "every",
+          "line",
+          "day"
+        ]
+      },
+      "text": {
+        "text": "Marvel: *Moves on from Thanos in 2 movies* Star Wars: *Has new villain every 3 movies* People watching DC for the past 30 years: “Has Batman beat the Joker yet? Has Superman beat Lex Luthor Yet?” DG: OO",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Marvel",
+          "Moves",
+          "Thanos",
+          "Star Wars",
+          "new villain",
+          "People",
+          "the past 30 years",
+          "Batman",
+          "the Joker",
+          "Superman",
+          "Lex Luthor"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "every line",
+      "Cars",
+      "making",
+      "every",
+      "line",
+      "day",
+      "Marvel",
+      "Moves",
+      "Thanos",
+      "Star Wars",
+      "new villain",
+      "People",
+      "the past 30 years",
+      "Batman",
+      "the Joker",
+      "Superman",
+      "Lex Luthor"
+    ],
+    "secondary_terms": [
+      "The tow truck",
+      "other movie franchises",
+      "their villains",
+      "batman",
+      "the joker"
+    ],
+    "queries": [
+      "\"Making\" \"the past 30 years\" \"Star Wars\" \"the Joker\" \"Lex Luthor\"",
+      "\"the Joker\" \"Lex Luthor\" \"Cars\" \"Marvel\""
+    ]
+  },
+  "source_jsonl_id": null
+}

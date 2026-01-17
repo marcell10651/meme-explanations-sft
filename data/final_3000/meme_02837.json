@@ -1,0 +1,215 @@
+{
+  "meme_id": "meme_02837",
+  "queries": [
+    "\"Movie Theaters\" \"the love\" \"god\" \"shut\"",
+    "\"god\" \"shut\" \"love\" \"know\""
+  ],
+  "primary_terms": [
+    "the love",
+    "god",
+    "shut",
+    "love",
+    "Movie Theaters",
+    "know",
+    "honey",
+    "don",
+    "aan",
+    "people",
+    "talk",
+    "loudly",
+    "ufarsnsingn",
+    "movie",
+    "theaters"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Your Choice#0001",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.7709049850702285,
+      "text": "'s World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia. Background We thought the message of love is what could really console people and resonate with them, especially in these tough times that we're having. [...] This time, we wanted to use this word, \"love,\" and the concept..."
+    },
+    {
+      "chunk_id": "wikipedia:Close#0000",
+      "doc_id": "wikipedia:Close",
+      "title": "Close",
+      "url": "https://en.wikipedia.org/?curid=4583933",
+      "source_type": "wikipedia",
+      "score": 0.7147139012813568,
+      "text": "Close may refer to: Music Close (Kim Wilde album), 1988 Close (Marvin Sapp album), 2017 Close (Sean Bonniwell album), 1969 \"Close\" (Sub Focus song), 2014 \"Close\" (Nick Jonas song), 2016 \"Close\" (Rae Sremmurd song), 2018 \"Close\" (Jade Eagleson song), 2020 \"Close (to the Edit)\", a 1984 song by Art of Noise \"Close\", song by Aaron Lines from Living Out Loud \"Close\", song by AB6IX from Mo' Complete: Have A Dream \"Close\", song by Drumsound & Bassline Smith from Wall of Sound \"Close\", song by Rascal Flatts from Unstoppable \"Close\", song by Soul Asylum from Candy from a Stranger \"Close\", song by Westlife from Coast to Coast \"Close\", song by French electronic group Telepopmusik and English vocalist Deborah Anderson, from their album Angel Milk Other uses Close (surname) Cathedral close, the area surrounding a cathedral, typically occupied by buildings associated with it Close (2019 film), an action thriller Close (2022 film), a Belgian drama film Close (street), an alley or cul-de-sac Close,"
+    },
+    {
+      "chunk_id": "wikipedia:Arkham#0000",
+      "doc_id": "wikipedia:Arkham",
+      "title": "Arkham",
+      "url": "https://en.wikipedia.org/?curid=65730",
+      "source_type": "wikipedia",
+      "score": 0.5795492112636567,
+      "text": "Arkham () is a fictional city situated in Massachusetts, United States. An integral part of the Lovecraft Country setting created by H. P. Lovecraft, Arkham is featured in many of his stories and those of other Cthulhu Mythos writers. Arkham House, a publishing company started by two of Lovecraft's correspondents, August Derleth and Donald Wandrei, takes its name from this city as a tribute. Arkham Asylum, a fictional mental hospital in DC Comics' Batman mythos, is also named after Lovecraft's Arkham. In Lovecraft's stories Arkham is the home of Miskatonic University, which features prominently in many of Lovecraft's works. The institution finances the expeditions in the novellas, At the Mountains of Madness (1936) and The Shadow Out of Time (1936). Walter Gilman, of \"The Dreams in the Witch House\" (1933), attends classes at the university. Other notable institutions in Arkham are the Arkham Historical Society and the Arkham Sanitarium."
+    },
+    {
+      "chunk_id": "wikipedia:Quiet#0001",
+      "doc_id": "wikipedia:Quiet",
+      "title": "Quiet",
+      "url": "https://en.wikipedia.org/?curid=1612819",
+      "source_type": "wikipedia",
+      "score": 0.5650684833526611,
+      "text": "The Quiet, an album by Bella Morte \"Quiet\", a song by Tim Minchin from the musical Matilda In religion Prayer of Quiet, a term from Christian theology relating to degrees of contemplation or contemplative prayer Quietism (Christian philosophy) Quiet Time Other Buy Quiet, an American health and safety initiative to select and purchase the..."
+    },
+    {
+      "chunk_id": "wikipedia:Close#0001",
+      "doc_id": "wikipedia:Close",
+      "title": "Close",
+      "url": "https://en.wikipedia.org/?curid=4583933",
+      "source_type": "wikipedia",
+      "score": 0.5622176826000214,
+      "text": "associated with it Close (2019 film), an action thriller Close (2022 film), a Belgian drama film Close (street), an alley or cul-de-sac Close, old English term for an estate Close, a common stair or entryway in a Scottish tenement Close (system call), a system call in computer software Close, a character in Go! Princess PreCure ��2..."
+    },
+    {
+      "chunk_id": "wikipedia:Love#0000",
+      "doc_id": "wikipedia:Love",
+      "title": "Love",
+      "url": "https://en.wikipedia.org/?curid=17547",
+      "source_type": "wikipedia",
+      "score": 0.5113996386528015,
+      "text": "Love is an emotion involving strong attraction, affection, emotional attachment or concern for a person, animal, or thing. It is expressed in many forms, encompassing a range of strong and positive emotional and mental states, from the most sublime virtue, good habit, deepest interpersonal affection, to the simplest pleasure. An example of this range of meanings is that the love of a mother differs from the love of a spouse, which differs from the love of food. Love is considered to be both positive and negative, with its virtue representing kindness, compassion, and affection—\"the unselfish, loyal, and benevolent concern for the good of another\"—and its vice representing a moral flaw akin to vanity, selfishness, amour-propre, and egotism. It may also describe compassionate and affectionate actions towards other humans, oneself, or animals."
+    },
+    {
+      "chunk_id": "wikipedia:Jonathan Demme#0001",
+      "doc_id": "wikipedia:Jonathan Demme",
+      "title": "Jonathan Demme",
+      "url": "https://en.wikipedia.org/?curid=16069",
+      "source_type": "wikipedia",
+      "score": 0.5019854068756103,
+      "text": "horror film The Silence of the Lambs, based on the novel of the same title, won five Academy Awards, including Best Director and Best Picture. His subsequent films earned similar acclaim, notably the HIV/AIDS-themed drama Philadelphia (1993), the supernatural Gothic horror Beloved (1998), the conspiracy thriller The Manchurian Candidate (2004), and the independent drama Rachel Getting Married (2008). Demme also directed numerous concert films such as Stop Making..."
+    },
+    {
+      "chunk_id": "wikipedia:Jonathan Demme#0000",
+      "doc_id": "wikipedia:Jonathan Demme",
+      "title": "Jonathan Demme",
+      "url": "https://en.wikipedia.org/?curid=16069",
+      "source_type": "wikipedia",
+      "score": 0.4951968610286713,
+      "text": "Robert Jonathan Demme ( DEM-ee; February 22, 1944 – April 26, 2017) was an American filmmaker, whose career directing, producing, and screenwriting spanned more than 30 years and 70 feature films, documentaries, and television productions. He was an Academy Award and a Directors Guild of America Award winner, and received nominations for a BAFTA Award, a Golden Globe Award, and three Independent Spirit Awards. Beginning his career under B-movie producer Roger Corman, Demme made his directorial debut with the 1974 women-in-prison film Caged Heat, before becoming known for his casually humanist films such as Melvin and Howard (1980), Swing Shift (1984), Something Wild (1986), and Married to the Mob (1988). His 1991 psychological horror film The Silence of the Lambs, based on the novel of the same title, won five Academy Awards, including Best Director and Best Picture."
+    },
+    {
+      "chunk_id": "wikipedia:Delivery#0001",
+      "doc_id": "wikipedia:Delivery",
+      "title": "Delivery",
+      "url": "https://en.wikipedia.org/?curid=231039",
+      "source_type": "wikipedia",
+      "score": 0.4921547472476959,
+      "text": "television comedy interview series \"The Delivery\" (The Office), a 2010 episode of The Office Delivery (web series), a 2021 South Korean web drama. Music Deliver (The Mamas & the Papas album), 1967 Deliver (The Oak Ridge Boys album), 1983 Deliverin', a 1971 album by Poco \"Deliver\" (song), a 2017 song by Fifth Harmony \"Deliver\", a song by Lupe Fiasco from Tetsuo & Youth \"Delivery\" (song), a 2007 single..."
+    },
+    {
+      "chunk_id": "wikipedia:Love#0001",
+      "doc_id": "wikipedia:Love",
+      "title": "Love",
+      "url": "https://en.wikipedia.org/?curid=17547",
+      "source_type": "wikipedia",
+      "score": 0.4653088808059692,
+      "text": "vanity, selfishness, amour-propre, and egotism. It may also describe compassionate and affectionate actions towards other humans, oneself, or animals. In its various forms, love acts as a major facilitator of interpersonal relationships, and owing to its central psychological importance, is one of the most common themes in the creative arts. Love has been postulated to be a function that keeps human beings together against menaces and to facilitate the continuation of the species. Ancient Greek..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Winnie the Pooh sits with piglet holding a jar of honey",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the Pooh",
+          "piglet",
+          "honey"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that people who talk loudly in the movie theater, make them angry.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "that people",
+          "the movie theater"
+        ]
+      },
+      "title": {
+        "text": "Shut up for the love of god !",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the love",
+          "god",
+          "shut",
+          "love"
+        ]
+      },
+      "text": {
+        "text": "1 Love BuT You Know WHAT - SN HONEY! 1 DON'T Love? SS, SO eh & xe 7 as aan a=! a’ i> EX< —y \\\\ a People who talk loudly ufarsnsingn 79s in Movie Theaters —— —",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Movie Theaters",
+          "love",
+          "know",
+          "honey",
+          "don",
+          "aan",
+          "people",
+          "talk",
+          "loudly",
+          "ufarsnsingn",
+          "movie",
+          "theaters"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the love",
+      "god",
+      "shut",
+      "love",
+      "Movie Theaters",
+      "know",
+      "honey",
+      "don",
+      "aan",
+      "people",
+      "talk",
+      "loudly",
+      "ufarsnsingn",
+      "movie",
+      "theaters"
+    ],
+    "secondary_terms": [
+      "the Pooh",
+      "piglet",
+      "honey",
+      "that people",
+      "the movie theater"
+    ],
+    "queries": [
+      "\"Movie Theaters\" \"the love\" \"god\" \"shut\"",
+      "\"god\" \"shut\" \"love\" \"know\""
+    ]
+  },
+  "source_jsonl_id": null
+}

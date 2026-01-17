@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_04812",
+  "queries": [
+    "\"Youtube\" \"their ae loved ones\" \"asongireally likeon\" \"people\"",
+    "\"Youtube\" \"their ae loved ones\" \"asongireally likeon\" \"the comments\"",
+    "\"asongireally likeon\" \"the comments\" \"people\" \"vol\""
+  ],
+  "primary_terms": [
+    "asongireally likeon",
+    "Youtube",
+    "people",
+    "their ae loved ones",
+    "vol"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Timon#0001",
+      "doc_id": "wikipedia:Timon",
+      "title": "Timon",
+      "url": "https://en.wikipedia.org/?curid=358706",
+      "source_type": "wikipedia",
+      "score": 0.8668637871742249,
+      "text": "the title character of The History of Timon of Athens the Man-hater, a rewrite of Shakespeare's original play by Thomas Shadwell Timon, a film and television character, originally from the film The Lion King Timon (Rome character), in the 2005 television series Rome Timon, one of the minor characters in the 2017 Netflix series, Big Mouth (American..."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube#0000",
+      "doc_id": "wikipedia:YouTube",
+      "title": "YouTube",
+      "url": "https://en.wikipedia.org/?curid=3524766",
+      "source_type": "wikipedia",
+      "score": 0.8585923075675964,
+      "text": "YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen, who were former employees of PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google. In January 2024, YouTube had more than 2.7 billion monthly active users, who collectively watched more than one billion hours of videos every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of content per minute, and as of mid-2024, there were approximately 14.8 billion videos in total. On November 13, 2006, YouTube was purchased by Google for US$1.65 billion (equivalent to $2.39 billion in 2024). Google expanded YouTube's business model from generating revenue through advertisements alone to offering paid content such as movies and exclusive content explicitly produced for YouTube."
+    },
+    {
+      "chunk_id": "wikipedia:Harold#0000",
+      "doc_id": "wikipedia:Harold",
+      "title": "Harold",
+      "url": "https://en.wikipedia.org/?curid=555297",
+      "source_type": "wikipedia",
+      "score": 0.7958106458187103,
+      "text": "Harold may refer to: People Harold (given name), including a list of persons and fictional characters with the name Harold (surname), surname in the English language András Arató, known in meme culture as \"Hide the Pain Harold\" Arts and entertainment Harold (film), a 2008 comedy film Harold, an 1876 poem by Alfred, Lord Tennyson Harold, the Last of the Saxons, an 1848 book by Edward Bulwer-Lytton, 1st Baron Lytton Harold or the Norman Conquest, an opera by Frederic Cowen Harold, an 1885 opera by Eduard Nápravník Harold, a character from the cartoon The Grim Adventures of Billy & Mandy Harold & Kumar, a US movie; Harold/Harry is the main actor in the show."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.7323694884777069,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube Premium#0001",
+      "doc_id": "wikipedia:YouTube Premium",
+      "title": "YouTube Premium",
+      "url": "https://en.wikipedia.org/?curid=44382466",
+      "source_type": "wikipedia",
+      "score": 0.7265538036823272,
+      "text": "relaunched as YouTube Red on October 21, 2015, expanding its scope to offer advertisement-free access to all YouTube videos, as opposed to just music. YouTube announced the rebranding of the service as YouTube Premium on May 17, 2018, alongside the return of YouTube Music as a separate subscription service. Later in the year, it was reported that YouTube was planning to make some of the original content associated with the service available on an ad-supported basis. ��2�..."
+    },
+    {
+      "chunk_id": "wikipedia:YouTube Premium#0000",
+      "doc_id": "wikipedia:YouTube Premium",
+      "title": "YouTube Premium",
+      "url": "https://en.wikipedia.org/?curid=44382466",
+      "source_type": "wikipedia",
+      "score": 0.6944879353046417,
+      "text": "YouTube Premium (formerly Music Key and YouTube Red) is a subscription service offered by the American video platform YouTube. The service provides ad-free access to content across the service, as well as access to exclusive YouTube Originals programming produced in collaboration with the site's creators, ability to download videos and listen background playback of videos on mobile devices, and access to the music streaming service, YouTube Music, along with other benefits. It has over 125 million subscribers. The service was launched on November 14, 2014, as Music Key, offering advertisement-free streaming of music videos from participating labels on YouTube and Google Play Music. The service was then revised and relaunched as YouTube Red on October 21, 2015, expanding its scope to offer advertisement-free access to all YouTube videos, as opposed to just music."
+    },
+    {
+      "chunk_id": "wikipedia:Fuck#0001",
+      "doc_id": "wikipedia:Fuck",
+      "title": "Fuck",
+      "url": "https://en.wikipedia.org/?curid=5575722",
+      "source_type": "wikipedia",
+      "score": 0.6810244917869568,
+      "text": "one of its more common usages in some parts of the English-speaking world. Some English-speaking countries censor it on television and radio. Andrea Millwood Hargrave's 2000 study of the attitudes of the British public found that fuck was considered the third-most-severe profanity, and its derivative motherfucker second. Cunt was considered the..."
+    },
+    {
+      "chunk_id": "wikipedia:Others#0000",
+      "doc_id": "wikipedia:Others",
+      "title": "Others",
+      "url": "https://en.wikipedia.org/?curid=3252154",
+      "source_type": "wikipedia",
+      "score": 0.6442681610584259,
+      "text": "Others or The Others may refer to: Fictional characters Others (A Song of Ice and Fire), supernatural creatures in the fictional world of George R. R. Martin's fantasy series A Song of Ice and Fire Others (Lost), mysterious inhabitants of a strange island in the South Pacific in the television series Lost Others (Night Watch), a fictional group of people with supernatural abilities in Sergey Lukyanenko's Watches novel pentalogy The Others (Vok), a character from the Beast Wars franchise The Others, a reference to Cro-Magnon peoples in Jean M. Auel's Earth's Children series The Others, a group of allies of Aquaman in comics, introduced in 2012 and featured in a 2014 series The Others, the Ancients who have achieved Ascension in the Stargate universe The Others, a series of alien extraterrestrial species from The 5th Wave novels and film Films The Others (1974 film), a 1974 film by the Argentinian director Hugo Santiago The Others (1997 film), a 1997 film by Travis Fine The Others (2001"
+    },
+    {
+      "chunk_id": "wikipedia:Some People#0000",
+      "doc_id": "wikipedia:Some People",
+      "title": "Some People",
+      "url": "https://en.wikipedia.org/?curid=38582232",
+      "source_type": "wikipedia",
+      "score": 0.6359653085470199,
+      "text": "Some People may refer to: Some People (film), 1962 Some People, a 1927 novel by Harold Nicolson \"Some People\", song by LeAnn Rimes Music Albums Some People (Jon English album), 1983 Some People (Belouis Some album), 1985 Songs \"Some People\" (Belouis Some song), 1985 \"Some People\" (Cliff Richard song), 1987 \"Some People\" (LeAnn Rimes song), 2006 \"Some People\" (E. G. Daily song), 1989 \"Some People\", by Janis Ian from her 1978 self-titled album \"Some People\", by Fra Lippo Lippi from the 1987 album Light and Shade \"Some People (Ton désir)\", by Ocean Drive, 2009 \"Some People\", by James Reyne from the 1991 album Electric Digger Dandy \"Some People\", from the 1959 musical Gypsy \"Some People\", by Anne-Marie from the deluxe edition of the 2018 album Speak Your Mind \"Some People\", by Goldfrapp from the 2008 album Seventh Tree"
+    },
+    {
+      "chunk_id": "wikipedia:Normal People#0000",
+      "doc_id": "wikipedia:Normal People",
+      "title": "Normal People",
+      "url": "https://en.wikipedia.org/?curid=59041422",
+      "source_type": "wikipedia",
+      "score": 0.5909487813711166,
+      "text": "Normal People is a 2018 novel by the Irish author Sally Rooney. Normal People is Rooney's second novel, published after Conversations with Friends (2017). It was first published by Faber & Faber on 30 August 2018. The book became a bestseller in the United States, selling almost 64,000 copies in hardcover in its first four months of release. It was also a bestseller in China, where its coming of age theme was popular with younger readers. A critically acclaimed and Emmy nominated television adaptation of the same name aired from April 2020 on BBC Three and Hulu. A number of publications ranked it one of the best books of the 2010s. Synopsis The novel follows the complex friendship and relationship between two teenagers from different social classes, Connell and Marianne, who both attend the same secondary school in County Sligo, Ireland, and, later, Trinity College Dublin (TCD). It is set during the post-2008 Irish economic downturn, from 2011 through 2015."
+    }
+  ]
+}

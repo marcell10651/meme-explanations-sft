@@ -1,0 +1,202 @@
+{
+  "meme_id": "meme_02904",
+  "queries": [
+    "\"Two\" \"parents\" \"watching\" \"brother\" \"not\"",
+    "\"brother\" \"not\" \"laugh\" \"joke\""
+  ],
+  "primary_terms": [
+    "your parents",
+    "parents",
+    "watching",
+    "brother",
+    "not",
+    "laugh",
+    "joke",
+    "supposed",
+    "understand",
+    "oras",
+    "bya"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Brother#0000",
+      "doc_id": "wikipedia:Brother",
+      "title": "Brother",
+      "url": "https://en.wikipedia.org/?curid=4098495",
+      "source_type": "wikipedia",
+      "score": 1.2425910413265229,
+      "text": "A brother (pl.: brothers or brethren) is a man or boy who shares one or more parents with another; a male sibling. The female counterpart is a sister. Although the term typically refers to a familial relationship, it is sometimes used endearingly to refer to non-familial relationships. A full brother is a first degree relative. Overview The term brother comes from the Proto-Indo-European *bʰréh₂tēr, which becomes Latin frater, of the same meaning. Sibling warmth or affection between male siblings has been correlated to some more negative effects. In pairs of brothers, higher sibling warmth is related to more risk taking behaviour, although risk taking behaviour is not related to sibling warmth in any other type of sibling pair. The cause of this phenomenon in which sibling warmth is only correlated with risk taking behaviours in brother pairs still is unclear."
+    },
+    {
+      "chunk_id": "wikipedia:Uncle#0000",
+      "doc_id": "wikipedia:Uncle",
+      "title": "Uncle",
+      "url": "https://en.wikipedia.org/?curid=24306566",
+      "source_type": "wikipedia",
+      "score": 0.8177784740924835,
+      "text": "An uncle is usually defined as a male relative who is a sibling of a parent or married to a sibling of a parent, as well as the parent of the cousins. Uncles who are related by birth are second-degree relatives. The female counterpart of an uncle is an aunt, and the reciprocal relationship is that of a nephew or niece. The word comes from Latin: avunculus, the diminutive of avus (grandfather), and is a family relationship within an extended or immediate family. A popular colloquial term in English is Unc. In some cultures and families, children may refer to the cousins of their parents as uncle (or aunt). It is also used as a title of respect for older relatives, neighbours, acquaintances, family friends, and even total strangers in some cultures, for example Aboriginal Australian elders. Using the term in this way is a form of fictive kinship."
+    },
+    {
+      "chunk_id": "wikipedia:Joke#0000",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.802088487148285,
+      "text": "A joke is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh and is usually not meant to be interpreted literally. It usually takes the form of a story, often with dialogue, and ends in a punch line, whereby the humorous element of the story is revealed; this can be done using a pun or other type of word play, irony or sarcasm, logical incompatibility, hyperbole, or other means. Linguist Robert Hetzron offers the definition: A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end. No continuation relieving the tension should be added. As for its being \"oral,\" it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry."
+    },
+    {
+      "chunk_id": "wikipedia:Family#0000",
+      "doc_id": "wikipedia:Family",
+      "title": "Family",
+      "url": "https://en.wikipedia.org/?curid=10401954",
+      "source_type": "wikipedia",
+      "score": 0.6777090489864349,
+      "text": "Family (from Latin: familia) is a group of people related either by consanguinity (by recognized birth) or affinity (by marriage or other relationship). It forms the basis for social order. Ideally, families offer predictability, structure, and safety as members mature and learn to participate in the community. Historically, most human societies use family as the primary purpose of attachment, nurturance, and socialization. Anthropologists classify most family organizations as matrifocal (a mother and her children), patrifocal (a father and his children), conjugal (a married couple with children, also called the nuclear family), avuncular (a man, his sister, and her children), or extended (in addition to parents, spouse and children, may include grandparents, aunts, uncles, or cousins). The field of genealogy aims to trace family lineages through history. The family is also an important economic unit studied in family economics."
+    },
+    {
+      "chunk_id": "wikipedia:Fists in the Pocket#0000",
+      "doc_id": "wikipedia:Fists in the Pocket",
+      "title": "Fists in the Pocket",
+      "url": "https://en.wikipedia.org/?curid=3654682",
+      "source_type": "wikipedia",
+      "score": 0.6685388147830963,
+      "text": "Fists in the Pocket (Italian: I pugni in tasca) is a 1965 Italian satirical drama film written and directed by Marco Bellocchio and starring Lou Castel. It was Bellocchio's first feature film and became one of the most critically acclaimed films of the year. The film centers on a young man suffering from epilepsy, who plots the murders of the members of his dysfunctional family. In 2008, Fists in the Pocket was included in the Italian Ministry of Cultural Heritage's 100 Italian films to be saved, a list of 100 films that \"have changed the collective memory of the country between 1942 and 1978.\" Plot Four siblings, a sister and three brothers, live with their blind, widowed mother in a provincial villa. The younger brothers Alessandro and Leone are epileptics, while sister Giulia, with whom Alessandro shares an incestuous attraction, is mentally disturbed. Augusto, the eldest brother and apparently sane, is the family's only provider."
+    },
+    {
+      "chunk_id": "wikipedia:Big Brother (franchise)#0001",
+      "doc_id": "wikipedia:Big Brother (franchise)",
+      "title": "Big Brother (franchise)",
+      "url": "https://en.wikipedia.org/?curid=4391",
+      "source_type": "wikipedia",
+      "score": 0.61950703561306,
+      "text": "only one remains and wins the grand prize. As of 5 August 2023, there have been 508 seasons of Big Brother in over 63 franchise countries and regions. English-language editions of the program are often referred to by its initials BB. Premise At regular intervals, the housemates privately nominate a number of their fellow housemates whom they wish to be evicted from the house. The housemates with the most..."
+    },
+    {
+      "chunk_id": "wikipedia:Fists in the Pocket#0001",
+      "doc_id": "wikipedia:Fists in the Pocket",
+      "title": "Fists in the Pocket",
+      "url": "https://en.wikipedia.org/?curid=3654682",
+      "source_type": "wikipedia",
+      "score": 0.6085405707359314,
+      "text": "Alessandro shares an incestuous attraction, is mentally disturbed. Augusto, the eldest brother and apparently sane, is the family's only provider. When Augusto's fiancée Lucia receives an anonymous letter whose addressor pretends to be pregnant by him, he immediately realizes that it was written by Giulia. Alessandro, who is disgusted with his family, decides that Augusto would be free to live..."
+    },
+    {
+      "chunk_id": "wikipedia:Amusement#0000",
+      "doc_id": "wikipedia:Amusement",
+      "title": "Amusement",
+      "url": "https://en.wikipedia.org/?curid=768817",
+      "source_type": "wikipedia",
+      "score": 0.6046669960021973,
+      "text": "Amusement is the state of experiencing humorous and entertaining events or situations while the person or animal actively maintains the experience, and is associated with enjoyment, happiness, laughter and pleasure. It is an emotion with positive valence and high physiological arousal. Amusement is considered an \"epistemological\" emotion because humor occurs when one experiences a cognitive shift from one knowledge structure about a target to another, such as hearing the punchline of a joke. Emotions perceived overtime are focused on the daily dynamics of life as augment or blunt. The pleasant surprise that happens from learning this new information leads to a state of amusement which people often express through smiling, laughter or chuckling. Current studies have not yet reached consensus on the exact purpose of amusement, though theories have been advanced in the fields of psychology, psychiatry, and sociology."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0000",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.6032860398292541,
+      "text": "Very Bad Things is a 1998 American black comedy film written and directed by Peter Berg in his feature film directorial debut and starring Cameron Diaz, Jon Favreau, Daniel Stern, Jeremy Piven, Christian Slater, Leland Orser, Kobe Tai and Jeanne Tripplehorn. The plot follows a group of men who become embroiled in crime and betrayal after they attempt to conceal an accidental death. Very Bad Things was not well received and grossed $21 million against a $30 million budget. Plot Kyle Fisher and Laura Garrety are a young suburbanite couple days away from their wedding. While Laura finalizes last-minute wedding details, Kyle is away in Las Vegas celebrating his bachelor party with four friends—real estate agent Robert Boyd, mechanic Charles Moore, and brothers Adam and Michael Berkow. As part of the festivities, Robert hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom."
+    },
+    {
+      "chunk_id": "wikipedia:Big Brother (franchise)#0000",
+      "doc_id": "wikipedia:Big Brother (franchise)",
+      "title": "Big Brother (franchise)",
+      "url": "https://en.wikipedia.org/?curid=4391",
+      "source_type": "wikipedia",
+      "score": 0.5946108758449554,
+      "text": "Big Brother is a reality competition television franchise created by John de Mol Jr., first broadcast in the Netherlands in 1999 and subsequently syndicated internationally beginning in 2000. The show features contestants called \"housemates\" or \"HouseGuests\" who live together in a specially constructed house that is isolated from the outside world. The show has been cited as having had widespread influence on the status of television and celebrity. The name is inspired by Big Brother from George Orwell's novel Nineteen Eighty-Four, and the housemates are continuously monitored during their stay in the house by live television cameras as well as personal audio microphones. Throughout the course of the competition, they are voted out of the house (usually on a weekly basis) until only one remains and wins the grand prize. As of 5 August 2023, there have been 508 seasons of Big Brother in over 63 franchise countries and regions."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Two men are surrounded by computers and staring upwards intently.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Two men",
+          "computers"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that it's difficult for them not to laugh at inappropriate jokes in front of their parents.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "inappropriate jokes",
+          "front",
+          "their parents"
+        ]
+      },
+      "title": {
+        "text": "when your parents are watching",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "your parents",
+          "parents",
+          "watching"
+        ]
+      },
+      "text": {
+        "text": "Me and my brother trying not to laugh at a joke we are not supposed to understand: 7 7D Oras J v7 a TS bya hy St y =",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "brother",
+          "not",
+          "laugh",
+          "joke",
+          "supposed",
+          "understand",
+          "oras",
+          "bya"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "your parents",
+      "parents",
+      "watching",
+      "brother",
+      "not",
+      "laugh",
+      "joke",
+      "supposed",
+      "understand",
+      "oras",
+      "bya"
+    ],
+    "secondary_terms": [
+      "Two men",
+      "computers",
+      "inappropriate jokes",
+      "front",
+      "their parents"
+    ],
+    "queries": [
+      "\"Two\" \"parents\" \"watching\" \"brother\" \"not\"",
+      "\"brother\" \"not\" \"laugh\" \"joke\""
+    ]
+  },
+  "source_jsonl_id": null
+}

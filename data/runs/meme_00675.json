@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_00675",
+  "queries": [
+    "\"European\" \"our problems\" \"gas prices\" \"the legalization\" \"weed\"",
+    "\"the legalization\" \"weed\" \"rel\" \"toe\""
+  ],
+  "primary_terms": [
+    "our problems",
+    "gas prices",
+    "the legalization",
+    "weed",
+    "rel",
+    "toe",
+    "ats"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Smoking#0000",
+      "doc_id": "wikipedia:Smoking",
+      "title": "Smoking",
+      "url": "https://en.wikipedia.org/?curid=12254052",
+      "source_type": "wikipedia",
+      "score": 0.5223162472248077,
+      "text": "Smoking is a human behavior which involves the combustion of a substance, usually plant material, and the inhalation of resulting fumes. Today, smoking is mostly practiced by rolling the dried leaves of the tobacco plant into a cigarette. Other forms of tobacco smoking include the use of a smoking tobacco with a pipe or cigar, or using a bong. Cigarette smokers almost always inhale the smoke; most pipe and cigar smokers do not inhale. Smoking is primarily practiced as a route of administration for psychoactive chemicals because the active substances within the burnt, dried plant leaves (or other chemical) can vaporize into a gaseous state and be delivered into the respiratory tract, where they are rapidly absorbed into the bloodstream through the lungs and can reach the central nervous system."
+    },
+    {
+      "chunk_id": "wikipedia:Use Your Fingers#0001",
+      "doc_id": "wikipedia:Use Your Fingers",
+      "title": "Use Your Fingers",
+      "url": "https://en.wikipedia.org/?curid=2317950",
+      "source_type": "wikipedia",
+      "score": 0.48520515859127045,
+      "text": "two decades later is how much this album not only shouldn't exist from a legal perspective, but how it managed to predict so much of the 20 years of musical trends that followed it,\" and praising it as a \"unique entry in the hip-hop canon from a sampling production standpoint, an impressive assortment of acknowledgments from a pop culture junkie..."
+    },
+    {
+      "chunk_id": "wikipedia:Success#0001",
+      "doc_id": "wikipedia:Success",
+      "title": "Success",
+      "url": "https://en.wikipedia.org/?curid=63138616",
+      "source_type": "wikipedia",
+      "score": 0.4424561560153961,
+      "text": "a box-office bomb can go on to receive a cult following, with the initial lack of commercial success even lending a cachet of subcultural coolness. It may also be difficult or impossible to ascertain whether a situation meets criteria for success or failure due to ambiguous or ill-defined definition of those criteria. Finding useful and effective criteria, or heuristics, to judge the failure or success of a situation may itself be a significant task. In American culture DeVitis and Rich link the..."
+    },
+    {
+      "chunk_id": "wikipedia:Cigar#0001",
+      "doc_id": "wikipedia:Cigar",
+      "title": "Cigar",
+      "url": "https://en.wikipedia.org/?curid=38323",
+      "source_type": "wikipedia",
+      "score": 0.4419269412755966,
+      "text": "in the Eastern United States (mostly in Florida, Kentucky, Tennessee, and Virginia) and in the Mediterranean countries of Italy, Greece, Spain (in the Canary Islands), and Turkey, and to a lesser degree in Indonesia and the Philippines of Southeast Asia. Cigar smoking carries serious health risks, including increased risk of developing various types..."
+    },
+    {
+      "chunk_id": "wikipedia:Pappy Van Winkle's Family Reserve#0000",
+      "doc_id": "wikipedia:Pappy Van Winkle's Family Reserve",
+      "title": "Pappy Van Winkle's Family Reserve",
+      "url": "https://en.wikipedia.org/?curid=14218046",
+      "source_type": "wikipedia",
+      "score": 0.43441906571388245,
+      "text": "Pappy Van Winkle's Family Reserve is the flagship brand of bourbon whiskey owned by the \"Old Rip Van Winkle Distillery\" company. It is distilled and bottled by the Sazerac Company at its Buffalo Trace Distillery in Frankfort, Kentucky. Pappy Van Winkle's Family Reserve is often regarded as one of the finest bourbons in the world, and its very low production and high demand can make it extremely difficult to find. History In 1893, when he was 18 years old, Julian \"Pappy\" Van Winkle Sr. began working as a salesman for W.L. Weller & Sons. He became co-owner fifteen years later. In 1910 they acquired the A. Ph. Stitzel Distillery in Louisville, Kentucky, which had started as a sour mash whiskey distillery in 1872. The Stitzel Distillery supplied much of the whiskey sold by the Weller wholesale firm. Old Rip Van Winkle was introduced just before the start of Prohibition in the United States."
+    },
+    {
+      "chunk_id": "wikipedia:Pappy Van Winkle's Family Reserve#0001",
+      "doc_id": "wikipedia:Pappy Van Winkle's Family Reserve",
+      "title": "Pappy Van Winkle's Family Reserve",
+      "url": "https://en.wikipedia.org/?curid=14218046",
+      "source_type": "wikipedia",
+      "score": 0.4238256961107254,
+      "text": "much of the whiskey sold by the Weller wholesale firm. Old Rip Van Winkle was introduced just before the start of Prohibition in the United States. After Prohibition, the brand was not reintroduced until after 1972 when the Stitzel-Weller distillery and its current brand names (including W. L. Weller, Old Fitzgerald, Rebel Yell, and Cabin Still) were sold to other companies. The only brand name the Van Winkle family had kept the rights to..."
+    },
+    {
+      "chunk_id": "wikipedia:Finger#0000",
+      "doc_id": "wikipedia:Finger",
+      "title": "Finger",
+      "url": "https://en.wikipedia.org/?curid=37618",
+      "source_type": "wikipedia",
+      "score": 0.4149685472249985,
+      "text": "A finger is a prominent digit on the forelimbs of most tetrapod vertebrate animals, especially those with prehensile extremities (i.e. hands) such as humans and other primates. Most tetrapods have five digits (pentadactyly), and short digits (i.e. significantly shorter than the metacarpal/metatarsals) are typically referred to as toes, while those that are notably elongated are called fingers. In humans, the fingers are flexibly articulated and opposable, serving as an important organ of tactile sensation and fine movements, which are crucial to the dexterity of the hands and the ability to grasp and manipulate objects Humans Usually humans have five digits, the bones of which are termed phalanges, on each hand, although some people have more or fewer than five due to congenital disorders such as polydactyly or oligodactyly, or accidental or intentional amputations. The first digit is the thumb, followed by the index finger, middle finger, ring finger, and little finger or pinkie."
+    },
+    {
+      "chunk_id": "wikipedia:Flat#0000",
+      "doc_id": "wikipedia:Flat",
+      "title": "Flat",
+      "url": "https://en.wikipedia.org/?curid=30873460",
+      "source_type": "wikipedia",
+      "score": 0.4110675871372223,
+      "text": "Flat or flats may refer to: Architecture Apartment, known as a flat in the United Kingdom, Ireland, and other Commonwealth countries Arts and entertainment Flat (music), a symbol (♭) which denotes a lower pitch Flat (soldier), a two-dimensional toy soldier made of tin or plastic Flat (theatre), a flat piece of theatrical scenery Flat, a leading type of wordplay, as identified by the National Puzzlers' League Flat! (2010), an Indian film Flats (band), an English sludge metal and punk band Flats (comics), the first stage in the comic coloring process Footwear Flats, footwear which is not high-heeled Ballet flats, derived from ballet shoes, for casual wear as well as dancing Ballet shoes (also known as ballet slippers), often referred to as \"flats\" or \"flat shoes\" Racing flats, lightweight shoes used primarily for running a race Geography Landforms Flat (landform), a relatively level area within a region of greater relief Mudflat, intertidal wetland with a substrate of fine sediments"
+    },
+    {
+      "chunk_id": "wikipedia:Working#0001",
+      "doc_id": "wikipedia:Working",
+      "title": "Working",
+      "url": "https://en.wikipedia.org/?curid=3297211",
+      "source_type": "wikipedia",
+      "score": 0.38586485385894775,
+      "text": "1985), statistician and economist Working the system, exploiting rules and procedures for unintended or abusive effects A working, being a series of occult rituals See also Workin' (disambiguation) Work (disambiguation) Works (disambiguation) All pages with titles containing Working All pages with titles beginning with Working"
+    },
+    {
+      "chunk_id": "wikipedia:Cigar#0000",
+      "doc_id": "wikipedia:Cigar",
+      "title": "Cigar",
+      "url": "https://en.wikipedia.org/?curid=38323",
+      "source_type": "wikipedia",
+      "score": 0.382787749171257,
+      "text": "A cigar is a rolled bundle of dried and fermented tobacco leaves made to be smoked. Cigars are produced in a variety of sizes and shapes. Since the 20th century, almost all cigars are made of three distinct components: the filler, the binder leaf which holds the filler together, and a wrapper leaf, which is often the highest quality leaf used. Often there will be a cigar band printed with the cigar manufacturer's logo. Modern cigars can come with two or more bands, especially Cuban cigars, showing Limited Edition (Edición Limitada) bands displaying the year of production. Cigar tobacco is grown in significant quantities primarily in Brazil, Central America (Costa Rica, Ecuador, Guatemala, Honduras, Mexico, Nicaragua, and Panama), and the islands of the Caribbean (Cuba, the Dominican Republic, Haiti, and Puerto Rico); it is also produced in the Eastern United States (mostly in Florida, Kentucky, Tennessee, and Virginia) and in the Mediterranean countries of Italy, Greece, Spain (in the"
+    }
+  ]
+}

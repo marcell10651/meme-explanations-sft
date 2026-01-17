@@ -1,0 +1,188 @@
+{
+  "meme_id": "meme_03108",
+  "queries": [
+    "\"Rdddit\" \"blue hair\" \"know\" \"obesity\" \"does\"",
+    "\"obesity\" \"does\" \"blue\" \"hair\""
+  ],
+  "primary_terms": [
+    "know",
+    "blue hair",
+    "obesity",
+    "does",
+    "blue",
+    "hair",
+    "cause"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Broccoli haircut#0000",
+      "doc_id": "wikipedia:Broccoli haircut",
+      "title": "Broccoli haircut",
+      "url": "https://en.wikipedia.org/?curid=77594266",
+      "source_type": "wikipedia",
+      "score": 0.6978461414575576,
+      "text": "A broccoli haircut (also known as a Zoomer perm, bird's nest, in the UK as the meet me at McDonald's haircut or alpaca back and sides) is a type of haircut with tapered sides and layered curls on top, usually achieved with a perm. It became popular among teenage and tween boys during the latter part of the 2010s and into the 2020s, particularly due to its spread on TikTok, and became an Internet meme around the same time. Definition The broccoli haircut is a hairstyle with tapered sides and short, uneven layered curls on top, which are often permed. It is referred to as such due to its resemblance to a floret of broccoli. It has also been referred to as the \"Zoomer perm\" for its popularity among members of Generation Z, as well as \"bird's nest hair\", \"bussin haircut\" or \"alpaca hair\". It has been described as a variation on a bowl cut."
+    },
+    {
+      "chunk_id": "wikipedia:Long hair#0001",
+      "doc_id": "wikipedia:Long hair",
+      "title": "Long hair",
+      "url": "https://en.wikipedia.org/?curid=8416397",
+      "source_type": "wikipedia",
+      "score": 0.6760935008525848,
+      "text": ". Biological significance Humans, horses, orangutans, and lions are among the few species of mammals that may grow their head hair or manes very long. Humans are believed to have lost their fur 2.5–3 million years ago as hominids when transitioning from a forest habitat to the open savanna, as an effect of natural selection, since this development made it possible to run fast and hunt animals close to the equator without getting overheated. Head hair was an exception, which was a survival trait because it provides thermal insulation of the scalp from the sun, protects against ultraviolet radiation exposure (UV), and..."
+    },
+    {
+      "chunk_id": "wikipedia:Green#0000",
+      "doc_id": "wikipedia:Green",
+      "title": "Green",
+      "url": "https://en.wikipedia.org/?curid=12460",
+      "source_type": "wikipedia",
+      "score": 0.5397702515125274,
+      "text": "Green is the color between cyan and yellow on the visible spectrum. It is evoked by light which has a dominant wavelength of roughly 495–570 nm. In subtractive color systems, used in painting and color printing, it is created by a combination of yellow and cyan; in the RGB color model, used on television and computer screens, it is one of the additive primary colors, along with red and blue, which are mixed in different combinations to create all other colors. By far the largest contributor to green in nature is chlorophyll, the chemical by which plants photosynthesize and convert sunlight into chemical energy. Many creatures have adapted to their green environments by taking on a green hue themselves as camouflage. Several minerals have a green color, including the emerald, which is colored green by its chromium content."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0000",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.5176592826843261,
+      "text": "The Oompa-Loompas are a fictional race of people in the Charlie and the Chocolate Factory franchise based on the original book by Roald Dahl. In all versions of the story, they are depicted as little people who form the workforce of Willy Wonka's chocolate factory, and are paid in cocoa beans. However, their appearance and backstory change depending on the version. Design and characteristics The Oompa-Loompas are described as being no larger than medium-sized dolls, with rosy-white skin and long golden-brown hair. They wear the same clothes they wore at Loompaland: the men wear deerskins, the women wear leaves and the children wear nothing at all. Before moving to Willy Wonka's chocolate factory, the Oompa-Loompas lived in Loompaland, where they lived in constant fear of the predators that would eat them. Their main source of food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting."
+    },
+    {
+      "chunk_id": "wikipedia:Broccoli haircut#0001",
+      "doc_id": "wikipedia:Broccoli haircut",
+      "title": "Broccoli haircut",
+      "url": "https://en.wikipedia.org/?curid=77594266",
+      "source_type": "wikipedia",
+      "score": 0.5153923988342285,
+      "text": "among members of Generation Z, as well as \"bird's nest hair\", \"bussin haircut\" or \"alpaca hair\". It has been described as a variation on a bowl cut. History The precursor to the modern broccoli haircut first appeared in the early 1980s among fans of new wave groups such as Soft Cell, Talking Heads, A Flock of Seagulls, Duran Duran, The Jesus and Mary Chain, and Wham! It was a grown-out, unstyled version of the quiff popular in the early 1980s that was frequently permed or made to look..."
+    },
+    {
+      "chunk_id": "wikipedia:First#0001",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.4983412683010101,
+      "text": "Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\", by Everglow from the single album Last Melody, 2021 \"First\", by Schoolboy Q from the album Blue Lips, 2024 People 1$T, American musician Craig First (born 1960), American..."
+    },
+    {
+      "chunk_id": "wikipedia:Look#0001",
+      "doc_id": "wikipedia:Look",
+      "title": "Look",
+      "url": "https://en.wikipedia.org/?curid=646437",
+      "source_type": "wikipedia",
+      "score": 0.43993180990219116,
+      "text": "2020) \"Look (Song for Children)\", a song by The Beach Boys The Look (album), an album by Shalamar The Look (band), a UK pop band \"The Look\", a song by Roxette \"The Look\", a song by Metronomy from the album The English Riviera \"Look\", a song by Run On from the album No Way Other uses Look (surname) The Look: Adventures In Rock &..."
+    },
+    {
+      "chunk_id": "wikipedia:Different Colors#0000",
+      "doc_id": "wikipedia:Different Colors",
+      "title": "Different Colors",
+      "url": "https://en.wikipedia.org/?curid=47055403",
+      "source_type": "wikipedia",
+      "score": 0.43861716985702515,
+      "text": "\"Different Colors\" is a song written and recorded by American rock band Walk the Moon for their second studio album, Talking Is Hard (2014). The song was released to US alternative radio stations by RCA Records as the album's second single on May 5, 2015. Described as an alternative rock, electropop, indie rock, and pop song, it is lyrically about celebrating and embracing each other's differences by speaking out against discrimination of any kind. Some music critics gave \"Different Colors\" praise for its chorus and production; others felt it was a step down from the band's earlier singles. The song peaked at number seven on the Billboard Alternative Songs chart, becoming Walk the Moon's third top ten track on the chart. A music video for the song was released on June 11, 2015, featuring footage of the band touring with colorful visuals. The song was performed live by Walk the Moon at award shows, including the 2015 MTV Video Music Awards."
+    },
+    {
+      "chunk_id": "wikipedia:Sexy, Sexy, Sexy#0001",
+      "doc_id": "wikipedia:Sexy, Sexy, Sexy",
+      "title": "Sexy, Sexy, Sexy",
+      "url": "https://en.wikipedia.org/?curid=38590761",
+      "source_type": "wikipedia",
+      "score": 0.43831636011600494,
+      "text": "the typical funk hallmarks of his more popular work. The song performed strongly on three separate Billboard charts as well as the Cashbox chart. It appeared in three separate releases under music label Polydor Records and reissued in 2020. Background In the early 1970s the United States saw the rise of ethnic blaxploitation films focussed on the contemporary experience and oppression of African Americans. The films pioneered..."
+    },
+    {
+      "chunk_id": "wikipedia:Your Town#0000",
+      "doc_id": "wikipedia:Your Town",
+      "title": "Your Town",
+      "url": "https://en.wikipedia.org/?curid=10652571",
+      "source_type": "wikipedia",
+      "score": 0.42698982954025266,
+      "text": "\"Your Town\" is the first single from Scottish band Deacon Blue's fourth studio album, Whatever You Say, Say Nothing (1993). It is written by Ricky Ross and produced by Steve Osborne and Paul Oakenfold. Additional versions of the single release contain various dance remixes of \"Your Town\". Released in November 1992 by Columbia Records, it peaked at number 14 on the UK Singles Chart. Track listings All songs written by Ricky Ross, except where noted: UK release 7-inch single (658786 7) \"Your Town\" [7-inch version] – 3:49 \"Almost Beautiful\" – 4:19 12-inch single (658786 6) \"Your Town\" (Perfecto mix) – 6:27 \"Your Town\" (album version) – 5:21 Cassette single (658786 4) \"Your Town\" [7-inch version] – 3:49 \"Almost Beautiful\" – 4:19 CD single (658786 2) \"Your Town\" [7-inch version] – 3:49 \"Almost Beautiful\" – 4:19 \"I've Been Making Such a Fool\" – 2:25 US release CD single (Chaos 42K 74959) \"Your Town\" (Euro 7-inch) – 3:49 \"Your Town\" (Barrio Mix radio edit) – 4:09 \"Your Town\" (Perfecto mix) –"
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "The stick figure person is laying awake in bed, with a thought bubble over their head.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "The stick figure person",
+          "bed",
+          "their head"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster doesn't understand why so many women who have blue hair, are also overweight.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "blue hair"
+        ]
+      },
+      "title": {
+        "text": "Rdddit, you would know",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "know"
+        ]
+      },
+      "text": {
+        "text": "why does blue hair cause obesity? er ©",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "blue hair",
+          "obesity",
+          "does",
+          "blue",
+          "hair",
+          "cause"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "know",
+      "blue hair",
+      "obesity",
+      "does",
+      "blue",
+      "hair",
+      "cause"
+    ],
+    "secondary_terms": [
+      "The stick figure person",
+      "bed",
+      "their head",
+      "blue hair"
+    ],
+    "queries": [
+      "\"Rdddit\" \"blue hair\" \"know\" \"obesity\" \"does\"",
+      "\"obesity\" \"does\" \"blue\" \"hair\""
+    ]
+  },
+  "source_jsonl_id": null
+}

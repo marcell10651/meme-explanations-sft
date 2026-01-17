@@ -1,0 +1,108 @@
+{
+  "meme_id": "meme_00864",
+  "queries": [
+    "\"Milk] Normal Milk\" \"Two types\" \"Vegan Milk\" \"milk\"",
+    "\"Vegan Milk\" \"milk\" \"two\" \"types\""
+  ],
+  "primary_terms": [
+    "Two types",
+    "milk",
+    "two",
+    "types",
+    "[Two types",
+    "Milk] Normal Milk",
+    "Vegan Milk"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Milking#0000",
+      "doc_id": "wikipedia:Milking",
+      "title": "Milking",
+      "url": "https://en.wikipedia.org/?curid=1555269",
+      "source_type": "wikipedia",
+      "score": 1.1256438612937927,
+      "text": "Milking is the act of removing milk from the mammary glands of cattle, water buffalo, humans, goats, sheep, and, more rarely, camels, horses, and donkeys. Milking may be done by hand or by machine, and requires the animal to be currently or recently pregnant. The milker may refer either to the animal that produces the milk or the person who milks said animal. Hand milking Hand milking is the process of manually squeezing milk from an animal's teats, typically done with two hands to express milk into a bucket. It involves first cleaning the udder and teats, then gripping the base of a teat with your thumb and forefinger to trap milk, and finally squeezing downward with your other fingers to push the milk out. Machine milking Most milking in the developed world is done using milking machines. Teat cups are attached to the cow's teats, and then the cups alternate between vacuum and normal air pressure to extract the milk."
+    },
+    {
+      "chunk_id": "wikipedia:Drink#0000",
+      "doc_id": "wikipedia:Drink",
+      "title": "Drink",
+      "url": "https://en.wikipedia.org/?curid=7984",
+      "source_type": "wikipedia",
+      "score": 0.6805842489004135,
+      "text": "A drink or beverage is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, juice, smoothies and soft drinks. Traditionally warm beverages encompass coffee, tea, and hot chocolate. Caffeinated drinks that contain the stimulant caffeine, have been consumed for centuries. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the psychoactive substance ethanol, have been part of human culture for more than 8,000 years. Non-alcoholic drinks typically refer to beverages that are traditionally alcoholic—such as beer, wine, or cocktails—but are produced with a very low alcohol by volume content. This category includes beverages that have undergone processes to remove or significantly reduce alcohol, such as non-alcoholic beers and de-alcoholized wines."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0000",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5074425846338272,
+      "text": "Two Dogs was a ready-to-drink beverage that was first introduced in Australia in 1993 and went on to become available throughout the world. It was a lemon flavoured alcoholic beverage that is widely considered to have been the \"world’s first brewed alcoholic lemonade\" (despite the pre-existence of traditional drinks like sima), paving the way for similar products such as Hooper's Hooch and Mike's Hard Lemonade. Two Dogs was created in 1993 by the South Australian brewer Duncan MacGillivray. The tale behind the drink says that MacGillivray, an owner of a small brewery and pub in South Australia, was having a beer with some friends who owned a lemon farm. They mentioned that they didn't know what to do with all their lemons that they couldn't sell due to size. Duncan said \"I'll try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well."
+    },
+    {
+      "chunk_id": "wikipedia:Whole#0000",
+      "doc_id": "wikipedia:Whole",
+      "title": "Whole",
+      "url": "https://en.wikipedia.org/?curid=7197317",
+      "source_type": "wikipedia",
+      "score": 0.4842775672674179,
+      "text": "Whole may refer to: Music Whole note, or semibreve Whole step, or major second Whole (Jessa Anderson album) or the title song, 2014 Whole (Soil album), 2013 Whole, an EP by Pedro the Lion, 1997 \"Whole\", a song by Basement from Colourmeinkindness, 2012 \"Whole\", a song by Flaw from Through the Eyes, 2001 \"Whole\", a song by Jacob Whitesides, 2019 Other uses Whole (campaign), a British anti-stigma mental health campaign. WHOLE – United Queer Festival, a music festival held at Ferropolis, Gräfenhainichen, Germany. Whole (film), a 2003 American documentary by Melody Gilbert. Whole milk, milk which has not had fat removed. See also Holism, a philosophical and social theory Hole (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Color#0000",
+      "doc_id": "wikipedia:Color",
+      "title": "Color",
+      "url": "https://en.wikipedia.org/?curid=5921",
+      "source_type": "wikipedia",
+      "score": 0.46461247503757475,
+      "text": "Color (or colour in Commonwealth English; see spelling differences) is the visual perception based on the electromagnetic spectrum. Though color is not an inherent property of matter, color perception is related to an object's light absorption, emission, reflection and transmission. For most humans, visible wavelengths of light are the ones perceived in the visible light spectrum, with three types of cone cells (trichromacy). Other animals may have a different number of cone cell types or have eyes sensitive to different wavelengths, such as bees that can distinguish ultraviolet, and thus have a different color sensitivity range. Animal perception of color originates from different light wavelength or spectral sensitivity in cone cell types, which is then processed by the brain. Colors have perceived properties such as hue, colorfulness, and lightness. Colors can also be additively mixed (mixing light) or subtractively mixed (mixing pigments)."
+    },
+    {
+      "chunk_id": "wikipedia:White#0000",
+      "doc_id": "wikipedia:White",
+      "title": "White",
+      "url": "https://en.wikipedia.org/?curid=17599355",
+      "source_type": "wikipedia",
+      "score": 0.43745661377906797,
+      "text": "White is the lightest color and is achromatic (having no chroma). It is the color of objects such as snow, chalk, and milk, and is the opposite of black. White objects fully (or almost fully) reflect and scatter all the visible wavelengths of light. White on television and computer screens is created by a mixture of red, blue, and green light. The color white can be given with white pigments, especially titanium dioxide. In ancient Egypt and ancient Rome, priestesses wore white as a symbol of purity, and Romans wore white togas as symbols of citizenship. In the Middle Ages and Renaissance a white unicorn symbolized chastity, and a white lamb sacrifice and purity. It was the royal color of the kings of France as well as the flag of monarchist France from 1815 to 1830, and of the monarchist movement that opposed the Bolsheviks during the Russian Civil War (1917–1922)."
+    },
+    {
+      "chunk_id": "wikipedia:Food#0000",
+      "doc_id": "wikipedia:Food",
+      "title": "Food",
+      "url": "https://en.wikipedia.org/?curid=10646",
+      "source_type": "wikipedia",
+      "score": 0.4258135110139847,
+      "text": "Food is any substance consumed by an organism for nutritional support. Food usually consists of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or support growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill specific ecological niches within specific geographical contexts. Omnivorous humans are highly adaptable and have adapted to obtaining food in many different ecosystems. Humans generally use cooking to prepare food for consumption. The majority of the food energy required is supplied by the industrial food industry, which produces food through intensive agriculture and distributes it through complex food processing and food distribution systems."
+    },
+    {
+      "chunk_id": "wikipedia:Soap#0000",
+      "doc_id": "wikipedia:Soap",
+      "title": "Soap",
+      "url": "https://en.wikipedia.org/?curid=57875",
+      "source_type": "wikipedia",
+      "score": 0.41731167435646055,
+      "text": "Soap is a salt of a fatty acid (sometimes other carboxylic acids) used for cleaning and lubricating products as well as other applications. In a domestic setting, soaps, specifically \"toilet soaps\", are surfactants usually used for washing, bathing, and other types of housekeeping. In industrial settings, soaps are used as thickeners, components of some lubricants, emulsifiers, and catalysts. Soaps are often produced by mixing fats and oils with a base. Humans have used soap for millennia; evidence exists for the production of soap-like materials in ancient Babylon around 2800 BC. Types Toilet soaps In a domestic setting, \"soap\" usually refers to what is technically called a toilet soap, used for household and personal cleaning. Toilet soaps are salts of fatty acids with the general formula (RCO2−)M+, where M is Na (sodium) or K (potassium). When used for cleaning, soap solubilizes particles and grime, which can then be separated from the article being cleaned."
+    },
+    {
+      "chunk_id": "wikipedia:Spider#0000",
+      "doc_id": "wikipedia:Spider",
+      "title": "Spider",
+      "url": "https://en.wikipedia.org/?curid=28329803",
+      "source_type": "wikipedia",
+      "score": 0.408587908744812,
+      "text": "Spiders (order Araneae) are air-breathing arthropods that have eight limbs, chelicerae with fangs generally able to inject venom, and spinnerets that extrude silk. They are the largest order of arachnids and rank seventh in total species diversity among all orders of organisms. Spiders are found worldwide on every continent except Antarctica, and have become established in nearly every land habitat. As of December 2025, 53,608 spider species in 139 families have been recorded by taxonomists. However, there has been debate among scientists about how families should be classified, with over 20 different classifications proposed since 1900. Anatomically, spiders (as with all arachnids) differ from other arthropods in that the usual body segments are fused into two tagmata, the cephalothorax or prosoma, and the opisthosoma, or abdomen, and joined by a small, cylindrical pedicel."
+    },
+    {
+      "chunk_id": "wikipedia:Spider#0001",
+      "doc_id": "wikipedia:Spider",
+      "title": "Spider",
+      "url": "https://en.wikipedia.org/?curid=28329803",
+      "source_type": "wikipedia",
+      "score": 0.3597162276506424,
+      "text": "body segments are fused into two tagmata, the cephalothorax or prosoma, and the opisthosoma, or abdomen, and joined by a small, cylindrical pedicel. However, as there is currently neither paleontological nor embryological evidence that spiders ever had a separate thorax-like division, there exists an argument against the validity of the term cephalothorax, which means fused cephalon (head) and the thorax. Similarly, arguments can be formed against the use of..."
+    }
+  ]
+}

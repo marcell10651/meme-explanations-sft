@@ -1,0 +1,113 @@
+{
+  "meme_id": "meme_01073",
+  "queries": [
+    "\"all the bugs\" \"the house\" \"randomly\" \"thought\"",
+    "\"randomly\" \"thought\" \"around\" \"hours\""
+  ],
+  "primary_terms": [
+    "randomly",
+    "thought",
+    "around",
+    "hours",
+    "ago",
+    "all the bugs",
+    "the house",
+    "spider",
+    "kills",
+    "all",
+    "bugs",
+    "house"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Mind#0000",
+      "doc_id": "wikipedia:Mind",
+      "title": "Mind",
+      "url": "https://en.wikipedia.org/?curid=19378",
+      "source_type": "wikipedia",
+      "score": 0.6880806654691696,
+      "text": "The mind is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life, but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior. The mind–body problem is the challenge of explaining the relation between matter and mind. Traditionally, mind and matter were often thought of as distinct substances that could exist independently from one another."
+    },
+    {
+      "chunk_id": "wikipedia:Disorder#0001",
+      "doc_id": "wikipedia:Disorder",
+      "title": "Disorder",
+      "url": "https://en.wikipedia.org/?curid=196984",
+      "source_type": "wikipedia",
+      "score": 0.6285716950893402,
+      "text": "pattern of inner experience and behavior that deviates markedly from the expectations of the culture of the person who exhibits it Law enforcement Civil disorder, one or more forms of disturbance caused by a group of people Lawlessness, a lack of laws or law enforcement Science Crystallographic disorder, disordered atom locations..."
+    },
+    {
+      "chunk_id": "wikipedia:Luck#0000",
+      "doc_id": "wikipedia:Luck",
+      "title": "Luck",
+      "url": "https://en.wikipedia.org/?curid=192727",
+      "source_type": "wikipedia",
+      "score": 0.6071747899055481,
+      "text": "Luck is a phenomenon or belief that humans may associate with experiencing improbable events, especially improbably positive or negative events. Philosophical naturalism, eschewing any supernatural explanations, might suggest that positive or negative events may happen at any time (due to both random and non-random natural and artificial processes), and that even improbable events can happen by random chance. In this view, the epithet \"lucky\" or \"unlucky\" is a descriptive label that refers to an event's positivity, negativity, or improbability. Supernatural interpretations of luck consider it to be an attribute of a person or of an object, or the result of a favorable (or unfavorable) view manifested by a deity towards the lucky (or unlucky) person. These interpretations often prescribe how luckiness or unluckiness can be obtained, such as by carrying a lucky charm or offering sacrifices or prayers to a deity."
+    },
+    {
+      "chunk_id": "wikipedia:House#0000",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.5986578941345215,
+      "text": "A house is a single-unit residential building. It may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems. Houses use a range of different roofing systems to keep precipitation such as rain from getting into the dwelling space. Houses generally have doors or locks to secure the dwelling space and protect its inhabitants and contents from burglars or other trespassers. Most conventional modern houses in Western cultures will contain one or more bedrooms and bathrooms, a kitchen or cooking area, and a living room. A house may have a separate dining room, or the eating area may be integrated into the kitchen or another room. Some large houses in North America have a recreation room. In traditional agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans."
+    },
+    {
+      "chunk_id": "wikipedia:In His Image#0001",
+      "doc_id": "wikipedia:In His Image",
+      "title": "In His Image",
+      "url": "https://en.wikipedia.org/?curid=4401031",
+      "source_type": "wikipedia",
+      "score": 0.5647144079208374,
+      "text": "to be real, too real to be a dream. It's called The Twilight Zone. Plot While waiting in a subway station, Alan Talbot is approached by an evangelist. Alan is not interested, but takes the pamphlet she offers in order to appease her; however, the evangelist won't leave him alone. He hears strange electronic noises which prompt him to throw her under a train and then flee..."
+    },
+    {
+      "chunk_id": "wikipedia:Big Brother (franchise)#0000",
+      "doc_id": "wikipedia:Big Brother (franchise)",
+      "title": "Big Brother (franchise)",
+      "url": "https://en.wikipedia.org/?curid=4391",
+      "source_type": "wikipedia",
+      "score": 0.5076711207628251,
+      "text": "Big Brother is a reality competition television franchise created by John de Mol Jr., first broadcast in the Netherlands in 1999 and subsequently syndicated internationally beginning in 2000. The show features contestants called \"housemates\" or \"HouseGuests\" who live together in a specially constructed house that is isolated from the outside world. The show has been cited as having had widespread influence on the status of television and celebrity. The name is inspired by Big Brother from George Orwell's novel Nineteen Eighty-Four, and the housemates are continuously monitored during their stay in the house by live television cameras as well as personal audio microphones. Throughout the course of the competition, they are voted out of the house (usually on a weekly basis) until only one remains and wins the grand prize. As of 5 August 2023, there have been 508 seasons of Big Brother in over 63 franchise countries and regions."
+    },
+    {
+      "chunk_id": "wikipedia:This House#0000",
+      "doc_id": "wikipedia:This House",
+      "title": "This House",
+      "url": "https://en.wikipedia.org/?curid=17828009",
+      "source_type": "wikipedia",
+      "score": 0.473526668548584,
+      "text": "This House may refer to: Music \"This House\" (Alison Moyet song), 1991 \"This House\" (Tracie Spencer song), 1990 \"This House\" / \"Paradise\", a single by Diana Ross, 1989 \"This House\", a song by Japanese Breakfast from Soft Sounds from Another Planet, 2017 \"This House\", a song by Gary Barlow from Since I Saw You Last, 2013 \"This House\", a song by Sara Groves from Fireflies and Songs, 2009 This House, a 1971 album by Mark Spoelstra This House, a 2025 opera by Ricky Ian Gordon Other uses This House (film), a 2022 Canadian film This House (play), a 2012 play by James Graham House of Commons of the United Kingdom, as referred to by Members of Parliament See also All pages with titles beginning with This House"
+    },
+    {
+      "chunk_id": "wikipedia:Attention#0000",
+      "doc_id": "wikipedia:Attention",
+      "title": "Attention",
+      "url": "https://en.wikipedia.org/?curid=68753",
+      "source_type": "wikipedia",
+      "score": 0.4695128917694092,
+      "text": "Attention is the concentration of awareness directed at some phenomenon while excluding others. Across disciplines, the nature of this directedness is conceptualized in different ways. In cognitive psychology, attention is often described as the allocation of limited cognitive processing resources to a subset of information, thoughts, or tasks. In neuropsychology, attention is understood as a set of mechanisms by which sensory cues and internal goals modulate neuronal tuning and orient behavioral and cognitive processes. Attention is not a unitary phenomenon but an umbrella term for multiple related processes, including selective attention (prioritizing some stimuli over others), sustained attention (maintaining focus), divided attention (sharing resources across tasks), and orienting (shifting focus in space or time)."
+    },
+    {
+      "chunk_id": "wikipedia:House#0001",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.46918095350265504,
+      "text": "agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans. The social unit that lives in a house is known as a household. Most commonly, a household is a family unit of some kind, although households may also have other social groups, such as roommates or, in a rooming..."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0001",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.46753979921340943,
+      "text": "food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting. Their favorite food is cocoa beans. When Willy Wonka arrived, he told the chief he and his people can come live and work at his factory and have all the cocoa beans they want. In the first edition of Charlie..."
+    }
+  ]
+}

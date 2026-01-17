@@ -1,0 +1,229 @@
+{
+  "meme_id": "meme_04491",
+  "queries": [
+    "\"a SRE ERO CEERAO SEMSNES\" \"Fox News\" \"the gym\" \"everyday\"",
+    "\"the gym\" \"everyday\" \"fox\" \"news\""
+  ],
+  "primary_terms": [
+    "the gym",
+    "Fox News",
+    "everyday",
+    "fox",
+    "news",
+    "a SRE ERO CEERAO SEMSNES",
+    "yew",
+    "wel",
+    "rcon",
+    "ees",
+    "sre",
+    "ero",
+    "ceerao",
+    "semsnes",
+    "baie",
+    "epceatel",
+    "eownews",
+    "biden",
+    "yell",
+    "viewens"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Millennials#0001",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.6254611074924469,
+      "text": "with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace. Between the 1990s and 2010s, people from developing countries became increasingly well-educated, a factor that boosted economic growth in these countries. Millennials across the world have suffered significant economic disruption since starting their working lives, with many facing high levels of youth unemployment..."
+    },
+    {
+      "chunk_id": "wikipedia:Propaganda#0001",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 0.5366607666015625,
+      "text": "which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites. More recently, the digital age has given rise to new ways of disseminating propaganda, for example, in computational propaganda, bots and algorithms are used to manipulate public opinion, e.g., by creating fake or biased news to spread it on social media or using chatbots to mimic real people in discussions..."
+    },
+    {
+      "chunk_id": "wikipedia:Class#0000",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.5037604480981827,
+      "text": "Class, Classes, or The Class may refer to: Common uses not otherwise categorized Class (biology), a taxonomic rank Class (knowledge representation), a collection of individuals or objects Class (philosophy), an analytical concept used differently from such group phenomena as \"types\" or \"kinds\" Class (set theory), a collection of sets that can be unambiguously defined by a property that all its members share Hazard class, a dangerous goods classification Social class, the hierarchical arrangement of individuals in society, usually defined by wealth and occupation Working class, can be defined by rank, income or collar Arts, entertainment, and media \"The Class\" (song), 1959 Chubby Checker song Character class, in role-playing games and other genres Class 95 (radio station), a Singaporean radio channel Films Class (film), 1983 American film The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff"
+    },
+    {
+      "chunk_id": "wikipedia:Update#0000",
+      "doc_id": "wikipedia:Update",
+      "title": "Update",
+      "url": "https://en.wikipedia.org/?curid=1237226",
+      "source_type": "wikipedia",
+      "score": 0.5012406170368194,
+      "text": "Update(s) or updated may refer to: Music Update (Anouk album), 2004 Update (Berlin Jazz Orchestra album), 2004 Update (Jane Zhang album), 2007 Update (Mal Waldron album), 1987 Update (Yandel album), 2017 Updated (M. Pokora album), an English-language version of Mise à jour, 2011 Other uses DR Update, a defunct Danish television news channel Software update, modifying installed software to be more up-to-date Update (SQL), a statement for changing database records Updates, a program broadcast by CNN Philippines See also Bayesian inference, a type of reasoning described as updating Patch (computing), a form of software update Upgrade, replacing or adding to improve"
+    },
+    {
+      "chunk_id": "wikipedia:Live#0001",
+      "doc_id": "wikipedia:Live",
+      "title": "Live",
+      "url": "https://en.wikipedia.org/?curid=28508507",
+      "source_type": "wikipedia",
+      "score": 0.47569964826107025,
+      "text": "88.5, a radio station in Ottawa, Canada Television Live (South Korean TV series), a 2018 South Korean television series Live (Danish TV series) Live! (TV channel), Italy Live with Kelly and Mark, US TV talk show Types of media Live action (cinematography), a motion picture not produced using animation Live art Live music, a concert Live album, recording of a live music concert..."
+    },
+    {
+      "chunk_id": "wikipedia:Work#0000",
+      "doc_id": "wikipedia:Work",
+      "title": "Work",
+      "url": "https://en.wikipedia.org/?curid=33663",
+      "source_type": "wikipedia",
+      "score": 0.46864065527915955,
+      "text": "Work may refer to: Work (human activity), intentional activity people perform to support themselves, others, or the community Manual labour, physical work done by humans House work, housework, or homemaking Working animal, an animal trained by humans to perform tasks Work (physics), the product of force and displacement Work (electric field), the work done on a charged particle by an electric field Work (thermodynamics), energy transferred by the system to its surroundings Creative work, a manifestation of creative effort Work of art, an artistic creation of aesthetic value Career, an individual's journey through learning, work and other aspects of life Employment, a relationship between two parties where work is paid for Broadcast call signs WORK (FM), now WRFK (FM), an American radio station in Vermont WORK-LP, an American low-power TV station in New Hampshire WOYK, an American AM radio station in Pennsylvania, known as WORK 1932–1973 Music The Work (band), an English post-punk rock"
+    },
+    {
+      "chunk_id": "wikipedia:Snap#0000",
+      "doc_id": "wikipedia:Snap",
+      "title": "Snap",
+      "url": "https://en.wikipedia.org/?curid=904509",
+      "source_type": "wikipedia",
+      "score": 0.46669371128082277,
+      "text": "Snap or SNAP may refer to: Supplemental Nutrition Assistance Program, a food program for low-income families administered by the United States Department of Agriculture Arts and entertainment Snap (film), the initial release title for the 2013 film Enter the Dangerous Mind The Stanly News and Press, a newspaper in Albemarle, North Carolina, US \"Snap\" (Duty Free), a 1984 TV episode Games and sports Snap (gridiron football), the start of a play in gridiron football Scalable Network Application Package, an online gaming platform Pokémon Snap, a 1999 Japanese video game New Pokémon Snap, the 2021 sequel Snap, any putdown used in the Dozens Card games Snap (card game) Strong notrump after passing, a contract bridge bidding convention Music Snap music, a hip-hop subgenre Snap!, a German dance music group Snap!"
+    },
+    {
+      "chunk_id": "wikipedia:Class#0001",
+      "doc_id": "wikipedia:Class",
+      "title": "Class",
+      "url": "https://en.wikipedia.org/?curid=6282",
+      "source_type": "wikipedia",
+      "score": 0.462662011384964,
+      "text": "The Class (2007 film), 2007 Estonian film The Class (2008 film), 2008 film (Entre les murs) Television Class (2016 TV series), a 2016 British spinoff from Doctor Who The Class (TV series), a CBS sitcom Class (2023 TV series), a 2023 Indian Netflix teen drama Literature Class: A Guide Through the American Status System,..."
+    },
+    {
+      "chunk_id": "wikipedia:Jenna Marbles#0001",
+      "doc_id": "wikipedia:Jenna Marbles",
+      "title": "Jenna Marbles",
+      "url": "https://en.wikipedia.org/?curid=33101554",
+      "source_type": "wikipedia",
+      "score": 0.4604165256023407,
+      "text": "psychology and counseling at Boston University. In the summer of 2010, Marbles was sharing a three-bedroom apartment in Cambridge, Massachusetts. She supported herself by bartending, working at a tanning salon, vlogging, and go-go dancing at nightclubs. That year, Marbles started her career with Barstool Sports, where she wrote for their female-oriented site StoolLaLa. She left the publication in 2011..."
+    },
+    {
+      "chunk_id": "wikipedia:Living#0001",
+      "doc_id": "wikipedia:Living",
+      "title": "Living",
+      "url": "https://en.wikipedia.org/?curid=1133759",
+      "source_type": "wikipedia",
+      "score": 0.4588984400033951,
+      "text": "program Living (2007 TV program), a 2007–2009 group of regional Canadian lifestyle programs Living (New Zealand TV channel), a New Zealand television station Living (UK TV channel), now Sky Witness, a British pay TV channel Living2, later Real Lives, a defunct sister channel Living (2012 film), a 2012 Russian drama film Living (2022..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Lois is giving a speech where everyone is bored until they start cheering.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Lois",
+          "everyone"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that Fox News is just coverage of Hunter Biden scandals right now.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Fox News",
+          "coverage",
+          "Hunter Biden scandals"
+        ]
+      },
+      "title": {
+        "text": "Everyday at the gym when Fox News is on",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the gym",
+          "Fox News",
+          "everyday",
+          "fox",
+          "news"
+        ]
+      },
+      "text": {
+        "text": "| | Re s Yew oS o\\ eZ SI RN® mu WEL rcon | » | ees a SRE ERO CEERAO SEMSNES Te baie ‘- 1 epceatel : | EowNews PJs S ie Biden za IS, -~ ~ fh. as yell HN-a- : . al Te bi VIEWENS",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "a SRE ERO CEERAO SEMSNES",
+          "yew",
+          "wel",
+          "rcon",
+          "ees",
+          "sre",
+          "ero",
+          "ceerao",
+          "semsnes",
+          "baie",
+          "epceatel",
+          "eownews",
+          "biden",
+          "yell",
+          "viewens"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the gym",
+      "Fox News",
+      "everyday",
+      "fox",
+      "news",
+      "a SRE ERO CEERAO SEMSNES",
+      "yew",
+      "wel",
+      "rcon",
+      "ees",
+      "sre",
+      "ero",
+      "ceerao",
+      "semsnes",
+      "baie",
+      "epceatel",
+      "eownews",
+      "biden",
+      "yell",
+      "viewens"
+    ],
+    "secondary_terms": [
+      "Lois",
+      "everyone",
+      "Fox News",
+      "coverage",
+      "Hunter Biden scandals"
+    ],
+    "queries": [
+      "\"a SRE ERO CEERAO SEMSNES\" \"Fox News\" \"the gym\" \"everyday\"",
+      "\"the gym\" \"everyday\" \"fox\" \"news\""
+    ]
+  },
+  "source_jsonl_id": null
+}

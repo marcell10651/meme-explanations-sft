@@ -1,0 +1,213 @@
+{
+  "meme_id": "meme_00117",
+  "queries": [
+    "\"For\" \"the candy wrapper\" \"the environment\" \"environment\" \"cant\"",
+    "\"environment\" \"cant\" \"find\" \"trash\""
+  ],
+  "primary_terms": [
+    "the environment",
+    "environment",
+    "the candy wrapper",
+    "your Pocket",
+    "cant",
+    "find",
+    "trash",
+    "can",
+    "put",
+    "candy",
+    "wrapper",
+    "pocket",
+    "instead",
+    "littering",
+    "mommy",
+    "raised",
+    "gentleman"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Environment#0000",
+      "doc_id": "wikipedia:Environment",
+      "title": "Environment",
+      "url": "https://en.wikipedia.org/?curid=37039",
+      "source_type": "wikipedia",
+      "score": 0.886990076303482,
+      "text": "Environment most often refers to: Natural environment, refers to all living and non-living things occurring naturally and the physical and biological factors along with their chemical interactions that impact on any organism or a group of organisms Other physical and cultural environments Ecology, the study of the relations of organisms to one another and to their physical surroundings Environment (systems), the surroundings of a physical system that may interact with the system by exchanging mass, energy, or other properties. Built environment, constructed surroundings that provide the settings for human activity, ranging from the large-scale civic surroundings to the personal places Social environment, the culture that an individual lives in, and the people and institutions with whom they interact Market environment, business term Arts, entertainment and publishing Environment (magazine), a peer-reviewed, popular environmental science publication founded in 1958 Environment (1917"
+    },
+    {
+      "chunk_id": "wikipedia:Trash#0000",
+      "doc_id": "wikipedia:Trash",
+      "title": "Trash",
+      "url": "https://en.wikipedia.org/?curid=390672",
+      "source_type": "wikipedia",
+      "score": 0.8211885571479798,
+      "text": "Trash may refer to: Garbage Garbage, unwanted or undesired waste material Litter, material discarded in inappropriate places Municipal solid waste, unwanted or undesired waste material generated in a municipal environment Arts, entertainment, and media Art Trash art, artworks created from discarded objects Films, TV, videogames \"Trash\", a video game term Trash (1970 film), an American film Trash (2011 film), a Canadian drama film Trash (2014 film), a British film \"Trash\" (Firefly), an episode of the TV series Trash (video game), a multiplayer real-time strategy Trash TV, a form of television programming considered to be tasteless and unprofessional Trash Video, a Finnish film production company Z movie, a low-budget exploitation movie category Literature Trash (comics), a Marvel Comics organisation Trash (manga), a manga created by Sanami Matoh Trash (novel), a 2010 novel by Andy Mulligan Trash: Short Stories, a 1988 publication by Dorothy Allison Music Bands Trash (band), a British"
+    },
+    {
+      "chunk_id": "wikipedia:Disaster#0000",
+      "doc_id": "wikipedia:Disaster",
+      "title": "Disaster",
+      "url": "https://en.wikipedia.org/?curid=8137",
+      "source_type": "wikipedia",
+      "score": 0.7560981392860413,
+      "text": "A disaster is an event that causes such serious harm to people, buildings, economies, or the environment that the affected community cannot handle it alone. The United Nations Office for Disaster Risk Reduction defines a disaster as \"a serious disruption of the functioning of a community or a society at any scale due to hazardous events interacting with conditions of exposure, vulnerability and capacity, leading to one or more of the following: human, material, economic and environmental losses and impacts\". Natural disasters like avalanches, floods, earthquakes, and wildfires are caused by natural hazards. Human-made disasters like oil spills, terrorist attacks and power outages are caused by people. It may be difficult to separate natural and human-made disasters because human actions can make natural disasters worse. Climate change also affects how often disasters due to extreme weather hazards happen."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0000",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.6964445769786834,
+      "text": "Life is matter that has biological processes, such as signaling and the ability to sustain itself. It is defined descriptively by the capacity for homeostasis, organisation, metabolism, growth, adaptation, response to stimuli, and reproduction. All life over time eventually reaches a state of death, and none is immortal. Many philosophical definitions of living systems have been proposed, such as self-organizing systems. Defining life is further complicated by viruses, which replicate only in host cells, and the possibility of extraterrestrial life, which could be very different from life on Earth. Life exists all over the Earth in air, water, and soil, with many ecosystems forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota."
+    },
+    {
+      "chunk_id": "wikipedia:Ecosystem#0000",
+      "doc_id": "wikipedia:Ecosystem",
+      "title": "Ecosystem",
+      "url": "https://en.wikipedia.org/?curid=9632",
+      "source_type": "wikipedia",
+      "score": 0.6949551075696945,
+      "text": "An ecosystem (or ecological system) is a system formed by organisms in interaction with their environment. The biotic and abiotic components are linked together through nutrient cycles and energy flows. Ecosystems are controlled by external and internal factors. External factors—including climate—control the ecosystem's structure, but are not influenced by it. By contrast, internal factors control and are controlled by ecosystem processes; these include decomposition, the types of species present, root competition, shading, disturbance, and succession. While external factors generally determine which resource inputs an ecosystem has, their availability within the ecosystem is controlled by internal factors. Ecosystems are dynamic, subject to periodic disturbances and always in the process of recovering from past disturbances. The tendency of an ecosystem to remain close to its equilibrium state, is termed its resistance."
+    },
+    {
+      "chunk_id": "wikipedia:Candy#0000",
+      "doc_id": "wikipedia:Candy",
+      "title": "Candy",
+      "url": "https://en.wikipedia.org/?curid=61230",
+      "source_type": "wikipedia",
+      "score": 0.6449689745903016,
+      "text": "Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. The category, also called sugar confectionery, encompasses any sweet confection, including chocolate, chewing gum, and sugar candy. Vegetables, fruit, or nuts which have been glazed and coated with sugar are said to be candied. Physically, candy is characterized by the use of a significant amount of sugar or sugar substitutes. Unlike a cake or loaf of bread that would be shared among many people, candies are usually made in smaller pieces. However, the definition of candy also depends upon how people treat the food. Unlike sweet pastries served for a dessert course at the end of a meal, candies are normally eaten casually, often with the fingers, as a snack between meals. Each culture has its own ideas of what constitutes candy rather than dessert. The same food may be a candy in one culture and a dessert in another."
+    },
+    {
+      "chunk_id": "wikipedia:Ecosystem#0001",
+      "doc_id": "wikipedia:Ecosystem",
+      "title": "Ecosystem",
+      "url": "https://en.wikipedia.org/?curid=9632",
+      "source_type": "wikipedia",
+      "score": 0.6254285484552383,
+      "text": "in the process of recovering from past disturbances. The tendency of an ecosystem to remain close to its equilibrium state, is termed its resistance. Its capacity to absorb disturbance and reorganize, while undergoing change so as to retain essentially the same function, structure, identity, is termed its ecological resilience. Ecosystems can be studied through a variety of approaches—theoretical studies, studies..."
+    },
+    {
+      "chunk_id": "wikipedia:Life#0001",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.6067792236804962,
+      "text": "forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota. Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species..."
+    },
+    {
+      "chunk_id": "wikipedia:Oompa-Loompas#0001",
+      "doc_id": "wikipedia:Oompa-Loompas",
+      "title": "Oompa-Loompas",
+      "url": "https://en.wikipedia.org/?curid=78983952",
+      "source_type": "wikipedia",
+      "score": 0.5764877408742904,
+      "text": "food were green caterpillars that tasted disgusting, so they would mash the caterpillars with bugs and plants to make them slightly less disgusting. Their favorite food is cocoa beans. When Willy Wonka arrived, he told the chief he and his people can come live and work at his factory and have all the cocoa beans they want. In the first edition of Charlie..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0000",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.5190925657749176,
+      "text": "A home, or domicile, is a space used as a permanent or semi-permanent residence for one or more human occupants, and sometimes various companion animals. Homes provide sheltered spaces, for instance rooms, where domestic activity can be performed such as sleeping, preparing food, eating and hygiene as well as providing spaces for work and leisure such as remote working, studying and playing. Physical forms of homes can be static such as a house or an apartment, mobile such as a houseboat, trailer or yurt or digital such as virtual space. The aspect of 'home' can be considered across scales; from the micro scale showcasing the most intimate spaces of the individual dwelling and direct surrounding area to the macro scale of the geographic area such as town, village, city, country or planet. The concept of 'home' has been researched and theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man is smiling as he sits at a table.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "meme_captions": {
+        "text": "Meme poster is trying to convey that they put candy bar wrappers in their pocket instead of littering.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "candy bar wrappers",
+          "their pocket"
+        ]
+      },
+      "title": {
+        "text": "For the environment",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the environment",
+          "environment"
+        ]
+      },
+      "text": {
+        "text": "When you cant find a trash can, so you put the candy wrapper in your Pocket instead of littering > My mommy raised a gentleman.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the candy wrapper",
+          "your Pocket",
+          "cant",
+          "find",
+          "trash",
+          "can",
+          "put",
+          "candy",
+          "wrapper",
+          "pocket",
+          "instead",
+          "littering",
+          "mommy",
+          "raised",
+          "gentleman"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the environment",
+      "environment",
+      "the candy wrapper",
+      "your Pocket",
+      "cant",
+      "find",
+      "trash",
+      "can",
+      "put",
+      "candy",
+      "wrapper",
+      "pocket",
+      "instead",
+      "littering",
+      "mommy",
+      "raised",
+      "gentleman"
+    ],
+    "secondary_terms": [
+      "candy bar wrappers",
+      "their pocket"
+    ],
+    "queries": [
+      "\"For\" \"the candy wrapper\" \"the environment\" \"environment\" \"cant\"",
+      "\"environment\" \"cant\" \"find\" \"trash\""
+    ]
+  },
+  "source_jsonl_id": null
+}

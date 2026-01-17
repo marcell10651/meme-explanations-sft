@@ -1,0 +1,218 @@
+{
+  "meme_id": "meme_00022",
+  "queries": [
+    "\"the good boy\" \"girl\" \"nice\" \"good\"",
+    "\"nice\" \"good\" \"boy\" \"yeah\""
+  ],
+  "primary_terms": [
+    "the good boy",
+    "girl",
+    "nice",
+    "good",
+    "boy",
+    "yeah",
+    "sno",
+    "dog",
+    "vegan",
+    "coc",
+    "miele",
+    "rea",
+    "ote"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Good#0000",
+      "doc_id": "wikipedia:Good",
+      "title": "Good",
+      "url": "https://en.wikipedia.org/?curid=339686",
+      "source_type": "wikipedia",
+      "score": 1.0713659644126892,
+      "text": "In most contexts, the concept of good denotes the conduct that should be preferred when posed with a choice between possible actions. Good is generally considered to be the opposite of evil. The specific meaning and etymology of the term and its associated translations among ancient and contemporary languages show substantial variation in its inflection and meaning, depending on circumstances of place and history, or of philosophical or religious context. History of Western ideas Every language has a word expressing good in the sense of \"having the right or desirable quality\" (ἀρετή) and bad in the sense \"undesirable\". A sense of moral judgment and a distinction \"right and wrong, good and bad\" are cultural universals. Plato and Aristotle Although the history of the origin of the use of the concept and meaning of \"good\" are diverse, the notable discussions of Plato and Aristotle on this subject have been of significant historical effect."
+    },
+    {
+      "chunk_id": "wikipedia:Nice#0000",
+      "doc_id": "wikipedia:Nice",
+      "title": "Nice",
+      "url": "https://en.wikipedia.org/?curid=47088",
+      "source_type": "wikipedia",
+      "score": 0.9600253820419311,
+      "text": "Nice ( NEESS; French pronunciation: [nis] ) is a French city located in the prefecture of the Alpes-Maritimes department. The Nice agglomeration extends beyond the administrative city limits, with a population of nearly one million over an area of 744 km2 (287 sq mi). Located on the French Riviera, the southeastern coast of France on the Mediterranean Sea, at the foot of the French Alps, Nice is the second-largest French city on the Mediterranean coast and second-largest city in the Provence-Alpes-Côte d'Azur region after Marseille. It is approximately 13 kilometres (8 mi) from the principality of Monaco and 30 kilometres (19 mi) from the French–Italian border. Nice's airport serves as a gateway to the region. The city is nicknamed Nice la Belle (Nissa La Bella in Niçard), meaning 'Nice the Beautiful', which is also the title of the unofficial anthem of Nice, written by Menica Rondelly."
+    },
+    {
+      "chunk_id": "wikipedia:Nice 'n' Easy#0000",
+      "doc_id": "wikipedia:Nice 'n' Easy",
+      "title": "Nice 'n' Easy",
+      "url": "https://en.wikipedia.org/?curid=2733631",
+      "source_type": "wikipedia",
+      "score": 0.8455078661441803,
+      "text": "Nice 'n' Easy is the eighteenth studio album by Frank Sinatra, released on July 25, 1960. All the songs, with the notable exception of the title song, are sung as ballads and were arranged and conducted by Nelson Riddle. The title song was a last-minute substitute for the originally planned \"The Nearness of You,\" which did not appear on the original LP. The album spent nine weeks at number one on the Billboard stereo album chart, and one week at number one on the corresponding mono album chart. At the 1961 Grammy Awards, Nice 'n' Easy was nominated for the Grammy Award as Album of the Year, Best Male Vocal Performance, Best Arrangement. The song \"Nice 'n' Easy\" was released as a single in 1960 and made it to number 60 on the charts. It was also recorded by Charlie Rich in 1964, Peggy Lee in 1966, Alex Chilton in 1989, Michael Buble in 2004, Natalie Cole in 2008, and Barbra Streisand in 2011."
+    },
+    {
+      "chunk_id": "wikipedia:Your Choice#0000",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.7291082471609116,
+      "text": "Your Choice is the ninth Korean extended play (EP) and eleventh overall by South Korean boy band Seventeen. Released through Pledis Entertainment on June 18, 2021, the album comes eight months after its predecessor, Semicolon. Characterized by hip hop and R&B elements, the album consists of six tracks, including the lead single, \"Ready to Love\". As part of the group's \"Power of 'Love'\" project, the album depicts the nature of love, and experiments with various genres, including disco funk, rock, and retro R&B. Seventeen promoted the album through performances on several South Korean and American music shows. Although the album received mixed reviews from critics, it achieved commercial success, selling over a million copies within its first four days of release. Your Choice topped the Gaon Album Chart and Billboard's World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia."
+    },
+    {
+      "chunk_id": "wikipedia:Cool#0001",
+      "doc_id": "wikipedia:Cool",
+      "title": "Cool",
+      "url": "https://en.wikipedia.org/?curid=4175379",
+      "source_type": "wikipedia",
+      "score": 0.7118914544582366,
+      "text": "Cool\" (Dua Lipa song) (2020) \"Cool\" (Gwen Stefani song) (2005) \"Cool\" (The Time song) (1981), later covered by Snoop Dogg and Prince \"Cool\" (West Side Story song) (1957) \"Cool\", a 2011 song by Jason Blaine from Life So Far \"Cool\", a 2018 song by Felix Jaehn, featuring Marc E. Bassy and Gucci Mane, from I (Felix Jaehn..."
+    },
+    {
+      "chunk_id": "wikipedia:Here#0001",
+      "doc_id": "wikipedia:Here",
+      "title": "Here",
+      "url": "https://en.wikipedia.org/?curid=13568569",
+      "source_type": "wikipedia",
+      "score": 0.6816465973854064,
+      "text": "2018 song by Sasha Alex Sloan from Sad Girl Film and television Here (2003 film) (Tu), a Croatian film directed by Zrinko Ogresta Here (2009 film), a Singaporean film directed by Tzu Nyen Ho Here (2011 film), an American drama directed by Braden King Here (2023 film), a Belgian film directed by Bas Devos Here (2024 film), an American drama directed..."
+    },
+    {
+      "chunk_id": "wikipedia:Respect#0000",
+      "doc_id": "wikipedia:Respect",
+      "title": "Respect",
+      "url": "https://en.wikipedia.org/?curid=364338",
+      "source_type": "wikipedia",
+      "score": 0.6737380445003509,
+      "text": "Respect, also called esteem, is a positive feeling or deferential action shown towards someone or something considered important or held in high esteem or regard. It conveys a sense of admiration for good or valuable qualities. It is also the process of honoring someone by exhibiting care, concern, or consideration for their needs or feelings. In many cultures, people are considered to be worthy of respect until they prove otherwise. Some people may earn special respect through their exemplary actions or social roles. In \"honor cultures\", respect is more often earned in this way than granted by default. Courtesies that show respect may include simple words and phrases like \"thank you\" in the West or \"namaste\" in the Indian subcontinent, or simple physical signs like a slight bow, a smile, direct eye contact, or a handshake. Such acts may have very different interpretations depending on the cultural context. The end goal is for all people to be treated with respect."
+    },
+    {
+      "chunk_id": "wikipedia:Thanks#0000",
+      "doc_id": "wikipedia:Thanks",
+      "title": "Thanks",
+      "url": "https://en.wikipedia.org/?curid=2558488",
+      "source_type": "wikipedia",
+      "score": 0.6460221111774445,
+      "text": "Thanks may refer to: Thank you, a common expression of gratitude Film and television Thanks (film), a 2011 American film Thanks (TV series), a 1999 American sitcom Music Albums Thanks, by J. Vincent Edwards, 1969 Thanks, by Ivan Neville, 1994 Thanks, by Marty Grosz, 1997 Thanks, by w-inds., 2006 Songs \"Thanks\" (song), 1969, recorded by J. Vincent Edwards and Bill Anderson \"Thanks!\" (GAM song), 2006 \"Thanks\", by the James Gang from James Gang Rides Again, 1970 \"Thanks\", by Judith Allen and by Bing Crosby from the Too Much Harmony soundtrack, 1933 \"Thanks\", by Waylon Jennings from Ladies Love Outlaws, 1972 See also All pages with titles beginning with Thanks All pages with titles containing Thanks Thankful (disambiguation) Thank God (disambiguation) Thank You (disambiguation)"
+    },
+    {
+      "chunk_id": "wikipedia:Great#0000",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.6337645411491394,
+      "text": "Great may refer to: Descriptions or measurements Great, a relative measurement in physical space, see Size Greatness, being divine, superior, majestic, or transcendent People List of people known as \"the Great\" Artel Great (born 1981), American actor Great Osobor (born 2002), Spanish-born British basketball player Other uses Great (1975 film), a British animated short about Isambard Kingdom Brunel Great (2013 film), a German short film Great (supermarket), a supermarket in Hong Kong GReAT, Graph Rewriting and Transformation, a Model Transformation Language Gang Resistance Education and Training, or GREAT, a school-based and police officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great!"
+    },
+    {
+      "chunk_id": "wikipedia:Yeah Yeah Yeahs#0000",
+      "doc_id": "wikipedia:Yeah Yeah Yeahs",
+      "title": "Yeah Yeah Yeahs",
+      "url": "https://en.wikipedia.org/?curid=314405",
+      "source_type": "wikipedia",
+      "score": 0.6110490083694458,
+      "text": "Yeah Yeah Yeahs are an American indie rock band formed in New York City in 2000. The group consists of vocalist/pianist Karen O, guitarist/keyboardist Nick Zinner, and drummer Brian Chase; they do not have a bassist but have been complemented during live shows by David Pajo and Imaad Wasif. They are known for energetic performances and a blend of genres, including art rock and dance-rock. Yeah Yeah Yeahs found critical and commercial success with their debut album, Fever to Tell (2003), which is cited as their best work. It produced the breakthrough single \"Maps\", which became the band's signature song. They issued a second album, Show Your Bones (2006), and shifted to dance-punk with their third, It's Blitz! (2009). Both records received positive reviews, and the latter spawned the hit single \"Heads Will Roll\". The band's fourth album, Mosquito (2013), became their highest-charting record in the United States but did not match the reception of its predecessors."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "a young boy talks on the phone all day and then goes to bed. a comic strip of boy talking on the phone with a dog then sleeping on bed with dog.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the phone",
+          "bed",
+          "boy"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster is making fun of how vegans say their diet is unhealthy and unnatural for dogs, but not for them.. The person who wrote the post is saying talking to a person who is vegan tires you out.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "fun",
+          "vegans",
+          "their diet",
+          "dogs",
+          "The person",
+          "the post",
+          "vegan tires"
+        ]
+      },
+      "title": {
+        "text": "be nice to the good boy or girl",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the good boy",
+          "girl",
+          "nice",
+          "good",
+          "boy"
+        ]
+      },
+      "text": {
+        "text": "= yeah i Sno my dog eee sn vegan [ (COC = 7 miele rea OTe",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "yeah",
+          "sno",
+          "dog",
+          "vegan",
+          "coc",
+          "miele",
+          "rea",
+          "ote"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the good boy",
+      "girl",
+      "nice",
+      "good",
+      "boy",
+      "yeah",
+      "sno",
+      "dog",
+      "vegan",
+      "coc",
+      "miele",
+      "rea",
+      "ote"
+    ],
+    "secondary_terms": [
+      "the phone",
+      "bed",
+      "boy",
+      "fun",
+      "vegans",
+      "their diet",
+      "dogs",
+      "The person",
+      "the post",
+      "vegan tires"
+    ],
+    "queries": [
+      "\"the good boy\" \"girl\" \"nice\" \"good\"",
+      "\"nice\" \"good\" \"boy\" \"yeah\""
+    ]
+  },
+  "source_jsonl_id": null
+}

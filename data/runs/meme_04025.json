@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_04025",
+  "queries": [
+    "\"Old games\" \"New games\" \"the old days\" \"the box\"",
+    "\"the old days\" \"the box\" \"launch update\" \"still day\""
+  ],
+  "primary_terms": [
+    "the old days",
+    "miss",
+    "old",
+    "days",
+    "Old games",
+    "New games",
+    "the box",
+    "launch update",
+    "still day",
+    "bugs"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Update#0000",
+      "doc_id": "wikipedia:Update",
+      "title": "Update",
+      "url": "https://en.wikipedia.org/?curid=1237226",
+      "source_type": "wikipedia",
+      "score": 0.6211878061294556,
+      "text": "Update(s) or updated may refer to: Music Update (Anouk album), 2004 Update (Berlin Jazz Orchestra album), 2004 Update (Jane Zhang album), 2007 Update (Mal Waldron album), 1987 Update (Yandel album), 2017 Updated (M. Pokora album), an English-language version of Mise à jour, 2011 Other uses DR Update, a defunct Danish television news channel Software update, modifying installed software to be more up-to-date Update (SQL), a statement for changing database records Updates, a program broadcast by CNN Philippines See also Bayesian inference, a type of reasoning described as updating Patch (computing), a form of software update Upgrade, replacing or adding to improve"
+    },
+    {
+      "chunk_id": "wikipedia:WOUR#0001",
+      "doc_id": "wikipedia:WOUR",
+      "title": "WOUR",
+      "url": "https://en.wikipedia.org/?curid=5292420",
+      "source_type": "wikipedia",
+      "score": 0.5847227573394775,
+      "text": "owned by the Brinsfield Broadcasting Company. In 1970, it changed its format to the syndicated automated Adult Top 40 \"Hit Parade '70\" service. In 1971, it programmed \"Hit Parade '71\" by day, and progressive rock at night, with a live disc jockey during the rock hours. In 1973, WOUR became a full-time progressive rock station. Over time, the format segued to only the top tracks from the biggest..."
+    },
+    {
+      "chunk_id": "wikipedia:The Things#0001",
+      "doc_id": "wikipedia:The Things",
+      "title": "The Things",
+      "url": "https://en.wikipedia.org/?curid=26462139",
+      "source_type": "wikipedia",
+      "score": 0.5790897011756897,
+      "text": "A Story of the Sixties (French: Les Choses: Une histoire des années soixante), a 1965 novel by Georges Perec \"Things\", a 1970 short story by Ursula K. Le Guin, originally published as \"The End\" in the 1970 anthology Orbit 6, edited by Damon Knight Things, a 1981 picture book by Roger Hargreaves The Things, a 1994 novel by Martyn Godfrey Things, a 1997 novel by Rodman Philbrick and Lynn Harnett, the second installment in the Visitors trilogy \"The Things\" (short story), a 2010 short story by Peter Watts Other uses TheThings, a news website Things (Chill), a 1984 role-playing game supplement Things (film), a 1989 Canadian horror film Things (software), task management software The Things, recurring..."
+    },
+    {
+      "chunk_id": "wikipedia:Ready#0001",
+      "doc_id": "wikipedia:Ready",
+      "title": "Ready",
+      "url": "https://en.wikipedia.org/?curid=9285499",
+      "source_type": "wikipedia",
+      "score": 0.565108597278595,
+      "text": "and the Chocolate Box, 1974 \"Ready\", by Cherie from the Confessions of a Teenage Drama Queen soundtrack album, 2004 \"Ready\", by Jagged Edge from J.E. Heartbreak 2, 2014 \"Ready\", by Kelly Clarkson from All I Ever Wanted, 2009 \"Ready\", by Kovas, 2010 \"Ready\", by Montaigne from Complex, 2019 \"Ready\", by N-Toon from Toon Time, 2000 \"Ready\", a..."
+    },
+    {
+      "chunk_id": "wikipedia:Millennials#0000",
+      "doc_id": "wikipedia:Millennials",
+      "title": "Millennials",
+      "url": "https://en.wikipedia.org/?curid=149183",
+      "source_type": "wikipedia",
+      "score": 0.5303368330001831,
+      "text": "Millennials, also known as Generation Y or Gen Y, are the demographic cohort following Generation X and preceding Generation Z. Researchers and popular media use the early 1980s as starting birth years and the mid-1990s to early 2000s as ending birth years, with the generation typically being defined as people born from 1981 to 1996. Most millennials are the children of baby boomers and older Gen Xers, and are often the parents of Generation Alpha. As children in the late 1980s to 2000s, millennials saw the rise of the Information Age and Internet, being described by some as the first global generation. As adolescents and young adults in the late 1990s to 2010s, the generation was marked by a more upbeat youth culture, elevated familiarity with the Internet and technology in general, and usage of early social media platforms such as AOL Instant Messenger, LiveJournal, and Myspace."
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.5013162344694138,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:Serial#0000",
+      "doc_id": "wikipedia:Serial",
+      "title": "Serial",
+      "url": "https://en.wikipedia.org/?curid=2254334",
+      "source_type": "wikipedia",
+      "score": 0.4746372252702713,
+      "text": "Serial may refer to: Arts, entertainment, and media The presentation of works in sequential segments Serial (literature), serialised literature in print Serial (publishing), periodical publications and newspapers Serial (radio and television), series of radio and television programs that rely on a continuing plot Serial film, a series of short subjects, with a continuing story, originally shown in theaters, in conjunction with feature films, particularly in the 1930s and 1940s Indian serial, a type of Indian television program Other uses in arts, entertainment, and media Serial (1980 film), based on McFadden's novel, starring Martin Mull and Tuesday Weld Serial (podcast), a podcast spinoff of radio series This American Life The Serial: A Year in the Life of Marin County, a 1977 novel by Cyra McFadden The Serial, an early to mid-1960s anthology series that aired on CBC Television in Canada."
+    },
+    {
+      "chunk_id": "wikipedia:Legendary#0001",
+      "doc_id": "wikipedia:Legendary",
+      "title": "Legendary",
+      "url": "https://en.wikipedia.org/?curid=541707",
+      "source_type": "wikipedia",
+      "score": 0.4664550721645355,
+      "text": "Daya, 2015 \"Legendary\", by Royce da 5'9\" from Success Is Certain, 2011 \"Legendary\", by Skillet from Victorious, 2019 \"Legendary\", by Joey Badass from All-Amerikkkan Badass, 2017 \"Legendary\", by Jorge Rivera-Herrans from Epic: The Musical, 2024 \"Legendary\" (Bon Jovi song), 2024 Other uses Legendary (video game), a 2008 first..."
+    },
+    {
+      "chunk_id": "wikipedia:Themselves#0001",
+      "doc_id": "wikipedia:Themselves",
+      "title": "Themselves",
+      "url": "https://en.wikipedia.org/?curid=3237436",
+      "source_type": "wikipedia",
+      "score": 0.4574500769376755,
+      "text": "a mixtape, The Free Houdini, as well as the third studio album, Crowns Down. Another remix album, Crowns Down & Company, was released in 2010. Members Doseone – vocals, production Jel – vocals, production Discography Studio albums Them (2000) The No Music (2002) Crowns Down (2009) Mixtapes The Free Houdini (2009) Remix albums The No Music of AIFFs (2003) Crowns Down & Company (2010) Live albums Live (2003) Live II (2005) Singles \"Joyful Toy of 1001 Faces\" (1999) \"This About the City Too\" (2002) \"P.U.S.H.\" (2004) Compilation appearances \"It's Them\" on Music for the Advancement of Hip Hop..."
+    },
+    {
+      "chunk_id": "wikipedia:Different#0000",
+      "doc_id": "wikipedia:Different",
+      "title": "Different",
+      "url": "https://en.wikipedia.org/?curid=1826536",
+      "source_type": "wikipedia",
+      "score": 0.44710321724414825,
+      "text": "Different may refer to: Music Albums Different (Kate Ryan album), 2002 Different (Thomas Anders album), 1989 Different, an EP (2016) and album (2017) by Micah Tyler, or the title song Songs \"Different\" (Band-Maid song), 2020 \"Different\" (Le Sserafim song), 2025 \"Different\" (Robbie Williams song), 2012 \"Different\", by Acceptance from Phantoms, 2005 \"Different\", by Burna Boy from African Giant, 2019 \"Different\", by Cass Elliot from the soundtrack of the film Pufnstuf, 1970 \"Different\", by Dreamscape from 5th Season, 2007 \"Different\", by Egypt Central from Egypt Central, 2005 \"Different\", by Future and Juice Wrld from Wrld on Drugs, 2018 \"Different\", by Jamie Shaw, 2006 \"Different\", by No Malice from Hear Ye Him, 2013 \"Different\", by Pendulum from In Silico, 2008 \"Different\", by Winner from 2014 S/S, 2014 \"Different\", by Ximena Sariñana from Ximena Sariñana, 2011 Other uses Different ideal, or the different, in algebraic number theory See also All pages with titles beginning with"
+    }
+  ]
+}

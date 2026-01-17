@@ -1,0 +1,199 @@
+{
+  "meme_id": "meme_00020",
+  "queries": [
+    "\"Walter White\" \"him\" \"basically\" \"made\" \"rich\"",
+    "\"made\" \"rich\" \"donate\" \"streamer\""
+  ],
+  "primary_terms": [
+    "him",
+    "basically",
+    "made",
+    "rich",
+    "donate",
+    "streamer",
+    "nowssay",
+    "mymiame"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Rich#0000",
+      "doc_id": "wikipedia:Rich",
+      "title": "Rich",
+      "url": "https://en.wikipedia.org/?curid=327881",
+      "source_type": "wikipedia",
+      "score": 0.7722504496574402,
+      "text": "Rich may refer to: Common uses Rich, an entity possessing wealth Rich, an intense flavor, color, sound, texture, or feeling Rich (wine), a descriptor in wine tasting Places United States Rich, Mississippi, an unincorporated community Rich County, Utah Rich Mountain (disambiguation) Rich Township, Cook County, Illinois Rich Township, Anderson County, Kansas Rich Township, Lapeer County, Michigan Elsewhere Er-Rich, Morocco, a town Rich River, Victoria, Australia People Rich (given name), often short for Richard Rich (surname) Arts, entertainment, and media Fictional characters DS Terry Rich, a character in the British soap opera EastEnders Rich, a character in the American sitcom television series The Hogan Family Rich Halke, a character in the TV sitcom Step by Step Rich Hardbeck, a character in the British television series Skins Rich Millar, a character in the British soap opera Doctors Richie Rich (character), a fictional character Music Rich, half of the American country music duo"
+    },
+    {
+      "chunk_id": "wikipedia:Made#0000",
+      "doc_id": "wikipedia:Made",
+      "title": "Made",
+      "url": "https://en.wikipedia.org/?curid=666961",
+      "source_type": "wikipedia",
+      "score": 0.6372017025947571,
+      "text": "Made or MADE may refer to: Entertainment Film Made (1972 film), United Kingdom Made (2001 film), United States Music Made (Big Bang album), 2016 Made (Hawk Nelson album), 2013 Made (Scarface album), 2007 M.A.D.E., 2003 album by Memphis Bleek \"Made\" (Scuba Dice song), 2006 \"Made\" (The Wanted song), 2010 Made (band), a Toronto lo-fi band Television Made (TV series), United States, 2002 to 2014 Companies Made.com, an online furniture retailer in London, United Kingdom MADE Clothing, an American clothing line around 2005 The MADE or The Museum of Art and Digital Entertainment Geography Made (Netherlands), a town in the Netherlands People van der Made - Dutch family name Dalem Di Made (fl."
+    },
+    {
+      "chunk_id": "wikipedia:Walter White (Breaking Bad)#0001",
+      "doc_id": "wikipedia:Walter White (Breaking Bad)",
+      "title": "Walter White (Breaking Bad)",
+      "url": "https://en.wikipedia.org/?curid=22530352",
+      "source_type": "wikipedia",
+      "score": 0.5801162183284759,
+      "text": "his death. Due to his expertise, Walter's \"blue meth\" is purer than any other on the market, and he is pulled deeper into the illicit drug trade. An antihero turned villain protagonist as the series progresses, Walter becomes increasingly ruthless and unsympathetic, as the series' creator, Vince Gilligan, wanted him to turn from \"Mr. Chips into Scarface\". He adopts the alias \"Heisenberg..."
+    },
+    {
+      "chunk_id": "wikipedia:Two Dogs#0001",
+      "doc_id": "wikipedia:Two Dogs",
+      "title": "Two Dogs",
+      "url": "https://en.wikipedia.org/?curid=16249123",
+      "source_type": "wikipedia",
+      "score": 0.5359758883714676,
+      "text": "try brewing them.\" He soon had a truck of lemons on his hands and went to work brewing them. The result was a drink that started selling pretty well. Now Duncan was faced with marketing and selling the beer and had to come up with a name. All he could think of was the punch line to a joke he had heard. Thus Two Dogs brewing company was born. There was a \"Why Do You Ask?\" on the bottle. This was also part of the..."
+    },
+    {
+      "chunk_id": "wikipedia:Streamer#0001",
+      "doc_id": "wikipedia:Streamer",
+      "title": "Streamer",
+      "url": "https://en.wikipedia.org/?curid=79965",
+      "source_type": "wikipedia",
+      "score": 0.5132710993289947,
+      "text": "directed by Robert Altman Electronics and computing Streamer bass, a bass guitar produced by the German Warwick company A Digital media player, also called a \"Media Streamer\" or just a \"Streamer\" Streamer (software) Streamer (tape drive) Streaming media and over-the-top media service Other uses Streamer moth, the geometer..."
+    },
+    {
+      "chunk_id": "wikipedia:Streamer#0000",
+      "doc_id": "wikipedia:Streamer",
+      "title": "Streamer",
+      "url": "https://en.wikipedia.org/?curid=79965",
+      "source_type": "wikipedia",
+      "score": 0.5066286087036133,
+      "text": "Streamer or streamers may refer to: Decorative and declarative Pennon, a small pointed flag Streamer, a kind of confetti consisting of strips of paper or other material Campaign streamer, flag used by military units Serpentine streamer, a party accessory often used as decoration Weather and atmospherics Streamer, a common name for a Lake-effect snow band Positive streamer, lightning bolt Streamer discharge, a type of electrical discharge Wingtip streamer, tubes of circulating air left behind a wing, also called wingtip vortices Helmet streamers and pseudostreamers, a bright loop-like structures found over an active regions on the Sun Arts and entertainment Online streamer, a person who streams on an online platform \"Streamer\", a song by Krokus from Metal Rendez-vous Streamers (play), a 1976 play by David Rabe Streamers (film), adaptation directed by Robert Altman Electronics and computing Streamer bass, a bass guitar produced by the German Warwick company A Digital media player, also"
+    },
+    {
+      "chunk_id": "wikipedia:Television#0001",
+      "doc_id": "wikipedia:Television",
+      "title": "Television",
+      "url": "https://en.wikipedia.org/?curid=29831",
+      "source_type": "wikipedia",
+      "score": 0.5056862086057663,
+      "text": "the primary medium for influencing public opinion. In the mid-1960s, color broadcasting was introduced in the U.S. and most other developed countries. The availability of various types of archival storage media such as Betamax and VHS tapes, LaserDiscs, high-capacity hard disk drives, CDs, DVDs, flash drives, high-definition HD DVDs and Blu-ray Discs, and cloud digital video recorders has enabled..."
+    },
+    {
+      "chunk_id": "wikipedia:Television#0000",
+      "doc_id": "wikipedia:Television",
+      "title": "Television",
+      "url": "https://en.wikipedia.org/?curid=29831",
+      "source_type": "wikipedia",
+      "score": 0.49992144107818604,
+      "text": "Television (TV) is a telecommunication medium for transmitting moving images and sound. Additionally, the term can refer to a physical television set rather than the medium of transmission. Television is a mass medium for advertising, entertainment, news, and sports. The medium is capable of more than \"radio broadcasting\", which refers to an audio signal sent to radio receivers. Television became available in crude experimental forms in the 1920s, but only after several years of further development was the new technology marketed to consumers. After World War II, an improved form of black-and-white television broadcasting became popular in the United Kingdom and the United States, and television sets became commonplace in homes, businesses, and institutions. During the 1950s, television was the primary medium for influencing public opinion. In the mid-1960s, color broadcasting was introduced in the U.S. and most other developed countries."
+    },
+    {
+      "chunk_id": "wikipedia:Great#0000",
+      "doc_id": "wikipedia:Great",
+      "title": "Great",
+      "url": "https://en.wikipedia.org/?curid=882335",
+      "source_type": "wikipedia",
+      "score": 0.4874022752046585,
+      "text": "Great may refer to: Descriptions or measurements Great, a relative measurement in physical space, see Size Greatness, being divine, superior, majestic, or transcendent People List of people known as \"the Great\" Artel Great (born 1981), American actor Great Osobor (born 2002), Spanish-born British basketball player Other uses Great (1975 film), a British animated short about Isambard Kingdom Brunel Great (2013 film), a German short film Great (supermarket), a supermarket in Hong Kong GReAT, Graph Rewriting and Transformation, a Model Transformation Language Gang Resistance Education and Training, or GREAT, a school-based and police officer-instructed program Global Research and Analysis Team (GReAT), a cybersecurity team at Kaspersky Lab Great!, a 2018 EP by Momoland Great!"
+    },
+    {
+      "chunk_id": "wikipedia:Builder#0000",
+      "doc_id": "wikipedia:Builder",
+      "title": "Builder",
+      "url": "https://en.wikipedia.org/?curid=2518249",
+      "source_type": "wikipedia",
+      "score": 0.4801679253578186,
+      "text": "Builder may refer to: Construction Construction worker, who specializes in building work Carpenter, a skilled craftsman who works with wood General contractor, that specializes in building work Subcontractor Real estate developer, who causes buildings to be constructed Media Builders (film), a 1942 British propaganda film The Builder (film), 2010 film The Builder, British magazine now known as Building Builder, American magazine published by Zonda Home \"The Builder\" (short story), a 1953 short story by Philip K. Dick \"The Builders\", an episode in the 1970s British television comedy Fawlty Towers \"Builder\" (Not Going Out), a 2019 television episode Builders, international music group also known as The Bilders, Bilderbergers and Bilderine Other Builder (detergent), a component of modern detergents Builder (hockey), in ice hockey, manages or builds the game Builder (United States Navy), U.S."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A man telling someone to say the man's name.. Walter White wearing glasses and with mouth open.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the man's name",
+          "Walter White",
+          "glasses"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster is very proud of their contribution to a streamer.. The person who wrote the post is saying they feel gangster after giving money to someone they don't know.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "their contribution",
+          "The person",
+          "the post",
+          "gangster",
+          "money"
+        ]
+      },
+      "title": {
+        "text": "I mean I basically made him rich",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "him",
+          "basically",
+          "made",
+          "rich"
+        ]
+      },
+      "text": {
+        "text": "when you donate 1$ to a streamer Nowssay,mymiame",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "donate",
+          "streamer",
+          "nowssay",
+          "mymiame"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "him",
+      "basically",
+      "made",
+      "rich",
+      "donate",
+      "streamer",
+      "nowssay",
+      "mymiame"
+    ],
+    "secondary_terms": [
+      "the man's name",
+      "Walter White",
+      "glasses",
+      "their contribution",
+      "The person",
+      "the post",
+      "gangster",
+      "money"
+    ],
+    "queries": [
+      "\"Walter White\" \"him\" \"basically\" \"made\" \"rich\"",
+      "\"made\" \"rich\" \"donate\" \"streamer\""
+    ]
+  },
+  "source_jsonl_id": null
+}

@@ -1,0 +1,182 @@
+{
+  "meme_id": "meme_01033",
+  "queries": [
+    "\"The boys\" \"the top\" \"the door\" \"don\"",
+    "\"The boys\" \"the top\" \"the door\" \"the man\"",
+    "\"the door\" \"the man\" \"don\" \"question\""
+  ],
+  "primary_terms": [
+    "don",
+    "question",
+    "the top",
+    "the door",
+    "The boys"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Door#0000",
+      "doc_id": "wikipedia:Door",
+      "title": "Door",
+      "url": "https://en.wikipedia.org/?curid=8637",
+      "source_type": "wikipedia",
+      "score": 1.149894005060196,
+      "text": "A door is a hinged or otherwise movable barrier that allows ingress (entry) into and egress (exit) from an enclosure. The created opening in the wall is a doorway or portal. A door's essential and primary purpose is to provide security by controlling access to the doorway (portal). Conventionally, it is a panel that fits into the doorway of a building, room, or vehicle. Doors are generally made of a material suited to the door's task. They are commonly attached by hinges, but can move by other means, such as slides or counterbalancing. The door may be able to move in various ways (at angles away from the doorway/portal, by sliding on a plane parallel to the frame, by folding in angles on a parallel plane, or by spinning along an axis at the center of the frame) to allow or prevent ingress or egress. In most cases, a door's interior matches its exterior side. But in other cases (e.g., a vehicle door) the two sides are radically different."
+    },
+    {
+      "chunk_id": "wikipedia:Young Man#0000",
+      "doc_id": "wikipedia:Young Man",
+      "title": "Young Man",
+      "url": "https://en.wikipedia.org/?curid=16302334",
+      "source_type": "wikipedia",
+      "score": 1.0244908690452577,
+      "text": "Young Man may refer to: Boy or young adult man Music Young Man (Billy Dean album) or the title song, 1990 Young Man, an album by Jack Ingram, 2004 \"Young Man\", a song by the Chicks from Gaslighter, 2020 \"Young Man\", a song by Justin Timberlake from Man of the Woods, 2018 \"Young Man\", a song by Living Colour from The Chair in the Doorway, 2009 \"Young Man\", a song by Rodney Atkins from Caught Up in the Country, 2019 Other uses The Young Man a 1984 novel by Botho Strauß Young Man of Arévalo (fl. 16th century), Spanish Morisco crypto-Muslim writer Young Man Kang (born 1966), South Korean filmmaker Young Man Lake, a lake in Montana, US Young Man (film), a 2022 Russian comedy film See also All pages with titles containing Young Man Naujawan (disambiguation) (lit."
+    },
+    {
+      "chunk_id": "wikipedia:Following#0001",
+      "doc_id": "wikipedia:Following",
+      "title": "Following",
+      "url": "https://en.wikipedia.org/?curid=23011287",
+      "source_type": "wikipedia",
+      "score": 0.9268878757953644,
+      "text": "helped in editing and production. The film was released by The Criterion Collection on both Blu-ray and DVD in North America on 11 December 2012. Plot A struggling, unemployed young writer (credited as \"The Young Man\") takes to following strangers around the streets of London, ostensibly to find inspiration for his first novel. Initially, he sets strict rules for himself regarding whom he should follow and for how long, but he soon discards..."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0000",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.7772993445396423,
+      "text": "In architecture, a hall is a relatively large space enclosed by a roof and walls. In the Iron Age and the Early Middle Ages in northern Europe, a mead hall was where a lord and his retainers ate and also slept. Later in the Middle Ages, the great hall was the largest room in castles and large houses, and where the servants usually slept. As more complex house plans developed, the hall remained a large room for dancing and large feasts, often still with servants sleeping there. It was usually immediately inside the main door. In modern British houses, an entrance hall next to the front door remains an indispensable feature, even if it is essentially merely a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0001",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.7666437029838562,
+      "text": "a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly. Where the hall inside the front door of a house is elongated, it may be called a passage, corridor (from Spanish corredor used in El Escorial and 100 years later in Castle Howard), or hallway. History In warmer climates, the houses of the wealthy were often built around a courtyard, but in northern areas manors were built around a great hall. The hall was home to the hearth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Very Bad Things#0001",
+      "doc_id": "wikipedia:Very Bad Things",
+      "title": "Very Bad Things",
+      "url": "https://en.wikipedia.org/?curid=1589300",
+      "source_type": "wikipedia",
+      "score": 0.7598284780979156,
+      "text": "hires a stripper named Tina to entertain the men in their hotel room. Tina is accidentally killed while having rough sex with Michael in the bathroom. Robert convinces the guys that the best option is to stay quiet about it and bury her body in the desert. A security guard arrives to investigate the noise in the guys' room and discovers Tina's corpse. In desperation..."
+    },
+    {
+      "chunk_id": "wikipedia:Man on a String#0000",
+      "doc_id": "wikipedia:Man on a String",
+      "title": "Man on a String",
+      "url": "https://en.wikipedia.org/?curid=35028463",
+      "source_type": "wikipedia",
+      "score": 0.7464573740959167,
+      "text": "Man on a String (also known as Confessions of a Counterspy) is a 1960 American spy thriller directed by Andre de Toth and starring Ernest Borgnine and Kerwin Mathews. It was the last film that DeToth directed in the United States. Plot A government intelligence agency in Washington, D.C. wants agent Frank Sanford to follow Boris Mitrov, a film producer who appears to also be a Russian spy. Helen and Adrian Benson, a wealthy American couple with a home in Beverly Hills and a film studio, are communist sympathizers as well, in league with Colonel Vadja Kubelov, the top KGB man in the U.S. Boris's office is bugged by his assistant, Bob Avery, a plant who is working for the Americans. Now that he has been caught red-handed, Boris is willing to turn double agent, going to Berlin under the pretense of making a documentary film there. Helen is having an affair with Kubelov, but the Bensons' home has been bugged and they try to flee to Mexico."
+    },
+    {
+      "chunk_id": "wikipedia:His House#0000",
+      "doc_id": "wikipedia:His House",
+      "title": "His House",
+      "url": "https://en.wikipedia.org/?curid=62897844",
+      "source_type": "wikipedia",
+      "score": 0.6983645707368851,
+      "text": "His House is a 2020 folk horror thriller film written and directed by Remi Weekes, from a story by Felicity Evans and Toby Venables. It stars Wunmi Mosaku, Sope Dirisu and Matt Smith. The film tells the story of a refugee couple from South Sudan, struggling to adjust to their new life in an English town that has an evil lurking beneath the surface. It had its world premiere at the 2020 Sundance Film Festival on 27 January 2020. It was released on 30 October 2020 by Netflix, and received widespread acclaim from critics. Plot Bol and Rial are refugees fleeing with their daughter, Nyagak, from war-torn South Sudan. They brave stormy waters on an overcrowded motorboat, along with fellow refugees traversing the perilous English Channel from France to seek asylum. Although they survive the treacherous crossing, their daughter and many others do not."
+    },
+    {
+      "chunk_id": "wikipedia:Fists in the Pocket#0000",
+      "doc_id": "wikipedia:Fists in the Pocket",
+      "title": "Fists in the Pocket",
+      "url": "https://en.wikipedia.org/?curid=3654682",
+      "source_type": "wikipedia",
+      "score": 0.6545369327068329,
+      "text": "Fists in the Pocket (Italian: I pugni in tasca) is a 1965 Italian satirical drama film written and directed by Marco Bellocchio and starring Lou Castel. It was Bellocchio's first feature film and became one of the most critically acclaimed films of the year. The film centers on a young man suffering from epilepsy, who plots the murders of the members of his dysfunctional family. In 2008, Fists in the Pocket was included in the Italian Ministry of Cultural Heritage's 100 Italian films to be saved, a list of 100 films that \"have changed the collective memory of the country between 1942 and 1978.\" Plot Four siblings, a sister and three brothers, live with their blind, widowed mother in a provincial villa. The younger brothers Alessandro and Leone are epileptics, while sister Giulia, with whom Alessandro shares an incestuous attraction, is mentally disturbed. Augusto, the eldest brother and apparently sane, is the family's only provider."
+    },
+    {
+      "chunk_id": "wikipedia:Sugar on My Tongue#0001",
+      "doc_id": "wikipedia:Sugar on My Tongue",
+      "title": "Sugar on My Tongue",
+      "url": "https://en.wikipedia.org/?curid=80490800",
+      "source_type": "wikipedia",
+      "score": 0.6436428338289261,
+      "text": "the \"run-on flow\" that is widely used in modern hip-hop and raps about oral sex. Critical reception The song received generally positive reviews. Mackenzie Cummings-Grady of Billboard ranked it as the second best song on Don't Tap the Glass, writing \"The song's intergalactic synths and rumbling 808s make it poised to dominate summertime gatherings, and Tyler offers some truly..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A question is asked and the man underneath is shocked.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the man"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster gets shocked by hearing some questions towards him.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "some questions",
+          "him"
+        ]
+      },
+      "title": {
+        "text": "Don't question me",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "don",
+          "question"
+        ]
+      },
+      "text": {
+        "text": "Why do you always touch the top of the door when passing it The boys : “oy 4",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the top",
+          "the door",
+          "The boys"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "don",
+      "question",
+      "the top",
+      "the door",
+      "The boys"
+    ],
+    "secondary_terms": [
+      "the man",
+      "some questions",
+      "him"
+    ],
+    "queries": [
+      "\"The boys\" \"the top\" \"the door\" \"don\"",
+      "\"The boys\" \"the top\" \"the door\" \"the man\"",
+      "\"the door\" \"the man\" \"don\" \"question\""
+    ]
+  },
+  "source_jsonl_id": null
+}

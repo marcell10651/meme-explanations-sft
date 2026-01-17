@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_01863",
+  "queries": [
+    "\"The inventor\" \"the Ipad\" \"the first person\" \"Moses\"",
+    "\"the first person\" \"Moses\" \"Niet\" \"the cloud\""
+  ],
+  "primary_terms": [
+    "The inventor",
+    "the Ipad",
+    "inventor",
+    "ipad",
+    "Moses",
+    "the first person",
+    "files",
+    "the cloud",
+    "Niet",
+    "mee"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Simba#0001",
+      "doc_id": "wikipedia:Simba",
+      "title": "Simba",
+      "url": "https://en.wikipedia.org/?curid=983014",
+      "source_type": "wikipedia",
+      "score": 0.5844184219837188,
+      "text": "as an original character, Simba was inspired by Moses and Joseph from the Bible, as well as the title character from William Shakespeare's Hamlet. Despite sharing similarities with the character from the anime television series Kimba the White Lion, Disney has refuted claims that Simba was inspired by Kimba. Mark Henn and Ruben A. Aquino were supervising animators for the cub and adult Simba, respectively, with both animators researching..."
+    },
+    {
+      "chunk_id": "wikipedia:Science#0001",
+      "doc_id": "wikipedia:Science",
+      "title": "Science",
+      "url": "https://en.wikipedia.org/?curid=26700",
+      "source_type": "wikipedia",
+      "score": 0.5293838977813721,
+      "text": "historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE). Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity and later medieval scholarship, whereby formal attempts were made to provide explanations of events in the physical world based on natural causes; while further..."
+    },
+    {
+      "chunk_id": "wikipedia:First#0000",
+      "doc_id": "wikipedia:First",
+      "title": "First",
+      "url": "https://en.wikipedia.org/?curid=620465",
+      "source_type": "wikipedia",
+      "score": 0.5213640034198761,
+      "text": "First most commonly refers to: First, the ordinal form of the number 1 First or 1st may also refer to: Acronyms Faint Images of the Radio Sky at Twenty-Centimeters, an astronomical survey carried out by the Very Large Array Far Infrared and Sub-millimetre Telescope, of the Herschel Space Observatory For Inspiration and Recognition of Science and Technology, an international youth organization Forum of Incident Response and Security Teams, a global forum Arts and entertainment Albums 1st (album), by Streets, 1983 1ST (SixTones album), 2021 First (David Gates album), 1973 First, by Denise Ho, 2001 First (O'Bryan album), 2007 First (Raymond Lam album), 2011 Extended plays 1st, by The Rasmus, 1995 First (Baroness EP), 2004 First (Ferlyn G EP), 2015 Songs \"First\" (Lindsay Lohan song), 2005 \"First\" (Cold War Kids song), 2014 \"First\", by Lauren Daigle from the album How Can It Be, 2015 \"First\", by Niki and Gabi, 2017 \"First\", by Jonas Brothers from the album Happiness Begins, 2018 \"First\","
+    },
+    {
+      "chunk_id": "wikipedia:First Time#0001",
+      "doc_id": "wikipedia:First Time",
+      "title": "First Time",
+      "url": "https://en.wikipedia.org/?curid=2039755",
+      "source_type": "wikipedia",
+      "score": 0.49544939398765564,
+      "text": "Day at a Time) \"The First Time\" (That '70s Show) Literature The First Time (memoir), a 1998 book by Cher and Jeff Coplon First Time, a 2008 novel by Meg Tilly First-Time: The Historical Vision of an Afro-American People, a 1983 book by Richard Price Music Albums First Time (Maya Simantov album) or the title song..."
+    },
+    {
+      "chunk_id": "wikipedia:Soul#0001",
+      "doc_id": "wikipedia:Soul",
+      "title": "Soul",
+      "url": "https://en.wikipedia.org/?curid=28297",
+      "source_type": "wikipedia",
+      "score": 0.4396657347679138,
+      "text": "the soul as the \"first actuality\" of a naturally organized body—form and matter arrangement allowing natural beings to aspire to full actualization. Medieval philosophers expanded upon these classical foundations. Ibn Sina distinguished between the soul and the spirit, arguing that the soul's immortality follows from its nature rather than serving as..."
+    },
+    {
+      "chunk_id": "wikipedia:Satan#0001",
+      "doc_id": "wikipedia:Satan",
+      "title": "Satan",
+      "url": "https://en.wikipedia.org/?curid=27694",
+      "source_type": "wikipedia",
+      "score": 0.43599286675453186,
+      "text": "from the Zoroastrian figure of Angra Mainyu, the satan developed into a malevolent entity with abhorrent qualities in dualistic opposition to God. In the apocryphal Book of Jubilees, Yahweh grants the satan (referred to as Mastema) authority over a group of fallen angels, or their offspring, to tempt humans to sin and punish them. Although the Book of Genesis does not name him specifically, Christians often identify the serpent in the Garden of Eden as Satan. In the Synoptic..."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0000",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.43376702070236206,
+      "text": "By The People is a 2005 Indian Malayalam-language vigilante thriller film directed by Jayaraj and produced by Milan Jaleel under his banner Galaxy Films. It is the sequel of 4 the People (2004) and the prequel of Of the People (2008). Narain reprises his role from the original. The film marks the debut of Surabhi Lakshmi. Plot Two years after the events in 4 the People, Rajan Mathew (Narain) is working an administrative job after being transferred for killing Vivek among the four-member group, and the remaining three members- Arvind Sebastian (Arun), Eshwar (Arjun Bose) and Shafeek (Padma Kumar) are imprisoned. College students in a band named Pulse, including a porter Sudhakaran (Vinayakan), auto driver Sathyan (Sreejith Ravi) and a one leg cripple (J Kutty), inspired by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\"."
+    },
+    {
+      "chunk_id": "wikipedia:Scientist#0000",
+      "doc_id": "wikipedia:Scientist",
+      "title": "Scientist",
+      "url": "https://en.wikipedia.org/?curid=26997",
+      "source_type": "wikipedia",
+      "score": 0.4256643056869507,
+      "text": "A scientist is an expert who conducts scientific research to advance knowledge in science. In classical antiquity, there was no real ancient analog of a modern scientist. Instead, philosophers engaged in the philosophical study of nature called natural philosophy. Though Thales (c. 624–545 BC) was arguably the first scientist for describing how cosmic events may be seen as natural, not necessarily caused by gods, it was not until the 19th century that the term scientist came into regular use: it was coined by the theologian, philosopher, and historian of science William Whewell in 1833 to describe Mary Somerville. History The roles of \"scientists\", and their predecessors before the emergence of modern scientific disciplines, have evolved considerably over time."
+    },
+    {
+      "chunk_id": "wikipedia:Aladdin#0000",
+      "doc_id": "wikipedia:Aladdin",
+      "title": "Aladdin",
+      "url": "https://en.wikipedia.org/?curid=166604",
+      "source_type": "wikipedia",
+      "score": 0.416818231344223,
+      "text": "Aladdin ( ə-LAD-in; Arabic: علاء الدين, romanized: ʻAlāʼu d-Dīn/ʻAlāʼ ad-Dīn, IPA: [ʕalaːʔ adˈdiːn], ATU 561, 'Aladdin') is a Middle-Eastern folk tale. It is one of the best-known tales associated with One Thousand and One Nights (often known in English as The Arabian Nights), despite not being part of the original text; it was added by the Frenchman Antoine Galland, based on a folk tale that he heard from the Syrian storyteller Hanna Diyab. Sources Known along with Ali Baba as one of the \"orphan tales\", the story was not part of the original Nights collection and has no authentic Arabic textual source, but was incorporated into the book Les mille et une nuits by its French translator, Antoine Galland. John Payne quotes passages from Galland's unpublished diary recording Galland's encounter with a Maronite storyteller from Aleppo, Hanna Diyab."
+    },
+    {
+      "chunk_id": "wikipedia:Following#0001",
+      "doc_id": "wikipedia:Following",
+      "title": "Following",
+      "url": "https://en.wikipedia.org/?curid=23011287",
+      "source_type": "wikipedia",
+      "score": 0.40011461079120636,
+      "text": "helped in editing and production. The film was released by The Criterion Collection on both Blu-ray and DVD in North America on 11 December 2012. Plot A struggling, unemployed young writer (credited as \"The Young Man\") takes to following strangers around the streets of London, ostensibly to find inspiration for his first novel. Initially, he sets strict rules for himself regarding whom he should follow and for how long, but he soon discards..."
+    }
+  ]
+}

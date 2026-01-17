@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_00111",
+  "queries": [
+    "\"She\" \"the door\" \"the atmosphere\" \"walkin\" \"door\"",
+    "\"walkin\" \"door\" \"everyone\" \"home\""
+  ],
+  "primary_terms": [
+    "the door",
+    "walkin",
+    "door",
+    "everyone",
+    "home",
+    "your mom",
+    "the atmosphere",
+    "fun",
+    "relaxation"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Door#0000",
+      "doc_id": "wikipedia:Door",
+      "title": "Door",
+      "url": "https://en.wikipedia.org/?curid=8637",
+      "source_type": "wikipedia",
+      "score": 1.019735825061798,
+      "text": "A door is a hinged or otherwise movable barrier that allows ingress (entry) into and egress (exit) from an enclosure. The created opening in the wall is a doorway or portal. A door's essential and primary purpose is to provide security by controlling access to the doorway (portal). Conventionally, it is a panel that fits into the doorway of a building, room, or vehicle. Doors are generally made of a material suited to the door's task. They are commonly attached by hinges, but can move by other means, such as slides or counterbalancing. The door may be able to move in various ways (at angles away from the doorway/portal, by sliding on a plane parallel to the frame, by folding in angles on a parallel plane, or by spinning along an axis at the center of the frame) to allow or prevent ingress or egress. In most cases, a door's interior matches its exterior side. But in other cases (e.g., a vehicle door) the two sides are radically different."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0001",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.9251742780208587,
+      "text": "a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly. Where the hall inside the front door of a house is elongated, it may be called a passage, corridor (from Spanish corredor used in El Escorial and 100 years later in Castle Howard), or hallway. History In warmer climates, the houses of the wealthy were often built around a courtyard, but in northern areas manors were built around a great hall. The hall was home to the hearth and..."
+    },
+    {
+      "chunk_id": "wikipedia:Home#0000",
+      "doc_id": "wikipedia:Home",
+      "title": "Home",
+      "url": "https://en.wikipedia.org/?curid=249429",
+      "source_type": "wikipedia",
+      "score": 0.7138791441917419,
+      "text": "A home, or domicile, is a space used as a permanent or semi-permanent residence for one or more human occupants, and sometimes various companion animals. Homes provide sheltered spaces, for instance rooms, where domestic activity can be performed such as sleeping, preparing food, eating and hygiene as well as providing spaces for work and leisure such as remote working, studying and playing. Physical forms of homes can be static such as a house or an apartment, mobile such as a houseboat, trailer or yurt or digital such as virtual space. The aspect of 'home' can be considered across scales; from the micro scale showcasing the most intimate spaces of the individual dwelling and direct surrounding area to the macro scale of the geographic area such as town, village, city, country or planet. The concept of 'home' has been researched and theorized across disciplines – topics ranging from the idea of home, the interior, the psyche, liminal space, contested space to gender and politics."
+    },
+    {
+      "chunk_id": "wikipedia:House#0000",
+      "doc_id": "wikipedia:House",
+      "title": "House",
+      "url": "https://en.wikipedia.org/?curid=13590",
+      "source_type": "wikipedia",
+      "score": 0.6794031322002411,
+      "text": "A house is a single-unit residential building. It may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems. Houses use a range of different roofing systems to keep precipitation such as rain from getting into the dwelling space. Houses generally have doors or locks to secure the dwelling space and protect its inhabitants and contents from burglars or other trespassers. Most conventional modern houses in Western cultures will contain one or more bedrooms and bathrooms, a kitchen or cooking area, and a living room. A house may have a separate dining room, or the eating area may be integrated into the kitchen or another room. Some large houses in North America have a recreation room. In traditional agriculture-oriented societies, domestic animals such as chickens or larger livestock (like cattle) may share part of the house with humans."
+    },
+    {
+      "chunk_id": "wikipedia:Room#0000",
+      "doc_id": "wikipedia:Room",
+      "title": "Room",
+      "url": "https://en.wikipedia.org/?curid=11383147",
+      "source_type": "wikipedia",
+      "score": 0.6658358037471771,
+      "text": "In a building or a ship, a room is any enclosed space within a number of walls to which entry is possible only via a door or other dividing structure. The entrance connects it to either a passageway, another room, or the outdoors. The space is typically large enough for several people to move about. The size, fixtures, furnishings, and sometimes placement of the room within the building or ship (or sometimes a train) support the activity to be conducted in it. History Historically, the use of rooms dates at least to early Minoan cultures about 2200 BC, where excavations at Akrotiri on Santorini reveal clearly defined rooms within certain structures. In early structures, the different room types could be identified to include bedrooms, kitchens, bathing rooms, closets, reception rooms, and other specialized uses."
+    },
+    {
+      "chunk_id": "wikipedia:Walkin#0000",
+      "doc_id": "wikipedia:Walkin",
+      "title": "Walkin",
+      "url": "https://en.wikipedia.org/?curid=33627004",
+      "source_type": "wikipedia",
+      "score": 0.6451904088258743,
+      "text": "\"Walkin\" is a song by American rapper Denzel Curry, released on January 24, 2022 as the lead single from his fifth studio album Melt My Eyez See Your Future (2022). It was produced by Kal Banx. Composition The production in the song changes from the style of boom bap to that of southern rap, juxtaposed with vocals. Lyrically, Denzel Curry raps about the struggles and changing of everyday life as the state of the world is regressing, such as racial and wealth inequality, and striving for success through difficult times, switching his flows as well. Music video A music video for the song was directed by Adrian Villagomez and released alongside the single. Taking on a sci-fi western theme, it finds Denzel Curry trekking across a desert planet alone, first walking through a village and moving past barren sand dunes, children playing on a swing set, and villains trying to kill him. He collapses on his knees several times throughout the journey."
+    },
+    {
+      "chunk_id": "wikipedia:Hall#0000",
+      "doc_id": "wikipedia:Hall",
+      "title": "Hall",
+      "url": "https://en.wikipedia.org/?curid=49401",
+      "source_type": "wikipedia",
+      "score": 0.5900334179401397,
+      "text": "In architecture, a hall is a relatively large space enclosed by a roof and walls. In the Iron Age and the Early Middle Ages in northern Europe, a mead hall was where a lord and his retainers ate and also slept. Later in the Middle Ages, the great hall was the largest room in castles and large houses, and where the servants usually slept. As more complex house plans developed, the hall remained a large room for dancing and large feasts, often still with servants sleeping there. It was usually immediately inside the main door. In modern British houses, an entrance hall next to the front door remains an indispensable feature, even if it is essentially merely a corridor. Today, the (entrance) hall of a house is the space next to the front door or vestibule leading to the rooms directly and/or indirectly."
+    },
+    {
+      "chunk_id": "wikipedia:His House#0000",
+      "doc_id": "wikipedia:His House",
+      "title": "His House",
+      "url": "https://en.wikipedia.org/?curid=62897844",
+      "source_type": "wikipedia",
+      "score": 0.5404874980449677,
+      "text": "His House is a 2020 folk horror thriller film written and directed by Remi Weekes, from a story by Felicity Evans and Toby Venables. It stars Wunmi Mosaku, Sope Dirisu and Matt Smith. The film tells the story of a refugee couple from South Sudan, struggling to adjust to their new life in an English town that has an evil lurking beneath the surface. It had its world premiere at the 2020 Sundance Film Festival on 27 January 2020. It was released on 30 October 2020 by Netflix, and received widespread acclaim from critics. Plot Bol and Rial are refugees fleeing with their daughter, Nyagak, from war-torn South Sudan. They brave stormy waters on an overcrowded motorboat, along with fellow refugees traversing the perilous English Channel from France to seek asylum. Although they survive the treacherous crossing, their daughter and many others do not."
+    },
+    {
+      "chunk_id": "wikipedia:Atmosphere#0000",
+      "doc_id": "wikipedia:Atmosphere",
+      "title": "Atmosphere",
+      "url": "https://en.wikipedia.org/?curid=202899",
+      "source_type": "wikipedia",
+      "score": 0.4990667819976807,
+      "text": "An atmosphere is a layer of gases that envelop an astronomical object, held in place by the gravity of the object. The name originates from Ancient Greek ἀτμός (atmós) 'vapour, steam' and σφαῖρα (sphaîra) 'sphere'. An object acquires most of its atmosphere during its primordial epoch, either by accretion of matter or by outgassing of volatiles. The chemical interaction of the atmosphere with the solid surface can change its fundamental composition, as can photochemical interaction with the Sun. A planet retains an atmosphere for longer durations when the gravity is high and the temperature is low. The solar wind works to strip away a planet's outer atmosphere, although this process is slowed by a magnetosphere. The further a body is from the Sun, the lower the rate of atmospheric stripping. Aside from Mercury, all Solar System planets have substantial atmospheres, as does the dwarf planet Pluto and the moon Titan."
+    },
+    {
+      "chunk_id": "wikipedia:Close#0001",
+      "doc_id": "wikipedia:Close",
+      "title": "Close",
+      "url": "https://en.wikipedia.org/?curid=4583933",
+      "source_type": "wikipedia",
+      "score": 0.47717276215553284,
+      "text": "associated with it Close (2019 film), an action thriller Close (2022 film), a Belgian drama film Close (street), an alley or cul-de-sac Close, old English term for an estate Close, a common stair or entryway in a Scottish tenement Close (system call), a system call in computer software Close, a character in Go! Princess PreCure ��2..."
+    }
+  ]
+}

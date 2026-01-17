@@ -1,0 +1,106 @@
+{
+  "meme_id": "meme_00375",
+  "queries": [
+    "\"Old Disney\" \"Villains\" \"Disney\" \"channel villains\"",
+    "\"Disney\" \"channel villains\" \"the left\" \"the right\""
+  ],
+  "primary_terms": [
+    "Villains",
+    "Disney",
+    "Old Disney",
+    "channel villains",
+    "swrygexstenyn"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:The Walt Disney Company#0000",
+      "doc_id": "wikipedia:The Walt Disney Company",
+      "title": "The Walt Disney Company",
+      "url": "https://en.wikipedia.org/?curid=37398",
+      "source_type": "wikipedia",
+      "score": 0.974333381652832,
+      "text": "The Walt Disney Company, commonly referred to as simply Disney, is an American multinational mass media and entertainment conglomerate headquartered at the Walt Disney Studios complex in Burbank, California. Founded on October 16, 1923, as an animation studio by brothers Walt Disney and Roy Oliver Disney as Disney Brothers Cartoon Studio, Disney operated under the names Walt Disney Studio and Walt Disney Productions before adopting its current name in 1986. In 1928, Disney established itself as a leader in the animation industry with the short film Steamboat Willie. The film used synchronized sound to become the first post-produced sound cartoon, and popularized Mickey Mouse, who became Disney's mascot and corporate icon. After becoming a success by the early 1940s, Disney diversified into live-action films, television, and theme parks in the 1950s. However, following Walt Disney's death in 1966, the company's profits, especially in the animation sector, began to decline."
+    },
+    {
+      "chunk_id": "wikipedia:Timon and Pumbaa#0000",
+      "doc_id": "wikipedia:Timon and Pumbaa",
+      "title": "Timon and Pumbaa",
+      "url": "https://en.wikipedia.org/?curid=4449334",
+      "source_type": "wikipedia",
+      "score": 0.8958411276340484,
+      "text": "Timon and Pumbaa are an animated meerkat and warthog duo introduced in Disney's 1994 animated feature film The Lion King and its franchise. Timon was played through his many appearances by Nathan Lane (in all three films and early episodes of the show), Max Casella (the original actor in Broadway musical), Kevin Schon (in certain episodes of the show), Quinton Flynn (in certain episodes of the show), Bruce Lanoil in the Wild About Safety shorts and Kingdom Hearts II, while Pumbaa is voiced by Ernie Sabella (in all of his traditionally animated speaking appearances), and was portrayed by Tom Alan Robbins in the original cast of the Broadway musical. In the CGI remake, the characters are portrayed by Billy Eichner and Seth Rogen, respectively. Nathan Lane and Ernie Sabella first came to audition for the roles of the hyenas, but when the producers saw how well they worked together, they decided to cast them as Timon and Pumbaa."
+    },
+    {
+      "chunk_id": "wikipedia:Pixar#0000",
+      "doc_id": "wikipedia:Pixar",
+      "title": "Pixar",
+      "url": "https://en.wikipedia.org/?curid=78969",
+      "source_type": "wikipedia",
+      "score": 0.7720772385597229,
+      "text": "Pixar (), doing business as Pixar Animation Studios, is an American animation studio based in Emeryville, California, known for its commercially successful computer-animated feature films. Pixar is a subsidiary of Walt Disney Studios, a division of the Disney Entertainment segment of the Walt Disney Company. The studio started in 1979 as part of the Lucasfilm computer division. It was known as the Graphics Group before its spin-off as a corporation in 1986, with funding from Apple co-founder Steve Jobs, who became its majority shareholder. The studio's mascot is Luxo Jr., a desk lamp from the studio's 1986 short film of the same name. Disney announced its acquisition of Pixar in January 2006, and completed it in May 2006. Pixar is best known for its feature films, technologically powered by its RenderMan software."
+    },
+    {
+      "chunk_id": "wikipedia:Simba#0001",
+      "doc_id": "wikipedia:Simba",
+      "title": "Simba",
+      "url": "https://en.wikipedia.org/?curid=983014",
+      "source_type": "wikipedia",
+      "score": 0.7694474220275879,
+      "text": "as an original character, Simba was inspired by Moses and Joseph from the Bible, as well as the title character from William Shakespeare's Hamlet. Despite sharing similarities with the character from the anime television series Kimba the White Lion, Disney has refuted claims that Simba was inspired by Kimba. Mark Henn and Ruben A. Aquino were supervising animators for the cub and adult Simba, respectively, with both animators researching..."
+    },
+    {
+      "chunk_id": "wikipedia:The Walt Disney Company#0001",
+      "doc_id": "wikipedia:The Walt Disney Company",
+      "title": "The Walt Disney Company",
+      "url": "https://en.wikipedia.org/?curid=37398",
+      "source_type": "wikipedia",
+      "score": 0.7486747860908508,
+      "text": "theme parks in the 1950s. However, following Walt Disney's death in 1966, the company's profits, especially in the animation sector, began to decline. In 1984, Disney's shareholders voted Michael Eisner as CEO, who led a reversal of the company's decline through a combination of international theme park expansion and the highly successful Disney Renaissance period..."
+    },
+    {
+      "chunk_id": "wikipedia:Spider-Man#0001",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.6831090450286865,
+      "text": "teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J. Jonah Jameson; friends like Harry Osborn and Flash Thompson; romantic interests like Gwen Stacy, Mary Jane Watson, and the Black Cat; and enemies such as Doctor Octopus, the Green Goblin, and Venom. In his origin story, Peter gets his superhuman spider-powers and abilities after he was bitten..."
+    },
+    {
+      "chunk_id": "wikipedia:Simba#0000",
+      "doc_id": "wikipedia:Simba",
+      "title": "Simba",
+      "url": "https://en.wikipedia.org/?curid=983014",
+      "source_type": "wikipedia",
+      "score": 0.6507216453552246,
+      "text": "Simba is a fictional character in Disney’s The Lion King franchise. He first appears as a cub in The Lion King (1994), where he flees the Pride Lands after his father, Mufasa, is murdered by his uncle, Scar, who deceives Simba into believing he is responsible for the death. Years later, Simba returns as an adult to confront Scar and reclaim his rightful place as king of the Pride Lands. He subsequently appears in the sequels The Lion King II: Simba's Pride and The Lion King 1½. Created by The Lion King's screenwriters, Irene Mecchi, Jonathan Roberts, and Linda Woolverton, Simba underwent several changes as the film's story developed, including making him a more sympathetic character and establishing his familial relation to Scar. Although conceived as an original character, Simba was inspired by Moses and Joseph from the Bible, as well as the title character from William Shakespeare's Hamlet."
+    },
+    {
+      "chunk_id": "wikipedia:Lost#0000",
+      "doc_id": "wikipedia:Lost",
+      "title": "Lost",
+      "url": "https://en.wikipedia.org/?curid=502128",
+      "source_type": "wikipedia",
+      "score": 0.6442210435867309,
+      "text": "Lost or LOST may refer to getting lost, or to: Arts, entertainment, and media Television Lost (TV series), a 2004 American drama series about people who become stranded on a mysterious island Lost (2001 TV series), a short-lived American and British reality series Lost (South Korean TV series), a 2021 South Korean series \"Lost\" (The Bill), a 1985 episode \"Lost\" (Shameless), an episode of the American TV series Shameless \"Lost\" (Stargate Universe), an episode of science fiction series Stargate Universe \"Lost\", an episode of Unleashed! \"Lost\", an episode of the Canadian documentary TV series Mayday \"Lost\", an episode of Disney's So Weird \"The Lost\" (Class), an episode of the first series of the Doctor Who spin-off series Class Films Lost (1950 film), a Mexican film directed by Fernando A. Rivero Lost (1956 film), a British thriller starring David Farrar Lost (1983 film), an American film directed by Al Adamson Lost!"
+    },
+    {
+      "chunk_id": "wikipedia:Thanos#0001",
+      "doc_id": "wikipedia:Thanos",
+      "title": "Thanos",
+      "url": "https://en.wikipedia.org/?curid=701741",
+      "source_type": "wikipedia",
+      "score": 0.6330141425132751,
+      "text": "the character of Darkseid. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified. Perhaps the character's best-known storyline is The Infinity Gauntlet (1991), the culmination of several story arcs that see him gather the six Infinity Gems and use them to kill half of the universe's population, including many of its heroes, to woo Mistress Death, the living embodiment of death in the Marvel Universe. Although these events were later undone, the storyline has remained one of the most popular published by Marvel. Debuting in the Bronze Age of comic books, the character..."
+    },
+    {
+      "chunk_id": "wikipedia:Homies (toy)#0000",
+      "doc_id": "wikipedia:Homies (toy)",
+      "title": "Homies (toy)",
+      "url": "https://en.wikipedia.org/?curid=1380153",
+      "source_type": "wikipedia",
+      "score": 0.6186687648296356,
+      "text": "Homies are a series of two-inch plastic collectible figurines representing various Chicano Mexican American characters. The line of toys was created by David Gonzales and based on a comic strip that Gonzales created featuring a cast of characters from his youth. Introduced in the year 1998, Homies were initially sold in grocery store vending machines and have become a highly collectible item, and have spawned many imitation toys. Background and history Gonzales began drawing comics while he was in high school. His amateur comic strip was called The Adventures of Chico Loco, and the characters were based on \"barrio guys,\" as Gonzales grew up on the tough streets of a poverty-ridden Mexican-American neighborhood. The main character, based on Gonzales himself, was called \"Hollywood.\" The strip, which later changed its title to The Adventures of Hollywood, was picked up by Lowrider magazine and published monthly."
+    }
+  ]
+}

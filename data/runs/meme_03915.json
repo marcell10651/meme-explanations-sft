@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_03915",
+  "queries": [
+    "\"free speech brother\" \"Elon\" \"free\" \"speech\"",
+    "\"free speech brother\" \"his car window\" \"Elon\" \"Bobby\"",
+    "\"Elon\" \"Bobby\" \"Hank\" \"free\""
+  ],
+  "primary_terms": [
+    "Elon",
+    "free speech brother",
+    "free",
+    "speech",
+    "brother"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Brother#0000",
+      "doc_id": "wikipedia:Brother",
+      "title": "Brother",
+      "url": "https://en.wikipedia.org/?curid=4098495",
+      "source_type": "wikipedia",
+      "score": 0.6797106921672821,
+      "text": "A brother (pl.: brothers or brethren) is a man or boy who shares one or more parents with another; a male sibling. The female counterpart is a sister. Although the term typically refers to a familial relationship, it is sometimes used endearingly to refer to non-familial relationships. A full brother is a first degree relative. Overview The term brother comes from the Proto-Indo-European *bʰréh₂tēr, which becomes Latin frater, of the same meaning. Sibling warmth or affection between male siblings has been correlated to some more negative effects. In pairs of brothers, higher sibling warmth is related to more risk taking behaviour, although risk taking behaviour is not related to sibling warmth in any other type of sibling pair. The cause of this phenomenon in which sibling warmth is only correlated with risk taking behaviours in brother pairs still is unclear."
+    },
+    {
+      "chunk_id": "wikipedia:Jerry#0000",
+      "doc_id": "wikipedia:Jerry",
+      "title": "Jerry",
+      "url": "https://en.wikipedia.org/?curid=664776",
+      "source_type": "wikipedia",
+      "score": 0.6473493486642837,
+      "text": "Jerry may refer to: Animals Jerry (Grand National winner), racehorse, winner of the 1840 Grand National Jerry (St Leger winner), racehorse, winner of 1824 St Leger Stakes Arts, entertainment, and media Jerry (play), a 1914 American play \"Jerry\", a song from the album Young and Free by Rock Goddess \"Jerry\" (Adventure Time: Fionna and Cake), an episode of the animated television series Adventure Time: Fionna and Cake Tom and Jerry (disambiguation) Jerry Mouse Jerry, a fictional character who is The Lich BMO named of another universe from Adventure Time Jerry (The Walking Dead), a fictional character from The Walking Dead People Jerry (given name), including a list of people and fictional characters with the name Harold A. Jerry, Jr. (1920–2001), New York politician Thomas Jeremiah (d. 1775), commonly known simply as \"Jerry\", a free Negro in colonial South Carolina Tyson Jerry (born 1983), a Canadian Guinness World Record holder Jerry (born 1964), one half of the Indian filmmaking duo J."
+    },
+    {
+      "chunk_id": "wikipedia:Friendly#0001",
+      "doc_id": "wikipedia:Friendly",
+      "title": "Friendly",
+      "url": "https://en.wikipedia.org/?curid=466246",
+      "source_type": "wikipedia",
+      "score": 0.6088957190513611,
+      "text": "Hall, a building on the University of Oregon campus Friendly High School, a public high school in Fort Washington, Maryland, United States Henry J. Friendly Medal, awarded by the American Law Institute for contributions to the field of law Friendly TV, a British TV station from 2003 to 2010 \"Friendly\", a song by J Hus from Common Sense (2017) \"Friendly\", a song by Sakanaction from Adapt (2022) See also Henry the Friendly (1299–1327), son of King Albert I of Germany Friendly number, in mathematics, shares a property concerning..."
+    },
+    {
+      "chunk_id": "wikipedia:Fists in the Pocket#0001",
+      "doc_id": "wikipedia:Fists in the Pocket",
+      "title": "Fists in the Pocket",
+      "url": "https://en.wikipedia.org/?curid=3654682",
+      "source_type": "wikipedia",
+      "score": 0.6062133431434631,
+      "text": "Alessandro shares an incestuous attraction, is mentally disturbed. Augusto, the eldest brother and apparently sane, is the family's only provider. When Augusto's fiancée Lucia receives an anonymous letter whose addressor pretends to be pregnant by him, he immediately realizes that it was written by Giulia. Alessandro, who is disgusted with his family, decides that Augusto would be free to live..."
+    },
+    {
+      "chunk_id": "wikipedia:Emon#0001",
+      "doc_id": "wikipedia:Emon",
+      "title": "Emon",
+      "url": "https://en.wikipedia.org/?curid=52429604",
+      "source_type": "wikipedia",
+      "score": 0.6028431504964828,
+      "text": "(born 1993), Bangladeshi footballer Anisul Islam Emon (born 1994), Bangladeshi cricketer Parvez Hossain Emon (born 2002), Bangladeshi cricketer Abu Shahed Emon (fl. 2000s), Bangladeshi film director Emon Saha (fl. 2000s), Bangladeshi composer Emon Ahmed (fl. 2008–2010), Bangladeshi cricketer Emon Chowdhury, Bangladeshi musician Emon..."
+    },
+    {
+      "chunk_id": "wikipedia:Different Times, Different Places#0001",
+      "doc_id": "wikipedia:Different Times, Different Places",
+      "title": "Different Times, Different Places",
+      "url": "https://en.wikipedia.org/?curid=74440146",
+      "source_type": "wikipedia",
+      "score": 0.5092330038547516,
+      "text": "Ogun in 2016. Both volumes showcase Miller's compositions. Reception Mike Hobart of the Financial Times noted the \"pulsating riffs, moments of calm... horns playing with passion and technical flair,\" and stated: \"The powerful and firm-fingered Miller developed a telepathic relationship with drummer and fellow exile Louis Moholo Moholo, and they switch mood in the blink of an eye.\" A reviewer for The Free Jazz Collective wrote: \"it's difficult not to be astounded by..."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0001",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.48971913754940033,
+      "text": "Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture and politics People Múte Bourup Egede (born 1987), Prime Minister of Greenland Shō Gen (1528–1572), king of the Ryukyu Kingdom called Gen the mute Pârvu Mutu (1657–1735),..."
+    },
+    {
+      "chunk_id": "wikipedia:Brother#0001",
+      "doc_id": "wikipedia:Brother",
+      "title": "Brother",
+      "url": "https://en.wikipedia.org/?curid=4098495",
+      "source_type": "wikipedia",
+      "score": 0.46225675046443937,
+      "text": "sibling pair. The cause of this phenomenon in which sibling warmth is only correlated with risk taking behaviours in brother pairs still is unclear. This finding does, however, suggest that although sibling conflict is a risk factor for risk taking behaviour, sibling warmth does not serve as a protective factor. Some studies suggest that girls having an older brother delays the onset of menarche by roughly one year. Research also suggests that the likelihood of being..."
+    },
+    {
+      "chunk_id": "wikipedia:Harold#0000",
+      "doc_id": "wikipedia:Harold",
+      "title": "Harold",
+      "url": "https://en.wikipedia.org/?curid=555297",
+      "source_type": "wikipedia",
+      "score": 0.4436786621809006,
+      "text": "Harold may refer to: People Harold (given name), including a list of persons and fictional characters with the name Harold (surname), surname in the English language András Arató, known in meme culture as \"Hide the Pain Harold\" Arts and entertainment Harold (film), a 2008 comedy film Harold, an 1876 poem by Alfred, Lord Tennyson Harold, the Last of the Saxons, an 1848 book by Edward Bulwer-Lytton, 1st Baron Lytton Harold or the Norman Conquest, an opera by Frederic Cowen Harold, an 1885 opera by Eduard Nápravník Harold, a character from the cartoon The Grim Adventures of Billy & Mandy Harold & Kumar, a US movie; Harold/Harry is the main actor in the show."
+    },
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.4273637682199478,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    }
+  ]
+}

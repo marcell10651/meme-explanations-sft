@@ -1,0 +1,112 @@
+{
+  "meme_id": "meme_04000",
+  "queries": [
+    "\"Tom\" \"Lego\" \"her bra\" \"must\" \"stay\"",
+    "\"must\" \"stay\" \"focused\" \"invite\""
+  ],
+  "primary_terms": [
+    "must",
+    "stay",
+    "focused",
+    "Lego",
+    "her bra",
+    "invite",
+    "over",
+    "play",
+    "taking",
+    "bra",
+    "off"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Stay#0000",
+      "doc_id": "wikipedia:Stay",
+      "title": "Stay",
+      "url": "https://en.wikipedia.org/?curid=1175804",
+      "source_type": "wikipedia",
+      "score": 0.5838174134492874,
+      "text": "Stay may refer to: Places Stay, Kentucky, an unincorporated community in the US Law Stay of execution, a ruling to temporarily suspend the enforcement of a court judgment Stay of proceedings, a ruling halting further legal process in a trial Structures and mechanics Stay (mechanics), a structural element designed to resist forces, usually along its axis. Stay, in a cable-stayed bridge Stay, bone (corsetry), one of the rigid parts of a corset Stays, or corset, a garment worn to mold and shape the torso; See History of corsets Stays (nautical), heavy ropes, wires, or rods that connect the masts of a sailing vessel to the hull Forestay, on a sailing vessel, keeps a mast from falling backwards Boiler stay, an internal structural element of a boiler Chain stay and seat stay, parts of a conventional bicycle frame Collar stay, a small rigid piece used to maintain the point of a shirt collar Guy-wire, or stay, a metal cable used to support a tall structure, such as a radio mast Stay cable,"
+    },
+    {
+      "chunk_id": "wikipedia:Over#0001",
+      "doc_id": "wikipedia:Over",
+      "title": "Over",
+      "url": "https://en.wikipedia.org/?curid=592426",
+      "source_type": "wikipedia",
+      "score": 0.4743651330471039,
+      "text": "Li on Eyeye \"Over\", by Playboi Carti on Whole Lotta Red \"Over\", by Seafret on Tell Me It's Real \"Over\", by Sean Kingston from Tomorrow \"Over\", by Tove Lo on Truth Serum \"Over\", by Yuma Uchida \"Over\", by Zarif from Box of Secrets \"Over\", a commonly used unofficial title for a studio outtake by Cardiacs included on Toy World..."
+    },
+    {
+      "chunk_id": "wikipedia:Minutes#0000",
+      "doc_id": "wikipedia:Minutes",
+      "title": "Minutes",
+      "url": "https://en.wikipedia.org/?curid=901046",
+      "source_type": "wikipedia",
+      "score": 0.4486310303211212,
+      "text": "Minutes (), also known as minutes of meeting, protocols or, informally, notes, are the instant written record of a meeting or hearing. They typically describe the events of the meeting and may include a list of attendees, a statement of the activities considered by the participants, and related responses or decisions for the activities. The word \"minutes\" here means \"notes\", rather than sixtieths of an hour. Creation Minutes may be created during the meeting by a typist or court reporter, who may use shorthand notation and then prepare the minutes and issue them to the participants afterwards. Alternatively, the meeting can be audio recorded, video recorded, or a group's appointed or informally assigned secretary may take notes, with minutes prepared later. Many government agencies use minutes recording software to record and prepare all minutes in real-time. Purpose Minutes are the official written record of the meetings of an organization or group."
+    },
+    {
+      "chunk_id": "wikipedia:Suits LA#0001",
+      "doc_id": "wikipedia:Suits LA",
+      "title": "Suits LA",
+      "url": "https://en.wikipedia.org/?curid=77433138",
+      "source_type": "wikipedia",
+      "score": 0.42527828812599183,
+      "text": "their firm, taking some of the firm's lawyers and clients with him Bryan Greenberg as Rick Dodsen Recurring Maggie Grace as Amanda Stevens, a pro bono attorney who rents an office at Ted and Erica's law firm. Ted hires her as the head of criminal defense after he sees what she can do for his law firm. Troy Winbush as Kevin, a private..."
+    },
+    {
+      "chunk_id": "wikipedia:Leave#0001",
+      "doc_id": "wikipedia:Leave",
+      "title": "Leave",
+      "url": "https://en.wikipedia.org/?curid=85749",
+      "source_type": "wikipedia",
+      "score": 0.4188939332962036,
+      "text": "of \"Remain\") Arts, entertainment, and media Leave (film), a 2010 film by Robert Celestino Leave (2022 film), a 2022 film by Alex Herron Music Leave (album), a 2002 Mandopop album \"Leave\" (Get Out), a 2004 R&B song by JoJo \"Leave!\", a 2009 soul song performed by the English singer VV Brown \"Leave\", a song by Sertab Erener \"Leave\", a song..."
+    },
+    {
+      "chunk_id": "wikipedia:Party#0000",
+      "doc_id": "wikipedia:Party",
+      "title": "Party",
+      "url": "https://en.wikipedia.org/?curid=23995",
+      "source_type": "wikipedia",
+      "score": 0.4020201534032822,
+      "text": "A party is a gathering of people who have been invited by a host for the purposes of socializing, conversation, recreation, or as part of a festival or other commemoration or celebration of a special occasion. A party will often feature food and beverages, and generally conversation, music, dancing, or other forms of entertainment. Some parties are held in honor of a specific person, day, or event, such as a birthday party, a Super Bowl party, or a St. Patrick's Day party. Parties of this kind are often called celebrations. A party is not necessarily a private occasion. Public parties are sometimes held in parks, restaurants, pubs, beer gardens, nightclubs, or bars, and people attending such parties may be charged an admission fee by the host. Large parties in public streets may celebrate events such as Mardi Gras or the signing of a peace treaty ending a long war."
+    },
+    {
+      "chunk_id": "wikipedia:Steal This Movie!#0000",
+      "doc_id": "wikipedia:Steal This Movie!",
+      "title": "Steal This Movie!",
+      "url": "https://en.wikipedia.org/?curid=1602740",
+      "source_type": "wikipedia",
+      "score": 0.4002915143966675,
+      "text": "Steal This Movie! is a 2000 American biographical film directed by Robert Greenwald and written by Bruce Graham, based on the 1976 book To America with Love: Letters From the Underground by Anita and Abbie Hoffman and the 1992 book Abbie Hoffman: American Rebel by Marty Jezer. The film follows 1960s radical figure Abbie Hoffman, and stars Vincent D'Onofrio and Janeane Garofalo, with Jeanne Tripplehorn and Kevin Pollak. The film follows Hoffman's (D'Onofrio) relationship with his second wife Anita (Garofalo) and their \"awakening\" and subsequent conversion to an activist life. The title of the film is a play on Hoffman's 1971 counter-culture guidebook titled Steal This Book. Steal This Movie! premiered at the 2000 Santa Barbara Film Festival, and also showed at the South by Southwest Film Festival. Cast Reception On review aggregator website Rotten Tomatoes, the film holds an approval rating of 51% based on 43 reviews, and an average rating of 4.7/10."
+    },
+    {
+      "chunk_id": "wikipedia:Suits LA#0000",
+      "doc_id": "wikipedia:Suits LA",
+      "title": "Suits LA",
+      "url": "https://en.wikipedia.org/?curid=77433138",
+      "source_type": "wikipedia",
+      "score": 0.38821799755096437,
+      "text": "Suits LA is an American legal drama television series created by Aaron Korsh for NBC. It is the second spin-off of Suits and premiered on February 23, 2025. In May 2025, the series was cancelled after one season. Premise Ex-New York City federal prosecutor turned Los Angeles entertainment lawyer Ted Black and his Black Lane Law firm represent powerful clients in LA while Ted and his associates navigate personal and professional challenges. Cast and characters Main Stephen Amell as Ted Black, a former federal prosecutor in New York City who decides to restart his legal career by becoming an entertainment lawyer in Los Angeles with the Black Lane Law firm Lex Scott Davis as Erica Rollins, Ted's law partner at Black & Associates Josh McDermitt as Stuart Lane, criminal defense lawyer and Ted's former partner, who betrays him by leaving their firm, taking some of the firm's lawyers and clients with him Bryan Greenberg as Rick Dodsen Recurring Maggie Grace as Amanda Stevens, a pro bono"
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0001",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.36892419755458833,
+      "text": "to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively. Social: the ability to interact with the world through playing with others, taking turns and fantasy play. Although it is useful to chart defined periods of development, development exists on a continuum, with considerable differences between individual children. There..."
+    },
+    {
+      "chunk_id": "wikipedia:Leave#0000",
+      "doc_id": "wikipedia:Leave",
+      "title": "Leave",
+      "url": "https://en.wikipedia.org/?curid=85749",
+      "source_type": "wikipedia",
+      "score": 0.3656322717666626,
+      "text": "Leave may refer to: Permission (disambiguation) Permitted absence from work Leave of absence, a period of time that one is to be away from one's primary job while maintaining the status of employee Annual leave, allowance of time away from work while continuing to be paid Leave (military), a period of time in which a soldier is allowed to be away from his or her assigned unit Leave to enter, permission for entry to the United Kingdom granted by British immigration officers Leave to remain, permanent residency in the United Kingdom Leave to appeal, granted to the loser in a court case to appeal the verdict Leave to prosecute, permission to bring a private prosecution of a criminal case Leave of the house/senate, the term used to describe unanimous consent in Westminster system parliaments The pro-Brexit side of the Brexit debate (opposite of \"Remain\") Arts, entertainment, and media Leave (film), a 2010 film by Robert Celestino Leave (2022 film), a 2022 film by Alex Herron Music Leave"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "meme_id": "meme_05309",
+  "queries": [
+    "\"World Cup\" \"Coo\" \"our aay\" \"world\"",
+    "\"our aay\" \"world\" \"cup\" \"group\""
+  ],
+  "primary_terms": [
+    "World Cup",
+    "world",
+    "cup",
+    "group",
+    "eos",
+    "Coo",
+    "jas",
+    "our aay",
+    "inn"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:American#0001",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.8580327928066254,
+      "text": "conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C. Sports teams Soccer Baltimore Americans, the name of two soccer teams, one from 1939 to 1942 and one from 1942 to 1948 Chicago Americans, a soccer team in 1972 Dallas Americans, a soccer team from 1983 to 1985 Hartford Americans, a soccer..."
+    },
+    {
+      "chunk_id": "wikipedia:Society#0000",
+      "doc_id": "wikipedia:Society",
+      "title": "Society",
+      "url": "https://en.wikipedia.org/?curid=37235",
+      "source_type": "wikipedia",
+      "score": 0.7090957731008529,
+      "text": "A society () is a group of individuals involved in persistent social interaction or a large social group sharing the same spatial or social territory, typically subject to the same political authority and dominant cultural expectations. Societies are characterized by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions; a given society may be described as the sum total of such relationships among its constituent members. Human social structures are complex and highly cooperative, featuring the specialization of labor via social roles. Societies construct roles and other patterns of behavior by deeming certain actions or concepts acceptable or unacceptable—these expectations around behavior within a given society are known as societal norms. So far as it is collaborative, a society can enable its members to benefit in ways that would otherwise be difficult on an individual basis."
+    },
+    {
+      "chunk_id": "wikipedia:Group#0000",
+      "doc_id": "wikipedia:Group",
+      "title": "Group",
+      "url": "https://en.wikipedia.org/?curid=25874441",
+      "source_type": "wikipedia",
+      "score": 0.6753027200698852,
+      "text": "A group is a number of persons or things that are located, gathered, or classed together. Groups of people Cultural group, a group whose members share the same cultural identity Ethnic group, a group whose members share the same ethnic identity Religious group (disambiguation), a group whose members share the same religious identity Social group, a group whose members share the same social identity Tribal group, a group whose members share the same tribal identity Organization, an entity that has a collective goal and is linked to an external environment Peer group, an entity of three or more people with similar age, ability, experience, and interest Class (education), a group of people which attends a specific course or lesson at an educational institution Social science In-group and out-group Primary, secondary, and reference groups Social group Collectives Philosophy and religion Khandha, a Buddhist concept of five material and mental factors that take part in the rise of craving"
+    },
+    {
+      "chunk_id": "wikipedia:Mara#0001",
+      "doc_id": "wikipedia:Mara",
+      "title": "Mara",
+      "url": "https://en.wikipedia.org/?curid=89150",
+      "source_type": "wikipedia",
+      "score": 0.587303301692009,
+      "text": "1894 novel by Ioan Slavici Dance Club Mara, a formation dance team, Minsk, Belarus Cultural and language groupings Mara (Tagin), a tribe in Arunachal Pradesh Mara language, a language spoken by the Mara people of India and Burma Mara people Maric languages, a group of Aboriginal Australian languages also known as Mara or Maran..."
+    },
+    {
+      "chunk_id": "wikipedia:Qantas#0000",
+      "doc_id": "wikipedia:Qantas",
+      "title": "Qantas",
+      "url": "https://en.wikipedia.org/?curid=25254",
+      "source_type": "wikipedia",
+      "score": 0.5715001583099365,
+      "text": "Qantas Airways Limited ( KWON-təs), doing business as QANTAS or Qantas, is the flag carrier of Australia, and the largest airline by fleet size, international flights, and international destinations in Oceania. A founding member of the Oneworld airline alliance, it is the only airline in the world that flies to all seven continents, with it operating flights to Africa, Antarctica, Asia, Europe, North America, and South America from its hubs in Sydney, Perth, Melbourne, and Brisbane. It also flies to over 60 domestic destinations across Australia. Qantas is one of the world's oldest airlines still in operation, originally founded in November 1920. Qantas is an acronym of the airline's original name, Queensland and Northern Territory Aerial Services, as it originally served Queensland and the Northern Territory. Since then, the company has undergone several changes, including nationalisation and privatisation."
+    },
+    {
+      "chunk_id": "wikipedia:World#0000",
+      "doc_id": "wikipedia:World",
+      "title": "World",
+      "url": "https://en.wikipedia.org/?curid=38714",
+      "source_type": "wikipedia",
+      "score": 0.5683506935834884,
+      "text": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts. In scientific cosmology, the world or universe is commonly defined as \"the totality of all space and time; all that is, has been, and will be\". Theories of modality talk of possible worlds as complete and consistent ways how things could have been. Phenomenology, starting from the horizon of co-given objects present in the periphery of every experience, defines the world as the biggest horizon, or the \"horizon of all horizons\". In philosophy of mind, the world is contrasted with the mind as that which is represented by the mind."
+    },
+    {
+      "chunk_id": "wikipedia:By the People (2005 film)#0001",
+      "doc_id": "wikipedia:By the People (2005 film)",
+      "title": "By the People (2005 film)",
+      "url": "https://en.wikipedia.org/?curid=48468546",
+      "source_type": "wikipedia",
+      "score": 0.5677290469408035,
+      "text": "by the four, form a more aggressive team to fight corruption by resorting to killing corrupt individuals, their group being named \"By the people\". Angered by the suicide of a student who is mocked and refused a loan for her studies, they eventually kill the corrupt bank manager who abetted it. Soon enough, more corrupt individuals are killed, and Rajan Mathew is reinstated as S.P. to nab the group. The team learn..."
+    },
+    {
+      "chunk_id": "wikipedia:Your Choice#0001",
+      "doc_id": "wikipedia:Your Choice",
+      "title": "Your Choice",
+      "url": "https://en.wikipedia.org/?curid=67728348",
+      "source_type": "wikipedia",
+      "score": 0.5658536165952682,
+      "text": "'s World Albums Chart and debuted at number 15 on the Billboard 200. It charted nationally in 11 countries, reaching the top ten in Japan and Croatia. Background We thought the message of love is what could really console people and resonate with them, especially in these tough times that we're having. [...] This time, we wanted to use this word, \"love,\" and the concept..."
+    },
+    {
+      "chunk_id": "wikipedia:Qantas#0001",
+      "doc_id": "wikipedia:Qantas",
+      "title": "Qantas",
+      "url": "https://en.wikipedia.org/?curid=25254",
+      "source_type": "wikipedia",
+      "score": 0.5594143629074096,
+      "text": "served Queensland and the Northern Territory. Since then, the company has undergone several changes, including nationalisation and privatisation. It is popularly nicknamed \"The Flying Kangaroo\" and has the official slogan \"Spirit of Australia\". Qantas is based in the Sydney suburb of Mascot, adjacent to its main hub at Sydney Airport. As of March 2023, Qantas Group had a 60.8% share of the Australian domestic market. Various..."
+    },
+    {
+      "chunk_id": "wikipedia:American#0000",
+      "doc_id": "wikipedia:American",
+      "title": "American",
+      "url": "https://en.wikipedia.org/?curid=33775421",
+      "source_type": "wikipedia",
+      "score": 0.5537936687469482,
+      "text": "American(s) may refer to: American, something of, from, or related to the United States of America, commonly known as the \"United States\" or \"America\" Americans, citizens and nationals of the United States of America American ancestry, people who self-identify their ancestry as \"American\" American English, the set of varieties of the English language native to the United States Native Americans in the United States, indigenous peoples of the United States American, something of, from, or related to the Americas, also known as \"America\" Indigenous peoples of the Americas American (word), for analysis and history of the meanings in various contexts Organizations American Airlines, U.S.-based airline headquartered in Fort Worth, Texas American Athletic Conference, an American college athletic conference American Recordings (record label), a record label that was previously known as Def American American University, in Washington, D.C."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Three kids watching two kids fighting on ground with faces covered with country flags",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Three kids",
+          "two kids",
+          "ground",
+          "faces",
+          "country flags"
+        ]
+      },
+      "meme_captions": {
+        "text": "Poster thinks somepeople of certain countries have spectated on other countries' conflicts.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "somepeople",
+          "certain countries",
+          "other countries' conflicts"
+        ]
+      },
+      "title": {
+        "text": "World Cup 2022 Group G",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "World Cup",
+          "world",
+          "cup",
+          "group"
+        ]
+      },
+      "text": {
+        "text": "Juat Ly 0% vee (i~< _ : eos @ 4 \\ aac f} | ft . oo we N oN Coo. A f |\" ia - 1. een iy MA ° aff - ; .s ’ ’ he.’ ee a oye i— ‘i ‘ .. } a} {\\ ! AI, a x or , _s ~ ag th in ee \\~_ J, jas _ - . { i ys our aay an ee « . — . on VO Ie i Ut ey he - o-y oN oo Seo? 5 . * so ee aa . _ ' . inn x . . | oor a rane 4 \\ + ~ “ , Nery). x nd eee ne SI av alain ae",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "eos",
+          "Coo",
+          "jas",
+          "our aay",
+          "inn"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "World Cup",
+      "world",
+      "cup",
+      "group",
+      "eos",
+      "Coo",
+      "jas",
+      "our aay",
+      "inn"
+    ],
+    "secondary_terms": [
+      "Three kids",
+      "two kids",
+      "ground",
+      "faces",
+      "country flags",
+      "somepeople",
+      "certain countries",
+      "other countries' conflicts"
+    ],
+    "queries": [
+      "\"World Cup\" \"Coo\" \"our aay\" \"world\"",
+      "\"our aay\" \"world\" \"cup\" \"group\""
+    ]
+  },
+  "source_jsonl_id": null
+}

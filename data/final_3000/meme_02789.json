@@ -1,0 +1,194 @@
+{
+  "meme_id": "meme_02789",
+  "queries": [
+    "\"Musk\" \": - designated category\" \"verified\" \"government\" \"news\"",
+    "\"government\" \"news\" \"entertainment\" \"another\""
+  ],
+  "primary_terms": [
+    "verified",
+    "This account",
+    "government",
+    "news",
+    "entertainment",
+    "another",
+    ": - designated category",
+    "eran",
+    "account"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Internet#0000",
+      "doc_id": "wikipedia:Internet",
+      "title": "Internet",
+      "url": "https://en.wikipedia.org/?curid=14539",
+      "source_type": "wikipedia",
+      "score": 0.7674920678138732,
+      "text": "The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies. The Internet carries a vast range of information services and resources, such as the interlinked hypertext documents and applications of the World Wide Web (WWW), electronic mail, discussion groups, internet telephony, streaming media and file sharing. Most traditional communication media, including telephone, radio, television, paper mail, newspapers, and print publishing, have been transformed by the Internet, giving rise to new media such as email, online music, digital newspapers, news aggregators, and audio and video streaming websites."
+    },
+    {
+      "chunk_id": "wikipedia:Story#0000",
+      "doc_id": "wikipedia:Story",
+      "title": "Story",
+      "url": "https://en.wikipedia.org/?curid=152881",
+      "source_type": "wikipedia",
+      "score": 0.7461767017841339,
+      "text": "Story or stories may refer to: Common uses Narrative, an account of imaginary or real people and events Short story, a piece of prose fiction that typically can be read in one sitting News story, an event or topic reported by a news organization Storey (also spelled story in American English), a floor or level of a building Social media Story (social media), a message, image or video, often ephemeral Facebook Stories, short user-generated photo or video collections that can be uploaded to the user's Facebook Instagram Stories, a feature in Instagram that let the user post vertical images that will disappear in 24 hours Snapchat Stories, a feature in Snapchat which allows users to compile snaps into chronological storylines, accessible to all of their friends Film, television and radio Story Television, an American digital broadcast television network Story TV, a South Korean television drama production company Story (TV programme), a 2015–2016 New Zealand television programme Story,"
+    },
+    {
+      "chunk_id": "wikipedia:Propaganda#0001",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 0.7263427436351776,
+      "text": "which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites. More recently, the digital age has given rise to new ways of disseminating propaganda, for example, in computational propaganda, bots and algorithms are used to manipulate public opinion, e.g., by creating fake or biased news to spread it on social media or using chatbots to mimic real people in discussions..."
+    },
+    {
+      "chunk_id": "wikipedia:Politics#0000",
+      "doc_id": "wikipedia:Politics",
+      "title": "Politics",
+      "url": "https://en.wikipedia.org/?curid=22986",
+      "source_type": "wikipedia",
+      "score": 0.6932340919971466,
+      "text": "Politics is the set of activities that are associated with making decisions in groups, or other forms of power relations among individuals, such as the distribution of status or resources. The branch of social science that studies politics and government is referred to as political science. Politics may be used positively in the context of a \"political solution\" which is compromising and non-violent, or descriptively as \"the art or science of government\", but the word often also carries a negative connotation. The concept has been defined in various ways, and different approaches have fundamentally differing views on whether it should be used extensively or in a limited way, empirically or normatively, and on whether conflict or co-operation is more essential to it."
+    },
+    {
+      "chunk_id": "wikipedia:State#0000",
+      "doc_id": "wikipedia:State",
+      "title": "State",
+      "url": "https://en.wikipedia.org/?curid=290282",
+      "source_type": "wikipedia",
+      "score": 0.6367024093866348,
+      "text": "State most commonly refers to: State (polity), a centralized political organization that regulates law and society within a territory Sovereign state, a sovereign polity in international law, commonly referred to as a country Nation state, a state where the majority identify with a single nation (with shared culture or ethnic group) Constituent state, a political subdivision of a state Federated state, constituent states part of a federation (examples below) State of nature, a concept within philosophy that describes the way humans acted before forming societies or civilizations State may also refer to: Arts, entertainment, and media Literature State Magazine, a monthly magazine published by the U.S."
+    },
+    {
+      "chunk_id": "wikipedia:Reddit#0000",
+      "doc_id": "wikipedia:Reddit",
+      "title": "Reddit",
+      "url": "https://en.wikipedia.org/?curid=3829005",
+      "source_type": "wikipedia",
+      "score": 0.6102138519287109,
+      "text": "Reddit ( RED-it, stylized in lowercase) is an American proprietary social news aggregation and forum social media platform. Registered users (commonly referred to as \"redditors\") submit content to the site such as links, text posts, images, and videos, which are then voted up or down (\"upvoted\" or \"downvoted\") by other members. Posts are organized by subject into user-created boards called \"subreddits\". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by subreddit-specific moderators, who are unpaid volunteers. It is operated by Reddit, Inc., based in San Francisco. As of December 2025, Reddit is the sixth or seventh most-visited website in the world."
+    },
+    {
+      "chunk_id": "wikipedia:Propaganda#0000",
+      "doc_id": "wikipedia:Propaganda",
+      "title": "Propaganda",
+      "url": "https://en.wikipedia.org/?curid=23203",
+      "source_type": "wikipedia",
+      "score": 0.589991569519043,
+      "text": "Propaganda is communication that is primarily used to influence or persuade an audience to further an agenda, which may not be objective and may be selectively presenting facts to encourage a particular synthesis or perception, or using loaded language to produce an emotional rather than a rational response to the information that is being presented. Propaganda can be found in a wide variety of different contexts. Beginning in the twentieth century, the English term propaganda became associated with a manipulative approach, but historically, propaganda had been a neutral descriptive term of any material that promotes certain opinions, ideologies or concepts. A wide range of materials and media are used for conveying propaganda messages, which changed as new technologies were invented, including paintings, cartoons, posters, pamphlets, films, radio shows, TV shows, and websites."
+    },
+    {
+      "chunk_id": "wikipedia:State#0001",
+      "doc_id": "wikipedia:State",
+      "title": "State",
+      "url": "https://en.wikipedia.org/?curid=290282",
+      "source_type": "wikipedia",
+      "score": 0.5861690819263459,
+      "text": "societies or civilizations State may also refer to: Arts, entertainment, and media Literature State Magazine, a monthly magazine published by the U.S. Department of State The State (newspaper), a daily newspaper in Columbia, South Carolina, United States Our State, a monthly magazine published in North Carolina and formerly called The State The State (Larry Niven), a fictional future government in three novels by Larry Niven Music Groups and labels States Records, an American record label The State (band), Australian band previously known as the Cutters Albums State (album), a 2013 album by Todd Rundgren..."
+    },
+    {
+      "chunk_id": "wikipedia:Content#0000",
+      "doc_id": "wikipedia:Content",
+      "title": "Content",
+      "url": "https://en.wikipedia.org/?curid=426094",
+      "source_type": "wikipedia",
+      "score": 0.570136621594429,
+      "text": "Content or contents may refer to: Media Content (media), information or experience provided to audience or end-users by publishers or media producers Content industry, an umbrella term that encompasses companies owning and providing mass media and media metadata Content provider, a provider of non-core services in the telecommunications industry Free content, published material that can be used, copied, and modified without significant legal restriction Open content, published material licensed to authorize copying and modification by anyone Web content, information published on the World Wide Web Content analysis, a methodology used in the social sciences and humanities for studying the content of communication Content format, an encoded format for converting a specific type of data to displayable information Digital content, content that exists in the form of digital data Table of contents, a list of chapters or sections in a document Places Content (Centreville, Maryland) also"
+    },
+    {
+      "chunk_id": "wikipedia:Most#0001",
+      "doc_id": "wikipedia:Most",
+      "title": "Most",
+      "url": "https://en.wikipedia.org/?curid=26476214",
+      "source_type": "wikipedia",
+      "score": 0.554794430732727,
+      "text": "(MoST), a defunct American fabless semiconductor company Most (Croatian political party), a party founded in 2012 Most Radio 105.8 FM, an Indonesian radio station See also MOST (disambiguation) The Most (disambiguation) Must (disambiguation) Moest (disambiguation) All pages with titles beginning with Most All pages with titles beginning..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Elon musk looks angry at one tweet but happy at another.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Elon musk",
+          "one tweet",
+          "another"
+        ]
+      },
+      "meme_captions": {
+        "text": "Poster thinks Musk policies verify twitter accounts arbitrarily.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Musk policies"
+        ]
+      },
+      "title": {
+        "text": "are you verified?",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "verified"
+        ]
+      },
+      "text": {
+        "text": "am, D wn (a : J\\Verified account } a) . (3) This account is verified because it’s notable in ! ~ ve government, news, entertainment, or another =, : - designated category. Learn more IF 4 -- ; Got it = ; 2 f - : oy lal ar sie es? eran . _— ESN es “f sei A! us it pte he AY Wy vi ee See ee ed font sn Te OO | aE tae O + Verified account “4 Ay ee . aN ne tee 2 oN This account is verified because it’s subscribe: {LX \\ — a “ ’ Twitter Blue. Learn more if” .\\ ‘* = / yY Hy \\ Va mA. GN Co wee ’ Got it",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "This account",
+          "government",
+          "news",
+          "entertainment",
+          "another",
+          ": - designated category",
+          "eran",
+          "account"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "verified",
+      "This account",
+      "government",
+      "news",
+      "entertainment",
+      "another",
+      ": - designated category",
+      "eran",
+      "account"
+    ],
+    "secondary_terms": [
+      "Elon musk",
+      "one tweet",
+      "another",
+      "Musk policies"
+    ],
+    "queries": [
+      "\"Musk\" \": - designated category\" \"verified\" \"government\" \"news\"",
+      "\"government\" \"news\" \"entertainment\" \"another\""
+    ]
+  },
+  "source_jsonl_id": null
+}

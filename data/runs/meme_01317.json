@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_01317",
+  "queries": [
+    "\", 2 closed Left lanes\" \"Everybody traffic jamly2\" \"Every Ohioan\" \"Road\"",
+    "\"Every Ohioan\" \"Road\" \"the left\" \"every\""
+  ],
+  "primary_terms": [
+    "Every Ohioan",
+    "every",
+    "ohioan",
+    "feels",
+    "the left",
+    "all",
+    "Road",
+    "this timel",
+    ", 2 closed Left lanes",
+    "Everybody traffic jamly2"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Left- and right-hand traffic#0000",
+      "doc_id": "wikipedia:Left- and right-hand traffic",
+      "title": "Left- and right-hand traffic",
+      "url": "https://en.wikipedia.org/?curid=213380",
+      "source_type": "wikipedia",
+      "score": 1.0420257031917572,
+      "text": "Left-hand traffic (LHT) and right-hand traffic (RHT) are the practices, in bidirectional traffic, of keeping to the left side or to the right side of the road, respectively. They are fundamental to traffic flow, and are sometimes called the rule of the road. The terms right- and left-hand drive refer to the position of the driver and the steering wheel in the vehicle and are, in automobiles, the reverse of the terms right- and left-hand traffic. The rule also includes where on the road a vehicle is to be driven, if there is room for more than one vehicle in one direction, and the side on which the vehicle in the rear overtakes the one in the front. For example, a driver in an LHT country would typically overtake on the right of the vehicle being overtaken."
+    },
+    {
+      "chunk_id": "wikipedia:Middle#0001",
+      "doc_id": "wikipedia:Middle",
+      "title": "Middle",
+      "url": "https://en.wikipedia.org/?curid=854025",
+      "source_type": "wikipedia",
+      "score": 0.6827920734882355,
+      "text": "2001 \"The Middle\" (Zedd, Maren Morris and Grey song), 2018 \"Middle\", a song by Rocket from the Crypt from their 1995 album Scream, Dracula, Scream! \"The Middle\", a song by Demi Lovato from their debut album Don't Forget \"The Middle\", a song by The Doubleclicks from their album President Snakes \"The Middle\", a song by Lauren Alaina from her album Wildflower \"The Middle\", a song by Trampled by Turtles from their album Life Is Good on the Open Road Other uses The Middle (TV series..."
+    },
+    {
+      "chunk_id": "wikipedia:Common#0000",
+      "doc_id": "wikipedia:Common",
+      "title": "Common",
+      "url": "https://en.wikipedia.org/?curid=568187",
+      "source_type": "wikipedia",
+      "score": 0.6721296668052673,
+      "text": "Common may refer to: As an Irish surname, it is anglicised from Irish Gaelic surname Ó Comáin. Places Common, a townland in County Tyrone, Northern Ireland Boston Common, a central public park in Boston, Massachusetts Cambridge Common, common land area in Cambridge, Massachusetts Clapham Common, originally common land, now a park in London, UK Common Moss, a townland in County Tyrone, Northern Ireland Lexington Common, a common land area in Lexington, Massachusetts Salem Common Historic District, a common land area in Salem, Massachusetts People Common (rapper) (born 1972), American hip hop artist, actor, and poet Andrew Ainslie Common (1841–1903), English amateur astronomer Andrew Common (1889–1953), British shipping director John Common, American songwriter, musician and singer Thomas Common (1850–1919), Scottish translator and literary critic Arts, entertainment, and media Common (film), a 2014 BBC One film, written by Jimmy McGovern, on the UK's Joint Enterprise Law Dol Common, a"
+    },
+    {
+      "chunk_id": "wikipedia:Always#0000",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.6558109223842621,
+      "text": "Always may refer to: Film and television Always (1985 film), an American comedy-drama directed by Henry Jaglom Always (1989 film), an American romantic comedy-drama directed by Steven Spielberg Always (2011 film), a South Korean romantic drama directed by Song Il-gon Always: Sunset on Third Street, a 2005 Japanese drama, and two sequels \"Always\" (Castle), a 2012 TV episode \"Always\" (Chicago Fire), a 2014 TV episode \"Always\" (Dead Like Me), a 2004 TV episode \"Always\" (Friday Night Lights), a 2011 TV episode \"Always\" (NASCAR Racers), a 2000 TV episode Music Albums Always (Aziza Mustafa Zadeh album) or the title instrumental, 1993 Always (Chris Tomlin album) or the title song (see below), 2022 Always (Gabrielle album) or the title song, 2007 Always (The Gathering album) or the title song, 1992 Always (Hazell Dean album), 1988 Always (Matana Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu"
+    },
+    {
+      "chunk_id": "wikipedia:Wait#0001",
+      "doc_id": "wikipedia:Wait",
+      "title": "Wait",
+      "url": "https://en.wikipedia.org/?curid=9793262",
+      "source_type": "wikipedia",
+      "score": 0.61373211145401,
+      "text": "\"Wait\", by Chris Brown from Graffiti, 2009 \"Wait\", by Danny Chan, 1985 \"Wait\", by David Archuleta from The Other Side of Down, 2010 \"Wait\", by DIIV from Oshin, 2012 \"Wait\", by Doechii from Alligator Bites Never Heal, 2024 \"Wait\", by Earth, Wind & Fire from I Am, 1979 \"Wait\", by Everyday Sunday from Sleeper, 2001 \"Wait\", by The Kills..."
+    },
+    {
+      "chunk_id": "wikipedia:Always#0001",
+      "doc_id": "wikipedia:Always",
+      "title": "Always",
+      "url": "https://en.wikipedia.org/?curid=725800",
+      "source_type": "wikipedia",
+      "score": 0.5601512402296066,
+      "text": "Roberts album), 2015 Always (Patsy Cline album), 1980 Always (Pebbles album) or the title song, 1990 Always (Willie Nelson album), 1980 Always (Xiu Xiu album), 2012 Always: The Very Best of Erasure or the 1994 title song (see below), 2015 Always, by June Tabor, 2005 Always, by Kelli O'Hara, 2011 Always, by Michael Ball, 1993 Always..."
+    },
+    {
+      "chunk_id": "wikipedia:Your Town#0000",
+      "doc_id": "wikipedia:Your Town",
+      "title": "Your Town",
+      "url": "https://en.wikipedia.org/?curid=10652571",
+      "source_type": "wikipedia",
+      "score": 0.5424405992031097,
+      "text": "\"Your Town\" is the first single from Scottish band Deacon Blue's fourth studio album, Whatever You Say, Say Nothing (1993). It is written by Ricky Ross and produced by Steve Osborne and Paul Oakenfold. Additional versions of the single release contain various dance remixes of \"Your Town\". Released in November 1992 by Columbia Records, it peaked at number 14 on the UK Singles Chart. Track listings All songs written by Ricky Ross, except where noted: UK release 7-inch single (658786 7) \"Your Town\" [7-inch version] – 3:49 \"Almost Beautiful\" – 4:19 12-inch single (658786 6) \"Your Town\" (Perfecto mix) – 6:27 \"Your Town\" (album version) – 5:21 Cassette single (658786 4) \"Your Town\" [7-inch version] – 3:49 \"Almost Beautiful\" – 4:19 CD single (658786 2) \"Your Town\" [7-inch version] – 3:49 \"Almost Beautiful\" – 4:19 \"I've Been Making Such a Fool\" – 2:25 US release CD single (Chaos 42K 74959) \"Your Town\" (Euro 7-inch) – 3:49 \"Your Town\" (Barrio Mix radio edit) – 4:09 \"Your Town\" (Perfecto mix) –"
+    },
+    {
+      "chunk_id": "wikipedia:Loud#0001",
+      "doc_id": "wikipedia:Loud",
+      "title": "Loud",
+      "url": "https://en.wikipedia.org/?curid=229952",
+      "source_type": "wikipedia",
+      "score": 0.528680807352066,
+      "text": "USA from the 1992 album All Jets Are Gonna Fall Today \"Loud\", a song by Reks from his 2016 album The Greatest X \"Loud\", a song by Jessie J from the 2014 album Sweet Talker \"Loud\", a 2006 single by Masters at Work with Beto Cuevas \"Loud\", a song by Matt Nathanson from the 1999 album Still Waiting for Spring \"Loud\", an additional..."
+    },
+    {
+      "chunk_id": "wikipedia:Normal People#0000",
+      "doc_id": "wikipedia:Normal People",
+      "title": "Normal People",
+      "url": "https://en.wikipedia.org/?curid=59041422",
+      "source_type": "wikipedia",
+      "score": 0.5258070886135101,
+      "text": "Normal People is a 2018 novel by the Irish author Sally Rooney. Normal People is Rooney's second novel, published after Conversations with Friends (2017). It was first published by Faber & Faber on 30 August 2018. The book became a bestseller in the United States, selling almost 64,000 copies in hardcover in its first four months of release. It was also a bestseller in China, where its coming of age theme was popular with younger readers. A critically acclaimed and Emmy nominated television adaptation of the same name aired from April 2020 on BBC Three and Hulu. A number of publications ranked it one of the best books of the 2010s. Synopsis The novel follows the complex friendship and relationship between two teenagers from different social classes, Connell and Marianne, who both attend the same secondary school in County Sligo, Ireland, and, later, Trinity College Dublin (TCD). It is set during the post-2008 Irish economic downturn, from 2011 through 2015."
+    },
+    {
+      "chunk_id": "wikipedia:Your Town#0001",
+      "doc_id": "wikipedia:Your Town",
+      "title": "Your Town",
+      "url": "https://en.wikipedia.org/?curid=10652571",
+      "source_type": "wikipedia",
+      "score": 0.5184390395879745,
+      "text": "2:25 US release CD single (Chaos 42K 74959) \"Your Town\" (Euro 7-inch) – 3:49 \"Your Town\" (Barrio Mix radio edit) – 4:09 \"Your Town\" (Perfecto mix) – 6:28 \"Your Town\" (Relaxation dub) – 6:08 \"Your Town\" (Barrio mix instrumental) – 6:05 Charts Release history References"
+    }
+  ]
+}

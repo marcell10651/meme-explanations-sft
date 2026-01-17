@@ -1,0 +1,112 @@
+{
+  "meme_id": "meme_01569",
+  "queries": [
+    "\"the Sonoran desert toad\" \"National Park Service\" \"Vira BIOMED\" \"this psychedelic toad\"",
+    "\"Vira BIOMED\" \"this psychedelic toad\" \"Nparovedal\" \"its\""
+  ],
+  "primary_terms": [
+    "the Sonoran desert toad",
+    "its",
+    "called",
+    "sonoran",
+    "desert",
+    "toad",
+    "this psychedelic toad",
+    "National Park Service",
+    "igt",
+    "Vira BIOMED",
+    "Nparovedal"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Life#0000",
+      "doc_id": "wikipedia:Life",
+      "title": "Life",
+      "url": "https://en.wikipedia.org/?curid=18393",
+      "source_type": "wikipedia",
+      "score": 0.686502856016159,
+      "text": "Life is matter that has biological processes, such as signaling and the ability to sustain itself. It is defined descriptively by the capacity for homeostasis, organisation, metabolism, growth, adaptation, response to stimuli, and reproduction. All life over time eventually reaches a state of death, and none is immortal. Many philosophical definitions of living systems have been proposed, such as self-organizing systems. Defining life is further complicated by viruses, which replicate only in host cells, and the possibility of extraterrestrial life, which could be very different from life on Earth. Life exists all over the Earth in air, water, and soil, with many ecosystems forming the biosphere. Some of these are harsh environments occupied only by extremophiles. The life in a particular ecosystem is called its biota."
+    },
+    {
+      "chunk_id": "wikipedia:Tanna#0000",
+      "doc_id": "wikipedia:Tanna",
+      "title": "Tanna",
+      "url": "https://en.wikipedia.org/?curid=4651537",
+      "source_type": "wikipedia",
+      "score": 0.5346899330615997,
+      "text": "Tanna may refer to: Places Tanna (island), an island in Vanuatu Tanna, Germany, a city in Thuringia Tanna, former name of city of Thane in India People Tanna, singular form of tannaim, a Rabbinic sage recorded in the Mishna Tanna, a last name common among Lohanas Christian Tanna, a member of the rock band I Mother Earth Dan Tanna, fictional character, in the TV series Vega$ (1978–1981) Jagori Tanna, a member of the rock band I Mother Earth, brother of Christian Karishma Tanna, Indian actress Tanna Frederick, American actress Science Tanna (cicada), a genus of cicadas Tanna fruit dove, a bird endemic to Vanuatu Tanna ground dove, an extinct bird endemic to Vanuatu Tanna ornatipes, a genus of jumping spiders, synonym of Araneotanna Other Tanna, an Old High German word meaning oak from which the word tannin is derived Tanna (film), a 2015 film set on the island of Tanna, Vanuatu Tanna languages, a subgroup of the South Vanuatu languages See also Tana (disambiguation) All pages with"
+    },
+    {
+      "chunk_id": "wikipedia:Ecosystem#0001",
+      "doc_id": "wikipedia:Ecosystem",
+      "title": "Ecosystem",
+      "url": "https://en.wikipedia.org/?curid=9632",
+      "source_type": "wikipedia",
+      "score": 0.5199518263339996,
+      "text": "in the process of recovering from past disturbances. The tendency of an ecosystem to remain close to its equilibrium state, is termed its resistance. Its capacity to absorb disturbance and reorganize, while undergoing change so as to retain essentially the same function, structure, identity, is termed its ecological resilience. Ecosystems can be studied through a variety of approaches—theoretical studies, studies..."
+    },
+    {
+      "chunk_id": "wikipedia:Yeah Yeah Yeahs#0001",
+      "doc_id": "wikipedia:Yeah Yeah Yeahs",
+      "title": "Yeah Yeah Yeahs",
+      "url": "https://en.wikipedia.org/?curid=314405",
+      "source_type": "wikipedia",
+      "score": 0.45362443327903745,
+      "text": "band's fourth album, Mosquito (2013), became their highest-charting record in the United States but did not match the reception of its predecessors. The group went on a hiatus the following year and returned in 2017, performing live for the rest of the 2010s. Their fifth and most recent album, Cool It Down (2022), was released to critical acclaim. It produced the digital..."
+    },
+    {
+      "chunk_id": "wikipedia:Tanna#0001",
+      "doc_id": "wikipedia:Tanna",
+      "title": "Tanna",
+      "url": "https://en.wikipedia.org/?curid=4651537",
+      "source_type": "wikipedia",
+      "score": 0.4491187632083893,
+      "text": "2015 film set on the island of Tanna, Vanuatu Tanna languages, a subgroup of the South Vanuatu languages See also Tana (disambiguation) All pages with titles beginning with Tanna All pages with titles containing Tanna"
+    },
+    {
+      "chunk_id": "wikipedia:Green#0000",
+      "doc_id": "wikipedia:Green",
+      "title": "Green",
+      "url": "https://en.wikipedia.org/?curid=12460",
+      "source_type": "wikipedia",
+      "score": 0.43393575251102445,
+      "text": "Green is the color between cyan and yellow on the visible spectrum. It is evoked by light which has a dominant wavelength of roughly 495–570 nm. In subtractive color systems, used in painting and color printing, it is created by a combination of yellow and cyan; in the RGB color model, used on television and computer screens, it is one of the additive primary colors, along with red and blue, which are mixed in different combinations to create all other colors. By far the largest contributor to green in nature is chlorophyll, the chemical by which plants photosynthesize and convert sunlight into chemical energy. Many creatures have adapted to their green environments by taking on a green hue themselves as camouflage. Several minerals have a green color, including the emerald, which is colored green by its chromium content."
+    },
+    {
+      "chunk_id": "wikipedia:Wild#0000",
+      "doc_id": "wikipedia:Wild",
+      "title": "Wild",
+      "url": "https://en.wikipedia.org/?curid=1101278",
+      "source_type": "wikipedia",
+      "score": 0.42912477254867554,
+      "text": "Wild, wild, wilds or wild may refer to: Common meanings Wilderness, a wild natural environment Wildlife, an undomesticated organism Wildness, the quality of being wild or untamed Art, media and entertainment Film and television Wild (2014 film), a 2014 American film from the 2012 book Wild (2016 film), a 2016 German film The Wild, a 2006 Disney 3D animation film Wild (TV series), a 2006 American documentary television series The Wilds (TV series), a 2020 television series Literature Wild: From Lost to Found on the Pacific Crest Trail a 2012 non-fiction book by Cheryl Strayed Wild, An elemental Journey, a 2006 autobiographical book by Jay Griffiths The Wild (novel), a 1991 novel by Whitley Strieber The Wild, a science fiction novel by David Zindell The Wilds, a 1998 limited-edition horror novel by Richard Laymon Music Wild (band), a five-piece classical female group Albums and EPs Wild (EP), 2015 Wild, a 1999 album by Inkubus Sukkubus Wild, a 2016 album by Joanne Shaw Taylor Wild!, a"
+    },
+    {
+      "chunk_id": "wikipedia:Snake#0001",
+      "doc_id": "wikipedia:Snake",
+      "title": "Snake",
+      "url": "https://en.wikipedia.org/?curid=29370",
+      "source_type": "wikipedia",
+      "score": 0.4079888314008713,
+      "text": "bodies without limbs or with greatly reduced limbs at least twenty-five times via convergent evolution, leading to many lineages of legless lizards. These resemble snakes, but several common groups of legless lizards have eyelids and external ears, which snakes lack, although this rule is not universal (see Amphisbaenia, Dibamidae, and Pygopodidae). Living snakes are found on every continent except Antarctica, and on most smaller land masses; exceptions include some large islands, such as Ireland..."
+    },
+    {
+      "chunk_id": "wikipedia:Mara#0000",
+      "doc_id": "wikipedia:Mara",
+      "title": "Mara",
+      "url": "https://en.wikipedia.org/?curid=89150",
+      "source_type": "wikipedia",
+      "score": 0.3792203664779663,
+      "text": "Mara or MARA may refer to: Arts and entertainment Fictional characters Mara (Doctor Who), an evil being in two Doctor Who serials Mara (She-Ra), fictional characters from the She-Ra and the Princesses of Power and The New Adventures of He-Man animated series Mara Davis/Mara David/Mara del Valle, a character from Philippine drama series Mara Clara (1992 TV series) and Mara Clara (2010 TV series) Mara Jade, in the Star Wars Expanded Universe Mara Sewell, a fictional character in The Shield Mara Wade, title character of Mara of the Wilderness Mara Forest, main player character of Crow Country Other uses in arts and entertainment Mara the Lioness, an animal actor Mara (album), a 1995 album by Scottish band Runrig Mara (film), a 2018 American supernatural horror film starring Olga Kurylenko Maara, a 2021 Indian film by Dhilip Kumar Mara, an 1894 novel by Ioan Slavici Dance Club Mara, a formation dance team, Minsk, Belarus Cultural and language groupings Mara (Tagin), a tribe in Arunachal"
+    },
+    {
+      "chunk_id": "wikipedia:Centipede#0000",
+      "doc_id": "wikipedia:Centipede",
+      "title": "Centipede",
+      "url": "https://en.wikipedia.org/?curid=186495",
+      "source_type": "wikipedia",
+      "score": 0.3749294728040695,
+      "text": "Centipedes (from Neo-Latin centi-, \"hundred\", and Latin pes, pedis, \"foot\") are predatory arthropods belonging to the class Chilopoda (Ancient Greek χεῖλος, kheilos, \"lip\", and Neo-Latin suffix -poda, \"foot\", describing the forcipules) of the subphylum Myriapoda, an arthropod group which includes millipedes and other multi-legged animals. Centipedes are elongated segmented (metameric) animals with one pair of legs per body segment. All centipedes are venomous and can inflict painful stings, injecting their venom through pincer-like appendages known as forcipules or toxicognaths, which are actually modified legs instead of fangs. Despite the name, no species of centipede has exactly 100 legs; the number of pairs of legs is an odd number that ranges from 15 pairs to 191 pairs. Centipedes are predominantly generalist carnivores, hunting for a variety of prey items that can be overpowered."
+    }
+  ]
+}

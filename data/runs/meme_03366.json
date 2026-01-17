@@ -1,0 +1,115 @@
+{
+  "meme_id": "meme_03366",
+  "queries": [
+    "\"such a nice guy\" \"Pete Davidson\" \"pete\" \"such\"",
+    "\"pete\" \"such\" \"nice\" \"guy\""
+  ],
+  "primary_terms": [
+    "such a nice guy",
+    "pete",
+    "such",
+    "nice",
+    "guy",
+    "Pete Davidson",
+    "heaven",
+    "davidson",
+    "within",
+    "week",
+    "after",
+    "arrives",
+    "drain",
+    "sant"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Spider-Man#0001",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 0.7726178348064423,
+      "text": "teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J. Jonah Jameson; friends like Harry Osborn and Flash Thompson; romantic interests like Gwen Stacy, Mary Jane Watson, and the Black Cat; and enemies such as Doctor Octopus, the Green Goblin, and Venom. In his origin story, Peter gets his superhuman spider-powers and abilities after he was bitten..."
+    },
+    {
+      "chunk_id": "wikipedia:Nice 'n' Easy#0000",
+      "doc_id": "wikipedia:Nice 'n' Easy",
+      "title": "Nice 'n' Easy",
+      "url": "https://en.wikipedia.org/?curid=2733631",
+      "source_type": "wikipedia",
+      "score": 0.7121071636676788,
+      "text": "Nice 'n' Easy is the eighteenth studio album by Frank Sinatra, released on July 25, 1960. All the songs, with the notable exception of the title song, are sung as ballads and were arranged and conducted by Nelson Riddle. The title song was a last-minute substitute for the originally planned \"The Nearness of You,\" which did not appear on the original LP. The album spent nine weeks at number one on the Billboard stereo album chart, and one week at number one on the corresponding mono album chart. At the 1961 Grammy Awards, Nice 'n' Easy was nominated for the Grammy Award as Album of the Year, Best Male Vocal Performance, Best Arrangement. The song \"Nice 'n' Easy\" was released as a single in 1960 and made it to number 60 on the charts. It was also recorded by Charlie Rich in 1964, Peggy Lee in 1966, Alex Chilton in 1989, Michael Buble in 2004, Natalie Cole in 2008, and Barbra Streisand in 2011."
+    },
+    {
+      "chunk_id": "wikipedia:Mr. Harrigan's Phone#0001",
+      "doc_id": "wikipedia:Mr. Harrigan's Phone",
+      "title": "Mr. Harrigan's Phone",
+      "url": "https://en.wikipedia.org/?curid=66303173",
+      "source_type": "wikipedia",
+      "score": 0.6925163239240646,
+      "text": "Joanna, with instructions to simply read to him three times a week. Five years later, a teenage Craig and elderly Harrigan have become friends. During this time, Craig starts high school and becomes close to Ms. Hart, a teacher who comes to his aid when Kenny Yankovich, a school bully, attempts to intimidate him. After winning $3,000 from a lottery ticket that Harrigan..."
+    },
+    {
+      "chunk_id": "wikipedia:Small Faces#0000",
+      "doc_id": "wikipedia:Small Faces",
+      "title": "Small Faces",
+      "url": "https://en.wikipedia.org/?curid=167663",
+      "source_type": "wikipedia",
+      "score": 0.6912603348493576,
+      "text": "The Small Faces were an English rock band from London, founded in 1965. The group originally consisted of singer/guitarist Steve Marriott, bassist Ronnie Lane, drummer Kenney Jones and keyboardist Jimmy Winston, with Ian McLagan replacing Winston in 1966. The band were initially one of the most acclaimed and influential mod groups of the mid-1960s, with hit singles such as \"Whatcha Gonna Do About It\" (1965), \"Sha-La-La-La-Lee\" and \"All or Nothing\" (both 1966). From 1967, they evolved into one of the UK's most successful psychedelic bands, achieving further hit singles including \"Here Come the Nice\", \"Itchycoo Park\", \"Tin Soldier\" (all 1967) and \"Lazy Sunday\" (1968), the latter taken from their critically-acclaimed concept album Ogdens' Nut Gone Flake (1968), which reached No. 1 on the UK Albums Chart. In 1969, Marriott left to form Humble Pie, while Lane, Jones and McLagan continued under the shortened name the Faces with Rod Stewart and Ronnie Wood."
+    },
+    {
+      "chunk_id": "wikipedia:Sneaky Pete#0000",
+      "doc_id": "wikipedia:Sneaky Pete",
+      "title": "Sneaky Pete",
+      "url": "https://en.wikipedia.org/?curid=47942695",
+      "source_type": "wikipedia",
+      "score": 0.6644281357526779,
+      "text": "Sneaky Pete is an American comedy crime drama television series created by David Shore and Bryan Cranston. The series follows Marius Josipović (Giovanni Ribisi), a released convict who adopts the identity of his cellmate, Pete Murphy, to avoid his past life. The series also stars Marin Ireland, Shane McRae, Libe Barer, Michael Drayer, Peter Gerety and Margo Martindale. The pilot episode premiered on August 7, 2015, and was followed by a full series order that September. Shore left the project in early 2016 and was replaced by Graham Yost, who served as executive producer and showrunner for the remaining nine episodes. The first season premiered in its entirety on January 13, 2017, exclusively on Amazon Prime Video. On January 19, 2017, Amazon announced that Sneaky Pete had been renewed for a second season, which was released on March 9, 2018. On July 28, 2018, Amazon announced that the series had been renewed for a third season, which was released on May 10, 2019."
+    },
+    {
+      "chunk_id": "wikipedia:Nice#0000",
+      "doc_id": "wikipedia:Nice",
+      "title": "Nice",
+      "url": "https://en.wikipedia.org/?curid=47088",
+      "source_type": "wikipedia",
+      "score": 0.6200301468372345,
+      "text": "Nice ( NEESS; French pronunciation: [nis] ) is a French city located in the prefecture of the Alpes-Maritimes department. The Nice agglomeration extends beyond the administrative city limits, with a population of nearly one million over an area of 744 km2 (287 sq mi). Located on the French Riviera, the southeastern coast of France on the Mediterranean Sea, at the foot of the French Alps, Nice is the second-largest French city on the Mediterranean coast and second-largest city in the Provence-Alpes-Côte d'Azur region after Marseille. It is approximately 13 kilometres (8 mi) from the principality of Monaco and 30 kilometres (19 mi) from the French–Italian border. Nice's airport serves as a gateway to the region. The city is nicknamed Nice la Belle (Nissa La Bella in Niçard), meaning 'Nice the Beautiful', which is also the title of the unofficial anthem of Nice, written by Menica Rondelly."
+    },
+    {
+      "chunk_id": "wikipedia:Small Faces#0001",
+      "doc_id": "wikipedia:Small Faces",
+      "title": "Small Faces",
+      "url": "https://en.wikipedia.org/?curid=167663",
+      "source_type": "wikipedia",
+      "score": 0.6161761194467544,
+      "text": "1969, Marriott left to form Humble Pie, while Lane, Jones and McLagan continued under the shortened name the Faces with Rod Stewart and Ronnie Wood. Following the breakup of both the Faces and Humble Pie in 1975, the classic Marriott/Lane/McLagan/Jones line-up of the Small Faces re-formed after a re-release of \"Itchycoo Park\" became a top-ten hit. Lane left shortly thereafter, and was..."
+    },
+    {
+      "chunk_id": "wikipedia:Suits LA#0001",
+      "doc_id": "wikipedia:Suits LA",
+      "title": "Suits LA",
+      "url": "https://en.wikipedia.org/?curid=77433138",
+      "source_type": "wikipedia",
+      "score": 0.567888206243515,
+      "text": "their firm, taking some of the firm's lawyers and clients with him Bryan Greenberg as Rick Dodsen Recurring Maggie Grace as Amanda Stevens, a pro bono attorney who rents an office at Ted and Erica's law firm. Ted hires her as the head of criminal defense after he sees what she can do for his law firm. Troy Winbush as Kevin, a private..."
+    },
+    {
+      "chunk_id": "wikipedia:Actually#0001",
+      "doc_id": "wikipedia:Actually",
+      "title": "Actually",
+      "url": "https://en.wikipedia.org/?curid=750827",
+      "source_type": "wikipedia",
+      "score": 0.5617772102355957,
+      "text": "(1982), \"Rent\" (1984), and \"One More Chance\" which they had recorded with Bobby Orlando and released as an unsuccessful single outside the UK in 1984. \"What Have I Done to Deserve This?\" was a collaboration with songwriter Allee Willis, suggested by their manager Tom Watkins; they had hoped to include it on Please (1986) but had to wait for a response from Dusty Springfield. The duo also wrote new material. \"Hit Music\" was inspired by the Henry Mancini theme song \"Peter Gunn\" covered by Art of Noise. The music for \"I Want to Wake..."
+    },
+    {
+      "chunk_id": "wikipedia:Nice 'n' Easy#0001",
+      "doc_id": "wikipedia:Nice 'n' Easy",
+      "title": "Nice 'n' Easy",
+      "url": "https://en.wikipedia.org/?curid=2733631",
+      "source_type": "wikipedia",
+      "score": 0.5505707919597626,
+      "text": "recorded by Charlie Rich in 1964, Peggy Lee in 1966, Alex Chilton in 1989, Michael Buble in 2004, Natalie Cole in 2008, and Barbra Streisand in 2011. Nancy Sinatra recorded a cover version as a single (Reprise Records RS.20756 \"Happy\" b/w \" Nice 'n' Easy\"); it is also included in the CD version of her album \"Nancy\" as a bonus track. In 2000 it was voted number 545 in Colin Larkin's All Time Top 1000 Albums. Track listing \"Nice 'n' Easy..."
+    }
+  ]
+}

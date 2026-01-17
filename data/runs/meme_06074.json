@@ -1,0 +1,107 @@
+{
+  "meme_id": "meme_06074",
+  "queries": [
+    "\"Eminem\" \"Bottom text\" \"Imagine\" \"ins\" \"owe\"",
+    "\"ins\" \"owe\" \"bottom\" \"text\""
+  ],
+  "primary_terms": [
+    "Imagine",
+    "Bottom text",
+    "ins",
+    "owe",
+    "bottom",
+    "text"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Premium#0001",
+      "doc_id": "wikipedia:Premium",
+      "title": "Premium",
+      "url": "https://en.wikipedia.org/?curid=769137",
+      "source_type": "wikipedia",
+      "score": 0.6806169807910919,
+      "text": "texting, SMS used for delivering digital content Premium-rate telephone number, telephone numbers for which prices higher than normal are charged Brands Premium-Cola, a brand of cola from Germany Premium Brands Holdings Corporation, a Canadian specialty food manufacturing and distribution company Premium Outlets, a brand of shopping malls..."
+    },
+    {
+      "chunk_id": "wikipedia:Edit#0000",
+      "doc_id": "wikipedia:Edit",
+      "title": "Edit",
+      "url": "https://en.wikipedia.org/?curid=1239591",
+      "source_type": "wikipedia",
+      "score": 0.5803642630577087,
+      "text": "Edit may refer to: Concepts an action that is part of an editing process (including of images, video, and film) a particular version that is the result of editing, especially of film (for example, fan edit), or music (for example, radio edit) a film transition, also known as a \"cut\" a change to a computer file a change in the genome introduced via gene editing, or in the epigenome via epigenome editing edit., an abbreviation of \"edition\" Music edIT, American electronic DJ and producer Edit (album), a 2008 album by Mark Stewart \"Edit\", a song by Regina Spektor from the 2006 album Begin to Hope Other uses Edit (given name), a list of people and fictional characters Equitas Development Initiatives Trust (EDIT), established by the Equitas Small Finance Bank in India Edit (application), a simple text editor for the Apple Macintosh Edit (MS-DOS), the MS-DOS Editor, a plain-text editor for MS-DOS, included in some versions of Microsoft Windows Edits (app), an American app The Edit (film), a"
+    },
+    {
+      "chunk_id": "wikipedia:Joke#0001",
+      "doc_id": "wikipedia:Joke",
+      "title": "Joke",
+      "url": "https://en.wikipedia.org/?curid=16267",
+      "source_type": "wikipedia",
+      "score": 0.5735370278358459,
+      "text": "is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry. It is generally held that jokes benefit from brevity, containing no more detail than is needed to set the scene for the punchline at the end. In the case of riddle jokes or one-liners, the setting is implicitly understood, leaving only the dialogue..."
+    },
+    {
+      "chunk_id": "wikipedia:Post-credits scene#0000",
+      "doc_id": "wikipedia:Post-credits scene",
+      "title": "Post-credits scene",
+      "url": "https://en.wikipedia.org/?curid=6107731",
+      "source_type": "wikipedia",
+      "score": 0.5732691496610641,
+      "text": "A post-credits scene (also known as a stinger, end tag, or credit cookie) is a short teaser clip that appears after the closing credits have rolled and sometimes after a production logo of a film, TV show, or video game has run. It is usually either written for humor or to set up a sequel. Sometimes, one or more mid-credits scenes are also inserted partly through the closing credits, typically for the purpose of maintaining the audience's attention so they do not need to wait for the entire credits roll to finish for a teaser. History Post-credits scenes may have their origins in encores, an additional performance added to the end of staged shows in response to audience applause. Opera encores were common practice in the 19th century, when the story was often interrupted so a singer could repeat an aria, but fell out of favor in the 1920s due to rising emphasis on dramatic storytelling rather than vocal performance."
+    },
+    {
+      "chunk_id": "wikipedia:Charge#0000",
+      "doc_id": "wikipedia:Charge",
+      "title": "Charge",
+      "url": "https://en.wikipedia.org/?curid=6439",
+      "source_type": "wikipedia",
+      "score": 0.48864205181598663,
+      "text": "Charge or charged may refer to: Arts, entertainment, and media Films Charge, Zero Emissions/Maximum Speed, a 2011 documentary Music Charge (David Ford album) Charge (Machel Montano album) Charge!!, an album by The Aquabats Charged (Nebula album) Charged (Toshinori Kondo, Eraldo Bernocchi and Bill Laswell album) Television Charge (TV series) Charge! (TV network) \"Charged\" (Reaper), episode 2 of season one of Reaper Companies Charge Automotive Limited, an electric-vehicle manufacturer Charged Productions, an animation studio Charged Records, a record label Finance Equitable charge, confers a right on the secured party to look to a particular asset in the event of the debtor's default Floating charge, a security interest over the assets of a company Law Criminal charge, a formal accusation made before a court by a prosecuting authority Legal charge, information or indictment through a formal legal process Mathematics, science, and technology Charge (physics), the susceptibility (state of"
+    },
+    {
+      "chunk_id": "wikipedia:Down#0001",
+      "doc_id": "wikipedia:Down",
+      "title": "Down",
+      "url": "https://en.wikipedia.org/?curid=8550",
+      "source_type": "wikipedia",
+      "score": 0.47910113632678986,
+      "text": "American rapper Film and television Down (film), a 2001 English remake of the film De Lift \"Down\" (Breaking Bad), an episode of the second season of Breaking Bad \"Down\" (Into the Dark), an episode of the first season of Into the Dark Literature Down (comics), a comic book published by Top Cow Productions Down (novel), a 1997..."
+    },
+    {
+      "chunk_id": "wikipedia:Sorry#0001",
+      "doc_id": "wikipedia:Sorry",
+      "title": "Sorry",
+      "url": "https://en.wikipedia.org/?curid=343641",
+      "source_type": "wikipedia",
+      "score": 0.4739697277545929,
+      "text": "a novel by Zoran Drvenkar Music Performers Sorry (band), an English indie band Scott Sorry (1978–2025), American singer-songwriter Albums Sorry! (album) or the title song, by Catherine, 1994 Sorry (Meg Myers album) or the title song, 2015 Sorry (White Lung album), 2012 Sorry, by Mai Yamane, 1981 Sorry, by Severina, 2023 Songs \"Sorry\" (Beyoncé song), 2016 \"Sorry\" (Bic Runga song), 1999 \"Sorry\" (Buckcherry song), 2007 \"Sorry\" (Ciara song), 2012 \"Sorry\" (Doris Day song), 1967 \"Sorry\" (Easybeats song), 1966 \"Sorry\" (Grace Jones song), 1976 \"Sorry\" (Halsey song), 2017 \"Sorry\" (IDER song), 2016 \"Sorry\" (Justin Bieber song), 2015 \"Sorry\" (Madness song), 2007 \"Sorry\" (Madonna song), 2006 \"Sorry..."
+    },
+    {
+      "chunk_id": "wikipedia:Absolutely#0000",
+      "doc_id": "wikipedia:Absolutely",
+      "title": "Absolutely",
+      "url": "https://en.wikipedia.org/?curid=1914454",
+      "source_type": "wikipedia",
+      "score": 0.46661725640296936,
+      "text": "Absolutely may refer to: Absolutely (Boxer album), the second rock music album recorded by the band Boxer ABsolutely (stylized with initial capital letters), the stage name of British singer-songwriter, Abby-Lynn Keen Absolutely (Madness album), the 1980 second album from the British ska band Madness Absolutely (ABC album), a comprehensive greatest hits package released in 1990 by the band ABC Absolutely (Eurogliders album), the third studio album by Australian Indie pop, rock band Eurogliders \"Absolutely\" (Eurogliders song), a song from the aforementioned album. Absolutely (Rik Emmett album), the debut solo album by the Canadian rock guitarist Rik Emmett Absolutely (Sister Hazel album), Sister Hazel's sixth studio album \"Absolutely (Story of a Girl)\", a 2000 song by Nine Days \"Absolutely\", a 2004 song by 213 on their debut album The Hard Way Absolutely (TV series), a British comedy sketch show Abso Lutely Productions, a production company started by Tim Heidecker and Eric Wareheim"
+    },
+    {
+      "chunk_id": "wikipedia:Check#0001",
+      "doc_id": "wikipedia:Check",
+      "title": "Check",
+      "url": "https://en.wikipedia.org/?curid=182343",
+      "source_type": "wikipedia",
+      "score": 0.41651853919029236,
+      "text": "by Kojo Funds featuring Raye from Golden Boy, 2018 \"Check\", a song by Lil Durk from Lil Durk 2X, 2016 \"Check\", a song by Max Webster from Universal Juveniles, 1980 \"Check\", a song by Nas and Rick Ross from the soundtrack to Creed II, 2015 \"Check\", a song by Quin NFN, from 4Nun, 2019 \"Check\", a song by Qveen Herby from EP 8..."
+    },
+    {
+      "chunk_id": "wikipedia:Instagram#0000",
+      "doc_id": "wikipedia:Instagram",
+      "title": "Instagram",
+      "url": "https://en.wikipedia.org/?curid=31591547",
+      "source_type": "wikipedia",
+      "score": 0.4102237343788147,
+      "text": "Instagram is an American photo and short-form video sharing social networking service owned by Meta Platforms. It allows users to upload media that can be edited with filters, be organized by hashtags, and be associated with a location via geographical tagging. Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tags and locations, view trending content, like photos, and follow other users to add their content to a personal feed. A Meta-operated image-centric social media platform, it is available on iOS, Android, Windows 10, and the web. Users can take photos and edit them using built-in filters and other tools, then share them on other social media platforms like Facebook. It supports 33 languages including English, Hindi, Spanish, French, Japanese, and Korean. Instagram was originally distinguished by allowing content to be framed only in a square (1:1) aspect ratio of 640 pixels to match the display width of the iPhone at the time."
+    }
+  ]
+}

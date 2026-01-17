@@ -1,0 +1,199 @@
+{
+  "meme_id": "meme_02707",
+  "queries": [
+    "\"Spiderman The\" \"Spiderman\" \"rideriman\" \"spiderimans\" \"piderimang\"",
+    "\"spiderimans\" \"piderimang\" \"tra\" \"arid\""
+  ],
+  "primary_terms": [
+    "Spiderman",
+    "rideriman",
+    "spiderimans",
+    "srideriman",
+    "piderimang",
+    "tra",
+    "arid",
+    "bee",
+    "pos",
+    "aon"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Spider-Man#0000",
+      "doc_id": "wikipedia:Spider-Man",
+      "title": "Spider-Man",
+      "url": "https://en.wikipedia.org/?curid=27936",
+      "source_type": "wikipedia",
+      "score": 1.039685195684433,
+      "text": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Considered one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays. Spider-Man is the secret identity of Peter Benjamin Parker, who was raised by his Aunt May and Uncle Ben in Queens, New York City, after the death of his parents. Lee, Ditko, and later writers had the character deal with the struggles of adolescence and young adulthood. Readers identified with his self-doubt and loneliness. Unlike previous teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters, such as his Daily Bugle boss J."
+    },
+    {
+      "chunk_id": "wikipedia:Spider#0000",
+      "doc_id": "wikipedia:Spider",
+      "title": "Spider",
+      "url": "https://en.wikipedia.org/?curid=28329803",
+      "source_type": "wikipedia",
+      "score": 1.0286658227443695,
+      "text": "Spiders (order Araneae) are air-breathing arthropods that have eight limbs, chelicerae with fangs generally able to inject venom, and spinnerets that extrude silk. They are the largest order of arachnids and rank seventh in total species diversity among all orders of organisms. Spiders are found worldwide on every continent except Antarctica, and have become established in nearly every land habitat. As of December 2025, 53,608 spider species in 139 families have been recorded by taxonomists. However, there has been debate among scientists about how families should be classified, with over 20 different classifications proposed since 1900. Anatomically, spiders (as with all arachnids) differ from other arthropods in that the usual body segments are fused into two tagmata, the cephalothorax or prosoma, and the opisthosoma, or abdomen, and joined by a small, cylindrical pedicel."
+    },
+    {
+      "chunk_id": "wikipedia:Superhero#0001",
+      "doc_id": "wikipedia:Superhero",
+      "title": "Superhero",
+      "url": "https://en.wikipedia.org/?curid=43076",
+      "source_type": "wikipedia",
+      "score": 0.818389219045639,
+      "text": "media (including kamishibai, tokusatsu, manga, anime and video games). Superheroes come from a wide array of different backgrounds and origins. Most superheroes (for example, Superman and Spider-Man) usually possess non-human or superhuman biology, while others (such as Batman and Iron Man) derive their status from advanced technology they create and use; others may use or possess objects that have superhuman, mystical, or alien powers (such as Green Lantern and He-Man), or study and practice magic to achieve their abilities (such as Doctor Fate and Doctor Strange). The Dictionary.com definition of \"superhero\" is \"a..."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0001",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.5920424461364746,
+      "text": "of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a music genre Horrorcore, a subgenre of hip hop music based on horror Horror game, a video game genre Survival horror, a video game subgenre of horror and action-adventure Horror podcast, a podcast..."
+    },
+    {
+      "chunk_id": "wikipedia:Spider#0001",
+      "doc_id": "wikipedia:Spider",
+      "title": "Spider",
+      "url": "https://en.wikipedia.org/?curid=28329803",
+      "source_type": "wikipedia",
+      "score": 0.5533080697059631,
+      "text": "body segments are fused into two tagmata, the cephalothorax or prosoma, and the opisthosoma, or abdomen, and joined by a small, cylindrical pedicel. However, as there is currently neither paleontological nor embryological evidence that spiders ever had a separate thorax-like division, there exists an argument against the validity of the term cephalothorax, which means fused cephalon (head) and the thorax. Similarly, arguments can be formed against the use of..."
+    },
+    {
+      "chunk_id": "wikipedia:Geralt of Rivia#0001",
+      "doc_id": "wikipedia:Geralt of Rivia",
+      "title": "Geralt of Rivia",
+      "url": "https://en.wikipedia.org/?curid=14276148",
+      "source_type": "wikipedia",
+      "score": 0.5318495988845825,
+      "text": "over the role from the fourth season onward. Fictional biography Novels Geralt is a witcher, a magical mutant made for hunting and killing monsters. Shortly after being born, Geralt's mother, Visenna, gives him away to undergo training and, eventually, become a witcher at the School of the Wolf at Kaer Morhen – the stronghold of the Wolven school witchers. His mentor and father figure there was a wise man and warrior named Vesemir. Geralt survives mutations during the Trial..."
+    },
+    {
+      "chunk_id": "wikipedia:Superman#0000",
+      "doc_id": "wikipedia:Superman",
+      "title": "Superman",
+      "url": "https://en.wikipedia.org/?curid=28381",
+      "source_type": "wikipedia",
+      "score": 0.5307595252990722,
+      "text": "Superman is a superhero created by writer Jerry Siegel and artist Joe Shuster, first appearing in issue #1 of Action Comics, published in the United States on April 18, 1938. Superman has been regularly published in American comic books since then, and has been adapted to other media including radio serials, novels, films, television shows, theater, and video games. Superman is the archetypal superhero: he wears an outlandish costume, uses a codename, and fights evil and averts disasters with the aid of extraordinary abilities. Although there are earlier characters who arguably fit this definition, it was Superman who popularized the superhero genre and established its conventions. He was the best-selling superhero in American comic books up until the 1980s; it is also the best-selling comic book series in the world with 600 million copies sold. Superman was born Kal-El, on the fictional planet Krypton."
+    },
+    {
+      "chunk_id": "wikipedia:Hulk#0000",
+      "doc_id": "wikipedia:Hulk",
+      "title": "Hulk",
+      "url": "https://en.wikipedia.org/?curid=31509",
+      "source_type": "wikipedia",
+      "score": 0.5267615437507629,
+      "text": "The Hulk is a superhero appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962). In his comic book appearances, the character, who has dissociative identity disorder (DID), is primarily represented by the alter ego Hulk, an immense, green-skinned, hulking brute, possessing a limitless degree of physical strength, and the alter ego Dr. Robert Bruce Banner, a physically weak, socially withdrawn, and emotionally reserved physicist, both of whom typically resent each other. Lee stated that the Hulk's creation was inspired by a combination of Frankenstein and Dr. Jekyll and Mr. Hyde. Following his accidental exposure to gamma rays while saving the life of Rick Jones during the detonation of an experimental bomb, Banner is physically transformed into the Hulk when subjected to emotional stress, at or against his will."
+    },
+    {
+      "chunk_id": "wikipedia:Corona#0001",
+      "doc_id": "wikipedia:Corona",
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/?curid=586725",
+      "source_type": "wikipedia",
+      "score": 0.4809555262327194,
+      "text": "into Smith Corona in 1926 Corona, a version of Microsoft's Xbox 360 Chaos Corona, rendering software Entertainment, arts and media Fictional entities Corona (fictional world), in R. A. Salvatore's DemonWars novels Corona, a character in the game Doraemon: Nobita to Mittsu no Seireiseki Corona, a character in the Spider..."
+    },
+    {
+      "chunk_id": "wikipedia:Godzilla#0000",
+      "doc_id": "wikipedia:Godzilla",
+      "title": "Godzilla",
+      "url": "https://en.wikipedia.org/?curid=11986",
+      "source_type": "wikipedia",
+      "score": 0.4694341540336609,
+      "text": "Godzilla ( ɡod-ZIL-ə) is a monster, or kaiju, that debuted in the eponymous 1954 film, directed and co-written by Ishirō Honda. The character has since become an international pop culture icon, appearing in various media: 33 Japanese films produced by Toho Co., Ltd., five American films, and numerous video games, novels, comic books, and television shows. Godzilla has been dubbed the King of the Monsters, an epithet first used in Godzilla, King of the Monsters! (1956), the American localization of the 1954 film. Originally and in most iterations of the creature, Godzilla is a colossal prehistoric reptilian or dinosaurian monster that is amphibious or resides partially in the ocean, awakened and empowered after many years by exposure to nuclear radiation and nuclear testing. With the nuclear bombings of Hiroshima and Nagasaki and the Lucky Dragon 5 incident still fresh in the Japanese consciousness, Godzilla was conceived as a metaphor for nuclear weapons."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "Four spidermans are all pointing at each other.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Four spidermans"
+        ]
+      },
+      "meme_captions": {
+        "text": "The meme poster is teasing Twitter for selling the verification tick to everyone and its consequences.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Twitter",
+          "the verification tick",
+          "everyone",
+          "its consequences"
+        ]
+      },
+      "title": {
+        "text": "Spiderman",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "Spiderman"
+        ]
+      },
+      "text": {
+        "text": "' a P, ; J . a RIDERIMAN SPIDERIMANS SRIDERIMAN PIDERIMANG fs} yg a 7 ——— ? - oe - te ao } ‘ . nr “ w-, . . _<. f . \\ | ! ww ! to tra a aa : , \\ ’ _ : vy : f os ; a arid bee , . | . yf . ‘ ‘a : e\" f ~~! xe * : ‘ 4 ‘ ! ( —~_ 7 oe . Ve . . . oe ‘ ; an a . y \\ . . . ; . m ‘ ’ ' pos 1? i , . | . - oo , , + : zy aon",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "rideriman",
+          "spiderimans",
+          "srideriman",
+          "piderimang",
+          "tra",
+          "arid",
+          "bee",
+          "pos",
+          "aon"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "Spiderman",
+      "rideriman",
+      "spiderimans",
+      "srideriman",
+      "piderimang",
+      "tra",
+      "arid",
+      "bee",
+      "pos",
+      "aon"
+    ],
+    "secondary_terms": [
+      "Four spidermans",
+      "Twitter",
+      "the verification tick",
+      "everyone",
+      "its consequences"
+    ],
+    "queries": [
+      "\"Spiderman The\" \"Spiderman\" \"rideriman\" \"spiderimans\" \"piderimang\"",
+      "\"spiderimans\" \"piderimang\" \"tra\" \"arid\""
+    ]
+  },
+  "source_jsonl_id": null
+}

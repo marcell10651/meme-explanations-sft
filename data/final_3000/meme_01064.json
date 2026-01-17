@@ -1,0 +1,189 @@
+{
+  "meme_id": "meme_01064",
+  "queries": [
+    "\"one\" \"day\" \"late\" \"halloween\"",
+    "\"late\" \"halloween\" \"posting\" \"spooky\""
+  ],
+  "primary_terms": [
+    "one",
+    "day",
+    "late",
+    "spooky memes",
+    "halloween",
+    "posting",
+    "spooky",
+    "days",
+    "before"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:October#0000",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.87106152176857,
+      "text": "October is the 10th month of the year in the Julian and Gregorian calendars. Its length is 31 days. The eighth month in the old calendar of Romulus c. 750 BC, October retained its name (from Latin and Greek ôctō meaning \"eight\") after January and February were inserted into the calendar that had originally been created by the Romans. In Ancient Rome, one of three Mundus patet would take place on October 5, Meditrinalia October 11, Augustalia on October 12, October Horse on October 15, and Armilustrium on October 19. These dates do not correspond to the modern Gregorian calendar. Among the Anglo-Saxons, it was known as Winterfylleth (Ƿinterfylleþ), because at this full moon, winter was supposed to begin. October is commonly associated with the season of autumn in parts of the Northern Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa."
+    },
+    {
+      "chunk_id": "wikipedia:Horror#0000",
+      "doc_id": "wikipedia:Horror",
+      "title": "Horror",
+      "url": "https://en.wikipedia.org/?curid=47089891",
+      "source_type": "wikipedia",
+      "score": 0.7828499436378479,
+      "text": "Horror may refer to: Arts, entertainment, and media Genres Horror fiction, a genre of fiction Psychological horror, a subgenre of horror fiction Christmas horror, a subgenre of horror fiction Analog horror, a subgenre of horror fiction Erotic horror, a subgenre of horror fiction Space horror, a subgenre of horror fiction Folk horror, a subgenre of horror fiction Japanese horror, Japanese horror fiction Korean horror, Korean horror fiction Horror film, a film genre Art horror, a subgenre of horror film Body horror, a subgenre of horror film Comedy horror, a subgenre of horror film Erotic horror film, a subgenre of horror film Slasher film, a subgenre of horror film Splatter film, a subgenre of horror film Supernatural horror film, a subgenre of horror film Psychological horror film, a subgenre of horror film Postmodern horror, a subgenre of horror film Indonesian horror, Indonesian horror film Thai horror, Thai horror film Horror comics, comic books focusing on horror Horror punk, a"
+    },
+    {
+      "chunk_id": "wikipedia:Trick#0001",
+      "doc_id": "wikipedia:Trick",
+      "title": "Trick",
+      "url": "https://en.wikipedia.org/?curid=274735",
+      "source_type": "wikipedia",
+      "score": 0.7228965818881988,
+      "text": "Andrzej Jakimowski Trick (2010 film), Polish film by Jan Hryniak Trick (2019 film), American Halloween-themed horror film The Trick (film), a 2021 BBC film about the Climatic Research Unit email controversy Literature Trick (novel), a 2015 novel by Natalia Jaster Tricks, a 1979 chronicle of homosexual encounters by Renaud Camus Tricks..."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0001",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.7077723175287247,
+      "text": "sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep. Synonyms In boarding schools and on trips or holidays that involve young people, the equivalent of bedtime is lights out or lights-out - this term is also used in prisons, hospitals, in the military, and in sleep research..."
+    },
+    {
+      "chunk_id": "wikipedia:Bedtime#0000",
+      "doc_id": "wikipedia:Bedtime",
+      "title": "Bedtime",
+      "url": "https://en.wikipedia.org/?curid=8982920",
+      "source_type": "wikipedia",
+      "score": 0.6592917114496231,
+      "text": "Bedtime (also called putting to bed or tucking in) is a ritual part of parenting to help children feel more secure and become accustomed to a more rigid schedule of sleep than they might prefer. The ritual of bedtime is aimed at facilitating the transition from wakefulness to sleep. It may involve bedtime stories, children's songs, nursery rhymes, bed-making and getting children to change into nightwear. In some religious households, prayers are said shortly before going to bed. Sleep training may be part of the bedtime ritual for babies and toddlers. In adult use, the term means simply \"time for bed\", similar to curfew, as in \"It's past my bedtime\". Some people are accustomed to drinking a nightcap or herbal tea at bedtime. Sleeping coaches are also used to help individuals reach their bedtime goals. Researchers studying sleep are finding patterns revealing that cell phone use at night disturbs going to sleep at one's bedtime and achieving a good night's sleep."
+    },
+    {
+      "chunk_id": "wikipedia:Ghost#0001",
+      "doc_id": "wikipedia:Ghost",
+      "title": "Ghost",
+      "url": "https://en.wikipedia.org/?curid=12514",
+      "source_type": "wikipedia",
+      "score": 0.6488828659057617,
+      "text": "practices—funeral rites, exorcisms, and some practices of spiritualism and ritual magic—are specifically designed to rest the spirits of the dead. Ghosts are generally described as solitary, human-like essences, though stories of ghostly armies and the ghosts of animals other than humans have also been recounted. They are believed to haunt particular locations, objects, or people they were associated..."
+    },
+    {
+      "chunk_id": "wikipedia:Ghost#0000",
+      "doc_id": "wikipedia:Ghost",
+      "title": "Ghost",
+      "url": "https://en.wikipedia.org/?curid=12514",
+      "source_type": "wikipedia",
+      "score": 0.6232758462429047,
+      "text": "In folklore, a ghost is the soul or spirit of a dead person or non-human animal that is believed by some people to be able to appear to the living. In ghostlore, descriptions of ghosts vary widely, from an invisible presence to translucent or barely visible wispy shapes to realistic, lifelike forms, whether they resemble humans or animals. The deliberate attempt to contact the spirit of a deceased person is known as necromancy, or in spiritism as a séance. Other terms associated with it are apparition, haunt, haint, phantom, poltergeist, shade, specter, spirit, spook, wraith, demon, and ghoul. The belief in the existence of an afterlife, as well as manifestations of the spirits of the dead, is widespread, dating back to animism or ancestor worship in pre-literate cultures. Certain religious practices—funeral rites, exorcisms, and some practices of spiritualism and ritual magic—are specifically designed to rest the spirits of the dead."
+    },
+    {
+      "chunk_id": "wikipedia:Costume#0000",
+      "doc_id": "wikipedia:Costume",
+      "title": "Costume",
+      "url": "https://en.wikipedia.org/?curid=7673",
+      "source_type": "wikipedia",
+      "score": 0.6227406173944473,
+      "text": "Costume is the distinctive style of dress and/or makeup of an individual or group that reflects class, gender, occupation, ethnicity, nationality, activity or epoch—in short, culture. The term also was traditionally used to describe typical appropriate clothing for certain activities, such as riding costume, swimming costume, dance costume, and evening costume. Appropriate and acceptable costume is subject to changes in fashion and local cultural norms. \"But sable is worn more in carriages, lined with real lace over ivory satin, and worn over some smart costume suitable for an afternoon reception.\" A Woman's Letter from London (23 November 1899). This general usage has gradually been replaced by the terms \"dress\", \"attire\", \"robes\" or \"wear\" and usage of \"costume\" has become more limited to unusual or out-of-date clothing and to attire intended to evoke a change in identity, such as theatrical, Halloween, and mascot costumes."
+    },
+    {
+      "chunk_id": "wikipedia:October#0001",
+      "doc_id": "wikipedia:October",
+      "title": "October",
+      "url": "https://en.wikipedia.org/?curid=22332",
+      "source_type": "wikipedia",
+      "score": 0.6079184174537658,
+      "text": "Hemisphere, and spring in parts of the Southern Hemisphere, where it is the seasonal equivalent to April in the Northern Hemisphere and vice versa. Symbols October's birthstones are the tourmaline and opal. Its birth flower is the calendula. The zodiac signs are Libra (until October 22) and Scorpio (from October 23 onward). Observances This list does not necessarily imply either official status..."
+    },
+    {
+      "chunk_id": "wikipedia:Birthday#0000",
+      "doc_id": "wikipedia:Birthday",
+      "title": "Birthday",
+      "url": "https://en.wikipedia.org/?curid=20903181",
+      "source_type": "wikipedia",
+      "score": 0.5734810113906861,
+      "text": "A birthday is the anniversary of the birth of a person or the figurative birth of an institution. Birthdays of people are celebrated in numerous cultures, often with birthday gifts, birthday cards, a birthday party, or a rite of passage. Many religions celebrate the birth of their founders or religious figures with special holidays (e.g. Christmas, Mawlid, Buddha's Birthday, Krishna Janmashtami, and Gurpurb). There is a distinction between birthday and birthdate (also known as date of birth): the former, except for February 29, occurs each year (e.g. January 15), while the latter is the complete date when a person was born (e.g. January 15, 2001). Coming of age In most legal systems, one becomes a legal adult on a particular birthday when they reach the age of majority (usually between 12 and 21), and reaching age-specific milestones confers particular rights and responsibilities."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A pumpkin which appears to have red glowing eyes",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "which",
+          "red glowing eyes"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster unregretful eyes when posting a halloween the day after.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": []
+      },
+      "title": {
+        "text": "what do you mean i'm one day late?",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "one",
+          "day",
+          "late"
+        ]
+      },
+      "text": {
+        "text": "me posting spooky memes 364 days before halloween",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "spooky memes",
+          "halloween",
+          "posting",
+          "spooky",
+          "days",
+          "before"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "one",
+      "day",
+      "late",
+      "spooky memes",
+      "halloween",
+      "posting",
+      "spooky",
+      "days",
+      "before"
+    ],
+    "secondary_terms": [
+      "which",
+      "red glowing eyes"
+    ],
+    "queries": [
+      "\"one\" \"day\" \"late\" \"halloween\"",
+      "\"late\" \"halloween\" \"posting\" \"spooky\""
+    ]
+  },
+  "source_jsonl_id": null
+}

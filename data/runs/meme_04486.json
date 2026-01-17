@@ -1,0 +1,110 @@
+{
+  "meme_id": "meme_04486",
+  "queries": [
+    "\"Strength Resistance Training\" \"Training Hest\" \"the limit\" \"push\"",
+    "\"the limit\" \"push\" \"limit\" \"resistance\""
+  ],
+  "primary_terms": [
+    "the limit",
+    "push",
+    "limit",
+    "Strength Resistance Training",
+    "Training Hest",
+    "resistance",
+    "training",
+    "hest",
+    "andy"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Ability#0001",
+      "doc_id": "wikipedia:Ability",
+      "title": "Ability",
+      "url": "https://en.wikipedia.org/?curid=68698578",
+      "source_type": "wikipedia",
+      "score": 0.5478832423686981,
+      "text": "Phelps has the ability to swim 200 meters in under 2 minutes because he would do so if he tried to. This approach has been criticized in various ways. Some counterexamples involve cases in which the agent is physically able to do something but unable to try, due to a strong aversion. In order to avoid these and other counterexamples, various alternative approaches have been suggested. Modal theories of ability, for example, focus on what is possible..."
+    },
+    {
+      "chunk_id": "wikipedia:Lockdown#0001",
+      "doc_id": "wikipedia:Lockdown",
+      "title": "Lockdown",
+      "url": "https://en.wikipedia.org/?curid=2530301",
+      "source_type": "wikipedia",
+      "score": 0.53631991147995,
+      "text": "to address an unusual scenario or a weakness in system to preempt any danger to ensure the safety and security of people, organisation and system. The focus for preventive actions is to avoid dangers and risks arising from the nonconformity to the normal circumstances, but also commonly includes improvements in efficiency. Preventive lockdowns are preemptive lockdowns..."
+    },
+    {
+      "chunk_id": "wikipedia:Hard#0000",
+      "doc_id": "wikipedia:Hard",
+      "title": "Hard",
+      "url": "https://en.wikipedia.org/?curid=732244",
+      "source_type": "wikipedia",
+      "score": 0.5167762100696563,
+      "text": "Hard means something that is difficult to do. It may also refer to: Hardness, resistance of physical materials to deformation or fracture Hard water, water with high mineral content Arts and entertainment Hard (TV series), a French TV series Hard (band), a Hungarian hard rock supergroup Hard (music festival), in the U.S. Albums Hard (EP), Goodbye Mr Mackenzie, 1993 Hard (Brainpower album), 2008 Hard (Gang of Four album), 1983 Hard (Jagged Edge album), 2003 Hard (Shinee album), 2023, and its title track Hard, a 2017 EP from the band The Neighbourhood Songs \"Hard\" (Rihanna song), 2009 \"Hard\" (Sophie song), 2014 \"Hard\", a song by Royce da 5'9\" from the 2016 album Layers \"Hard\", a song by Why Don't We from the 2018 album 8 Letters \"Hard\", a song by Poppy from the 2023 album Zig Places Hard, Austria Hard (Zürich), Switzerland Other uses Hard (surname) Hard architecture, impersonal windowless buildings with graffiti-resistant walls usually associated with prisons and other secure structures"
+    },
+    {
+      "chunk_id": "wikipedia:Greedy#0000",
+      "doc_id": "wikipedia:Greedy",
+      "title": "Greedy",
+      "url": "https://en.wikipedia.org/?curid=1376590",
+      "source_type": "wikipedia",
+      "score": 0.48872033357620237,
+      "text": "Someone who is greedy is consumed with selfish desires. Greedy may also refer to: Music Greedy (album), an album by Headless Chickens, 1997 Greedy, an album by Mekdes, 2022 \"Greedy\" (Ariana Grande song), 2016 \"Greedy\" (Tate McRae song), 2023 \"Greedy\", a song by All from Mass Nerder, 1998 \"Greedy\", a song by The Away Team from Training Day, 2007 \"Greedy\", a song by Lyfe Jennings from Lyfe 268‒192, 2004 \"Greedy\", a song by Pure, 1993 \"Greedy\", a song by Rich the Kid from Keep Flexin, 2016 \"Greedy\", a song by PartyNextDoor and Drake from Some Sexy Songs 4 U, 2025 People Greedy Smith (1956–2019), pseudonym of Andrew McArthur Smith, singer, musician and songwriter with the Australian pop/new wave band Mental As Anything Greedy Vance Jr."
+    },
+    {
+      "chunk_id": "wikipedia:More#0000",
+      "doc_id": "wikipedia:More",
+      "title": "More",
+      "url": "https://en.wikipedia.org/?curid=43850",
+      "source_type": "wikipedia",
+      "score": 0.4624396860599518,
+      "text": "More may refer to: Computing MORE (application), outline software for Mac OS more (command), a shell command MORE protocol, a routing protocol Missouri Research and Education Network Music Albums More! (album), by Booka Shade, 2010 More (soundtrack), by Pink Floyd with music from the 1969 film More... (Trace Adkins album), or the title song, 1999 More (Mary Alessi album), 2005 More (Beyoncé EP), 2014 More (Michael Bublé EP), 2005 More (Clarke-Boland Big Band album), 1968 More (Double Dagger album), 2009 More... (Montell Jordan album), 1996 More (Crystal Lewis album), 2001 More (Giuseppi Logan album), 1966 More (No Mercy album), 1998 More (No Trend album), 2001 More (Jeremy Riddle album), or the title song, 2017 More (Pulp album), 2025 More (Symphony Number One album), 2016 More (Tamia album), or the title song, 2004 More (Vitamin C album), 2001 More, by Mylon LeFevre, 1983 More, by Resin Dogs, 2007 Songs \"More\" (Alex Alstone and Tom Glazer song), popularized by Perry Como, 1956 \"More\""
+    },
+    {
+      "chunk_id": "wikipedia:Ability#0000",
+      "doc_id": "wikipedia:Ability",
+      "title": "Ability",
+      "url": "https://en.wikipedia.org/?curid=68698578",
+      "source_type": "wikipedia",
+      "score": 0.45220503211021423,
+      "text": "Abilities are powers an agent has to perform various actions. They include common abilities, like walking, and rare abilities, like performing a double backflip. Abilities are intelligent powers: they are guided by the person's intention and executing them successfully results in an action, which is not true for all types of powers. They are closely related to but not identical with various other concepts, such as disposition, know-how, aptitude, talent, potential, and skill. Theories of ability aim to articulate the nature of abilities. Traditionally, the conditional analysis has been the most popular approach. According to it, having an ability means one would perform the action in question if one tried to do so. On this view, Michael Phelps has the ability to swim 200 meters in under 2 minutes because he would do so if he tried to. This approach has been criticized in various ways."
+    },
+    {
+      "chunk_id": "wikipedia:Lockdown#0000",
+      "doc_id": "wikipedia:Lockdown",
+      "title": "Lockdown",
+      "url": "https://en.wikipedia.org/?curid=2530301",
+      "source_type": "wikipedia",
+      "score": 0.44887775182724,
+      "text": "A lockdown ( ) is a restriction policy for people, community or a country to stay where they are, usually due to specific risks that could possibly harm the people if they move and interact freely. The term is used for a prison protocol that usually prevents people, information or objects from leaving an area. The protocol can usually only be initiated by someone in a position of authority. A lockdown can also be used to protect people inside a facility or, for example, a computing system, from a threat or other external event. In buildings doors leading outside are usually locked so that no person may enter or exit. Types Lockdowns may be adopted as a preventative measure or in response to a crisis as an emergency measure. Preventive lockdown A preventive lockdown is a preemptive action plan implemented to address an unusual scenario or a weakness in system to preempt any danger to ensure the safety and security of people, organisation and system."
+    },
+    {
+      "chunk_id": "wikipedia:Train#0000",
+      "doc_id": "wikipedia:Train",
+      "title": "Train",
+      "url": "https://en.wikipedia.org/?curid=30598",
+      "source_type": "wikipedia",
+      "score": 0.42842735946178434,
+      "text": "A train (from Old French trahiner, from Latin trahere, \"to pull, to draw\") is a series of connected vehicles that run along a railway track and transport people or freight. Trains are typically pulled or pushed by locomotives (often known simply as \"engines\"), though some are self-propelled, such as multiple units or railcars. Passengers and cargo are carried in railroad cars, also known as wagons or carriages. Trains are designed to a certain gauge, or distance between rails. Most trains operate on steel tracks with steel wheels, the low friction of which makes them more efficient than other forms of transport. Many countries use rail transport. Trains have their roots in wagonways, which used railway tracks and were powered by horses or pulled by cables. Following the invention of the steam locomotive in the United Kingdom in 1802, trains rapidly spread around the world, allowing freight and passengers to move over land faster and cheaper than ever possible before."
+    },
+    {
+      "chunk_id": "wikipedia:Infinity#0000",
+      "doc_id": "wikipedia:Infinity",
+      "title": "Infinity",
+      "url": "https://en.wikipedia.org/?curid=20110824",
+      "source_type": "wikipedia",
+      "score": 0.37491569519042967,
+      "text": "Infinity is something which is boundless, limitless, endless. It is denoted by ∞, called the infinity symbol. From the time of the ancient Greeks, the philosophical nature of infinity has been the subject of many discussions. In the 17th century, with the introduction of the infinity symbol and the infinitesimal calculus, mathematicians began to work with infinite series and what some mathematicians (including l'Hôpital and Bernoulli) regarded as infinitely small quantities, but infinity continued to be associated with endless processes. As mathematicians struggled with the foundation of calculus, it remained unclear whether infinity could be considered as a number or magnitude and, if so, how this could be done. At the end of the 19th century, Georg Cantor enlarged the mathematical study of infinity by studying infinite sets and infinite numbers, showing that they can be of various sizes."
+    },
+    {
+      "chunk_id": "wikipedia:Sone#0000",
+      "doc_id": "wikipedia:Sone",
+      "title": "Sone",
+      "url": "https://en.wikipedia.org/?curid=215436",
+      "source_type": "wikipedia",
+      "score": 0.3540133088827133,
+      "text": "The sone () is a unit of loudness, the subjective perception of sound pressure. The study of perceived loudness is included in the topic of psychoacoustics and employs methods of psychophysics. Doubling the perceived loudness doubles the sone value. Proposed by Stanley Smith Stevens in 1936, it is not an SI unit. Definition and conversions According to Stevens' definition, a loudness of 1 sone is equivalent to 40 phons (a 1 kHz tone at 40 dB SPL). The phons scale aligns with dB, not with loudness, so the sone and phon scales are not proportional. Rather, the loudness in sones is, at least very nearly, a power law function of the signal intensity, with an exponent of 0.3. With this exponent, each 10 phon increase (or 10 dB at 1 kHz) produces almost exactly a doubling of the loudness in sones."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "meme_id": "meme_01519",
+  "queries": [
+    "\"experience\" \"yes\" \"speak\" \"tell\"",
+    "\"speak\" \"tell\" \"issue\" \"theone\""
+  ],
+  "primary_terms": [
+    "experience",
+    "yes",
+    "speak",
+    "tell",
+    "issue",
+    "theone",
+    "guy",
+    "whoasked",
+    "thesameissuesivears",
+    "ago"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Tell#0000",
+      "doc_id": "wikipedia:Tell",
+      "title": "Tell",
+      "url": "https://en.wikipedia.org/?curid=4638647",
+      "source_type": "wikipedia",
+      "score": 0.7424238681793213,
+      "text": "Tell may refer to: Tell (archaeology), a type of archaeological site Tell (name), a name used as a given name and a surname Tell (poker), a subconscious behavior that can betray information to an observant opponent Arts, entertainment, and media Tell (2012 film), a short psychological horror film by Ryan Connolly Tell (2014 film), a crime thriller starring Katee Sackhoff, Jason Lee and Milo Ventimiglia Tell Magazine, a Nigerian newsweekly \"The Tell\", an episode of NCIS \"The Tell\" (Teen Wolf), a television episode The Tell, a photomural, part of the Laguna Canyon Project Places Middle East Tel Aviv, Israel Et-Tell, an archaeological site identified with Bethsaida Tell, West Bank, a Palestinian village near Nablus Ancient Tell, Beirut, Lebanon; the Canaanite pre-Phoenician era of Beirut and archaeological site United States Tell, Texas, unincorporated community in the United States Tell, Wisconsin, town in the United States Tell City, Indiana, township in the United States Tell"
+    },
+    {
+      "chunk_id": "wikipedia:Silence#0001",
+      "doc_id": "wikipedia:Silence",
+      "title": "Silence",
+      "url": "https://en.wikipedia.org/?curid=440579",
+      "source_type": "wikipedia",
+      "score": 0.6451646149158478,
+      "text": "disciplines, people maintain silence for protracted periods, or even for the rest of their lives, as an ascetic means of spiritual transformation. Perception In the philosophy of perception and the science of perception, there has been a longstanding controversy as to how humans experience silence: \"the perceptual view (we literally hear silence), and..."
+    },
+    {
+      "chunk_id": "wikipedia:Hear, hear#0000",
+      "doc_id": "wikipedia:Hear, hear",
+      "title": "Hear, hear",
+      "url": "https://en.wikipedia.org/?curid=2182621",
+      "source_type": "wikipedia",
+      "score": 0.5215170741081238,
+      "text": "Hear, hear is an expression which represents a listener's agreement with the point being made by a speaker or in response to a toast. Origins The phrase hear him, hear him! was used in Parliament from late in the 17th century, and was reduced to hear! or hear, hear! by the late 18th century. The verb hear had earlier been used in the King James Bible as a command for others to listen. Other phrases have been derived from hear, hear, such as a hear, hear (a cheer), to hear-hear (to shout the expression), and hear-hearer (a person who does the same). Usage It was originally an imperative for directing attention to speakers, and has since been used, according to the Oxford English Dictionary, as \"the regular form of cheering in the House of Commons\", with many purposes, depending on the intonation of its user. Its use in Parliament is linked to the fact that applause is normally (though not always) forbidden in the chambers of the House of Commons and House of Lords."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0001",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.5077630281448364,
+      "text": "Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture and politics People Múte Bourup Egede (born 1987), Prime Minister of Greenland Shō Gen (1528–1572), king of the Ryukyu Kingdom called Gen the mute Pârvu Mutu (1657–1735),..."
+    },
+    {
+      "chunk_id": "wikipedia:User experience#0001",
+      "doc_id": "wikipedia:User experience",
+      "title": "User experience",
+      "url": "https://en.wikipedia.org/?curid=1462876",
+      "source_type": "wikipedia",
+      "score": 0.5062156081199646,
+      "text": "Norman Group, 'user experience' includes all the aspects of the interaction between the end-user with the company, its services, and its products. The international standard on ergonomics of human-system interaction, ISO 9241, defines user experience as a \"user's perceptions and responses that result from the use and/or anticipated use of a system, product or service\". According to the ISO definition, user experience includes all the users' emotions, beliefs, preferences, perceptions, physical and psychological..."
+    },
+    {
+      "chunk_id": "wikipedia:Prophet#0000",
+      "doc_id": "wikipedia:Prophet",
+      "title": "Prophet",
+      "url": "https://en.wikipedia.org/?curid=24805",
+      "source_type": "wikipedia",
+      "score": 0.4883196473121643,
+      "text": "In religion, a prophet or prophetess is an individual who is regarded as being in contact with a divine being and is said to speak on behalf of that being, serving as an intermediary with humanity by delivering messages or teachings from the supernatural source to other people. The message that the prophet conveys is called a prophecy. Prophethood has existed in many cultures and religions throughout history, including Mesopotamian religion, Zoroastrianism, Judaism, Christianity, Manichaeism, Islam, the Baháʼí Faith, and Thelema. Etymology The English word prophet is the transliteration of a compound Greek word derived from pro (before/toward) and phesein (to tell); thus, a προφήτης (prophḗtēs) is someone who conveys messages from the divine to humans, including occasionally foretelling future events. In a different interpretation, it means advocate or speaker. It is used to translate the Hebrew word נָבִיא (nāvî) in the Septuagint and the Arabic word نبي (nabī). W.F."
+    },
+    {
+      "chunk_id": "wikipedia:Toddler#0001",
+      "doc_id": "wikipedia:Toddler",
+      "title": "Toddler",
+      "url": "https://en.wikipedia.org/?curid=193502",
+      "source_type": "wikipedia",
+      "score": 0.4866422563791275,
+      "text": "to hear and receive information and listen (interpret), and the ability to understand and learn language and use it to communicate effectively. Social: the ability to interact with the world through playing with others, taking turns and fantasy play. Although it is useful to chart defined periods of development, development exists on a continuum, with considerable differences between individual children. There..."
+    },
+    {
+      "chunk_id": "wikipedia:Mute#0000",
+      "doc_id": "wikipedia:Mute",
+      "title": "Mute",
+      "url": "https://en.wikipedia.org/?curid=346205",
+      "source_type": "wikipedia",
+      "score": 0.47159830331802366,
+      "text": "Muteness is a speech disorder in which a person lacks the ability to speak. Mute, Mutes or the Mute may also refer to: Arts and entertainment Film and television Mute (2005 film), a short film by Melissa Joan Hart Mute (2018 film), a science-fiction thriller directed by Duncan Jones \"Mute\" (The Twilight Zone), a 1963 episode of The Twilight Zone Muted (TV series), a 2023 Spanish Netflix series Mutes, anthropomorphic animals in the American animated television series Kipo and the Age of Wonderbeasts Music Mute (music), a device used to alter the sound of a musical instrument Left-hand muting or palm mute, guitar muting techniques Mute Records, a record label in the United Kingdom Mute (album), a 2000 indie rock compilation album from Hush Records Muted (album), a 2003 album from hip hop artist Alias In print Mute (novel), a 1981 novel by Piers Anthony \"Mute\" (short story), by Stephen King Mute, a character in Tom Clancy's Rainbow Six Siege Mute (magazine), an online magazine of culture"
+    },
+    {
+      "chunk_id": "wikipedia:User experience#0000",
+      "doc_id": "wikipedia:User experience",
+      "title": "User experience",
+      "url": "https://en.wikipedia.org/?curid=1462876",
+      "source_type": "wikipedia",
+      "score": 0.44942340850830076,
+      "text": "User experience (UX) is how a user interacts with and experiences a product, system, or service. It includes a person's perceptions of utility, ease of use, and efficiency. Improving user experience is important to most companies, designers, and creators when creating and refining products because negative user experience can diminish the use of the product and, therefore, any desired positive impacts. Conversely, designing toward profitability as a main objective often conflicts with ethical user experience objectives and even causes harm. User experience is subjective. However, the attributes that make up the user experience are objective. Definitions According to Nielsen Norman Group, 'user experience' includes all the aspects of the interaction between the end-user with the company, its services, and its products."
+    },
+    {
+      "chunk_id": "wikipedia:Hear, hear#0001",
+      "doc_id": "wikipedia:Hear, hear",
+      "title": "Hear, hear",
+      "url": "https://en.wikipedia.org/?curid=2182621",
+      "source_type": "wikipedia",
+      "score": 0.42320287227630615,
+      "text": "Parliament is linked to the fact that applause is normally (though not always) forbidden in the chambers of the House of Commons and House of Lords. It is also used in other parliaments established in the Westminster tradition, such as Australia and Canada. See also The dictionary definition of hear, hear at Wiktionary References"
+    }
+  ]
+}

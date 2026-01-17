@@ -1,0 +1,204 @@
+{
+  "meme_id": "meme_00775",
+  "queries": [
+    "\"the triangle\" \"the gun\" \"played\" \"triangle\"",
+    "\"played\" \"triangle\" \"band\" \"instrument\""
+  ],
+  "primary_terms": [
+    "the triangle",
+    "played",
+    "triangle",
+    "What instrument",
+    "the gun",
+    "band",
+    "instrument",
+    "play",
+    "gun",
+    "laird",
+    "lae",
+    "yore",
+    "vet"
+  ],
+  "evidence": [
+    {
+      "chunk_id": "wikipedia:Arms#0000",
+      "doc_id": "wikipedia:Arms",
+      "title": "Arms",
+      "url": "https://en.wikipedia.org/?curid=9843028",
+      "source_type": "wikipedia",
+      "score": 0.7245636701583862,
+      "text": "Arms or ARMS may also refer to: Arm or arms, the upper limbs of the body People Adonis Arms (born 1998), American basketball player Ida A. T. Arms (1856–1931), American missionary-educator, temperance leader Coat of arms or weapons Armaments or weapons Firearm Coat of arms In this sense, \"arms\" is a common element in pub names Enterprises Amherst Regional Middle School Arms Corporation, originally named Dandelion, a defunct Japanese animation studio who operated from 1996 to 2020 TRIN (finance) or Arms Index, a short-term stock trading index Australian Relief & Mercy Services, a part of Youth With A Mission Arts and entertainment ARMS (band), an American indie rock band formed in 2004 Arms (album), a 2016 album by Bell X1 \"Arms\" (song), a 2011 song by Christina Perri from the album lovestrong Arms (video game), a 2017 fighting video game for the Nintendo Switch ARMS Charity Concerts, a series of charitable rock concerts in support of Action into Research for Multiple Sclerosis in 1983"
+    },
+    {
+      "chunk_id": "wikipedia:Different Times, Different Places#0000",
+      "doc_id": "wikipedia:Different Times, Different Places",
+      "title": "Different Times, Different Places",
+      "url": "https://en.wikipedia.org/?curid=74440146",
+      "source_type": "wikipedia",
+      "score": 0.7201295852661133,
+      "text": "Different Times, Different Places, Volumes 1 and 2, is a pair of archival recordings by South African double bassist and composer Harry Miller. Volume 1 was recorded during 1973 and 1976, and features Miller along with saxophonist Mike Osborne, trumpeter Mark Charig, trombonists Nick Evans and Malcolm Griffiths, pianists Chris McGregor and Keith Tippett, and drummer Louis Moholo-Moholo. Volume 2 was recorded during 1977, 1978, and 1982, and features Miller with saxophonists Alan Wakeman and Trevor Watts, trumpeter Dave Holdsworth, trombonist Alan Tomlinson, guitarist Bernie Holland, pianist Keith Tippett, and drummer Louis Moholo-Moholo. Volume 1 was released by Ogun Records in 2013, while Volume 2 was released by Ogun in 2016. Both volumes showcase Miller's compositions. Reception Mike Hobart of the Financial Times noted the \"pulsating riffs, moments of calm..."
+    },
+    {
+      "chunk_id": "wikipedia:Music#0000",
+      "doc_id": "wikipedia:Music",
+      "title": "Music",
+      "url": "https://en.wikipedia.org/?curid=18839",
+      "source_type": "wikipedia",
+      "score": 0.6561002612113953,
+      "text": "Music is the arrangement of sound to create some combination of form, harmony, melody, rhythm, or otherwise expressive content. Music is generally agreed to be a cultural universal that is present in all human societies. Definitions of music vary widely in substance and approach. While scholars agree that music is defined by a small number of specific elements, there is no consensus as to what these necessary elements are. Music is often characterized as a highly versatile medium for expressing human creativity. Diverse activities are involved in the creation of music, and are often divided into categories of composition, improvisation, and performance. Music may be performed using a wide variety of musical instruments, including the human voice. It can also be composed, sequenced, or otherwise produced to be indirectly played mechanically or electronically, such as via a music box, barrel organ, or digital audio workstation software on a computer."
+    },
+    {
+      "chunk_id": "wikipedia:Game#0000",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.6442761540412902,
+      "text": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work (such as professional players of spectator sports or video games) or art (such as games involving an artistic layout such as mahjong, solitaire, or some video games). There are many types of games; popular formats include board games, video games, online games, and card games. Games can be played in a variety of circumstances, and some can be played even without any materials or company. Games can be played either for enjoyment or for competition; they can be played alone or in teams; they can be played offline or online. In a notable, competitive setting, players may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports."
+    },
+    {
+      "chunk_id": "wikipedia:Play#0000",
+      "doc_id": "wikipedia:Play",
+      "title": "Play",
+      "url": "https://en.wikipedia.org/?curid=923188",
+      "source_type": "wikipedia",
+      "score": 0.6396657288074493,
+      "text": "Play most commonly refers to: Play (activity), an activity done for enjoyment Play (theatre), a work of drama Play may refer also to: Computers and technology Google Play, a digital content service Play Framework, a Java framework Play Mobile, a Polish internet provider Xperia Play, an Android phone Rakuten.co.uk (formerly Play.com), an online retailer Backlash (engineering), or play, non-reversible part of movement Petroleum play, oil fields with same geological circumstances Play symbol, in media control devices Play (hacker group), a ransomware extortion group Film Play (2005 film), Chilean film directed by Alicia Scherson Play, a 2009 short film directed by David Kaplan Play (2011 film), a Swedish film directed by Ruben Östlund Play!, a Japanese film directed by Tomoyuki Furumaya Rush (2012 film), an Indian film earlier titled Play and also known as Raftaar 24 x 7 The Play (film), a 2013 Indian Bengali-language film Aattam or The Play, a 2024 Indian Malayalam-language film Games"
+    },
+    {
+      "chunk_id": "wikipedia:Drama#0000",
+      "doc_id": "wikipedia:Drama",
+      "title": "Drama",
+      "url": "https://en.wikipedia.org/?curid=20913753",
+      "source_type": "wikipedia",
+      "score": 0.6109721571207046,
+      "text": "Drama is the specific mode of fiction represented in performance: a play, opera, mime, ballet, etc., performed in a theatre, or on radio or television. Considered as a genre of poetry in general, the dramatic mode has been contrasted with the epic and the lyrical modes ever since Aristotle's Poetics (c. 335 BC)—the earliest work of dramatic theory. The term \"drama\" comes from a Greek word meaning \"deed\" or \"act\" (δρᾶμα, drâma), which is derived from \"I do\" (δράω, dráō). The two masks associated with drama represent the traditional generic division between comedy and tragedy. In English (as was the analogous case in many other European languages), the word play or game (translating the Anglo-Saxon pleġan or Latin ludus) was the standard term for dramas until William Shakespeare's time—just as its creator was a play-maker rather than a dramatist and the building was a play-house rather than a theatre."
+    },
+    {
+      "chunk_id": "wikipedia:Drawing#0001",
+      "doc_id": "wikipedia:Drawing",
+      "title": "Drawing",
+      "url": "https://en.wikipedia.org/?curid=8544",
+      "source_type": "wikipedia",
+      "score": 0.5787445366382599,
+      "text": "and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating ideas. The wide availability of drawing instruments makes drawing one of the most common artistic activities. In addition to its more artistic forms, drawing is frequently used in commercial illustration, animation, architecture,..."
+    },
+    {
+      "chunk_id": "wikipedia:Game#0001",
+      "doc_id": "wikipedia:Game",
+      "title": "Game",
+      "url": "https://en.wikipedia.org/?curid=18723138",
+      "source_type": "wikipedia",
+      "score": 0.5770253002643585,
+      "text": "may have an audience to watch them play. Examples of games that generally draw audiences are chess championships, e-sports, and professional sports. All games must have a challenge and a structure; barring certain exceptions like sandbox games, all games also have an objective. Multiplayer games also include interaction between two or more players. Not all forms of play are considered games; toys and puzzles, for instance, are not games, as they do not have a..."
+    },
+    {
+      "chunk_id": "wikipedia:Music#0001",
+      "doc_id": "wikipedia:Music",
+      "title": "Music",
+      "url": "https://en.wikipedia.org/?curid=18839",
+      "source_type": "wikipedia",
+      "score": 0.5566882014274597,
+      "text": "to be indirectly played mechanically or electronically, such as via a music box, barrel organ, or digital audio workstation software on a computer. Music often plays a key role in social events and religious ceremonies. The techniques of making music are often transmitted as part of a cultural tradition. Music is played in public and private contexts, highlighted at events such as festivals..."
+    },
+    {
+      "chunk_id": "wikipedia:Crossover#0001",
+      "doc_id": "wikipedia:Crossover",
+      "title": "Crossover",
+      "url": "https://en.wikipedia.org/?curid=722614",
+      "source_type": "wikipedia",
+      "score": 0.5266067385673523,
+      "text": "or settings in a single story Intercompany crossover, of characters owned by different companies Crossover music, in multiple genres Crossover (theater), a walkway across the stage hidden from the audience Crossover thrash, a musical genre combining thrash and punk Crossover (video games) The Crossover..."
+    }
+  ],
+  "stage_a": {
+    "per_source": {
+      "img_captions": {
+        "text": "A band sits around bored while a man fired a rifle with a lot of smoke.",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "smoke"
+        ]
+      },
+      "meme_captions": {
+        "text": "Meme poster shows the comic man in the band",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the comic man",
+          "the band"
+        ]
+      },
+      "title": {
+        "text": "I played the triangle...",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "the triangle",
+          "played",
+          "triangle"
+        ]
+      },
+      "text": {
+        "text": "So You're in a band? What instrument do you play? Me? | play the gun. ae ‘a Laird . y2 Lae my ~ Dy Ae ‘ 6 -“\\ the f te re) yore) - ~ oN vet Vy ve 7",
+        "signals": {
+          "handles": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "chunks": [
+          "What instrument",
+          "the gun",
+          "band",
+          "instrument",
+          "play",
+          "gun",
+          "laird",
+          "lae",
+          "yore",
+          "vet"
+        ]
+      }
+    },
+    "signals": {
+      "handles": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "primary_terms": [
+      "the triangle",
+      "played",
+      "triangle",
+      "What instrument",
+      "the gun",
+      "band",
+      "instrument",
+      "play",
+      "gun",
+      "laird",
+      "lae",
+      "yore",
+      "vet"
+    ],
+    "secondary_terms": [
+      "smoke",
+      "the comic man",
+      "the band"
+    ],
+    "queries": [
+      "\"the triangle\" \"the gun\" \"played\" \"triangle\"",
+      "\"played\" \"triangle\" \"band\" \"instrument\""
+    ]
+  },
+  "source_jsonl_id": null
+}
